@@ -12,12 +12,11 @@
     {%- include head.html -%}
 
 </head>
-
-<body>
+<header>
     {% include navbar.html %}
-    {% include text.html %}
-    {% include browse.html %}
+</header>
+<body>
+    {% include vizbrowse.html %}
     {{ content }}
-
 </body>
 </html>

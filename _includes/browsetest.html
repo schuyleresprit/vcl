@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Browse the VCL Data</h2>
+<script>
+var data = $.getJSON('data/publications.json')
+  $(function makeIndex(data) {
+
+        function build(data) {
+           $.each(data.CatsAndFruit, function(i, f) {
+              var tblRow = "<ul class='filter'"+ f.Type + " " + f.Eyes + " " + f.Ears + " " +
+              f.Tail + "'>" + "<li>" + "<img src=./img/" + f.Number
+              + ">" + "</li>" + "</ul>"
+              $(tblRow).appendTo("#userdata div");
+         });
+        }
+
+  $(document).ready(function makeFilter(build){
+    var targets = $('.filter'),
+    buttons = $('.filter-button');
+    buttons.click(function(){
+        var value = $(this).data('filter');
+        if(value == "all")
+        {
+            buttons.removeClass('checked');
+            targets.show();
+        }
+        else
+        {
+            if($(this).hasClass('checked'))
+            {
+                $(this).removeClass('checked');
+                var checkedClasses = buttons.filter('.checked').toArray().map(function(btn){return $(btn).data('filter');});
+                if(checkedClasses.length == 0)
+                {
+                    buttons.removeClass('checked');
+                    targets.show();
+                }
+                else
+                {
+                    checkedClasses = $.grep(checkedClasses, function(n, i){ return n != value }),
+                    selector = '.' + checkedClasses.join('.'),
+                    show = targets.filter(selector);
+                    targets.not(show).hide();
+                    show.show();
+                }
+            }
+            else
+            {
+                $(this).addClass('checked');
+                var checkedClasses = buttons.filter('.checked').toArray().map(function(btn){return $(btn).data('filter');}),
+                selector = '.' + checkedClasses.join('.'),
+                show = targets.filter(selector);
+                targets.not(show).hide();
+                show.show();
+
+        }
+    }
+    });
+});
+});
+</script>
+</body>
+</html>

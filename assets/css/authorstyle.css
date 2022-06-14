@@ -50,7 +50,6 @@ body {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   perspective: 1000;
-  background: linear-gradient(90deg, #216b4d 0%, #dae5df 100%);
 }
 .content {
   position: relative;
@@ -59,6 +58,8 @@ body {
   text-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
   z-index: 99;
   -webkit-backface-visibility: hidden;
+  background: linear-gradient(90deg, #216b4d 0%, #dae5df 100%);
+
 }
 .content h1 {
   margin: 35px auto 0 auto;
