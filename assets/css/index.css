@@ -1,0 +1,38 @@
+html,
+body {
+	background:#f3f3f3;
+	width:100%;
+	height:100%;
+	color:#666;
+	font-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
+	margin:0;
+	padding:0;
+}
+.vh-50{
+    min-height: 50vh!important;
+}
+.vh-75{
+    min-height: 75vh!important;
+}
+.navbar {
+	color:white;
+	font-size:16px;
+	letter-spacing:1px;
+	cursor:default;
+}
+.navbar-brand {
+	color:#f3f3f3;
+	font-size:16px;
+	letter-spacing:1px;
+	cursor:default;
+}
+footer {
+  padding: 4rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #cdcdcd;
+  border-top: .05rem solid #bfbfbf;
+}
+footer p:last-child {
+  margin-bottom: 0;
+}

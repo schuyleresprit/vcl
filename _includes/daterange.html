@@ -1,0 +1,74 @@
+
+<daterange class="nav-bar">
+    <head>
+    	<meta charset="UTF-8">
+    	<link rel='icon' type= image/create-icon href='assets/create_square.png' />
+    	<!-- stylesheets -->
+    	<link rel='stylesheet' type='text/css' href='assets/css/style.css' />
+    	<link rel='stylesheet' type='text/css' href='assets/css/d3.slider.css' />
+
+    	<!-- local -->
+    	<script type='text/javascript' src='assets/js/libs/d3.v3.min.js'></script>
+    	<script type='text/javascript' src='assets/js/libs/topojson.js'></script>
+    	<script type='text/javascript' src='assets/js/libs/d3.slider.js'></script>
+    	<script type='text/javascript' src='assets/js/libs/d3-collection.v1.min.js'></script>
+    </head>
+    <h3>Select Range</h3>
+    <script type="text/javascript">
+    window.addEventListener('DOMContentLoaded', function() {
+        (function($) {
+            var ITSB = new Trajectories(
+                {
+                    baseid: "itsbvis-flight",
+                    datasource: "htmlrest",
+                    ui: new drupalTrajectoriesUI(),
+                    slider: 'horizontal'
+                }
+            );
+        })(jQuery);
+    });
+</script>
+<div class="date-selector">
+          <div class="indicator">
+              <span class="date-start">1800</span> – <span class="date-end">2022</span>
+          </div>
+          <div class="slider d3-slider d3-slider-horizontal">
+              <a class="d3-slider-handle" xlink:href="#" id="handle-one" style="left: 0%;"></a>
+              <a class="d3-slider-handle" id="handle-two" xlink:href="#" style="left: 100%;"></a>
+              <div class="d3-slider-range" style="left: 0%; right: 0%;"></div>
+              <svg class="d3-slider-axis d3-slider-axis-bottom" width="318" height="0" style="margin-left: 0px;">
+                  <g transform="translate(0,0)"><g class="tick" transform="translate(74.92220581700377,0)" style="opacity: 1;">
+                      <line y2="20" x2="0"></line>
+                      <text dy=".71em" y="32" x="0" style="text-anchor: middle;">1750</text>
+                  </g>
+                  <g class="tick" transform="translate(158.16808818680926,0)" style="opacity: 1;">
+                      <line y2="20" x2="0"></line>
+                      <text dy=".71em" y="32" x="0" style="text-anchor: middle;">1800</text>
+                  </g>
+                  <g class="tick" transform="translate(241.41397055661471,0)" style="opacity: 1;">
+                      <line y2="20" x2="0"></line><text dy=".71em" y="32" x="0" style="text-anchor: middle;">1850</text>
+                  </g>
+                  <path class="domain" d="M0,20V0H318V20"></path>
+              </g>
+          </svg>
+      </div>
+      </div>
+    <div class="d3-slider-range" style="left: 0%; right: 0%;">
+    <svg class="d3-slider-axis d3-slider-axis-bottom" width="318" height="0" style="margin-left: 0px;">
+        <g transform="translate(0,0)"><g class="tick" transform="translate(74.92220581700377,0)" style="opacity: 1;">
+            <line y2="20" x2="0"></line>
+            <text dy=".71em" y="32" x="0" style="text-anchor: middle;">1750</text>
+        </g>
+        <g class="tick" transform="translate(158.16808818680926,0)" style="opacity: 1;">
+            <line y2="20" x2="0"></line>
+            <text dy=".71em" y="32" x="0" style="text-anchor: middle;">1800</text>
+        </g>
+            <g class="tick" transform="translate(241.41397055661471,0)" style="opacity: 1;">
+                <line y2="20" x2="0"></line>
+                <text dy=".71em" y="32" x="0" style="text-anchor: middle;">1850</text>
+            </g>
+            <path class="domain" d="M0,20V0H318V20"></path>
+        </g>
+    </svg>
+    </div>
+</daterange>

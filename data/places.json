@@ -1,0 +1,77 @@
+{
+    "Barcelona, Spain": {
+        "Lat": 41.38879,
+        "Long": 2.15899,
+        "Pub_id": "barcelona"
+    },
+    "Brooklyn, NY, United States": {
+        "Lat": 40.6501,
+        "Long": -73.94958,
+        "Pub_id": "brooklyn_ny_united_states"
+    },
+    "Charlottesville, VA, United States": {
+        "Lat": 38.02931,
+        "Long": -78.47668,
+        "Pub_id": "charlottesville_va_united_states"
+    },
+    "Kingston, Jamaica": {
+        "Lat": 17.99702,
+        "Long": -76.79358,
+        "Pub_id": "kingston_jamaica"
+    },
+    "La Roque-d'Anthéron, France": {
+        "Lat": 43.71544,
+        "Long": 5.30973,
+        "Pub_id": "la_roque_d'anthéron_france"
+    },
+    "London, England": {
+        "Lat": 51.50853,
+        "Long": -0.12574,
+        "Pub_id": "london__england"
+    },
+    "London, United Kingdom": {
+        "Lat": 51.50853,
+        "Long": -0.12574,
+        "Pub_id": "united_kingdom"
+    },
+    "North Devon, England": {
+        "Lat": 51.08022,
+        "Long": -4.05808,
+        "Pub_id": "north_devon_england"
+    },
+    "Oxford, England": {
+        "Lat": 51.75222,
+        "Long": -1.25596,
+        "Pub_id": "oxford_england"
+    },
+    "Port of Spain, Trinidad": {
+        "Lat": 10.6856,
+        "Long": -61.5275,
+        "Pub_id": "port_of_spain_trinidad"
+    },
+    "Port-au-Prince, Haiti": {
+        "Lat": 18.54349,
+        "Long": -72.33881,
+        "Pub_id": "port_au_prince_haiti"
+    },
+    "Praha, Czech Republic": {
+        "Lat": 50.08804,
+        "Long": 14.42076,
+        "Pub_id": "praha_czech_republic"
+    },
+    "Trafalgar, Dominica": {
+        "Lat": 15.32728,
+        "Long": -61.3456,
+        "Pub_id": "trafalgar_dominica"
+    },
+    "Washington, United States": {
+        "Lat": 38.89511,
+        "Long": -77.03637,
+        "Pub_id": "washington_united_states"
+    },
+    "Woodstock, NY, United States": {
+        "Lat": 42.04092,
+        "Long": -74.1182,
+        "Pub_id": "woodstock_ny_united_states"
+    }
+}

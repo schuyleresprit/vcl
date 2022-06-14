@@ -1,0 +1,22 @@
+{
+    "dominica": {
+        "Lat": 15.5,
+        "Long": -61.33333,
+        "author_country": "dominica"
+    },
+    "haiti": {
+        "Lat": 19.07582,
+        "Long": -72.29616,
+        "author_country": "haiti"
+    },
+    "trinidad_&_tobago": {
+        "Lat": null,
+        "Long": null,
+        "author_country": "trinidad_&_tobago"
+    },
+    "united_states": {
+        "Lat": 40.58629,
+        "Long": -76.28807,
+        "author_country": "united_states"
+    }
+}
