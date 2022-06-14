@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "George Lamming"
-permalink: /lamming
+title: "Jamaica Kincaid"
+permalink: /kincaid
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>George Lamming</h1>
+    <h1>Jamaica Kincaid</h1>
     <div class="quote">
-        <div><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" class="logo"></div>
+        <div><img src="https://www.caribbeannationalweekly.com/wp-content/uploads/2016/05/jamaica-kincaid.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -41,6 +41,7 @@ permalink: /lamming
                 <p>Lorem ipsum...</p>
             </div>
         </div>
+
         <div class="block">
             <div class="date left"><p class="left">1933</p></div>
             <div class="dot"></div>
@@ -90,7 +91,6 @@ permalink: /lamming
                 <p>Lorem ipsum...</p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
