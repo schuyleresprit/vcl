@@ -19,7 +19,6 @@ permalink: /brodber
             <p> Erna Brodber is from Jamaica.</p>
                 <a href="https://en.wikipedia.org/wiki/Erna_Brodber" target="_blank">Read more</a>
             </div>
-        </div>
         <div class="block">
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
