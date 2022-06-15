@@ -5,6 +5,7 @@ permalink: /authors
 ---
 
 Browser List and search box here...
+<<<<<<< HEAD
 <br/>
 [Alejo Carpenter](/carpenter) <br/>
 [Aimé Césaire](/cesaire) <br/>
@@ -19,6 +20,18 @@ Browser List and search box here...
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
 >>>>>>> ab6c418ae154de16d2e6dca1a2788621d05a0053
+=======
+[Alejo Carpenter](/carpenter)
+[Aimé Césaire](/cesaire)
+[Jamaica Kincaid](/kincaid)
+[George Lamming](/lamming)
+[Claude McKay](/mcKay)
+[Jacques Roumain](/roumain)
+[Jan J Dominique](/dominique)
+[Jean Bernabé](/bernabe)
+
+
+>>>>>>> 77cdd9ed17138dc2e99462fc606b2b60a14025ef
 
 
 I want this page to have a search and browse feature and once selected to look something like [this](http://mapping-marronage.rll.lsa.umich.edu/flight).
