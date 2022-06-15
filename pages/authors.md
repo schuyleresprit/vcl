@@ -24,6 +24,7 @@ Browser List and search box here...
 [Jean Casimir](/casimir)<br/>
 [Jean Rhys](/rhys)<br/>
 [Julia Alvarez](/alvarez)<br/>
+[Karen Lord](/lord)<br/>
 >>>>>>> ab6c418ae154de16d2e6dca1a2788621d05a0053
 =======
 [Alejo Carpenter](/carpenter)
