@@ -8,23 +8,33 @@ body {
 	margin:0;
 	padding:0;
 }
+
 .vh-50{
     min-height: 50vh!important;
 }
 .vh-75{
     min-height: 75vh!important;
 }
-.navbar {
-	color:white;
-	font-size:16px;
-	letter-spacing:1px;
-	cursor:default;
+
+.navbar-0 {
+	z-index:0;
+	background:rgba(255,255,255,0.9);
+	background-color: #216b4d;
+	position:relative;
+	width:100%;
+	height:auto;
+	top:0;
+	left:0;
+	box-shadow:0 0 1px 1px rgba(0,0,0,0.25);
 }
-.navbar-brand {
-	color:#f3f3f3;
-	font-size:16px;
-	letter-spacing:1px;
-	cursor:default;
+.col-sm-3 {
+	height:100%;
+	width:auto;
+	left:10px;
+	top:0;
+	background-color: #cdcdcd;
+	border-right:2px solid grey;
+	box-sizing:border-box;
 }
 footer {
   padding: 4rem 0;
