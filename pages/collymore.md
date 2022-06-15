@@ -7,7 +7,7 @@ permalink: /collymore
 <div class="content">
     <h1>Frank A. Collymore</h1>
     <div class="quote">
-        <div><img src="https://en.wikipedia.org/wiki/Frank_Collymore" class="logo"></div>
+        <div><img src="https://aaregistry.org/wp-content/uploads/2012/02/Frank-Collymore.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -17,7 +17,7 @@ permalink: /collymore
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p> Frank A. Collymore is from Barbados.</p>
-                <a href="https://en.wikipedia.org/wiki/Alejo_Carpentier" target="_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/Frank_Collymore" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
