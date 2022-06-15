@@ -1,25 +1,24 @@
 ---
 layout: defaultau
-title: "Jean Bernabé"
-permalink: /bernabe
+title: " Erna Brodber"
+permalink: /brodber
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Jean Bernabé</h1>
+    <h1>Erna Brodber</h1>
     <div class="quote">
-        <div><img src="https://alchetron.com/cdn/jean-bernab-63315feb-ddea-4ac2-84eb-f85b13d8175-resize-750.jpeg" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Erna_Brodber.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 19?? - 2022 </p></div>
+            <div class="date right"><p class="right"> B. 1940 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Jean Bernabé is from Martinique.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+            <p> Erna Brodber is from Jamaica.</p>
+                <a href="https://en.wikipedia.org/wiki/Erna_Brodber" target="_blank">Read more</a>
             </div>
-        </div>
         <div class="block">
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
@@ -27,7 +26,7 @@ permalink: /bernabe
                 <h1>In the Castle of my Skin</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Lorem ipsum....
+                Lorem ipsum...
                 </p>
             </div>
         </div>
