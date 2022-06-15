@@ -7,7 +7,7 @@ permalink: /salkey
 <div class="content">
     <h1> Reinaldo Arenas</h1>
     <div class="quote">
-        <div><img src="https://aalbc.com/author-photos/Andrew-Salkey.jpg" class="logo"></div>
+        <div><img src="https://ichef.bbci.co.uk/images/ic/1200x675/p09mtk9t.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
