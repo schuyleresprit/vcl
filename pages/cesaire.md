@@ -7,7 +7,7 @@ permalink: /césaire
 <div class="content">
     <h1>Aimé Césaire</h1>
     <div class="quote">
-        <div><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" class="logo"></div>
+        <div><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
