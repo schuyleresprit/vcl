@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "George Lamming"
-permalink: /lamming
+title: "Claude McKay"
+permalink: /mcKay
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>George Lamming</h1>
+    <h1>Claude McKay</h1>
     <div class="quote">
-        <div><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" class="logo"></div>
+        <div><img src="https://jamaicans.com/wp-content/uploads/Claude-McKay.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -16,7 +16,7 @@ permalink: /lamming
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>George Lamming is from Barbados.</p>
+            <p>Claude McKay is from Jamaica.</p>
                 <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
             </div>
         </div>
@@ -35,7 +35,7 @@ permalink: /lamming
         <div class="block">
             <div class="date right"><p class="right">1921</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="left">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -44,7 +44,7 @@ permalink: /lamming
         <div class="block">
             <div class="date left"><p class="left">1933</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -54,7 +54,7 @@ permalink: /lamming
         <div class="block">
             <div class="date right"><p class="right">1939</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="left">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -64,7 +64,7 @@ permalink: /lamming
         <div class="block">
             <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -74,7 +74,7 @@ permalink: /lamming
         <div class="block">
             <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="left">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -84,7 +84,7 @@ permalink: /lamming
         <div class="block">
             <div class="date left"><p class="left">17 April 1955</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
