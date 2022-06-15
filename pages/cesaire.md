@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Aimé Césaire"
-permalink: /césaire
+permalink: /cesaire
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
