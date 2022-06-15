@@ -19,6 +19,9 @@ Browser List and search box here...
 [Myriam J.A Chancy](/chancy)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
+[Jean Bernabé](/bernabe)<br/>
+[Jean Casimir](/casimir)<br/>
+[Jean Rhys](/rhys)<br/>
 >>>>>>> ab6c418ae154de16d2e6dca1a2788621d05a0053
 =======
 [Alejo Carpenter](/carpenter)
