@@ -27,7 +27,7 @@ permalink: /bernabé
                 <h1>In the Castle of my Skin</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Lorem ipsum....
                 </p>
             </div>
         </div>
