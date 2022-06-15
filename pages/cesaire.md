@@ -17,7 +17,7 @@ permalink: /césaire
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p> Aimé Césaire is from Martinique.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
