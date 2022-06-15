@@ -7,7 +7,7 @@ permalink: /brodber
 <div class="content">
     <h1>Erna Brodber</h1>
     <div class="quote">
-        <div><img src="https://cdn.aaihs.org/2016/10/000185-large.jpg" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Erna_Brodber.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
