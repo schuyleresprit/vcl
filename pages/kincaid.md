@@ -35,7 +35,7 @@ permalink: /kincaid
         <div class="block">
             <div class="date right"><p class="right">1921</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -45,7 +45,7 @@ permalink: /kincaid
         <div class="block">
             <div class="date left"><p class="left">1933</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -55,7 +55,7 @@ permalink: /kincaid
         <div class="block">
             <div class="date right"><p class="right">1939</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -65,7 +65,7 @@ permalink: /kincaid
         <div class="block">
             <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -75,7 +75,7 @@ permalink: /kincaid
         <div class="block">
             <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -85,7 +85,7 @@ permalink: /kincaid
         <div class="block">
             <div class="date left"><p class="left">17 April 1955</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>

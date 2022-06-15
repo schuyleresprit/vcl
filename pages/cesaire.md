@@ -1,23 +1,23 @@
 ---
 layout: defaultau
 title: "Aimé Césaire"
-permalink: /césaire
+permalink: /cesaire
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
     <h1>Aimé Césaire</h1>
     <div class="quote">
-        <div><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" class="logo"></div>
+        <div><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 19?? - 2022 </p></div>
+            <div class="date right"><p class="right"> 1913 - 2008 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p> Aimé Césaire is from Martinique.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
