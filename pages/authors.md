@@ -14,7 +14,7 @@ Browser List and search box here...
 [George Lamming](/lamming) <br/>
 [Jacques Roumain](/roumain) <br/>
 [Jamaica Kincaid](/kincaid) <br/>
-
+[Jose Martí](/marti)<br/>
 >>>>>>> ab6c418ae154de16d2e6dca1a2788621d05a0053
 
 
