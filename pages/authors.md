@@ -12,7 +12,7 @@ Browser List and search box here...
 [Claude McKay](/mcKay)
 [Jacques Roumain](/roumain)
 [Jan J Dominique](/dominique)
-[Jean Bernabé](/bernabe)
+
 
 
 
