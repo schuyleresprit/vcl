@@ -7,8 +7,9 @@ permalink: /authors
 Browser List and search box here...
 <<<<<<< HEAD
 <br/>
-[Alejo Carpenter](/carpenter) <br/>
 [Aimé Césaire](/cesaire) <br/>
+[Alejo Carpenter](/carpenter) <br/>
+[Andrew Salkey](/salkey)<br/>
 [Claude McKay](/mcKay) <br/>
 [Erna Brodber](/brodber) <br/>
 [Frank A. Collymore](/collymore) <br/>
