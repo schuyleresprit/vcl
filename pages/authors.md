@@ -15,6 +15,7 @@ Browser List and search box here...
 [Jacques Roumain](/roumain) <br/>
 [Jamaica Kincaid](/kincaid) <br/>
 [Jose Martí](/marti)<br/>
+[Myriam J.A Chancy](/chancy)<br/>
 >>>>>>> ab6c418ae154de16d2e6dca1a2788621d05a0053
 
 
