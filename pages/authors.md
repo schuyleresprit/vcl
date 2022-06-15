@@ -5,6 +5,8 @@ permalink: /authors
 ---
 
 Browser List and search box here...
+[Alejo Carpenter](/carpenter)
+[Aimé Césaire](/cesaire)
 [Jamaica Kincaid](/kincaid)
 [George Lamming](/lamming)
 [Claude McKay](/mcKay)
