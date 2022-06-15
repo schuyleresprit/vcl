@@ -15,15 +15,24 @@ Browser List and search box here...
 [Frank A. Collymore](/collymore) <br/>
 [George Lamming](/lamming) <br/>
 [Jacques Roumain](/roumain) <br/>
-[Jan J Dominique](/dominique)
 [Jamaica Kincaid](/kincaid) <br/>
-[Jean Bernabé](/bernabe)
 [Jose Martí](/marti)<br/>
 [Myriam J.A Chancy](/chancy)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
-[Reinaldo Arenas](/arenas)<br/>
-
+[Jean Bernabé](/bernabe)<br/>
+[Jean Casimir](/casimir)<br/>
+[Jean Rhys](/rhys)<br/>
+>>>>>>> ab6c418ae154de16d2e6dca1a2788621d05a0053
+=======
+[Alejo Carpenter](/carpenter)
+[Aimé Césaire](/cesaire)
+[Jamaica Kincaid](/kincaid)
+[George Lamming](/lamming)
+[Claude McKay](/mcKay)
+[Jacques Roumain](/roumain)
+[Jan J Dominique](/dominique)
+[Jean Bernabé](/bernabe)
 
 
 >>>>>>> 77cdd9ed17138dc2e99462fc606b2b60a14025ef
