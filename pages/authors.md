@@ -27,6 +27,7 @@ Browser List and search box here...
 [Oonya Kempadoo](//kempadoo)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
+[Paule Marshall](/marshall)<br/>
 [Jean Bernabé](/bernabe)<br/>
 [Jean Casimir](/casimir)<br/>
 [Jean Rhys](/rhys)<br/>
