@@ -23,6 +23,7 @@ Browser List and search box here...
 [Jose Martí](/marti)<br/>
 [Myriam J.A Chancy](/chancy)<br/>
 [Marie Vieux Chauvet](/chauvet)<br/>
+[Nicolás Guillén](/guillen)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
 [Jean Bernabé](/bernabe)<br/>
