@@ -16,7 +16,7 @@ permalink: /marshall
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p> OPaule Marshall is from the United States of America.</p>
+            <p> Paule Marshall is from the United States of America.</p>
                 <a href="https://en.wikipedia.org/wiki/Paule_Marshall" target="_blank">Read more</a>
             </div>
         </div>
