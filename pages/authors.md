@@ -24,6 +24,7 @@ Browser List and search box here...
 [Myriam J.A Chancy](/chancy)<br/>
 [Marie Vieux Chauvet](/chauvet)<br/>
 [Nicolás Guillén](/guillen)<br/>
+[Oonya Kempadoo](//kempadoo)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
 [Jean Bernabé](/bernabe)<br/>
