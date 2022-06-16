@@ -4,7 +4,7 @@
 
 <h2>Browse the VCL Data</h2>
 <script>
-var data = fetch('data/publications.json')
+ var data = $getJson.('data/publications.json')
   $(function makeIndex(data) {
       var mydata = JSON.parse(data)
       alert(mydata)[1].key;
