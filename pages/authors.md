@@ -37,9 +37,12 @@ Browser List and search box here...
 [Olive Senior](/senior)<br/>
 [Oonya Kempadoo](//kempadoo)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
+[Pamela Mordecai](/mordecai)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
 [Paule Marshall](/marshall)<br/>
+[Robert Antoni](/antoni)<br/>
 [Roberto Fernández Retamar](/retamar)</br>
+[Roger Mais](/mais)<br/>
 [Samuel Selvon](/selvon)<br/>
 [Una Marson](/marson)<br/>
 
