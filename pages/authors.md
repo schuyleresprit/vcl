@@ -12,6 +12,7 @@ Browser List and search box here...
 [Aimé Césaire](/cesaire) <br/>
 [Alejo Carpenter](/carpenter) <br/>
 [Andrew Salkey](/salkey)<br/>
+[Austin Clarke](/clarke)<br/>
 [Claude McKay](/mcKay) <br/>
 [Erna Brodber](/brodber) <br/>
 [Frank A. Collymore](/collymore) <br/>
@@ -29,9 +30,11 @@ Browser List and search box here...
 [Lisa Allen-Agostini](/agostini)<br/>
 [Louise Bennett](/bennett)<br/>
 [Jose Martí](/marti)<br/>
+[Michelle Cliff](/cliff)<br/>
 [Myriam J.A Chancy](/chancy)<br/>
 [Marie Vieux Chauvet](/chauvet)<br/>
 [Nicolás Guillén](/guillen)<br/>
+[Olive Senior](/senior)<br/>
 [Oonya Kempadoo](//kempadoo)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
