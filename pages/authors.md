@@ -44,8 +44,11 @@ Browser List and search box here...
 [Roberto Fernández Retamar](/retamar)</br>
 [Roger Mais](/mais)<br/>
 [Samuel Selvon](/selvon)<br/>
+[Simone Schwarz-Bart](/bart)<br/>
 [Una Marson](/marson)<br/>
 [Velma Pollard](/pollard)<br/>
+[V.S. Naipaul](/naipaul)<br/>
+[Walter Adolphe Roberts](/roberts)<br/>
 [Wilson Harris](/harris)<br/>
 
 
