@@ -7,6 +7,7 @@ permalink: /authors
 Browser List and search box here...
 <<<<<<< HEAD
 <br/>
+
 [Aimé Césaire](/cesaire) <br/>
 [Alejo Carpenter](/carpenter) <br/>
 [Andrew Salkey](/salkey)<br/>
@@ -21,6 +22,7 @@ Browser List and search box here...
 [Jean Bernabé](/bernabe) <br/>
 [Jose Martí](/marti)<br/>
 [Myriam J.A Chancy](/chancy)<br/>
+[Marie Vieux Chauvet](/chauvet)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
 [Jean Bernabé](/bernabe)<br/>
