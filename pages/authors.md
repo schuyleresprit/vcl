@@ -40,7 +40,8 @@ Browser List and search box here...
 [Patrick Chamoiseau](/chamoiseau)<br/>
 [Paule Marshall](/marshall)<br/>
 [Roberto Fernández Retamar](/retamar)</br>
-[Samuel Selvon]( /selvon)<br/>
+[Samuel Selvon](/selvon)<br/>
+[Una Marson](/marson)<br/>
 
 
 I want this page to have a search and browse feature and once selected to look something like [this](http://mapping-marronage.rll.lsa.umich.edu/flight).
