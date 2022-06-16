@@ -36,7 +36,7 @@ Browser List and search box here...
 [Opal Palmer Adisa](/adisa)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
 [Paule Marshall](/marshall)<br/>
-[Roberto Fernández Retamar](/retamar)</br>)
+[Roberto Fernández Retamar](/retamar)</br>
 
 
 I want this page to have a search and browse feature and once selected to look something like [this](http://mapping-marronage.rll.lsa.umich.edu/flight).
