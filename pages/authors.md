@@ -14,7 +14,7 @@ Browser List and search box here...
 [Andrew Salkey](/salkey)<br/>
 [Austin Clarke](/clarke)<br/>
 [Claude McKay](/mcKay) <br/>
-[Edward Kamau Brathwaite](/brathwaite)<br/>
+[Dionne Brand](/brand) <br/>
 [Earl Lovelace](/lovelace) <br/>
 [Erna Brodber](/brodber) <br/>
 [Frank A. Collymore](/collymore) <br/>
