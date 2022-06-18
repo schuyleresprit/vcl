@@ -53,6 +53,7 @@ Browser List and search box here...
 [Roger Mais](/mais)<br/>
 [Samuel Selvon](/selvon)<br/>
 [Simone Schwarz-Bart](/bart)<br/>
+[Stewart Brown](/brown)<br/>
 [Una Marson](/marson)<br/>
 [Velma Pollard](/pollard)<br/>
 [V.S. Naipaul](/naipaul)<br/>
