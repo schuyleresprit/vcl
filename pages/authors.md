@@ -37,6 +37,7 @@ Browser List and search box here...
 [Myriam J.A Chancy](/chancy)<br/>
 [Marie Vieux Chauvet](/chauvet)<br/>
 [Nicolás Guillén](/guillen)<br/>
+[Odimumba Kwamdela](/kwamdela)<br/>
 [Olive Senior](/senior)<br/>
 [Oonya Kempadoo](//kempadoo)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
