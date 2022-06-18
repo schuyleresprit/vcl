@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "Merle Collins"
-permalink: /collins
+title: "Stewart Brown"
+permalink: /brown
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Merle Collins</h1>
+    <h1>Stewart Brown</h1>
     <div class="quote">
-        <div><img src="https://english.umd.edu/sites/default/files/styles/small_320px_w/public/2021-02/merle-collins-headshot_0.jpg?itok=3eAHknSv" class="logo"></div>
+        <div><img src="https://www.birmingham.ac.uk/Images/College-ArtsLaw-only/staff/cwas/brown-stuart.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -16,8 +16,8 @@ permalink: /collins
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p> Merle Collins is from Aruba.</p>
-                <a href="https://en.wikipedia.org/wiki/Merle_Collins" target="_blank">Read more</a>
+            <p> Stewart Brown is from London.</p>
+                <a href="https://en.wikipedia.org/wiki/Stewart_Brown" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
