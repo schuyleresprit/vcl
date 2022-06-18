@@ -16,7 +16,7 @@ Browser List and search box here...
 [Claude McKay](/mcKay) <br/>
 [Dionne Brand](/brand) <br/>
 [Earl Lovelace](/lovelace) <br/>
-[Elizabeth Acevedo](/acevado)<br/>
+[Elizabeth Acevedo](/acevedo)<br/>
 [Erna Brodber](/brodber) <br/>
 [Frank A. Collymore](/collymore) <br/>
 [George Lamming](/lamming) <br/>
