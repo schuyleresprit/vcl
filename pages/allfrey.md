@@ -5,7 +5,7 @@ permalink: /allfrey
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1> OPhyllis Shand Allfrey</h1>
+    <h1> Phyllis Shand Allfrey</h1>
     <div class="quote">
         <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQgj7t-tGc_7ex_vnJfh91EC3FZh1uXnvrFAKqd6DKpyBprbYXrMDfw681fa1S85r8YA&usqp=CAU" class="logo"></div>
     </div>
