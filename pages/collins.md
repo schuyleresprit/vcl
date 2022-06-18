@@ -7,7 +7,7 @@ permalink: /collins
 <div class="content">
     <h1>Merle Collins</h1>
     <div class="quote">
-        <div><img src="https://arhu.umd.edu/sites/default/files/2019-10/Merle%20Collins.png" class="logo"></div>
+        <div><img src="https://english.umd.edu/sites/default/files/styles/small_320px_w/public/2021-02/merle-collins-headshot_0.jpg?itok=3eAHknSv" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
