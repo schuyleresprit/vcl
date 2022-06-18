@@ -5,7 +5,7 @@ permalink: /salkey
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1> Reinaldo Arenas</h1>
+    <h1>Andrew Salkey</h1>
     <div class="quote">
         <div><img src="https://ichef.bbci.co.uk/images/ic/1200x675/p09mtk9t.jpg" class="logo"></div>
     </div>
@@ -16,7 +16,7 @@ permalink: /salkey
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p> Andrew Salkey is from Jamaica.</p>
+            <p>Andrew Salkey is from Jamaica.</p>
                 <a href="https://en.wikipedia.org/wiki/Andrew_Salkey" target="_blank">Read more</a>
             </div>
         </div>
