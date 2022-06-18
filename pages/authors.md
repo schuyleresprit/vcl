@@ -16,7 +16,7 @@ Browser List and search box here...
 [Claude McKay](/mcKay) <br/>
 [Dionne Brand](/brand) <br/>
 [Earl Lovelace](/lovelace) <br/>
-[Elizabeth Acevedo](/acevado)<br/>
+[Elizabeth Acevedo](/acevedo)<br/>
 [Erna Brodber](/brodber) <br/>
 [Frank A. Collymore](/collymore) <br/>
 [George Lamming](/lamming) <br/>
@@ -29,6 +29,7 @@ Browser List and search box here...
 [Julia Alvarez](/alvarez)<br/>
 [Karen Lord](/lord)<br/>
 [Kei Miller](/miller)<br/>
+[Lennox Honychurch](/honychurch)<br/>
 [Lawrence Scott](/scott)<br/>
 [Lisa Allen-Agostini](/agostini)<br/>
 [Louise Bennett](/bennett)<br/>
