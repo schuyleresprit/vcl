@@ -16,6 +16,7 @@ Browser List and search box here...
 [Claude McKay](/mcKay) <br/>
 [Dionne Brand](/brand) <br/>
 [Earl Lovelace](/lovelace) <br/>
+[Elizabeth Acevedo](/acevado)<br/>
 [Erna Brodber](/brodber) <br/>
 [Frank A. Collymore](/collymore) <br/>
 [George Lamming](/lamming) <br/>
@@ -43,6 +44,7 @@ Browser List and search box here...
 [Opal Palmer Adisa](/adisa)<br/>
 [Pamela Mordecai](/mordecai)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
+[Phyllis Shand Allfrey](/allfrey)<br/>
 [Paule Marshall](/marshall)<br/>
 [Robert Antoni](/antoni)<br/>
 [Roberto Fernández Retamar](/retamar)<br/>
