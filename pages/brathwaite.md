@@ -1,23 +1,23 @@
 ---
 layout: defaultau
-title: "Earl Lovelace"
-permalink: /lovelace
+title: "Edward Kamau Brathwaite"
+permalink: /brathwaite
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Earl Lovelace</h1>
+    <h1> Edward Kamau Brathwaite</h1>
     <div class="quote">
-        <div><img src="https://aalbc.com/author-photos/Earl_Lovelace.jpg" class="logo"></div>
+        <div><img src="https://rosalienebacchus.files.wordpress.com/2021/02/barbadian-poet-edward-kamau-brathwaite.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 19?? - 2022 </p></div>
+            <div class="date right"><p class="right"> 1930 - 2020 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Earl Lovelace is from Trinidad & Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+            <p> Edward Kamau Brathwaite is from Barbados.</p>
+                <a href="https://en.wikipedia.org/wiki/Kamau_Brathwaite" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -41,7 +41,6 @@ permalink: /lovelace
                 <p>Lorem ipsum...</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1933</p></div>
             <div class="dot"></div>
@@ -91,6 +90,7 @@ permalink: /lovelace
                 <p>Lorem ipsum...</p>
             </div>
         </div>
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
@@ -99,3 +99,4 @@ permalink: /lovelace
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+</body>
