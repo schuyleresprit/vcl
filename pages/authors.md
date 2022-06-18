@@ -43,6 +43,7 @@ Browser List and search box here...
 [Opal Palmer Adisa](/adisa)<br/>
 [Pamela Mordecai](/mordecai)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
+[Phyllis Shand Allfrey](/allfrey)<br/>
 [Paule Marshall](/marshall)<br/>
 [Robert Antoni](/antoni)<br/>
 [Roberto Fernández Retamar](/retamar)<br/>
