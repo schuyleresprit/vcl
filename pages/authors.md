@@ -29,6 +29,7 @@ Browser List and search box here...
 [Julia Alvarez](/alvarez)<br/>
 [Karen Lord](/lord)<br/>
 [Kei Miller](/miller)<br/>
+[Lennox Honychurch](/honychurch)<br/>
 [Lawrence Scott](/scott)<br/>
 [Lisa Allen-Agostini](/agostini)<br/>
 [Louise Bennett](/bennett)<br/>
