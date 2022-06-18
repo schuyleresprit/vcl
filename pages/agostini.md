@@ -7,7 +7,7 @@ permalink: /agostini
 <div class="content">
     <h1>Lisa Allen-Agostini</h1>
     <div class="quote">
-        <div><img src="https://lisaallen-agostini.com/wp-content/uploads/2021/01/LISA-ALLENAGOSTINI-BY-PAULA-OBE-755x1024.jpg" class="logo"></div>
+        <div><img src="https://sta.uwi.edu/crgs/images/CRGS_Issue10_LisaAllenAgostini.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

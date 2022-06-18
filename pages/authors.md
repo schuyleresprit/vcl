@@ -41,7 +41,7 @@ Browser List and search box here...
 [Patrick Chamoiseau](/chamoiseau)<br/>
 [Paule Marshall](/marshall)<br/>
 [Robert Antoni](/antoni)<br/>
-[Roberto Fernández Retamar](/retamar)</br>
+[Roberto Fernández Retamar](/retamar)<br/>
 [Roger Mais](/mais)<br/>
 [Samuel Selvon](/selvon)<br/>
 [Simone Schwarz-Bart](/bart)<br/>

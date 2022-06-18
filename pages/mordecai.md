@@ -5,7 +5,7 @@ permalink: /mordecai
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Pamela Mordecai/h1>
+    <h1>Pamela Mordecai</h1>
     <div class="quote">
         <div><img src="https://static.wikia.nocookie.net/pennyspoetry/images/8/85/PamelaMordecai.jpg" class="logo"></div>
     </div>
