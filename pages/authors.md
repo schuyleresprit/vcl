@@ -30,6 +30,7 @@ Browser List and search box here...
 [Lisa Allen-Agostini](/agostini)<br/>
 [Louise Bennett](/bennett)<br/>
 [Jose Martí](/marti)<br/>
+[Mark McWatt](mcwatt)<br/>
 [Michelle Cliff](/cliff)<br/>
 [Myriam J.A Chancy](/chancy)<br/>
 [Marie Vieux Chauvet](/chauvet)<br/>
