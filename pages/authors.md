@@ -42,7 +42,7 @@ Browser List and search box here...
 [Nicolás Guillén](/guillen)<br/>
 [Odimumba Kwamdela](/kwamdela)<br/>
 [Olive Senior](/senior)<br/>
-[Oonya Kempadoo](//kempadoo)<br/>
+[Oonya Kempadoo](/kempadoo)<br/>
 [Opal Palmer Adisa](/adisa)<br/>
 [Pamela Mordecai](/mordecai)<br/>
 [Patrick Chamoiseau](/chamoiseau)<br/>
