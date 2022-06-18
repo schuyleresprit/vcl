@@ -7,7 +7,7 @@ permalink: /mcKay
 <div class="content">
     <h1>Claude McKay</h1>
     <div class="quote">
-        <div><img src="https://jamaicans.com/wp-content/uploads/Claude-McKay.jpg" class="logo"></div>
+        <div><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
