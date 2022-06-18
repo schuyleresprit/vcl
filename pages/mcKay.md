@@ -7,7 +7,7 @@ permalink: /mcKay
 <div class="content">
     <h1>Claude McKay</h1>
     <div class="quote">
-        <div><img src="https://www.laphamsquarterly.org/sites/default/files/styles/tall_rectangle_custom_user_small_2x/public/images/contributor/claude-mckay.jpg" class="logo"></div>
+        <div><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
