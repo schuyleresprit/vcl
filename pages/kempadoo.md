@@ -7,7 +7,7 @@ permalink: /kempadoo
 <div class="content">
     <h1>Oonya Kempadoo</h1>
     <div class="quote">
-        <div><img src="https://carisealand.org/wp-content/uploads/2015/11/Oonya-photo-by-Malaika-Brooks-Smith-Lowe-2.jpg" class="logo"></div>
+        <div><img src="https://prabook.com/web/show-photo.jpg?id=2582591" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
