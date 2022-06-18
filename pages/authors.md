@@ -15,6 +15,7 @@ Browser List and search box here...
 [Austin Clarke](/clarke)<br/>
 [Claude McKay](/mcKay) <br/>
 [Edward Kamau Brathwaite](/brathwaite)<br/>
+[Earl Lovelace](/lovelace) <br/>
 [Erna Brodber](/brodber) <br/>
 [Frank A. Collymore](/collymore) <br/>
 [George Lamming](/lamming) <br/>
@@ -43,7 +44,7 @@ Browser List and search box here...
 [Patrick Chamoiseau](/chamoiseau)<br/>
 [Paule Marshall](/marshall)<br/>
 [Robert Antoni](/antoni)<br/>
-[Roberto Fernández Retamar](/retamar)</br>
+[Roberto Fernández Retamar](/retamar)<br/>
 [Roger Mais](/mais)<br/>
 [Samuel Selvon](/selvon)<br/>
 [Simone Schwarz-Bart](/bart)<br/>
