@@ -12,7 +12,7 @@ permalink: /naipaul
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 19?? - 2022 </p></div>
+            <div class="date right"><p class="right"> 1932 - 2018 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
