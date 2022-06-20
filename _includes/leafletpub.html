@@ -41,7 +41,7 @@
             $.getJSON("data/publocation.geojson", function (data) {
             var datalayer = L.geoJson(data, {
                 onEachFeature: function (feature, featureLayer) {
-                    featureLayer.bindPopup(feature.properties.pub_location);
+                    featureLayer.bindPopup(feature.properties.Pub_Location);
 
                         },
                 pointToLayer: function (feature, latlng) {
