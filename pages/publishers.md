@@ -1,7 +1,7 @@
 ---
-layout: pagedefault
+layout: defaultpub
 title: "Publishers"
 permalink: /Publishers
 ---
 
-Testing... 
+Testing...
