@@ -21,7 +21,7 @@ permalink: /lord
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>New Worlds, Old Ways: Speculative Tales from the Caribbean</h1><hr>
