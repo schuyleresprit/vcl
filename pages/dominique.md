@@ -17,14 +17,14 @@ permalink: /dominique
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Jan J Dominique is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+                <a href="https://fr.wikipedia.org/wiki/Jan_J._Dominique" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
+                <h1>Évasion</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Lorem ipsum...
@@ -33,29 +33,29 @@ permalink: /dominique
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
+                <h1>Inventer... La Célestine</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
+                <h1>The Echo of Their Voices</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
+                <h1>La Célestine</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
             </div>
