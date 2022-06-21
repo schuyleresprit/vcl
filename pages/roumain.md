@@ -56,7 +56,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Ebony Wood: Bois-D'ébène. Poems</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/412qf-v9uWL._SY373_BO1,204,203,200_.jpg" width="30%"height = "80%" > </p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/412qf-v9uWL._SY373_BO1,204,203,200_.jpg"  width ="30%" height="80%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Interworld Press<br/>
