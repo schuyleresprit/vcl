@@ -21,33 +21,51 @@ permalink: /chauvet
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>La Danse sur le volcan</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41FiAOjKqvL._SX332_BO1,204,203,200_.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: French<br> 
+                Publisher: Zellige<br> 
+                Publisher Location: Paris, France<br> 
+                Genre: Fiction<br> 
+                Length: 400<br>   
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Fille d'Haïtin</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51aXI4bncgL._SX331_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br>
+                Publisher: Editions Grasset et Fasquelle<br>
+                Publisher Location: Paris, France<br>
+                Genre: Fiction<br>
+                Length: 286<br>
+                </p>
             </div>
         </div>
+        
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Fonds des nègres</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-J7FBy2FL._SX323_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br>
+                Publisher: L'Imprimeur S.A<br>
+                Publisher Location: Paris, France<br>
+                Genre: Fiction<br>
+                Length: 160<br>
+
+                </p>
             </div>
         </div>
 
@@ -55,9 +73,16 @@ permalink: /chauvet
             <div class="date right"><p class="right">1939</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Les Rapaces: suivi du dossier Marie Vieux-Chauvet</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51AIqXPlwSL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>
+                Language: French<br>
+                Publisher: Zellige<br>
+                Publisher Location: Paris, France<br>
+                Genre: Fiction <br>
+                Length: 160<br>U
+
+                </p>
             </div>
         </div>
 

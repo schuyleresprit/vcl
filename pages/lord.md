@@ -17,17 +17,21 @@ permalink: /lord
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Karen Lord is from Barbados.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/Karen_Lord" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>New Worlds, Old Ways: Speculative Tales from the Caribbean</h1><hr>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781845233365.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: English <br/>
+                Publisher: Peekash Press<br/>
+                Pub Location: St. Clair, Trinidad & Tobago <br/>
+                Genre: Anthology <br/>
+                Length: 159
                 </p>
             </div>
         </div>
