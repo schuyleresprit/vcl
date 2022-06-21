@@ -43,7 +43,7 @@
                 onEachFeature: function (feature, featureLayer) {
                     featureLayer.bindPopup(feature.properties.Pub_Location);
                 },
-            
+
                 pointToLayer: function (feature, latlng) {
                     return L.circleMarker(latlng, geojsonMarkerOptions);
                         }
