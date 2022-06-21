@@ -13,8 +13,8 @@
   			margin: 0;
   		}
   		.leaflet-container {
-  			height: 600px;
-  			width: 900px;
+  			height: 800px;
+  			width: 100%;
   			max-width: 100%;
   			max-height: 100%;
   		}
@@ -42,16 +42,13 @@
             var datalayer = L.geoJson(data, {
                 onEachFeature: function (feature, featureLayer) {
                     featureLayer.bindPopup(feature.properties.Pub_Location);
-
-                        },
+                },
                 pointToLayer: function (feature, latlng) {
                     return L.circleMarker(latlng, geojsonMarkerOptions);
                         }
                     }).addTo(map);
                     map.fitBounds(datalayer.getBounds());
                 });
-
-            //var marker = L.marker([15.5, -61.35]).addTo(map);
             </script>
         </div>
     </body>
