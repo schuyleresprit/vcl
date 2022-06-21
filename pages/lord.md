@@ -25,7 +25,7 @@ permalink: /lord
             <div class="dot"></div>
             <div class="right">
                 <h1>New Worlds, Old Ways: Speculative Tales from the Caribbean</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781845233365.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Peekash Press<br/>
