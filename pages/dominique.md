@@ -25,7 +25,7 @@ permalink: /dominique
             <div class="dot"></div>
             <div class="right">
                 <h1>Évasion</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Éditions des Antilles <br/>
@@ -41,7 +41,7 @@ permalink: /dominique
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Inventer... La Célestine</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Éditions des Antilles <br/>
@@ -56,7 +56,7 @@ permalink: /dominique
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Célestine</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Remue-ménage<br/>
@@ -73,12 +73,13 @@ permalink: /dominique
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Memoir of an Amnesiac</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French <br/>
-                Publisher: Ian Randle Publishers <br/>
-                Pub Location: Kingston, Jamaica <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 219 <br/>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51s3lirjoWL._SX318_BO1,204,203,200_.jpg"></p>
+                <p>Language: English <br/>
+                Publisher: Caribbean Studies Press <br/>
+                Pub Location: Port-au-Prince, Haiti <br/>
+                Genre: Autobiography/Memoir <br/>
+                Translation: Y <br/>
+                Length: 305 <br/>
                 </p>
             </div>
         </div>
@@ -91,11 +92,11 @@ permalink: /dominique
                 <p><img src=""></p>
                 <p>
                 Language:  <br/>
-                Publisher: Caribbean Studies Press <br/>
-                Pub Location: Port-au-Prince, Haiti <br/>
-                Genre: Autobiography/Memoir <br/>
+                Publisher: Remue-ménage <br/>
+                Pub Location: Montreal, Quebec, Canada <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 305<br/>
+                Length: 265<br/>
                 </p>
             </div>
         </div>
