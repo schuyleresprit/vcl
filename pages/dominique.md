@@ -35,7 +35,7 @@ permalink: /dominique
         <div class="block">
             <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Inventer... La Célestine</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -44,8 +44,19 @@ permalink: /dominique
         <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La Célestine</h1><hr>
+                <p><img src=""></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+
+
+        <div class="block">
+            <div class="date right"><p class="right">2008</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Memoir of an Amnesiac</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
             </div>
@@ -54,42 +65,13 @@ permalink: /dominique
         <div class="block">
             <div class="date right"><p class="right">2016</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>The Echo of Their Voices </h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
             </div>
         </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
+        
 
         <div style="padding-bottom:100px;"></div>
     </div>
