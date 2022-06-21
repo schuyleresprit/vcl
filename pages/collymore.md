@@ -87,7 +87,7 @@ permalink: /collymore
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Notes for a Glossary of Words and Phrases of Barbadian Dialect</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/417v8odawoL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Barbados National Trust <br/>
