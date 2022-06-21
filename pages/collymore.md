@@ -21,81 +21,83 @@ permalink: /collymore
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1959</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Collected Poems</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md31174900630.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: English <br/>
+                Publisher: Advocate Co <br/>
+                Pub_location: Pictou, Canada <br/>
+                Genre: Poetry Collection <br/>
+                Length: 140 <br/>               
+                 </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1970</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Notes for a Glossary of Words and Phrases of Barbadian Dialect</h1><hr>
+                <p><img src="https://d3525k1ryd2155.cloudfront.net/h/254/198/1298198254.0.m.jpg"></p>
+                Language: English <br/>
+                Publisher: Advocate Co <br/>
+                Pub_location: Pictou, Canada <br/>
+                Genre: Nonfiction Book <br/>
+                Length: 127 <br/>                 
+                   </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left hide">1971</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Selected Poems</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md30764299524.jpg"></p>
+                <p>
+                Language: English <br/>
+                Publisher: Coles Printery<br/>
+                Pub_location: Wildey, Barbados <br/>
+                Genre: Poetry Collection <br/>
+                Length: 67 <br/>    
+                 </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right hide">1993</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>The Man Who Loved Attending Funerals and Other Stories</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349001068l/3893645.jpg"></p>
+                <p>
+                Language: English <br/>
+                Publisher: Heinemann <br/>
+                Pub_location: Oxford, England <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 178 <br/>                  
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date left"><p class="left hide">2005</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
+            <div class="right hide">
+                <h1>Notes for a Glossary of Words and Phrases of Barbadian Dialect</h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>
+                Language: English <br/>
+                Publisher: Barbados National Trust <br/>
+                Pub_location: Bridgetown, Barbados <br/>
+                Genre: Nonfiction Book <br/>
+                Length: 120 <br/>   
+                </p>
             </div>
         </div>
 
-        <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
