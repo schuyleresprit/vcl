@@ -21,16 +21,16 @@ permalink: /collins
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Because the Dawn Breaks!</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51yWbzYBoHL._SX363_BO1,204,203,200_.jpg"></p>
+                <h1>Because the Dawn Breaks!</h1><hr><br/>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51yWbzYBoHL._SX363_BO1,204,203,200_.jpg"></p><br/>
                 <p>
-                Language: Englsih 
-                Publisher: Karia Press
-                Publisher Location: London, England 
-                Genre: Poetry Collection
+                Language: Englsih<br/>
+                Publisher: Karia Press<br/>
+                Publisher Location: London, England<br/> 
+                Genre: Poetry Collection<br/>
                 Length: 93
 
                 </p>
@@ -38,59 +38,50 @@ permalink: /collins
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>Angel</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/5119XgTVqOL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Language: Fiction 
-                Publisher: The Women's Press
-                Publisher Location: London, England
-                Genre: Fiction
+                Language: Fiction<br/> 
+                Publisher: The Women's Press<br/>
+                Publisher Location: London, England<br/>
+                Genre: Fiction<br/>
                 Length: 256
 
                 </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Grenada: A Political History: 1950-1979</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English
-                Publisher: University of London Press
-                Publisher Location: London, England
-                Genre: Non Fiction
+                Language: English<br/>
+                Publisher: University of London Press<br/>
+                Publisher Location: London, England<br/>
+                Genre: Non Fiction<br/>
                 Length: 18
 
                 </p>
             </div>
         </div>
 
-        <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>The Ladies are Upstairs</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
 
         <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
+                <h1>The Ladies are Upstairs</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51wXWnoI7vL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: English
-                Publisher: Peepal Tree Press
-                Publisher Location: Leeds, LDN, England
-                Genre: Fiction (Short Stories) 
+                Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Publisher Location: Leeds, LDN, England<br/>
+                Genre: Fiction (Short Stories)<br/>
                 Length: 155
      
                 </p>
