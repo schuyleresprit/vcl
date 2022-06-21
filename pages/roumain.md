@@ -72,7 +72,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La Montagne Ensorceleé</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=E9oJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73VAfOSbCXOK9Z-FMGF_jQyOzZ1eyu6Rdzzl92gdVVD-IT0AglOTegFtvBOBrg8oqjAJPfmZLMDT6RQRF30Or7_OWsRPbvMTbQzrspBcNQnB0n-FjWYo9xFTBk0pO7G6k8RTiV8" height="100%"></p>
+                <p><img src="https://books.google.dm/books/content?id=E9oJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73VAfOSbCXOK9Z-FMGF_jQyOzZ1eyu6Rdzzl92gdVVD-IT0AglOTegFtvBOBrg8oqjAJPfmZLMDT6RQRF30Or7_OWsRPbvMTbQzrspBcNQnB0n-FjWYo9xFTBk0pO7G6k8RTiV8" height="100%" width = "70%"></p>
                 <p>
                 Language: Haitian Creole <br/>
                 Publisher: Messidor<br/>
@@ -88,7 +88,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Complete Narratives Of Francophone Caribbean Tales</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg"  height="30%">
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg"  height="50%" width = "50%">
                 </p>
                 <p>
                 Language: French (With an introduction in English.) <br/>
