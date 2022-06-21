@@ -23,7 +23,7 @@ permalink: /roumain
         <div class="block">
             <div class="date left"><p class="left">1947</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>Masters Of The Dew</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md31069196130.jpg"></p>
                 <p>
@@ -103,7 +103,7 @@ permalink: /roumain
         <div class="block">
             <div class="date right"><p class="right hide">1999</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Gouverneurs De La Rosee</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41iSfJNNUbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -135,7 +135,7 @@ permalink: /roumain
         <div class="block">
             <div class="date left"><p class="right hide">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Masters Of The Dew</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ZHEdwX34L._SX313_BO1,204,203,200_.jpg"></p>
                 <p>
