@@ -1,5 +1,5 @@
 Pamela Mordecai,pmordecai,jamaica,,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
+authorid,Title,Pubdate,Language,Publisher,Pub_city,Country,Pub_id,Genre,Translation,Length,Descriptor
 pmordecai,The New Island Readers,1983,English,HarperCollins,"New York, NY",United States,new_york_ny_united_states,NA,n,127,Co-authors: Zellynne Jennings-Wray
 pmordecai,Story Poems,1987,English,Wright Group,"San Diego, CA",United States,san_diego_ca_united¬†states,Poetry Collection,n,NA,
 pmordecai,Journey Poem,1988,English,Sandberry Press,Kingston,Jamaica,kingston_jamaica,Poetry Collection,n,56,
@@ -7,7 +7,7 @@ pmordecai,From Our Yard: Jamaican Poetry Since Independence,1987,English,Institu
 pmordecai,Another Me,1987,English,Ginn and Company,Aylesbury,England,aylesbury_england,Poem,n,56,Co-authors : Rowan Barnes-Murphy
 pmordecai,Remember,1987,English,Ginn and Company,Aylesbury,England,aylesbury_england,Poem,n,12,Co-authors :  Mike Gordon
 pmordecai,Wave a Wand,1987,English,Ginn and Company,Aylesbury,England,aylesbury_england,Poem,n,NA,Co-authors :  Jan Nesbitt
-pmordecai,Our House,1987,English,Ginn and Company,Aylesbury,England,aylesbury_england,Poem,n,8,Co-authors: Rob Salt 
+pmordecai,Our House,1987,English,Ginn and Company,Aylesbury,England,aylesbury_england,Poem,n,8,Co-authors: Rob Salt
 pmordecai,Jemima,1987,English,Ginn and Company,Aylesbury,England,aylesbury_england,Poem,n,16,Co-authors: Ivan Ripley
 pmordecai,If I Were...,1987,English,Ginn and Company,Aylesbury,England,aylesbury_england,Poem,n,12,Co-authors:  Lesley Smith
 pmordecai,If Wishes Were Horses ...,1987,English,Ginn and Company,Aylesbury,England,aylesbury_england,Poem,n,11,Co-authors: Annabel Spenceley

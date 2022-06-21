@@ -23,10 +23,10 @@ a.navbar-brand {
     min-height: 75vh!important;
 }
 
-.navbar-0 {
+.navbar {
 	z-index:0;
 	background:rgba(255,255,255,0.9);
-	background-color: #216b4d;
+	color: #216b4d;
 	position:relative;
 	width:100%;
 	height:auto;
@@ -34,14 +34,21 @@ a.navbar-brand {
 	left:0;
 	box-shadow:0 0 1px 1px rgba(0,0,0,0.25);
 }
+.nav-link {
+	color: #216b4d;
+}
 .col-sm-3 {
 	/*height:100%;
 	width:auto;
 	left:10px;
-	top:0;*/
-	background-color: #cdcdcd;
+	top:0;
+	background-color: #cdcdcd;*/
 	border-right:2px solid grey;
+	padding-left:50px;
 	/*box-sizing:border-box;*/
+}
+.container {
+	padding-top:0px;
 }
 footer {
   padding: 4rem 0;

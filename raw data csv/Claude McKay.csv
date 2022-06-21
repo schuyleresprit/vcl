@@ -1,5 +1,5 @@
 Claude McKay,cmckay,jamaica,,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
+authorid,Title,Pubdate,Language,Publisher,Pub_city,Country,Pub_id,Genre,Translation,Length,Descriptor
 cmckay,Harlem Shadows,2021,English,Mint Editions,"Berkeley, CA",United States,berkeley_ca_united_states,Poetry Collection,n,112,
 cmckay,Romantica Marsiglia,2020,Italian,Pessime Idee,Rome,Italy,rome_italy,Fiction (Novel),y,166,1995
 cmckay,Fond de banane,1934,French,Les Éditions Rieder,Paris,France,paris_france,Fiction (Novel),y,333,1933
