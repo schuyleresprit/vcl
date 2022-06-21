@@ -25,7 +25,7 @@ permalink: /marti
             <div class="dot"></div>
             <div class="right">
                 <h1>Versos Libres De José Martí</h1><hr>
-                <p><img src="https://cdn11.bigcommerce.com/s-5sppbk3px9/images/stencil/640w/products/7185/65749/$_57__02618.1534968101.JPG"></p>
+                <p><img src="https://cdn11.bigcommerce.com/s-5sppbk3px9/images/stencil/640w/products/7185/65749/$_57__02618.1534968101.JPG" width = "50%" height = "50%"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: La Veronica, imprenta de M. Altolaguirre<br/>
