@@ -1,5 +1,5 @@
 Andrew Salkey,asalkey,jamaica,,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
+authorid,Title,Pubdate,Language,Publisher,Pub_city,Country,Pub_id,Genre,Translation,Length,Descriptor
 asalkey,Orkanen,1970,Danish,Høst,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,123,
 asalkey,Hurricane,1964,English,Oxford University Press,London,England,london_ldn_england,Fiction (Novel),n,138,
 asalkey,Stories From The Caribbean: An Anthology,1972,English,Elek,London,England,london_ldn_england,Anthology,n,257,1965
