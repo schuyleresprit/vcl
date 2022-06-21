@@ -30,7 +30,6 @@ permalink: /brodber
                 Publisher: Ian Randle Publishers <br/>
                 Pub_location: Kingston, Jamaica <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: n <br/>
                 Length: 219 <br/>
                 </p>
             </div>
