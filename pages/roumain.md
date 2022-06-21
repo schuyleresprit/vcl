@@ -56,7 +56,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Ebony Wood: Bois-D'ébène. Poems</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/412qf-v9uWL._SY373_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/412qf-v9uWL._SY373_BO1,204,203,200_.jpg"  width ="30%" height="80%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Interworld Press<br/>
@@ -88,10 +88,10 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Complete Narratives Of Francophone Caribbean Tales</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg">
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg"  height="30%">
                 </p>
                 <p>
-                Language: French (Text in French, with an introduction in English.) <br/>
+                Language: French (With an introduction in English.) <br/>
                 Publisher: E. Mellen Press<br/>
                 Pub_location: Lewiston, ID, United States <br/>
                 Genre: Fiction (Novel)<br/>
@@ -104,8 +104,8 @@ permalink: /roumain
             <div class="date right"><p class="right hide">1999</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Gouverneurs De La Rosee</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41iSfJNNUbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Gouverneurs De La Rosée</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41iSfJNNUbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher:Educa Vision <br/>
@@ -121,7 +121,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Montagne Ensorcelée</h1><hr>
-                <p><img src="https://kbimages1-a.akamaihd.net/6e527d49-7f67-45c9-8e7c-6d1866a465ed/353/569/90/False/la-montagne-ensorcelee-1.jpg"></p>
+                <p><img src="https://kbimages1-a.akamaihd.net/6e527d49-7f67-45c9-8e7c-6d1866a465ed/353/569/90/False/la-montagne-ensorcelee-1.jpg" width="30%" height="80%"></p>
                 <p>
                 Language: French <br/>
                 Publisher:Éditions de la dodine <br/>
@@ -133,7 +133,7 @@ permalink: /roumain
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">2017</p></div>
+            <div class="date right"><p class="right hide">2017</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Masters Of The Dew</h1><hr>
@@ -148,7 +148,7 @@ permalink: /roumain
                 </p>
             </div>
         </div>
+        </div>
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-</body>
