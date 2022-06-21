@@ -21,65 +21,88 @@ permalink: /allfrey
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1953</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>The Orchid House</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/3/36/TheOrchidHouse.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: English<br>
+                Publisher: Virago Press<br>
+                Publisher Location: London, England<br>
+                Genre: Fiction<br>
+                Length: 234<br>
                 </p>
             </div>
         </div>
-
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>The Orchid House</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9780860682424-us.jpg"></p>
+                <p>
+                Language: English<br>
+                Publisher: Virago Press<br>
+                Publisher Location: London, England<br>
+                Genre: Fiction<br>
+                Length: 234<br>
+                </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>The Orchid House</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349298851l/2702223.jpg"></p>
+                <p>Language: English<br>
+                Publisher: Three Continents<br>
+                Publisher Location: Washington, United States<br>
+                Genre: Fiction<br>
+                Length: 234<br></p>
             </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+        </div><div class="block">
+            <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Dum Mezi Orchidejemi</h1><hr>
+                <p><img src="https://www.databazeknih.cz/img/books/41_/41454/dum-mezi-orchidejemi-41454.jpg"></p>
+                <p>Language: Czech<br>
+                Publisher: Svoboda<br>
+                Publisher Location: Praha, Czech Republic<br>
+                Genre: Fiction<br>
+                Length: 179<br></p>
             </div>
         </div>
-
         <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>It Falls Into Place</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51u-iZ7DwEL.jpg"></p>
+                <p>Language: English<br>
+                Publisher: Papillote Press<br>
+                Publisher Location: Trafalgar, Dominica<br>
+                Genre: Poetry Collection<br>
+                Length: 144<br></p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Love For An Island: The Collected Poems Of Phyllis Shand Allfrey</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51KDQgjH42L._AC_SY780_.jpg"></p>
+                <p>Language: English<br>
+                Publisher: Papillote Press<br>
+                Publisher Location: Trafalgar, Dominica<br>
+                Genre: Poetry Collection<br>
+                Length: 104<br></p>
             </div>
         </div>
 
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
+        
 
         <div class="block">
             <div class="date left"><p class="left">17 April 1955</p></div>
