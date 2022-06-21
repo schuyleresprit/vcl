@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: "Alejo Carpenter"
+title: "Alejo Carpentier"
 permalink: /carpenter
 ---
 <!-- partial:index.partial.html -->
@@ -21,41 +21,56 @@ permalink: /carpenter
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1946</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>La Musica en Cuba</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41sVg0ngcML._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
-                Lorem ipsum...
-                </p>
+                Language: Spanish <br/>
+                Publisher: Fondo de Cultura Economica. <br/>
+                Pub_location: Mexico City, Mexico <br/>
+                Genre: Nonfiction Book <br/>
+                Length: 282 <br/>                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">1956</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>The Lost Steps</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=PuleAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7032M9KkxsfJVmN-8SGk7eBL6qS-yurZ94QM8D-OUQD7rsBkcrpogCXMM7FAqAp8AO8-2Fl61HY7sbWRszDK-Ksgc3F6-XU8s2OGUoog_AfwUo66AIk7vOvW_haZukZtROKPrpR"></p>
+                <p>
+                Language: English <br/>
+                Publisher: Alfred A. Knopf <br/>
+                Pub_location: New York, NY, United States <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: y
+                Length: 278 <br/>                   </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left hide">1957</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+            <div class="right hide">
+                <h1>The Kingdom of This World</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/c/c5/The_Kingdom_of_this_World_Eng_1st_Ed.jpg"></p>
+                <p>
+                Language: English <br/>
+                Publisher: Alfred A. Knopf <br/>
+                Pub_location: New York, NY, United States <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: y
+                Length: 150 <br/>                  </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date right"><p class="right hide">1958</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
+                <h1>Chasse à L'Homme</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
             </div>
