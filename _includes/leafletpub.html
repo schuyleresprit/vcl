@@ -42,15 +42,22 @@
             var datalayer = L.geoJson(data, {
                 onEachFeature: function (feature, featureLayer) {
                     featureLayer.bindPopup(feature.properties.Pub_Location);
-
-                        },
+                },
+            
                 pointToLayer: function (feature, latlng) {
                     return L.circleMarker(latlng, geojsonMarkerOptions);
                         }
                     }).addTo(map);
                     map.fitBounds(datalayer.getBounds());
                 });
+            var popup = L.popup();
 
+            function onMapClick(data) {
+            popup
+                .setLatLng(e.latlng)
+                .setContent(e.latlng.toString() + '<a href="http://www.google.com">Visit Google</a>"')
+                .openOn(map);
+            }
             //var marker = L.marker([15.5, -61.35]).addTo(map);
             </script>
         </div>
