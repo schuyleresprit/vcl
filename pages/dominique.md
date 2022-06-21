@@ -25,9 +25,13 @@ permalink: /dominique
             <div class="dot"></div>
             <div class="right">
                 <h1>Évasion</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: French <br/>
+                Publisher: Éditions des Antilles <br/>
+                Pub Location: Port-au-Prince, Haiti <br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 153<br/>
                 </p>
             </div>
         </div>
@@ -35,59 +39,66 @@ permalink: /dominique
         <div class="block">
             <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Inventer... La Célestine</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg"></p>
+                <p>
+                Language: French <br/>
+                Publisher: Éditions des Antilles <br/>
+                Pub Location: Port-au-Prince, Haiti <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 385<br/>
+                </p>
             </div>
         </div>
         <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La Célestine</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg"></p>
+                <p>
+                Language: French <br/>
+                Publisher: Remue-ménage<br/>
+                Pub Location: Montreal, Quebec, Canada <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 318 <br/>
+                </p>
             </div>
         </div>
 
+
         <div class="block">
-            <div class="date right"><p class="right">2016</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>The Echo of Their Voices </h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+            <div class="left hide">
+                <h1>Memoir of an Amnesiac</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51s3lirjoWL._SX318_BO1,204,203,200_.jpg"></p>
+                <p>Language: English <br/>
+                Publisher: Caribbean Studies Press <br/>
+                Pub Location: Port-au-Prince, Haiti <br/>
+                Genre: Autobiography/Memoir <br/>
+                Translation: Y <br/>
+                Length: 305 <br/>
+                </p>
             </div>
         </div>
 
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
 
         <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+            <div class="right hide">
+                <h1>The Echo of Their Voices</h1><hr>
+                <p><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg"></p>
+                <p>
+                Language:  <br/>
+                Publisher: Remue-ménage<br/>
+                Pub Location: Montreal, Quebec, Canada <br/>
+                Genre: Fiction (Novel) <br/>
+                Transaltion: Y <br/>
+                Length: 265 <br/>
+                </p>
             </div>
         </div>
 
