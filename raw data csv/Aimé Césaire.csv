@@ -1,5 +1,5 @@
  Aimé Césaire,acésaire,martinique,,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
+authorid,Title,Pubdate,Language,Publisher,Pub_city,Country,Pub_id,Genre,Translation,Length,Descriptor
 acésaire,"Moi, Laminaire",1982,French,Éditions du Seuil,Paris,France,paris_france,Poetry Collection,n,94,
 acésaire,Collected Poetry,1983,French,University of California Press,"Oakland, CA",United States,oakland_ca_united¬†states,Poetry Collection,n,432,
 acésaire,Une Tempête,1997,French,Éditions du Seuil,Paris,France,paris_france,Drama,n,91,
