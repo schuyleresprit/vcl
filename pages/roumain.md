@@ -56,7 +56,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Ebony Wood: Bois-D'ébène. Poems</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/412qf-v9uWL._SY373_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/412qf-v9uWL._SY373_BO1,204,203,200_.jpg" width="80%"> </p>
                 <p>
                 Language: French <br/>
                 Publisher: Interworld Press<br/>
@@ -72,7 +72,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La Montagne Ensorceleé</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=E9oJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73VAfOSbCXOK9Z-FMGF_jQyOzZ1eyu6Rdzzl92gdVVD-IT0AglOTegFtvBOBrg8oqjAJPfmZLMDT6RQRF30Or7_OWsRPbvMTbQzrspBcNQnB0n-FjWYo9xFTBk0pO7G6k8RTiV8"></p>
+                <p><img src="https://books.google.dm/books/content?id=E9oJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73VAfOSbCXOK9Z-FMGF_jQyOzZ1eyu6Rdzzl92gdVVD-IT0AglOTegFtvBOBrg8oqjAJPfmZLMDT6RQRF30Or7_OWsRPbvMTbQzrspBcNQnB0n-FjWYo9xFTBk0pO7G6k8RTiV8" height="100%" width = "70%"></p>
                 <p>
                 Language: Haitian Creole <br/>
                 Publisher: Messidor<br/>
@@ -88,10 +88,10 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Complete Narratives Of Francophone Caribbean Tales</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg">
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg"  height="50%" width = "50%">
                 </p>
                 <p>
-                Language: French (Text in French, with an introduction in English.) <br/>
+                Language: French (With an introduction in English.) <br/>
                 Publisher: E. Mellen Press<br/>
                 Pub_location: Lewiston, ID, United States <br/>
                 Genre: Fiction (Novel)<br/>
@@ -104,8 +104,8 @@ permalink: /roumain
             <div class="date right"><p class="right hide">1999</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Gouverneurs De La Rosee</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41iSfJNNUbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Gouverneurs De La Rosée</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41iSfJNNUbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher:Educa Vision <br/>
@@ -152,4 +152,3 @@ permalink: /roumain
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-</body>
