@@ -461,7 +461,7 @@ permalink: /cesaire
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Tempest</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/5157G1fyQHL.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Theatre Communications Group <br/>
@@ -492,7 +492,7 @@ permalink: /cesaire
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Journal of a Homecoming</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51C5YdTWdHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Duke University Press Books <br/>
