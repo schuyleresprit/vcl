@@ -72,7 +72,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La Montagne Ensorceleé</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=E9oJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73VAfOSbCXOK9Z-FMGF_jQyOzZ1eyu6Rdzzl92gdVVD-IT0AglOTegFtvBOBrg8oqjAJPfmZLMDT6RQRF30Or7_OWsRPbvMTbQzrspBcNQnB0n-FjWYo9xFTBk0pO7G6k8RTiV8"></p>
+                <p><img src="https://books.google.dm/books/content?id=E9oJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73VAfOSbCXOK9Z-FMGF_jQyOzZ1eyu6Rdzzl92gdVVD-IT0AglOTegFtvBOBrg8oqjAJPfmZLMDT6RQRF30Or7_OWsRPbvMTbQzrspBcNQnB0n-FjWYo9xFTBk0pO7G6k8RTiV8" height="100%"></p>
                 <p>
                 Language: Haitian Creole <br/>
                 Publisher: Messidor<br/>
@@ -121,7 +121,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Montagne Ensorcelée</h1><hr>
-                <p><img src="https://kbimages1-a.akamaihd.net/6e527d49-7f67-45c9-8e7c-6d1866a465ed/353/569/90/False/la-montagne-ensorcelee-1.jpg" width="30%" height="80%"></p>
+                <p><img src="https://kbimages1-a.akamaihd.net/6e527d49-7f67-45c9-8e7c-6d1866a465ed/353/569/90/False/la-montagne-ensorcelee-1.jpg"></p>
                 <p>
                 Language: French <br/>
                 Publisher:Éditions de la dodine <br/>
