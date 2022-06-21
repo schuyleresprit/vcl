@@ -88,7 +88,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Complete Narratives Of Francophone Caribbean Tales</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg"  height="30%">
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg"  height="50%" width = "50%">
                 </p>
                 <p>
                 Language: French (With an introduction in English.) <br/>
