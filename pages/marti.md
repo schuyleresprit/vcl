@@ -21,73 +21,34 @@ permalink: /marti
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1939</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Versos Libres De José Martí</h1><hr>
+                <p><img src="https://cdn11.bigcommerce.com/s-5sppbk3px9/images/stencil/640w/products/7185/65749/$_57__02618.1534968101.JPG"></p>
                 <p>
-                Lorem ipsum...
+                Language: Spanish <br/>
+                Publisher: La Veronica, imprenta de M. Altolaguirre<br/>
+                Pub Location: Havana, Cuba <br/>
+                Genre: Poetry Collection <br/>
+                Length: 211
                 </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
             </div>
         </div>
 
         <div class="block">
             <div class="date right"><p class="right">1939</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+            <div class="left hide">
+                <h1>Versos Sencillos</h1><hr>
+                <p><img src="https://cdn11.bigcommerce.com/s-5sppbk3px9/images/stencil/640w/products/7288/66777/VersosSencillosdeJoseMarti_1__15783.1536873776.JPG"></p>
+                <p>
+                Language: Spanish <br/>
+                Publisher: Publicaciones de la Secretaría de Educación<br/>
+                Pub Location: Havana, Cuba <br/>
+                Genre: Poetry Collection <br/>
+                Length: 78
+                </p>
             </div>
         </div>
 
