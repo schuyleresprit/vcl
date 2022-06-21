@@ -449,7 +449,7 @@ permalink: /lamming
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2016</p></div>
+            <div class="date left"><p class="left hide">2016</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1> Water With Berries </h1><hr>
