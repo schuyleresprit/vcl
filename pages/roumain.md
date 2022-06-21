@@ -133,7 +133,7 @@ permalink: /roumain
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">2017</p></div>
+            <div class="date right"><p class="right hide">2017</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Masters Of The Dew</h1><hr>
@@ -147,6 +147,7 @@ permalink: /roumain
                 Length: 170 <br/>  
                 </p>
             </div>
+        </div>
         </div>
 </div>
 <!-- partial -->
