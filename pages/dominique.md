@@ -42,20 +42,20 @@ permalink: /dominique
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2016</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>The Echo of Their Voices</h1><hr>
+                <h1>La Célestine</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">2007</p></div>
+            <div class="date right"><p class="right">2016</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>La Célestine</h1><hr>
+                <h1>The Echo of Their Voices </h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
             </div>
