@@ -17,7 +17,7 @@ permalink: /casimir
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Jean Casimir is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+                <a href="" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">

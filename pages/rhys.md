@@ -27,7 +27,12 @@ permalink: /rhys
                 <h1>In the Castle of my Skin</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: English <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419 
                 </p>
             </div>
         </div>
