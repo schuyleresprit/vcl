@@ -90,7 +90,7 @@ permalink: /dominique
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Echo of Their Voices</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg"></p>
                 <p>
                 Language:  <br/>
                 Publisher: Remue-ménage<br/>
