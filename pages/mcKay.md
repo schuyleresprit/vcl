@@ -101,7 +101,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">1932</p></div>
+            <div class="date right"><p class="right hide">1932</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Quartier Noir</h1><hr>
@@ -119,7 +119,7 @@ permalink: /mcKay
 
 
         <div class="block">
-            <div class="date right"><p class="left hide">1933</p></div>
+            <div class="date left"><p class="left hide">1933</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
@@ -135,7 +135,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">1934</p></div>
+            <div class="date right"><p class="right hide">1934</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Fond de banane</h1><hr>
@@ -151,7 +151,7 @@ permalink: /mcKay
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left hide">1937</p></div>
+            <div class="date left"><p class="left hide">1937</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Long Way From Home</h1><hr>
@@ -167,7 +167,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">1951</p></div>
+            <div class="date right"><p class="right hide">1951</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Home To Harlem ... Complete And Unabridged</h1><hr>
@@ -182,7 +182,7 @@ permalink: /mcKay
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left hide">1961</p></div>
+            <div class="date left"><p class="left hide">1961</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
@@ -198,7 +198,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">1965</p></div>
+            <div class="date right"><p class="right hide">1965</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Home To Harlem</h1><hr>
@@ -213,7 +213,7 @@ permalink: /mcKay
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left hide">1970</p></div>
+            <div class="date left"><p class="left hide">1970</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
@@ -229,7 +229,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">1973</p></div>
+            <div class="date right"><p class="right hide">1973</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Home To Harlem</h1><hr>
@@ -244,7 +244,7 @@ permalink: /mcKay
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="left hide">1973</p></div>
+            <div class="date left"><p class="left hide">1973</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
@@ -260,9 +260,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">1987</p></div>
+            <div class="date right"><p class="right hide">1987</p></div>
             <div class="dot"></div>
-            <div class="light hide">
+            <div class="left hide">
                 <h1>Home To Harlem</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+854290293_140.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -275,7 +275,7 @@ permalink: /mcKay
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="left hide">2000</p></div>
+            <div class="date left"><p class="left hide">2000</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Home To Harlem</h1><hr>
@@ -291,7 +291,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">2014</p></div>
+            <div class="date right"><p class="right hide">2014</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Home To Harlem</h1><hr>
@@ -306,7 +306,7 @@ permalink: /mcKay
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="left hide">2015</p></div>
+            <div class="date left"><p class="left hide">2015</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Banjo: Une Histoire Sans Intrigue</h1><hr>
@@ -323,7 +323,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">2018</p></div>
+            <div class="date right"><p class="right hide">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Amiable With Big Teeth</h1><hr>
@@ -338,7 +338,7 @@ permalink: /mcKay
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="left hide">2020</p></div>
+            <div class="date left"><p class="left hide">2020</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Romantica Marsiglia</h1><hr>
@@ -355,7 +355,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">2020</p></div>
+            <div class="date right"><p class="right hide">2020</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Romance In Marseille</h1><hr>
@@ -370,7 +370,7 @@ permalink: /mcKay
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="left hide">2021</p></div>
+            <div class="date left"><p class="left hide">2021</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Harlem Shadows</h1><hr>
@@ -386,7 +386,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">2021</p></div>
+            <div class="date right"><p class="right hide">2021</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Songs Of Jamaica</h1><hr>
@@ -401,7 +401,7 @@ permalink: /mcKay
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="left hide">2021</p></div>
+            <div class="date left"><p class="left hide">2021</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Harlem Shadows: Poems</h1><hr>
@@ -417,7 +417,7 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right hide">2022</p></div>
+            <div class="date right"><p class="right hide">2022</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Harlem Shadows: Poems</h1><hr>
@@ -432,7 +432,7 @@ permalink: /mcKay
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="left hide">2022</p></div>
+            <div class="date left"><p class="left hide">2022</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>If We Must Die: The Essential Claude Mckay</h1><hr>
