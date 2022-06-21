@@ -91,7 +91,7 @@ permalink: /roumain
                 <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg"  height="30%">
                 </p>
                 <p>
-                Language: French (Text in French, with an introduction in English.) <br/>
+                Language: French (With an introduction in English.) <br/>
                 Publisher: E. Mellen Press<br/>
                 Pub_location: Lewiston, ID, United States <br/>
                 Genre: Fiction (Novel)<br/>
@@ -121,7 +121,7 @@ permalink: /roumain
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Montagne Ensorcelée</h1><hr>
-                <p><img src="https://kbimages1-a.akamaihd.net/6e527d49-7f67-45c9-8e7c-6d1866a465ed/353/569/90/False/la-montagne-ensorcelee-1.jpg"></p>
+                <p><img src="https://kbimages1-a.akamaihd.net/6e527d49-7f67-45c9-8e7c-6d1866a465ed/353/569/90/False/la-montagne-ensorcelee-1.jpg" width="30%" height="80%"></p>
                 <p>
                 Language: French <br/>
                 Publisher:Éditions de la dodine <br/>
