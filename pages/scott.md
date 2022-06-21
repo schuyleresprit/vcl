@@ -80,7 +80,7 @@ permalink: /scott
                 Publisher: Sabine Wespieser éditeur<br/>
                 Pub Location: Paris, FR, France <br/>
                 Genre: Fiction (Novel)<br/>
-                Translation: Y
+                Translation: Y <br/>
                 Length:  <br/>
                 </p>
             </div>
@@ -155,7 +155,7 @@ permalink: /scott
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Balai de Sorcière</h1><hr>
-                <p><img src="https://www.facphl.uliege.be/upload/docs/image/jpeg/2021-02/pagnoulle_balai-de-sorciere.jpg.associated/th-640x0-pagnoulle_balai-de-sorciere.jpg.jpg"></p>
+                <p><img src="https://www.facphl.uliege.be/upload/docs/image/jpeg/2021-02/pagnoulle_balai-de-sorciere.jpg.associated/th-640x0-pagnoulle_balai-de-sorciere.jpg.jpg" width = "50%" height = "50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Mémoire d’Encrier<br/>
@@ -167,7 +167,7 @@ permalink: /scott
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Dangerous Freedom: Elizabeth D'Aviniere's Story</h1><hr>
