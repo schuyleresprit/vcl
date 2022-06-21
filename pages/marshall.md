@@ -31,65 +31,169 @@ permalink: /marshall
                 </p>
             </div>
         </div>
+        <div class="block">
+            <div class="date right"><p class="right">1983</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Praisesong For the Widow</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51aTOv7Dk9L._SX330_BO1,204,203,200_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2020</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Soul Clap Hands and Sing</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41kYIJHkebL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1984</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>The Chosen Place, the Timeless People</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51skzBhT6hL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1993</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Reena and Other Stories: Including the Novella "Merle"</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51vqma4DfHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2010</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Triangular Road: A Memoir</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51G8yzOAX4L._SX309_BO1,204,203,200_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Triangular Road: A Memoir</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51G8yzOAX4L._SX309_BO1,204,203,200_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2000</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>The Fisher King</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/417miu7u9uL._SX326_BO1,204,203,200_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1992</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Daughters</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1180018596i/986531.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1992</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Daughters</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51OrbpkbcxL._SX332_BO1,204,203,200_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1985</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Merle and Other Stories</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51AehvoDQXL._SX361_BO1,204,203,200_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2016</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Soul Clap Hands and Sing</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41kYIJHkebL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Brown Girl, Brownstones</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51PlfSqy0qL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2019</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Brown Girl, Brownstones</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51tzsEZ4m1L._SX302_BO1,204,203,200_.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1959</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Brown Girl, Brownstones</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479548749i/32750.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1994</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Brown Girl, Brownstones</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479548749i/32750.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2021</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Praisesong For the Widow</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431913852i/220340.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1961</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Soul Clap Hands and Sing</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347575303i/447264.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>   
+        <div class="block">
+            <div class="date left"><p class="left">2011</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Fisher King</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349058871i/447265.jpg"></p>
+                <p>Lorem ipsum...</p>
+            </div>
+        </div>
 
-        <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
 
         <div style="padding-bottom:100px;"></div>
     </div>
