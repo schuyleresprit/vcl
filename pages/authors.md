@@ -10,7 +10,7 @@ Browser List and search box here...
 <br/>
 
 [Aimé Césaire](/cesaire) <br/>
-[Alejo Carpenter](/carpenter) <br/>
+[Alejo Carpentier](/carpenter) <br/>
 [Andrew Salkey](/salkey)<br/>
 [Austin Clarke](/clarke)<br/>
 [Claude McKay](/mcKay) <br/>
