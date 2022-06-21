@@ -41,7 +41,7 @@ permalink: /marti
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Versos Sencillos</h1><hr>
-                <p><img src="https://cdn11.bigcommerce.com/s-5sppbk3px9/images/stencil/640w/products/7288/66777/VersosSencillosdeJoseMarti_1__15783.1536873776.JPG"></p>
+                <p><img src="https://cdn11.bigcommerce.com/s-5sppbk3px9/images/stencil/640w/products/7288/66777/VersosSencillosdeJoseMarti_1__15783.1536873776.JPG" width = "50%" height = "50%"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Publicaciones de la Secretaría de Educación<br/>
