@@ -101,9 +101,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">1932</p></div>
+            <div class="date left"><p class="right hide">1932</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Quartier Noir</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md10953753941.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -119,9 +119,9 @@ permalink: /mcKay
 
 
         <div class="block">
-            <div class="date right"><p class="right hide">1933</p></div>
+            <div class="date right"><p class="left hide">1933</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=v6HPAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70CPuLP7VrQ_7saGHp1BVYoFWfSCclrd49HCd9_4sBf2s_tRdHX0mancsvgc_H90Gy3bRWVbX6eHOa9Khywer0sg1nKsqxpx5KexI7LFDa58PDmHijXX9jA2CAhnd-m55MkPbz0" height="50%" width = "50%"></p>
                 <p>
@@ -135,9 +135,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">1934</p></div>
+            <div class="date left"><p class="right hide">1934</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Fond de banane</h1><hr>
                 <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -151,9 +151,9 @@ permalink: /mcKay
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1937</p></div>
+            <div class="date right"><p class="left hide">1937</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>A Long Way From Home</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=JHYGAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70O7YcfyNIfo0rzbVXUEd5I-8rAHHnq-H41BnUT5rLde6A2pYTadjNA_yTuxE6E-OIXSS9OXb7_iLxuAdOMEifr1Hn5OhW0baP0xQJwGYpceVJXmuNsuZt3UiSFCNjciUGN9RGV" height="50%" width = "50%"></p>
                 <p>
@@ -167,9 +167,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">1951</p></div>
+            <div class="date left"><p class="right hide">1951</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Home To Harlem ... Complete And Unabridged</h1><hr>
                 <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -182,9 +182,9 @@ permalink: /mcKay
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1961</p></div>
+            <div class="date right"><p class="left hide">1961</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
                 <p><img src="https://pictures.abebooks.com/isbn/9780156106504-uk-300.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -198,9 +198,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">1965</p></div>
+            <div class="date left"><p class="right hide">1965</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Home To Harlem</h1><hr>
                 <p><img src="https://d3525k1ryd2155.cloudfront.net/h/901/080/1182080901.0.m.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -213,9 +213,9 @@ permalink: /mcKay
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1970</p></div>
+            <div class="date right"><p class="left hide">1970</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
                 <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -229,9 +229,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">1973</p></div>
+            <div class="date left"><p class="right hide">1973</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Home To Harlem</h1><hr>
                 <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -244,9 +244,9 @@ permalink: /mcKay
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="right hide">1973</p></div>
+            <div class="date right"><p class="left hide">1973</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
                 <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -260,9 +260,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">1987</p></div>
+            <div class="date left"><p class="right hide">1987</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="light hide">
                 <h1>Home To Harlem</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+854290293_140.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -275,9 +275,9 @@ permalink: /mcKay
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="right hide">2000</p></div>
+            <div class="date right"><p class="left hide">2000</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Home To Harlem</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+9729830956_140.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -291,9 +291,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">2014</p></div>
+            <div class="date left"><p class="right hide">2014</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Home To Harlem</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+337682743_140.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -306,9 +306,9 @@ permalink: /mcKay
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="right hide">2015</p></div>
+            <div class="date right"><p class="left hide">2015</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Banjo: Une Histoire Sans Intrigue</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/4149pCDU2CL._SX340_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -323,9 +323,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">2018</p></div>
+            <div class="date left"><p class="right hide">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Amiable With Big Teeth</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+3972118156_140.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -338,9 +338,9 @@ permalink: /mcKay
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="right hide">2020</p></div>
+            <div class="date right"><p class="left hide">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Romantica Marsiglia</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41rBk5d187L.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -355,9 +355,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">2020</p></div>
+            <div class="date left"><p class="right hide">2020</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Romance In Marseille</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTfBhXDIWvwYXNjtE01jMOev3fG8uKgOJZoUqpYEf36-ZmAKZX" height="50%" width = "50%"></p>
                 <p>
@@ -370,9 +370,9 @@ permalink: /mcKay
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="right hide">2021</p></div>
+            <div class="date right"><p class="left hide">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Harlem Shadows</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51X+M4j5gkS._SX346_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -386,9 +386,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">2021</p></div>
+            <div class="date left"><p class="right hide">2021</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Songs Of Jamaica</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+0757858076_140.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -401,9 +401,9 @@ permalink: /mcKay
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="right hide">2021</p></div>
+            <div class="date right"><p class="left hide">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Harlem Shadows: Poems</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71EVJkltqyL.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -417,9 +417,9 @@ permalink: /mcKay
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">2022</p></div>
+            <div class="date left"><p class="right hide">2022</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Harlem Shadows: Poems</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625598077l/57800574.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -432,9 +432,9 @@ permalink: /mcKay
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="right hide">2022</p></div>
+            <div class="date right"><p class="left hide">2022</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>If We Must Die: The Essential Claude Mckay</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/31HMJfoNUGL._SX348_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
