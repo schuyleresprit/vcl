@@ -80,39 +80,7 @@ permalink: /chauvet
                 Publisher: Zellige<br>
                 Publisher Location: Paris, France<br>
                 Genre: Fiction <br>
-                Length: 160<br>U
-
-                </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                Length: 160</p>
             </div>
         </div>
 
