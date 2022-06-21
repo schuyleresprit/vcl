@@ -137,7 +137,6 @@ permalink: /lamming
                 Length: 412 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
@@ -152,6 +151,7 @@ permalink: /lamming
                 Length: 412 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
        <div class="date right"><p class="right hide">1981</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -165,7 +165,6 @@ permalink: /lamming
                 Length: 303 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
@@ -180,6 +179,7 @@ permalink: /lamming
                 Length: 336 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
            <div class="date right"><p class="right hide">1982</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -193,7 +193,6 @@ permalink: /lamming
                 Length: 300 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1983</p></div>
             <div class="dot"></div>
@@ -208,6 +207,7 @@ permalink: /lamming
                 Length: 260 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
             <div class="date right"><p class="right hide">1984</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -221,7 +221,6 @@ permalink: /lamming
                 Length: 260 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
@@ -237,6 +236,7 @@ permalink: /lamming
                 Length: 15 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
          <div class="date right"><p class="right hide">1986</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -250,7 +250,6 @@ permalink: /lamming
                 Length: 295 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
@@ -265,6 +264,7 @@ permalink: /lamming
                 Length: 350 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
              <div class="date right"><p class="right hide">1986</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -278,7 +278,6 @@ permalink: /lamming
                 Length: 31 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
@@ -294,6 +293,7 @@ permalink: /lamming
                 Length: 410 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
                <div class="date right"><p class="right hide">1988</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -308,7 +308,6 @@ permalink: /lamming
                 Length: 518 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
@@ -323,6 +322,7 @@ permalink: /lamming
                 Length: 842 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
                 <div class="date right"><p class="right hide">1990</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -336,7 +336,6 @@ permalink: /lamming
                 Length: 966 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1991</p></div>
             <div class="dot"></div>
@@ -351,6 +350,7 @@ permalink: /lamming
                 Length: 348 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
                 <div class="date right"><p class="right hide">1992</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -364,7 +364,6 @@ permalink: /lamming
                 Length: 264 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
@@ -379,6 +378,7 @@ permalink: /lamming
                 Length: 300 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
                    <div class="date right"><p class="right hide">1999</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -392,7 +392,6 @@ permalink: /lamming
                 Length: 368 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
@@ -407,6 +406,7 @@ permalink: /lamming
                 Length: 103 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
             <div class="date right"><p class="right hide">2005</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -420,7 +420,6 @@ permalink: /lamming
                 Length: 260 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
@@ -435,6 +434,7 @@ permalink: /lamming
                 Length: 82 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
           <div class="date right"><p class="right hide">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -448,7 +448,6 @@ permalink: /lamming
                 Length: 436 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
@@ -463,6 +462,7 @@ permalink: /lamming
                 Length: 276 <br/>                   </p>
             </div>
         </div>
+               <div class="block">
           <div class="date right"><p class="right hide">2017</p></div>
             <div class="dot"></div>
             <div class="left hide">
