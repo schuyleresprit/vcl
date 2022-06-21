@@ -85,9 +85,9 @@ permalink: /dominique
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">2016</p></div>
+            <div class="date right"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Echo of Their Voices </h1><hr>
                 <p><img src=""></p>
                 <p>
