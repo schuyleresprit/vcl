@@ -122,7 +122,7 @@ permalink: /lord
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Hey, Dragonfly</h1><hr>
-                <p><img src="https://cdn.waterstones.com/bookjackets/large/9781/9144/9781914408083.jpg width = "50%" height = "50%"></p>
+                <p><img src="https://cdn.waterstones.com/bookjackets/large/9781/9144/9781914408083.jpg" width = "50%" height = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Biddles Books<br/>
