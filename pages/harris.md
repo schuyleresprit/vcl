@@ -112,9 +112,6 @@ permalink: /harris
 				</p>
             </div>
         </div>
-		
-		
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1966</p></div>
             <div class="dot"></div>
@@ -141,7 +138,6 @@ permalink: /harris
 				Length: 156</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1970</p></div>
             <div class="dot"></div>
@@ -168,8 +164,6 @@ permalink: /harris
 				Length: 96</p>
             </div>
         </div>
-		
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1970</p></div>
             <div class="dot"></div>
@@ -196,7 +190,6 @@ permalink: /harris
 				Length: 104</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1972</p></div>
             <div class="dot"></div>
@@ -223,7 +216,6 @@ permalink: /harris
 				Length: 259</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1973</p></div>
             <div class="dot"></div>
@@ -250,7 +242,6 @@ permalink: /harris
 				Length: 112</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1974</p></div>
             <div class="dot"></div>
@@ -277,8 +268,6 @@ permalink: /harris
 				Length: 83</p>
             </div>
         </div>
-		
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1975</p></div>
             <div class="dot"></div>
@@ -306,7 +295,6 @@ permalink: /harris
 				Length: 148</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1978</p></div>
             <div class="dot"></div>
@@ -333,7 +321,6 @@ permalink: /harris
 				Length: 94</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1979</p></div>
             <div class="dot"></div>
@@ -361,7 +348,6 @@ permalink: /harris
 				Translation: Y</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1981</p></div>
             <div class="dot"></div>
@@ -388,7 +374,6 @@ permalink: /harris
 				</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1983</p></div>
             <div class="dot"></div>
@@ -415,7 +400,6 @@ permalink: /harris
 				Length: 464</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1985</p></div>
             <div class="dot"></div>
@@ -442,7 +426,6 @@ permalink: /harris
 				Length: 88</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1990</p></div>
             <div class="dot"></div>
@@ -469,7 +452,6 @@ permalink: /harris
 				Length: 136</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1993</p></div>
             <div class="dot"></div>
@@ -496,7 +478,6 @@ permalink: /harris
 				Length: 244</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1996</p></div>
             <div class="dot"></div>
@@ -523,7 +504,6 @@ permalink: /harris
 				Length: 292</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">2001</p></div>
             <div class="dot"></div>
@@ -550,7 +530,6 @@ permalink: /harris
 				Length: 172</p>
             </div>
         </div>
-		
 		<div class="block">
             <div class="date left"><p class="left hide">2006</p></div>
             <div class="dot"></div>
