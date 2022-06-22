@@ -45,7 +45,7 @@ permalink: /alvarez
                 <p>
                 Language: English <br/>
                 Publisher: Grove/Atlantic <br/>
-                Pub Location: New York, NY	United States <br/>
+                Pub Location: New York, NY, United States <br/>
                 Genre: Poetry Collection <br/>
                 Length: 120 <br/>
                 </p>
@@ -58,12 +58,11 @@ permalink: /alvarez
                 <h1>How the García Girls Lost Their Accents</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: English <br/> 	
+                Publisher: Plume <br/>
+                Pub Location: New York, NY, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 290 <br/>
                 </p>
             </div>
         </div>
@@ -72,15 +71,14 @@ permalink: /alvarez
             <div class="date right"><p class="right">1994</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>In the Time of the Butterflies</h1><hr>
+                <h1>In the Time of the Butterflies</h1><hr> 	
                 <p><img src=""></p>
                 <p>
                 Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Publisher: Algonquin Books <br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 336 <br/>
                 </p>
             </div>
         </div>
@@ -92,12 +90,11 @@ permalink: /alvarez
                 <h1>Seven Trees </h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Language: English <br/> 	
+                Publisher: Kat Ran Press  <br/>
+                Pub Location: North Andover, MA, United States <br/>
+                Genre: Poetry Collection <br/>
+                Length: 25 <br/>
                 </p>
             </div>
         </div>
@@ -109,12 +106,12 @@ permalink: /alvarez
                 <h1>A Cafecito Story</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: English <br/> 	
+                Publisher: Chelsea Green Publishing Company <br/>
+                Pub Location: Chelsea, VT, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Translation: <br/>
-                Length: 256 <br/>
+                Length: 69 <br/>
                 </p>
             </div>
         </div>
@@ -126,12 +123,12 @@ permalink: /alvarez
                 <h1>In De Tijd Van De Vlinders</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: Dutch <br/> 		
+                Publisher: Poema Pocket <br/>
+                Pub Location: Amsterdam, Netherlands <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Translation: Y <br/>
+                Length: 365 <br/>
                 </p>
             </div>
         </div>
@@ -141,15 +138,15 @@ permalink: /alvarez
             <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>En Busca De Milagros</h1><hr>
+                <h1>En Busca De Milagros</h1><hr> 		
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: Spanish <br/>
+                Publisher: Laurel Leaf <br/>
+                Pub Location: Philippines, Asia <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Translation: N <br/>
+                Length: 224 <br/>
                 </p>
             </div>
         </div>
@@ -161,12 +158,11 @@ permalink: /alvarez
                 <h1>Tía Lola stories</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Language: English <br/> 	
+                Publisher: Yearling <br/>
+                Pub Location: New York, NY, United States <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 134 <br/>
                 </p>
             </div>
         </div>
@@ -179,12 +175,11 @@ permalink: /alvarez
                 <h1>In The Name Of Salome</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: English <br/> 	
+                Publisher: Algonquin Books of Chapel Hill <br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 320 <br/>
                 </p>
             </div>
         </div>
@@ -196,12 +191,11 @@ permalink: /alvarez
                 <h1>How Tia Lola Came To (Visit) Stay</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: English <br/> 	
+                Publisher: Zaner-Bloser <br/>
+                Pub Location: Columbus, OH, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 147 <br/>
                 </p>
             </div>
         </div>
@@ -213,12 +207,11 @@ permalink: /alvarez
                 <h1>Something To Declare: Essays</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Language: English <br/> 	
+                Publisher: Algonquin Of Chapel Hill <br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Anthology <br/>
+                Length: 300 <br/>
                 </p>
             </div>
         </div>
@@ -230,125 +223,106 @@ permalink: /alvarez
                 <h1>Once Upon A Quinceanera: Coming Of Age In The USA</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Language: English <br/> 	
+                Publisher: Plume <br/>
+                Pub Location: New York, NY, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Length: 275 <br/>
                 </p>
             </div>
         </div>
 
+
         <div class="block">
-            <div class="date right"><p class="right">2016</p></div>
+            <div class="date left"><p class="right">2016</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>In The Time Of The Butteflies</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
-                </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">2016</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
                 <h1>En El Tiempo De Las Mariposas: In The Time Of The Butterflies</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: Spanish <br/> 	
+                Publisher: Recorded Books <br/>
+                Pub Location: Prince Frederick, MD, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 304 <br/>
                 </p>
             </div>
         </div>
 
 
         <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date right"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Die Zeit der Schmetterlinge Roman</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: German <br/>
+                Publisher: Piper Edition <br/> 	
+                Pub Location: Munich, Germany <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Translation: Y <br/>
+                Length: 460 <br/>
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date left"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Im Namen Der Salomé Roman</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: German <br/> 		
+                Publisher: Piper Verlag GmbH <br/>
+                Pub Location: Munich, Germany <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Translation: Y <br/>
+                Length: 423 <br/>
                 </p>
             </div>
         </div>
 
 
         <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date right"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Yolanda: Roman</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: German <br/> 		
+                Publisher: Piper Verlag GmbH <br/>
+                Pub Location: Munich, Germany <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Translation: Y <br/>
+                Length: 357 <br/>
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date left"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Antes De Ser Libre</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: Spanish <br/> 		
+                Publisher: Ember <br/>
+                Pub Location: Nueva York, NY, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 184 <br/>
                 </p>
             </div>
         </div>
 
 
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date right"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Return To Sender</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -363,56 +337,39 @@ permalink: /alvarez
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date left"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Finding Miracles</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: English <br/> 	
+                Publisher: Knopf Books <br/>
+                Pub Location: New York, NY, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Translation: <br/>
-                Length: 256 <br/>
+                Length: 339 <br/>
                 </p>
             </div>
         </div>
 
 
         <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date right"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>¡Yo!</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: English <br/> 	
+                Publisher: Algonquin Books <br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 320 <br/>
                 </p>
             </div>
         </div>
 
-        <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>How the Garcia Girls Lost Their Accents</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
-                </p>
-            </div>
-        </div>
 
 
         <div class="block">
@@ -422,12 +379,11 @@ permalink: /alvarez
                 <h1>Afterlife</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Language: English <br/> 	
+                Publisher: Algonquin Books <br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 269 <br/>
                 </p>
             </div>
         </div>
