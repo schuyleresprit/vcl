@@ -156,7 +156,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Tía Lola Stories</h1><hr>
-                <p><img src="https://images.hola.com/us/images/026d-133a9630e8cc-8302267d1161-1000/horizontal-1200/julia-alvarez.jpg"></p>
+                <p><img src="https://images.hola.com/us/images/026d-133a9630e8cc-8302267d1161-1000/horizontal-1200/julia-alvarez.jpg" width = "50%" height = "50%"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Yearling <br/>
@@ -238,7 +238,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>En El Tiempo De Las Mariposas: In The Time Of The Butterflies</h1><hr>
-                <p><img src="https://s3.us-east-2.amazonaws.com/s3.cptonline.org/wp-content/uploads/2017/06/09162700/6105-6-610x908.jpg"></p>
+                <p><img src="https://s3.us-east-2.amazonaws.com/s3.cptonline.org/wp-content/uploads/2017/06/09162700/6105-6-610x908.jpg" width = "50%" height = "50%"></p>
                 <p>
                 Language: Spanish <br/> 	
                 Publisher: Recorded Books <br/>
@@ -340,7 +340,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Finding Miracles</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.ebayimg.com/images/g/tOwAAOSwj0Zgl~bu/s-l500.jpg" width = "50%" height = "50%"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Knopf Books <br/>
