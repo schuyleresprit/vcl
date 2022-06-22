@@ -234,7 +234,7 @@ permalink: /alvarez
 
 
         <div class="block">
-            <div class="date left"><p class="right">2016</p></div>
+            <div class="date right"><p class="right">2016</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>En El Tiempo De Las Mariposas: In The Time Of The Butterflies</h1><hr>
@@ -251,7 +251,7 @@ permalink: /alvarez
 
 
         <div class="block">
-            <div class="date right"><p class="left">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Die Zeit der Schmetterlinge Roman</h1><hr>
@@ -268,7 +268,7 @@ permalink: /alvarez
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Im Namen Der Salomé Roman</h1><hr>
@@ -286,7 +286,7 @@ permalink: /alvarez
 
 
         <div class="block">
-            <div class="date right"><p class="left">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Yolanda: Roman</h1><hr>
@@ -303,7 +303,7 @@ permalink: /alvarez
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Antes De Ser Libre</h1><hr>
@@ -320,7 +320,7 @@ permalink: /alvarez
 
 
         <div class="block">
-            <div class="date right"><p class="left">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Return To Sender</h1><hr>
@@ -337,7 +337,7 @@ permalink: /alvarez
         </div>
 
         <div class="block">
-            <div class="date left"><p class="right">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Finding Miracles</h1><hr>
@@ -355,7 +355,7 @@ permalink: /alvarez
 
 
         <div class="block">
-            <div class="date right"><p class="left">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>¡Yo!</h1><hr>
