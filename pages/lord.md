@@ -90,7 +90,7 @@ permalink: /lord
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Anxious Armadillo</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41bb0095xzL._SY326_BO1,204,203,200_.jpg></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41bb0095xzL._SY326_BO1,204,203,200_.jpg" width = "50%" height = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Biddles Books<br/>
