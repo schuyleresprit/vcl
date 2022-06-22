@@ -17,7 +17,7 @@ permalink: /alvarez
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Julia Alvarez is from the United States of America.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/Julia_Alvarez" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -25,7 +25,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right">
                 <h1>Old Age Ain't For Sissies</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51Sk23hAdUL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/> 		
                 Publisher: Crane's Creek Press <br/>
@@ -41,7 +41,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Homecoming: New And Collected Poems</h1><hr> 	
-                <p><img src=""></p>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+671665303_70.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Grove/Atlantic <br/>
@@ -56,7 +56,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>How the García Girls Lost Their Accents</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://opac.marmot.org/bookcover.php?id=ils%3A.b11410875&size=medium&format=Book&isn=0945575572"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Plume <br/>
