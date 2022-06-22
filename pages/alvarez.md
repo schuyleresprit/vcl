@@ -21,73 +21,414 @@ permalink: /alvarez
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1979</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
+                <h1>Old Age Ain't For Sissies</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: English <br/> 		
+                Publisher: Crane's Creek Press <br/>
+                Pub Location: Cameron, NC	United States <br/>
+                Genre: Anthology <br/>
+                Length: 72 <br/>
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
+            <div class="left hide">
+                <h1>Homecoming: New And Collected Poems</h1><hr> 	
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>
+                Language: English <br/>
+                Publisher: Grove/Atlantic <br/>
+                Pub Location: New York, NY	United States <br/>
+                Genre: Poetry Collection <br/>
+                Length: 120 <br/>
+                </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">1991</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
+            <div class="right hide">
+                <h1>How the García Girls Lost Their Accents</h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
+            <div class="date right"><p class="right">1994</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
+            <div class="left hide">
+                <h1>In the Time of the Butterflies</h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
+            <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
+            <div class="right hide">
+                <h1>Seven Trees </h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">2002</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>A Cafecito Story</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2006</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>In De Tijd Van De Vlinders</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+
+        <div class="block">
+            <div class="date right"><p class="right">2009</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>En Busca De Milagros</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2010</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Tía Lola stories</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+
+        <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>In The Name Of Salome</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>How Tia Lola Came To (Visit) Stay</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Something To Declare: Essays</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Once Upon A Quinceanera: Coming Of Age In The USA</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">2016</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>In The Time Of The Butteflies</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2016</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>En El Tiempo De Las Mariposas: In The Time Of The Butterflies</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+
+        <div class="block">
+            <div class="date right"><p class="right">2017</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Die Zeit der Schmetterlinge Roman</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2017</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Im Namen Der Salomé Roman</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+
+        <div class="block">
+            <div class="date right"><p class="right">2017</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Yolanda: Roman</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2018</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Antes De Ser Libre</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+
+        <div class="block">
+            <div class="date right"><p class="right">2018</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Return To Sender</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2018</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Finding Miracles</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+
+        <div class="block">
+            <div class="date right"><p class="right">2019</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>¡Yo!</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">2021</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>How the Garcia Girls Lost Their Accents</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
+            </div>
+        </div>
+
+
+        <div class="block">
+            <div class="date right"><p class="right">2021</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Afterlife</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English <br/>
+                Publisher: Myriad Editions <br/>
+                Pub Location: Brighton, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: <br/>
+                Length: 256 <br/>
+                </p>
             </div>
         </div>
 
