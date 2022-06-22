@@ -1,5 +1,5 @@
 Jean Rhys,jrhys,dominica,,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
+authorid,Title,Pubdate,Language,Publisher,Pub_city,Country,Pub_id,Genre,Translation,Length,Descriptor
 jrhys,Wide Sargasso Sea,1987,Arabic,Dar al-Ma'mun,Baghdad,Iraq,baghdad_iraq,Fiction (Novel),y,159,
 jrhys,Quartet,1990,Chinese,China Federation of Literary and Art Circles Publishing Company,Beijing,China,beijing_china,Fiction (Novel),y,189,
 jrhys,Cang Hai Mang Mang,1986,Chinese,People's Literature Publishing House,Beijing,China,beijing_china,NA,y,193,

@@ -1,5 +1,5 @@
  Alejo Carpenter,acarpenter,cuba,,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
+authorid,Title,Pubdate,Language,Publisher,Pub_city,Country,Pub_id,Genre,Translation,Length,Descriptor
 acarpenter,Le Recours de la Méthode,2008,French,Gallimard,Paris,France,paris_france,Fiction (Novel),y,420,
 acarpenter,A Fény Százada,1979,Hungarian,Kriterion Publishing House,Bukarest,Romania,bukarest_romania,Fiction (Novel),y,391,
 acarpenter,The Kingdom of This World,1957,English,Alfred A. Knopf,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),y,150,
