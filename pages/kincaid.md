@@ -227,7 +227,7 @@ permalink: /kincaid
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Anna Delle Antille</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg"></p>
+                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width="50%"></p>
                 <p>
                 Language: Swedish <br/>
                 Publisher: De Agostini S.p.A. <br/>
@@ -808,9 +808,9 @@ permalink: /kincaid
         </div>      
 
         <div class="block">
-            <div class="date left"><p class="left hide">2020</p></div>
+            <div class="date right"><p class="right hide">2020</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Lucy</h1><hr>
                 <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width="50%"></p>
                 <p>
@@ -824,9 +824,9 @@ permalink: /kincaid
         </div>          
 
          <div class="block">
-            <div class="date right"><p class="right hide">2021</p></div>
+            <div class="date left"><p class="right left">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Mister Potter</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628195743l/375710._SY475_.jpg" height="50%" height="50%" width = "50%"></p>
                 <p>
@@ -839,9 +839,9 @@ permalink: /kincaid
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left hide">2022</p></div>
+            <div class="date right"><p class="right hide">2022</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Annie John</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41fGoMdK04L.jpg" height="50%" width="50%"></p>
                 <p>
