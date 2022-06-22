@@ -14,22 +14,22 @@ permalink: /Dominica
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
-    <div id="post-1" class="vesti-col timeline-post">
-      <div class="vesti-content-wrapper">
-        <div class="photo">
-          <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
-          <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-            </div>
-          </div>
-        </div>
-        <div class="vesti-desc">
-          <a class="desc-a" href="#">
-            <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
-            </a>
-        </div>
-      </div>
-    </div>
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
