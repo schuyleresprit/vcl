@@ -72,7 +72,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>In the Time of the Butterflies</h1><hr> 	
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41gq0y3zF4L._SX323_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Algonquin Books <br/>
@@ -88,7 +88,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Seven Trees </h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://img.fantasticfiction.com/images/h0/h1256.jpg"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Kat Ran Press  <br/>
@@ -104,7 +104,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>A Cafecito Story</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/610jeecnMjL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Chelsea Green Publishing Company <br/>
@@ -121,7 +121,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>In De Tijd Van De Vlinders</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51oTftzYkVL._SX313_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: Dutch <br/> 		
                 Publisher: Poema Pocket <br/>
@@ -139,7 +139,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>En Busca De Milagros</h1><hr> 		
-                <p><img src=""></p>
+                <p><img src="https://images2.penguinrandomhouse.com/cover/9780307522894"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Laurel Leaf <br/>
@@ -155,8 +155,8 @@ permalink: /alvarez
             <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Tía Lola stories</h1><hr>
-                <p><img src=""></p>
+                <h1>Tía Lola Stories</h1><hr>
+                <p><img src="https://images.hola.com/us/images/026d-133a9630e8cc-8302267d1161-1000/horizontal-1200/julia-alvarez.jpg"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Yearling <br/>
@@ -173,7 +173,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>In The Name Of Salome</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://opac.marmot.org/bookcover.php?id=overdrivecmc%3AODN0001224568&size=medium&format=eBook&isn=1616201037"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Algonquin Books of Chapel Hill <br/>
@@ -189,7 +189,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>How Tia Lola Came To (Visit) Stay</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+4630716656_70.jpg"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Zaner-Bloser <br/>
@@ -205,7 +205,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Something To Declare: Essays</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51DcrFkwg4L._SX332_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Algonquin Of Chapel Hill <br/>
@@ -221,7 +221,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Once Upon A Quinceanera: Coming Of Age In The USA</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://d202m5krfqbpi5.cloudfront.net/books/1171048019l/83988.jpg"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Plume <br/>
@@ -238,7 +238,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>En El Tiempo De Las Mariposas: In The Time Of The Butterflies</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://s3.us-east-2.amazonaws.com/s3.cptonline.org/wp-content/uploads/2017/06/09162700/6105-6-610x908.jpg"></p>
                 <p>
                 Language: Spanish <br/> 	
                 Publisher: Recorded Books <br/>
@@ -255,7 +255,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Die Zeit der Schmetterlinge Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51xUjh2xD6L._SX328_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: German <br/>
                 Publisher: Piper Edition <br/> 	
@@ -272,7 +272,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Im Namen Der Salomé Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51q9PAUSU5L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: German <br/> 		
                 Publisher: Piper Verlag GmbH <br/>
@@ -290,7 +290,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Yolanda: Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51bAiswKsAL._SX328_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: German <br/> 		
                 Publisher: Piper Verlag GmbH <br/>
@@ -307,7 +307,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Antes De Ser Libre</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51SieiSWixL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: Spanish <br/> 		
                 Publisher: Ember <br/>
@@ -324,14 +324,13 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Return To Sender</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641317948l/60030008._SX318_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Myriad Editions <br/>
-                Pub Location: Brighton, England <br/>
+                Publisher: Knopf Books <br/>
+                Pub Location: New York, NY, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Translation: <br/>
-                Length: 256 <br/>
+                Length: 339 <br/>
                 </p>
             </div>
         </div>
@@ -359,7 +358,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="right hide">
                 <h1>¡Yo!</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41FzsCAoucL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Algonquin Books <br/>
@@ -377,7 +376,7 @@ permalink: /alvarez
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Afterlife</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61w9dDSBQYL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Algonquin Books <br/>
