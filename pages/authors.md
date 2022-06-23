@@ -6,7 +6,7 @@ permalink: /authors
 {% include browse.html %}
 
 
-[Aimé Césaire](/cesaire) <br/>
+[Aimé Césaire](/acesaire) <br/>
 [Alejo Carpentier](/carpenter) <br/>
 [Andrew Salkey](/asalkey)<br/>
 [Austin Clarke](/aclarke)<br/>
