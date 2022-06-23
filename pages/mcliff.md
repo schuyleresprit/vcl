@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Michelle Cliff"
-permalink: /cliff
+permalink: /mcliff
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -140,7 +140,7 @@ permalink: /cliff
                  </p>
             </div>
         </div>
-        
+
          <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
@@ -157,7 +157,7 @@ permalink: /cliff
                 </p>
             </div>
         </div>
-                        
+
         <div class="block">
             <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>

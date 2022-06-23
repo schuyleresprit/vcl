@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Aimé Césaire"
-permalink: /cesaire
+permalink: /acesaire
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -322,7 +322,7 @@ permalink: /cesaire
                 Language: French <br/>
                 Publisher: Éditions du Seuil <br/>
                 Pub_location: Paris, France <br/>
-                Genre: Poetry Collection <br/> 
+                Genre: Poetry Collection <br/>
                 Length: 96 <br/>                 </p>
             </div>
         </div>

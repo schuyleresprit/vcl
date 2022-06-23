@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lennox Honychurch"
-permalink: /honychurch
+permalink: /lhonychurch
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

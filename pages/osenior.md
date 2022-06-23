@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Olive Senior"
-permalink: /senior
+permalink: /osenior
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

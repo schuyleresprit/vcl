@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Erna Brodber"
-permalink: /brodber
+permalink: /ebrodber
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

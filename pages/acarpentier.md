@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alejo Carpentier"
-permalink: /carpenter
+permalink: /acarpentier
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

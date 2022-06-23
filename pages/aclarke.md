@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Austin Clarke"
-permalink: /clarke
+permalink: /aclarke
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -65,7 +65,7 @@ permalink: /clarke
                 Publisher: Heinemann<br/>
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
-                Length: 183 
+                Length: 183
 
                  </p>
             </div>
@@ -116,7 +116,7 @@ permalink: /clarke
                 Publisher Location: Don Mills, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 191
-    
+
                 </p>
             </div>
         </div>
@@ -137,7 +137,7 @@ permalink: /clarke
                  </p>
             </div>
         </div>
-        
+
 
          <div class="block">
             <div class="date right"><p class="right">1988</p></div>
@@ -155,7 +155,7 @@ permalink: /clarke
                  </p>
             </div>
         </div>
-        
+
          <div class="block">
             <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
@@ -172,7 +172,7 @@ permalink: /clarke
                  </p>
            </div>
         </div>
-        
+
                 <div class="block">
             <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
@@ -184,12 +184,12 @@ permalink: /clarke
                 Publisher:Exile Editions<br/>
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
-                Length: 349 
+                Length: 349
 
                  </p>
            </div>
         </div>
-        
+
                 <div class="block">
             <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
@@ -240,19 +240,19 @@ permalink: /clarke
                  </p>
            </div>
         </div>
-        
+
         <div class="block">
             <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>There Are No Elders</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328858542i/1291726._UY475_SS475_.jpg"></p>
-                <p> 
-                Language: English<br/> 
+                <p>
+                Language: English<br/>
                 Publisher: Exile Editions<br/>
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
-                Length: 182 
+                Length: 182
 
                  </p>
            </div>
@@ -325,7 +325,7 @@ permalink: /clarke
                 </p>
             </div>
         </div>
-        
+
 
 
         <div style="padding-bottom:100px;"></div>

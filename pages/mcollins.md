@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Merle Collins"
-permalink: /collins
+permalink: /mcollins
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -29,7 +29,7 @@ permalink: /collins
                 <p>
                 Language: Englsih<br/>
                 Publisher: Karia Press<br/>
-                Publisher Location: London, England<br/> 
+                Publisher Location: London, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 93
 
@@ -44,7 +44,7 @@ permalink: /collins
                 <h1>Angel</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/5119XgTVqOL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Language: Fiction<br/> 
+                Language: Fiction<br/>
                 Publisher: The Women's Press<br/>
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
@@ -83,12 +83,12 @@ permalink: /collins
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Fiction (Short Stories)<br/>
                 Length: 155
-     
+
                 </p>
             </div>
         </div>
 
-       
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">

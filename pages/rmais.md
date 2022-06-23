@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roger Mais"
-permalink: /mais
+permalink: /rmais
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

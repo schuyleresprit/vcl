@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Frank A. Collymore"
-permalink: /collymore
+permalink: /ecollymore
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -86,7 +86,7 @@ permalink: /collymore
             <div class="date left"><p class="left hide">2005</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Notes for a Glossary of Words and Phrases of Barbadian Dialect</h1><hr> 
+                <h1>Notes for a Glossary of Words and Phrases of Barbadian Dialect</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/417v8odawoL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"  height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>

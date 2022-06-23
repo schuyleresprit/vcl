@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Oonya Kempadoo"
-permalink: /kempadoo
+permalink: /okempadoo
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
