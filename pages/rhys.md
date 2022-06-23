@@ -121,14 +121,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Tigers Are Better-Looking;: With A Selection From The Left Bank: Stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51a+c4+ffKL._SX283_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: Andre Deutsch Limited	<br/>
+                Pub Location: London, England <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 236
                 </p>
             </div>
         </div>
@@ -138,14 +137,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Sleep It Off Lady: Stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=CAZuQgAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70v1c-lKzuAOsIVSnltS4l84L5DSHIpQWDXpmdawJosseRmG03Y9BLrmtMFry4w5_BKC4bam97ekyeBuQZFyamNeB4ahsBL_lo9GxuFBptLPYm2xDPK-b2WdigTUl73b3KJTqGC"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: Penguin Books	<br/>
+                Pub Location: London, England <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 175
                 </p>
             </div>
         </div>
@@ -155,14 +153,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Smile Please: An Unfinished Autobiography</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/4137YTR1FPL._SX254_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: Penguin Books	<br/>
+                Pub Location: London, England <br/>
+                Genre: Autobiography/Memoir <br/>
+                Length: 157
                 </p>
             </div>
         </div>
@@ -172,14 +169,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Efter Bruddet</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Danish <br/>
+                Publisher: Tiderne Skifter	<br/>
+                Pub Location: Copenhagen, Denmark <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 171
                 </p>
             </div>
         </div>
@@ -189,14 +186,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Voyage In The Dark</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.penguin.co.uk/content/dam/prh/books/571/57152/9780141183954.jpg.transform/PRHDesktopWide_small/image.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: Penguin Books	<br/>
+                Pub Location: London, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 192
                 </p>
             </div>
         </div>
@@ -206,14 +202,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Yam Sargaso ha-raḥav</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Hebrew <br/>
+                Publisher: Zemorah, Bitan, Modan	<br/>
+                Pub Location: Tel Aviv, Israel <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 164
                 </p>
             </div>
         </div>
@@ -223,14 +219,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Viaje en la oscuridad</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md20261603285.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish <br/>
+                Publisher: J. Vergara Editor	<br/>
+                Pub Location: Buenos Aires, Argentina<br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 183
                 </p>
             </div>
         </div>
@@ -240,14 +236,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Buenos días, medianoche</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51jkaFORMBL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish <br/>
+                Publisher: J. Vergara Editor	<br/>
+                Pub Location: Buenos Aires, Argentina <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 194
                 </p>
             </div>
         </div>
