@@ -6,8 +6,8 @@ permalink: /authors
 {% include browse.html %}
 
 
-[Aimé Césaire](/cesaire) <br/>
-[Alejo Carpentier](/carpenter) <br/>
+[Aimé Césaire](/acesaire) <br/>
+[Alejo Carpentier](/acarpentier) <br/>
 [Andrew Salkey](/asalkey)<br/>
 [Austin Clarke](/aclarke)<br/>
 [Claude McKay](/cmckay) <br/>
@@ -17,8 +17,8 @@ permalink: /authors
 [Erna Brodber](/ebrodber) <br/>
 [Frank A. Collymore](/fcollymore) <br/>
 [George Lamming](/glamming) <br/>
-[Jacques Roumain](/roumain) <br/>
-[Jamaica Kincaid](/kincaid) <br/>
+[Jacques Roumain](/jroumain) <br/>
+[Jamaica Kincaid](/jkincaid) <br/>
 [Jan J Dominique](/dominique)<br/>
 [Jean Bernabé](/bernabe) <br/>
 [Jean Casimir](/casimir)<br/>
