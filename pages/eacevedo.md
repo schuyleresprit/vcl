@@ -21,75 +21,89 @@ permalink: /eacevedo
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Beastgirl & other origin myths</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475496429i/32337403._UY262_SS262_.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: English<br/>
+                Publisher: Harper Collins<br/>
+                Publisher Location:New York, United States<br/>
+                Genre: Fiction<br/>
+                Length: 35
+
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Clap When You Land</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570558443l/52516332._SX0_SY0_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Harper Collins<br/>
+                Publisher Location: New York, United States<br/>
+                Genre: Fiction<br/>
+                Length: 340
+
+                </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>The Poet X</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498766234l/33294200._SY475_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Harper Collins<br/>
+                Publisher Location: New York, United States<br/>
+                Genre: Fiction<br/>
+                Length: 340
+
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Write yourself a lantern : a journal inspired by the Poet X</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/81JOVi+6QxL.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Harper Collins<br/>
+                Publisher Location: New York, United States<br/>
+                Genre: Fiction<br/>
+                Length: 208
+
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>With the Fire on High</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/81eO1uJkpuL.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Hot Key Books Ltd<br/>
+                Publisher Location: Chichester, England<br/>
+                Genre: Fiction<br/>
+                Length: 400
+    
+                </p>
             </div>
         </div>
 
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
 
         <div style="padding-bottom:100px;"></div>
     </div>
