@@ -33,7 +33,7 @@ permalink: /Cuba
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Jos%C3%A9_Mart%C3%AD_retrato_m%C3%A1s_conocido_Jamaica_1892.jpg">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Jos%C3%A9_Mart%C3%AD_retrato_m%C3%A1s_conocido_Jamaica_1892.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
