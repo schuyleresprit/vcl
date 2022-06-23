@@ -5,9 +5,9 @@ permalink: /Barbados
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>Barbados</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://www.worldatlas.com/upload/35/7b/b8/bb-01.jpg" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -17,7 +17,7 @@ permalink: /Barbados
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
+       <img src="https://www.sfltimes.com/wp-content/uploads/2016/07/page0000011_high.jpg.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -25,7 +25,7 @@ permalink: /Barbados
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/aclarke"> Austin Clarke </a></h4>
        </a>
      </div>
    </div>
