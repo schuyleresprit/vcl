@@ -94,5 +94,21 @@ permalink: /Jamaica
         </div>
       </div>
     </div>
+         <div id="post-6" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://images.gr-assets.com/authors/1411193085p5/45053.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mcliff">Michelle Cliff</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
   
 <!-- partial -->
