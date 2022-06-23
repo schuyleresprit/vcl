@@ -321,7 +321,6 @@ permalink: /rarenas
                 <p>Language: Spanish <br/>
                 Publisher: Ediciones Universal<br/>
                 Pub_location: Miami, FL, United States<br/>
-                Genre: Fiction (Novel)<br/>
                 Length: 82</p>
             </div>
         </div>
@@ -486,7 +485,6 @@ permalink: /rarenas
                 <p>Language: Spanish <br/>
                 Publisher: El Portero<br/>
                 Pub_location: Málaga, Spain<br/>
-                Genre: Fiction (Novel)<br/>
                 Length: 176</p>
             </div>
         </div>
