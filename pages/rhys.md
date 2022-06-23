@@ -575,14 +575,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Letters Of Jean Rhys</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51KvbdPT3+L._SX348_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: Dutch <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Language: English <br/>
+                Publisher: Viking Press	<br/>
+                Pub Location: New York, NY, United States <br/>
+                Genre: Biography <br/>
+                Length: 315
                 </p>
             </div>
         </div>
@@ -592,14 +591,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Good Morning, Midnight</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
                 Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Tiderne Skifter	<br/>
+                Pub Location: Copenhagen, Denmark <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 170
                 </p>
             </div>
         </div>
@@ -609,14 +608,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Tales Of The Wide Caribbean</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Dutch <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Language: English <br/>
+                Publisher: Heinemann	<br/>
+                Pub Location: London, England<br/>
+                Genre: Anthology <br/>
+                Length: 180
                 </p>
             </div>
         </div>
@@ -626,14 +624,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Quartett Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
                 Language: German <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Rogner und Bernhard	<br/>
+                Pub Location: München, Germany <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 450
                 </p>
             </div>
         </div>
@@ -643,14 +641,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Irrfahrt Im Dunkel</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41msItlb1zL._SX299_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: German <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Rogner und Bernhard	<br/>
+                Pub Location: München, Germany<br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 438
                 </p>
             </div>
         </div>
@@ -660,14 +658,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Complete Novels</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9780393022261-us-300.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: W. W. Norton & Company	<br/>
+                Pub Location: New York, NY, United States <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 574
                 </p>
             </div>
         </div>
@@ -677,14 +674,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Adieu Marcus, Adieu Rose Erzählungen</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images.booklooker.de/s/01aEim/Jean-Rhys+Adieu-Marcus-Adieu-Rose-Erz%C3%A4hlungen.jpg"></p>
                 <p>
                 Language: German <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Rogner und Bernhard	<br/>
+                Pub Location: München, Germany <br/>
+                Genre: Fiction (Short Story Collection) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 559
                 </p>
             </div>
         </div>
@@ -694,14 +691,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Dörtlü</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://static.nadirkitap.com/fotograf_t/142010/6/Kitap_20160316234811_142010_11.jpg"></p>
                 <p>
                 Language: Turkish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Can Yayinlari Ltd. Sti.	<br/>
+                Pub Location: Istanbul, Turkey <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 191
                 </p>
             </div>
         </div>
@@ -711,14 +708,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ayriliktan Sonra</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pz0fpvezntt4.merlincdn.net/productimages/117074/big/9789750708480_408.jpg"></p>
                 <p>
                 Language: Turkish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Can Yayinlari Ltd. Sti.	<br/>
+                Pub Location: Istanbul, Turkey <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 158
                 </p>
             </div>
         </div>
@@ -728,14 +725,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Que Usted La Duerma Bien, Señora</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41FqhVW5yFL._SX315_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: Turkish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish		 <br/>
+                Publisher: Bruguera<br/>
+                Pub Location: Barcelona, Spain <br/>
+                Genre: Fiction (Short Story Collection) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 173
                 </p>
             </div>
         </div>
@@ -745,14 +742,12 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Cang Hai Mang Mang</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Turkish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Language: Chinese		 <br/>
+                Publisher: People's Literature Publishing House<br/>
+                Pub Location: Beijing, China <br/>
+                Length: 193
                 </p>
             </div>
         </div>
@@ -762,14 +757,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Voyage In The Dark</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Turkish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Italian		 <br/>
+                Publisher: Penguin Books <br/>
+                Pub Location: Firenze, Italy <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 169
                 </p>
             </div>
         </div>
@@ -779,14 +774,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Wide Sargasso Sea</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41sE0UhzJXL._SX334_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: Arabic <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Dar al-Ma'mun	<br/>
+                Pub Location: Baghdad, Iraq <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 159
                 </p>
             </div>
         </div>
@@ -796,14 +791,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Bonjour, Minuit</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9782207233627-us-300.jpg"></p>
                 <p>
-                Language: Turkish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: French <br/>
+                Publisher: Éditions Denoël	<br/>
+                Pub Location: Paris, France <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 223
                 </p>
             </div>
         </div>
@@ -813,14 +808,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Hē platia thalassa tōn Sargassōn</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Arabic <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Greek <br/>
+                Publisher: Gnose	<br/>
+                Pub Location: Athens, Greece <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 192
                 </p>
             </div>
         </div>
@@ -830,14 +825,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>L'Ampla mar dels Sargassos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md30923731985.jpg"></p>
                 <p>
-                Language: Turkish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish <br/>
+                Publisher: Columna	<br/>
+                Pub Location: Barcelona, Spain <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 155
                 </p>
             </div>
         </div>
@@ -847,14 +842,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Wide Sargasso Sea</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
                 Language: Hungarian <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Európa Editions	<br/>
+                Pub Location: Budapest, Hungary <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 159
                 </p>
             </div>
         </div>
@@ -864,14 +859,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Wide Sargasso Sea</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
                 Language: Polish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Wydaw. Literackie	<br/>
+                Pub Location: Krakow, Poland <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 159
                 </p>
             </div>
         </div>
@@ -881,14 +876,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>カルテット / (Karutetto)</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Hungarian <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Japanese <br/>
+                Publisher: Hayakawa Publishing (早川書房)	<br/>
+                Pub Location: Tokyo, Japan <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 233
                 </p>
             </div>
         </div>
@@ -898,14 +893,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Marea Sargasselor</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.ebayimg.com/images/g/qsQAAOSwU75h7MZo/s-l500.jpg"></p>
                 <p>
-                Language: Polish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Romanian		 <br/>
+                Publisher: Univers<br/>
+                Pub Location: Bucuresti, Romania <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 203
                 </p>
             </div>
         </div>
