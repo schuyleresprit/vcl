@@ -33,7 +33,7 @@ permalink: /Cuba
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://3.bp.blogspot.com/-dNS72IPVUus/UDjbUHToTRI/AAAAAAAADC0/5ujqjIed854/s1600/jean+rhys.jpg">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Jos%C3%A9_Mart%C3%AD_retrato_m%C3%A1s_conocido_Jamaica_1892.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -41,7 +41,7 @@ permalink: /Cuba
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rhys">Jean Rhys</a></h4>
+            <h4><a href="/jmarti">Jose Martí</a></h4>
           </a>
         </div>
       </div>
