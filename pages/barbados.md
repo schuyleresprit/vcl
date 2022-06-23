@@ -33,7 +33,7 @@ permalink: /Barbados
  <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://rosalienebacchus.files.wordpress.com/2021/02/barbadian-poet-edward-kamau-brathwaite.jpg">
+          <img src="https://rosalienebacchus.files.wordpress.com/2021/02/barbadian-poet-edward-kamau-brathwaite.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
