@@ -5,9 +5,9 @@ permalink: /Martinique
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>Martinique</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://i.pinimg.com/originals/f0/73/fc/f073fc2763e33c36414eeb06cd3fb32d.gif" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -25,7 +25,7 @@ permalink: /Martinique
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/allfrey">Aimé Césaire</a></h4>
        </a>
      </div>
    </div>
