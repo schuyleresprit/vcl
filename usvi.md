@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
-title: "Dominica"
-permalink: /Dominica
+title: "US Virgin Islands"
+permalink: /usvi
 ---
 <div class="container-0">
     <div class="container-title">
@@ -52,6 +52,9 @@ permalink: /Dominica
           <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-4_zpsazehwtua_ewyer0.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
+              <span class="day">16</span>
+              <br>
+              <span class="month">NOV</span>
             </div>
           </div>
         </div>
@@ -59,6 +62,7 @@ permalink: /Dominica
           <a class="desc-a" href="#">
             <h4>Rerum commodi</h4>
           </a>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, incidunt eius totam animi, alias non iste similique perspiciatis aut, dolor harum dolores explicabo sunt cum consequatur sint maiores, ullam corrupti.</p>
         </div>
       </div>
     </div>
@@ -68,6 +72,9 @@ permalink: /Dominica
           <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-3_zpsxo9mx2fx_lqohzy.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
+              <span class="day">4</span>
+              <br>
+              <span class="month">OCT</span>
             </div>
           </div>
         </div>
