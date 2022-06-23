@@ -17,7 +17,7 @@ permalink: /Martinique
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
+       <img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -25,7 +25,7 @@ permalink: /Martinique
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Aimé Césaire</a></h4>
+         <h4><a href="/acesaire">Aimé Césaire</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /Martinique
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/acesaire">Jean Rhys</a></h4>
+            <h4><a href="/rhys">Jean Rhys</a></h4>
           </a>
         </div>
       </div>
