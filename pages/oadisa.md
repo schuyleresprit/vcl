@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Opal Palmer Adisa"
-permalink: /adisa
+permalink: /oadisa
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
