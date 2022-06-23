@@ -22,7 +22,7 @@ permalink: /authors
 [Jan J Dominique](/dominique)<br/>
 [Jean Bernabé](/bernabe) <br/>
 [Jean Casimir](/casimir)<br/>
-[Jean Rhys](/rhys)<br/>
+[Jean Rhys](/jrhys)<br/>
 [Julia Alvarez](/alvarez)<br/>
 [Karen Lord](/lord)<br/>
 [Kei Miller](/miller)<br/>
