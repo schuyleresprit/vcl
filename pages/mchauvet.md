@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marie Vieux Chauvet "
-permalink: /chauvet
+permalink: /mvchauvet
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -27,10 +27,10 @@ permalink: /chauvet
                 <h1>La Danse sur le volcan</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41FiAOjKqvL._SX332_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: French<br> 
-                Publisher: Zellige<br> 
-                Publisher Location: Paris, France<br> 
-                Genre: Fiction<br> 
+                Language: French<br>
+                Publisher: Zellige<br>
+                Publisher Location: Paris, France<br>
+                Genre: Fiction<br>
                 Length: 400<br>   
                 </p>
             </div>
@@ -51,7 +51,7 @@ permalink: /chauvet
                 </p>
             </div>
         </div>
-        
+
         <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Walter Adolphe Roberts"
-permalink: /roberts
+permalink: /wroberts
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -153,7 +153,7 @@ permalink: /roberts
             </div>
         </div>
 
-        
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">

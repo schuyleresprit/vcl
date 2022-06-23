@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lawrence Scott"
-permalink: /scott
+permalink: /lscott
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

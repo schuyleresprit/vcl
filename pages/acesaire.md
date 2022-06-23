@@ -322,7 +322,7 @@ permalink: /acesaire
                 Language: French <br/>
                 Publisher: Éditions du Seuil <br/>
                 Pub_location: Paris, France <br/>
-                Genre: Poetry Collection <br/> 
+                Genre: Poetry Collection <br/>
                 Length: 96 <br/>                 </p>
             </div>
         </div>

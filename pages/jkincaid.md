@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jamaica Kincaid"
-permalink: /kincaid
+permalink: /jkincaid
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -91,7 +91,7 @@ permalink: /kincaid
                 Publisher: Noonday Press <br/>
                 Pub_location: New York, NY, United States <br/>           
                 Genre: Fiction (Novel) <br/>
-                Length: 160 <br/> 
+                Length: 160 <br/>
                 </p>
             </div>
         </div>
@@ -314,7 +314,7 @@ permalink: /kincaid
                 Length: 163 <br/>                 </p>
             </div>
         </div>  
-    
+
     <div class="block">
             <div class="date right"><p class="right hide">1990</p></div>
             <div class="dot"></div>
@@ -345,7 +345,7 @@ permalink: /kincaid
                 Length: 14 <br/>                 </p>
             </div>
         </div>  
-    
+
     <div class="block">
             <div class="date right"><p class="right hide">1991</p></div>
             <div class="dot"></div>
@@ -507,7 +507,7 @@ permalink: /kincaid
                 <p>
                 Language: English <br/>
                 Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/> 
+                Pub_location: New York, NY, United States <br/>
                 Genre: Biography <br/>
                 Length: 229 <br/>                 </p>
             </div>
@@ -537,7 +537,7 @@ permalink: /kincaid
                 <p>
                 Language: English <br/>
                 Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/> 
+                Pub_location: New York, NY, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 100 <br/>                 </p>
             </div>
@@ -569,7 +569,7 @@ permalink: /kincaid
                 <p>
                 Language: French <br/>
                 Publisher: FÉditions de l'Olivier <br/>
-                Pub_location: Paris, France <br/> 
+                Pub_location: Paris, France <br/>
                 Genre: Fiction (Novel) <br/>
                 Translation: y <br/>
                 Length: 150 <br/>                 </p>
@@ -601,7 +601,7 @@ permalink: /kincaid
                 <p>
                 Language: English <br/>
                 Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/> 
+                Pub_location: New York, NY, United States <br/>
                 Genre: Biography <br/>
                 Length: 247 <br/>                 </p>
             </div>
@@ -631,7 +631,7 @@ permalink: /kincaid
                 <p>
                 Language: English <br/>
                 Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/> 
+                Pub_location: New York, NY, United States <br/>
                 Genre: Biography <br/>
                 Length: 273 <br/>                 </p>
             </div>
@@ -661,7 +661,7 @@ permalink: /kincaid
                 <p>
                 Language: English <br/>
                 Publisher:National Geographic<br/>
-                Pub_location: Washington, DC, United States <br/> 
+                Pub_location: Washington, DC, United States <br/>
                 Genre: Nonfiction Book <br/>
                 Length: 191 <br/>                 </p>
             </div>

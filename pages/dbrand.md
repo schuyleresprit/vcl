@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Dionne Brand"
-permalink: /brand
+permalink: /dbrand
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

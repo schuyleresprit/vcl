@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jean Bernabé"
-permalink: /bernabe
+permalink: /jbernabe
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

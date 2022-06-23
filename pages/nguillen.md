@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Nicolás Guillén"
-permalink: /guillen
+permalink: /nguillen
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -103,7 +103,7 @@ permalink: /guillen
                  </p>
             </div>
         </div>
-        
+
         <div class="block">
             <div class="date left"><p class="left">1948</p></div>
             <div class="dot"></div>
@@ -137,7 +137,7 @@ permalink: /guillen
                  </p>
             </div>
         </div>
-        
+
          <div class="block">
             <div class="date left"><p class="1960</p></div>
             <div class="dot"></div>
@@ -154,7 +154,7 @@ permalink: /guillen
                  </p>
            </div>
         </div>
-        
+
                 <div class="block">
             <div class="date right"><p class="right">1964</p></div>
             <div class="dot"></div>
@@ -171,7 +171,7 @@ permalink: /guillen
                  </p>
            </div>
         </div>
-        
+
                 <div class="block">
             <div class="date left"><p class="left">1964</p></div>
             <div class="dot"></div>
@@ -223,7 +223,7 @@ permalink: /guillen
                  </p>
            </div>
         </div>
-        
+
         <div class="block">
             <div class="date right"><p class="right">1972</p></div>
             <div class="dot"></div>
@@ -308,7 +308,7 @@ permalink: /guillen
                  </p>
             </div>
         </div>
-        
+
                 <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
@@ -327,7 +327,7 @@ permalink: /guillen
            </div>
         </div>
 
-       
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">

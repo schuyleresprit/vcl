@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jacques Roumain"
-permalink: /roumain
+permalink: /jroumain
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -43,7 +43,7 @@ permalink: /roumain
             <div class="left">
                 <h1>Gouverneurs De La Rosée</h1><hr>
                 <p><img src="http://mediatheques.collectivitedemartinique.mq/Ils/digitalCollection/DigitalCollectionThumbnailHandler.ashx?documentId=1331594&size=MEDIUM&fallback=https%3a%2f%2fcovers.archimed.fr%2fCover%2fCG97M%2fMONO%2ffSK0Z0qUwLcB3yqtG7yK3g2%2f2852750287%2fMEDIUM%3ffallback%3dhttp%253a%252f%252fmediatheques.collectivitedemartinique.mq%252fui%252fskins%252fdefault%252fportal%252ffront%252fimages%252fGeneral%252fDocType%252fMONO_MEDIUM.png"></p>
-                <p> 
+                <p>
                 Language: French <br/>
                 Publisher: Editeurs Français reunis<br/>
                 Pub_location: Paris, France <br/>
@@ -62,7 +62,7 @@ permalink: /roumain
                 Publisher: Interworld Press<br/>
                 Pub_location: New York, NY, United States <br/>
                 Genre:Poetry Collection <br/>
-                Length: 45 <br/> 
+                Length: 45 <br/>
                 </p>
             </div>
         </div>
@@ -126,7 +126,7 @@ permalink: /roumain
                 Language: French <br/>
                 Publisher:Éditions de la dodine <br/>
                 Pub_location: Jacmel, Haiti <br/>
-                Genre: Fiction (Novel)<br/> 
+                Genre: Fiction (Novel)<br/>
                 Length: 61 <br/>  
                 </p>
             </div>
@@ -142,7 +142,7 @@ permalink: /roumain
                 Language: English <br/>
                 Publisher:Caribbean Studies Press, an imprint of Educa Vision <br/>
                 Pub_location: Pompano Beach, FL, United States <br/>
-                Genre: Fiction (Novel)<br/> 
+                Genre: Fiction (Novel)<br/>
                 Translation: y
                 Length: 170 <br/>  
                 </p>

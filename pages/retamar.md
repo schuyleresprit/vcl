@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roberto Fernández Retamar"
-permalink: /retamar
+permalink: /rretamar
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
