@@ -8,15 +8,15 @@ permalink: /authors
 
 [Aimé Césaire](/cesaire) <br/>
 [Alejo Carpentier](/carpenter) <br/>
-[Andrew Salkey](/salkey)<br/>
-[Austin Clarke](/clarke)<br/>
-[Claude McKay](/mcKay) <br/>
+[Andrew Salkey](/asalkey)<br/>
+[Austin Clarke](/aclarke)<br/>
+[Claude McKay](/cmckay) <br/>
 [Dionne Brand](/brand) <br/>
 [Earl Lovelace](/lovelace) <br/>
 [Elizabeth Acevedo](/acevedo)<br/>
-[Erna Brodber](/brodber) <br/>
-[Frank A. Collymore](/collymore) <br/>
-[George Lamming](/lamming) <br/>
+[Erna Brodber](/ebrodber) <br/>
+[Frank A. Collymore](/fcollymore) <br/>
+[George Lamming](/glamming) <br/>
 [Jacques Roumain](/roumain) <br/>
 [Jamaica Kincaid](/kincaid) <br/>
 [Jan J Dominique](/dominique)<br/>

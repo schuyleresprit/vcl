@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: " Erna Brodber"
+title: "Erna Brodber"
 permalink: /ebrodber
 ---
 <!-- partial:index.partial.html -->
