@@ -17,7 +17,7 @@ permalink: /Trinidad
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://griffinpoetryprize.com/wp-content/uploads/2022/03/brand-dionne-e1647884604301.jpeg">
+       <img src="https://griffinpoetryprize.com/wp-content/uploads/2022/03/brand-dionne-e1647884604301.jpeg"  width="50%" height="40%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
