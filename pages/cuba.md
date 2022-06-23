@@ -33,7 +33,7 @@ permalink: /Cuba
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://3.bp.blogspot.com/-dNS72IPVUus/UDjbUHToTRI/AAAAAAAADC0/5ujqjIed854/s1600/jean+rhys.jpg">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Jos%C3%A9_Mart%C3%AD_retrato_m%C3%A1s_conocido_Jamaica_1892.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -41,46 +41,58 @@ permalink: /Cuba
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rhys">Jean Rhys</a></h4>
+            <h4><a href="/jmarti">Jose Martí</a></h4>
           </a>
         </div>
       </div>
     </div>
-    <div id="post-3" class="vesti-col timeline-post">
+<div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-4_zpsazehwtua_ewyer0.jpg">
+          <img src="https://collectionimages.npg.org.uk/std/mw148021/Nicols-Guilln-Batista.jpg" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
-              <span class="day">16</span>
-              <br>
-              <span class="month">NOV</span>
             </div>
           </div>
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4>Rerum commodi</h4>
+            <h4><a href="/nguillen">Nicolás Guillén</a></h4>
           </a>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, incidunt eius totam animi, alias non iste similique perspiciatis aut, dolor harum dolores explicabo sunt cum consequatur sint maiores, ullam corrupti.</p>
         </div>
       </div>
     </div>
     <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-3_zpsxo9mx2fx_lqohzy.jpg">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalUJusXi7mknvgPMWjJlfwyggweuEkY9GnoIBx3zZb-6-ifSgaWLDIUdfQQG1MiXL7-0&usqp=CAU" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
-              <span class="day">4</span>
-              <br>
-              <span class="month">OCT</span>
             </div>
           </div>
         </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rarenas">Reinaldo Arenas</a></h4>
+          </a>
+        </div>
       </div>
     </div>
+     </div>
+    <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://www.granma.cu/file/img/2019/08/medium/f0143079.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rretamar">Roberto Fernández Retamar</a></h4>
+          </a>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
 <!-- partial -->

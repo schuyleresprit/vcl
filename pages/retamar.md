@@ -30,7 +30,8 @@ permalink: /rretamar
                 Publisher: Editorial Contrapunto<br/>
                 Pub_location: Buenos Aires, Argentina<br/>
                 Genre: Anthology<br/>
-                Length: 217</p>
+                Length: 217
+                </p>
             </div>
         </div>
         <div class="block">
@@ -56,7 +57,8 @@ permalink: /rretamar
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 210</p>
+                Length: 210
+                </p>
             </div>
         </div>
         <div class="block">
@@ -70,7 +72,8 @@ permalink: /rretamar
                 Pub_location: Milan, Italy<br/>
                 Genre: Essay<br/>
                 Translation: y<br/>
-                Length: 171</p>
+                Length: 171
+                </p>
             </div>
         </div>
         <div class="block">
@@ -83,7 +86,8 @@ permalink: /rretamar
                 Publisher: Biblioteca de Marcha<br/>
                 Pub_location: Montevideo, Uraguay<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 142</p>
+                Length: 142
+                </p>
             </div>
         </div>
         <div style="padding-bottom:100px;"></div>

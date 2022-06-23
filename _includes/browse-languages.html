@@ -54,8 +54,8 @@
 	<script>
 		let datasets = [
 			{
-				"type" : "authors",
-				"url" : "/data/authors.json"
+				"type" : "languages",
+				"url" : "/data/languages.json"
 			}
 		];
 
@@ -88,11 +88,11 @@
 
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "authors":
+					case "languages":
 						for (key in data) {
 							temp.push({
-								"flavorText" : data[key]["Author"],
-								"link" : data[key]["author_id"]
+								"flavorText" : key,
+								"link" : key
 							});
 						}
 						break;
@@ -115,7 +115,7 @@
 							<div class="card col-4">
 								<div class="card-body">
 									<h5 class="card-title">${element.data[i].flavorText}</h5>
-									<h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+									<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
 									<a href="/${element.data[i].link}" class="card-link">More</a>
 								</div>
 							</div>

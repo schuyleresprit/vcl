@@ -22,7 +22,7 @@ permalink: /mmcwatt
         </div>
 
          <div class="block">
-            <div class="date right"><p class="right">1994</p></div>
+            <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>A World Of Poetry For CXC</h1><hr>
@@ -32,14 +32,13 @@ permalink: /mmcwatt
                 Publisher:Heinemann<br/>
                 Publisher Location: London, England<br/>
                 Genre: Poetry<br/>
-                Length: 196
-                    
+                Length: 196 </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date right"><p class="right hide">2005</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Suspended Sentences: Fictions Of Atonement</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41RVGBKNA2L._SX310_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -48,15 +47,14 @@ permalink: /mmcwatt
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Fiction<br/>
                 Length: 250
-
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date left"><p class="left hide">2017</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>A World Of Poetry</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51DtsgkUkPL.jpg"></p>
                 <p>
@@ -72,7 +70,7 @@ permalink: /mmcwatt
 
  
         <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right hide">2017</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>A World Of Prose</h1><hr>
@@ -89,11 +87,6 @@ permalink: /mmcwatt
             </div>
         </div>
 
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

@@ -1,9 +1,10 @@
+
 /******Slide In******/
 .hide {
   opacity: 0;
 }
 body {
-  font-family: 'Proxima Nova', sans-serif;
+  ont-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
 }
 .slideIn_Mobile {
   opacity: 1;
@@ -53,7 +54,7 @@ body {
 }
 .content {
   position: relative;
-  font-family: 'Proxima Nova', sans-serif;
+  ont-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
   width: 100%;
   height: auto;
   text-shadow: 0 0 1px rgba(0, 0, 0, 0.05);

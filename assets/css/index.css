@@ -1,6 +1,5 @@
 html,
 body {
-	background:#f3f3f3;
 	width:100%;
 	height:100%;
 	color:#666;
@@ -26,7 +25,7 @@ a.navbar-brand {
 .navbar {
 	z-index:0;
 	background:#216b4d;
-	color: #216b4d;
+	color: #fff;
 	position:relative;
 	width:100%;
 	height:auto;
@@ -51,16 +50,18 @@ a.navbar-brand {
 	padding-left:50px;
 	/*box-sizing:border-box;*/
 }
-.container {
+.col-sm-9 {
 	padding-top:0px;
+	padding-right: 50px;
+
 }
 footer {
-  padding: 4rem 0;
+  padding: 2rem 0;
   color: #216b4d;
   text-align: center;
   background-color: #cdcdcd;
   border-top: .05rem solid #bfbfbf;
 }
-footer p:last-child {
+/*footer p:last-child {
   margin-bottom: 0;
 }

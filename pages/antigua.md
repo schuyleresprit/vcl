@@ -5,9 +5,9 @@ permalink: /Antigua
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>Antigua & Barbuda</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://www.worldatlas.com/upload/f0/f2/c4/ag-01.png" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -17,7 +17,7 @@ permalink: /Antigua
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
+       <img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" width="50%" height="50%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -25,7 +25,7 @@ permalink: /Antigua
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/jkincaid">Jamaica Kincaid</a></h4>
        </a>
      </div>
    </div>
