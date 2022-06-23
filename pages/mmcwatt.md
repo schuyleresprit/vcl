@@ -20,74 +20,72 @@ permalink: /mmcwatt
                 <a href="https://en.wikipedia.org/wiki/Mark_McWatt" target="_blank">Read more</a>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+
+         <div class="block">
+            <div class="date right"><p class="right">1994</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>A World Of Poetry For CXC</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181146613l/1118761._SY475_.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: English<br/>
+                Publisher:Heinemann<br/>
+                Publisher Location: London, England<br/>
+                Genre: Poetry<br/>
+                Length: 196
+                    
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2005</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Suspended Sentences: Fictions Of Atonement</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41RVGBKNA2L._SX310_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Publisher Location: Leeds, LDN, England<br/>
+                Genre: Fiction<br/>
+                Length: 250
+
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>A World Of Poetry</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51DtsgkUkPL.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Hodder Education<br/>
+                Publisher Location: London, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 
+   
+                 </p>
             </div>
         </div>
 
+ 
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
+                <h1>A World Of Prose</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/61T7duFg9BL.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Hodder Education<br/>
+                Publisher Location: London, England<br/>
+                Genre: Fiction<br/>
+                Length: 240
 
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
+                 </p>
 
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
             </div>
         </div>
 
