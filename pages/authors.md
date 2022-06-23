@@ -8,7 +8,7 @@ permalink: /authors
 
 [Aimé Césaire](/cesaire) <br/>
 [Alejo Carpentier](/carpenter) <br/>
-[Andrew Salkey](/salkey)<br/>
+[Andrew Salkey](/asalkey)<br/>
 [Austin Clarke](/aclarke)<br/>
 [Claude McKay](/mcKay) <br/>
 [Dionne Brand](/brand) <br/>
