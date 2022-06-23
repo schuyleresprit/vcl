@@ -21,73 +21,87 @@ permalink: /lbennett
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1944</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Anancy stories and Poems in dialect</h1><hr>
+                <p><img src="https://books.google.com/books/content?id=R78NAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70QFkpzLCDsPp1NCZn3gTP0MGC2wnIu6Vy5nPDbo4L4LkB1gVyH5OtJSzVigK9JptcGQJPof2sVwFrsTto35n96DAiuvBMNi731rtCeXHFHDcXnlJORBAsvzv-QN1m5wD_ZYhAl"></p>
                 <p>
-                Lorem ipsum...
+                Language: English<br/>
+                Publisher: Gleanor Co<br/>
+                Publisher Location: Kingston, Jamaica<br/>
+                Genre: Fiction<br/>
+                Length: 68
+
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">1966</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Laugh With Louise: A Pot-pourri of Jamaican Folklore : Stories, Songs, Verses</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/8/8b/Louise_Bennett.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Lithographic Printers Limited<br/>
+                Publisher Location: Kingston, Jamaica<br/>
+                Genre: Fiction<br/>
+                Length: 54
+
+                </p>
             </div>
         </div>
+        
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">1966</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Jamaica Labrish: Jamaica Dialect Poems</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/813RoRWD98L.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Sangster's Book Stores<br/>
+                Publisher Location: Kingston, Jamaica<br/>
+                Genre: Fiction<br/>
+                Length: 234
+
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date right"><p class="right">1983</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Selected Poems</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517342737l/38261238.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Sangster's Book Stores<br/>
+                Publisher Location: Kingston, Jamaica<br/>
+                Genre: Fiction<br/>
+                Length: 175
+
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
+                <h1>Auntie Roachy seh</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61T9MaCVd2L.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Sangster's Book Stores<br/>
+                Publisher Location: Kingston, Jamaica<br/>
+                Genre: Fiction<br/>
+                Length: 171
 
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                </p>
             </div>
         </div>
 
@@ -99,4 +113,3 @@ permalink: /lbennett
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-</body>
