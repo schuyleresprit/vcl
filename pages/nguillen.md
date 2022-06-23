@@ -54,9 +54,9 @@ permalink: /nguillen
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1931</p></div>
+            <div class="date left hide"><p class="left hide">1931</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Sóngoro cosongo</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51iCLiSXwNL.jpg"></p>
                 <p>
@@ -71,8 +71,8 @@ permalink: /nguillen
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1937</p></div>
-            <div class="dot"></div>
+            <div class="date right hide"><p class="right hide">1937</p></div>
+            <div class="dot hide"></div>
             <div class="left">
                 <h1>España: poema en cuatro angustias y una esperanza</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41VIp1CsJXL._SX333_BO1,204,203,200_.jpg"></p>
@@ -88,9 +88,9 @@ permalink: /nguillen
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">1937</p></div>
+            <div class="date left hide"><p class="left hide">1937</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Cantos para soldados y sones para turistas</h1><hr>
                 <p><img src="https://www.cervantesvirtual.com/portadas/023/0239972/Cover.jpg"></p>
                 <p>
@@ -105,9 +105,9 @@ permalink: /nguillen
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">1948</p></div>
+            <div class="date right hide"><p class="right hide">1948</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Elegia A Jacques Roumain En El Cielo De Haiti</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41z4Cs9AV9L._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -122,9 +122,9 @@ permalink: /nguillen
         </div>
 
          <div class="block">
-            <div class="date right"><p class="right">1952</p></div>
+            <div class="date left hide"><p class="left hide">1952</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>El Son Entero</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/418ZjXdQS-L._SX328_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -139,9 +139,9 @@ permalink: /nguillen
         </div>
 
          <div class="block">
-            <div class="date left"><p class="1960</p></div>
+            <div class="date right hide"><p class="right hide">1960</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>!Ay Senora, Mi Vecina!</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41TgQhrTbmL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -156,9 +156,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date right"><p class="right">1964</p></div>
+            <div class="date left hide"><p class="left hide">1964</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Poemas de amor</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/1257975344.jpg"></p>
                 <p>
@@ -173,9 +173,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date left"><p class="left">1964</p></div>
+            <div class="date right hide" ><p class="right hide">1964</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Tengo</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71+3jaDVxvL.jpg"></p>
                 <p>
@@ -191,9 +191,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date right"><p class="right">1971</p></div>
+            <div class="date left hide"><p class="left hide">1971</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Musica De Camara</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51xlaWWM4rL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"></p>
                 <p>
@@ -208,9 +208,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date left"><p class="left">1972</p></div>
+            <div class="date right hide"><p class="right hide">1972</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Nicolas Guillen.Obra Poetica.2 Vols.Primera Edicion.1972</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41ckKVY8TDL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"></p>
                 <p>
@@ -225,9 +225,9 @@ permalink: /nguillen
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1972</p></div>
+            <div class="date left hide"><p class="left hide">1972</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La rueda dentada</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/91xuYsqNYpL.jpg"></p>
                 <p>
@@ -242,9 +242,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date left"><p class="left">1972</p></div>
+            <div class="date right hide"><p class="right hide">1972</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>El diario que a diario</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/91fURWvAfoL.jpg"></p>
                 <p>
@@ -259,9 +259,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date right"><p class="right">1977</p></div>
+            <div class="date left hide"><p class="left hide">1977</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Por el mar de las Antillas anda un barco de papel. Poemas para niños y mayores de edad</h1><hr>
                 <p><img src="https://www.cervantesvirtual.com/portadas/024/0240025/Cover.jpg"></p>
                 <p>
@@ -276,9 +276,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date left"><p class="left">1982</p></div>
+            <div class="date right hide"><p class="right hide">1982</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Paginas Vueltas - Memorias</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51qQTOqh5LL.jpg"></p>
                 <p>
@@ -293,9 +293,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
+            <div class="date left hide"><p class="left hide">2005</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Yoruba from Cuba: Selected Poems of Nicolas Guillen</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51FAP39CSAL._AC_UL600_SR600,600_.jpg"></p>
                 <p>
@@ -310,9 +310,9 @@ permalink: /nguillen
         </div>
 
                 <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date right hide"><p class="right hide">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Memories - Anthologie Poétique</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41PaM3iGD0L._SX415_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -327,13 +327,6 @@ permalink: /nguillen
            </div>
         </div>
 
-
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-</body>
