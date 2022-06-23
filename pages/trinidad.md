@@ -33,6 +33,22 @@ permalink: /Trinidad
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://www.lawrencescott.co.uk/Resources/item1a1.jpeg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/lscott">Lawrence Scott</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-3" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://sta.uwi.edu/crgs/images/CRGS_Issue10_LisaAllenAgostini.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
@@ -42,22 +58,6 @@ permalink: /Trinidad
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/laagostini">Lisa Allen-Agostini</a></h4>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div id="post-3" class="vesti-col timeline-post">
-      <div class="vesti-content-wrapper">
-        <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-4_zpsazehwtua_ewyer0.jpg">
-          <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-            </div>
-          </div>
-        </div>
-        <div class="vesti-desc">
-          <a class="desc-a" href="#">
-            <h4>Rerum commodi</h4>
           </a>
         </div>
       </div>
