@@ -37,6 +37,10 @@ a.navbar-brand {
 .nav-link {
 	color: #216b4d;
 }
+.navbar-1 .nav-item {
+	padding: 10px;
+}
+
 .col-sm-3 {
 	/*height:100%;
 	width:auto;
@@ -52,7 +56,7 @@ a.navbar-brand {
 }
 footer {
   padding: 4rem 0;
-  color: #999;
+  color: #216b4d;
   text-align: center;
   background-color: #cdcdcd;
   border-top: .05rem solid #bfbfbf;
