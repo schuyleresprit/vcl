@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Odimumba Kwamdela"
-permalink: /kwamdela
+permalink: /okwamdela
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

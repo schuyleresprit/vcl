@@ -53,12 +53,13 @@ body {
 }
 .content {
   position: relative;
+  font-family: 'Proxima Nova', sans-serif;
   width: 100%;
   height: auto;
   text-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
   z-index: 99;
   -webkit-backface-visibility: hidden;
-  background: linear-gradient(90deg, #216b4d 0%, #dae5df 100%);
+  background: linear-gradient(90deg, #f3f3f3 0%, #dae5df 100%);
 
 }
 .content h1 {
@@ -134,7 +135,7 @@ body {
 .content .block h4 {
   width: 90%;
   margin: 22px auto;
-  color: #2c64d0;
+  color: #216b4d;
   font-size: 32px;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
 }
@@ -162,13 +163,13 @@ body {
   font-size: 18px;
   line-height: 36px;
   border-radius: 6px;
-  background: #fd69c4;
+  background: #216b4d;
 }
 .content .block a:hover {
-  background: #fd78ca;
+  background: #216b4d;
 }
 .content .block a:active {
-  background: #fd5abe;
+  background: #216b4d;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.15);
 }
 .content .block .dot {
@@ -181,7 +182,7 @@ body {
   left: 0;
   right: 0;
   margin-top: 25px;
-  background-color: #fd69c4;
+  background-color: #216b4d;
   border: solid 5px #fff;
   border-radius: 100px;
   z-index: 300;
@@ -277,11 +278,11 @@ body {
   z-index: 1000;
 }
 ::-moz-selection {
-  background: #fd69c4;
+  background: #216b4d;
   color: #fff;
 }
 ::selection {
-  background: #fd69c4;
+  background: #216b4d;
   color: #fff;
 }
 @media only screen and (max-width: 1136px) {
@@ -335,4 +336,10 @@ body {
 }
 #copyright a:hover {
   color: #6e89a5;
+}
+
+/* Custom */
+
+div.right p img, div.left p img {
+	width: inherit;
 }

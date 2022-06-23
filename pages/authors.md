@@ -3,24 +3,21 @@ layout: pagedefault
 title: "Authors"
 permalink: /authors
 ---
+{% include browse.html %}
 
-Browser List and search box here...
-<<<<<<< HEAD
 
-<br/>
-
-[Aimé Césaire](/cesaire) <br/>
-[Alejo Carpenter](/carpenter) <br/>
-[Andrew Salkey](/salkey)<br/>
-[Austin Clarke](/clarke)<br/>
-[Claude McKay](/mcKay) <br/>
+[Aimé Césaire](/acesaire) <br/>
+[Alejo Carpentier](/acarpentier) <br/>
+[Andrew Salkey](/asalkey)<br/>
+[Austin Clarke](/aclarke)<br/>
+[Claude McKay](/cmckay) <br/>
 [Dionne Brand](/brand) <br/>
 [Earl Lovelace](/lovelace) <br/>
 [Elizabeth Acevedo](/acevedo)<br/>
-[Erna Brodber](/brodber) <br/>
-[Frank A. Collymore](/collymore) <br/>
-[George Lamming](/lamming) <br/>
-[Jacques Roumain](/roumain) <br/>
+[Erna Brodber](/ebrodber) <br/>
+[Frank A. Collymore](/fcollymore) <br/>
+[George Lamming](/glamming) <br/>
+[Jacques Roumain](/jroumain) <br/>
 [Jamaica Kincaid](/kincaid) <br/>
 [Jan J Dominique](/dominique)<br/>
 [Jean Bernabé](/bernabe) <br/>
