@@ -33,6 +33,22 @@ permalink: /Haiti
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="http://ile-en-ile.org/wp-content/uploads/2004/02/dominique.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/jdominique">Jan J Dominique</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-3" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://racespaceplace.files.wordpress.com/2020/08/jean-au-studio.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
@@ -42,22 +58,6 @@ permalink: /Haiti
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/jcasimir">Jean Casimir</a></h4>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div id="post-3" class="vesti-col timeline-post">
-      <div class="vesti-content-wrapper">
-        <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-4_zpsazehwtua_ewyer0.jpg">
-          <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-            </div>
-          </div>
-        </div>
-        <div class="vesti-desc">
-          <a class="desc-a" href="#">
-            <h4>Rerum commodi</h4>
           </a>
         </div>
       </div>
