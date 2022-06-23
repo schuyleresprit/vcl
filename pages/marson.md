@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Una Marson"
-permalink: /marson
+permalink: /umarson
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

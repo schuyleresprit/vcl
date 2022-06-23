@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Phyllis Shand Allfrey"
-permalink: /allfrey
+permalink: /psallfrey
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -102,7 +102,7 @@ permalink: /allfrey
             </div>
         </div>
 
-        
+
 
         <div class="block">
             <div class="date left"><p class="left">17 April 1955</p></div>

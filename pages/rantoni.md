@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Robert Antoni"
-permalink: /antoni
+permalink: /[id]: url "title"antoni
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

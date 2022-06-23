@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Claude McKay"
-permalink: /mcKay
+permalink: /cmcKay
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

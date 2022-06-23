@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jean Rhys"
-permalink: /rhys
+permalink: /jrhys
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
