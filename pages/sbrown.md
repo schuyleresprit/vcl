@@ -21,76 +21,56 @@ permalink: /sbrown
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Caribbean Poetry Now</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266822236i/1514534._UY630_SR1200,630_.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: English<br/>
+                Publisher: Hodder and Stoughton<br/>
+                Publisher Location: London, England<br/>
+                Genre: Anthology<br/>
+                Length: 120
+
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Voiceprint: An Anthology of Oral And Related Poetry from the Caribbean</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/8230498205.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Longman Inc.<br/>
+                Publisher Location: Harlow, England<br/>
+                Genre: Anthology<br/>
+                Length: 276
+
+                </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>The Oxford Nook of Caribbean Short Stories</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61vVLXf7+wL.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Oxford University Press<br/>
+                Publisher Location: Oxford, England<br/>
+                Genre: Anthology<br/>
+                Length: 476
+
+                </p>
             </div>
         </div>
 
-        <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
+      
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
