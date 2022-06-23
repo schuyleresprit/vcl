@@ -21,24 +21,36 @@ permalink: /pchamoiseau
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Delgrès: Les Antilles Sous Bonaparte</h1><hr>
+                <p><img src="https://www.bedetheque.com/media/Couvertures/AntillesSousBonaparteLes_18062006.jpg"></p>
                 <p>
-                Lorem ipsum...
+                Language: French<br/>
+                Publisher: Editions Désormeaux<br/>
+                Publisher Location: Fort-de-France, Martinique<br/>
+                Genre: Non Fiction<br/>
+                Length: 190
+
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Manman Dlo Contre la Fée Carabosse</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31UmswoZCRL._BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Éditions Caribéennes<br/>
+                Publisher Location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 226
+    
+                </p>
             </div>
         </div>
         <div class="block">
@@ -52,43 +64,121 @@ permalink: /pchamoiseau
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Chronique Des Sept Misères</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/91TKeyRtm7L.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Gallimard<br/>
+                Publisher Location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 190
+    
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Martinique vue du ciel</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61YHT8BQEhL._SX495_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Hoa-Qui Editions<br/>
+                Publisher Location: Paris, France<br/>
+                Genre: Essay<br/>
+                Length: 128
+    
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Au Temps De L'antan: Contes Du Pays Martinique</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41ZCVsNum6L.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Hatier<br/>
+                Publisher Location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 125
+    
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Antan D'enfance</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421801274i/949067._UY630_SR1200,630_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Hatier<br/>
+                Publisher Location: Paris, France<br/>
+                Genre: Autobiography/Memoir<br/>
+                Length: 279
+    
+                </p>
             </div>
+        </div>
+
+          <div class="block">
+            <div class="date right"><p class="right">1991</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Solibo Magnifique</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/81ByKjVtEUL.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Gallimard<br/>
+                Publisher Location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 164
+    
+                </p>
+           </div>
+        </div>
+
+          <div class="block">
+            <div class="date left"><p class="left">1997</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Chemin-d'école</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51znXscCQCL._SX322_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: University of Nebraska Press<br/>
+                Publisher Location: Lincoln, NE, United States<br/>
+                Genre: Fiction<br/>
+                Length: 101
+    
+                </p>
+           </div>
+        </div>
+
+          <div class="block">
+            <div class="date right"><p class="right">1999</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Chronicle of the Seven Sorrows</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/5152d-wK0KL._SX282_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: University of Nebraska Press<br/>
+                Publisher Location: Lincoln, NE, United States<br/>
+                Genre: Fiction<br/>
+                Length: 146   
+                </p>
+           </div>
         </div>
 
         <div style="padding-bottom:100px;"></div>
