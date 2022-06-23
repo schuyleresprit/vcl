@@ -15,7 +15,7 @@ permalink: /authors
 [Earl Lovelace](/lovelace) <br/>
 [Elizabeth Acevedo](/acevedo)<br/>
 [Erna Brodber](/brodber) <br/>
-[Frank A. Collymore](/collymore) <br/>
+[Frank A. Collymore](/fcollymore) <br/>
 [George Lamming](/lamming) <br/>
 [Jacques Roumain](/roumain) <br/>
 [Jamaica Kincaid](/kincaid) <br/>
