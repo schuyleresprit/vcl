@@ -5,7 +5,7 @@ permalink: /Belize
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>United States</h2></span>
+        <span class="country"><h2>Belize</h2></span>
         <div class="photo-co">
           <img src="https://www.worldatlas.com/upload/ff/f2/89/bz-01.jpg" >
     </div>
