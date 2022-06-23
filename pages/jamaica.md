@@ -62,5 +62,21 @@ permalink: /Jamaica
         </div>
       </div>
     </div>
+     <div id="post-4" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/kei%20miller_1.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/kmiller">Kei Miller</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
   
 <!-- partial -->
