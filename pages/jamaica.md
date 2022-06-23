@@ -33,7 +33,7 @@ permalink: /Jamaica
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg">
+          <img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -55,5 +55,12 @@ permalink: /Jamaica
             </div>
           </div>
         </div>
-     
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/ebrodber">Erna Brodber</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+  
 <!-- partial -->
