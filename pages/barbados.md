@@ -97,7 +97,7 @@ permalink: /Barbados
       <div id="post-6" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://m.media-amazon.com/images/I/91IiRXfyIXL._SX450_.jpg">
+          <img src="https://m.media-amazon.com/images/I/91IiRXfyIXL._SX450_.jpg" width="50%" heigh="50%">
           <div class="vesti-date-wrapper">
        <div class="vesti-date">
           </div>
