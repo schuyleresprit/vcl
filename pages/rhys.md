@@ -253,14 +253,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Lasers (Look Inside)</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: Blackwell Raintree	<br/>
+                Pub Location: Oxford, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 48
                 </p>
             </div>
         </div>
@@ -270,14 +269,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Quatuor</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41TTKG4499L._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: French <br/>
+                Publisher: Loisirs	<br/>
+                Pub Location: Paris, France <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 222
                 </p>
             </div>
         </div>
@@ -287,14 +286,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Voyage In The Dark</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
                 Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Tiderne Skifter	<br/>
+                Pub Location: Copenhagen, Denmark <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 169
                 </p>
             </div>
         </div>
