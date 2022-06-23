@@ -17,7 +17,7 @@ permalink: /Haiti
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg" width="50%" height="50%" >
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -25,7 +25,7 @@ permalink: /Haiti
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Jacques Roumain</a></h4>
+         <h4><a href="/jroumain">Jacques Roumain</a></h4>
        </a>
      </div>
    </div>
