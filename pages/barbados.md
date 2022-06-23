@@ -33,7 +33,7 @@ permalink: /Barbados
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://3.bp.blogspot.com/-dNS72IPVUus/UDjbUHToTRI/AAAAAAAADC0/5ujqjIed854/s1600/jean+rhys.jpg">
+          <img src="https://aaregistry.org/wp-content/uploads/2012/02/Frank-Collymore.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -41,7 +41,7 @@ permalink: /Barbados
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rhys"> Frank A Collymore </a></h4>
+            <h4><a href="/fcollymore"> Frank A Collymore </a></h4>
           </a>
         </div>
       </div>
@@ -51,11 +51,6 @@ permalink: /Barbados
         <div class="photo">
           <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-4_zpsazehwtua_ewyer0.jpg">
           <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-              <span class="day">16</span>
-              <br>
-              <span class="month">NOV</span>
-            </div>
           </div>
         </div>
         <div class="vesti-desc">
@@ -71,11 +66,6 @@ permalink: /Barbados
         <div class="photo">
           <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-3_zpsxo9mx2fx_lqohzy.jpg">
           <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-              <span class="day">4</span>
-              <br>
-              <span class="month">OCT</span>
-            </div>
           </div>
         </div>
       </div>
