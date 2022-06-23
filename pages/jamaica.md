@@ -126,7 +126,7 @@ permalink: /Jamaica
         </div>
       </div>
     </div>
-      <div id="post-u" class="vesti-col timeline-post">
+      <div id="post-7" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Opal-Palmer-Adisa-1024x684.jpg">
@@ -138,6 +138,22 @@ permalink: /Jamaica
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/oadisa">Opal Palmer Adisa</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+   <div id="post-8" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://static.wikia.nocookie.net/pennyspoetry/images/8/85/PamelaMordecai.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/pmordecai">Pamela Mordecai</a></h4>
           </a>
         </div>
       </div>
