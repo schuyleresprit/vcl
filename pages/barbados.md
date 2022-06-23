@@ -55,9 +55,8 @@ permalink: /Barbados
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4>Rerum commodi</h4>
+            <h4>George Lamming</h4>
           </a>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, incidunt eius totam animi, alias non iste similique perspiciatis aut, dolor harum dolores explicabo sunt cum consequatur sint maiores, ullam corrupti.</p>
         </div>
       </div>
     </div>
