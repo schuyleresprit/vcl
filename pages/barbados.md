@@ -49,7 +49,7 @@ permalink: /Barbados
     <div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-4_zpsazehwtua_ewyer0.jpg">
+          <img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg">
           <div class="vesti-date-wrapper">
           </div>
         </div>
@@ -63,7 +63,7 @@ permalink: /Barbados
     <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-3_zpsxo9mx2fx_lqohzy.jpg">
+          <img src="">
           <div class="vesti-date-wrapper">
           </div>
         </div>
