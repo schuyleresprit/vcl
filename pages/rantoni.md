@@ -21,74 +21,113 @@ permalink: /rantoni
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1992</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>
-                Lorem ipsum...
-                </p>
+                <h1>Divina Trace</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/81S8S+qcvyL.jpg"></p>
+                <p>Language: English <br/>
+                Publisher: The Overlook Press<br/>
+                Pub_location: Woodstock, NY, United States<br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 436</p>
             </div>
         </div>
-
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">1993</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Divina Trace</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/81S8S+qcvyL.jpg"></p>
+                <p>Language: English <br/>
+                Publisher: The Overlook Press<br/>
+                Pub_location: Woodstock, NY, United States<br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 418</p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Conjunctions: 27, The Archipelago</h1><hr>
+                <p><img src="https://tools.bard.edu/wwwmedia/pubs/images/223/27.jpg"></p>
+                <p>Language: English <br/>
+                Publisher: Bard College<br/>
+                Pub_location: Annandale-on-Hudson, United States<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 360</p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date right"><p class="right">1998</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Blessed is the fruit</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/5138QFYVYFL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Language: English <br/>
+                Publisher: Faber<br/>
+                Pub_location: London , England<br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 399</p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Los Cuentos Eróticos de Mi Abuela</h1><hr>
+                <p><img src="https://www.anagrama-ed.es/uploads/media/portadas/0001/18/thumb_17887_portadas_big.jpeg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Editorial Anagrama<br/>
+                Pub_location: Barcelona, Spain<br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 244</p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Carnaval</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41v00E1IzXL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Editorial Anagrama<br/>
+                Pub_location: Barcelona, Spain<br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 332</p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Trinidad Noir</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41QxGYB4etS.jpg"></p>
+                <p>Language: English <br/>
+                Publisher: Akashic Books<br/>
+                Pub_location: Brooklyn, NY, United States<br/>
+                Genre: Anthology<br/>
+                Length: 300</p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>As Flies to Whatless Boys</h1><hr>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781845232962.jpg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Akashic Books<br/>
+                Pub_location: Brooklyn, NY, United States<br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 340</p>
             </div>
         </div>
         <div style="padding-bottom:100px;"></div>

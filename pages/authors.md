@@ -18,7 +18,7 @@ permalink: /authors
 [Frank A. Collymore](/fcollymore) <br/>
 [George Lamming](/glamming) <br/>
 [Jacques Roumain](/jroumain) <br/>
-[Jamaica Kincaid](/kincaid) <br/>
+[Jamaica Kincaid](/jkincaid) <br/>
 [Jan J Dominique](/dominique)<br/>
 [Jean Bernabé](/bernabe) <br/>
 [Jean Casimir](/casimir)<br/>

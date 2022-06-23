@@ -32,7 +32,7 @@
 
             var geojsonMarkerOptions = {
                 radius: 8,
-                fillColor: "#216b4d",
+                fillColor: "#ffd700",
                 color: "#000",
                 weight: 1,
                 opacity: 1,
@@ -41,7 +41,7 @@
             $.getJSON("data/countries.geojson", function (data) {
             var datalayer = L.geoJson(data, {
                 onEachFeature: function (feature, featureLayer) {
-                    featureLayer.bindPopup(`<a href="/${feature.properties.placeID}">${feature.properties.author_country}</a>`);
+                    featureLayer.bindPopup(`<a href="/${feature.properties.Author_Country}">${feature.properties.Author_Country}</a>`);
                         },
                 pointToLayer: function (feature, latlng) {
                     return L.circleMarker(latlng, geojsonMarkerOptions);
