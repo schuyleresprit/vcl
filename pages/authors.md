@@ -16,7 +16,7 @@ permalink: /authors
 [Elizabeth Acevedo](/acevedo)<br/>
 [Erna Brodber](/brodber) <br/>
 [Frank A. Collymore](/fcollymore) <br/>
-[George Lamming](/lamming) <br/>
+[George Lamming](/glamming) <br/>
 [Jacques Roumain](/roumain) <br/>
 [Jamaica Kincaid](/kincaid) <br/>
 [Jan J Dominique](/dominique)<br/>
