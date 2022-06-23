@@ -25,7 +25,7 @@ permalink: /Grenada
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Merle Collins</a></h4>
+         <h4><a href="/mcollins">Merle Collins</a></h4>
        </a>
      </div>
    </div>
