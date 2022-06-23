@@ -16,7 +16,7 @@ permalink: /mcollins
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p> Merle Collins is from Aruba.</p>
+            <p> Merle Collins is from Grenada (Born in Aruba).</p>
                 <a href="https://en.wikipedia.org/wiki/Merle_Collins" target="_blank">Read more</a>
             </div>
         </div>
