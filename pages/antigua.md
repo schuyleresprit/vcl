@@ -17,7 +17,7 @@ permalink: /Antigua
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg">
+       <img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" width="50%" height="50%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
