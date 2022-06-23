@@ -2717,111 +2717,105 @@ permalink: /vsnaipaul
                 <p>Language: Persian<br/>
                 Publisher: NivishtÄr<br/>
                 Pub_location: Helsingissä, Hki, Iran<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Fiction (Novel)<br/>
                 Translation: y<br/>
                 Length: 221</p>
             </div>
         </div>
-        
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: New York review<br/>
-                Pub_location: New York, NY, United States<br/>
+                <h1>In Den Alten Sklavenstaaten Eine Reise</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9783462020458-us.jpg"></p>
+                <p>Language: German<br/>
+                Publisher: Kiepenheuer & Witsch<br/>
+                Pub_location: Köln, Germany<br/>
                 Genre: Nonfiction Book<br/>
                 Translation: y<br/>
-                Length: 7</p>
+                Length: 391</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                <h1>I Sydstaterna : Ett Land Av Röster</h1><hr>
+                <p><img src="https://bokborsenlive.s3.eu-north-1.amazonaws.com/product_thumb/1473171/6642534/5943ea849b7e2.jpg"></p>
+                <p>Language: Swedish<br/>
+                Publisher: Wahlström & Widstrand<br/>
+                Pub_location: Stockholm, Sweden<br/>
                 Translation: y<br/>
-                Length: 308</p>
+                Length: 347</p>
             </div>
         </div>
-        
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: New York review<br/>
-                Pub_location: New York, NY, United States<br/>
+                <h1>L'Inde: Un Millon De Révoltes</h1><hr>
+                <p><img src="https://images-eu.ssl-images-amazon.com/images/I/41DWsLuTEKL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Librairie Plon<br/>
+                Pub_location: Paris, France<br/>
                 Genre: Nonfiction Book<br/>
                 Translation: y<br/>
-                Length: 7</p>
+                Length: 665</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                <h1>Ankomstens Gåde</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/415K66651CL._SX315_BO1,204,203,200_.jpg"></p>
+                <p>Language: Danish<br/>
+                Publisher: Gyldendal<br/>
+                Pub_location: Copenhagen, Denmark<br/>
+                Genre: Fiction (Novel)<br/>
                 Translation: y<br/>
-                Length: 308</p>
+                Length: 181</p>
             </div>
         </div>
-        
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: New York review<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                <h1>Onder De Gelovigen: Een Reis Door De Islam</h1><hr>
+                <p><img src="https://d3525k1ryd2155.cloudfront.net/h/693/142/1164142693.0.b.jpg"></p>
+                <p>Language: Dutch<br/>
+                Publisher: De Arbeiderspers<br/>
+                Pub_location: Amsterdam, Netherlands<br/>
+                Genre: Fiction (Novel)<br/>
+                Translation: y<br/>
+                Length: 547</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>Guerrillas</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391084393i/253835.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Publisher: Vintage Books<br/>
+                Pub_location: New York, NY, Unted States<br/>
+                Genre: Fiction (Novel)<br/>
+                Translation: y<br/>
+                Length: 279</p>
             </div>
         </div>
-        
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>A Turn in the South</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51LmqqkX37L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
-                Pub_location: New York, NY, United States<br/>
+                Publisher: Vintage Books<br/>
+                Pub_location: New York, NY, Unted States<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Length: 345</p>
             </div>
         </div>
         <div class="block">
