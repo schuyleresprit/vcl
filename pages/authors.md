@@ -10,7 +10,7 @@ permalink: /authors
 [Alejo Carpentier](/carpenter) <br/>
 [Andrew Salkey](/asalkey)<br/>
 [Austin Clarke](/aclarke)<br/>
-[Claude McKay](/mcKay) <br/>
+[Claude McKay](/cmckay) <br/>
 [Dionne Brand](/brand) <br/>
 [Earl Lovelace](/lovelace) <br/>
 [Elizabeth Acevedo](/acevedo)<br/>
