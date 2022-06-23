@@ -336,3 +336,9 @@ body {
 #copyright a:hover {
   color: #6e89a5;
 }
+
+/* Custom */
+
+div.right p img, div.left p img {
+	width: inherit;
+}
