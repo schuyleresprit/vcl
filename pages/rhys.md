@@ -439,14 +439,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Sargassomeer</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9783596280247-us.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: German <br/>
+                Publisher: Frankfurt Fischer-Taschenbuch-Verlag	<br/>
+                Pub Location: Berlin, Germany <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 134
                 </p>
             </div>
         </div>
@@ -455,15 +455,15 @@ permalink: /jrhys
             <div class="date left"><p class="left">1983</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Quartet</h1><hr>
-                <p><img src=""></p>
+                <h1>Kvartet</h1><hr>
+                <p><img src="http://moreinfo.addi.dk/2.11/more_info_get.php?lokalid=53180396&attachment_type=forside_stor&bibliotek=870970&source_id=150020&key=3c8c9cab1136bec2519b"></p>
                 <p>
                 Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Tiderne Skifter	<br/>
+                Pub Location: Copenhagen, Denmark <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 163
                 </p>
             </div>
         </div>
@@ -473,14 +473,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Wide Sargasso Sea</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
                 Language: Dutch <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Bert Bakker	<br/>
+                Pub Location: Amsterdam,	Netherlands <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 159
                 </p>
             </div>
         </div>
@@ -490,14 +490,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Después de dejar al señor Mackenzie</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.alcanalibros.com/2558658r.jpg"></p>
                 <p>
-                Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish <br/>
+                Publisher: Noguer	<br/>
+                Pub Location: Barcelona, Spain <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 226
                 </p>
             </div>
         </div>
@@ -507,14 +507,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Cuarteto</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51LHUC0pfgL._SX309_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: Dutch <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish <br/>
+                Publisher: J. Vergara Editor	<br/>
+                Pub Location: Buenos Aires, Argentina <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 212
                 </p>
             </div>
         </div>
@@ -524,14 +524,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Los tigres son más hermosos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41kbE2EGLkL._SX309_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish <br/>
+                Publisher: Editorial Anagrama	<br/>
+                Pub Location: Barcelona, Spain <br/>
+                Genre: Fiction (Short Story Collection) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 141
                 </p>
             </div>
         </div>
@@ -541,14 +541,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>여자가이별을말할때 (Yoja Ka Ibyol Ul Mal Halttae)</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Dutch <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Korean <br/>
+                Publisher: Munjisa	<br/>
+                Pub Location: Seoul	South Korea <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 210
                 </p>
             </div>
         </div>
@@ -558,14 +558,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Nach der Trennung von Mr. Mackenzie</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31XryVpRvdL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: German <br/>
+                Publisher: Ullstein	<br/>
+                Pub Location: Frankfurt, Germany <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 222
                 </p>
             </div>
         </div>
