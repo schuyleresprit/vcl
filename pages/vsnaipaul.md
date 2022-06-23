@@ -2822,305 +2822,316 @@ permalink: /vsnaipaul
             <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>A Million Mutinies Now</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51S1aI1N2NL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
+                Publisher: Heinemann<br/>
                 Pub_location: London, England<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Length: 624</p>
             </div>
         </div>
-        
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: New York review<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                <h1>Elezioni A Elvira</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387734382i/5860.jpg"></p>
+                <p>Language: Italian<br/>
+                Publisher: Mondadori<br/>
+                Pub_location: Milano, Italy<br/>
+                Genre: Fiction (Novel)<br/>
+                Translation: y<br/>
+                Length: 243</p>
             </div>
         </div>
-
-
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">1994</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>Among the Believers: An Islamic Journey</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51QrRVaV8wL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Length: 350</p>
             </div>
         </div>
-        
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date left"><p class="left">1995</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: New York review<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                <h1>Sacrifices</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51aR6Nap6hL._SX338_BO1,204,203,200_.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Albin Michel<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Biography<br/>
+                Translation: y<br/>
+                Length: 221</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">1998</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>Beyond Belief: Islamic Excursions Among the Converted Peoples</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51XYsdUfpFL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
+                Publisher: Brown and Company<br/>
                 Pub_location: London, England<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Length: 432</p>
             </div>
         </div>
-        
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>Letters Between a Father and Son</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51V8LcP37xL._SX327_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
-                Pub_location: New York, NY, United States<br/>
+                Publisher: Picador<br/>
+                Pub_location: London, England<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Length: 333</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>Half a Life</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41bA83OtMOL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
+                Publisher: Picador<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Genre: Fiction (Novel)<br/>
+                Length: 211</p>
             </div>
         </div>
-        
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>An Area of Darkness</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320428202i/5854.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
+                Publisher: Random House Digital, Inc.<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Genre: Fiction (Novel)<br/>
+                Length: 548</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>Guerrillas</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391084393i/253835.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
+                Publisher: Picador<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Genre: Fiction (Novel)<br/>
+                Length: 254</p>
             </div>
         </div>
-        
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>Half a Life: A Novel</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41bA83OtMOL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
+                Publisher: Random House Digital, Inc.<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Genre: Fiction (Novel)<br/>
+                Length: 226</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>Miguel Street</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403189899i/49741.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 308</p>
-            </div>
-        </div>
-        
-        <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: New York review<br/>
+                Publisher: Random House Digital, Inc.<br/>
                 Pub_location: New York, NY, United States<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Length: 131</p>
             </div>
         </div>
-
-
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date left"><p class="left">2003</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Writer and the World: Essays</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/510Tc+bUfdL._SY344_BO1,204,203,200_.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Picador<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 544</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>Literary Occasions: Essays</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51N4d7aioWL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Publisher: Random House Digital, Inc.<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 202</p>
             </div>
         </div>
-        
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>Magic Seeds</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924115i/5851.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
+                Publisher: Picador<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Genre: Fiction (Novel)<br/>
+                Length: 293</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>A Writer's People: Ways of Looking and Feeling</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41U05N+5uGL._SY344_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
+                Publisher: Picador<br/>
                 Pub_location: London, England<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Length: 193</p>
             </div>
         </div>
-        
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>The Masque of Africa: Glimpses of African Belief</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51IBG6XmW1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
+                Publisher: Picador<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Genre: Biography<br/>
+                Length: 241</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>A Turn in the South</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51LmqqkX37L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Publisher: Random House Digital, Inc.<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 204</p>
             </div>
         </div>
-        
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>Among the Believers</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51QrRVaV8wL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
+                Publisher: Random House Digital, Inc.<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Genre: Fiction (Novel)<br/>
+                Length: 350</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>The Mimic Men</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51KiwF645tL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Publisher: Random House Digital, Inc.<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 287</p>
             </div>
         </div>
-        
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>A Way in the World</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320433055i/769513.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Publisher: Picador<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 369</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
+                <h1>Bend in the River</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NBklImHoL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 308</p>
+                Publisher: Alfred A. Knopf<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 325</p>
             </div>
         </div>
-        
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Shadow of the Guru</h1><hr>
-                <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
+                <h1>A House for Mr. Biswas</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51OPIrpmL9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: New York review<br/>
+                Publisher: Macmillan Publishers<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 7</p>
+                Genre: Fiction (Novel)<br/>
+                Length: 622</p>
             </div>
         </div>
-
-
+        <div class="block">
+            <div class="date right"><p class="right">2020</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>A Bend in the River</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NBklImHoL._SX322_BO1,204,203,200_.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Picador<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 325</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2020</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Enigma of Arrival</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51WF0izAP1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Macmillan Publishers<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 440</p>
+            </div>
+        </div>
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
