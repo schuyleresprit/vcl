@@ -25,14 +25,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right">
                 <h1>After Leaving Mr Mackenzie</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Language: English <br/> English
+                Publisher: Penguin Books<br/>
+                Pub Location: London, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 184
                 </p>
             </div>
         </div>
@@ -41,15 +40,14 @@ permalink: /jrhys
             <div class="date right"><p class="right">1927</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Left Bank, And Other Stories</h1><hr>
-                <p><img src=""></p>
+                <h1>Left Bank, And Other Stories</h1><hr> 	
+                <p><img src="https://pictures.abebooks.com/inventory/31128971014.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: Books for Libraries Press<br/>
+                Pub Location: Freeport, NY, United States <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 256
                 </p>
             </div>
         </div>
@@ -58,14 +56,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Left Bank & Other Stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
                 Language: French <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Mercure de France<br/> 	
+                Pub Location: Paris, France <br/>
+                Genre: Fiction (Short Story Collection) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 256
                 </p>
             </div>
         </div>
@@ -75,14 +73,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Quartet</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51sSXbutChL._SX346_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: Penguin Books<br/> 	
+                Pub Location: London, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 163
                 </p>
             </div>
         </div>
@@ -92,14 +89,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Good Morning, Midnight</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/416xMaz4XJL._SX324_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: Penguin Books	<br/>  
+                Pub Location: London, England <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 192
                 </p>
             </div>
         </div>
@@ -109,14 +105,13 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Wide Sargasso Sea</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+381554_140.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
+                Publisher: W. W. Norton & Company	<br/>
+                Pub Location: New York, NY, United States <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 196
                 </p>
             </div>
         </div>

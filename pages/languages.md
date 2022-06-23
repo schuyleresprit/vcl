@@ -3,5 +3,4 @@ layout: pagedefault
 title: "Languages"
 permalink: /Languages
 ---
-
-Testing...
+{% include browse-languages.html %}

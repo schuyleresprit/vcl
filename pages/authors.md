@@ -3,7 +3,7 @@ layout: pagedefault
 title: "Authors"
 permalink: /authors
 ---
-{% include browse.html %}
+{% include browse-authors.html %}
 
 
 [Aimé Césaire](/acesaire) <br/>
