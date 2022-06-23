@@ -17,7 +17,7 @@ permalink: /authors
 [Erna Brodber](/ebrodber) <br/>
 [Frank A. Collymore](/fcollymore) <br/>
 [George Lamming](/glamming) <br/>
-[Jacques Roumain](/roumain) <br/>
+[Jacques Roumain](/jroumain) <br/>
 [Jamaica Kincaid](/kincaid) <br/>
 [Jan J Dominique](/dominique)<br/>
 [Jean Bernabé](/bernabe) <br/>
