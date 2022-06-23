@@ -94,4 +94,20 @@ permalink: /Barbados
         </div>
       </div>
     </div>
+      <div id="post-6" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://m.media-amazon.com/images/I/91IiRXfyIXL._SX450_.jpg">
+          <div class="vesti-date-wrapper">
+       <div class="vesti-date">
+          </div>
+        </div>
+      </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/okwamdela"> Odimumba Kwamdela </a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
 <!-- partial -->
