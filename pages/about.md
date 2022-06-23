@@ -3,7 +3,6 @@ layout: pagedefault
 title: About
 permalink: /about/
 ---
-
 __The Project__
 
 
@@ -11,6 +10,7 @@ Writing in and about the Caribbean has been documented across anthologies, bibli
 
 VCL aims to contribute to and open the way for further critical engagement with Caribbean literary history, including teaching of literature in primary and secondary contexts.  Moreover, WRS adds the dimension of the literary reception as a key component for visualizing the breadth and depth of Caribbean communities.
 
+<img src='/assets/img/wordcloud.png'/>
 
 
 __The Assignment__

@@ -2,7 +2,7 @@
 <style>
 .filterDiv {
   float: left;
-  background-color: #216b4d;
+  background-color: #ffd700;
   color: #ffffff;
   width: 100px;
   line-height: 100px;
@@ -25,7 +25,7 @@
   border: none;
   outline: none;
   padding: 12px 16px;
-  background-color: #216b4d;
+  background-color: #0c0c0c;
   cursor: pointer;
 }
 
@@ -92,6 +92,7 @@
 						for (key in data) {
 							temp.push({
 								"flavorText" : data[key]["Author"],
+                                "subtitle" : data[key]["author_country"],
 								"link" : data[key]["author_id"]
 							});
 						}
@@ -115,7 +116,7 @@
 							<div class="card col-4">
 								<div class="card-body">
 									<h5 class="card-title">${element.data[i].flavorText}</h5>
-									<h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+									<h6 class="card-subtitle mb-2 text-muted">${element.data[i].subtitle}</h6>
 									<a href="/${element.data[i].link}" class="card-link">More</a>
 								</div>
 							</div>
