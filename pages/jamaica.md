@@ -62,5 +62,53 @@ permalink: /Jamaica
         </div>
       </div>
     </div>
+     <div id="post-4" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/kei%20miller_1.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/kmiller">Kei Miller</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+        <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://www.caribbeannationalweekly.com/wp-content/uploads/2019/06/Miss-Lou-Louise-Bennett-CoverleyJamaican-Cultural-Icon.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/lbennett">Louise Bennett</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+         <div id="post-6" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://images.gr-assets.com/authors/1411193085p5/45053.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mcliff">Michelle Cliff</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
   
 <!-- partial -->

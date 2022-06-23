@@ -5,9 +5,9 @@ permalink: /Guyana
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>Guyana</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/90/34/be/gy-01.png" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -17,7 +17,7 @@ permalink: /Guyana
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
+       <img src="https://www.bimlitfest.org/sites/default/files/styles/author_home/public/images/authors/markus_x.jpg?itok=O-6cX_Pl">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -25,7 +25,7 @@ permalink: /Guyana
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/mmcwatt">Mark McWatt</a></h4>
        </a>
      </div>
    </div>

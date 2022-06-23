@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Edward Kamau Brathwaite"
-permalink: /jbrathwaite
+permalink: /kbrathwaite
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

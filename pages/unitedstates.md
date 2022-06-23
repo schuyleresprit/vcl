@@ -5,9 +5,9 @@ permalink: /usa
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>United States</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/be/2f/25/physical-us-map.png" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
