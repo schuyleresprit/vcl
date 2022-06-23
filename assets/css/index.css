@@ -25,6 +25,7 @@ a.navbar-brand {
 
 .navbar {
 	z-index:0;
+	icon: url'assets/img/CreateLogo.png';
 	background:#216b4d;
 	color: #216b4d;
 	position:relative;
@@ -61,6 +62,6 @@ footer {
   background-color: #cdcdcd;
   border-top: .05rem solid #bfbfbf;
 }
-footer p:last-child {
+/*footer p:last-child {
   margin-bottom: 0;
 }
