@@ -14,7 +14,7 @@ permalink: /authors
 [Dionne Brand](/brand) <br/>
 [Earl Lovelace](/lovelace) <br/>
 [Elizabeth Acevedo](/acevedo)<br/>
-[Erna Brodber](/brodber) <br/>
+[Erna Brodber](/ebrodber) <br/>
 [Frank A. Collymore](/fcollymore) <br/>
 [George Lamming](/glamming) <br/>
 [Jacques Roumain](/roumain) <br/>

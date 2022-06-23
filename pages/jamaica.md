@@ -33,7 +33,7 @@ permalink: /Jamaica
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://3.bp.blogspot.com/-dNS72IPVUus/UDjbUHToTRI/AAAAAAAADC0/5ujqjIed854/s1600/jean+rhys.jpg">
+          <img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -41,7 +41,7 @@ permalink: /Jamaica
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rhys">Claude McKay</a></h4>
+            <h4><a href="/cmckay">Claude McKay</a></h4>
           </a>
         </div>
       </div>
@@ -52,29 +52,22 @@ permalink: /Jamaica
           <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-4_zpsazehwtua_ewyer0.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
-              <span class="day">16</span>
-              <br>
-              <span class="month">NOV</span>
             </div>
           </div>
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4>Rerum commodi</h4>
+            <h4><a href="/ebrodber">Erna Brodber</a></h4>
           </a>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, incidunt eius totam animi, alias non iste similique perspiciatis aut, dolor harum dolores explicabo sunt cum consequatur sint maiores, ullam corrupti.</p>
         </div>
       </div>
     </div>
     <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-3_zpsxo9mx2fx_lqohzy.jpg">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Erna_Brodber.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
-              <span class="day">4</span>
-              <br>
-              <span class="month">OCT</span>
             </div>
           </div>
         </div>
