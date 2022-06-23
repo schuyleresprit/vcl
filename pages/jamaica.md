@@ -5,9 +5,9 @@ permalink: /Jamaica
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>Jamaica</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEaBtG4V3NThGm98DAm1hLHyREwf8LhM5eKQ15oiqzODdyAUtFSVKN9ekFb9MED35vk4&usqp=CAU" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -25,7 +25,7 @@ permalink: /Jamaica
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/allfrey">Andrew Salkey</a></h4>
        </a>
      </div>
    </div>
