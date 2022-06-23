@@ -699,6 +699,396 @@ permalink: /jrhys
             </div>
         </div>
 
+        <div class="block">
+            <div class="date left"><p class="left">1985</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Dörtlü</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Turkish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1985</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Ayriliktan Sonra</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Turkish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1985</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Que Usted La Duerma Bien, Señora</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Turkish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1986</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Cang Hai Mang Mang</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Turkish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1986</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Voyage In The Dark</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Turkish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1987</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Wide Sargasso Sea</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Arabic <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1987</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Bonjour, Minuit</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Turkish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1987</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Hē platia thalassa tōn Sargassōn</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Arabic <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1987</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>L'Ampla mar dels Sargassos</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Turkish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1987</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Wide Sargasso Sea</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Hungarian <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1987</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Wide Sargasso Sea</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Polish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1988</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>カルテット / (Karutetto)</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Hungarian <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1988</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Marea Sargasselor</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Polish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1989</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Il grande mare dei Sargassi</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Hungarian <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1989</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Sonríe, por favor : una autobiografía inconclusa</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Polish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1989</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Karanlıkta yolculuk</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Hungarian <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1989</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Den Första Hustrun</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Polish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1990</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Quartet</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Hungarian <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1990</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Bugzar Anra Gaz Binamand: Guzida-I Az Dastanha-Yi Nawisandigan-I Mu'asir-i Gahan</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Polish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1990</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Ein Abend In Der Stadt: Erzählungen</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Hungarian <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1990</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Ancho mar de los Sargazos</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Polish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1990</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Günaydın geceyarısı</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Hungarian <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1992</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Collected Short Stories</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Polish <br/>
+                Publisher: The University of North Carolina Press<br/>
+                Pub Location: Chapel Hill, NC, United States <br/>
+                Genre: Nonfiction Book <br/>
+                Translation: Y <br/>
+                Length: 419
+                </p>
+            </div>
+        </div>
 
 
         <div style="padding-bottom:100px;"></div>
