@@ -54,8 +54,8 @@ permalink: /Barbados
           </div>
         </div>
         <div class="vesti-desc">
-          <a class="desc-a" href="#">
-            <h4>George Lamming</h4>
+          <a class="desc-a" href="">
+            <h4><a href="/glamming"> George Lamming </a></h4>
           </a>
         </div>
       </div>
