@@ -51,25 +51,15 @@ permalink: /Barbados
         <div class="photo">
           <img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg">
           <div class="vesti-date-wrapper">
+       <div class="vesti-date">
           </div>
         </div>
+      </div>
         <div class="vesti-desc">
-          <a class="desc-a" href="">
+          <a class="desc-a" href="#">
             <h4><a href="/glamming"> George Lamming </a></h4>
           </a>
         </div>
       </div>
     </div>
-    <div id="post-4" class="vesti-col timeline-post">
-      <div class="vesti-content-wrapper">
-        <div class="photo">
-          <img src="">
-          <div class="vesti-date-wrapper">
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-  </div>
-</div>
 <!-- partial -->
