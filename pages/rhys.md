@@ -303,14 +303,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Goedemorgen, Middernacht</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Dutch <br/>
+                Publisher: Bert Bakker	<br/>
+                Pub Location: Amsterdam, Netherlands <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 153
                 </p>
             </div>
         </div>
@@ -320,14 +320,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Quartet</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9782070373796-us.jpg"></p>
                 <p>
-                Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: French <br/>
+                Publisher: Gallimard	<br/>
+                Pub Location: Paris, France <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 189
                 </p>
             </div>
         </div>
@@ -337,14 +337,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Lächeln bitte! Unvollendete Erinnerungen</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/716132920.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: German <br/>
+                Publisher: Rogner und Bernhard	<br/>
+                Pub Location: München, Germany <br/>
+                Genre: Autobiography/Memoir <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 237
                 </p>
             </div>
         </div>
@@ -354,14 +354,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Ancho mar de los Sargazos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.anagrama-ed.es/uploads/media/portadas/0001/20/xthumb_19206_portadas_big.jpeg.pagespeed.ic.HhDJa9fyZF.webp"></p>
                 <p>
-                Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish <br/>
+                Publisher: Bruguera	<br/>
+                Pub Location: Barcelona, Spain <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 191
                 </p>
             </div>
         </div>
@@ -371,14 +371,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>El Vasto Mar De Los Sargazos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.ecured.cu/images/9/98/Sargass1.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Publisher: Casa de las Américas	<br/>
+                Pub Location: Havana, Cuba <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 172
                 </p>
             </div>
         </div>
@@ -388,14 +388,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Ci dorma sopra, Signora</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51pGooIIOJL._SX309_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Italian <br/>
+                Publisher: La Tartaruga	<br/>
+                Pub Location: Milano, Italy <br/>
+                Genre: Fiction (Short Story Collection) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 142
                 </p>
             </div>
         </div>
@@ -405,14 +405,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Geniş geniş bir deniz</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pz0fpvezntt4.merlincdn.net/productimages/120210/big/9789755100661_861.jpg"></p>
                 <p>
-                Language: English <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Turkish <br/>
+                Publisher: Can Yayinlari Ltd. Sti.	<br/>
+                Pub Location: Istanbul, Turkey <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 216
                 </p>
             </div>
         </div>
@@ -422,14 +422,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Aphotou ephyge apo ton kyrio Makenzy</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Danish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Greek, Modern <br/>
+                Publisher: Chatzenikole	<br/>
+                Pub Location: Athena, Greece <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 134
                 </p>
             </div>
         </div>
