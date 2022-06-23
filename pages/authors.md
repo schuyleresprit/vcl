@@ -56,6 +56,7 @@ permalink: /authors
 [V.S. Naipaul](/naipaul)<br/>
 [Walter Adolphe Roberts](/roberts)<br/>
 [Wilson Harris](/harris)<br/>
+[Zee Edgell](/zedgell)<br/>
 
 
 I want this page to have a search and browse feature and once selected to look something like [this](http://mapping-marronage.rll.lsa.umich.edu/flight).
