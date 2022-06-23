@@ -910,14 +910,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Il grande mare dei Sargassi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Hungarian <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Italian		 <br/>
+                Publisher: Adelphi<br/>
+                Pub Location: Milano, Italy <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 207
                 </p>
             </div>
         </div>
@@ -927,14 +927,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Sonríe, por favor : una autobiografía inconclusa</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://syndetics.com/index.php?client=primo&isbn=9681631439/sc.jpg"></p>
                 <p>
-                Language: Polish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish		 <br/>
+                Publisher: Fondo de Cultura Economica<br/>
+                Pub Location: Mexico City, Mexico <br/>
+                Genre: Autobiography/Memoir <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 190
                 </p>
             </div>
         </div>
@@ -944,14 +944,14 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Karanlıkta yolculuk</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Hungarian <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Turkish		 <br/>
+                Publisher: Can Yayinlari Ltd. Sti.<br/>
+                Pub Location: Istanbul, Turkey <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 165
                 </p>
             </div>
         </div>
@@ -961,65 +961,64 @@ permalink: /jrhys
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Den Första Hustrun</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://varldslitteratur.se/sites/varldslitteratur.se/files/styles/thumbnail_bok_mellan/public/bok/2015/firsthustrun.gif?itok=_zmbDCmB"></p>
                 <p>
-                Language: Polish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Swedish		 <br/>
+                Publisher: Btj<br/>
+                Pub Location: Stockholm, Sweden <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 186
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
+                <h1>Taxidi Sto Skotadi</h1><hr>
+                <p><img src="https://www.politeianet.gr/components/com_virtuemart/shop_image/product/FC77D9FCD1DC08F3A6F4C36BF0E74DC2.jpg"></p>
+                <p>
+                Language: Greek, Modern		 <br/>
+                Publisher: Ekdoseis Astartē<br/>
+                Pub Location: Athens, Greece <br/>
+                Genre: Fiction (Novel) <br/>
+                Translation: Y <br/>
+                Length: 155
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date left"><p class="left">1990</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
                 <h1>Quartet</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Hungarian <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Chinese		 <br/>
+                Publisher: China Federation of Literary and Art Circles Publishing Company<br/>
+                Pub Location: Beijing, China <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 189
                 </p>
             </div>
         </div>
 
+
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Bugzar Anra Gaz Binamand: Guzida-I Az Dastanha-Yi Nawisandigan-I Mu'asir-i Gahan</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg"></p>
                 <p>
-                Language: Polish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Iranian		 <br/>
+                Publisher: Nasr-i Mu'asir<br/>
+                Pub Location: The Hague, Netherlands <br/>
                 Translation: Y <br/>
-                Length: 419
-                </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Ein Abend In Der Stadt: Erzählungen</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: Hungarian <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
-                Translation: Y <br/>
-                Length: 419
                 </p>
             </div>
         </div>
@@ -1028,15 +1027,15 @@ permalink: /jrhys
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Ancho mar de los Sargazos</h1><hr>
-                <p><img src=""></p>
+                <h1>Ein Abend In Der Stadt: Erzählungen</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51Dduia2OsL._SX359_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: Polish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: German		 <br/>
+                Publisher: Kiepenheuer & Witsch<br/>
+                Pub Location: Köln, Germany <br/>
+                Genre: Fiction (Short Story Collection) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 265
                 </p>
             </div>
         </div>
@@ -1045,32 +1044,49 @@ permalink: /jrhys
             <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Günaydın geceyarısı</h1><hr>
-                <p><img src=""></p>
+                <h1>Ancho mar de los Sargazos</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/519ZZwgTq2L._SX332_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: Hungarian <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Spanish		 <br/>
+                Publisher: Anagrama <br/>
+                Pub Location: Barcelona, Spain <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 196
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">1992</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Collected Short Stories</h1><hr>
-                <p><img src=""></p>
+                <h1>Günaydın geceyarısı</h1><hr>
+                <p><img src="https://img.kitapyurdu.com/v1/getImage/fn:8274559/wh:true/wi:220"></p>
                 <p>
-                Language: Polish <br/>
-                Publisher: The University of North Carolina Press<br/>
-                Pub Location: Chapel Hill, NC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Language: Turkish		 <br/>
+                Publisher: Can Yayinlari Ltd. Sti.<br/>
+                Pub Location: Istanbul, Turkey <br/>
+                Genre: Fiction (Novel) <br/>
                 Translation: Y <br/>
-                Length: 419
+                Length: 191
+                </p>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="date right"><p class="right">1992</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>The Collected Short Stories</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41geB7gqg8L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>
+                Language: English		 <br/>
+                Publisher: W. W. Norton & Company <br/>
+                Pub Location: New York, NY	United States <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Translation: Y <br/>
+                Length: 403
                 </p>
             </div>
         </div>
