@@ -62,21 +62,52 @@ permalink: /Trinidad
         </div>
       </div>
     </div>
-    <div id="post-4" class="vesti-col timeline-post">
+ <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-3_zpsxo9mx2fx_lqohzy.jpg">
+          <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/robert%20antoni.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
-              <span class="day">4</span>
-              <br>
-              <span class="month">OCT</span>
             </div>
           </div>
         </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rantoni">Robert Antoni</a></h4>
+          </a>
+        </div>
       </div>
     </div>
+        <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://images.gr-assets.com/authors/1401975751p5/8293973.jpg" width="80%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/sselvon">Samuel Selvon</a></h4>
+          </a>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
+     <div id="post-6" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/vsnaipaul">V.S. Naipaul</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
 <!-- partial -->

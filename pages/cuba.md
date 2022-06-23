@@ -62,4 +62,37 @@ permalink: /Cuba
         </div>
       </div>
     </div>
+    <div id="post-4" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalUJusXi7mknvgPMWjJlfwyggweuEkY9GnoIBx3zZb-6-ifSgaWLDIUdfQQG1MiXL7-0&usqp=CAU" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rarenas">Reinaldo Arenas</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     </div>
+    <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://www.granma.cu/file/img/2019/08/medium/f0143079.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rretamar">Roberto Fernández Retamar</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
 <!-- partial -->
