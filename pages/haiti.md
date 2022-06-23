@@ -62,21 +62,20 @@ permalink: /Haiti
         </div>
       </div>
     </div>
-    <div id="post-4" class="vesti-col timeline-post">
+<div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://res.cloudinary.com/do5ht5y0y/image/upload/v1501322753/post-img-3_zpsxo9mx2fx_lqohzy.jpg">
+          <img src="https://i.pinimg.com/736x/21/b3/9a/21b39a19aa1724d82a47487972656555--haiti-terre.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
-              <span class="day">4</span>
-              <br>
-              <span class="month">OCT</span>
             </div>
           </div>
         </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mchancy">Myriam J.A Chancy</a></h4>
+          </a>
+        </div>
       </div>
     </div>
-    </div>
-  </div>
-</div>
 <!-- partial -->
