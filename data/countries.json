@@ -1,18 +1,68 @@
 {
+    "": {
+        "Lat": 32.87211,
+        "Long": -81.45094,
+        "author_country": ""
+    },
+    "Cuba": {
+        "Lat": 22.0,
+        "Long": -79.5,
+        "author_country": "Cuba"
+    },
+    "antigua_&_barbuda": {
+        "Lat": null,
+        "Long": null,
+        "author_country": "antigua_&_barbuda"
+    },
+    "barbados": {
+        "Lat": 13.16453,
+        "Long": -59.55165,
+        "author_country": "barbados"
+    },
+    "cuba": {
+        "Lat": 22.0,
+        "Long": -79.5,
+        "author_country": "cuba"
+    },
     "dominica": {
         "Lat": 15.5,
         "Long": -61.33333,
         "author_country": "dominica"
+    },
+    "guadeloupe": {
+        "Lat": 16.25,
+        "Long": -61.58333,
+        "author_country": "guadeloupe"
+    },
+    "guyana": {
+        "Lat": 5.0,
+        "Long": -59.0,
+        "author_country": "guyana"
     },
     "haiti": {
         "Lat": 19.07582,
         "Long": -72.29616,
         "author_country": "haiti"
     },
+    "jamaica": {
+        "Lat": 18.16667,
+        "Long": -77.25,
+        "author_country": "jamaica"
+    },
+    "martinique": {
+        "Lat": 14.66667,
+        "Long": -61.0,
+        "author_country": "martinique"
+    },
     "trinidad_&_tobago": {
         "Lat": null,
         "Long": null,
         "author_country": "trinidad_&_tobago"
+    },
+    "trinidad_& tobago": {
+        "Lat": null,
+        "Long": null,
+        "author_country": "trinidad_& tobago"
     },
     "united_states": {
         "Lat": 40.58629,
