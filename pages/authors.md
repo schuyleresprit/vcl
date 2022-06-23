@@ -3,11 +3,8 @@ layout: pagedefault
 title: "Authors"
 permalink: /authors
 ---
+{% include browse.html %}
 
-Browser List and search box here...
-<<<<<<< HEAD
-
-<br/>
 
 [Aimé Césaire](/cesaire) <br/>
 [Alejo Carpentier](/carpenter) <br/>
