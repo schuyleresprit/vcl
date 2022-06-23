@@ -49,7 +49,7 @@ permalink: /Haiti
      <div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://racespaceplace.files.wordpress.com/2020/08/jean-au-studio.jpg">
+          <img src="https://racespaceplace.files.wordpress.com/2020/08/jean-au-studio.jpg" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -65,7 +65,23 @@ permalink: /Haiti
 <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://i.pinimg.com/736x/21/b3/9a/21b39a19aa1724d82a47487972656555--haiti-terre.jpg">
+          <img src="https://images.findagrave.com/photos250/photos/2019/161/197446636_537f1bd1-cbea-4ff5-8405-23ee9ff670d3.jpeg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mvchauvet">Marie Vieux Chauvet</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://i.pinimg.com/736x/21/b3/9a/21b39a19aa1724d82a47487972656555--haiti-terre.jpg" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
