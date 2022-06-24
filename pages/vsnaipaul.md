@@ -181,11 +181,11 @@ permalink: /vsnaipaul
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>A Congo Diary</h1><hr>
+                <h1>Return of Eva Peron</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495101338l/35165476.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Sylvester & Orphanos<br/>
-                Pub_location: Los Angeles, CA, United States<br/>
+                Publisher: Alfred A. Knopf<br/>
+                Pub_location: New York, NY, United States<br/>
                 Genre: Nonfiction Book<br/>
                 Length: 320</p>
             </div>
