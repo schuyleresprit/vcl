@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: About
-permalink: /about/
+permalink: /about
 ---
 __The Project__
 

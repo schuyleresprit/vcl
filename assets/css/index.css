@@ -14,7 +14,9 @@ a{
 a.navbar-brand {
     float: left;
 }
-
+.container .img-responsive {
+	object-fit: contain;
+}
 .vh-50{
     min-height: 50vh!important;
 }
