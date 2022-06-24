@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Process"
-permalink: /process/
+permalink: /process
 ---
 
 
