@@ -61,6 +61,18 @@ permalink: /vsnaipaul
             </div>
         </div>
         <div class="block">
+            <div class="date left"><p class="left">1964</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Mystic Masseur</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51I9D5OdI+L._SX325_BO1,204,203,200_.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Penguin Books<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 161</p>
+            </div>
+        <div class="block">
             <div class="date right"><p class="right">1961</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -73,18 +85,6 @@ permalink: /vsnaipaul
                 Length: 566</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1964</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The Mystic Masseur</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51I9D5OdI+L._SX325_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 161</p>
-            </div>
         </div>
         <div class="block">
             <div class="date right"><p class="right">1969</p></div>
