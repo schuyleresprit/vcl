@@ -17,7 +17,7 @@ permalink: /vsnaipaul
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>V.S. Naipaul is from Trinidad & Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/V._S._Naipaul" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
