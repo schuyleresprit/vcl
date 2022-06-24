@@ -98,8 +98,8 @@ a {
 }
 
 .vesti-date-wrapper .vesti-date {
-  width: 50px;
-  height: 50px;
+  width: 30px;
+  height: 30px;
   text-align: center;
   background: #216b4d;
   padding-top: 14px;
@@ -123,7 +123,13 @@ a {
   display: block;
   text-transform: uppercase;
 }
-
+.container-title {
+    text-align: center;
+    text-transform: uppercase;
+}
+.photo-co {
+    image-align: center;
+}
 /*izmedju - remove later */
 
 .timeline-post:nth-child(2n+3) {

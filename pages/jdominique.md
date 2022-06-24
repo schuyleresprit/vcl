@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jan J Dominique"
-permalink: /jdominique
+permalink: /jjdominique
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -110,4 +110,3 @@ permalink: /jdominique
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-

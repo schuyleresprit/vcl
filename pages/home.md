@@ -3,6 +3,8 @@ layout: pagedefault
 permalink: /
 ---
 
-__Welcome to Visualizing Caribbean Literature, an exploration of words and worlds in the region and its diaspora.__
+__Welcome to Visualizing Caribbean Literature__
+<br>
+An exploration of words and worlds in the region and its diaspora
 
-<img src="/assets/css/caribbean-map-dloc.jpg"/>
+<img src="/assets/img/banner.png"/>

@@ -24,70 +24,66 @@ permalink: /mchancy
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>The Scorpion's Claw</h1><hr>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781900715911_0.jpg?itok=7bpc37FE"></p>
                 <p>
-                Lorem ipsum...
+                Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Publisher Location: Leeds, LDN, England<br/>
+                Genre: Fiction<br/>
+                Length: 188
+
                 </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
+            <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic</h1><hr>
+                <p><img src="https://myriamchancy.com/wp-content/uploads/2020/09/26B5ED10-10F8-490E-8C0E-E50D12035F01-2-745x1024.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Wilfrid Laurier University Press<br/>
+                Publisher Location: Waterloo, Canada<br/>
+                Genre: Non Fiction<br/>
+                Length: 358
+ 
+                </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-BlhqmQbL._SX331_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: University of Illinois Press<br/>
+                Publisher Location: Urbana, IL, United States<br/>
+                Genre: Non Fiction<br/>
+                Length: 246
+
+                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <h1>What Storm, What Thunder</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71K114LJSdL.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: HarperCollins<br/>
+                Publisher Location: New York, United States<br/>
+                Genre: Fiction<br/>
+                Length: 320
+ 
+                </p>
             </div>
         </div>
 
