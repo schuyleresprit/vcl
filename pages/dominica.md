@@ -25,7 +25,7 @@ permalink: /Dominica
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rhys">Jean Rhys</a></h4>
+            <h4><a href="/jrhys">Jean Rhys</a></h4>
           </a>
         </div>
       </div>
@@ -57,7 +57,7 @@ permalink: /Dominica
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/pallfrey">Phyllis Shand Allfrey</a></h4>
        </a>
      </div>
    </div>
