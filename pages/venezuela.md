@@ -1,13 +1,13 @@
 ---
 layout: defaultauco
-title: "Dominica"
-permalink: /Dominica
+title: "Venezuela"
+permalink: /Venezuela
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>Venezuela</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/75/ee/0e/ve-01.png" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -17,7 +17,7 @@ permalink: /Dominica
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://3.bp.blogspot.com/-dNS72IPVUus/UDjbUHToTRI/AAAAAAAADC0/5ujqjIed854/s1600/jean+rhys.jpg">
+          <img src="https://www.cesarmiguelrondon.com/wp-content/uploads/2014/08/Alberto-Barrera2.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -25,7 +25,7 @@ permalink: /Dominica
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jrhys">Jean Rhys</a></h4>
+            <h4><a href="/abarrera">Alberto Barrera</a></h4>
           </a>
         </div>
       </div>
@@ -33,7 +33,7 @@ permalink: /Dominica
     <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.papillotepress.co.uk/wp-content/uploads/2021/03/Lennox-honychurch.jpg" width="50%" height="50%">
+       <img src="https://cdch.ucv.ve/wp-content/uploads/2017/04/img-20170417-wa0001.jpg" width="50%" height="50%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -41,7 +41,7 @@ permalink: /Dominica
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/lhonychurch">Lennox Honychurch</a></h4>
+         <h4><a href="/aboadas">Aura Marina Boadas</a></h4>
        </a>
      </div>
    </div>
@@ -49,7 +49,8 @@ permalink: /Dominica
   <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
+       <img src="http://www.ecured.cu/images/8/84/Codina.jpg
+       ">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -57,7 +58,7 @@ permalink: /Dominica
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/pallfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/ncodina">Norberto Codina</a></h4>
        </a>
      </div>
    </div>
