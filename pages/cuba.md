@@ -49,7 +49,7 @@ permalink: /Cuba
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://www.poemas-del-alma.com/blog/wp-content/uploads/2010/01/augier.jpg" width="40%">
+          <img src="https://www.poemas-del-alma.com/blog/wp-content/uploads/2010/01/augier.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -65,7 +65,7 @@ permalink: /Cuba
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Antonio_Ben%C3%ADtez-Rojo.jpg/220px-Antonio_Ben%C3%ADtez-Rojo.jpg" width="40%">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Antonio_Ben%C3%ADtez-Rojo.jpg/220px-Antonio_Ben%C3%ADtez-Rojo.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -82,7 +82,7 @@ permalink: /Cuba
   <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.biografiasyvidas.com/biografia/b/fotos/byrne.jpg" width="40%">
+       <img src="https://www.biografiasyvidas.com/biografia/b/fotos/byrne.jpg" width="60%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -98,7 +98,7 @@ permalink: /Cuba
   <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Carlos_Moore_%28writer%29.jpg/220px-Carlos_Moore_%28writer%29.jpg" width="40%">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Carlos_Moore_%28writer%29.jpg/220px-Carlos_Moore_%28writer%29.jpg" width="60%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -106,7 +106,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Carlos Moore</a></h4>
+         <h4><a href="/cmoore">Carlos Moore</a></h4>
        </a>
      </div>
    </div>
@@ -114,7 +114,7 @@ permalink: /Cuba
  <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://research.monash.edu/files-asset/248356872/Carlos_Uxo.jpg/" width="40%">
+       <img src="https://research.monash.edu/files-asset/248356872/Carlos_Uxo.jpg/" width="60%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -122,7 +122,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Carlos Uxo</a></h4>
+         <h4><a href="/cuxo">Carlos Uxo</a></h4>
        </a>
      </div>
    </div>
@@ -130,7 +130,7 @@ permalink: /Cuba
  <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://images.squarespace-cdn.com/content/v1/5db9e73a56fe4a4cca50266d/1620846345852-E85S5HUCOGQANXQNB4FP/Cirilo-Villaverde.jpg?format=500w" width="60%">
+       <img src="https://images.squarespace-cdn.com/content/v1/5db9e73a56fe4a4cca50266d/1620846345852-E85S5HUCOGQANXQNB4FP/Cirilo-Villaverde.jpg?format=500w" width="80%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -138,7 +138,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Cirilo Villaverde</a></h4>
+         <h4><a href="/cvillaverde">Cirilo Villaverde</a></h4>
        </a>
      </div>
    </div>
@@ -146,7 +146,7 @@ permalink: /Cuba
   <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://oncubanews.com/wp-content/uploads/2021/12/5-6-scaled.jpg" width="40%">
+       <img src="https://oncubanews.com/wp-content/uploads/2021/12/5-6-scaled.jpg" width="60%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -154,7 +154,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Claribel Terré Morell</a></h4>
+         <h4><a href="/ctmorell">Claribel Terré Morell</a></h4>
        </a>
      </div>
    </div>
@@ -170,7 +170,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Eddie Vega</a></h4>
+         <h4><a href="/evega">Eddie Vega</a></h4>
        </a>
      </div>
    </div>
@@ -186,7 +186,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Emilio Bobadilla</a></h4>
+         <h4><a href="/ebobadilla">Emilio Bobadilla</a></h4>
        </a>
      </div>
    </div>
@@ -194,7 +194,7 @@ permalink: /Cuba
   <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://ginapicart.files.wordpress.com/2022/06/fina-garcia-marruz.jpg?w=489" width="60%">
+       <img src="https://ginapicart.files.wordpress.com/2022/06/fina-garcia-marruz.jpg?w=489" width="70%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -202,7 +202,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Gina Picarti</a></h4>
+         <h4><a href="/gpicarti">Gina Picarti</a></h4>
        </a>
      </div>
    </div>
@@ -218,7 +218,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Gladys Triana </a></h4>
+         <h4><a href="/gtriana">Gladys Triana </a></h4>
        </a>
      </div>
    </div>
@@ -234,7 +234,7 @@ permalink: /Cuba
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/bbyrne">Guillermo Cabrera Infante </a></h4>
+         <h4><a href="/gcinfante">Guillermo Cabrera Infante </a></h4>
        </a>
      </div>
    </div>
@@ -250,7 +250,7 @@ permalink: /Cuba
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jmarti">Jose Rodriguez Feo</a></h4>
+            <h4><a href="/jrfeo">Jose Rodriguez Feo</a></h4>
           </a>
         </div>
       </div>
@@ -258,7 +258,7 @@ permalink: /Cuba
     <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Jos%C3%A9_Mart%C3%AD_retrato_m%C3%A1s_conocido_Jamaica_1892.jpg" width="60%" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Jos%C3%A9_Mart%C3%AD_retrato_m%C3%A1s_conocido_Jamaica_1892.jpg" width="70%" >
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -282,7 +282,7 @@ permalink: /Cuba
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jmarti">Juan Francisco Manzano</a></h4>
+            <h4><a href="/jfmanzano">Juan Francisco Manzano</a></h4>
           </a>
         </div>
       </div>
@@ -290,7 +290,7 @@ permalink: /Cuba
      <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://i.ebayimg.com/images/g/7WMAAOSwuxlf-3n8/s-l500.jpg" width="60%" >
+          <img src="https://i.ebayimg.com/images/g/7WMAAOSwuxlf-3n8/s-l500.jpg" width="70%" >
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -298,7 +298,7 @@ permalink: /Cuba
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jmarti">Juan Marinello</a></h4>
+            <h4><a href="/jmarinello">Juan Marinello</a></h4>
           </a>
         </div>
       </div>
@@ -314,7 +314,103 @@ permalink: /Cuba
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jmarti">Leonardo Padura Fuentes </a></h4>
+            <h4><a href="/lpfuentes">Leonardo Padura Fuentes </a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+      <div id="post-4" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMgMvdUlkSWfDHIPIQC9tp9hQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UpHLnDPiRxsSe5jMGzpGWow-P-3d-P-3d" width="70%" >
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/laguero">Luis Aguero </a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-4" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Brull_Mariano_in_1913_when_he_was_22_rbz.JPG/640px-Brull_Mariano_in_1913_when_he_was_22_rbz.JPG" width="60%" >
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mbrull">Mariano Brull </a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-4" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH29DpWJq_8IhynGh4i_BcgH-wO3SBUQWdoubwmpAeB9Jx7dfDfMS3ls1kge0jmztL5g&usqp=CAU" width="90%" >
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mbleon">Marilyn Bobes León</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+<div id="post-4" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://images.squarespace-cdn.com/content/v1/54ef4a93e4b01b969d320540/1570830420560-QH9GJL95EMYSRBPL89N0/Miguel+Collazo.jpg?format=1000w" width="60%" >
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mcollazo">Miguel Collazo</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+ <div id="post-4" class="vesti-col timeline-post">
+          <div class="vesti-content-wrapper">
+            <div class="photo">
+              <img src="https://editorialverbum.es/wp-content/uploads/2016/10/MIGUEL-WEB.gif" width="60%">
+               <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+            <div class="vesti-desc">
+              <a class="desc-a" href="#">
+                <h4><a href="/mdcarrion">Miguel de Carrion </a></h4>
+              </a>
+            </div>
+          </div>
+        </div>
+  <div id="post-3" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://www.ecured.cu/images/thumb/4/42/Mylene1.jpg/260px-Mylene1.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mpfernandez">Mylene Pintado Fernández </a></h4>
           </a>
         </div>
       </div>
@@ -322,7 +418,7 @@ permalink: /Cuba
 <div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://collectionimages.npg.org.uk/std/mw148021/Nicols-Guilln-Batista.jpg" width="70%">
+          <img src="https://collectionimages.npg.org.uk/std/mw148021/Nicols-Guilln-Batista.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -363,7 +459,71 @@ permalink: /Cuba
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rretamar">Roberto Fernández Retamar</a></h4>
+            <h4><a href="/rfetamar">Roberto Fernández Retamar</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+       <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://alchetron.com/cdn/roberto-valero-a90fe767-364b-43cf-8d58-862f39171fe-resize-750.jpeg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rvalvero">Roberto Valero</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://www.agenciabalcells.com/fileadmin/_processed_/csm_Sarduy__Severo_d126aa9e48.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/ssardury">Severo Sardury</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://i0.wp.com/abecedariaeditoras.com/wp-content/uploads/2021/02/Soleida-Rios-1.jpg?fit=1200%2C1200&ssl=1" width="80%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/srios">Soledia Rios</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://images.gr-assets.com/authors/1274203590p5/61104.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/ycanetti">Yanitzia Canetti</a></h4>
           </a>
         </div>
       </div>
