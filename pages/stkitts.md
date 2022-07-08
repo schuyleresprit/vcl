@@ -10,7 +10,6 @@ permalink: /stkitts
           <img src="https://www.worldatlas.com/r/w960-q80/upload/a2/84/c2/kn-01.png" >
     </div>
 </div>
-<!-- partial:index.partial.html -->
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
