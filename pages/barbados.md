@@ -238,7 +238,7 @@ permalink: /Barbados
         </div>
       </div>
     </div>
-        <div id="post-9" class="vesti-col timeline-post">
+<div id="post-9" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/karen%20lord%20cropped.jpg">
@@ -254,6 +254,38 @@ permalink: /Barbados
         </div>
       </div>
     </div>
+<div id="post-9" class="vesti-col timeline-post">
+          <div class="vesti-content-wrapper">
+            <div class="photo">
+              <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Kevyn%20Alan%20Arthur%20bw.jpg?itok=tEGi4dEv">
+              <div class="vesti-date-wrapper">
+           <div class="vesti-date">
+              </div>
+            </div>
+          </div>
+            <div class="vesti-desc">
+              <a class="desc-a" href="#">
+                <h4><a href="/karthur"> Kevyn Alan Arthur </a></h4>
+              </a>
+            </div>
+          </div>
+        </div>
+<div id="post-9" class="vesti-col timeline-post">
+                  <div class="vesti-content-wrapper">
+                    <div class="photo">
+                      <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
+                      <div class="vesti-date-wrapper">
+                   <div class="vesti-date">
+                      </div>
+                    </div>
+                  </div>
+                    <div class="vesti-desc">
+                      <a class="desc-a" href="#">
+                        <h4><a href="/mchapman"> Matthew James Chapman</a></h4>
+                      </a>
+                    </div>
+                  </div>
+                </div>
       <div id="post-10" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -270,4 +302,52 @@ permalink: /Barbados
         </div>
       </div>
     </div>
+    <div id="post-10" class="vesti-col timeline-post">
+    <div class="vesti-content-wrapper">
+      <div class="photo">
+        <img src="https://static.wixstatic.com/media/c67ccf_4e873483aa1747d590318918f1fc8be6~mv2_d_2878_4032_s_4_2.jpg/v1/crop/x_0,y_93,w_2878,h_2533/fill/w_618,h_544,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMG_3785.jpg" width="70%" heigh="50%">
+        <div class="vesti-date-wrapper">
+     <div class="vesti-date">
+        </div>
+      </div>
+    </div>
+      <div class="vesti-desc">
+        <a class="desc-a" href="#">
+          <h4><a href="/sbourne"> Shakirah Bourne </a></h4>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div id="post-10" class="vesti-col timeline-post">
+  <div class="vesti-content-wrapper">
+    <div class="photo">
+      <img src="https://m.media-amazon.com/images/I/61jVxQ1zAsL._SX450_.jpg" width="50%" heigh="30%">
+      <div class="vesti-date-wrapper">
+   <div class="vesti-date">
+      </div>
+    </div>
+  </div>
+    <div class="vesti-desc">
+      <a class="desc-a" href="#">
+        <h4><a href="/sdurant"> Suzanne Durant </a></h4>
+      </a>
+    </div>
+  </div>
+</div>
+<div id="post-10" class="vesti-col timeline-post">
+<div class="vesti-content-wrapper">
+  <div class="photo">
+    <img src="https://barbadostoday.bb/wp-content/uploads/2021/03/Timothy-Callender-in-library-960x923.jpg" width="60%" height="70%">
+    <div class="vesti-date-wrapper">
+ <div class="vesti-date">
+    </div>
+  </div>
+</div>
+  <div class="vesti-desc">
+    <a class="desc-a" href="#">
+      <h4><a href="/tcallender"> Timothy Callender </a></h4>
+    </a>
+  </div>
+</div>
+</div>
 <!-- partial -->
