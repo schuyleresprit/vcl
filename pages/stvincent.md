@@ -33,7 +33,7 @@ permalink: /StVincent
     <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://hnigelthomas.files.wordpress.com/2012/01/h-nigel-thomas.jpg" width="50%" height="50%">
+       <img src="https://hnigelthomas.files.wordpress.com/2012/01/h-nigel-thomas.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
