@@ -16,8 +16,8 @@ permalink: /jkincaid
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>George Lamming is from Barbados.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+            <p>Jamaica Kincaid is from Antigua and Barbuda.</p>
+                <a href="https://en.wikipedia.org/wiki/Jamaica_Kincaid" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
