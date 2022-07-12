@@ -1,6 +1,6 @@
 ---
 layout: defaultauco
-title: "United States"
+title: "Belize"
 permalink: /Belize
 ---
 <div class="container-0">

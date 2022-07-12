@@ -1,13 +1,13 @@
 ---
 layout: defaultauco
 title: "St. Vincent"
-permalink: /stvincent
+permalink: /StVincent
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>St. Vincent and the Grenadines</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/36/a1/59/vc-01.png" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -17,7 +17,7 @@ permalink: /stvincent
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg">
+       <img src="https://pbs.twimg.com/profile_images/1518234079723986945/t5vDjN66_400x400.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -25,7 +25,7 @@ permalink: /stvincent
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/allfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/cbrowne">Cecil Browne</a></h4>
        </a>
      </div>
    </div>
@@ -33,7 +33,7 @@ permalink: /stvincent
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://3.bp.blogspot.com/-dNS72IPVUus/UDjbUHToTRI/AAAAAAAADC0/5ujqjIed854/s1600/jean+rhys.jpg">
+          <img src="https://hnigelthomas.files.wordpress.com/2012/01/h-nigel-thomas.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -41,7 +41,7 @@ permalink: /stvincent
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rhys">Jean Rhys</a></h4>
+            <h4><a href="/hnthomas">Hubert Nigel Thomas</a></h4>
           </a>
         </div>
       </div>
