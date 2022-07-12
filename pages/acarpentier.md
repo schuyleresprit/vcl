@@ -34,7 +34,6 @@ permalink: /acarpentier
                 Length: 282 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1956</p></div>
             <div class="dot"></div>
