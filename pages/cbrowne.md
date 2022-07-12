@@ -5,7 +5,7 @@ permalink: /cbrowne
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Jamaica Kincaid</h1>
+    <h1>Cecil Browne</h1>
     <div class="quote">
         <div><img src="https://pbs.twimg.com/profile_images/1518234079723986945/t5vDjN66_400x400.jpg" class="logo"></div>
     </div>
