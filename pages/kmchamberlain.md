@@ -25,9 +25,9 @@ permalink: /kmchamberlain
                 <h1>It Divide Up in Little Worlds: Dialogue and Discourse Analysis of Selected Novels by Samuel Selvon</h1><hr>
                 <p><img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/45304/KarenMah-Chamberlain_AB.pdf.jpg?sequence=3&isAllowed=y"></p>
  		<p> Language: English <br/>
-                Publisher: Educa Vision <br/>
-                Pub_location: Coconut Creek, FL, United States <br/>
+                Publisher: The University of the West Indies <br/>
+                Pub_location:St. Augustine, United States <br/>
                 Genre: Nonfiction Book <br/>
-                Length: 24 <br/>                </p>
+                Length: 19 <br/>                </p>
             </div>
         </div>
