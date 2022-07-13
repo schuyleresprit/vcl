@@ -26,7 +26,7 @@ permalink: /jklundgren
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61eXfxcSclL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
  		<p> Language: English <br/>
                 Publisher: Educa Vision <br/>
-                Pub_location: SCoconut Creek, FL, United States <br/>
+                Pub_location: Coconut Creek, FL, United States <br/>
                 Genre: Nonfiction Book <br/>
                 Length: 24 <br/>                </p>
             </div>
