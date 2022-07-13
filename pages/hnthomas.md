@@ -100,15 +100,14 @@ permalink: /hnthomas
             <div class="date right"><p class="right hide">2007</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>På Flodens Botten</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%"></p>
+                <h1>Return to Arcadia</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2012/01/return-to-arcadia-frontcover.jpg"></p>
                 <p>
-                Language: Swedish <br/>
-                Publisher: Stenströms <br/>
-                Pub_location: Stockholm, Sweden <br/>
+                Language: English <br/>
+                Publisher: TSAR Publications	 <br/>
+                Pub_location: Ontario, Canada <br/>
                 Genre: Fiction (Novel) <br/>
-                Translated: y <br/>
-                Length: 114 <br/>                 </p>
+                Length: 304 <br/>                 </p>
             </div>
         </div>
 
@@ -116,15 +115,14 @@ permalink: /hnthomas
             <div class="date left"><p class="left hide">2010</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Op De Bodem Van De Rivier</h1><hr>
-                <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/283/450/cms_visual_1207688.jpg_1564230750000_283x450.jpg" height="50%" width = "50%"></p>
+                <h1>Lives: Whole and Otherwise</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2012/01/lives-frontcover3.jpg"></p>
                 <p>
-                Language: Dutch <br/>
-                Publisher: Agathon Press <br/>
-                Pub_location: Houten, Netherlands <br/>
-                Genre: Fiction (Novel) <br/>
-                Translated: y <br/>
-                Length: 77 <br/>                 </p>
+                Language: Enrglish <br/>
+                Publisher: TSAR Publications	 <br/>
+                Pub_location: Ontario, Canada <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 146 <br/>                 </p>
             </div>
         </div>
 
@@ -132,15 +130,15 @@ permalink: /hnthomas
             <div class="date right"><p class="right hide">2013</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>På Flodens Botten</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%"></p>
+                <h1>Des Vies Cassées</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2014/03/couvviescasseessitewebs.jpg"></p>
                 <p>
-                Language: Swedish <br/>
-                Publisher: Stenströms <br/>
-                Pub_location: Stockholm, Sweden <br/>
-                Genre: Fiction (Novel) <br/>
-                Translated: y <br/>
-                Length: 114 <br/>                 </p>
+                Language: French <br/>
+                Publisher: Memoire d'Encrier	 <br/>
+                Pub_location: Montréal, QC, Canada <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Translation: Y <br/>
+                Length: 223 <br/>                 </p>
             </div>
         </div>
 
@@ -148,14 +146,14 @@ permalink: /hnthomas
             <div class="date left"><p class="left hide">2014</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Annie John</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=7T4H0mob-NgC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE722r2H2wpiTHNW4tVDoJ6yhtUFpLFaSHHBe850zDlr8Hswu50wB421RoiCU5_CoAAMGwABvBvB0KamvedIoPOPXmtAO6GPfe2IaoJX31zOAbbs4lj7zpdcBasYeWcL9F03lUMlI" height="50%" width = "50%"></p>
+                <h1>When The Bottom Falls Out: And Other Stories</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2015/03/img_new.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: New American Library <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 160 <br/>                 </p>
+                Publisher: TSAR Publications	 <br/>
+                Pub_location: Ontario, Canada <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 159 <br/>                 </p>
             </div>
         </div>
 
@@ -163,14 +161,14 @@ permalink: /hnthomas
             <div class="date right"><p class="right hide">2015</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Annie, Gwen, Lilly, Pam And Tulip</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51pffZirHjL._SX362_BO1,204,203,200_.jpg"></p>
+                <h1>No Safeguards</h1><hr>
+                <p><img src="https://repeatingislands.files.wordpress.com/2015/10/51h27mndwol-_sx338_bo1204203200_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Alfred A. Knopf in association with Whitney Museum of American Art <br/>
-                Pub_location: New York, NY, United States <br/>
+                Publisher: Guernica Editions <br/>
+                Pub_location: Toronto, Canada <br/>
                 Genre: Fiction (Novel) <br/>
-                Length: 16 <br/>                 </p>
+                Length: 297 <br/>                 </p>
             </div>
         </div>
 
@@ -178,15 +176,15 @@ permalink: /hnthomas
             <div class="date left"><p class="left hide">2016</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Katoava Paratiisi</h1><hr>
-                <p><img src="https://www.finlandiakirja.fi/media/catalog/product/cache/28ebde07709ed2fb49a9cbca4a68e9b1/u/p/upgt6x_1047340_0.jpg" height="50%" width = "50%"></p>
+                <h1>De Glace et d'Ombre</h1><hr>
+                <p><img src="http://memoiredencrier.com/wp-content/uploads/2014/10/Couv_De-glace-et-dombre_72-DPI_RGB-191x300.jpg"></p>
                 <p>
-                Language: Finnish <br/>
-                Publisher: Kirjayhtymä <br/>
-                Pub_location: Hki, Finland <br/>
+                Language: French <br/>
+                Publisher: Memoire d'Encrier	 <br/>
+                Pub_location: Montréal, QC, Canada <br/>
                 Genre: Fiction (Novel) <br/>
-                Translated: y <br/>
-                Length: 133 <br/>                 </p>
+                Translation: Y <br/>
+                Length: 450 <br/>                 </p>
             </div>
         </div>
 
@@ -195,15 +193,14 @@ permalink: /hnthomas
             <div class="date right"><p class="right hide">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Anna Delle Antille</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51D-fvZd7EL._SX319_BO1,204,203,200_.jpg"></p>
+                <h1>Fate's Instruments</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/515m9NWxd4L._SX325_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: Italian <br/>
-                Publisher: De Agostini S.p.A. <br/>
-                Pub_location: Stuttgart, Germany <br/>       Pub_location: Novara, Italy <br/>
+                Language: English <br/>
+                Publisher: Guernica Editions	 <br/>
+                Pub_location: Toronto, Canada <br/>       
                 Genre: Fiction (Novel) <br/>
-                Translated: y <br/>
-                Length: 164 <br/>                 </p>
+                Length: 277 <br/>                 </p>
             </div>
         </div>
 
@@ -211,14 +208,14 @@ permalink: /hnthomas
             <div class="date left"><p class="left hide">2021</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>A Small Place</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md22630850386.jpg" height="50%" width = "50%"></p>
+                <h1>Easily Fooled</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2021/11/nigel-ef.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Biography <br/>
-                Length: 81 <br/>                 </p>
+                Publisher: Guernica Editions <br/>
+                Pub_location: Toronto, Canada <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 330 <br/>                 </p>
             </div>
         </div>
 
@@ -226,15 +223,14 @@ permalink: /hnthomas
             <div class="date right"><p class="right hide">2021</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Anna Delle Antille</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width="50%"></p>
+                <h1>The Voyage</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2021/11/the-voyage-front-cover-3.jpg"></p>
                 <p>
-                Language: Swedish <br/>
-                Publisher: De Agostini S.p.A. <br/>
-                Pub_location: Stuttgart, Germany <br/>       Pub_location: Novara, Italy <br/>
-                Genre: Fiction (Novel) <br/>
-                Translated: y <br/>
-                Length: 164 <br/>                 </p>
+                Language: English <br/>
+                Publisher: Mawenzi House <br/>
+                Pub_location: Toronto, Canada <br/>       
+                Genre: Poetry Collection <br/>
+                Length: 103 <br/>                 </p>
             </div>
         </div>
 
