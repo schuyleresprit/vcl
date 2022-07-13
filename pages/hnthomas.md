@@ -69,14 +69,14 @@ permalink: /hnthomas
             <div class="date right"><p class="right hide">1999</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Annie John</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%" ></p>
+                <h1>Moving Through Darkness</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2011/02/moving-through-darkness-frontcover.jpg" ></p>
                 <p>
                 Language: English <br/>
-                Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 160 <br/>    </p>
+                Publisher: AFO Enterprises <br/>
+                Pub_location: Montréal, QC, Canada <br/>
+                Genre: Poetry Collection <br/>
+                Length: 83 <br/>    </p>
             </div>
         </div>
 
@@ -84,14 +84,14 @@ permalink: /hnthomas
             <div class="date left"><p class="left hide">2001</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>At The Bottom Of The River</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/en/9/90/JamacaKincaid_AnnieJohn.jpg" height="50%" width = "50%"></p>
+                <h1>Behind the Face of Winter</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2011/02/behind-the-face-of-winter-frontcover.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Noonday Press <br/>
-                Pub_location: New York, NY, United States <br/>
+                Publisher: TSAR Publications	<br/>
+                Pub_location: Ontario, Canada <br/>
                 Genre: Fiction (Novel) <br/>
-                Length: 160 <br/>
+                Length: 241 <br/>
                 </p>
             </div>
         </div>
