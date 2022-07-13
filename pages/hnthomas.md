@@ -24,29 +24,29 @@ permalink: /hnthomas
             <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Annie John</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg"   height="50%" width = "50%"></p>
+                <h1>From Folklore to Fiction</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2011/02/from-folklore-to-fiction-frontcover.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: The New Yorker <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Fiction(Novel)<br/>
-                Length: 160 <br/>                </p>
+                Publisher: Greenwood Press <br/> 	
+                Pub_location: Westport, CT, United States <br/>
+                Genre: Essay <br/>
+                Length: 212 <br/>                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1994</p></div>
+            <div class="date right"><p class="right hide">1994</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>At The Bottom Of The River</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Jamaica_Kincaid_-_At_the_Bottom_of_the_River.jpeg" height="50%" width = "50%"></p>
+            <div class="left hide">
+                <h1>Spirits In The Dark</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Jamaica_Kincaid_-_At_the_Bottom_of_the_River.jpeg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Fiction(Novel)<br/>
-                Length: 96 <br/>                </p>
+                Publisher: Heinemann	<br/>
+                Pub_location: Portsmouth, NH, United States <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 219 <br/>                </p>
             </div>
         </div>
 
@@ -54,14 +54,14 @@ permalink: /hnthomas
             <div class="date left"><p class="left hide">1995</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>At The Bottom Of The Garden</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41+txiVJiXL._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <h1>How Loud can the Village Cock Crow? And Other Stories</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2012/01/how-loud-can-the-village-cock-crow-frontcover.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Pan Books <br/>
-                Pub_location: London, England <br/>
-                Genre: Fiction(Novel)<br/>
-                Length: 96 <br/>                  </p>
+                Publisher: AFO Enterprises <br/> 	
+                Pub_location: Montréal, QC, Canada <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 124 <br/>                  </p>
             </div>
         </div>
 
@@ -69,14 +69,14 @@ permalink: /hnthomas
             <div class="date right"><p class="right hide">1999</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Annie John</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%" ></p>
+                <h1>Moving Through Darkness</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2011/02/moving-through-darkness-frontcover.jpg" ></p>
                 <p>
                 Language: English <br/>
-                Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 160 <br/>    </p>
+                Publisher: AFO Enterprises <br/>
+                Pub_location: Montréal, QC, Canada <br/>
+                Genre: Poetry Collection <br/>
+                Length: 83 <br/>    </p>
             </div>
         </div>
 
@@ -84,14 +84,14 @@ permalink: /hnthomas
             <div class="date left"><p class="left hide">2001</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>At The Bottom Of The River</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/en/9/90/JamacaKincaid_AnnieJohn.jpg" height="50%" width = "50%"></p>
+                <h1>Behind the Face of Winter</h1><hr>
+                <p><img src="https://hnigelthomas.files.wordpress.com/2011/02/behind-the-face-of-winter-frontcover.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Noonday Press <br/>
-                Pub_location: New York, NY, United States <br/>
+                Publisher: TSAR Publications	<br/>
+                Pub_location: Ontario, Canada <br/>
                 Genre: Fiction (Novel) <br/>
-                Length: 160 <br/>
+                Length: 241 <br/>
                 </p>
             </div>
         </div>
@@ -237,6 +237,6 @@ permalink: /hnthomas
                 Length: 164 <br/>                 </p>
             </div>
         </div>
-        
+
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
