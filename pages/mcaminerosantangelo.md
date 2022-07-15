@@ -7,7 +7,7 @@ permalink: /mcaminerosantangelo
 <div class="content">
     <h1>Marta Caminero-Santangelo</h1>
     <div class="quote">
-        <div><img src="https://www.worldatlas.com/r/w960-q80/upload/e9/d9/73/ca-01.jpg" class="logo"></div>
+        <div><img src="https://m.media-amazon.com/images/I/A12ttRllYPL._SX450_.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
