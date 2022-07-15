@@ -81,7 +81,7 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="right">1994</p></div>
+            <div class="date right"><p class="right">1994</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>The Coral Rooms </h1><hr>
