@@ -24,7 +24,7 @@ permalink: /rlcaarons
                 <h1>The Cow That Laughed - And Other Stories</h1><hr>
                 <p><img src="https://collections.carli.illinois.edu/digital/api/singleitem/image/uic_car/1341/default.jpg"></p>
  			<p> Language: English <br/>
-                Publisher: Printed by Printers Ltd.<br/>
+                Publisher: Printers Ltd.<br/>
                 Pub_location: Kingston, Jamaica <br/>
                 Genre: Anthology <br/>
                 Length: 93 <br/>                </p>
