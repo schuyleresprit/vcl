@@ -1,11 +1,11 @@
 ---
 layout: defaultauco
-title: "St. Vincent"
+title: "Saint Vincent and the Grenadines"
 permalink: /StVincent
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>Saint Vincent and the Grenadines</h2></span>
         <div class="photo-co">
           <img src="https://www.worldatlas.com/r/w960-q80/upload/36/a1/59/vc-01.png" >
     </div>
