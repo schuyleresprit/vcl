@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cherie Jones"
-permalink: /acummins
+permalink: /cjones
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -21,7 +21,7 @@ permalink: /acummins
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1998</p></div>
+            <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Walking Side by Side Devotions for Pilgrims</h1><hr>
@@ -36,7 +36,7 @@ permalink: /acummins
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2004</p></div>
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>The Burning Bush Women and Other Stories</h1><hr>
@@ -51,7 +51,7 @@ permalink: /acummins
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
+            <div class="date leftt"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>How the One-Armed Sister Sweeps Her House: A Novel</h1><hr>
