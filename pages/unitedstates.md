@@ -216,7 +216,7 @@ permalink: /usa
  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
+       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/robert%20antoni.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -224,7 +224,7 @@ permalink: /usa
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/rlcaarons">R.L.C. Aarons</a></h4>
+         <h4><a href="/rantoni">Robert Antoni</a></h4>
        </a>
      </div>
    </div>
@@ -247,6 +247,22 @@ permalink: /usa
    </div>
  </div> 
 
+ <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/samoss">Stephanie Alayne Moos</a></h4>
+       </a>
+     </div>
+   </div>
+ </div> 
 
 
 
