@@ -53,7 +53,7 @@ permalink: /cjones
         <div class="block">
             <div class="date leftt"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>How the One-Armed Sister Sweeps Her House: A Novel</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51qPLqBh+WL.jpg"></p>
                 <p>
