@@ -27,7 +27,7 @@ permalink: /mcaminerosantangelo
                 <h1>On Latinidad : U.S. Latino literature and the construction of ethnicity</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/417WycnFiSL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: English <br/> 	English
+                Language: English <br/> 
                 Publisher: University Press of Florida	 <br/>
                 Pub_location: Gainesville, FL, United States <br/>
                 Genre: Non Fiction<br/>

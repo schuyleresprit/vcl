@@ -7,7 +7,7 @@ permalink: /dr
     <div class="container-title">
         <span class="country"><h2>Dominican Republic</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/2f/62/e0/do-01.png" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
