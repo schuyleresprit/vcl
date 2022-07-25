@@ -7,7 +7,7 @@ permalink: /uvalverde
 <div class="content">
     <h1>Umberto Valverde</h1>
     <div class="quote">
-        <div><img src="https://www.eltiempo.com/files/article_main/uploads/2017/02/11/589fe3eec300f.jpeg" class="logo"></div>
+        <div><img src="https://mail.google.com/mail/u/0?ui=2&ik=7429a8a710&attid=0.1&permmsgid=msg-a:r5072879616563536263&th=1823592a1e77e8fa&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ88im_Zc-qLBQoEuP9C4q3Ca8nEDT_c1XT12zgzODAsrpjczZGvWfe24AUbqZwX1SQwef5F8Lh7PsvUj012bKtr-Z-gJSzs4NLqmxi9cC_XxgcPidLCR29UAlA&disp=emb&realattid=ii_l60skw3l0" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
