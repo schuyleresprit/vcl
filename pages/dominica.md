@@ -57,7 +57,7 @@ permalink: /Dominica
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/pallfrey">Phyllis Shand Allfrey</a></h4>
+         <h4><a href="/psallfrey">Phyllis Shand Allfrey</a></h4>
        </a>
      </div>
    </div>
@@ -65,7 +65,7 @@ permalink: /Dominica
  <div id="post-4" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="50%" height="50%">
+       <img src="https://images.squarespace-cdn.com/content/v1/591365f6bebafbf194c5c471/1508954284062-A4PE5B92H0KXLIRZHZGO/Mara-Manley-Web.jpg?format=300w" width="50%" height="50%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -73,7 +73,7 @@ permalink: /Dominica
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mmanley">Mara Etienne-Manley</a></h4>
+         <h4><a href="/memanley">Mara Etienne-Manley</a></h4>
        </a>
      </div>
    </div>
