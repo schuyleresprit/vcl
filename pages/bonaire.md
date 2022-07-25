@@ -1,23 +1,23 @@
 ---
 layout: defaultauco
-title: "Suriname"
-permalink: /Suriname
+title: "Bonaire"
+permalink: /Bonaire
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Suriname</h2></span>
+        <span class="country"><h2>Bonaire</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/r/w960-q80/upload/48/bc/d3/sr-01.png" >
+          <img src="http://www.alluradirect.com/images/Bonaire/Maps/bonaire-vacation-homes-island.gif" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
-  <div id="post-1" class="vesti-col timeline-post">
+    <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://3.bp.blogspot.com/-W-Kq5BTGarU/T8PeDY12vcI/AAAAAAAARj0/ozeC4dzgT20/s400/Paul+Marlee.jpg">
+       <img src="https://literatuurmuseum.nl/media/uploads/image/Cola%20debrot%20als%20gev-1980x_-quality(80).jpg"  width="60%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -25,10 +25,8 @@ permalink: /Suriname
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/pmarlee">Paul Marlee</a></h4>
+         <h4><a href="/cdebrot">Cola Debrot</a></h4>
        </a>
      </div>
    </div>
  </div>
-    
-<!-- partial -->
