@@ -7,7 +7,7 @@ permalink: /uvalverde
 <div class="content">
     <h1>Umberto Valverde</h1>
     <div class="quote">
-        <div><img src="http://noti5.tv/wp-content/uploads/2019/07/umberto_valverde.jpg" class="logo"></div>
+        <div><img src="http://noti5.tv/wp-content/uploads/2019/07/umberto_valverde.jpg" width="50%" height="50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
