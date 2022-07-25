@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Augustus C. Sinclair"
-permalink: /acsinclair 
+permalink: /acsinclair
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -36,33 +36,49 @@ permalink: /acsinclair
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
+            <div class="date right"><p class="right">1886</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Doctor's Orders</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51cxnBh6ZxL._SX324_BO1,204,203,200_.jpg"></p>
+                <h1>The Jamaica Court at the Indian and Colonial Exhibition:  Handbook compiled for the Governors of the Jamaica Institute</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md22407444163.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Heinemann <br/>
-                Pub_location: Portsmouth, NH, United States <br/>
-                Genre: Fiction (Short Story Collection) <br/>
-                Length: 107 <br/>                </p>
+                Publisher: Kingston Government Printing Establishment	 <br/>
+                Pub_location: Kingston, Jamaica <br/>
+                Genre: Nonfiction Book <br/>
+                Length: NA <br/>                </p>
             </div>
 
             <div class="block">
-                <div class="date left"><p class="left">2020</p></div>
+                <div class="date left"><p class="left">1888</p></div>
                 <div class="dot"></div>
                 <div class="right">
-                    <h1>A Million Aunties</h1><hr>
-                    <p><img src="https://images-na.ssl-images-amazon.com/images/I/51HuJ8DmQJS._SX316_BO1,204,203,200_.jpg"></p>
+                    <h1>Jamaica: Outlines of its Geography and History</h1><hr>
+                    <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
                     <p>
                     Language: English <br/>
-                    Publisher: Akashic Books		 <br/>
-                    Pub_location: Brooklyn, NY, United States <br/>
-                    Genre: Fiction (Novel) <br/>
-                    Length: 102 <br/>                </p>
+                    Publisher: De Cordova & Co.		 <br/>
+                    Pub_location: Kingston, Jamaica	 <br/>
+                    Genre: Nonfiction Book <br/>
+                    Length: 60 <br/>                </p>
                 </div>
             </div>
+
+            <div class="block">
+                <div class="date right"><p class="right">1889</p></div>
+                <div class="dot"></div>
+                <div class="left">
+                    <h1>Chronological History of Jamaica during the Government of His Excellency Sir Henry Wylie Norman</h1><hr>
+                    <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
+                    <p>
+                    Language: English <br/>
+                    Publisher: Kingston Government Printing Establishment	 <br/>
+                    Pub_location: Kingston, Jamaica <br/>
+                    Genre: Nonfiction Book <br/>
+                    Length: 65 <br/>                </p>
+                </div>
+
+
 
         </div>
 <!-- partial -->
