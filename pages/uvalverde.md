@@ -7,7 +7,7 @@ permalink: /uvalverde
 <div class="content">
     <h1>Umberto Valverde</h1>
     <div class="quote">
-        <div><img src="https://bit.ly/3S1pg8c" class="logo"></div>
+        <div><img src="https://www.kienyke.com/sites/default/files/wp-content/uploads/2012/06/Umberto-Valverde.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
