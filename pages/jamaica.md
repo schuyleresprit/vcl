@@ -89,7 +89,7 @@ permalink: /Jamaica
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/asinclair">Augustus C. Sinclair</a></h4>
+          <h4><a href="/acsinclair">Augustus C. Sinclair</a></h4>
         </a>
       </div>
     </div>
@@ -542,5 +542,5 @@ permalink: /Jamaica
        </div>
      </div>
    </div>
- 
+
 <!-- partial -->
