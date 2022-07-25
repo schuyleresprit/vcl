@@ -7,7 +7,7 @@ permalink: /uvalverde
 <div class="content">
     <h1>Umberto Valverde</h1>
     <div class="quote">
-        <div><img src="https://radionacional-v3.s3.amazonaws.com/s3fs-public/styles/portadas_relaciona_4_3/public/senalradio/articulo-noticia/galeriaimagen/umberto_valverde.jpg?h=c673cd1c&itok=yAA5gb9A" class="logo"></div>
+        <div><img src="https://bit.ly/3S1pg8c" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
