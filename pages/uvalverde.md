@@ -7,7 +7,7 @@ permalink: /uvalverde
 <div class="content">
     <h1>Umberto Valverde</h1>
     <div class="quote">
-        <div><img src="https://i0.wp.com/www.salserisimoperu.com/wp-content/uploads/2017/11/UMBERTO-VALVERDE.jpg?resize=640%2C360" class="logo"></div>
+        <div><img src="https://www.eltiempo.com/files/article_main/uploads/2017/02/11/589fe3eec300f.jpeg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
