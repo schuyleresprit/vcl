@@ -5,7 +5,7 @@ permalink: /cthompson
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Barbara Lalla</h1>
+    <h1>Claude Thompson</h1>
     <div class="quote">
         <div><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" class="logo"></div>
     </div>
@@ -25,7 +25,7 @@ permalink: /cthompson
             <div class="dot"></div>
             <div class="right">
                 <h1>These My People</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41sQorwhseL._SX327_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://th.bing.com/th/id/OIP.TV_Q_5ACO7oxvuaMvLHY7QAAAA?pid=ImgDet&rs=1"></p>
                 <p>
                 Language: English <br/>
                 Publisher: The Herald Ltd. Printers		 <br/>
