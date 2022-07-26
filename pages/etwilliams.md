@@ -1,13 +1,13 @@
 ---
 layout: defaultau
 title: "Edison T Williams"
-permalink: /etwilliams
+permalink: /ewilliams
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
     <h1>Edison T Williams</h1>
     <div class="quote">
-        <div><img src="https://scontent.fanu2-1.fna.fbcdn.net/v/t1.6435-9/54279452_10161848225275085_35129448047050752_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=973b4a&_nc_ohc=GJwt-x1s0IwAX_VENVU&_nc_ht=scontent.fanu2-1.fna&oh=00_AT9LxQ02-RsfBHX-QnyEXyx8Ki3NKznF6a1edmlJtszjkw&oe=6305FFA5"></div>
+        <div><img src="https://scontent.fanu2-1.fna.fbcdn.net/v/t1.6435-9/54279452_10161848225275085_35129448047050752_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=973b4a&_nc_ohc=GJwt-x1s0IwAX_VENVU&_nc_ht=scontent.fanu2-1.fna&oh=00_AT9LxQ02-RsfBHX-QnyEXyx8Ki3NKznF6a1edmlJtszjkw&oe=6305FFA5" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -36,7 +36,7 @@ permalink: /etwilliams
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Prickett's Well: A Barbados Murder Mystery </h1><hr>

@@ -7,7 +7,7 @@ permalink: /devery
 <div class="content">
     <h1>Donna Every</h1>
     <div class="quote">
-        <div><img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/v10c7gdtb3rllv64rok7qt4g9s._SY600_.jpg"></div>
+        <div><img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/v10c7gdtb3rllv64rok7qt4g9s._SY600_.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
