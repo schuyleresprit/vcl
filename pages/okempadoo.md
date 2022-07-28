@@ -81,16 +81,7 @@ permalink: /okempadoo
                 Publisher: Farrar, Straus and Giroux<br/>
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
-                Length: 206
-
-            </div>
-        </div>
-
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
+                Length: 206 </p>
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
