@@ -53,14 +53,14 @@ permalink: /ebaugh
             <div class="date left"><p class="left hide">1988</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Pleasures Of Exile</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=89zPAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70CjoMH-61GthngthjU9Bwp_sxBA8yruFBRvwtDa347RjIE0t1nk2P4hjSY6w7-oFyoGvg9TGOPzWvk5P0yKggbjxMz7enasWpQFys0v1MXiF3rl2JL57ICiKgOlyszlkFHPMHM" height="50%" width = "50%"></p>
+                <h1>On becoming one's mother : Goodison in the context of feminist criticism</h1><hr>
+                <p><img src="https://www.amacad.org/sites/default/files/person/headshots/Baugh_Headshot.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: University of Michigan Press <br/>
-                Pub_location: Ann Arbor, MI, United States <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 260 <br/>                </p>
+                Publisher: St. Augustine : Women and Development Studies, Institute of International Relations, University of the West Indies	 <br/>
+                Pub_location: Port of Spain, Trinidad and Tobago <br/>
+                Genre: Non Fiction <br/>
+                Length: 18 <br/>                </p>
             </div>
         </div>
 
@@ -68,14 +68,14 @@ permalink: /ebaugh
             <div class="date right"><p class="right hide">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Natives Of My Person</h1><hr>
-                <p><img src="https://pictures.abebooks.com/isbn/9780030866470-us.jpg" height="50%" width = "50%"></p>
+                <h1>The Caribbean Poem</h1><hr>
+                <p><img src="https://www.amacad.org/sites/default/files/person/headshots/Baugh_Headshot.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher:Holt, Rinehart and Winston <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 345 <br/>                                </p>
+                Publisher: West Indian Association for Commonwealth Literature and Language Studies	<br/>
+                Pub_location: Kingston, Jamaica <br/>
+                Genre: Poetry Collection <br/>
+                Length: 92 <br/>                                </p>
             </div>
         </div>
 
@@ -83,14 +83,14 @@ permalink: /ebaugh
             <div class="date left"><p class="left hide">2000</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Water With Berries</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=9I8tAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73dDZBbRM3J_Wl6zTIWePfjAB2rWICmG_w3SNVG682sOIVX1tv39lHDrjJE1LbGaJvp6ky6EfrcSQww4WXSpAwfZ3wCQvIriS4qq7XxsN_qR0eVEooeR0f1dYriToY6WdrwQxv4" height="50%" width = "50%"></p>
+                <h1>It was the Singing</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/518xXdEhvIL._SX324_BO1,204,203,200_.jpg" ></p>
                 <p>
                 Language: English <br/>
-                Publisher:Holt, Rinehart and Winston <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 248 <br/>                     </p>
+                Publisher: Sandberry Press	 <br/>
+                Pub_location: Toronto, Canada <br/>
+                Genre: Poetry Collection <br/>
+                Length: 99 <br/>                     </p>
             </div>
         </div>
 
@@ -98,14 +98,14 @@ permalink: /ebaugh
             <div class="date right"><p class="right hide">2006</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Cannon Shot And Glass Beads: Modern Black Writing</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/4160885ZF0L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%" ></p>
+                <h1>Derek Walcott</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=3DR-zQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71uPx1ZOqVflpllqQvKKiwcPPfta3yLlTD0uyhqWt1MLac9aHHuSfMM9qW5_qWpgkN6P9lvj4bYE_t4-xNcP4a1TZq86bMNapM1g4WojEO51H-Eji-STW7nvIuxsrla3jCa4N7F"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Pan Books <br/>
-                Pub_location: London, England <br/>
-                Genre: Anthology <br/>
-                Length: 286 <br/>                  </p>
+                Publisher: Cambridge University Press	 <br/>
+                Pub_location: Cambridge, England <br/>
+                Genre: Biography <br/>
+                Length: 254 <br/>                  </p>
             </div>
         </div>
 
@@ -113,28 +113,28 @@ permalink: /ebaugh
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Emigrants</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=_gsJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70sP_bR-eOAD72iFl-rpL6t4RMdcIAs_2bGfpiyrpn39Q9fwfys9yGPSgwca4n4AUvNXNBmt1PLrYp_yU2ATRDVzIGto9Tk-H8Z6M1GZQFdBmSdNVbmH_DhWu8XhzQ-MMWioQGK" height="50%" width = "50%" ></p>
+                <h1>Frank Collymore : A Biography</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51leKnudcVL._SX346_BO1,204,203,200_.jpg" ></p>
                 <p>
                 Language: English <br/>
-                Publisher: Allison & Busby <br/>
-                Pub_location: London, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 272 <br/>                   </p>
+                Publisher: Ian Randle	 <br/>
+                Pub_location: Kingston, Jamaica <br/>
+                Genre: Biography <br/>
+                Length: 302 <br/>                   </p>
             </div>
         </div>
        <div class="block">
             <div class="date right"><p class="right hide">2013</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Of Age And Danger</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" height="50%" width = "50%" ></p>
+                <h1>Black Sand : New and Selected Poems</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41iBtpGWmqL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Allison & Busby <br/>
-                Pub_location: London, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 412 <br/>                  </p>
+                Publisher: Peepal Tree Press	 <br/>
+                Pub_location: Leeds, England <br/>
+                Genre: Poetry Collection <br/>
+                Length: 131 <br/>                  </p>
             </div>
         </div>
 </div>
