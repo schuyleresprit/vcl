@@ -249,7 +249,7 @@ permalink: /Jamaica
     </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/iferguson">Ira Lunan Ferguson</a></h4>
+          <h4><a href="/ilferguson">Ira Lunan Ferguson</a></h4>
         </a>
       </div>
     </div>
