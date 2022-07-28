@@ -21,7 +21,7 @@ permalink: /hbeckles
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">1995</p></div>
+            <div class="date left"><p class="left">1995</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Liberation Cricket: West Indies Cricket Culture (Sport, Society, and Politics)</h1><hr>
@@ -36,11 +36,11 @@ permalink: /hbeckles
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2010</p></div>
+            <div class="date right"><p class="right">1</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Bussa : the 1816 Revolution in Barbados</h1><hr>
-                <p><img src="https://d3525k1ryd2155.cloudfront.net/h/029/951/830951029.0.x.jpghttps://d3525k1ryd2155.cloudfront.net/h/029/951/830951029.0.x.jpg"></p>
+                <p><img src="https://d3525k1ryd2155.cloudfront.net/h/029/951/830951029.0.x.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Department of History, University of the West Indies<br/>
