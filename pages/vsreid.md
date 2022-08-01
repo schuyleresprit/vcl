@@ -102,7 +102,7 @@ permalink: /vsreid
             </div>
         </div>
          <div class="block">
-            <div class="date right"><p class="right hide">1971</p></div>
+            <div class="date left"><p class="right hide">1971</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>The Young Warriors</h1><hr>
@@ -127,7 +127,7 @@ permalink: /vsreid
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1972</p></div>
+            <div class="date left"><p class="right hide">1972</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>New Day</h1><hr>
@@ -153,7 +153,7 @@ permalink: /vsreid
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1978</p></div>
+            <div class="date left"><p class="right hide">1978</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>The Jamaicans</h1><hr>
