@@ -521,7 +521,7 @@ permalink: /Jamaica
             </div>
             <div class="vesti-desc">
               <a class="desc-a" href="#">
-              <h4><a href="/vreid">Victor Stafford Reid</a></h4>
+              <h4><a href="/vsreid">Victor Stafford Reid</a></h4>
               </a>
             </div>
           </div>
