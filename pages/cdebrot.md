@@ -61,7 +61,7 @@ permalink: /cdebrot
                 Genre: Poem <br/>
                 Length: 28 <br/>                   </p>
             </div>
-        </div> 
+        </div>
         <div class="block">
             <div class="date left"><p class="left">1945</p></div>
             <div class="dot"></div>
@@ -89,7 +89,7 @@ permalink: /cdebrot
                 Genre: Fiction (Novel) <br/>
                 Length: 61 <br/>                   </p>
             </div>
-        </div> 
+        </div>
         <div class="block">
             <div class="date left"><p class="left">1947</p></div>
             <div class="dot"></div>
@@ -117,7 +117,7 @@ permalink: /cdebrot
                 Genre: Poem <br/>
                 Length: 30 <br/>                   </p>
             </div>
-        </div> 
+        </div>
          <div class="block">
             <div class="date left"><p class="left">1955</p></div>
             <div class="dot"></div>
@@ -145,7 +145,7 @@ permalink: /cdebrot
                 Genre: Essay <br/>
                 Length: 132 <br/>                   </p>
             </div>
-        </div> 
+        </div>
         <div class="block">
             <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
@@ -173,7 +173,7 @@ permalink: /cdebrot
                 Genre: Fiction (Novel) <br/>
                 Length: 84 <br/>                   </p>
             </div>
-        </div> 
+        </div>
         <div class="block">
             <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
@@ -257,4 +257,8 @@ permalink: /cdebrot
                 Genre: Essay <br/>
                 Length: 95 <br/>                   </p>
             </div>
-        </div>          
+        </div>   
+
+            </div>
+            <!-- partial -->
+            <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>       
