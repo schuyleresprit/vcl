@@ -35,20 +35,6 @@ permalink: /okwamdela
                 </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">1970</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Souls in the wilderness </h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61Q7XsuI0rL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>
-                Language: English <br/>
-                Publisher: 21st Century Press <br/>
-                Pub_location: Toronto, ON, Canada <br/>
-                Genre: Biography <br/>
-                Length: 80 <br/>
-                </p>
-            </div>
         </div>
         <div class="block">
             <div class="date left"><p class="left">1970</p></div>
