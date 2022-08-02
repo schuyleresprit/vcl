@@ -25,7 +25,7 @@ permalink: /jbent
             <div class="dot"></div>
             <div class="right">
                 <h1>The Green Banana Hunt</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41p8astjobL._SX331_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Deutsch<br>
