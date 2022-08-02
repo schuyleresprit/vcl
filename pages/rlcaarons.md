@@ -1,8 +1,9 @@
 ---
 layout: defaultau
-title: " R. L. C. Aarons"
+title: "R. L. C. Aarons"
 permalink: /rlcaarons
 ---
+<!-- partial:index.partial.html -->
 <div class="content">
     <h1>R. L. C. Aarons</h1>
     <div class="quote">
@@ -11,10 +12,12 @@ permalink: /rlcaarons
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
+            <div class="date right"><p class="right">??</p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p> R. L. C. Aarons is from United States.</p>
+            <p>R. L. C. Aarons is from Jamaica.</p>
+                <a href="#" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -23,10 +26,17 @@ permalink: /rlcaarons
             <div class="right">
                 <h1>The Cow That Laughed - And Other Stories</h1><hr>
                 <p><img src="https://collections.carli.illinois.edu/digital/api/singleitem/image/uic_car/1341/default.jpg"></p>
- 			<p> Language: English <br/>
-                Publisher: Printers Ltd.<br/>
-                Pub_location: Kingston, Jamaica <br/>
-                Genre: Anthology <br/>
-                Length: 93 <br/>                </p>
+                <p>
+                Language: English<br>
+                Publisher: Printed by Printers Ltd.<br>
+                Publisher Location: Kingston, Jamaica<br>
+                Genre: Fiction<br>
+                Length: 93<br>
+                </p>
             </div>
         </div>
+        
+
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
