@@ -40,7 +40,7 @@ permalink: /jbent
             <div class="dot"></div>
             <div class="left">
                 <h1>How Anansi Captured the Tiger Stories</h1><hr>
-                <p><img src="https://pictures.abebooks.com/isbn/9780525690412-us.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51WET8Z76CL._SX368_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Dutton<br>
