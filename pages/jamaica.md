@@ -321,7 +321,7 @@ permalink: /Jamaica
 <div id="post-20" class="vesti-col timeline-post">
 <div class="vesti-content-wrapper">
   <div class="photo">
-    <img src="https://www.writersdigest.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_248/MTcxOTg5NDI3MDQzNTEwMTU0/image-placeholder-title.webp" width="50%" heigh="50%">
+    <img src="https://images.squarespace-cdn.com/content/v1/60fae6b7bc290e498e60c336/1627217170745-IW160FLU01ZBPAH7K39D/profile+pic.jpeg?format=500w" width="50%" heigh="50%">
     <div class="vesti-date-wrapper">
  <div class="vesti-date">
     </div>
