@@ -16,8 +16,8 @@ permalink: /pjosie
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p> Michael Aubertin is from St. Lucia.</p>
-                <a href="https://en.wikipedia.org/wiki/Peter_Josie"_blank">Read more</a>
+            <p> Peter Josie is from St. Lucia.</p>
+                <a href="https://en.wikipedia.org/wiki/Peter_Josie" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
