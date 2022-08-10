@@ -21,32 +21,32 @@ permalink: /rmanley
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>It A Come</h1><hr>
-                <p><img src="https://www.reggaeholland.com/wp-content/uploads/Untitled-5.jpg"></p>
+                <h1>The Black Peacock</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495330147l/34957280.jpg"></p>
                 <p>
                 Language: English<br>
-                Publisher: Race Today Publications<br>
-                Publisher Location: London, England<br>
-                Genre: Poetry Collection<br>
-                Length: 61<br>
+                Publisher: Libraries Cooperative<br>
+                Publisher Location: Vancouver, BC, Canada<br>
+                Genre: Fiction (Novel)<br>
+                Length: 183<br>
                 </p>
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>It A Come</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51FaLPMCs6L._SX343_BO1,204,203,200_.jpg"></p>
+                <h1>Drumblair: Memories of a Jamaican Childhood</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51DX4NT3K2L._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br>
-                Publisher: City Lights Books<br>
-                Publisher Location: San Franciso, CA, United States<br>
-                Genre: Poetry Collection<br>
-                Length: 61<br>
+                Publisher: Vintage Books<br>
+                Publisher Location: Toronto, ON, Canada<br>
+                Genre: Nonfiction Book<br>
+                Length: 418<br>
                 </p>
             </div>
         </div>
@@ -54,7 +54,7 @@ permalink: /rmanley
             <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Mi Cyaan Believe It</h1><hr>
+                <h1>Slipstream : a daughter remembers</h1><hr>
                 <p><img src="https://img.discogs.com/N5XBylJ_rijDtPpjT2MCBwiOlTI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1169120-1447543928-3847.mpo.jpg"></p>
                 <p>
                 Language: English<br>
