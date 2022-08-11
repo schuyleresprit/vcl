@@ -51,32 +51,47 @@ permalink: /rmanley
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1982</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Slipstream : a daughter remembers</h1><hr>
-                <p><img src="https://img.discogs.com/N5XBylJ_rijDtPpjT2MCBwiOlTI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1169120-1447543928-3847.mpo.jpg"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394239989l/21030427.jpg"></p>
                 <p>
                 Language: English<br>
-                Publisher: Island Records<br>
-                Publisher Location: London, England<br>
-                Genre: Poetry Collection<br>
-                Length: NA<br>
+                Publisher: Dzanc Books<br>
+                Publisher Location: New York, United States<br>
+                Genre: Biography<br>
+                Length: 304<br>
                 </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Me Cyaan Believe It/Roots</h1><hr>
-                <p><img src="https://th.bing.com/th/id/R.fb38dc754aac4e1f552353482de902c9?rik=YiLvOUMh6gEcGw&riu=http%3a%2f%2f2.bp.blogspot.com%2f_5IdEvMimaF4%2fS8tjbR55LRI%2fAAAAAAAAADc%2fSuQ6NX_5gTE%2fs1600%2fabu_baka2.jpg&ehk=pk7OI5uGPwrEUFhoNC1U%2bLz%2bj2FNoP0OwQAf5KxcHrQ%3d&risl=&pid=ImgRaw&r=0"></p>
+                <h1>Horses in Her Hair</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396777560l/17836441.jpg"></p>
                 <p>
                 Language: English<br>
-                Publisher: LKJ Records<br>
-                Publisher Location: London, England<br>
-                Genre: Poetry Collection<br>
-                Length: NA<br>
+                Publisher: Dzanc Books<br>
+                Publisher Location: New York, United States<br>
+                Genre: Biography<br>
+                Length: 402<br>
+                </p>
+            </div>
+        </div>
+             <div class="block">
+            <div class="date left"><p class="left">1992</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>A light left on</h1><hr>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9780948833557.jpg?itok=nTsWgPGv"></p>
+                <p>
+                Language: English<br>
+                Publisher: Peepal Tree Books<br>
+                Publisher Location: Leeds, LDN, England<br>
+                Genre: Biography<br>
+                Length: 55<br>
                 </p>
             </div>
         </div>
