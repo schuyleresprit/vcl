@@ -21,46 +21,6 @@ permalink: /wadolpheroberts
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1948</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Lands of the Inner Sea: The West Indies and Bermuda</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br/>
-                Publisher: Coward-McCann<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre:  Nonfiction Book<br/>
-                Length: 301</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1946</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Lake Pontchartrain</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: The Bobbs-Merrill Company<br/>
-                Pub_location: Indianapolis, IN, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 376</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1944</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The Book of the Navy</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Doubleday<br/>
-                Pub_location: Cooperstown, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 302</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">1941</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -71,19 +31,6 @@ permalink: /wadolpheroberts
                 Pub_location:  Indianapolis, IN, United States<br/>
                 Genre: Nonfiction Book<br/>
                 Length: 313</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1948</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Creole Dusk: A New Orleans Novel of the '80s</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: The Bobbs-Merrill Company<br/>
-                Pub_location: Indianapolis, IN, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 304</p>
             </div>
         </div>
         <div class="block">
@@ -100,29 +47,29 @@ permalink: /wadolpheroberts
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1969</p></div>
+            <div class="date left"><p class="left">1944</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Caribbean</h1><hr>
+                <h1>The Book of the Navy</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
-                Publisher: Negro Universities Press<br/>
-                Pub_location: New York, NY, United States<br/>
+                Publisher: Doubleday<br/>
+                Pub_location: Cooperstown, NY, United States<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 361</p>
+                Length: 302</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1969</p></div>
+            <div class="date right"><p class="right">1946</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>The French in the West Indies</h1><hr>
+                <h1>Lake Pontchartrain</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
                 Publisher: The Bobbs-Merrill Company<br/>
-                Pub_location:  Indianapolis, IN, United States<br/>
+                Pub_location: Indianapolis, IN, United States<br/>
                 Genre: Nonfiction Book<br/>
-                Length: 355</p>
+                Length: 376</p>
             </div>
         </div>
         <div class="block">
@@ -152,6 +99,33 @@ permalink: /wadolpheroberts
             </div>
         </div>
         <div class="block">
+            <div class="date left"><p class="left">1948</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Creole Dusk: A New Orleans Novel of the '80s</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: The Bobbs-Merrill Company<br/>
+                Pub_location: Indianapolis, IN, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 304</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1948</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Lands of the Inner Sea: The West Indies and Bermuda</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English<br/>
+                Publisher: Coward-McCann<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre:  Nonfiction Book<br/>
+                Length: 301</p>
+            </div>
+        </div>
+        <div class="block">
             <div class="date left"><p class="left">1949</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -162,6 +136,32 @@ permalink: /wadolpheroberts
                 Pub_location: Indianapolis, IN, United States<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 378</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1969</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Caribbean</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Negro Universities Press<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 361</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1969</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>The French in the West Indies</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: The Bobbs-Merrill Company<br/>
+                Pub_location:  Indianapolis, IN, United States<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 355</p>
             </div>
         </div>
         <div id="footer">
