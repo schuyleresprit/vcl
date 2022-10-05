@@ -21,6 +21,32 @@ permalink: /manthony
             </div>
         </div>
         <div class="block">
+            <div class="date left"><p class="left">1963</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Games Were Coming</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Heinemann<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 182</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1967</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Green Days by the River</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Heinemann<br/>
+                Pub_location:  London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 191</p>
+            </div>
+        </div>
+        <div class="block">
             <div class="date left"><p class="left">1967</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -32,19 +58,6 @@ permalink: /manthony
                 Pub_location: North Devon, England<br/>
                 Genre: Fiction (Short Story Collection)<br/>
                 Length: 184</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Caribbean Folk Tales & Fantasies</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Macmillan Publishers<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 104</p>
             </div>
         </div>
         <div class="block">
@@ -71,6 +84,19 @@ permalink: /manthony
                 Pub_location:  Oxford, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 252</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2005</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Caribbean Folk Tales & Fantasies</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Macmillan Publishers<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 104</p>
             </div>
         </div>
         <div class="block">
@@ -110,32 +136,6 @@ permalink: /manthony
                 Pub_location: Port of Spain, Trinidad  Tobago<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 214</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1967</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Green Days by the River</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Heinemann<br/>
-                Pub_location:  London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 191</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Games Were Coming</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Heinemann<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 182</p>
             </div>
         </div>
         <div id="footer">
