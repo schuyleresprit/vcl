@@ -21,33 +21,6 @@ permalink: /etrouillot
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2013</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>The Infamous Rosalie</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br/>
-                Publisher: University of Nebraska Press<br/>
-                Pub_location: Lincoln, NE, United States<br/>
-                Genre: Fiction<br/>
-                Length: 152</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Rosalie l’infâme</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br/>
-                Publisher: University of Nebraska Press<br/>
-                Pub_location: Lincoln, NE, United States<br/>
-                Genre: Fiction<br/>
-                Length: 152</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -84,6 +57,32 @@ permalink: /etrouillot
                 Pub_location: Port-au-Prince, Haiti<br/>
                 Genre: Fiction<br/>
                 Length: 105</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2003</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Rosalie l’infâme</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: University of Nebraska Press<br/>
+                Pub_location: Lincoln, NE, United States<br/>
+                Genre: Fiction<br/>
+                Length: 152</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2003</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Absences sans frontières, novel</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Chevre Feuille<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 256</p>
             </div>
         </div>
         <div class="block">
@@ -139,19 +138,6 @@ permalink: /etrouillot
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Memory at bay</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: University of Virginia Press<br/>
-                Pub_location: Charlottesville, VA, United States<br/>
-                Genre: Fiction<br/>
-                Length: 160</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -165,16 +151,30 @@ permalink: /etrouillot
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="left hide">
-                <h1>Absences sans frontières, novel</h1><hr>
+            <div class="right hide">
+                <h1>Je m'appelle Fridhomme, short stories</h1><hr>
                 <p><img src=""></p>
                 <p>Language: French<br/>
-                Publisher: Chevre Feuille<br/>
-                Pub_location: Paris, France<br/>
+                Publisher: C3 Editions<br/>
+                Pub_location: Port-au-Prince, Haiti<br/>
                 Genre: Fiction<br/>
-                Length: 256</p>
+                Length: 54</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Infamous Rosalie</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English<br/>
+                Publisher: University of Nebraska Press<br/>
+                Pub_location: Lincoln, NE, United States<br/>
+                Genre: Fiction<br/>
+                Length: 152</p>
             </div>
         </div>
         <div class="block">
@@ -194,6 +194,19 @@ permalink: /etrouillot
             <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
             <div class="left hide">
+                <h1>Memory at bay</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: University of Virginia Press<br/>
+                Pub_location: Charlottesville, VA, United States<br/>
+                Genre: Fiction<br/>
+                Length: 160</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2015</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
                 <h1>Le Rond Point, novel</h1><hr>
                 <p><img src=""></p>
                 <p>Language: French<br/>
@@ -201,19 +214,6 @@ permalink: /etrouillot
                 Pub_location: Port-au-Prince, Haiti<br/>
                 Genre: Fiction<br/>
                 Length: 206</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Je m'appelle Fridhomme, short stories</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br/>
-                Publisher: C3 Editions<br/>
-                Pub_location: Port-au-Prince, Haiti<br/>
-                Genre: Fiction<br/>
-                Length: 54</p>
             </div>
         </div>
         <div class="block">
