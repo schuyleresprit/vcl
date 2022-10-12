@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Walter Adolphe Roberts"
-permalink: /wadolpheroberts
+permalink: /waroberts
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -21,9 +21,9 @@ permalink: /wadolpheroberts
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1941</p></div>
+            <div class="date left"><p class="left">1941</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right">
                 <h1>The Pomegranate</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
@@ -47,9 +47,9 @@ permalink: /wadolpheroberts
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1944</p></div>
+            <div class="date right"><p class="right">1944</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Book of the Navy</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
@@ -57,19 +57,6 @@ permalink: /wadolpheroberts
                 Pub_location: Cooperstown, NY, United States<br/>
                 Genre: Nonfiction Book<br/>
                 Length: 302</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1946</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Lake Pontchartrain</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: The Bobbs-Merrill Company<br/>
-                Pub_location: Indianapolis, IN, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 376</p>
             </div>
         </div>
         <div class="block">
@@ -89,6 +76,19 @@ permalink: /wadolpheroberts
             <div class="date right"><p class="right">1946</p></div>
             <div class="dot"></div>
             <div class="left hide">
+                <h1>Lake Pontchartrain</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: The Bobbs-Merrill Company<br/>
+                Pub_location: Indianapolis, IN, United States<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 376</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1946</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
                 <h1>Brave Mardi Gras: A New Orleans Novel of the '60s</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
@@ -99,9 +99,9 @@ permalink: /wadolpheroberts
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1948</p></div>
+            <div class="date right"><p class="right">1948</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Creole Dusk: A New Orleans Novel of the '80s</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
@@ -114,7 +114,7 @@ permalink: /wadolpheroberts
         <div class="block">
             <div class="date left"><p class="left">1948</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Lands of the Inner Sea: The West Indies and Bermuda</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -126,9 +126,9 @@ permalink: /wadolpheroberts
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1949</p></div>
+            <div class="date right"><p class="right">1949</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Single Star: A Novel of Cuba in the '90s</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>

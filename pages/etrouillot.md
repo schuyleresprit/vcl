@@ -23,7 +23,7 @@ permalink: /etrouillot
         <div class="block">
             <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
                 <h1>La chambre interdite, short story collection</h1><hr>
                 <p><img src=""></p>
                 <p>Language: French<br/>
@@ -73,9 +73,9 @@ permalink: /etrouillot
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Absences sans frontières, novel</h1><hr>
                 <p><img src=""></p>
                 <p>Language: French<br/>
@@ -138,9 +138,9 @@ permalink: /etrouillot
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>La fille à la guitare / Yon fi, yon gita, yon vwa</h1><hr>
                 <p><img src=""></p>
                 <p>Language: French, Creole<br/>
@@ -164,9 +164,9 @@ permalink: /etrouillot
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2013</p></div>
+            <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Infamous Rosalie</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -204,9 +204,9 @@ permalink: /etrouillot
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Le Rond Point, novel</h1><hr>
                 <p><img src=""></p>
                 <p>Language: French<br/>

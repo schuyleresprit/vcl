@@ -23,7 +23,7 @@ permalink: /manthony
         <div class="block">
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
                 <h1>Games Were Coming</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
@@ -49,7 +49,7 @@ permalink: /manthony
         <div class="block">
             <div class="date left"><p class="left">1967</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Michael Anthony's Tales for Young and Old</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -61,9 +61,9 @@ permalink: /manthony
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1996</p></div>
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>In the Heat of the Day</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
@@ -74,9 +74,9 @@ permalink: /manthony
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2001</p></div>
+            <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>High Tide of Intrigue</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br/>
