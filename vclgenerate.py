@@ -1,6 +1,5 @@
 import os
 import csv
-import numpy
 import pandas as pd
 import datetime
 import codecs
