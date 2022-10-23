@@ -1,6 +1,5 @@
 import os
 import csv
-import pandas as pd
 import datetime
 import codecs
 import json
@@ -112,7 +111,7 @@ def process_author_files(csv_path, csv_list, geonames_username):
 			for row in reader:
 
 				if not(row['Title'] == '' and row['Pubdate'] == '' and row['Language'] == '' and row['Genre'] == ''):
-					place_name = row['Pub_city'] + ', ' + row['Pub_country']
+					place_name = row['City'] + ', ' + row['Country']
 
 				if not place_name in places:
 					place_info = {}
