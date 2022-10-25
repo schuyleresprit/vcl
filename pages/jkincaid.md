@@ -34,7 +34,6 @@ permalink: /jkincaid
                 Length: 160 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1983</p></div>
             <div class="dot"></div>
@@ -49,7 +48,6 @@ permalink: /jkincaid
                 Length: 96 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1984</p></div>
             <div class="dot"></div>
@@ -64,7 +62,6 @@ permalink: /jkincaid
                 Length: 96 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1984</p></div>
             <div class="dot"></div>
@@ -79,7 +76,6 @@ permalink: /jkincaid
                 Length: 160 <br/>    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1985</p></div>
             <div class="dot"></div>
@@ -95,7 +91,6 @@ permalink: /jkincaid
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1985</p></div>
             <div class="dot"></div>
@@ -111,7 +106,6 @@ permalink: /jkincaid
                 Length: 114 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1986</p></div>
             <div class="dot"></div>
@@ -127,7 +121,6 @@ permalink: /jkincaid
                 Length: 77 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1985</p></div>
             <div class="dot"></div>
@@ -143,7 +136,6 @@ permalink: /jkincaid
                 Length: 114 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1986</p></div>
             <div class="dot"></div>
@@ -158,7 +150,6 @@ permalink: /jkincaid
                 Length: 160 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1986</p></div>
             <div class="dot"></div>
@@ -173,7 +164,6 @@ permalink: /jkincaid
                 Length: 16 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1986</p></div>
             <div class="dot"></div>
@@ -189,8 +179,6 @@ permalink: /jkincaid
                 Length: 133 <br/>                 </p>
             </div>
         </div>
-
-
         <div class="block">
             <div class="date right"><p class="right hide">1987</p></div>
             <div class="dot"></div>
@@ -206,7 +194,6 @@ permalink: /jkincaid
                 Length: 164 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1988</p></div>
             <div class="dot"></div>
@@ -221,7 +208,6 @@ permalink: /jkincaid
                 Length: 81 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1988</p></div>
             <div class="dot"></div>
@@ -237,7 +223,6 @@ permalink: /jkincaid
                 Length: 164 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1989</p></div>
             <div class="dot"></div>
@@ -252,7 +237,6 @@ permalink: /jkincaid
                 Length: 81 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1988</p></div>
             <div class="dot"></div>
@@ -267,7 +251,6 @@ permalink: /jkincaid
                 Length: 26 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1989</p></div>
             <div class="dot"></div>
@@ -283,7 +266,6 @@ permalink: /jkincaid
                 Length: 94 <br/>                 </p>
             </div>
         </div>
-
          <div class="block">
             <div class="date right"><p class="right hide">1990</p></div>
             <div class="dot"></div>
@@ -299,7 +281,6 @@ permalink: /jkincaid
                 Length: 72 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1990</p></div>
             <div class="dot"></div>
@@ -314,7 +295,6 @@ permalink: /jkincaid
                 Length: 163 <br/>                 </p>
             </div>
         </div>  
-
     <div class="block">
             <div class="date right"><p class="right hide">1990</p></div>
             <div class="dot"></div>
@@ -330,7 +310,6 @@ permalink: /jkincaid
                 Length: 77 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1990</p></div>
             <div class="dot"></div>
@@ -345,7 +324,6 @@ permalink: /jkincaid
                 Length: 14 <br/>                 </p>
             </div>
         </div>  
-
     <div class="block">
             <div class="date right"><p class="right hide">1991</p></div>
             <div class="dot"></div>
@@ -361,7 +339,6 @@ permalink: /jkincaid
                 Length: 163 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1992</p></div>
             <div class="dot"></div>
@@ -377,7 +354,6 @@ permalink: /jkincaid
                 Length: 159 <br/>                 </p>
             </div>
         </div>  
-
     <div class="block">
             <div class="date right"><p class="right hide">1996</p></div>
             <div class="dot"></div>
@@ -392,7 +368,6 @@ permalink: /jkincaid
                 Length: 228 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1997</p></div>
             <div class="dot"></div>
@@ -407,7 +382,6 @@ permalink: /jkincaid
                 Length: 160 <br/>                 </p>
             </div>
         </div>  
-
     <div class="block">
             <div class="date right"><p class="right hide">1997</p></div>
             <div class="dot"></div>
@@ -422,7 +396,6 @@ permalink: /jkincaid
                 Length: 197 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1997</p></div>
             <div class="dot"></div>
@@ -437,7 +410,6 @@ permalink: /jkincaid
                 Length: 162 <br/>                 </p>
             </div>
         </div>     
-
      <div class="block">
             <div class="date right"><p class="right hide">1997</p></div>
             <div class="dot"></div>
@@ -452,7 +424,6 @@ permalink: /jkincaid
                 Length: 7 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1998</p></div>
             <div class="dot"></div>
@@ -467,7 +438,6 @@ permalink: /jkincaid
                 Length: 208 <br/>                 </p>
             </div>
         </div>    
-
       <div class="block">
             <div class="date right"><p class="right hide">1998</p></div>
             <div class="dot"></div>
@@ -482,7 +452,6 @@ permalink: /jkincaid
                 Length: 26 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1998</p></div>
             <div class="dot"></div>
@@ -497,7 +466,6 @@ permalink: /jkincaid
                 Length: 329 <br/>                 </p>
             </div>
         </div>        
-
       <div class="block">
             <div class="date right"><p class="right hide">1999</p></div>
             <div class="dot"></div>
@@ -512,7 +480,6 @@ permalink: /jkincaid
                 Length: 229 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2000</p></div>
             <div class="dot"></div>
@@ -527,7 +494,6 @@ permalink: /jkincaid
                 Length: 81 <br/>                 </p>
             </div>
         </div>        
-
       <div class="block">
             <div class="date right"><p class="right hide">2000</p></div>
             <div class="dot"></div>
@@ -542,7 +508,6 @@ permalink: /jkincaid
                 Length: 100 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2000</p></div>
             <div class="dot"></div>
@@ -559,7 +524,6 @@ permalink: /jkincaid
                 Length: 192 <br/>                 </p>
             </div>
         </div>   
-
       <div class="block">
             <div class="date right"><p class="right hide">2001</p></div>
             <div class="dot"></div>
@@ -575,7 +539,6 @@ permalink: /jkincaid
                 Length: 150 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2000</p></div>
             <div class="dot"></div>
@@ -591,7 +554,6 @@ permalink: /jkincaid
                 Length: 192 <br/>                 </p>
             </div>
         </div>        
-
       <div class="block">
             <div class="date right"><p class="right hide">2001</p></div>
             <div class="dot"></div>
@@ -606,7 +568,6 @@ permalink: /jkincaid
                 Length: 247 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2002</p></div>
             <div class="dot"></div>
@@ -621,7 +582,6 @@ permalink: /jkincaid
                 Length: 163 <br/>                 </p>
             </div>
         </div>   
-
        <div class="block">
             <div class="date right"><p class="right hide">2002</p></div>
             <div class="dot"></div>
@@ -636,7 +596,6 @@ permalink: /jkincaid
                 Length: 273 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2003</p></div>
             <div class="dot"></div>
@@ -651,7 +610,6 @@ permalink: /jkincaid
                 Length: 213 <br/>                 </p>
             </div>
         </div>     
-
        <div class="block">
             <div class="date right"><p class="right hide">2005</p></div>
             <div class="dot"></div>
@@ -666,7 +624,6 @@ permalink: /jkincaid
                 Length: 191 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2007</p></div>
             <div class="dot"></div>
@@ -681,7 +638,6 @@ permalink: /jkincaid
                 Length: 163 <br/>                 </p>
             </div>
         </div>       
-
        <div class="block">
             <div class="date right"><p class="right hide">2013</p></div>
             <div class="dot"></div>
@@ -696,7 +652,6 @@ permalink: /jkincaid
                 Length: 191 <br/>                        </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2014</p></div>
             <div class="dot"></div>
@@ -712,7 +667,6 @@ permalink: /jkincaid
                 Length: 134 <br/>                 </p>
             </div>
         </div>       
-
         <div class="block">
             <div class="date right"><p class="right hide">2013</p></div>
             <div class="dot"></div>
@@ -727,7 +681,6 @@ permalink: /jkincaid
                 Length: 191 <br/>                        </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2014</p></div>
             <div class="dot"></div>
@@ -742,9 +695,7 @@ permalink: /jkincaid
                 Translation: y <br/>
                 Length: 134 <br/>                 </p>
             </div>
-        </div>                                                                    
-
-        <div class="block">
+        </div>                                              <div class="block">
             <div class="date right"><p class="right hide">2016</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -759,7 +710,6 @@ permalink: /jkincaid
                 Length: 202 <br/>                        </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2016</p></div>
             <div class="dot"></div>
@@ -775,7 +725,6 @@ permalink: /jkincaid
                 Length: 190 <br/>                 </p>
             </div>
         </div>          
-
          <div class="block">
             <div class="date right"><p class="right hide">2019</p></div>
             <div class="dot"></div>
@@ -790,7 +739,6 @@ permalink: /jkincaid
                 Length: 32 <br/>                        </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2020</p></div>
             <div class="dot"></div>
@@ -806,7 +754,6 @@ permalink: /jkincaid
                 Length: 61 <br/>                 </p>
             </div>
         </div>      
-
         <div class="block">
             <div class="date right"><p class="right hide">2020</p></div>
             <div class="dot"></div>
@@ -822,7 +769,6 @@ permalink: /jkincaid
                 Length: 105 <br/>                 </p>
             </div>
         </div>          
-
          <div class="block">
             <div class="date left"><p class="right left">2021</p></div>
             <div class="dot"></div>
@@ -837,7 +783,6 @@ permalink: /jkincaid
                 Length: 136 <br/>                        </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2022</p></div>
             <div class="dot"></div>
