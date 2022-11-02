@@ -64,9 +64,9 @@
         "author_id": "laagostini",
         "author_country": "trinidad_&_tobago"
     },
-    "Jose Marti\u0301": {
+    "Jose Marti": {
         "Author": "Jose Marti\u0301",
-        "author_id": "jmarti\u0301",
+        "author_id": "jmarti",
         "author_country": "cuba"
     },
     "Jean Bernab\u00e9": {
@@ -81,7 +81,7 @@
     },
     "Louise Bennett": {
         "Author": "Louise Bennett",
-        "author_id": "lbennet",
+        "author_id": "lbennett",
         "author_country": "jamaica"
     },
     "Jacques Roumain": {
@@ -149,9 +149,9 @@
         "author_id": "rarenas",
         "author_country": "cuba"
     },
-    "Alejo Carpenter": {
-        "Author": "Alejo Carpenter",
-        "author_id": "acarpenter",
+    "Alejo Carpentier": {
+        "Author": "Alejo Carpentier",
+        "author_id": "acarpentier",
         "author_country": "cuba"
     },
     "Jan J Dominique": {
@@ -159,8 +159,8 @@
         "author_id": "jjdominique",
         "author_country": "haiti"
     },
-    "Frank\u00e9tienne": {
-        "Author": "Frank\u00e9tienne",
+    "Franketienne": {
+        "Author": "Franketienne",
         "author_id": "franketienne",
         "author_country": "haiti"
     },
@@ -214,7 +214,7 @@
         "author_id": "ebodber",
         "author_country": "jamaica"
     },
-    "Roberto Fern\u00e1ndez Retamar": {
+    "Roberto Fernandez Retamar": {
         "Author": "Roberto Fern\u00e1ndez Retamar",
         "author_id": "rretamar",
         "author_country": "cuba"
@@ -229,8 +229,8 @@
         "author_id": "rmais",
         "author_country": "jamaica"
     },
-    "Nicol\u00e1s Guill\u00e9n": {
-        "Author": "Nicol\u00e1s Guill\u00e9n",
+    "Nicolas Guillen": {
+        "Author": "Nicolas Guillen",
         "author_id": "ngullien",
         "author_country": "cuba"
     },
@@ -254,18 +254,18 @@
         "author_id": "ffiallo",
         "author_country": "dominican_republic"
     },
-    "Manuel Fern\u00e1ndez": {
-        "Author": "Manuel Fern\u00e1ndez",
+    "Manuel Fernandez": {
+        "Author": "Manuel Fernandez",
         "author_id": "mfernandez",
         "author_country": "portugal"
     },
-    "Retamar Fern\u00e1ndez": {
-        "Author": "Retamar Fern\u00e1ndez",
+    "Retamar Fernandez": {
+        "Author": "Retamar Fernandez",
         "author_id": "rfernandez",
         "author_country": "haiti"
     },
-    "Margarite Fern\u00e1ndez Olmos": {
-        "Author": "Margarite Fern\u00e1ndez Olmos",
+    "Margarite Fernandez Olmos": {
+        "Author": "Margarite Fernandez Olmos",
         "author_id": "mofernandez",
         "author_country": "united_states"
     },
