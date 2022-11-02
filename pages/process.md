@@ -4,7 +4,7 @@ title: "Process"
 permalink: /process
 ---
 
-Introducing Visualizing Caribbean Literature
+__Introducing Visualizing Caribbean Literature__
 
 ___Where we begin (by Dr. Schuyler Esprit)___
 
@@ -62,12 +62,12 @@ Autobiography/Memoir
 
 We also considered our interests in the outcomes of our study. What did we hope to achieve by collecting this data? Certainly, we wanted to have a solid dataset that we could make available to scholars, students and a wider public. But we also wanted students like us and even younger to get to experience what we did during the course of this project - to get to know the depth and breadth of literature about people like us by people like us. From our small island villages to more bustling cities like Havana and Kingston, we wanted to know more about
 
-*Texts
-*Writers
-*Readers
-*Scenes
-*Relations
-*Occasions for Reading
+* Texts
+* Writers
+* Readers
+* Scenes
+* Relations
+* Occasions for Reading
 
 In all these places, books and stories circulate and we want to know why, when, where and how.
 
@@ -78,28 +78,28 @@ ___Research Goals___
 
 Then we developed research goals to guide our process of investigation. These goals involved different categories.
 
-__The Data__
+___The Data___
 What data sets may we be interested in?
 How do we locate the data/sets?
 How do we store and catalog data?
 
-__The Tools__
+___The Tools___
 What are the most appropriate tools to learn more about the data/sets?
 What are the challenges, limitations and obstacles to using specific tools?
 Which tools will allow for the project’s longevity and sustainability?
 
-__The Critical  Methods__
+___The Critical  Methods___
 What literary approaches are we applying to our understanding of the data and of the visualizations that emerge from our engagement with the data?
 What are our broad research questions about the Caribbean, literature, and Caribbean culture, based on what we find in the data?
 
 
 We wanted to capture the vastness of the Caribbean - and of definitions of the Caribbean - in the representations within the literature so we also wanted to capture the details of their stories. We considered…  
 
-__Periodization__: the eras of literary production and main events, theories, values
-__People__: the authors, readers, publishers, communities documented in literature
-__Infrastructure__: the means and context of literary production, consumption, and reception
-__Places__: the cartography of stories and storytelling within and about the Caribbean
-__Themes__: the keywords emerging from the subjects and ideas relevant to primary sources
+___Periodization___: the eras of literary production and main events, theories, values
+___People___: the authors, readers, publishers, communities documented in literature
+___Infrastructure___: the means and context of literary production, consumption, and reception
+___Places___: the cartography of stories and storytelling within and about the Caribbean
+___Themes___: the keywords emerging from the subjects and ideas relevant to primary sources
 
 We aggregated 3913 entries in Zotero before moving on to the next phase of project development. These entries do not represent the entirety of the work about the Caribbean but form a solid data set to begin work. After additions, deletions, editorial changes, the Google spreadsheet now has 3700 entries that reflect works by Caribbean authors in their new editions and translated iterations. At our last count, we produced autor data sheets for 232 unique authors or co-authors. We have represented 46 in this beta version of the project and will continue the work of adding more to the visualization as our work continues. From the 46 authors prepared for today, there are 445 translated works represented in their bibliographies.
 
@@ -127,21 +127,21 @@ Dr. Gil suggested starting over with a Jekyll frame with bootstrap properties, d
 ___Digital Tools and Methods___
 
 The following programming languages and techniques were used in the development of what we will present to you today.
-*Python
-*Javascript
-*Bootstrap
-*Liquid
-*HTML and CSS
+* Python
+* Javascript
+* Bootstrap
+* Liquid
+* HTML and CSS
 
 We also needed the following software and digital tools to process data or load the project:
-*Jekyll
-*Zotero
-*Google Sheets
-*Google Apps Scripts
-*Github
-*Leaflet
-*Voyant Tools
-*ArcGIS
+* Jekyll
+* Zotero
+* Google Sheets
+* Google Apps Scripts
+* Github
+* Leaflet
+* Voyant Tools
+* ArcGIS
 
 
 We hope you will be as excited about this project as we have been about putting it together. We are proud and excited to present to you Visualizing Caribbean Literature.
