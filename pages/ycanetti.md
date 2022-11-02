@@ -31,9 +31,7 @@ permalink: /ycanetti
                 Publisher: Versal Editorial Group<br>
                 Publisher Location: Boston, MA, United States<br>
                 Genre: Fiction<br>
-                Length: 191<br>
-                
-                </p>
+                Length: 191</p>
             </div>
         </div>
         <div class="block">
