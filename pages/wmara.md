@@ -25,7 +25,7 @@ permalink: /wmara
             <div class="dot"></div>
             <div class="right">
                 <h1>The Schoolmaster</h1><hr>
-                <p><img src="https://collections.carli.illinois.edu/digital/api/singleitem/image/uic_car/1341/default.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/61jiNfWekfL._SX496_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Marshall Cavendish Benchmark<br>
