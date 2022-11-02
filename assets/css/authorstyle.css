@@ -54,7 +54,7 @@ body {
 }
 .content {
   position: relative;
-  ont-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
+  ont-family: "Roboto", "Montserrat", "Arial", sans-serif;
   width: 100%;
   height: auto;
   text-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
@@ -137,7 +137,7 @@ body {
   width: 90%;
   margin: 22px auto;
   color: #216b4d;
-  font-size: 32px;
+  font-size: 28px;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
 }
 .content .block h4 {
@@ -148,7 +148,7 @@ body {
   height: auto;
   margin: 0 auto;
   color: #030303;
-  font-size: 17px;
+  font-size: 14px;
 }
 .content .block a {
   display: block;
@@ -343,4 +343,7 @@ body {
 
 div.right p img, div.left p img {
 	width: inherit;
+    max-width: 250px;
+    max-height: 400px;
+}
 }
