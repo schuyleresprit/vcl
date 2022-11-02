@@ -84,12 +84,20 @@ a {
 .photo {
   position: relative;
 }
+
+.photo img {
+    max-height: 350px;
+    max-width: 250px;
+    min-height: 350px;
+    min-width: 250px;
+}
 /*Vesti date*/
 .photo-co {
-    align: center;
-    max-width: 400px;
-    max-height: 800px;
+    max-width: 600px;
+    max-height: 1200px;
+    margin: 0 auto;
 }
+
 .vesti-date-wrapper {
   position: absolute;
   right: 50%;
@@ -284,8 +292,8 @@ a {
     margin-top: 100px;
   }
   .vesti-date-wrapper .vesti-date {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     padding: 23px;
   }
   .vesti-date-wrapper .vesti-date .day {
@@ -305,7 +313,7 @@ a {
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    width: 132px;
+    width: 100%;
   }
   .owl-item .vesti-desc h4 {
     margin-top: 75px;
@@ -328,15 +336,15 @@ a {
 
 @media (min-width: 1400px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -146px;
+    right: -140px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -146px;
+    left: -140px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    width: 146px;
+    width: 100%;
   }
 }
 

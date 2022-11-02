@@ -4,7 +4,7 @@
   opacity: 0;
 }
 body {
-  ont-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
+  font-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
 }
 .slideIn_Mobile {
   opacity: 1;
@@ -73,8 +73,8 @@ body {
 .content .logo {
   display: block;
   position: relative;
-  width: 265px;
-  height: 265px;
+  max-width: 265px;
+  max-height: 265px;
   border-radius: 300px;
   border: solid 8px #fff;
   margin: 20px auto 0 auto;

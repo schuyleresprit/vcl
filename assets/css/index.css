@@ -35,11 +35,17 @@ a.navbar-brand {
 	left:0;
 	box-shadow:0 0 1px 1px rgba(0,0,0,0.25);
 }
+.container.px-5 {
+    padding: 20px 0;
+}
 .nav-link {
 	color: #216b4d;
 }
 .navbar-1 .nav-item {
 	padding: 10px;
+}
+.bg-dark {
+    background-color: #216b4d!important;
 }
 
 .col-sm-3 {
@@ -63,6 +69,9 @@ footer {
   text-align: center;
   background-color: #cdcdcd;
   border-top: .05rem solid #bfbfbf;
+}
+.mt-5 {
+    margin-top: 0rem!important;
 }
 /*footer p:last-child {
   margin-bottom: 0;
