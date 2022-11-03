@@ -9,6 +9,9 @@ body {
 	margin:0;
 	padding:0;
 }
+h2 {
+	font-size: 3rem;
+}
 a{
 	color: #216b4d;
 }

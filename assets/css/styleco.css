@@ -47,7 +47,7 @@ a {
     content: "";
     display: block;
     height: 100%;
-    width: 2px;
+    width: 4px;
     margin-right: -2px;
   }
   .vesti-date-wrapper::before {
@@ -90,6 +90,7 @@ a {
     min-height: 350px;
     min-width: 250px;
 }
+
 /*Vesti date*/
 .photo-co {
     max-width: 600px;
@@ -162,7 +163,6 @@ a {
 /*Vesti typography*/
 
 .vesti-desc {
-  text-align: center;
 }
 
 .vesti-desc h4 {
@@ -291,9 +291,9 @@ a {
     margin-top: 100px;
   }
   .vesti-date-wrapper .vesti-date {
-    width: 50px;
-    height: 50px;
-    padding: 23px;
+    width: 25px;
+    height: 25px;
+    padding: 20px;
   }
   .vesti-date-wrapper .vesti-date .day {
     font-size: 40px;
@@ -304,11 +304,11 @@ a {
     line-height: 5px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -132px;
+    right: -80px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -132px;
+    left: -80px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -321,25 +321,25 @@ a {
 
 @media (min-width: 1300px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -140px;
+    right: -85px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -140px;
+    left: -85px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    width: 140px;
+    width: 100%;
   }
 }
 
 @media (min-width: 1400px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -140px;
+    right: -85px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -140px;
+    left: -85px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -349,28 +349,27 @@ a {
 
 @media (min-width: 1500px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -155px;
-    top: 55px;
+    right: -95px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -155px;
+    left: -95px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    width: 155px;
+    width: 100%;
   }
 }
 
 @media (min-width: 1600px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -160px;
+    right: -97px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -160px;
+    left: -97px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    width: 160px;
+    width: 100%;
   }
 }
