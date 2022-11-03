@@ -55,6 +55,23 @@ a.navbar-brand {
 	padding: 10px;
 	font-size: 20px;
 }
+
+.navbar-1 {
+  position: relative;
+  height: 100vh;
+  overflow: auto;
+  ::-webkit-scrollbar {
+    display: none;
+}
+}
+/*#spy {
+  position: fixed;
+}
+.right-side {
+  background: gray;
+  height: 120px;
+}
+
 /*.navbar-1 {
     position: fixed;
     width: 25%;

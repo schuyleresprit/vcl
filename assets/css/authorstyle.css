@@ -136,7 +136,7 @@ body {
 .content .block h4 {
   width: 90%;
   margin: 22px auto;
-  color: #216b4d;
+  color: #10316b;
   font-size: 28px;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
 }
@@ -164,7 +164,7 @@ body {
   font-size: 18px;
   line-height: 36px;
   border-radius: 6px;
-  background: #216b4d;
+  background: #10316b;
 }
 .content .block a:hover {
   background: #216b4d;
@@ -323,7 +323,7 @@ body {
 }
 #copyright {
   font-size: 16px;
-  color: #2c64d0;
+  color: #10316b;
   margin: 0 auto 100px auto;
   line-height: 40px;
   text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
@@ -332,7 +332,7 @@ body {
 }
 #copyright a {
   text-decoration: none;
-  color: #2c64d0;
+  color: #10316b;
   transition: all ease-in-out 0.35s;
 }
 #copyright a:hover {
