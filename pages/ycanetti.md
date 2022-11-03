@@ -98,7 +98,7 @@ permalink: /ycanetti
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51zhRRAosLL.jpg"></p>
                 <p>Language: Spanish<br>
                 Publisher: Editorial Everest<br>
-                Publisher Location: Leon, spanish<br>
+                Publisher Location: Leon, Spain<br>
                 Genre: Fiction<br>
                 Length: 31<br>
                 Co-author: Gustavo Mazali</p>
@@ -112,7 +112,7 @@ permalink: /ycanetti
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51lo31dYcuL.jpg"></p>
                 <p>Language: Spanish<br>
                 Publisher: Editorial Everest<br>
-                Publisher Location: Leon, spanish<br>
+                Publisher Location: Leon, Spain<br>
                 Genre: Fiction<br>
                 Length: 32</p>
             </div>
@@ -125,10 +125,52 @@ permalink: /ycanetti
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51y-YyNL4iL.jpg"></p>
                 <p>Language: Spanish<br>
                 Publisher: Editorial Everest<br>
-                Publisher Location: Leon, spanish<br>
+                Publisher Location: Leon, Spain<br>
                 Genre: Fiction<br>
                 Length: 31<br>
                 Co-author: Teresa Herrero/p>
+            </div>
+        </div>
+	<div class="block">
+            <div class="date left"><p class="left hide">2012</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>I Can Be President, Too!</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71VDd1vnUEL.jpg"></p>
+                <p>Language: Spanish<br>
+                Publisher: Scholastic Inc.<br>
+                Publisher Location: New York, United States<br>
+                Genre: Fiction<br>
+                Length: 32<br>
+		Original Publication Date: 2009</p>
+            </div>
+        </div>
+	<div class="block">
+            <div class="date right"><p class="right hide">2014</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Uno Dos Tres: My First Spanish Rhymes</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Spanish<br>
+                Publisher: Frances Lincoln Children's Books<br>
+                Publisher Location: London, England<br>
+                Genre: Fiction<br>
+                Length: 24<br>
+                Co-author: Patrice Aggs/p>
+            </div>
+        </div>
+	<div class="block">
+            <div class="date left"><p class="left hide">2020</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>My Big Family</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Spanish<br>
+                Publisher: Reycraft Books<br>
+                Publisher Location: New York, United States<br>
+                Genre: Fiction<br>
+                Length: 32<br>
+		Co-author: Micha Archer</p>
             </div>
         </div>
 
