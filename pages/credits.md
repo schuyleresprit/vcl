@@ -6,7 +6,6 @@ permalink: /Credits
 
 This project has truly been the embodiment of collaboration, DH pedagogy and project development at its best. The student interns in the 2020-22 and 2021-23 cohorts have been engaged, diligent and curious at every turn. Their individual projects can be viewed [here](https://commonsbox.createcaribbean.org).
 
-<img src="/assets/img/symposium.jpeg height="75%" width="1000px"/>
 __Project Lead__
 
 Dr. Schuyler Esprit

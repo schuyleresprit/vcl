@@ -1,4 +1,5 @@
 html,
+
 body {
 	width:100%;
 	height:100%;
@@ -32,11 +33,11 @@ a.navbar-brand {
 }
 
 .navbar {
-	z-index:0;
+	z-index: 0;
 	background:#216b4d;
 	color: #fff;
-	position:relative;
-	width:100%;
+	position: fixed;
+	width: 100%;
 	height:auto;
 	top:0;
 	left:0;
@@ -54,6 +55,42 @@ a.navbar-brand {
 	padding: 10px;
 	font-size: 20px;
 }
+/*.navbar-1 {
+    position: fixed;
+    width: 25%;
+    background-color: #216b4d;
+    color: #FFFFFF;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    border-right: solid 1px #FFFFFF;
+    overflow: auto;
+    -webkit-transition: width 0.5s;
+    transition: width 0.5s;
+    -webkit-transition-delay: 0.5s;
+    transition-delay: 0.5s;
+}
+
+/* Sidebar links */
+/*.navbar-1 a {
+  display: block;
+  color: #fff;
+  padding: 30px;
+  text-decoration: none;
+}
+.navbar-1 .navicon img {
+	max-width: 32px;
+	max-height: 32px;
+
+}
+
+/* Active/current link */
+/*.navbar-1 a.active {
+  background-color: #216b4d;
+  color: white;
+}
+*/
+
 .btn-outline-primary {
     color: #fff;
     border-color: #fff;
@@ -90,9 +127,15 @@ footer {
   background-color: #cdcdcd;
   border-top: .05rem solid #bfbfbf;
 }
+
+footer img {
+	max-width: 150px;
+	max-height: 150px;
+}
 .mt-5 {
     margin-top: 0rem!important;
 }
-/*footer p:last-child {
+
+footer p:last-child {
   margin-bottom: 0;
 }
