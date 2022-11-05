@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Antigua & Barbuda"
-permalink: /Antigua
+permalink: /38
 ---
 <div class="container-0">
     <div class="container-title">
