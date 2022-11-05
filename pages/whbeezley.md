@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultau
 title: "William H Beezley"
 permalink: /whbeezley
 ---
