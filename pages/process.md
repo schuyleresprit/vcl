@@ -62,6 +62,7 @@ We also made a list of creative expressions of Caribbean writing that we were in
 * Nonfiction Books
 * Biography
 * Autobiography/Memoir
+* Anthology
 
 
 We also considered our interests in the outcomes of our study. What did we hope to achieve by collecting this data? Certainly, we wanted to have a solid dataset that we could make available to scholars, students and a wider public. But we also wanted students like us and even younger to get to experience what we did during the course of this project - to get to know the depth and breadth of literature about people like us by people like us. From our small island villages to more bustling cities like Havana and Kingston, we wanted to know more about
@@ -81,7 +82,7 @@ Then we played. Once we amassed the big, not-so-smart data for the project, we c
 
 
 
- 
+
 ___Research Goals___
 -------
 
