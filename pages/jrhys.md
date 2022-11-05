@@ -6,7 +6,7 @@ permalink: /jrhys
 <!-- partial:index.partial.html -->
 <div class="content">
     <h1>Jean Rhys</h1>
-    <div class="quote"> 
+    <div class="quote">
         <div><img src="http://padraigrooney.com/journalism/images/jean_rhys.jpg" class="logo"></div>
     </div>
     <div class="timeline">
