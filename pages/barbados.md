@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Barbados"
-permalink: /Barbados
+permalink: /12
 ---
 <div class="container-0">
     <div class="container-title">
