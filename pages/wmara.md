@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultau
 title: "Wil Mara"
 permalink: /wmara
 ---
