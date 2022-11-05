@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultau
 title: "Wayne Gerard Trotman"
 permalink: /wgtrotman
 ---
