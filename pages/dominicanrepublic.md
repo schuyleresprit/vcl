@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Dominican Republic"
-permalink: /dr
+permalink: /9
 ---
 <div class="container-0">
     <div class="container-title">

@@ -21,23 +21,9 @@ permalink: /ycanetti
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1997</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Novelita Rosa</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/410ZNXTV91L._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
-                <p>
-                Language: Spanish<br>
-                Publisher: Versal Editorial Group<br>
-                Publisher Location: Boston, MA, United States<br>
-                Genre: Fiction<br>
-                Length: 191</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2002</p></div>
-            <div class="dot"></div>
-            <div class="left">
                 <h1>Un Fabuloso Viaje al Caribe</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -50,127 +36,82 @@ permalink: /ycanetti
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2008</p></div>
+            <div class="date right"><p class="right">1991</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>In Times Like These</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387703217l/848567.jpg"></p>
+                <p>
+                Language: English<br>
+                Publisher: Heinman<br>
+                Publisher Location: Oxford, England<br>
+                Genre: Fiction<br>
+                Length: 358<br>
+                </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left hide">1995</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Ay, luna, luna, lunita--</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51KvMcDj4xL.jpg"></p>
-                <p>
-                Language: Spanish<br>
-                Publisher: Editorial Everest<br>
-                Publisher Location: Leon, Spain<br>
+                <h1>Beka Lamb</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410755274l/2477123.jpg"></p>
+                <p>Language: English<br>
+                Publisher: Heinman<br>
+                Publisher Location: Oxford, England<br>
                 Genre: Fiction<br>
-                Length: 32<br>
-                Wikipedia Entry: https://en.wikipedia.org/wiki/Yanitzia_Canetti<br>
-                Co-authors: Angeles Peinador<br></p>
+                Length: 171<br></p>
             </div>
         </div><div class="block">
-            <div class="date right"><p class="right hide">2009</p></div>
+            <div class="date right"><p class="right hide">1997</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Yo también puedo ser presidente</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Spanish<br>
-                Publisher: Scholastic Inc.<br>
-                Publisher Location: New York, United States<br>
+                <h1>The Festival of San Joaquin</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1178878714l/848568.jpg"></p>
+                <p>Language: English<br>
+                Publisher: Heinman<br>
+                Publisher Location: Oxford, England<br>
                 Genre: Fiction<br>
-                Length: 32<br></p>
+                Length: 155<br></p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2009</p></div>
+            <div class="date left"><p class="left hide">2007</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Abecedario salvaje</h1><hr>
-                <p><img src="https://api.getepic.com/utils/resize.jpg?quality=100&url=https%3A%2F%2Fcdn.getepic.com%2Fdrm%2F8%2F52878%2Fcover_large%402x.png&width=1200"></p>
-                <p>Language: Spanish<br>
-                Publisher: BrickHouse Education<br>
-                Publisher Location: Boston, MA, United States<br>
+                <h1>Time and the River</h1><hr>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+632591849_140.jpg?SearchOrder=+-+OT,OS,TN,GO,FA"></p>
+                <p>Language: English<br>
+                Publisher: Heinman<br>
+                Publisher Location: Oxford, England<br>
                 Genre: Fiction<br>
-                Length: 39<br></p>
+                Length: 206<br></p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2009</p></div>
+            <div class="date right"><p class="right hide">2007</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>La fea durmiente</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51zhRRAosLL.jpg"></p>
-                <p>Language: Spanish<br>
-                Publisher: Editorial Everest<br>
-                Publisher Location: Leon, Spain<br>
+                <h1>Beka Lamb</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420768508l/24382533.jpg"></p>
+                <p>Language: English<br>
+                Publisher: Heinman<br>
+                Publisher Location: Oxford, England<br>
                 Genre: Fiction<br>
-                Length: 31<br>
-                Co-author: Gustavo Mazali</p>
+                Length: 240<br></p>
             </div>
         </div>
 		<div class="block">
-            <div class="date left"><p class="left hide">2009</p></div>
+            <div class="date left"><p class="left hide">2015</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Ceniciento</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51lo31dYcuL.jpg"></p>
-                <p>Language: Spanish<br>
-                Publisher: Editorial Everest<br>
-                Publisher Location: Leon, Spain<br>
+                <h1>Beka Lamb</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420768508l/24382533.jpg"></p>
+                <p>Language: English<br>
+                Publisher: Heinman<br>
+                Publisher Location: Oxford, England<br>
                 Genre: Fiction<br>
-                Length: 32</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">2009</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>La peluca de Rapunzel</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51y-YyNL4iL.jpg"></p>
-                <p>Language: Spanish<br>
-                Publisher: Editorial Everest<br>
-                Publisher Location: Leon, Spain<br>
-                Genre: Fiction<br>
-                Length: 31<br>
-                Co-author: Teresa Herrero/p>
-            </div>
-        </div>
-	<div class="block">
-            <div class="date left"><p class="left hide">2012</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>I Can Be President, Too!</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71VDd1vnUEL.jpg"></p>
-                <p>Language: Spanish<br>
-                Publisher: Scholastic Inc.<br>
-                Publisher Location: New York, United States<br>
-                Genre: Fiction<br>
-                Length: 32<br>
-		Original Publication Date: 2009</p>
-            </div>
-        </div>
-	<div class="block">
-            <div class="date right"><p class="right hide">2014</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Uno Dos Tres: My First Spanish Rhymes</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Spanish<br>
-                Publisher: Frances Lincoln Children's Books<br>
-                Publisher Location: London, England<br>
-                Genre: Fiction<br>
-                Length: 24<br>
-                Co-author: Patrice Aggs/p>
-            </div>
-        </div>
-	<div class="block">
-            <div class="date left"><p class="left hide">2020</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>My Big Family</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Spanish<br>
-                Publisher: Reycraft Books<br>
-                Publisher Location: New York, United States<br>
-                Genre: Fiction<br>
-                Length: 32<br>
-		Co-author: Micha Archer</p>
+                Length: 171</p>
             </div>
         </div>
 

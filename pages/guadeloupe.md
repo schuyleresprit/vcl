@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Guadeloupe"
-permalink: /Guadeloupe
+permalink: /29
 ---
 <div class="container-0">
     <div class="container-title">

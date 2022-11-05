@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "British Virgin Islands"
-permalink: /bvi
+permalink: /63
 ---
 <div class="container-0">
     <div class="container-title">

@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "St. Kitts and Nevis"
-permalink: /41
+permalink: /23
 ---
 <div class="container-0">
     <div class="container-title">
