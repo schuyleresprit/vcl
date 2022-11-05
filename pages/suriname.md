@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Suriname"
-permalink: /Suriname
+permalink: /43
 ---
 <div class="container-0">
     <div class="container-title">
