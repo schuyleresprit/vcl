@@ -7,7 +7,7 @@ permalink: /tkinkade
 <div class="content">
     <h1>Thomas Kinkade</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://patch.com/img/cdn/users/98479/2012/05/raw/13cf567e089381246a2b20f47460cc57.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
