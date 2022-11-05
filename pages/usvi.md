@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "US Virgin Islands"
-permalink: /usvi
+permalink: /64
 ---
 <div class="container-0">
     <div class="container-title">

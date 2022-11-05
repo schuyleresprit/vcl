@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Martinique"
-permalink: /Martinique
+permalink: /8
 ---
 <div class="container-0">
     <div class="container-title">
