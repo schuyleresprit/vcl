@@ -55,7 +55,7 @@ permalink: /sbesson
             <div class="dot"></div>
             <div class="right">
                 <h1>With Slight Pepper</h1><hr>
-                <p><img src="https://store.bookbaby.com/bookshop/OnePageBookCoverImage.jpg?BookID=BK90025606"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545515549l/43015758._SY475_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: BookBaby<br>
                 Publisher Location: Pennsauken Township, NJ, United States<br>
