@@ -4,6 +4,31 @@
         "Long": -74.08175,
         "Pub_id": "bogotá_columbia"
     },
+    "\tMilano, Italy": {
+        "Lat": 45.46427,
+        "Long": 9.18951,
+        "Pub_id": "milano_italy"
+    },
+    "\tNassau, Bahamas": {
+        "Lat": 25.05823,
+        "Long": -77.34306,
+        "Pub_id": ""
+    },
+    "\tPort-au-Prince, Haiti": {
+        "Lat": 18.54349,
+        "Long": -72.33881,
+        "Pub_id": "port_au_prince_haiti"
+    },
+    "\tSt. Michael, Barbados ": {
+        "Lat": 13.10732,
+        "Long": -59.62021,
+        "Pub_id": "st._michael_barbados"
+    },
+    "\tVila Nova de Gaia, Portugal": {
+        "Lat": 41.12401,
+        "Long": -8.61241,
+        "Pub_id": ""
+    },
     " Amsterdam, Netherlands": {
         "Lat": 52.37403,
         "Long": 4.88969,
@@ -64,10 +89,30 @@
         "Long": 7.49508,
         "Pub_id": ""
     },
+    "Albany, NY, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": ""
+    },
+    "Albuquerque, NM, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "albuquerque_united¬†states"
+    },
     "Alexandria, VA, United States": {
         "Lat": 38.80484,
         "Long": -77.04692,
         "Pub_id": "alexandria_va_united¬†states"
+    },
+    "Alexandria, VA, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "alexandria_va_united¬†states"
+    },
+    "Alfragide, Portugal": {
+        "Lat": 38.73203,
+        "Long": -9.2192,
+        "Pub_id": "alfragide_portugal"
     },
     "Algiers, Nigeria": {
         "Lat": null,
@@ -94,10 +139,25 @@
         "Long": null,
         "Pub_id": "ann_arbor_mi_united¬†states"
     },
+    "Annandale-on-Hudson, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "annandale_on_hudson_united¬†states"
+    },
     "Athēna, Greece": {
         "Lat": 37.98376,
         "Long": 23.72784,
         "Pub_id": "athena_greece"
+    },
+    "Atlanta, GA, United States": {
+        "Lat": 33.749,
+        "Long": -84.38798,
+        "Pub_id": ""
+    },
+    "Augsburg, Germany": {
+        "Lat": 48.37154,
+        "Long": 10.89851,
+        "Pub_id": ""
     },
     "Austin, TX, United States": {
         "Lat": 30.26715,
@@ -107,6 +167,11 @@
     "Austin, United States": {
         "Lat": null,
         "Long": null,
+        "Pub_id": "austin_tx_united¬†states"
+    },
+    "Austin,TX, United States": {
+        "Lat": 30.26715,
+        "Long": -97.74306,
         "Pub_id": "austin_tx_united¬†states"
     },
     "Aylesbury, England": {
@@ -129,6 +194,16 @@
         "Long": 2.15899,
         "Pub_id": "barcelona"
     },
+    "Barcelona, Spain ": {
+        "Lat": 41.38879,
+        "Long": 2.15899,
+        "Pub_id": ""
+    },
+    "Basingstoke, England": {
+        "Lat": 51.26249,
+        "Long": -1.08708,
+        "Pub_id": "basingstoke_england"
+    },
     "Basseterre, St. Kitts & Nevis": {
         "Lat": null,
         "Long": null,
@@ -144,10 +219,30 @@
         "Long": null,
         "Pub_id": "basseterre_st._kitts"
     },
+    "Baton Rouge, LA, United States ": {
+        "Lat": 30.44332,
+        "Long": -91.18747,
+        "Pub_id": ""
+    },
+    "Belgorod, Russia": {
+        "Lat": 50.61074,
+        "Long": 36.58015,
+        "Pub_id": ""
+    },
     "Beograd, Serbia": {
         "Lat": 44.80401,
         "Long": 20.46513,
         "Pub_id": "beograd;_alnari_serbia"
+    },
+    "Berkeley, CA, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "berkeley_ca_united¬†states"
+    },
+    "Berkley, CA, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "berkeley_ca_united¬†states"
     },
     "Berlin, Germany": {
         "Lat": 52.52437,
@@ -159,10 +254,25 @@
         "Long": 13.41053,
         "Pub_id": "berlin_germany"
     },
+    "Beunos Aires, Argentina": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "buenos_aires_argentina"
+    },
+    "Beverly Hills, CA, United States": {
+        "Lat": 34.07362,
+        "Long": -118.40036,
+        "Pub_id": "beverly_hills_ca_united_states"
+    },
     "Biddeford, ME, United States": {
         "Lat": 43.49258,
         "Long": -70.45338,
         "Pub_id": ""
+    },
+    "Bloomington, IN, United States ": {
+        "Lat": 39.16533,
+        "Long": -86.52639,
+        "Pub_id": "bloomington_in_united_states"
     },
     "Bloomington, IN, United States": {
         "Lat": null,
@@ -174,6 +284,11 @@
         "Long": -93.27531,
         "Pub_id": "bloomington_united¬†states"
     },
+    "Bloomington,IN, United States": {
+        "Lat": 39.16533,
+        "Long": -86.52639,
+        "Pub_id": "bloomington_in_united_states"
+    },
     "Bogota, Colombia": {
         "Lat": 4.60971,
         "Long": -74.08175,
@@ -184,10 +299,25 @@
         "Long": -74.08175,
         "Pub_id": "bogotá_columbia"
     },
+    "Bogotá, Columbia": {
+        "Lat": 4.60971,
+        "Long": -74.08175,
+        "Pub_id": "bogota_colombia"
+    },
+    "Bostan, MA, United States": {
+        "Lat": 42.35843,
+        "Long": -71.05977,
+        "Pub_id": "boston_ma_united¬†states"
+    },
     "Boston, MA, United States": {
         "Lat": 42.35843,
         "Long": -71.05977,
         "Pub_id": "boston_ma_united¬†states"
+    },
+    "Boston, MA, United States ": {
+        "Lat": 42.35843,
+        "Long": -71.05977,
+        "Pub_id": "boston_ma_united_states"
     },
     "Boston, MA, United States": {
         "Lat": null,
@@ -214,10 +344,20 @@
         "Long": 8.80717,
         "Pub_id": "bremen_germany"
     },
+    "Bridgetown , Barbados ": {
+        "Lat": 13.10732,
+        "Long": -59.62021,
+        "Pub_id": "bridgetown_barbados"
+    },
     "Bridgetown, Barbados": {
         "Lat": 13.10732,
         "Long": -59.62021,
         "Pub_id": "bridgetown_barbados"
+    },
+    "Brighton, England": {
+        "Lat": 50.82838,
+        "Long": -0.13947,
+        "Pub_id": "brighton_england"
     },
     "Brisbane, Australia": {
         "Lat": -27.46794,
@@ -234,6 +374,11 @@
         "Long": -73.94958,
         "Pub_id": "brooklyn_ny_united¬†states"
     },
+    "Brooklyn, NY, United States ": {
+        "Lat": 40.6501,
+        "Long": -73.94958,
+        "Pub_id": "brooklyn_ny_united¬†states"
+    },
     "Brooklyn, NY, United States": {
         "Lat": null,
         "Long": null,
@@ -243,6 +388,21 @@
         "Lat": 44.43225,
         "Long": 26.10626,
         "Pub_id": "bucuresti"
+    },
+    "București, Romania": {
+        "Lat": 44.43225,
+        "Long": 26.10626,
+        "Pub_id": "bucuresti_romania"
+    },
+    "Budapest , Hungry ": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "budapest_hungary"
+    },
+    "Budapest, Hungry ": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "budapest_hungary"
     },
     "Buenos Aires, Argentina": {
         "Lat": -34.61315,
@@ -259,6 +419,11 @@
         "Long": 28.58333,
         "Pub_id": ""
     },
+    "Burton, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "burton_united¬†states"
+    },
     "Caernarfon, Wales": {
         "Lat": 53.14126,
         "Long": -4.27016,
@@ -268,6 +433,11 @@
         "Lat": 3.43722,
         "Long": -76.5225,
         "Pub_id": ""
+    },
+    "Camaguey, Cuba": {
+        "Lat": 21.38083,
+        "Long": -77.91694,
+        "Pub_id": "camaguey_cuba"
     },
     "Cambridge, England": {
         "Lat": 52.2,
@@ -299,6 +469,16 @@
         "Long": null,
         "Pub_id": ""
     },
+    "Castellón de la plana, Spain": {
+        "Lat": 39.98567,
+        "Long": -0.04935,
+        "Pub_id": ""
+    },
+    "Castries, St. Lucia": {
+        "Lat": 13.9957,
+        "Long": -61.00614,
+        "Pub_id": "castries_st._lucia"
+    },
     "Castries, St. Lucia": {
         "Lat": null,
         "Long": null,
@@ -329,6 +509,11 @@
         "Long": -79.05584,
         "Pub_id": "chapel_hill_nc_united¬†states"
     },
+    "Chapel Hill,NC, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chapel_hill_nc_united¬†states"
+    },
     "Chatham, NJ, United States": {
         "Lat": null,
         "Long": null,
@@ -344,6 +529,16 @@
         "Long": -87.65005,
         "Pub_id": "chicago_united¬†states"
     },
+    "Chicago, IL, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chicago_il_united¬†states"
+    },
+    "Chichester, England": {
+        "Lat": 50.83673,
+        "Long": -0.78003,
+        "Pub_id": "chichester_west_sussex_england"
+    },
     "Cincinnati, OH, United States": {
         "Lat": 39.12711,
         "Long": -84.51439,
@@ -353,6 +548,11 @@
         "Lat": null,
         "Long": null,
         "Pub_id": "coconut_creek_fl_united¬†states"
+    },
+    "Columbus County, Ohio, United States": {
+        "Lat": 39.96118,
+        "Long": -82.99879,
+        "Pub_id": "columbus_oh_united¬†states"
     },
     "Columbus, OH, United States": {
         "Lat": 39.96118,
@@ -394,6 +594,21 @@
         "Long": 8.65027,
         "Pub_id": ""
     },
+    "Detroit, MI, United States": {
+        "Lat": 42.33143,
+        "Long": -83.04575,
+        "Pub_id": "detroit_mi_united_states"
+    },
+    "Detroit, MICH, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "detroit_mi_united¬†states"
+    },
+    "Dundurn, Canada": {
+        "Lat": 51.81678,
+        "Long": -106.50123,
+        "Pub_id": "dundurn_canada"
+    },
     "Durham, NC, United States": {
         "Lat": null,
         "Long": null,
@@ -404,6 +619,11 @@
         "Long": -0.30204,
         "Pub_id": "ealing_england"
     },
+    "Edinburgh, England": {
+        "Lat": 51.54814,
+        "Long": 1.35245,
+        "Pub_id": "edinburgh_england"
+    },
     "Edmonton, Alberta, Canada": {
         "Lat": 53.55014,
         "Long": -113.46871,
@@ -413,6 +633,11 @@
         "Lat": 53.55014,
         "Long": -113.46871,
         "Pub_id": ""
+    },
+    "Esplugues de Llobregat, Spain": {
+        "Lat": 41.37732,
+        "Long": 2.08809,
+        "Pub_id": "esplugues_de_llobregat_spain"
     },
     "Farnham, UK, England": {
         "Lat": 51.21444,
@@ -434,6 +659,11 @@
         "Long": 8.68417,
         "Pub_id": "frankfurt_ge_germany"
     },
+    "Fredericton, N.B., Canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "fredericton_nb_canada"
+    },
     "Gainesville, FL, United States": {
         "Lat": 29.65163,
         "Long": -82.32483,
@@ -444,6 +674,11 @@
         "Long": null,
         "Pub_id": "garden_city_ny_united_states"
     },
+    "Georgetown , Guyana": {
+        "Lat": 6.80448,
+        "Long": -58.15527,
+        "Pub_id": "georgetown_guyana"
+    },
     "Georgetown, Guyana": {
         "Lat": 6.80448,
         "Long": -58.15527,
@@ -453,6 +688,11 @@
         "Lat": 55.86515,
         "Long": -4.25763,
         "Pub_id": "glasgow_scotland"
+    },
+    "Greenfield Center, NY, United States ": {
+        "Lat": 43.12841,
+        "Long": -73.84651,
+        "Pub_id": ""
     },
     "Hanover, NH, United States": {
         "Lat": 42.11316,
@@ -499,10 +739,20 @@
         "Long": 24.93545,
         "Pub_id": "helsingissä_hki_finland"
     },
+    "Hexham, England": {
+        "Lat": 54.96986,
+        "Long": -2.104,
+        "Pub_id": "hexham_england"
+    },
     "Hoboken, NJ, United States": {
         "Lat": null,
         "Long": null,
         "Pub_id": "hoboken_nj_united_states"
+    },
+    "Homebush West, Australia": {
+        "Lat": -33.86269,
+        "Long": 151.06696,
+        "Pub_id": "homebush_west_australia"
     },
     "Honfleur, Frane": {
         "Lat": null,
@@ -539,6 +789,21 @@
         "Long": -81.65565,
         "Pub_id": "jackson_united¬†states"
     },
+    "Jaipur, India": {
+        "Lat": 26.91962,
+        "Long": 75.78781,
+        "Pub_id": ""
+    },
+    "Katowice, Poland": {
+        "Lat": 50.25841,
+        "Long": 19.02754,
+        "Pub_id": ""
+    },
+    "Katowice, Poland ": {
+        "Lat": 50.25841,
+        "Long": 19.02754,
+        "Pub_id": ""
+    },
     "Kingston, Jamaica": {
         "Lat": 17.99702,
         "Long": -76.79358,
@@ -548,6 +813,21 @@
         "Lat": 5.16281,
         "Long": -52.64265,
         "Pub_id": "kourou_French_Guiana"
+    },
+    "Köln, Germany": {
+        "Lat": 50.93333,
+        "Long": 6.95,
+        "Pub_id": ""
+    },
+    "Kraków, Poland": {
+        "Lat": 50.06143,
+        "Long": 19.93658,
+        "Pub_id": "krakow_poland"
+    },
+    "La Habana, Cuba": {
+        "Lat": 23.13302,
+        "Long": -82.38304,
+        "Pub_id": "habana_cuba"
     },
     "La Roque d'Anthéron, France": {
         "Lat": 43.71544,
@@ -564,6 +844,21 @@
         "Long": null,
         "Pub_id": "lanham_md_united¬†states"
     },
+    "Las Palmas, Spain": {
+        "Lat": 28.09973,
+        "Long": -15.41343,
+        "Pub_id": "las_palamas_spain"
+    },
+    "Las Vegas, NV, ": {
+        "Lat": 36.17497,
+        "Long": -115.13722,
+        "Pub_id": ""
+    },
+    "Leeds , England ": {
+        "Lat": 53.79648,
+        "Long": -1.54785,
+        "Pub_id": "leeds_england"
+    },
     "Leeds, England": {
         "Lat": 53.79648,
         "Long": -1.54785,
@@ -573,6 +868,11 @@
         "Lat": 53.79648,
         "Long": -1.54785,
         "Pub_id": "leeds_england"
+    },
+    "Leeds, LDN, England": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leeds_ldn_england"
     },
     "Leeds, LDN, England ": {
         "Lat": null,
@@ -599,6 +899,11 @@
         "Long": 4.70093,
         "Pub_id": "leuven_belgium"
     },
+    "Lexington, MA, United States": {
+        "Lat": 42.44732,
+        "Long": -71.2245,
+        "Pub_id": "lexington_ma_united¬†states"
+    },
     "León, Spain": {
         "Lat": 42.60003,
         "Long": -5.57032,
@@ -618,6 +923,11 @@
         "Lat": null,
         "Long": null,
         "Pub_id": "lincoln_ne_united¬†states"
+    },
+    "Londom, England": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "london_england"
     },
     "London , England": {
         "Lat": 51.50853,
@@ -699,6 +1009,16 @@
         "Long": -79.2663,
         "Pub_id": "markham_ont_canada"
     },
+    "Marseille, France": {
+        "Lat": 43.29695,
+        "Long": 5.38107,
+        "Pub_id": ""
+    },
+    "Matanzas, Cuba": {
+        "Lat": 23.04111,
+        "Long": -81.5775,
+        "Pub_id": "matanzas_cuba"
+    },
     "Matoury, French Guiana": {
         "Lat": 4.84921,
         "Long": -52.32355,
@@ -723,6 +1043,11 @@
         "Lat": 19.42847,
         "Long": -99.12766,
         "Pub_id": "mexico_city_mex_united_states"
+    },
+    "México City, Mexico": {
+        "Lat": 19.42847,
+        "Long": -99.12766,
+        "Pub_id": "mexico_city_mexico"
     },
     "Miama FL, United States": {
         "Lat": 27.117,
@@ -750,6 +1075,11 @@
         "Pub_id": "milan_italy"
     },
     "Milano, Italy": {
+        "Lat": 45.46427,
+        "Long": 9.18951,
+        "Pub_id": "milano_italy"
+    },
+    "Milano, Italy ": {
         "Lat": 45.46427,
         "Long": 9.18951,
         "Pub_id": "milano_italy"
@@ -784,6 +1114,11 @@
         "Long": null,
         "Pub_id": "montevideo_uruguay"
     },
+    "Montreal, Canada": {
+        "Lat": 45.50884,
+        "Long": -73.58781,
+        "Pub_id": "montreãåal_qc_canada"
+    },
     "Montreal, QC, Canada": {
         "Lat": 45.50884,
         "Long": -73.58781,
@@ -804,30 +1139,60 @@
         "Long": -73.58781,
         "Pub_id": "quebec_canada"
     },
+    "Morne-Rouge, Martinique": {
+        "Lat": 14.7761,
+        "Long": -61.13564,
+        "Pub_id": ""
+    },
     "Morrisville, NC, United States": {
         "Lat": null,
         "Long": null,
         "Pub_id": "morrisville_nc_united_states"
+    },
+    "Moskva, Russia": {
+        "Lat": 55.75222,
+        "Long": 37.61556,
+        "Pub_id": "moskva_russia"
     },
     "Munich, Germany": {
         "Lat": 48.13743,
         "Long": 11.57549,
         "Pub_id": "munich_germany"
     },
+    "München, Germany ": {
+        "Lat": 48.13743,
+        "Long": 11.57549,
+        "Pub_id": "münchen_germany"
+    },
     "Málaga, Spain": {
         "Lat": 36.72016,
         "Long": -4.42034,
         "Pub_id": ""
+    },
+    "México City, Mexico": {
+        "Lat": 19.42847,
+        "Long": -99.12766,
+        "Pub_id": "mexico_city_mex_united_states"
     },
     "NA, Barbados": {
         "Lat": 25.22165,
         "Long": 85.03253,
         "Pub_id": "na_barbados"
     },
+    "NA, Commonwealth of the Bahamas": {
+        "Lat": 25.05823,
+        "Long": -77.34306,
+        "Pub_id": ""
+    },
     "NA, England": {
         "Lat": 54.97328,
         "Long": -1.61396,
         "Pub_id": "na_england"
+    },
+    "NA, Mexico": {
+        "Lat": 35.08449,
+        "Long": -106.65114,
+        "Pub_id": "na_mexico"
     },
     "NA, Monaco": {
         "Lat": 38.15346,
@@ -839,6 +1204,16 @@
         "Long": 21.09375,
         "Pub_id": "na_na"
     },
+    "Na, NA": {
+        "Lat": 7.1881,
+        "Long": 21.09375,
+        "Pub_id": "na_na"
+    },
+    "Nashville, TN, United States ": {
+        "Lat": 36.16589,
+        "Long": -86.78444,
+        "Pub_id": "nashville_tn_united¬†states"
+    },
     "Nassau, Bahamas": {
         "Lat": 25.05823,
         "Long": -77.34306,
@@ -849,12 +1224,27 @@
         "Long": 9.52223,
         "Pub_id": "nendeln_liechtenstein"
     },
+    "New Brunswick, NJ, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_brunswick_nj_united¬†states"
+    },
+    "New York City, NY, United States": {
+        "Lat": 40.71427,
+        "Long": -74.00597,
+        "Pub_id": "new_york_ny_united¬†states"
+    },
     "New York City, Ny, United States": {
         "Lat": 40.71427,
         "Long": -74.00597,
         "Pub_id": "new_york_ny_united_states"
     },
     "New York, NY, United States": {
+        "Lat": 40.71427,
+        "Long": -74.00597,
+        "Pub_id": "new_york_ny_united_states"
+    },
+    "New York, NY, United States ": {
         "Lat": 40.71427,
         "Long": -74.00597,
         "Pub_id": "new_york_ny_united_states"
@@ -878,6 +1268,11 @@
         "Lat": null,
         "Long": null,
         "Pub_id": "new_york_ny_united¬†states"
+    },
+    "Normal, IL, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "normal_il_united¬†states"
     },
     "Norman, OK, United States": {
         "Lat": null,
@@ -904,6 +1299,16 @@
         "Long": -79.4163,
         "Pub_id": "ontario_canada"
     },
+    "Oslo, Norway": {
+        "Lat": 59.91273,
+        "Long": 10.74609,
+        "Pub_id": "oslo_norway"
+    },
+    "Ottawa, ON, Canada": {
+        "Lat": 45.41117,
+        "Long": -75.69812,
+        "Pub_id": "ontario_canada"
+    },
     "Oxford, England": {
         "Lat": 51.75222,
         "Long": -1.25596,
@@ -914,7 +1319,17 @@
         "Long": -1.25596,
         "Pub_id": "oxfordshire_england"
     },
+    "Palmeiras, Portugal ": {
+        "Lat": 38.54928,
+        "Long": -9.06332,
+        "Pub_id": ""
+    },
     "Paris , France": {
+        "Lat": 48.85341,
+        "Long": 2.3488,
+        "Pub_id": "paris_france"
+    },
+    "Paris , France ": {
         "Lat": 48.85341,
         "Long": 2.3488,
         "Pub_id": "paris_france"
@@ -979,10 +1394,20 @@
         "Long": -3.89159,
         "Pub_id": "plouneãåour_meãånez_france"
     },
+    "Pompano Beach, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pompano_beach_united¬†states"
+    },
     "Port Au Prince, Haiti": {
         "Lat": 18.54349,
         "Long": -72.33881,
         "Pub_id": "port_au_prince_haiti"
+    },
+    "Port Hawkesbury, NS, Canada": {
+        "Lat": 45.65667,
+        "Long": -61.36806,
+        "Pub_id": ""
     },
     "Port of Spain, Trinidad & Tobago": {
         "Lat": null,
@@ -1014,10 +1439,20 @@
         "Long": -72.33881,
         "Pub_id": "port_au_prince_haiti"
     },
+    "Port-au-prince, Haiti": {
+        "Lat": 18.54349,
+        "Long": -72.33881,
+        "Pub_id": "port_au_prince_haiti"
+    },
     "Port-of-Spain, Trinidad and Tobago": {
         "Lat": 10.66668,
         "Long": -61.51889,
         "Pub_id": "port_of_spain_trinidad_&¬†tobago"
+    },
+    "Portland, OR, United States": {
+        "Lat": 45.52345,
+        "Long": -122.67621,
+        "Pub_id": "portland_or_united¬†states"
     },
     "Portsmouth, NH, United States": {
         "Lat": 43.07704,
@@ -1028,6 +1463,21 @@
         "Lat": null,
         "Long": null,
         "Pub_id": "portsmouth_nh_united_states"
+    },
+    "Portsmouth, New Hampshire ": {
+        "Lat": 43.07704,
+        "Long": -70.75766,
+        "Pub_id": "portsmouth_nh_united_states"
+    },
+    "Prague, Czech Republic": {
+        "Lat": 50.08804,
+        "Long": 14.42076,
+        "Pub_id": ""
+    },
+    "Praha, Czech Republic": {
+        "Lat": 50.08804,
+        "Long": 14.42076,
+        "Pub_id": "praha_czech_republic"
     },
     "Prince Frederick, MD, United States": {
         "Lat": null,
@@ -1044,10 +1494,20 @@
         "Long": -71.21454,
         "Pub_id": "quebec_canada"
     },
+    "Québec, Canada": {
+        "Lat": 46.81228,
+        "Long": -71.21454,
+        "Pub_id": "quebec_canada"
+    },
     "Red Bank, NJ, United States": {
         "Lat": null,
         "Long": null,
         "Pub_id": "red_bank_nj_united_states"
+    },
+    "Rigā, Latvia": {
+        "Lat": 56.946,
+        "Long": 24.10589,
+        "Pub_id": "riga_latvia"
     },
     "Rijswijk, Netherlands": {
         "Lat": 52.03634,
@@ -1084,6 +1544,11 @@
         "Long": 12.51133,
         "Pub_id": "rome_italy"
     },
+    "Rosario, Argentina": {
+        "Lat": -32.94682,
+        "Long": -60.63932,
+        "Pub_id": "rosario_argentina"
+    },
     "Saarbrücken, Germany": {
         "Lat": 49.23262,
         "Long": 7.00982,
@@ -1114,7 +1579,7 @@
         "Long": null,
         "Pub_id": "san_antonio_tx_united_states"
     },
-    "San Fernando, Trinidad & Tobago": {
+    "San Fernando, Trinidad_&_Tobago": {
         "Lat": null,
         "Long": null,
         "Pub_id": "san_fernando_trinidad_&¬†tobago"
@@ -1139,10 +1604,40 @@
         "Long": -66.10572,
         "Pub_id": "san_juan_puerto_rico"
     },
+    "San Juan, Trinidad & Tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_juan_trinidad_&¬†tobago"
+    },
+    "Sana Cruz, Trinidad & Tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "sana_cruz_trinidad_&¬†tobago"
+    },
+    "Sanata Clara, Cuba ": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "santa_clara_cuba"
+    },
     "Santa Clara, Cuba": {
         "Lat": 22.40694,
         "Long": -79.96472,
         "Pub_id": "santa_clara_cuba"
+    },
+    "Santa Cruz de Tenerife, Spain": {
+        "Lat": 28.46824,
+        "Long": -16.25462,
+        "Pub_id": "santa_cruz_de_tenerife_spain"
+    },
+    "Santa Cruz de Tenerife, Tenerife, Spain": {
+        "Lat": 28.46824,
+        "Long": -16.25462,
+        "Pub_id": "santa_cruz_de_tenerife_spain"
+    },
+    "Santiago de Cuba, Cuba": {
+        "Lat": 20.02083,
+        "Long": -75.82667,
+        "Pub_id": "santiago_de_cuba_cuba"
     },
     "Santiago, Cuba": {
         "Lat": 20.02083,
@@ -1179,6 +1674,11 @@
         "Long": -122.01468,
         "Pub_id": "scotts_valley_united¬†states"
     },
+    "Seattle, WA, United States": {
+        "Lat": 47.60621,
+        "Long": -122.33207,
+        "Pub_id": "seattle_wa_united¬†states"
+    },
     "Seville, Spain": {
         "Lat": 37.38283,
         "Long": -5.97317,
@@ -1193,6 +1693,11 @@
         "Lat": 13.25072,
         "Long": -59.64396,
         "Pub_id": "bridgetown_barbados"
+    },
+    "St. Augustine , Trinidad & Tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "st._augustine_trinidad_&_tobago"
     },
     "St. Augustine, Trinidad & Tobago": {
         "Lat": null,
@@ -1214,6 +1719,11 @@
         "Long": null,
         "Pub_id": ""
     },
+    "Stuttgart, Germany": {
+        "Lat": 48.78232,
+        "Long": 9.17702,
+        "Pub_id": "stuggart_germany"
+    },
     "Sudbury, ON, Canada": {
         "Lat": 46.49,
         "Long": -80.99001,
@@ -1234,12 +1744,32 @@
         "Long": 151.20732,
         "Pub_id": "sydney_australia"
     },
+    "São Paulo, Brazil": {
+        "Lat": -23.5475,
+        "Long": -46.63611,
+        "Pub_id": "sao_paulo_brazil"
+    },
+    "Taibei Shi, Taiwan": {
+        "Lat": 25.04776,
+        "Long": 121.53185,
+        "Pub_id": "taipei_taiwan"
+    },
+    "Tempe, AZ, United States": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tempe_az_united_states"
+    },
     "Thorofare, NJ, United States": {
         "Lat": null,
         "Long": null,
         "Pub_id": "thorofare_nj_united¬†states"
     },
     "Tokyo, Japan": {
+        "Lat": 35.6895,
+        "Long": 139.69171,
+        "Pub_id": "tokyo_japan"
+    },
+    "Tokyo, Japan ": {
         "Lat": 35.6895,
         "Long": 139.69171,
         "Pub_id": "tokyo_japan"
@@ -1260,6 +1790,11 @@
         "Pub_id": "toronto_on_canada"
     },
     "Toronto,ON, Canada": {
+        "Lat": 43.70011,
+        "Long": -79.4163,
+        "Pub_id": "toronto_on_canada"
+    },
+    "Toronto,ON, Canada ": {
         "Lat": 43.70011,
         "Long": -79.4163,
         "Pub_id": "toronto_on_canada"
@@ -1294,6 +1829,11 @@
         "Long": null,
         "Pub_id": "tulsa_ok_united¬†states"
     },
+    "Turin, Italy": {
+        "Lat": 45.07049,
+        "Long": 7.68682,
+        "Pub_id": ""
+    },
     "Tuscaloosa, AL, United States": {
         "Lat": 33.20984,
         "Long": -87.56917,
@@ -1304,15 +1844,35 @@
         "Long": null,
         "Pub_id": "urbana_il_united¬†states"
     },
+    "Utrecht, The Netherlands": {
+        "Lat": 52.09083,
+        "Long": 5.12222,
+        "Pub_id": ""
+    },
+    "Utrecht, The Netherlands ": {
+        "Lat": 52.09083,
+        "Long": 5.12222,
+        "Pub_id": ""
+    },
     "Valencia, Spain": {
         "Lat": 39.46975,
         "Long": -0.37739,
         "Pub_id": "valencia_v_spain"
     },
+    "Vancouver, BC, Canada": {
+        "Lat": 49.24966,
+        "Long": -123.11934,
+        "Pub_id": "vancouver_bc_canada"
+    },
     "Vancouver, Canada": {
         "Lat": 49.24966,
         "Long": -123.11934,
         "Pub_id": "vancouver_bc_canada"
+    },
+    "Vedado, Cuba": {
+        "Lat": 22.36667,
+        "Long": -80.88333,
+        "Pub_id": "vedado_cuba"
     },
     "Vigo, Spain": {
         "Lat": 42.23282,
@@ -1369,6 +1929,16 @@
         "Long": -59.5834,
         "Pub_id": "wildey_barbados"
     },
+    "Windsor, Canada": {
+        "Lat": 42.30008,
+        "Long": -83.01654,
+        "Pub_id": "windsor_canada"
+    },
+    "Wokingham, Berkshire, England": {
+        "Lat": 51.4112,
+        "Long": -0.83565,
+        "Pub_id": ""
+    },
     "Woodbridge, NJ, United States": {
         "Lat": 40.5576,
         "Long": -74.28459,
@@ -1389,6 +1959,11 @@
         "Long": 6.26764,
         "Pub_id": ""
     },
+    "Yorkshire , England": {
+        "Lat": 53.7,
+        "Long": -1.58333,
+        "Pub_id": "yorkshire_england"
+    },
     "Zaria, Nigeria": {
         "Lat": 11.11128,
         "Long": 7.7227,
@@ -1398,6 +1973,26 @@
         "Lat": 47.36667,
         "Long": 8.55,
         "Pub_id": "zurich_switzerland"
+    },
+    "Zürich, Switzerland": {
+        "Lat": 47.36667,
+        "Long": 8.55,
+        "Pub_id": "zurich_switzerland"
+    },
+    "Zürich, Switszerland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "zurich_switserland"
+    },
+    "Zürich, Switzerland": {
+        "Lat": 47.36667,
+        "Long": 8.55,
+        "Pub_id": "zurich_switzerland"
+    },
+    "london, United Kingdom": {
+        "Lat": 51.50853,
+        "Long": -0.12574,
+        "Pub_id": "london_united¬†kingdom"
     },
     "n, Monaco": {
         "Lat": -11.77292,
