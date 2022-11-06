@@ -47,6 +47,9 @@ a.navbar-brand {
 	box-shadow:0 0 1px 1px rgba(0,0,0,0.25);
 }
 
+.bg-dark {
+    background-color: #216b4d!important;
+}
 .container.px-5 {
     padding: 20px 0;
 }
@@ -68,72 +71,15 @@ a.navbar-brand {
 }
 
 
-/*#spy {
-  position: fixed;
-}
-.right-side {
-  background: gray;
-  height: 120px;
-}
-
-/*.navbar-1 {
-    position: fixed;
-    width: 25%;
-    background-color: #216b4d;
-    color: #FFFFFF;
-    top: 0;
-    left: 0;
-    z-index: 2;
-    border-right: solid 1px #FFFFFF;
-    overflow: auto;
-    -webkit-transition: width 0.5s;
-    transition: width 0.5s;
-    -webkit-transition-delay: 0.5s;
-    transition-delay: 0.5s;
-}
-
-/* Sidebar links */
-/*.navbar-1 a {
-  display: block;
-  color: #fff;
-  padding: 30px;
-  text-decoration: none;
-}
-.navbar-1 .navicon img {
-	max-width: 32px;
-	max-height: 32px;
-
-}
-
-/* Active/current link */
-/*.navbar-1 a.active {
-  background-color: #216b4d;
-  color: white;
-}
-*/
-
-.btn-outline-primary {
-    color: #fff;
-    border-color: #fff;
-}
-.bg-dark {
-    background-color: #216b4d!important;
-}
-.card-body {
-    flex: 1 1 auto;
-    padding: 1rem 1rem;
-    text-align: center;
-}
-
 .col-sm-3 {
 	/*height:100%;
 	width:auto;
 	left:10px;
 	top:0;
+
 	border-right:2px solid grey;*/
 	padding-left:50px;
-	background-color: #216b4d;
-	/*box-sizing:border-box;*/
+		/*box-sizing:border-box;*/
 }
 .col-sm-9 {
 	padding-top:0px;
@@ -141,11 +87,11 @@ a.navbar-brand {
 	padding-bottom: 0px;
 
 }
-footer {
+.mt-5 footer {
   padding: 2rem 0;
   color: #216b4d;
   text-align: center;
-  background-color: #cdcdcd;
+
   border-top: .05rem solid #bfbfbf;
 }
 
@@ -155,6 +101,7 @@ footer img {
 }
 .mt-5 {
     margin-top: 0rem!important;
+	background-color: #dee1ec!important;
 }
 
 footer p:last-child {
