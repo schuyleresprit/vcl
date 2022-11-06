@@ -87,11 +87,15 @@ a.navbar-brand {
 	padding-bottom: 0px;
 
 }
-.mt-5 footer {
+.mt-5 {
+    margin-top: 0rem!important;
+}
+
+ footer {
   padding: 2rem 0;
   color: #216b4d;
   text-align: center;
-
+  background-color: #dee1ec!important;
   border-top: .05rem solid #bfbfbf;
 }
 
@@ -99,10 +103,7 @@ footer img {
 	max-width: 150px;
 	max-height: 150px;
 }
-.mt-5 {
-    margin-top: 0rem!important;
-	background-color: #dee1ec!important;
-}
+
 
 footer p:last-child {
   margin-bottom: 0;
