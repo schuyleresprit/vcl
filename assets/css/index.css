@@ -66,7 +66,8 @@ a.navbar-brand {
   ::-webkit-scrollbar {
     display: none;
 }
-}
+
+
 /*#spy {
   position: fixed;
 }
@@ -129,9 +130,9 @@ a.navbar-brand {
 	width:auto;
 	left:10px;
 	top:0;
-	background-color: #cdcdcd;
 	border-right:2px solid grey;*/
 	padding-left:50px;
+	background-color: #216b4d;
 	/*box-sizing:border-box;*/
 }
 .col-sm-9 {

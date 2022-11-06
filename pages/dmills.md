@@ -16,7 +16,7 @@ permalink: /dmills
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Deborah Mills is from St Kitts & Nevis.</p>
+            <p>Deborah Mills is from <a href="/41"St Kitts & Nevis></a>.</p>
                 <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
