@@ -15,9 +15,11 @@ permalink: /jrhys
             <div class="date right"><p class="right"> 1890 - 1979 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Jean Rhys is from Dominica.</p>
-                <a href="https://en.wikipedia.org/wiki/Jean_Rhys" target="_blank">Read more</a>
+          <div class="aclocation">   <p>Jean Rhys is from <a href="http://localhost:4000/10"> Dominica </a></p> </div>
+              <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Jean_Rhys" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
