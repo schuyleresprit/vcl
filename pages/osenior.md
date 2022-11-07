@@ -15,9 +15,11 @@ permalink: /osenior
             <div class="date right"><p class="right">B. 1941</p></div>
             <div class="dot"></div>
             <div class="left first">
+              <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Olive Senior is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Olive Senior is from <a href="http://localhost:4000/4"> Jamaica.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -49,7 +51,7 @@ permalink: /osenior
                 Publisher Location: Kingston, Jamaica<br/>
                 Genre: Poetry Collection<br/>
                 Length: 86
-    
+
                 </p>
             </div>
         </div>
@@ -66,7 +68,7 @@ permalink: /osenior
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
                 Length: 134
-    
+
                 </p>
             </div>
         </div>
@@ -83,7 +85,7 @@ permalink: /osenior
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
                 Length: 152
-    
+
                 </p>
             </div>
         </div>
@@ -100,7 +102,7 @@ permalink: /osenior
                 Publisher Location: Bloomington, IN, United States<br/>
                 Genre: Non Fiction<br/>
                 Length: 210
-    
+
                 </p>
             </div>
         </div>
@@ -117,7 +119,7 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 218
-    
+
                 </p>
             </div>
         </div>
@@ -134,11 +136,11 @@ permalink: /osenior
                 Publisher Location: Kingston, Jamaica<br/>
                 Genre: Non Fiction<br/>
                 Length: 580
-    
+
                 </p>
             </div>
         </div>
-        
+
                 <div class="block">
             <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
@@ -151,7 +153,7 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Poetry Collection<br/>
                 Length: 139
-   
+
                 </p>
            </div>
         </div>
@@ -168,7 +170,7 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Poetry Collection<br/>
                 Length: 100
-    
+
                 </p>
            </div>
         </div>
@@ -185,7 +187,7 @@ permalink: /osenior
                 Publisher Location: Markham, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 384
-   
+
                 </p>
            </div>
         </div>
@@ -201,8 +203,8 @@ permalink: /osenior
                 Publisher: Annick Press<br/>
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
-                Length: 30 
-    
+                Length: 30
+
                 </p>
            </div>
         </div>
@@ -219,7 +221,7 @@ permalink: /osenior
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
                 Length: 190
- 
+
                 </p>
            </div>
         </div>
@@ -241,7 +243,7 @@ permalink: /osenior
            </div>
         </div>
 
-        
+
                 <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
@@ -271,7 +273,7 @@ permalink: /osenior
                 Publisher Location: Markham, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 320
-  
+
                 </p>
            </div>
         </div>
@@ -305,7 +307,7 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Poetry Collection<br/>
                 Length: 110
-    
+
                 </p>
            </div>
         </div>
@@ -322,12 +324,12 @@ permalink: /osenior
                 Publisher Location: Manchester, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 456
-    
+
                 </p>
            </div>
         </div>
 
-              
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
