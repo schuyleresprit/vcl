@@ -55,7 +55,7 @@ permalink: /rsingh
             <div class="dot"></div>
             <div class="right">
                 <h1>Mosaic: A Collection of Poems by Guyanese Writers</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410755274l/2477123.jpg"></p>
+                <p><img src=""></p>
                 <p>Language: English<br>
                 Publisher: R. Singh<br>
                 Publisher Location: Georgetown, Guyana<br>
@@ -171,7 +171,7 @@ permalink: /rsingh
             <div class="dot"></div>
             <div class="left">
                 <h1>Death is a Friend: A Collection of Poems</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md16931635020.jpg"></p>
+                <p><img src=""></p>
                 <p>Language: English<br>
                 Publisher: R. Singh<br>
                 Publisher Location: Georgetown, Guyana<br>
