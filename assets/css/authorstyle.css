@@ -64,7 +64,7 @@ body {
 
 }
 .content h1 {
-  margin: 35px auto 0 auto;
+  margin: 0px;
   font-size: 58px;
   text-align: center;
   color: #fff;
@@ -173,7 +173,7 @@ body {
     background: #fff !important;
     font-weight: 600 !important;
 }
- 
+
 /************/
 
 .content .block a:hover {
