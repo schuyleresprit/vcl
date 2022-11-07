@@ -40,7 +40,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="left">
                 <h1>The angel on the Roof : the stories of Russell Banks.</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51jDlyYw+oL.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: HarperPerennial<br>
@@ -55,7 +55,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="right">
                 <h1>Survivants : nouvelles</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41SKWKDC14L._SX249_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br>
                 Publisher: Actes Sud<br>
                 Publisher Location: Arles, France<br>
@@ -67,7 +67,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="left">
                 <h1>The Darling</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51blM2Kwf1L._SX321_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Bloomsbury Publishing<br>
                 Publisher Location: New York, NY, United States<br>
@@ -80,7 +80,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="right">
                 <h1>Lost Memory of Skin</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/812e7OTQFlL.jpg"></p>
                 <p>Language: English<br>
                 Publisher: The Clerkenwell Press<br>
                 Publisher Location: London, England<br>
@@ -93,7 +93,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="left">
                 <h1>American Darling</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41%2BUfE04KCL._SX210_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Actes Sud<br>
                 Publisher Location: Arles, France<br>
@@ -106,7 +106,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="right">
                 <h1>A Permanent Member of the Family</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://kbimages1-a.akamaihd.net/e250eace-b04f-4be1-b3ce-ef2e8d29e648/1200/1200/False/a-permanent-member-of-the-family-1.jpg"></p>
                 <p>Language: English<br>
                 Publisher: ECCO<br>
                 Publisher Location: New York, NY, United States<br>
@@ -119,7 +119,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="left">
                 <h1>Voyager : Travel Writings</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/91GQxGRxzoL.jpg"></p>
                 <p>Language: English<br>
                 Publisher: HarperCollins Publishers<br>
                 Publisher Location: New York, NY, United States<br>
@@ -132,7 +132,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="right">
                 <h1>Continents à la dérive : roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://products-images.di-static.com/image/russell-banks-continents-a-la-derive/9782330070335-475x500-1.jpg"></p>
                 <p>Language: French<br>
                 Publisher: Actes Sud<br>
                 Publisher Location: Arles, France<br>
@@ -147,7 +147,7 @@ permalink: /rbanks
             <div class="dot"></div>
             <div class="left">
                 <h1>Foregone : a novel</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i0.wp.com/pilebythebed.com/wp-content/uploads/2021/07/Foregone-Cover.jpg"></p>
                 <p>Language: English<br>
                 Publisher: HarperCollins Publishers<br>
                 Publisher Location: New York, NY, United States<br>
