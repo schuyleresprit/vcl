@@ -19,7 +19,7 @@ permalink: /qmacoomeh
             <p>Queen Macoomeh is from Trinidad & Tobago.</p>
                 <a href="NA" target="_blank">Read more</a>
             </div>
-        </div>
+        </div> 
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
