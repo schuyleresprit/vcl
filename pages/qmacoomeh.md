@@ -15,11 +15,13 @@ permalink: /qmacoomeh
             <div class="date right"><p class="right"> NA </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Queen Macoomeh is from Trinidad & Tobago.</p>
-                <a href="NA" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Queen Macoomeh is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p></div>
+            </div class="acreadmore">    <a href="NA" target="_blank">Read more</a></div>
             </div>
-        </div> 
+            </div>
+        </div>
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
