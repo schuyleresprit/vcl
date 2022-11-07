@@ -64,7 +64,7 @@ a.navbar-brand {
 
 .navbar-1 {
   position: relative;
-  height: 100vh;
+  height: 150vh;
   overflow: auto;
   ::-webkit-scrollbar {
     display: none;
@@ -76,7 +76,6 @@ a.navbar-brand {
 	width:auto;
 	left:10px;
 	top:0;
-
 	border-right:2px solid grey;*/
 	padding-left:50px;
 		/*box-sizing:border-box;*/
@@ -95,7 +94,6 @@ a.navbar-brand {
   padding: 2rem 0;
   color: #216b4d;
   text-align: center;
-  background-color: #dee1ec!important;
   border-top: .05rem solid #bfbfbf;
 }
 
@@ -107,4 +105,8 @@ footer img {
 
 footer p:last-child {
   margin-bottom: 0;
+}
+
+footer.mt-5 {
+    background-color: #dee1ec!important;
 }
