@@ -15,8 +15,10 @@ permalink: /gthompson
             <div class="date right"><p class="right"> B. 1958 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Gregory Thompson is from United States.</p>
+        <div class="aclocation">     <p>Gregory Thompson is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p> </div>
+            </div>
             </div>
         </div>
         <div class="block">
