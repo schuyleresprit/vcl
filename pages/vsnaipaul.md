@@ -15,9 +15,11 @@ permalink: /vsnaipaul
             <div class="date right"><p class="right"> 1932 - 2018 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>V.S. Naipaul is from Trinidad & Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/V._S._Naipaul" target="_blank">Read more</a>
+          <div class="aclocation">  <p>V.S. Naipaul is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p> </div>
+              <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/V._S._Naipaul" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -782,7 +784,7 @@ permalink: /vsnaipaul
                 Genre: Fiction (Novel)<br/>
                 Length: 125</p>
             </div>
-        </div> 
+        </div>
         <div class="block">
             <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
