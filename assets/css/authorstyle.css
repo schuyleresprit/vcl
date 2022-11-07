@@ -150,6 +150,8 @@ body {
   color: #030303;
   font-size: 14px;
 }
+
+/**** AUTHOR PAGE****/
 .acreadmore a{
   display: block;
   width: 120px;
@@ -166,6 +168,14 @@ body {
   border-radius: 6px;
   background: #10316b;
 }
+
+.aclocation a {
+    background: #fff !important;
+    font-weight: 600 !important;
+}
+
+/************/
+
 .content .block a:hover {
   background: #216b4d;
 }
