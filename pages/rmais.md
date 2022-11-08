@@ -15,9 +15,11 @@ permalink: /rmais
             <div class="date right"><p class="right"> 1905 - 1955 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Roger Mais is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Roger Mais is from <a href="http://localhost:4000/4"> Jamaica.</a></p> </div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

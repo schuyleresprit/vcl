@@ -15,9 +15,11 @@ permalink: /jkincaid
             <div class="date right"><p class="right"> B. 1949 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Jamaica Kincaid is from Antigua and Barbuda.</p>
-                <a href="https://en.wikipedia.org/wiki/Jamaica_Kincaid" target="_blank">Read more</a>
+            <div class="aclocation"><p>Jamaica Kincaid is from <a href="http://localhost:4000/38">Antigua and Barbuda.</a></p> </div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Jamaica_Kincaid" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">

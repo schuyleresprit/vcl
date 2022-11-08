@@ -15,9 +15,11 @@ permalink: /pchamoiseau
             <div class="date right"><p class="right"> B. 1953 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Patrick Chamoiseau is from Martinique.</p>
-                <a href="https://en.wikipedia.org/wiki/Patrick_Chamoiseau" target="_blank">Read more</a>
+            <div class="aclocation"><p> Patrick Chamoiseau is from <a href="http://localhost:4000/8">Martinique.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Patrick_Chamoiseau" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -49,7 +51,7 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Fiction<br/>
                 Length: 226
-    
+
                 </p>
             </div>
         </div>
@@ -75,7 +77,7 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Fiction<br/>
                 Length: 190
-    
+
                 </p>
             </div>
         </div>
@@ -92,7 +94,7 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Essay<br/>
                 Length: 128
-    
+
                 </p>
             </div>
         </div>
@@ -109,7 +111,7 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Fiction<br/>
                 Length: 125
-    
+
                 </p>
             </div>
         </div>
@@ -126,7 +128,7 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Autobiography/Memoir<br/>
                 Length: 279
-    
+
                 </p>
             </div>
         </div>
@@ -143,7 +145,7 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Fiction<br/>
                 Length: 164
-    
+
                 </p>
            </div>
         </div>
@@ -160,7 +162,7 @@ permalink: /pchamoiseau
                 Publisher Location: Lincoln, NE, United States<br/>
                 Genre: Fiction<br/>
                 Length: 101
-    
+
                 </p>
            </div>
         </div>

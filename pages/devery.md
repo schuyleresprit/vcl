@@ -15,9 +15,11 @@ permalink: /devery
             <div class="date right"><p class="right"> ?? </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Donna Every is from Barbados.</p>
-                <a href="#">Read more</a>
+          <div class="aclocation">  <p> Donna Every is from <a href="http://localhost:4000/12"> Barbados.</a></p> </div>
+                <div class="acreadmore"> <a href="#">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
