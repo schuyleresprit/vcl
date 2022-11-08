@@ -1,0 +1,172 @@
+---
+layout: defaultau
+title: "Bernard Montabo"
+permalink: /bmontabo
+---
+<!-- partial:index.partial.html -->
+<div class="content">
+    <h1>Bernard Montabo</h1>
+    <div class="quote">
+        <div><img src="NA" class="logo"></div>
+    </div>
+    <div class="timeline">
+        <div style="padding-bottom:100px;"></div>
+        <div class="block">
+            <div class="date right"><p class="right"> NA </p></div>
+            <div class="dot"></div>
+            <div class="left first">
+                <h1>Author Country</h1><hr>
+            <p>Bernard Montabo is from Guyana.</p>
+                <a href="https://ht.wikipedia.org/wiki/Bernard_Montabo" target="_blank">Read more</a>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2002</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Le Palais Des Jésuites: Roman</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Ibis Rouge<br/>
+                Pub_location: Petit-Bourg, Guadeloupe<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 346</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2004</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Le grand livre de l'histoire de la Guyane: Des origines à 1848 (Volume 1)</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 330</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2004</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>L'histoire de la Guyane Tome 2</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 715</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2004</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Vodún - roman</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Fiction<br/>
+                Length: NA</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2007</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Le Camp Du Portugais: Le Palais Des Jésuites 3 : Roman</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: French<br/>
+                Publisher: Ibis Rouge<br/>
+                Pub_location: Petit-Bourg, Guadeloupe<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 311</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2011</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>La Guyane, un nom, une histoire: Le XXe siècle (Tome 2) (La Guyane, un nom, une histoire, 2)</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 281</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2011</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>La Guyane, un nom, une histoire: Du XVIIe au XIXe siècle (Tome I) (La Guyane, un nom, une histoire, 1)</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 224</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2012</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Guide encyclopédique de la Guyane - découvrir, comprendre, venir</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 511</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>La Guyane, un nom, une histoire: Une société coloniale (Tome III) (La Guyane, un nom, une histoire, 3)</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 320</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2016</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Guyane</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 511</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2021</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Le Grand Livre de l'Histoire de la Guyane - Volume 2</h1><hr>
+                <p><img src=""></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 372</p>
+            </div>
+        </div>
+        <div id="footer">
+        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
+    </div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

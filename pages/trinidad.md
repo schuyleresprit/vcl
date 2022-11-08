@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Trinidad & Tobago"
-permalink: /Trinidad
+permalink: /3
 ---
 <div class="container-0">
     <div class="container-title">

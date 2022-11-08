@@ -15,9 +15,11 @@ permalink: /umarson
             <div class="date right"><p class="right"> 1905 - 1965 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Una Marson is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/Una_Marson" target="_blank">Read more</a>
+          <div class="aclocation">  <p> Una Marson is from <a href="http://localhost:4000/4"> Jamaica.</a></p> </div>
+                <div class="acreadmore"> <a href="https://en.wikipedia.org/wiki/Una_Marson" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -67,4 +69,3 @@ permalink: /umarson
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-

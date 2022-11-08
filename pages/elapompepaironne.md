@@ -1,0 +1,107 @@
+---
+layout: defaultau
+title: "Edmond Lapompe-Paironne"
+permalink: /elapompepaironne
+---
+<!-- partial:index.partial.html -->
+<div class="content">
+    <h1>Edmond Lapompe-Paironne</h1>
+    <div class="quote">
+        <div><img src="NA" class="logo"></div>
+    </div>
+    <div class="timeline">
+        <div style="padding-bottom:100px;"></div>
+        <div class="block">
+            <div class="date right"><p class="right"> NA </p></div>
+            <div class="dot"></div>
+            <div class="left first">
+                <h1>Author Country</h1><hr>
+            <p>Edmond Lapompe-Paironne is from Haiti.</p>
+                <a href="NA" target="_blank">Read more</a>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2008</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Touloulou Au Pays Des Mantous</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41V8kAU+x6L._SX312_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: L'Harmattan<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novella)<br/>
+                Length: 71</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2009</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Touloulou Au Pays Des Dauphins</h1><hr>
+                <p><img src="https://www.editions-harmattan.fr/catalogue/couv/b/9782296081857b.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: L'Harmattan<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novella)<br/>
+                Length: </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>La Rivière Du Pont-de-Chaînes</h1><hr>
+                <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/02/d4/27/2610178/1540-1/tsp20221105061841/La-riviere-du-Pont-de-Chaines.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: L'Harmattan<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novella)<br/>
+                Length: 156</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2011</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Touloulou au pays des perroquets</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51XUCAGz5+L._SY344_BO1,204,203,200_.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: L'Harmattan<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novella)<br/>
+                Length: 61</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Toulou au pays des grenouilles</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51Hs5TADiLL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: L'Harmattan<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novella)<br/>
+                Length: 69</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2020</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>La musique des mots : état d'âme : poésie</h1><hr>
+                <p><img src="NA"></p>
+                <p>Language: French<br/>
+                Publisher: Édilivre<br/>
+                Pub_location: Saint-Denis, France<br/>
+                Genre: Fiction (Novella)<br/>
+                Length: 84</p>
+            </div>
+        </div>
+        <div id="footer">
+        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
+    </div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

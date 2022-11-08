@@ -4,7 +4,7 @@
   opacity: 0;
 }
 body {
-  ont-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
+  font-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
 }
 .slideIn_Mobile {
   opacity: 1;
@@ -54,7 +54,7 @@ body {
 }
 .content {
   position: relative;
-  ont-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
+  ont-family: "Roboto", "Montserrat", "Arial", sans-serif;
   width: 100%;
   height: auto;
   text-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
@@ -64,7 +64,7 @@ body {
 
 }
 .content h1 {
-  margin: 35px auto 0 auto;
+  margin: 0px;
   font-size: 58px;
   text-align: center;
   color: #fff;
@@ -73,8 +73,8 @@ body {
 .content .logo {
   display: block;
   position: relative;
-  width: 265px;
-  height: 265px;
+  max-width: 265px;
+  max-height: 265px;
   border-radius: 300px;
   border: solid 8px #fff;
   margin: 20px auto 0 auto;
@@ -136,8 +136,8 @@ body {
 .content .block h4 {
   width: 90%;
   margin: 22px auto;
-  color: #216b4d;
-  font-size: 32px;
+  color: #10316b;
+  font-size: 28px;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
 }
 .content .block h4 {
@@ -148,9 +148,11 @@ body {
   height: auto;
   margin: 0 auto;
   color: #030303;
-  font-size: 17px;
+  font-size: 14px;
 }
-.content .block a {
+
+/**** AUTHOR PAGE****/
+.acreadmore a{
   display: block;
   width: 120px;
   height: 36px;
@@ -164,8 +166,16 @@ body {
   font-size: 18px;
   line-height: 36px;
   border-radius: 6px;
-  background: #216b4d;
+  background: #10316b;
 }
+
+.aclocation a {
+    background: #fff !important;
+    font-weight: 600 !important;
+}
+
+/************/
+
 .content .block a:hover {
   background: #216b4d;
 }
@@ -323,7 +333,7 @@ body {
 }
 #copyright {
   font-size: 16px;
-  color: #2c64d0;
+  color: #10316b;
   margin: 0 auto 100px auto;
   line-height: 40px;
   text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
@@ -332,7 +342,7 @@ body {
 }
 #copyright a {
   text-decoration: none;
-  color: #2c64d0;
+  color: #10316b;
   transition: all ease-in-out 0.35s;
 }
 #copyright a:hover {
@@ -343,4 +353,7 @@ body {
 
 div.right p img, div.left p img {
 	width: inherit;
+    max-width: 250px;
+    max-height: 400px;
+}
 }

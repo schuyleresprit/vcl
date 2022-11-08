@@ -1,38 +1,118 @@
 {
     "": {
-        "Lat": 32.87211,
-        "Long": -81.45094,
+        "Lat": 35.17116,
+        "Long": -103.72567,
         "author_country": ""
     },
-    "Cuba": {
-        "Lat": 22.0,
-        "Long": -79.5,
-        "author_country": "Cuba"
+    "Guyana": {
+        "Lat": 5.0,
+        "Long": -59.0,
+        "author_country": "Guyana"
     },
     "antigua_&_barbuda": {
         "Lat": null,
         "Long": null,
         "author_country": "antigua_&_barbuda"
     },
+    "australia": {
+        "Lat": -25.0,
+        "Long": 135.0,
+        "author_country": "australia"
+    },
+    "bahamas": {
+        "Lat": 25.04082,
+        "Long": -77.37122,
+        "author_country": "bahamas"
+    },
     "barbados": {
         "Lat": 13.16453,
         "Long": -59.55165,
         "author_country": "barbados"
+    },
+    "bonaire": {
+        "Lat": 12.21286,
+        "Long": -68.29445,
+        "author_country": "bonaire"
+    },
+    "british_virgin_islands": {
+        "Lat": 18.5,
+        "Long": -64.5,
+        "author_country": "british_virgin_islands"
+    },
+    "cameroon": {
+        "Lat": 6.0,
+        "Long": 12.5,
+        "author_country": "cameroon"
+    },
+    "canada": {
+        "Lat": 60.10867,
+        "Long": -113.64258,
+        "author_country": "canada"
+    },
+    "columbia": {
+        "Lat": 4.0,
+        "Long": -73.25,
+        "author_country": "columbia"
     },
     "cuba": {
         "Lat": 22.0,
         "Long": -79.5,
         "author_country": "cuba"
     },
+    "curaçao": {
+        "Lat": 12.16667,
+        "Long": -68.96667,
+        "author_country": "curaçao"
+    },
     "dominica": {
         "Lat": 15.5,
         "Long": -61.33333,
         "author_country": "dominica"
     },
+    "dominican_republic": {
+        "Lat": 19.31667,
+        "Long": -70.88333,
+        "author_country": "dominican_republic"
+    },
+    "el_salvador": {
+        "Lat": 13.46667,
+        "Long": -88.98333,
+        "author_country": "el_salvador"
+    },
+    "england": {
+        "Lat": 44.0,
+        "Long": -71.0,
+        "author_country": "england"
+    },
+    "france": {
+        "Lat": 46.0,
+        "Long": 2.0,
+        "author_country": "france"
+    },
+    "french_guiana": {
+        "Lat": 4.0,
+        "Long": -53.0,
+        "author_country": "french_guiana"
+    },
+    "ghana": {
+        "Lat": 8.1,
+        "Long": -1.2,
+        "author_country": "ghana"
+    },
+    "grenada": {
+        "Lat": 12.11667,
+        "Long": -61.66667,
+        "author_country": "grenada"
+    },
     "guadeloupe": {
         "Lat": 16.25,
         "Long": -61.58333,
         "author_country": "guadeloupe"
+    },
+    "guatemala": {
+        "Lat": 15.5,
+        "Long": -90.25,
+        "author_country": "guatemala"
     },
     "guyana": {
         "Lat": 5.0,
@@ -54,19 +134,99 @@
         "Long": -61.0,
         "author_country": "martinique"
     },
+    "netherlands": {
+        "Lat": 52.25,
+        "Long": 5.75,
+        "author_country": "netherlands"
+    },
+    "new_caledonia": {
+        "Lat": -21.5,
+        "Long": 165.5,
+        "author_country": "new_caledonia"
+    },
+    "nigeria": {
+        "Lat": 10.0,
+        "Long": 8.0,
+        "author_country": "nigeria"
+    },
+    "peru": {
+        "Lat": -10.0,
+        "Long": -75.25,
+        "author_country": "peru"
+    },
+    "puerto_rico": {
+        "Lat": 18.2494,
+        "Long": -66.50101,
+        "author_country": "puerto_rico"
+    },
+    "serbia": {
+        "Lat": 44.81892,
+        "Long": 20.45998,
+        "author_country": "serbia"
+    },
+    "spain": {
+        "Lat": 40.0,
+        "Long": -4.0,
+        "author_country": "spain"
+    },
+    "st._kitts_&_nevis": {
+        "Lat": null,
+        "Long": null,
+        "author_country": "st._kitts_&_nevis"
+    },
+    "st._lucia": {
+        "Lat": null,
+        "Long": null,
+        "author_country": "st._lucia"
+    },
+    "st._vincent": {
+        "Lat": 37.0225,
+        "Long": -8.99704,
+        "author_country": "st._vincent"
+    },
+    "st._vincent_&_the_grenadines": {
+        "Lat": null,
+        "Long": null,
+        "author_country": "st._vincent_&_the_grenadines"
+    },
+    "suriname": {
+        "Lat": 4.0,
+        "Long": -56.0,
+        "author_country": "suriname"
+    },
+    "the_bahamas": {
+        "Lat": 25.04082,
+        "Long": -77.37122,
+        "author_country": "the_bahamas"
+    },
     "trinidad_&_tobago": {
         "Lat": null,
         "Long": null,
         "author_country": "trinidad_&_tobago"
+    },
+    "trinidad_&_tobago, barbados": {
+        "Lat": null,
+        "Long": null,
+        "author_country": "trinidad_&_tobago, barbados"
     },
     "trinidad_& tobago": {
         "Lat": null,
         "Long": null,
         "author_country": "trinidad_& tobago"
     },
+    "united_kingdom": {
+        "Lat": 54.75844,
+        "Long": -2.69531,
+        "author_country": "united_kingdom"
+    },
     "united_states": {
         "Lat": 40.58629,
         "Long": -76.28807,
         "author_country": "united_states"
+    },
+    "venezuela": {
+        "Lat": 8.0,
+        "Long": -66.0,
+        "author_country": "venezuela"
     }
 }

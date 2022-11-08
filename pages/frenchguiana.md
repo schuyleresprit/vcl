@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "French Guiana"
-permalink: /frenchguiana
+permalink: /28
 ---
 <div class="container-0">
     <div class="container-title">

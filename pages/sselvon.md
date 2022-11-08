@@ -15,9 +15,11 @@ permalink: /sselvon
             <div class="date right"><p class="right"> 1923 - 1994</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Samuel Selvon is from Trinidad and Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/Sam_Selvon" target="_blank">Read more</a>
+        <div class="aclocation">  <p> Samuel Selvon is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p> </div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Sam_Selvon" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
