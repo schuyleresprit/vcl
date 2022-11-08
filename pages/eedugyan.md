@@ -15,9 +15,11 @@ permalink: /eedugyan
             <div class="date right"><p class="right"> 1978 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Esi Edugyan is from Ghana and Canada.</p>
-                <a href="https://en.wikipedia.org/wiki/Esi_Edugyan" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Esi Edugyan is from <a href="http://localhost:4000/24">Canada.</a></p> </div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Esi_Edugyan" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -89,7 +91,7 @@ permalink: /eedugyan
         </div>
 
 
-  
+
     <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
