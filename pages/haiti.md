@@ -193,7 +193,7 @@ permalink: /Haiti
   <div id="post-12" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFlq67aEm1wzA/profile-displayphoto-shrink_200_200/0/1545239406510?e=1660176000&v=beta&t=8zRGAUgKRg0nK3owT0D86sKsM8ucN7coQEduMtFy6h8" width="70%" height="70%" >
+       <img src="http://4.bp.blogspot.com/-PssCtR4JpN4/VWwKSAratSI/AAAAAAAAElc/bl20LKh1OlY/s640/Crop.jpg" width="70%" height="70%" >
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
