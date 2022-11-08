@@ -161,7 +161,7 @@ permalink: /5
   <div id="post-10" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGD33o55HEh-w/profile-displayphoto-shrink_200_200/0/1577345174572?e=1660176000&v=beta&t=bbDWH7poVI9WEOxuiPjtl_lNwlRtW2btBelHmNCPLsc" width="70%" height="70%" >
+       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="70%" height="70%" >
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
