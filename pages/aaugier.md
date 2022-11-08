@@ -24,14 +24,14 @@ permalink: /aaugier
             <div class="date left"><p class="left"></p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1></h1><hr>
-                <p><img src=""></p>
+                <h1>Nicolas Guillen</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/3889324055.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: , <br/>
-                Genre: <br/>
-                Length: </p>
+                Language: Spanish<br/>
+                Publisher: Union de Escritores y Artistas de Cuba<br/>
+                Pub_location: Havana, Cuba <br/>
+                Genre: Biography<br/>
+                Length: 318</p>
             </div>
         </div>
         <div class="block">
