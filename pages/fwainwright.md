@@ -7,7 +7,7 @@ permalink: /fwainwright
 <div class="content">
     <h1> Frantz Wainwright</h1>
     <div class="quote">
-        <div><img src="https://images.squarespace-cdn.com/content/v1/5a804bc3f9a61ec790123731/1570734793122-MLLRZH593VTZ26KO6CLL/Francesca+Momplaisir.PNG" class="logo"></div>
+        <div><img src="https://www.miamibookfair.com/wp-content/uploads/2016/09/wainwright_kiki.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
