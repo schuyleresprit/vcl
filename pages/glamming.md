@@ -1,4 +1,4 @@
----
+=----
 layout: defaultau
 title: "George Lamming"
 permalink: /glamming
@@ -15,9 +15,11 @@ permalink: /glamming
             <div class="date right"><p class="right"> 19?? - 2022 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>George Lamming is from Barbados.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+          <div class="aclocation">  <p>George Lamming is from <a href="http://localhost:4000/12"> Barbados.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
