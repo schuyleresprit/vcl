@@ -15,9 +15,11 @@ permalink: /ilferguson
             <div class="date right"><p class="right"> 1904 - 1992 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Ira Lunan Ferguson is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/Ira_Lunan_Ferguson" target="_blank">Read more</a>
+            <div class="aclocation">   <p>Ira Lunan Ferguson is from <a href="http://localhost:4000/4">Jamaica.</a></p> </div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Ira_Lunan_Ferguson" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
