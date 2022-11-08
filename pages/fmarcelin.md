@@ -7,7 +7,7 @@ permalink: /fmarcelin
 <div class="content">
     <h1> Frédéric Marcelin</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://wir.skyrock.net/wir/v1/resize/?c=isi&im=%2F5400%2F89975400%2Fpics%2F3199340467_1_2_vjYSsB6B.jpg&w=300" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
