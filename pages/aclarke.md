@@ -17,7 +17,7 @@ permalink: /aclarke
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Austin Clarke is from Barbados.</p>
-                <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/Austin_Clarke_(novelist)"_blank">Read more</a>
             </div>
         </div>
         <div class="block">

@@ -13,7 +13,7 @@
 	<script>
 		let datasets = [
 			{
-				"type" : "Publishers",
+				"type" : "pub_id",
 				"url" : "/data/publications.json"
 			}
 		];
@@ -49,9 +49,9 @@
 					case "publishers":]
 						for (key in data) {
 							temp.push({
-								"flavorText" : data[key]["Publishers"],
-								"subtitle" : data[key]["pub_id"],
-								"link" : data[key]["pub_id"]
+								"flavorText" : data[key]["Publisher"],
+								"subtitle" : data[key]["city"], data[key]["country"],
+								"link" : data[key]["pub_Location"]
 							});
 						}
 						break;
