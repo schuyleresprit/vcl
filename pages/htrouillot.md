@@ -21,98 +21,98 @@ permalink: /htrouillot
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1887</p></div>
+            <div class="date left"><p class="left">1953</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>La Politique : articles de journaux, discours à la Chambre.</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51pf60KKKrL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Historiographie d'Haïti</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=0V0RAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72kLEC00CUSm1Nv0NkHqpJO4rGJ5WHE9pNfbHvippSCzKq4Qh09gE4UJzX85ewJ24ZvsneFbRJ9m4nZc4O6HQgj5LYFRgT5XoeCZRDsSuBw9cMJ-aCcTIUYmW2xmXLx6Hh7fwTJ"></p>
                 <p>
                 Language: French<br/>
-                Publisher: Société anonyme de l'Imp<br/>
-                Pub_location: Paris, France<br/>
+                Publisher: Instituto panamericano de geografía e historia<br/>
+                Pub_location: Mexico City, Mexico<br/>
                 Genre: Non Fiction<br/>
-                Length: 379</p>
+                Length: 299</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1891</p></div>
+            <div class="date right"><p class="right">1955</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Questions haïtiennes.</h1><hr>
-                <p><img src="https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:laquestionhaitie00pric:laquestionhaitie00pric_0001/full/pct:25.0/0/default.jpg#h=962&w=623"></p>
+                <h1>La condition des nègres domestiques à Saint-Domingue</h1><hr>
+                <p><img src="https://www.cairn.info/cover/width-204/DHS/DHS_043.jpg?fallback=true"></p>
                 <p>Language: French<br/>
-                Publisher: Société anonyme de l'Imp<br/>
-                Pub_location: Paris, France<br/>
+                Publisher: Impr. de l'Etat<br/>
+                Pub_location: Port Au Prince, Haiti<br/>
                 Genre: Non Fiction<br/>
-                Length: 117</p>
+                Length: 31</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1896</p></div>
+            <div class="date left"><p class="left">1956</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Haïti et sa Banque nationale. Troisième partie</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41uiWVq+vcL._SX331_BO1,204,203,200_.jpg"></p>
+                <h1>L'intellectuel de couleur et les problèmes de la discrimination raciale</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md30140383230.jpg"></p>
                 <p>
                 Language: French<br/>
-                Publisher: Société anonyme de l'Imp<br/>
-                Pub_location: Paris, France<br/>
+                Publisher: State Printing Office Port-au-Prince Haiti<br/>
+                Pub_location: Port Au Prince, Haiti<br/>
                 Genre: Non Fiction<br/>
-                Length: 170</p>
+                Length: 52</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1965</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Economie et finances de Saint-Domingue</h1><hr>
+                <p><img src="https://media.istockphoto.com/id/478720334/photo/blank-book-cover-isolated-on-white.jpg?s=612x612&w=0&k=20&c=l8Dch6pNaoKglTP-h-VetdAOoxHWZgOQsDgRNkO5CE4="></p>
+                <p>Language: French<br/>
+                Publisher:  Imprimerie de l'Etat<br/>
+                Pub_location: Port au Prince, Haiti<br/>
+                Genre: Non Fiction <br/>
+                Length: 137</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1967</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>La vengeance du Mapou, Theatre</h1><hr>
+                <p><img src="https://books.google.com/books/content?id=2aszAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71I3ggpKDnsZlCsqjG-BoZl7PuRgfU5JMA79qgDKFswQwHbvUOqk5lPptPMHvJ52iCVDGL2INvpPUaTfVGA5IQbXHcfDIJt4P75GIs-ifwJq-gKldbotyWjF2J70bwh62ZoQUQ8"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Les Editions des Antilles<br/>
+                Pub_location: Port au Prince, Haiti<br/>
+                Genre: Non Fiction<br/>
+                Length: 83</p>
             </div>
         </div>
         <div class="block">
             <div class="date right"><p class="right">1974</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La Vengeance de Mama: Roman Haitian</h1><hr>
-                <p><img src="https://i.ebayimg.com/images/g/ktcAAOSwEwhcPKs5/s-l1600.jpg"></p>
+                <h1>Le Gouvernement du Roi Henri Christophe</h1><hr>
+                <p><img src="https://media.istockphoto.com/id/599887350/vector/blank-book-cover-template-on-white-background.jpg?s=170667a&w=0&k=20&c=48oa6vH7SO4bGoD1yhHunzIzd3tfNZUWmGY2Y9sUMwA="></p>
                 <p>Language: French<br/>
-                Publisher: Editions Fardin<br/>
+                Publisher: Impr. centrale<br/>
                 Pub_location: Port au Prince, Haiti<br/>
-                Genre: Fiction <br/>
-                Length: 199</p>
+                Genre: Non Fiction<br/>
+                Length: 170</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1976</p></div>
+            <div class="date left"><p class="left">1975</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Thémistocle - Épaminondas Labasterre : Petit Récit Haitien</h1><hr>
-                <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/5b/a5/6c/7120219/1545-0/tsp20190209222535/Themistocle-Epaminondas-Labasterre.jpg"></p>
+                <h1>Dimension Et Limites De Jacques Roumain</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/30454906031_2.jpg"></p>
                 <p>
                 Language: French<br/>
-                Publisher: Editions Fardin<br/>
-                Pub_location: Port au Prince, Haiti<br/>
+                Publisher: Éditions Fardin<br/>
+                Pub_location: Port Au Prince, Haiti<br/>
                 Genre: Non Fiction<br/>
-                Length: 323</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1984</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Autour de deux romans</h1><hr>
-                <p><img src="https://static2.cyberlibris.com/books_upload/300pix/9782728835485.jpg"></p>
-                <p>Language: French<br/>
-                Publisher: Editions Fardin<br/>
-                Pub_location: Port au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
-                Length: 199</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1909</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Le général Nord Alexis</h1><hr>
-                <p><img src="https://gallica.bnf.fr/ark:/12148/bpt6k6133543p/f6.highres"></p>
-                <p>
-                Language: French<br/>
-                Publisher: Société anonyme de l'Imp<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Non Fiction<br/>
-                Length: NA</p>
+                Length: 206</p>
             </div>
         </div>
         <div id="footer">
