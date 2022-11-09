@@ -16,7 +16,7 @@ permalink: /evega
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Eddie Vega is from Honduras.</p>
+            <p>Eddie Vega is from Cuba.</p>
                 <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
