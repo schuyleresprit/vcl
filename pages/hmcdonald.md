@@ -65,7 +65,6 @@ permalink: /hmcdonald
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2006</p></div>
             <div class="dot"></div>
@@ -81,7 +80,6 @@ permalink: /hmcdonald
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
@@ -112,7 +110,6 @@ permalink: /hmcdonald
                 </p>
             </div>
         </div>
-
         </div>
         <!-- partial -->
           <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
