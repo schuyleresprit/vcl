@@ -15,9 +15,11 @@ permalink: /hnthomas
             <div class="date right"><p class="right"> B. 1947 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Hubert Nigel Thomas is from St. Vincent and the Grenadines.</p>
-                <a href="#" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Hubert Nigel Thomas is from <a href="http://localhost:4000/42">St. Vincent and the Grenadines.</a></p></div>
+                <div class="acreadmore"><a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
