@@ -357,3 +357,7 @@ div.right p img, div.left p img {
     max-height: 400px;
 }
 }
+
+.row {
+    margin-top: -1.78% !important;
+}
