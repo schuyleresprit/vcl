@@ -15,9 +15,11 @@ permalink: /jabrathwaite
             <div class="date right"><p class="right"> NA </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> J. Ashton Brathwaite is from Barbados.</p>
-                <a href="https://en.wikipedia.org/wiki/Odimumba_Kwamdela" target="_blank">Read more</a>
+          <div class="aclocation">  <p> J. Ashton Brathwaite is from <a href="http://localhost:4000/12">Barbados.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Odimumba_Kwamdela" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
