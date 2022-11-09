@@ -21,98 +21,139 @@ permalink: /kmars
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1953</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Historiographie d'Haïti</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=0V0RAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72kLEC00CUSm1Nv0NkHqpJO4rGJ5WHE9pNfbHvippSCzKq4Qh09gE4UJzX85ewJ24ZvsneFbRJ9m4nZc4O6HQgj5LYFRgT5XoeCZRDsSuBw9cMJ-aCcTIUYmW2xmXLx6Hh7fwTJ"></p>
+                <h1>Kasalé</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41nHatjwzaL._BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: French<br/>
-                Publisher: Instituto panamericano de geografía e historia<br/>
-                Pub_location: Mexico City, Mexico<br/>
-                Genre: Non Fiction<br/>
-                Length: 299</p>
+                Publisher: La Roque-d'Anthéron<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 237</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1955</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La condition des nègres domestiques à Saint-Domingue</h1><hr>
-                <p><img src="https://www.cairn.info/cover/width-204/DHS/DHS_043.jpg?fallback=true"></p>
+                <h1>Fado : roman</h1><hr>
+                <p><img src="https://la1ere.francetvinfo.fr/image/YRtHYYmuYQOe2kdlvuyocxVsLvs/600x400/outremer/2019/10/03/5d95bb318d428_kettly_mars.jpg"></p>
                 <p>Language: French<br/>
-                Publisher: Impr. de l'Etat<br/>
-                Pub_location: Port Au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
-                Length: 31</p>
+                Publisher: Mercure de France<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 109</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1956</p></div>
+            <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>L'intellectuel de couleur et les problèmes de la discrimination raciale</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md30140383230.jpg"></p>
+                <h1>Haiti Noir</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51PyuTiMO1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: French<br/>
-                Publisher: State Printing Office Port-au-Prince Haiti<br/>
-                Pub_location: Port Au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
-                Length: 52</p>
+                Publisher: Akashic Books<br/>
+                Pub_location: New York, United States<br/>
+                Genre: Fiction<br/>
+                Length: 300</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1965</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Economie et finances de Saint-Domingue</h1><hr>
-                <p><img src="https://media.istockphoto.com/id/478720334/photo/blank-book-cover-isolated-on-white.jpg?s=612x612&w=0&k=20&c=l8Dch6pNaoKglTP-h-VetdAOoxHWZgOQsDgRNkO5CE4="></p>
+                <h1>Saisons sauvages</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41aJmkQnyzL._SX302_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
-                Publisher:  Imprimerie de l'Etat<br/>
-                Pub_location: Port au Prince, Haiti<br/>
-                Genre: Non Fiction <br/>
-                Length: 137</p>
+                Publisher:  Gallimard<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction <br/>
+                Length: 328</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1967</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>La vengeance du Mapou, Theatre</h1><hr>
-                <p><img src="https://books.google.com/books/content?id=2aszAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71I3ggpKDnsZlCsqjG-BoZl7PuRgfU5JMA79qgDKFswQwHbvUOqk5lPptPMHvJ52iCVDGL2INvpPUaTfVGA5IQbXHcfDIJt4P75GIs-ifwJq-gKldbotyWjF2J70bwh62ZoQUQ8"></p>
+                <h1>Vor dem Verdursten</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/414Wjpt-yrL._SX312_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: French<br/>
-                Publisher: Les Editions des Antilles<br/>
-                Pub_location: Port au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
-                Length: 83</p>
+                Language: German<br/>
+                Publisher: Trier Litradukt <br/>
+                Pub_location: Berlin, Germany<br/>
+                Genre: Fiction<br/>
+                Length: 124</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1974</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Le Gouvernement du Roi Henri Christophe</h1><hr>
-                <p><img src="https://media.istockphoto.com/id/599887350/vector/blank-book-cover-template-on-white-background.jpg?s=170667a&w=0&k=20&c=48oa6vH7SO4bGoD1yhHunzIzd3tfNZUWmGY2Y9sUMwA="></p>
+                <h1>Aux frontières de la soif : roman</h1><hr>
+                <p><img src="https://lakayiti.com/image/cache/data/BOOKS/aux%20frontieres-800x888.jpg"></p>
                 <p>Language: French<br/>
-                Publisher: Impr. centrale<br/>
+                Publisher: L'Imprimeur S.A.<br/>
                 Pub_location: Port au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
-                Length: 170</p>
+                Genre: Fiction<br/>
+                Length: 174</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1975</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Dimension Et Limites De Jacques Roumain</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/30454906031_2.jpg"></p>
+                <h1>Nouvelles d'Haïti</h1><hr>
+                <p><img src="https://is5-ssl.mzstatic.com/image/thumb/Publication7/v4/8e/a8/cb/8ea8cb85-3921-12a8-4024-b0cd12cdcf67/9782350743448.jpg/1200x630wz.png"></p>
                 <p>
                 Language: French<br/>
-                Publisher: Éditions Fardin<br/>
-                Pub_location: Port Au Prince, Haiti<br/>
+                Publisher: Magellan & Cie Édition<br/>
+                Pub_location: Paris, France<br/>
                 Genre: Non Fiction<br/>
-                Length: 206</p>
+                Length: 144</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2015</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Savage seasons</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/81mOkdYv0KL.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: University of Nebraska Press<br/>
+                Pub_location: Lincoln, NE, United States<br/>
+                Genre: Fiction<br/>
+                Length: 247</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2018</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>L'heure hybride</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51Frg2apMqL.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Mémoire d'encrier<br/>
+                Pub_location: Montreal, QC, Canada<br/>
+                Genre: Fiction<br/>
+                Length: 139</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2018</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>L'ange du patriarche : roman</h1><hr>
+                <p><img src="http://1.bp.blogspot.com/_QkaIeglezC4/S187t2gQTLI/AAAAAAAAAI4/l7Eojx1uPTQ/s320/K+de+KM.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Mercure de France<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 302</p>
             </div>
         </div>
         <div id="footer">
