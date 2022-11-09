@@ -16,8 +16,9 @@ permalink: /rmonar
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Rooplall Monar is from Demerara.</p>
-                <a href="" target="_blank">Read more</a>
+          <p>Rooplall Monar is from Guyana.</p>
+               <a href="#" target="_blank">Read more</a>
+
             </div>
         </div>
         <div class="block">

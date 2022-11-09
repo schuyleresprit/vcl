@@ -15,9 +15,11 @@ permalink: /eaugustave
             <div class="date right"><p class="right"> B. 1973 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Elsie Augustave is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Elsie_Augustave">Read more</a>
+          <div class="aclocation">   <p> Elsie Augustave is from <a href="http://localhost:4000/5"> Haiti.</a></p></div>
+            <div class="acreadmore">    <a href="https://en.wikipedia.org/wiki/Elsie_Augustave">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
