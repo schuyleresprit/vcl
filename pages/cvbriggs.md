@@ -15,9 +15,11 @@ permalink: /cvbriggs
             <div class="date right"><p class="right"> 1888 - 1966 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Cyril V Briggs is from St. Kitts & Nevis.</p>
-                <a href="https://en.wikipedia.org/wiki/Cyril_Briggs" target="_blank">Read more</a>
+            <div class="aclocation"> <p>Cyril V Briggs is from <a href="http://localhost:4000/41">St. Kitts & Nevis.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Cyril_Briggs" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
