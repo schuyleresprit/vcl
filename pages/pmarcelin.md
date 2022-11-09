@@ -41,6 +41,7 @@ permalink: /pmarcelin
                 <h1>Singing Turtle and Other Tales From Haiti</h1><hr>
                 <p><img src="https://covers.openlibrary.org/b/id/8025207-L.jpg"></p>
                 <p>Language: English<br/>
+                Translation: y<br/>
                 Publisher: Farrar, Straus and Giroux<br/>
                 Pub_location: Paris, France<br/>
                 Genre: Fiction<br/>
