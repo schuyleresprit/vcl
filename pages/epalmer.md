@@ -7,7 +7,7 @@ permalink: /epalmer
 <div class="content">
     <h1>Everard C. Palmer</h1>
     <div class="quote">
-        <div><img src="https://scontent.fanu2-1.fna.fbcdn.net/v/t31.18172-8/1265799_497195747039303_623467122_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e-oEodN-BcwAX8hi_iV&_nc_ht=scontent.fanu2-1.fna&oh=00_AT8cErhid6UGFMj86mWOkHJJT7Xa40gPoV3oEKhogtxzew&oe=62F65A69" class="logo"></div>
+        <div><img src="https://i0.wp.com/nlj.gov.jm/wp-content/uploads/2017/04/everard_palmer.jpg?w=327&ssl=1" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

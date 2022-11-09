@@ -209,7 +209,7 @@ permalink: /4
   <div id="post-13" class="vesti-col timeline-post">
     <div class="vesti-content-wrapper">
       <div class="photo">
-        <img src="https://scontent.fanu2-1.fna.fbcdn.net/v/t31.18172-8/1265799_497195747039303_623467122_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e-oEodN-BcwAX8hi_iV&_nc_ht=scontent.fanu2-1.fna&oh=00_AT8cErhid6UGFMj86mWOkHJJT7Xa40gPoV3oEKhogtxzew&oe=62F65A69" width="50%" height="50%">
+        <img src="https://i0.wp.com/nlj.gov.jm/wp-content/uploads/2017/04/everard_palmer.jpg?w=327&ssl=1" width="50%" height="50%">
         <div class="vesti-date-wrapper">
      <div class="vesti-date">
         </div>
@@ -369,7 +369,7 @@ permalink: /4
    <div id="post-23" class="vesti-col timeline-post">
     <div class="vesti-content-wrapper">
       <div class="photo">
-        <img src="https://www.reggaeholland.com/wp-content/uploads/Untitled-5.jpg" width="50%" height="50%">
+        <img src="https://2.bp.blogspot.com/_Ca61V1Z1LU0/THIiT8Oe4uI/AAAAAAAALQM/a6QKhY4f9gE/s1600/michael+smith+foto+3.jpg" width="50%" height="50%">
         <div class="vesti-date-wrapper">
           <div class="vesti-date">
           </div>

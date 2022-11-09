@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Walter Adolphe Roberts"
-permalink: /roberts
+permalink: /wroberts
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -35,8 +35,7 @@ permalink: /roberts
                 </p>
             </div>
         </div>
-
-        <div class="block">
+		<div class="block">
             <div class="date right"><p class="right">1944</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -49,8 +48,7 @@ permalink: /roberts
 				Length: 302</p>
             </div>
         </div>
-
-        <div class="block">
+		<div class="block">
             <div class="date left"><p class="left hide">1944</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -63,8 +61,7 @@ permalink: /roberts
 				Length: 324</p>
             </div>
         </div>
-
-        <div class="block">
+		<div class="block">
             <div class="date right"><p class="right hide">1946</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -77,8 +74,6 @@ permalink: /roberts
 				Length: 376</p>
             </div>
         </div>
-		
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1946</p></div>
             <div class="dot"></div>
@@ -92,8 +87,7 @@ permalink: /roberts
 				Length: 318</p>
             </div>
         </div>
-
-        <div class="block">
+		<div class="block">
             <div class="date right"><p class="right hide">1948</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -106,8 +100,6 @@ permalink: /roberts
 				Length: 301</p>
             </div>
         </div>
-		
-		
 		<div class="block">
             <div class="date left"><p class="left hide">1948</p></div>
             <div class="dot"></div>
@@ -121,8 +113,7 @@ permalink: /roberts
 				Length: 304</p>
             </div>
         </div>
-
-        <div class="block">
+		<div class="block">
             <div class="date right"><p class="right hide">1949</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -135,8 +126,7 @@ permalink: /roberts
 				Length: 378</p>
             </div>
         </div>
-
-        <div class="block">
+		<div class="block">
             <div class="date left"><p class="left hide">1969</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -149,8 +139,7 @@ permalink: /roberts
 				Length: 361</p>
             </div>
         </div>
-
-        <div class="block">
+		<div class="block">
             <div class="date right"><p class="right hide">1969</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -164,12 +153,8 @@ permalink: /roberts
             </div>
         </div>
 
-        
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
+
+    
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

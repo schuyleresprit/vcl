@@ -16,7 +16,7 @@ permalink: /tbrownebannister
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <pTammi Browne-Bannister is from Barbados.</p>
+            <p>Tammi Browne-Bannister is from Antigua and Barbuda</p>
                 <a href="#" target="_blank">Read more</a>
             </div>
         </div>
