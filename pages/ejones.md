@@ -15,9 +15,11 @@ permalink: /ejones
             <div class="date right"><p class="right"> 1927 - 2012 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Evan Jones is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/Evan_Jones_(writer)" target="_blank">Read more</a>
+            <div class="aclocation"> <p>Evan Jones is from <a href="http://localhost:4000/4">Jamaica.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Evan_Jones_(writer)" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
