@@ -1,13 +1,13 @@
 ---
 layout: defaultauco
-title: "Antigua & Barbuda"
-permalink: /38
+title: "El Salvador"
+permalink: /30
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Antigua & Barbuda</h2></span>
+        <span class="country"><h2>El Salvador</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/f0/f2/c4/ag-01.png" >
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/72/42/c3/sv-01.jpg" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -18,7 +18,7 @@ permalink: /38
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" width="50%" height="50%">
+       <img src="https://images.gr-assets.com/authors/1226050545p5/130632.jpg" width="50%" height="50%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -26,7 +26,7 @@ permalink: /38
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jkincaid">Jamaica Kincaid</a></h4>
+         <h4><a href="/rdalton">Roque Dalton</a></h4>
        </a>
      </div>
    </div>
@@ -35,7 +35,7 @@ permalink: /38
  <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Tammi%20Browne-Bannister.jpg?itok=mvR0v4F-" width="50%" height="50">
+       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="70%" height="50%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -43,7 +43,7 @@ permalink: /38
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/tbbannister">Tammi Browne-Bannister</a></h4>
+         <h4><a href="/carias">Claudia M. Milian Arias</a></h4>
        </a>
      </div>
    </div>
