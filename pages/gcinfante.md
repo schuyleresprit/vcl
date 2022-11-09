@@ -7,17 +7,17 @@ permalink: /gcinfante
 <div class="content">
     <h1>Guillermo Cabrera Infante</h1>
     <div class="quote">
-        <div><img src="https://www.marche-poesie.com/wp-content/uploads/2020/07/evelyne-trouillot-2.jpg" class="logo"></div>
+        <div><img src="https://www.cervantes.es/imagenes/Image/bibliotecas_documentacion_espanol/biobibliografias/guillermo_cabrera_infante.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1954 </p></div>
+            <div class="date right"><p class="right"> 1929 - 2005 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Guillermo Cabrera Infante is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Évelyne_Trouillot" target="_blank">Read more</a>
+            <p>Guillermo Cabrera Infante is from Cuba.</p>
+                <a href="https://en.wikipedia.org/wiki/Guillermo_Cabrera_Infante" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
