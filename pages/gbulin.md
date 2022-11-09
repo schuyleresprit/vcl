@@ -7,7 +7,7 @@ permalink: /gbulin
 <div class="content">
     <h1>Gérard Bulin</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
