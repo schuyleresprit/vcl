@@ -7,7 +7,7 @@ permalink: /msmith
 <div class="content">
     <h1>Michael Smith</h1>
     <div class="quote">
-        <div><img src="https://www.reggaeholland.com/wp-content/uploads/Untitled-5.jpg" class="logo"></div>
+        <div><img src="https://2.bp.blogspot.com/_Ca61V1Z1LU0/THIiT8Oe4uI/AAAAAAAALQM/a6QKhY4f9gE/s1600/michael+smith+foto+3.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

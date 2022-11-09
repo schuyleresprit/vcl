@@ -43,7 +43,7 @@ permalink: /38
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/tbbannister">Tammi Browne-Bannister</a></h4>
+         <h4><a href="/tbrownebannister">Tammi Browne-Bannister</a></h4>
        </a>
      </div>
    </div>

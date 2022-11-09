@@ -7,7 +7,7 @@ permalink: /lphillipedalembert
 <div class="content">
     <h1>Louis-Philippe Dalembert</h1>
     <div class="quote">
-        <div><img src="https://fac.umass.edu/ArticleMedia/Images/pre12Images/lenelle.jpg" class="logo"></div>
+        <div><img src="https://images.squarespace-cdn.com/content/v1/54ef4a93e4b01b969d320540/1590707857058-HPZGZRF7HOLEED9TITQY/Louis-Philippe+Dalembert+%C2%A9+Olivier+Dion.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

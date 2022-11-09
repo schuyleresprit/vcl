@@ -479,22 +479,6 @@ permalink: /5
               </div>
             </div>
 <div id="post-30" class="vesti-col timeline-post">
-                          <div class="vesti-content-wrapper">
-                              <div class="photo">
-                                <img src="https://www.granma.cu/file/img/2019/01/medium/f0128607.jpg" width="70%">
-                                <div class="vesti-date-wrapper">
-                                  <div class="vesti-date">
-                                    </div>
-                                  </div>
-                                 </div>
-                                  <div class="vesti-desc">
-                                <a class="desc-a" href="#">
-                                  <h4><a href="/rfernandez">Retamar Fernández</a></h4>
-                                </a>
-                            </div>
-                          </div>
-                        </div>
-<div id="post-31" class="vesti-col timeline-post">
                                                   <div class="vesti-content-wrapper">
                                                       <div class="photo">
                                                         <img src="https://www.ccny.cuny.edu/sites/default/files/styles/600px_wide/public/Prof-Dorsinville_14.jpg?itok=k_XUmUyG" width="70%">
