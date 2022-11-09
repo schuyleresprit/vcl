@@ -15,9 +15,11 @@ permalink: /amboadas
             <div class="date right"><p class="right"> NA </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Aura Marina Boadas</h1><hr>
-            <p>Evelyne Trouillot is from Venezuela.</p>
-                <a href="NA" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Evelyne Trouillot is from <a href="http://localhost:4000/7">Venezuela.</a></p></div>
+                <div class="acreadmore"><a href="NA" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
