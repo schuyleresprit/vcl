@@ -15,9 +15,11 @@ permalink: /cdebrot
             <div class="date right"><p class="right"> 1902 - 1981 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Cola Debrot is from Bonaire.</p>
-                <a href="https://en.wikipedia.org/wiki/Cola_Debrot" target="_blank">Read more</a>
+            <div class="aclocation">  <p> Cola Debrot is from <a href="http://localhost:4000/32">Bonaire.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Cola_Debrot" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
   <div class="block">
