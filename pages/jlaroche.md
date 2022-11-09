@@ -17,7 +17,7 @@ permalink: /jlaroche
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p> Jacques Laroche  is from Haiti.</p>
-                <a href="NA"_blank">Read more</a>
+                <a href="#" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
