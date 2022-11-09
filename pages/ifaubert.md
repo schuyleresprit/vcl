@@ -21,44 +21,44 @@ permalink: /ifaubert
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1953</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Historiographie d'Haïti</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=0V0RAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72kLEC00CUSm1Nv0NkHqpJO4rGJ5WHE9pNfbHvippSCzKq4Qh09gE4UJzX85ewJ24ZvsneFbRJ9m4nZc4O6HQgj5LYFRgT5XoeCZRDsSuBw9cMJ-aCcTIUYmW2xmXLx6Hh7fwTJ"></p>
+                <h1>Anthologie secrète : Poèmes et récits</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41B2iF6VweL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: French<br/>
-                Publisher: Instituto panamericano de geografía e historia<br/>
-                Pub_location: Mexico City, Mexico<br/>
-                Genre: Non Fiction<br/>
-                Length: 299</p>
+                Publisher: Mémoire d'encrier<br/>
+                Pub_location: Quebec, Canada<br/>
+                Genre: Poetry Collection<br/>
+                Length: 222</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1955</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La condition des nègres domestiques à Saint-Domingue</h1><hr>
-                <p><img src="https://www.cairn.info/cover/width-204/DHS/DHS_043.jpg?fallback=true"></p>
+                <h1>Coeur des îles</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=pJTzAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73D44EWsxw7vJKHjNayjJfU3GqXnGyx1wFeukwM8OKhtiZMpUkM5t3ol882jgMXlN25ct7NjKFIGdZb3ofN_7-aNnBVz_vAG1SYkCovOi2PRed5OehKpqz-gqgFaprzIzoPDVel"></p>
                 <p>Language: French<br/>
-                Publisher: Impr. de l'Etat<br/>
+                Publisher: Presses Nationales d'Haït<br/>
                 Pub_location: Port Au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
-                Length: 31</p>
+                Genre: Poetry Collection<br/>
+                Length: 93</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1956</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>L'intellectuel de couleur et les problèmes de la discrimination raciale</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md30140383230.jpg"></p>
+                <h1>Island Heart</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51YgydbKyiL._SX374_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: French<br/>
-                Publisher: State Printing Office Port-au-Prince Haiti<br/>
-                Pub_location: Port Au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
-                Length: 52</p>
+                Language: Englisg<br/>
+                Publisher: Subpress<br/>
+                Pub_location: Burton, United States<br/>
+                Genre: Poetry Collection<br/>
+                Length: 108</p>
             </div>
         </div>
         <div id="footer">
