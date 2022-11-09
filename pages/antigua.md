@@ -32,10 +32,10 @@ permalink: /38
    </div>
  </div>
 
- <div id="post-1" class="vesti-col timeline-post">
+ <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Tammi%20Browne-Bannister.jpg?itok=mvR0v4F-" width="70%" >
+       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Tammi%20Browne-Bannister.jpg?itok=mvR0v4F-" width="50%" height="50">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
