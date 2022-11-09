@@ -27,51 +27,51 @@ permalink: /cphillips
             <div class="dot"></div>
             <div class="right">
                 <h1>Extravagant Strangers: A Literature of Belonging</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/91j+9fFAbbL.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Faber and Faber<br/>
                 Pub_location: London, England<br/>
-                Genre: <br/>
-                Length: </p>
+                Genre: Anthology<br/>
+                Length: 336 pages</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
+                <h1>Strange Fruit</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41DFGTX7E9L.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Amber Lane Press Ltd.<br/>
+                Pub_location: Ambergate, England<br/>
+                Genre: Drama<br/>
+                Length: 104 pages</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
+                <h1>Where There is Darkness</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41VPE11Z7XL._SX325_BO1,204,203,200_.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Amber Lane Press<br/>
+                Pub_location: Ambergate, England<br/>
+                Genre: Drama<br/>
                 Length: </p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location:  <br/>
-                Genre: <br/>
+                <h1>The Shelter</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/413SW406TQL.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Amber Lane Press<br/>
+                Pub_location:  Ambergate, England<br/>
+                Genre: Drama<br/>
                 Length: </p>
             </div>
         </div>
