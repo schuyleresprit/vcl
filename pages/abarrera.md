@@ -15,9 +15,11 @@ permalink: /abarrera
             <div class="date right"><p class="right"> 1960 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Alberto Barrera is from Venezuela.</p>
-                <a href="https://en.wikipedia.org/wiki/Alberto_Barrera_Tyszka" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Alberto Barrera is from <a href="http://localhost:4000/7"> Venezuela.</a></p></div>
+              <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Alberto_Barrera_Tyszka" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
