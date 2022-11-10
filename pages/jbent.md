@@ -27,7 +27,7 @@ permalink: /jbent
             <div class="dot"></div>
             <div class="right">
                 <h1>The Green Banana Hunt</h1><hr>
-                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
+                <p><img src="https://i.ebayimg.com/images/g/4ycAAOSwbVVgjoc8/s-l600.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Deutsch<br>
@@ -48,7 +48,7 @@ permalink: /jbent
                 Publisher: Dutton<br>
                 Publisher Location: London, England<br>
                 Genre: Fiction<br>
-                Length: NA<br>
+                Length: 32<br>
                 </p>
             </div>
         </div>
