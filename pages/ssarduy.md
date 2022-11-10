@@ -15,9 +15,11 @@ permalink: /ssarduy
             <div class="date right"><p class="right">1937-1993</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Severo Sarduy is from Cuba.</p>
-                <a href="https://en.wikipedia.org/wiki/Severo_Sarduy" target="_blank">Read more</a>
+          <div class="aclocation">   <p>Severo Sarduy is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Severo_Sarduy" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -345,7 +347,7 @@ permalink: /ssarduy
                 Length: 34</p>
             </div>
         </div>
-       
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
