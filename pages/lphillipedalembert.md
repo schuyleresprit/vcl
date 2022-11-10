@@ -115,6 +115,143 @@ permalink: /lphillipedalembert
                 Length: 171</p>
             </div>
         </div>
+        <div class="block">
+            <div class="date left"><p class="left">2006</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Les dieux voyagent la nuit</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41E6QJEVNYL._SX195_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Editions du Rocher<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 220</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2007</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Histoires d'amour impossibles</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41qnTaT5YcL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Editions du Rocher<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 214</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2007</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>L’Ile du bout des rêves</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51456xvHgkL._SX195_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher:  Le Serpent à Plumes<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 301</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2009</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Le Roman de Cuba</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51v2nMpbQaL._SX301_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Editions du Rocher<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Essay<br/>
+                Length: 276</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2010</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Haïti, une traversée littéraire, en collaboration avec Lyonel Trouillot</h1><hr>
+                <p><img src="http://www.vers-les-iles.fr/images/im_Haiti/Dalembert_Trouillot.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Culturesfrance<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Essay<br/>
+                Length: 171</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2011</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Noires blessures</h1><hr>
+                <p><img src="https://www.babelio.com/couv/CVT_26_996001.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Mercure de Francer<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 224</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Les Bas-Fonds de la mémoire</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51CWEFJBECL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: LEGS EDITION<br/>
+                Pub_location: Port Au Prince, Haiti<br/>
+                Genre: Fiction<br/>
+                Length: 153</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Ballade d'un amour inachevé</h1><hr>
+                <p><img src="https://www.babelio.com/couv/CVT_CVT_Ballade-dun-amour-inacheve_42.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Mercure de France<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 282</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2019</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Mediterranean Wall</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616251654l/54578994.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Schaffner Press<br/>
+                Pub_location: Tucson, AZ, United States<br/>
+                Genre: Fiction<br/>
+                Length: 352</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2021</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Other Side of the Sea</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41VsA2g7c-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: University of Virginia Press<br/>
+                Pub_location:  Charlottesville, VA, United States<br/>
+                Genre: Fiction<br/>
+                Length: 136</p>
+            </div>
+        </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
