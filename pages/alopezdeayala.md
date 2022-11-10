@@ -1,23 +1,23 @@
 ---
 layout: defaultau
-title: " Candice Carty-Williams"
-permalink: /ccarty-williams
+title: "Adelardo López de Ayala"
+permalink: /alopezdeayala
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1> Candice Carty-Williams</h1>
+    <h1>Adelardo López de Ayala</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Adelardo_L%C3%B3pez_de_Ayala_%28Museo_del_Romanticismo_de_Madrid%29.jpg/330px-Adelardo_L%C3%B3pez_de_Ayala_%28Museo_del_Romanticismo_de_Madrid%29.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right"> 1828-1879 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p> Candice Carty-Williams is from Britain.</p>
-                <a href="NA" target="_blank">Read more</a>
+            <p>Adelardo López de Ayala is from Spain.</p>
+                <a href="https://es.wikipedia.org/wiki/Adelardo_López_de_Ayala" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">

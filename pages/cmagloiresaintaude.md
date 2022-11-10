@@ -21,56 +21,32 @@ permalink: /cmagloiresaintaude
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1></h1><hr>
-                <p><img src=""></p>
+                <h1>Dialogue de mes lampes</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51QNK0PSGHL._SX313_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: , <br/>
-                Genre: <br/>
-                Length: </p>
+                Language: French<br/>
+                Publisher: Jacques Veuillet<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Non Fiction<br/>
+                Length: 59</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date right"><p class="right">2003</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
+                <h1>Veillée</h1><hr>
+                <p><img src="https://www.potomitan.info/kauss/images/magloire.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Mémoire d'encrier<br/>
+                Pub_location: Montréal, QC, Canada<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 11</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left"></p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right"></p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location:  <br/>
-                Genre: <br/>
-                Length: </p>
             </div>
         </div>
         <div id="footer">

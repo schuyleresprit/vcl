@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "Catherine Bain"
-permalink: /cbain
+title: "Krystal A Sital"
+permalink: /kasital
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Catherine Bain</h1>
+    <h1>Krystal A Sital</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://www.parents.com/thmb/-W1iPL4orO1ZjxBtIGcjw-OWHw0=/1392x1978/filters:fill(auto,1)/Krystal-Sital-1535235a024b439782b9e41f806debf9.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -16,22 +16,22 @@ permalink: /cbain
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Catherine Bain is from Scotland.</p>
+            <p>Krystal A Sital is from Trinidad and Tobago.</p>
                 <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In The Black: New African Canadian Literature</h1><hr>
+                <h1>Secrets We Kept</h1><hr>
                 <p><img src=""></p>
                 <p>
                 Language: English<br/>
-                Publisher: Insomniac Press<br/>
-                Pub_location: Ontario, Canada<br/>
-                Genre: Anthology<br/>
-                Length: 227</p>
+                Publisher: W.W. Norton & Company<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Autobiography/Memoir<br/>
+                Length: 337</p>
             </div>
         </div>
         <div id="footer">
