@@ -15,9 +15,11 @@ permalink: /jaalix
             <div class="date right"><p class="right"> 1833 - 1918 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Juan Antonio Alix is from Dominican Republic.</p>
-                <a href="NA" target="_blank">Read more</a>
+        <div class="aclocation">    <p>Juan Antonio Alix is from <a href="http://localhost:4000/9">Dominican Republic.</a></p></div>
+                <div class="acreadmore"><a href="NA" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

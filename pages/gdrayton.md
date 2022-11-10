@@ -25,7 +25,22 @@ permalink: /gdrayton
             <div class="dot"></div>
             <div class="right">
                 <h1>Christopher (Caribbean Writers S.)</h1><hr>
-                <p><img src="http://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t0b01:001/full/pct:100/0/default.jpg"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474801482l/4171821._SY475_.jpg"></p>
+                <p>
+                Language: English <br/>
+                Publisher: Heinemann <br/>
+                Pub_location: London, England <br/>
+                Genre: Fiction <br/>
+                Length: 192 <br/>
+                </p>
+            </div>
+        </div>
+         <div class="block">
+            <div class="date right"><p class="right">1959</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Christopher (Caribbean Writers S.)</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/31ARkFQv2jL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Heinemann <br/>
@@ -50,7 +65,6 @@ permalink: /gdrayton
                 </p>
             </div>
         </div>
-
-        </div>
+               </div>
         <!-- partial -->
           <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

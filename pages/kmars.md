@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: "Kettly Mars "
+title: "Kettly Mars"
 permalink: /kmars
 ---
 <!-- partial:index.partial.html -->
@@ -15,9 +15,11 @@ permalink: /kmars
             <div class="date right"><p class="right"> September 3, 1958 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Kettly Mars  is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Kettly_Mars" target="_blank">Read more</a>
+          <div class="aclocation">  <p> Kettly Mars  is from <a href="http://localhost:4000/5">Haiti.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Kettly_Mars" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

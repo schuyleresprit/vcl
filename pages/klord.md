@@ -22,7 +22,6 @@ permalink: /klord
             </div>
             </div>
         </div>
-
         <div class="block">
                 <div class="date left"><p class="left">2010</p></div>
                 <div class="dot"></div>
