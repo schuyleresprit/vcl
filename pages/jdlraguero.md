@@ -15,9 +15,11 @@ permalink: /jdlraguero
             <div class="date right"><p class="right">1783 - 1858</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Jose de la Riva Agüero is from Peru.</p>
-                <a href="https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Riva_Ag%C3%BCero" target="_blank">Read more</a>
+          <div class="aclocation">   <p>Jose de la Riva Agüero is from <a href="http://localhost:4000/6">Peru.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Riva_Ag%C3%BCero" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
