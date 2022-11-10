@@ -15,9 +15,11 @@ permalink: /jrfeo
             <div class="date right"><p class="right"> 1920 - 1993 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Jose Rodriguez Feo is from Cuba.</p>
-                <a href="https://www.wikidata.org/wiki/Q55947844" target="_blank">Read more</a>
+        <div class="aclocation">     <p>Jose Rodriguez Feo is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
+              <div class="acreadmore">  <a href="https://www.wikidata.org/wiki/Q55947844" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
