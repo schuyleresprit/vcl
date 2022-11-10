@@ -15,9 +15,11 @@ permalink: /gcinfante
             <div class="date right"><p class="right"> 1929 - 2005 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Guillermo Cabrera Infante is from Cuba.</p>
-                <a href="https://en.wikipedia.org/wiki/Guillermo_Cabrera_Infante" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Guillermo Cabrera Infante is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Guillermo_Cabrera_Infante" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

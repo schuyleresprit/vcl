@@ -15,9 +15,11 @@ permalink: /maubertin
             <div class="date right"><p class="right"> B. 1948 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Michael Aubertin is from St. Lucia.</p>
-                <a href="#">Read more</a>
+            <div class="aclocation"><p> Michael Aubertin is from <a href="http://localhost:4000/16">St. Lucia.</a></p></div>
+              <div class="acreadmore">  <a href="#">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
