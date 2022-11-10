@@ -16,7 +16,7 @@ permalink: /cbain
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Catherine Bain is from Haiti.</p>
+            <p>Catherine Bain is from Scotland.</p>
                 <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
