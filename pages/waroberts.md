@@ -42,7 +42,7 @@ permalink: /waroberts
             <div class="dot"></div>
             <div class="left">
                 <h1>The Book of the Navy</h1><hr>
-                <p><img src="https://i2.wp.com/nlj.gov.jm/wp-content/uploads/2017/05/war.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51dQTnPr+bL._SX434_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
 				Publisher: Doubleday<br>
 				Publisher Location: Cooperstown, NY, United States<br>
