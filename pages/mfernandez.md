@@ -1,25 +1,23 @@
 ---
 layout: defaultau
-title: "Donald W. Bleznick"
-permalink: /dwbleznick
+title: "Manuel Fernández"
+permalink: /mfernandez
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Donald W. Bleznick</h1>
+    <h1>Manuel Fernández</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://www.ecured.cu/images/4/42/Mylene1.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1954 </p></div>
+            <div class="date right"><p class="right"> B. 1963 </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Donald W. Bleznick is from <a href="http://localhost:4000/1"> The United States.</a></p></div>
-              <div class="acreadmore">   <a href="NA" target="_blank">Read more</a></div>
-            </div>
+            <p>Manuel Fernández is from Haiti.</p>
+                <a href="https://eu.wikipedia.org/wiki/Mylene_Fern%C3%A1ndez_Pintado" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
