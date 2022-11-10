@@ -27,7 +27,7 @@ permalink: /sabannerman
             <div class="dot"></div>
             <div class="right">
                 <h1>Tricks That Are Vail</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sir_Alexander_Bannerman.jpg/330px-Sir_Alexander_Bannerman.jpg"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English <br/>
                 Publisher: Planter's Punch<br/>
