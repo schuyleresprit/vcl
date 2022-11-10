@@ -15,9 +15,11 @@ permalink: /wharris
             <div class="date right"><p class="right"> B. 1937 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Wilson Harris is from Guyana.</p>
-                <a href="https://en.wikipedia.org/wiki/Wilson_Harris" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Wilson Harris is from <a href="http://localhost:4000/62"> Guyana.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Wilson_Harris" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
