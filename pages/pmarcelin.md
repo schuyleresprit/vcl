@@ -27,6 +27,7 @@ permalink: /pmarcelin
                 <h1>Le Crayon de Dieu: Roman</h1><hr>
                 <p><img src=""></p>
                 <p>
+                Co-author: Philippe Thoby-Marcelin<br/>
                 Language: French<br/>
                 Publisher: Éditions de la Table ronde<br/>
                 Pub_location: Paris, France<br/>
@@ -40,7 +41,9 @@ permalink: /pmarcelin
             <div class="left hide">
                 <h1>Singing Turtle and Other Tales From Haiti</h1><hr>
                 <p><img src="https://covers.openlibrary.org/b/id/8025207-L.jpg"></p>
-                <p>Language: English<br/>
+                <p>
+                Co-author: Philippe Thoby-Marcelin<br/>
+                Language: English<br/>
                 Translation: y<br/>
                 Publisher: Farrar, Straus and Giroux<br/>
                 Pub_location: Paris, France<br/>
