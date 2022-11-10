@@ -17,7 +17,7 @@ permalink: /64
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://ufdcimages.uflib.ufl.edu/AA/00/06/67/54/00001/ww%20world's%20end.jpg" width="90%" height="30%">
+       <img src="https://ufdcimages.uflib.ufl.edu/AA/00/06/67/54/00001/ww%20world's%20end.jpg" width="90%" height="10%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
