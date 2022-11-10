@@ -13,3 +13,6 @@ group :jekyll_plugins do
   gem "minima"
   gem "webrick"
 end
+
+gem "gem", "~> 0.0.1.alpha"
+gem "wdm", "~> 0.1.1"
