@@ -39,7 +39,7 @@ permalink: /jduranty
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La fugue de sopaltéba</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images.epagine.fr/456/9782356070456_1_75.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Edilivre<br/>
                 Pub_location: Paris, France<br/>
@@ -52,7 +52,7 @@ permalink: /jduranty
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Les contes de layou</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/9/1/9/9782812116919/tsp20121220134055/Les-contes-de-layou.jpg"></p>
                 <p>Language:French<br/>
                 Publisher: Edilivre<br/>
                 Pub_location: Paris, France<br/>
@@ -65,7 +65,7 @@ permalink: /jduranty
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Mes P'tits Contes En Creole - Se Twa Fle Lavi-a </h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/2b/a4/a0/10527787/1540-1/tsp20200725071220/Mes-p-tits-contes-en-creole-se-twa-fle-lavi-a-les-trois-fleurs-de-vie.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Auzou1<br/>
                 Pub_location:  Bassoues, France<br/>
