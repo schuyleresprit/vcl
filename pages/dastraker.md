@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "D. Augustus Straker"
-permalink: /dstraker
+permalink: /dastraker
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

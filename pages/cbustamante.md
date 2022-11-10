@@ -12,12 +12,16 @@ permalink: /cbustamante
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right"> 1932 - 2006</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Cecilia Bustamante is from Peru.</p>
-                <a href="https://revistazularte.blogia.com/upload/20061024014348-ceciliabustamante.jpg" target="_blank">Read more</a>
+
+          <div class="aclocation">  <p>Cecilia Bustamante is from <a href="http://localhost:4000/6">Peru.</a></p></div>
+              <div class="acreadmore">  <a href="https://revistazularte.blogia.com/upload/20061024014348-ceciliabustamante.jpg" target="_blank">Read more</a></div>
+            </div>
+
             </div>
         </div>
         <div class="block">
