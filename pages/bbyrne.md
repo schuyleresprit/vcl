@@ -23,17 +23,17 @@ permalink: /bbyrne
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">1903</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1></h1><hr>
-                <p><img src=""></p>
+                <h1>Poemas</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31ZWCpGloAL._SX352_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: , <br/>
-                Genre: <br/>
-                Length: </p>
+                Language: Spanish<br/>
+                Publisher: Rambla y Bouzá<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Poetry Collection<br/>
+                Length: 56</p>
             </div>
         </div>
         <div class="block">
