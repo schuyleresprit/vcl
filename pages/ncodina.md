@@ -16,8 +16,10 @@ permalink: /ncodina
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Norberto Codina is from Venezuela.</p>
-                <a href="NA" target="_blank">Read more</a>
+                <div class="author_country">
+            <div class="aclocation"><p>Norberto Codina is from <a href="http://localhost:4000/7"> Venezuela.</a></p></div>
+              <div class="acreadmore">  <a href="NA" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

@@ -1,25 +1,23 @@
 ---
 layout: defaultau
-title: "Timothy Ballard"
-permalink: /tballard
+title: "Jose Rodriguez Feo"
+permalink: /jrfeo
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Timothy Ballard</h1>
+    <h1>Jose Rodriguez Feo</h1>
     <div class="quote">
-        <div><img src="https://shadowmountain.com/wp-content/uploads/2018/07/timothy-ballard.jpg" class="logo"></div>
+        <div><img src="https://rialta.org/wp-content/uploads/2020/06/Virgilio-Pi%C3%B1era.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right"> 1920 - 1993 </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Timothy Ballard is from <a href="http://localhost:4000/1"> United States.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Timothy_Ballard" target="_blank">Read more</a></div>
-            </div>
+            <p>Jose Rodriguez Feo is from Cuba.</p>
+                <a href="https://www.wikidata.org/wiki/Q55947844" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
