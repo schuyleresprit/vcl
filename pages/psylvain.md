@@ -21,7 +21,7 @@ permalink: /psylvain
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date left"><p class="left hide">2007</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Love, Lust & Loss</h1><hr>
@@ -35,7 +35,7 @@ permalink: /psylvain
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
+            <div class="date right"><p class="right hide">2013</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Masuife</h1><hr>
@@ -48,7 +48,7 @@ permalink: /psylvain
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date left"><p class="left hide">2014</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Textual Pleasures and Violent Memories in Edwidge Danticat Farming of the Bones</h1><hr>
@@ -59,7 +59,7 @@ permalink: /psylvain
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date right"><p class="right hide">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Underworlds</h1><hr>
@@ -72,7 +72,7 @@ permalink: /psylvain
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">2022</p></div>
+            <div class="date left"><p class="left hide">2022</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Education Across Borders: Immigration, Race, and Identity</h1><hr>
@@ -84,7 +84,7 @@ permalink: /psylvain
                 Length: 144</p>
             </div>
         </div>
-       
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
