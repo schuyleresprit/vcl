@@ -1,37 +1,37 @@
 ---
 layout: defaultau
-title: "Dimitry Elias Léger"
-permalink: /deléger
+title: "Lyndon J. Dominique"
+permalink: /ljdominique
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Dimitry Elias Léger</h1>
+    <h1>Lyndon J. Dominique</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dimitry_Elias_Leger_in_New_York_City.jpg/330px-Dimitry_Elias_Leger_in_New_York_City.jpg" class="logo"></div>
+        <div><img src="https://www.middlebury.edu/school-english/sites/www.middlebury.edu.school-english/files/styles/832x468/public/2019-12/LyndonDominique_150x150.jpg?fv=8mOCoeuj&itok=Dil18LOU.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1971 </p></div>
+            <div class="date right"><p class="right"> NA </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Dimitry Elias Léger is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Dimitry_Elias_Léger" target="_blank">Read more</a>
+            <p>Lyndon J. Dominique is from United States.</p>
+                <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2016</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>God Loves Haiti: A Novel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/416BGw25UvL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>Imoinda's Shade: Marriage and the African Woman in Eighteenth-Century British Literature, 1759-1800</h1><hr>
+                <p><img src=""></p>
                 <p>
                 Language: English<br/>
-                Publisher: Amistad<br/>
-                Pub_location: Sacramento, CA, United States<br/>
+                Publisher: Ohio State University Press<br/>
+                Pub_location:  Columbus, OH, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 272</p>
+                Length: 320</p>
             </div>
         </div>
         <div id="footer">

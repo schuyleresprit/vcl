@@ -1,23 +1,23 @@
 ---
 layout: defaultau
-title: "Adelardo López de Ayala"
-permalink: /alópezdeayala
+title: "Louis-Philippe Dalembert"
+permalink: /lpdalembert
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Adelardo López de Ayala</h1>
+    <h1>Louis-Philippe Dalembert</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Adelardo_L%C3%B3pez_de_Ayala_%28Museo_del_Romanticismo_de_Madrid%29.jpg/330px-Adelardo_L%C3%B3pez_de_Ayala_%28Museo_del_Romanticismo_de_Madrid%29.jpg" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Louis-Philippe_Dalembert_01462.JPG/375px-Louis-Philippe_Dalembert_01462.JPG" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1828-1879 </p></div>
+            <div class="date right"><p class="right"> B.  1962 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Adelardo López de Ayala is from Spain.</p>
-                <a href="https://es.wikipedia.org/wiki/Adelardo_López_de_Ayala" target="_blank">Read more</a>
+            <p>Louis-Philippe Dalembert is from Haiti.</p>
+                <a href="https://en.wikipedia.org/wiki/Louis-Philippe_Dalembert" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">

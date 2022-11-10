@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "Catherine Bain"
-permalink: /cbain
+title: "Kia Marie Khelawan"
+permalink: /kmkhelawan
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Catherine Bain</h1>
+    <h1>Kia Marie Khelawan</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/o1btpbn1860esin9hdeaibe44h._SY600_.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -16,22 +16,22 @@ permalink: /cbain
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Catherine Bain is from Scotland.</p>
+            <p>Kia Marie Khelawan is from Trinidad and Tobago.</p>
                 <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In The Black: New African Canadian Literature</h1><hr>
-                <p><img src=""></p>
+                <h1>Friendly Fire And A Side Order Of French</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41U9E6SL98L.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Insomniac Press<br/>
-                Pub_location: Ontario, Canada<br/>
-                Genre: Anthology<br/>
-                Length: 227</p>
+                Publisher: Xlibris<br/>
+                Pub_location: Bloomington, IN	United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 51</p>
             </div>
         </div>
         <div id="footer">

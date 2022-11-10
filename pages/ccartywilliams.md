@@ -1,28 +1,26 @@
 ---
 layout: defaultau
-title: "Gorges Mauvois"
-permalink: /gmauvois
+title: " Candice Carty-Williams"
+permalink: /ccartywilliams
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Gorges Mauvois</h1>
+    <h1> Candice Carty-Williams</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="NA" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">  </p></div>
+            <div class="date right"><p class="right"> NA </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Gorges Mauvois is from <a href="http://localhost:4000/8"> Martinique.</a></p></div>
-              <div class="acreadmore">  <a href="" target="_blank">Read more</a></div>
-            </div>
+            <p> Candice Carty-Williams is from Britain.</p>
+                <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
-        <div class="block"> 
+        <div class="block">
             <div class="date left"><p class="left"></p></div>
             <div class="dot"></div>
             <div class="right">

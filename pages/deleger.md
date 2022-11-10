@@ -1,37 +1,37 @@
 ---
 layout: defaultau
-title: "Catherine Bain"
-permalink: /cbain
+title: "Dimitry Elias Léger"
+permalink: /deleger
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Catherine Bain</h1>
+    <h1>Dimitry Elias Léger</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dimitry_Elias_Leger_in_New_York_City.jpg/330px-Dimitry_Elias_Leger_in_New_York_City.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right"> 1971 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Catherine Bain is from Scotland.</p>
-                <a href="NA" target="_blank">Read more</a>
+            <p>Dimitry Elias Léger is from Haiti.</p>
+                <a href="https://en.wikipedia.org/wiki/Dimitry_Elias_Léger" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In The Black: New African Canadian Literature</h1><hr>
-                <p><img src=""></p>
+                <h1>God Loves Haiti: A Novel</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/416BGw25UvL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Insomniac Press<br/>
-                Pub_location: Ontario, Canada<br/>
-                Genre: Anthology<br/>
-                Length: 227</p>
+                Publisher: Amistad<br/>
+                Pub_location: Sacramento, CA, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 272</p>
             </div>
         </div>
         <div id="footer">

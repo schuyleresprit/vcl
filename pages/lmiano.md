@@ -1,37 +1,37 @@
 ---
 layout: defaultau
-title: "Catherine Bain"
-permalink: /cbain
+title: "Léonora Miano"
+permalink: /lmiano
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Catherine Bain</h1>
+    <h1>Léonora Miano</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leonora_Miano_20100328_Salon_du_livre_de_Paris_2.jpg/" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right"> B. 1973 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Catherine Bain is from Scotland.</p>
-                <a href="NA" target="_blank">Read more</a>
+            <p>Léonora Miano is from Cameroon.</p>
+                <a href="https://fr.wikipedia.org/wiki/Léonora_Miano" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In The Black: New African Canadian Literature</h1><hr>
+                <h1>Volcaniques: Une Anthologie Du Plaisir</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: English<br/>
-                Publisher: Insomniac Press<br/>
-                Pub_location: Ontario, Canada<br/>
-                Genre: Anthology<br/>
-                Length: 227</p>
+                Language: French<br/>
+                Publisher: Mémoire d'encrier<br/>
+                Pub_location: Montréal, QC, Canada<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 356</p>
             </div>
         </div>
         <div id="footer">

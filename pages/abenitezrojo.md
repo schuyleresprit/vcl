@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Antonio Benítez-Rojo"
-permalink: /abenítezrojo
+permalink: /abenitezrojo
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
