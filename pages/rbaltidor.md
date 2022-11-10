@@ -25,7 +25,7 @@ permalink: /rbaltidor
             <div class="dot"></div>
             <div class="right">
                 <h1>Koulè Midi</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450744190l/8786900.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/711JAMZETGL._SX304_BO1,204,203,200_.gif"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Mémoire D'Encrier<br/>
@@ -39,7 +39,7 @@ permalink: /rbaltidor
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Simbad Avenue</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450744329l/28262678.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Edisyon Près Nasyonal d'Ayiti<br/>
                 Pub_location: Port-au-Prince, Haiti<br/>
@@ -48,23 +48,11 @@ permalink: /rbaltidor
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Ri Pwent Chemiz</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Haitian Creole<br/>
-                Publisher: Bon Signe<br/>
-                Pub_location: Port-au-Prince, Haiti<br/>
-                Genre: Fiction<br/></p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ri Pwent Chemiz</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/510rjJ8bY0L._SY369_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Editions Bon Signe<br/>
                 Pub_location: Port-au-Prince, Haiti<br/>
@@ -85,7 +73,7 @@ permalink: /rbaltidor
                 Length: 182</p>
             </div>
         </div>
-       
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
