@@ -21,9 +21,22 @@ permalink: /mfolmos
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2011</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
             <div class="right">
+                <h1>Rudolfo A. Anaya: A Critical Companion (Critical Companions to Popular Contemporary Writers)</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/4164lIAuM8L._SX313_BO1,204,203,200_.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Greenwood<br/>
+                Pub_location: Westport, CT, United States<br/>
+                Genre: Nonfiction<br/>
+                Length: 176</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2011</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
                 <h1>Creole Religions of the Caribbean</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71F9gcGiyAL.jpg"></p>
                 <p>
