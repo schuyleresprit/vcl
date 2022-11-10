@@ -20,7 +20,7 @@ permalink: /sdurant
             <div class="aclocation"><p> Suzanne Durant is from <a href="http://localhost:4000/12">Barbados.</a></p></div>
             <div class="acreadmore">    <a href="#">Read more</a> </div>
             </div>
-            </div>
+         </div>
         </div>
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
@@ -33,12 +33,9 @@ permalink: /sdurant
                 Publisher: iUniverse<br/>
                 Publisher Location: Bloomington, United States<br/>
                 Genre: Fiction<br/>
-                Length: 168
-
-                </p>
+                Length: 168</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
@@ -50,13 +47,11 @@ permalink: /sdurant
                 Publisher: Createspace Independent Publishing Platform<br/>
                 Publisher Location: Scotts Valley, CA, United States<br/>
                 Genre: Fiction<br/>
-                Length: 286
-
-                </p>
+                Length: 286</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1997</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Perfect nightmare</h1><hr>
@@ -66,11 +61,8 @@ permalink: /sdurant
                 Publisher: Suzanne Durant<br/>
                 Publisher Location: Bridgetown, Barbados<br/>
                 Genre: Fiction<br/>
-                Length: 203
-
-                </p>
+                Length: 203</p>
             </div>
-
         </div>
         </div>
         <!-- partial -->
