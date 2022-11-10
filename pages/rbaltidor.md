@@ -48,7 +48,7 @@ permalink: /rbaltidor
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date leftt"><p class="left">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ri Pwent Chemiz</h1><hr>
@@ -61,7 +61,7 @@ permalink: /rbaltidor
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Haiti And the American Military Occupation</h1><hr>
