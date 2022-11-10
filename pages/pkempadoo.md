@@ -25,7 +25,7 @@ permalink: /pkempadoo
             <div class="dot"></div>
             <div class="right">
                 <h1>Guiana Boy</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa_jB2wM0-KgS4omDKMotYQ6ai2FZGPo9mkpWKreXxQGZidELt"></p>
                 <p>
                 Language: English<br/>
                 Publisher: New Literature<br/>
@@ -39,7 +39,7 @@ permalink: /pkempadoo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Old Thom's Harvest</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/513rg+fLSmL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Eyre & Spottiswoode<br/>
                 Pub_location: London, England<br/>
@@ -52,7 +52,7 @@ permalink: /pkempadoo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Recordings of folklore, drama & music made in Guyana : 1971-3</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Peter%20Kempadoo.jpg?itok=FKZBpCK4"></p>
                 <p>Language: English<br/>
                 Publisher: The Library<br/>
                 Pub_location: Georgetown, Guyana<br/><br/>
@@ -64,7 +64,7 @@ permalink: /pkempadoo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Caribbean Today</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Peter%20Kempadoo.jpg?itok=FKZBpCK4"></p>
                 <p>Language: English<br/>
                 Publisher: Commonwealth Institute<br/>
                 Pub_location: London, England<br/></p>
@@ -75,7 +75,7 @@ permalink: /pkempadoo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Zenzele : the O.R.A.P. way</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51fyPGN9cML._SX331_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: RCP<br/>
                 Pub_location: Bulawayo, Zimbabwe<br/>
@@ -95,7 +95,7 @@ permalink: /pkempadoo
                 Length: 187</p>
             </div>
         </div>
-       
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
