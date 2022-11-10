@@ -25,7 +25,7 @@ permalink: /smckenzie
             <div class="dot"></div>
             <div class="right">
                 <h1>The 'Aesthetic Republic': A Review of Derek Walcott's O Starry, Starry Night</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHowUgbYXQuWDSxS39N5TWw2Krbbrt2uyqfA&usqp=CAU"></p>
                 <p>
                 Language: English<br>
                 Publisher: Jamaica Observer<br>
@@ -34,8 +34,7 @@ permalink: /smckenzie
                 </p>
             </div>
         </div>
-        
-
+       
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
