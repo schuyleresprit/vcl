@@ -21,7 +21,7 @@ permalink: /pkempadoo
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1960</p></div>
+            <div class="date left"><p class="left hide">1960</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Guiana Boy</h1><hr>
@@ -35,7 +35,7 @@ permalink: /pkempadoo
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1965</p></div>
+            <div class="date right"><p class="right hide">1965</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Old Thom's Harvest</h1><hr>
@@ -48,7 +48,7 @@ permalink: /pkempadoo
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1974</p></div>
+            <div class="date left"><p class="left hide">1974</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Recordings of folklore, drama & music made in Guyana : 1971-3</h1><hr>
@@ -60,7 +60,7 @@ permalink: /pkempadoo
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1988</p></div>
+            <div class="date right"><p class="right hide">1988</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Caribbean Today</h1><hr>
@@ -71,7 +71,7 @@ permalink: /pkempadoo
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">1991</p></div>
+            <div class="date left"><p class="left hide">1991</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Zenzele : the O.R.A.P. way</h1><hr>
@@ -83,7 +83,7 @@ permalink: /pkempadoo
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2002</p></div>
+            <div class="date right"><p class="right hide">2002</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Guyana Boy</h1><hr>
