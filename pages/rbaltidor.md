@@ -21,7 +21,7 @@ permalink: /rbaltidor
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
+            <div class="date left"><p class="left hide">1999</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>Koulè Midi</h1><hr>
@@ -35,9 +35,9 @@ permalink: /rbaltidor
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2008</p></div>
+            <div class="date right"><p class="right hide">2008</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
                 <h1>Simbad Avenue</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450744329l/28262678.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -48,7 +48,7 @@ permalink: /rbaltidor
             </div>
         </div>
         <div class="block">
-            <div class="date leftt"><p class="left">2018</p></div>
+            <div class="date left"><p class="left hide">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ri Pwent Chemiz</h1><hr>
@@ -61,7 +61,7 @@ permalink: /rbaltidor
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date right"><p class="right hide">2019</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Haiti And the American Military Occupation</h1><hr>
