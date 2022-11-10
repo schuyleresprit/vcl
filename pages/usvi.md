@@ -5,9 +5,9 @@ permalink: /64
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Dominica</h2></span>
+        <span class="country"><h2>US Virgin Islands</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/upload/22/7d/22/dm-01.png" >
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/f2/e5/05/vi-01.png" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
