@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Fiction (Short Story Collection)
-permalink: /fictionshortstorycollection
+title: Fiction (Short Story)
+permalink: /fictionshortstory
 ---
