@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: "Kettly Mars "
+title: "Kettly Mars"
 permalink: /kmars
 ---
 <!-- partial:index.partial.html -->

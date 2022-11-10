@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: "Karen Mah-Chamberlain "
+title: "Karen Mah-Chamberlain"
 permalink: /kmchamberlain
 ---
 <div class="content">
