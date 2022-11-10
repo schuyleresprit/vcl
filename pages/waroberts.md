@@ -15,9 +15,11 @@ permalink: /waroberts
             <div class="date right"><p class="right"> 1886 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Walter Adolphe Roberts is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/Walter_Adolphe_Roberts" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Walter Adolphe Roberts is from <a href="http://localhost:4000/4"> Jamaica.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Walter_Adolphe_Roberts" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
