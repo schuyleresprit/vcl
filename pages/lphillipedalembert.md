@@ -20,3 +20,104 @@ permalink: /lphillipedalembert
                 <a href="https://en.wikipedia.org/wiki/Louis-Philippe_Dalembert" target="_blank">Read more</a>
             </div>
         </div>
+        <div class="block">
+            <div class="date left"><p class="left">1982</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Evangile pour les miens</h1><hr>
+                <p><img src="https://www.printempsdespoetes.com/local/cache-vignettes/L274xH252/moton1501-054c8.png?1667211157"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Choucoune<br/>
+                Pub_location: Port Au Prince, Haiti<br/>
+                Genre: Poetry Collection<br/>
+                Length: 353</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1989</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Et le soleil se souvient (followed by) Pages cendres et palmes d’aube</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=JSEpAQAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70vKJ4y5Oq8oVm-28x72WH7kj9ILpwE3Yc7tzdlsD1FRdwHfKRpE9MiDWof1xNxXwJfn6I0AxBlNiV_15_MYrVXZfGRYCi1I2mdtTXF8X20e3o8eHRz5-Cn76Pcbf6-r5EkQyAI"></p>
+                <p>Language: French<br/>
+                Publisher: L’Harmattan<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Poetry Collection<br/>
+                Length: 147</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1993</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Le Songe d’une Photo d’enfance</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NGB0GMJAL._SX195_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher:  Le Serpent à Plumes<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 161</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1996</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Le crayon du bon Dieu n’a pas de gomme</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/513JTCEHHEL._SX195_.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Stock<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction <br/>
+                Length: 275</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1998</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>L’Autre Face de la mer</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/512ZNE9TJSL._SX195_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Stock<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 224</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2005</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Poème pour accompagner l’absence</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329226611l/9730929.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Mémoire d’encrier<br/>
+                Pub_location: Montreal, QC, Canada<br/>
+                Genre: Poem<br/>
+                Length: 56</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2005</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Rue du Faubourg Saint-Denis</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51CWEFJBECL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Editions du Rocher<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 171</p>
+            </div>
+        </div>
+        <div id="footer">
+        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
+    </div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
