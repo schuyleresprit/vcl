@@ -25,7 +25,7 @@ permalink: /bmontabo
             <div class="dot"></div>
             <div class="right">
                 <h1>Le Palais Des Jésuites: Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/6/3/0/003525630.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Ibis Rouge<br/>
                 Pub_location: Petit-Bourg, Guadeloupe<br/>
@@ -38,7 +38,7 @@ permalink: /bmontabo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Le grand livre de l'histoire de la Guyane: Des origines à 1848 (Volume 1)</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.editions-orphie.com/1273-medium_default/le-grand-livre-de-l-histoire-de-la-guyane-vol1.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions Orphie<br/>
                 Pub_location: Matoury, French Guiana<br/>
@@ -51,7 +51,7 @@ permalink: /bmontabo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>L'histoire de la Guyane Tome 2</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51mRHNowEVL.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions Orphie<br/>
                 Pub_location: Matoury, French Guiana<br/>
@@ -63,13 +63,13 @@ permalink: /bmontabo
             <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Vodún - roman</h1><hr>
-                <p><img src=""></p>
+                <h1>Vodún - Roman</h1><hr>
+                <p><img src="https://covers.archimed.fr/Cover/CG97M/MONO/oIe5KLEnvPr917clPO84TQ2/2844502245/MEDIUM?fallback=http%3a%2f%2fmediatheques.collectivitedemartinique.mq%2fui%2fskins%2fdefault%2fportal%2ffront%2fimages%2fGeneral%2fDocType%2fMONO_MEDIUM.png"></p>
                 <p>Language: French<br/>
-                Publisher: Editions Orphie<br/>
+                Publisher: Ibis Rougee <br/>
                 Pub_location: Matoury, French Guiana<br/>
                 Genre: Fiction<br/>
-                Length: NA</p>
+                Length: 319</p>
             </div>
         </div>
         <div class="block">
@@ -77,7 +77,7 @@ permalink: /bmontabo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Le Camp Du Portugais: Le Palais Des Jésuites 3 : Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51LY2bw6DJL.jpg"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Ibis Rouge<br/>
@@ -90,21 +90,8 @@ permalink: /bmontabo
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La Guyane, un nom, une histoire: Le XXe siècle (Tome 2) (La Guyane, un nom, une histoire, 2)</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br/>
-                Publisher: Editions Orphie<br/>
-                Pub_location: Matoury, French Guiana<br/>
-                Genre: Non Fiction<br/>
-                Length: 281</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2011</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
                 <h1>La Guyane, un nom, une histoire: Du XVIIe au XIXe siècle (Tome I) (La Guyane, un nom, une histoire, 1)</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51WSD-F+z9L.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions Orphie<br/>
                 Pub_location: Matoury, French Guiana<br/>
@@ -113,11 +100,24 @@ permalink: /bmontabo
             </div>
         </div>
         <div class="block">
+            <div class="date left"><p class="left">2011</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>La Guyane, un nom, une histoire: Le XXe siècle (Tome II) (La Guyane, un nom, une histoire, 2)</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uj1E+4SML.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Editions Orphie<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Non Fiction<br/>
+                Length: 281</p>
+            </div>
+        </div>
+        <div class="block">
             <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Guide encyclopédique de la Guyane - découvrir, comprendre, venir</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://products-images.di-static.com/image/bernard-montabo-guide-encyclopedique-de-la-guyane/9782877637817-475x500-1.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions Orphie<br/>
                 Pub_location: Matoury, French Guiana<br/>
@@ -130,7 +130,7 @@ permalink: /bmontabo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Guyane, un nom, une histoire: Une société coloniale (Tome III) (La Guyane, un nom, une histoire, 3)</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.editions-orphie.com/376-medium_default/la-guyane-un-nom-une-histoire-tome-3-une-societe-coloniale.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions Orphie<br/>
                 Pub_location: Matoury, French Guiana<br/>
@@ -143,7 +143,7 @@ permalink: /bmontabo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Guyane</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51TnuCXmplL.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions Orphie<br/>
                 Pub_location: Matoury, French Guiana<br/>
@@ -156,7 +156,7 @@ permalink: /bmontabo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Le Grand Livre de l'Histoire de la Guyane - Volume 2</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51mRHNowEVL._SX346_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions Orphie<br/>
                 Pub_location: Matoury, French Guiana<br/>
