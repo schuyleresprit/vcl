@@ -16,7 +16,7 @@ permalink: /mfernandez
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Manuel Fernández is from Portugal.</p>
+            <p>Manuel Fernández is from Spain.</p>
                 <a href="https://en.wikipedia.org/wiki/Manuel_Fernández_Álvarez" target="_blank">Read more</a>
             </div>
         </div>
