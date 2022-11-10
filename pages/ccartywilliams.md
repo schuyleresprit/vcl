@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Candice Carty-Williams"
-permalink: /ccarty-williams
+permalink: /ccartywilliams
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
