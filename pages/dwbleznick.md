@@ -15,9 +15,11 @@ permalink: /dwbleznick
             <div class="date right"><p class="right"> 1954 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Donald W. Bleznick is from United States.</p>
-                <a href="NA" target="_blank">Read more</a>
+            <div class="aclocation"><p>Donald W. Bleznick is from <a href="http://localhost:4000/1"> The United States.</a></p></div>
+              <div class="acreadmore">   <a href="NA" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
