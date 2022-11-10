@@ -21,56 +21,69 @@ permalink: /rfcaliban
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">1969</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1></h1><hr>
-                <p><img src=""></p>
+                <h1>Avec les Mêmes Mains</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md15373372867.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: , <br/>
-                Genre: <br/>
-                Length: </p>
+                Language: Spanish<br/>
+                Publisher: P.J. Oswald<br/>
+                Pub_location: Honfleur, France<br/>
+                Genre: Poem<br/>
+                Length: 105</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
+                <h1>Caliban and Other Essays</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/515g+Iae0wL.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Univ Of Minnesota Press<br/>
+                Pub_location: Minneapolis, MN, United States<br/>
+                Genre: Essay<br/>
+                Length: 160</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
+                <h1>Todo Calibán</h1><hr>
+                <p><img src="https://lahistoriadeldiablog.files.wordpress.com/2009/08/todo-caliban.jpg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Ediciones Callejón<br/>
+                Pub_location: San Juan, Puerto Rico<br/>
+                Genre: Non-Fiction<br/>
+                Length: 214</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Recuerdo A</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443702445l/25232272._SX318_.jpg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Monte Ávila Editores<br/>
+                Pub_location: Caracas, Venezuela<br/>
+                Genre: <br/>
+                Length: 243</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location:  <br/>
-                Genre: <br/>
-                Length: </p>
+                <h1>Toda la luz, toda la sangre: Antología (1948-2017)</h1><hr>
+                <p><img src="https://www.visor-libros.com/tienda/media/catalog/product/cache/1/image/364x/040ec09b1e35df139433887a97daa66f/9/7/9788498953183_l38_04_h.jpg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Visor Libros<br/>
+                Pub_location:  Madrid, Spain<br/>
+                Genre: Poetry Collection<br/>
+                Length: 350</p>
             </div>
         </div>
         <div id="footer">
