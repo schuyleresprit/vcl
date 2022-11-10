@@ -7,7 +7,7 @@ permalink: /pabrahams
 <div class="content">
     <h1>Peter Abrahams</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Portrait_of_Peter_Abrahams_LCCN2004662473_%28crop%29.jpg/330px-Portrait_of_Peter_Abrahams_LCCN2004662473_%28crop%29.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -17,7 +17,7 @@ permalink: /pabrahams
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Peter Abrahams is from Jamaica.</p>
-                <a href="" target="_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/Peter_Abrahams" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
