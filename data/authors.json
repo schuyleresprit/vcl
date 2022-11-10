@@ -24,9 +24,9 @@
         "author_id": "wharris",
         "author_country": "guyana"
     },
-    "Walter Roberts": {
-        "Author": "Walter Roberts",
-        "author_id": "wroberts",
+    "Walter Adolphe Roberts": {
+        "Author": "Walter Adolphe Roberts",
+        "author_id": "waroberts",
         "author_country": "jamaica"
     },
     "V.S. Naipaul": {
@@ -1654,10 +1654,10 @@
         "author_id": "smallarme",
         "author_country": "france"
     },
-    "Tammi Brown": {
-        "Author": "Tammi Brown",
-        "author_id": "Bannister",
-        "author_country": "tbbannister",
+    "Tammi Browne-Bannister": {
+        "Author": "Tammi Browne-Bannister",
+        "author_id": "tbrownebannister",
+        "author_country": "",
         "null": [
             "antigua_&_barbuda"
         ]
@@ -1725,7 +1725,7 @@
     "William P. Barron": {
         "Author": "William P. Barron",
         "author_id": "wpbarron",
-        "author_country": "england/united_states"
+        "author_country": "england"
     },
     "Wycliffe Bennett": {
         "Author": "Wycliffe Bennett",

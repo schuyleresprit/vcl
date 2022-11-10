@@ -25,7 +25,7 @@ permalink: /lking
             <div class="dot"></div>
             <div class="right">
                 <h1>La mujer en la literatura caribeña : Sexta Conferencia de Hispanistas, 6th-8th abril 1983, University of the West Indies, St. Augustine, Trinidad</h1><hr>
-                <p><img src="https://alchetron.com/cdn/lloyd-king-puzzle-designer-545d95c4-2c1e-4137-8379-1f551fbfd5b-resize-750.jpeg"></div></p>
+                <p><img src=""></div></p>
  			<p> Language: Spanish <br/>
                 Publisher: University of the West Indies, Dept. of French & Spanish Literature <br/>
                 Pub_location: St. Augustine, Trinidad & Tobago <br/>
@@ -39,7 +39,7 @@ permalink: /lking
             <div class="dot"></div>
             <div class="left">
                 <h1>Towards A Caribbean Literary Tradition</h1><hr>
-                <p><img src="https://alchetron.com/cdn/lloyd-king-puzzle-designer-545d95c4-2c1e-4137-8379-1f551fbfd5b-resize-750.jpeg"> </div></p>
+                <p><img src=""> </div></p>
               <p> Language: Spanish <br/>
                 Publisher: University of the West Indies <br/>
                 Pub_location: St. Augustine, Trinidad & Tobago <br/>
@@ -65,7 +65,7 @@ permalink: /lking
             <div class="dot"></div>
             <div class="left">
                 <h1>Reflections at New Credit</h1><hr>
-                <p><img src="https://alchetron.com/cdn/lloyd-king-puzzle-designer-545d95c4-2c1e-4137-8379-1f551fbfd5b-resize-750.jpeg"></p>
+                <p><img src=""></p>
                <p> Language: Spanish <br/>
                 Publisher: University of the West Indies Press <br/>
                 Pub_location: St. Augustine, Trinidad & Tobago <br/>
