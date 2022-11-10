@@ -1,25 +1,23 @@
 ---
 layout: defaultau
-title: "Georges Sylvian"
-permalink: /gsylvian
+title: "Manuel Fernández"
+permalink: /mfernandez
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Georges Sylvian</h1>
+    <h1>Manuel Fernández</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://www.ecured.cu/images/4/42/Mylene1.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">  </p></div>
+            <div class="date right"><p class="right"> B. 1963 </p></div>
             <div class="dot"></div>
             <div class="left first">
-              <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation">  <p>Georges Sylvian is from <a href="http://localhost:4000/5"> Haiti.</a></p></div>
-              <div class="acreadmore">   <a href="#" target="_blank">Read more</a> </div>
-            </div>
+            <p>Manuel Fernández is from Haiti.</p>
+                <a href="https://eu.wikipedia.org/wiki/Mylene_Fern%C3%A1ndez_Pintado" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">

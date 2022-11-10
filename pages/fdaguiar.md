@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Fred D'Aguiar"
-permalink: /fd'aguiar
+permalink: /fdaguiar
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
