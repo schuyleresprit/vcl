@@ -7,7 +7,7 @@ permalink: /pkeensdouglas
 <div class="content">
     <h1>Paul Keens-Douglas</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://i0.wp.com/www.culture.gov.tt/wp-content/uploads/2015/06/MBM-2015_Paul-Keens-Douglas.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
