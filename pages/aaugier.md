@@ -23,7 +23,7 @@ permalink: /aaugier
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">1971</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Nicolas Guillen</h1><hr>
@@ -37,43 +37,55 @@ permalink: /aaugier
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
+                <h1>Prosa varia</h1><hr>
                 <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
+                <p>Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
                 Genre: <br/>
-                Length: </p>
+                Length: 499</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
+                <h1>Cuba en Darío y Darío en Cuba</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41-udspME7L._SY344_BO1,204,203,200_QL70_ML2_.jpg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Biography<br/>
+                Length: 339</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location:  <br/>
-                Genre: <br/>
-                Length: </p>
+                <h1>Todo el mar en la ola</h1><hr>
+                <p><img src="https://cloud10.todocoleccion.online/libros-segunda-mano/tc/2016/08/18/12/58605805.webp"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Unión de Escritores y Artistas de Cuba<br/>
+                Pub_location:  Havana, Cuba<br/>
+                Genre: Poetry Collection<br/>
+                Length: 118</p>
             </div>
+            </div>
+        <div class="block">
+            <div class="date right"><p class="right">2004</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Acercamientos a la poesía de Nicolás Guillén</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/519dwWjtKQL._SX373_BO1,204,203,200_.jpg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Pueblo y Educación<br/>
+                Pub_location:  Havana, Cuba<br/>
+                Genre: Biography<br/>
+                Length: 205</p>
         </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
