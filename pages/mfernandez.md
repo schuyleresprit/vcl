@@ -7,7 +7,7 @@ permalink: /mfernandez
 <div class="content">
     <h1>Manuel Fernández</h1>
     <div class="quote">
-        <div><img src="https://www.ecured.cu/images/4/42/Mylene1.jpg" class="logo"></div>
+        <div><img src="https://static3.elnortedecastilla.es/www/pre2017/multimedia/noticias/201004/19/Media/manuelfernandezalvarez300--253x180.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -16,8 +16,8 @@ permalink: /mfernandez
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Manuel Fernández is from Haiti.</p>
-                <a href="https://eu.wikipedia.org/wiki/Mylene_Fern%C3%A1ndez_Pintado" target="_blank">Read more</a>
+            <p>Manuel Fernández is from Portugal.</p>
+                <a href="https://en.wikipedia.org/wiki/Manuel_Fernández_Álvarez" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
