@@ -249,7 +249,7 @@ permalink: /pthobymarcelin
             <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>City Light Books</h1><hr>
+                <h1>The Beast of the Haitian Hills</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51mFAONzHwL.jpg"></p>
                 <p>
                 Language: English<br/>
