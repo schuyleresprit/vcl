@@ -15,9 +15,11 @@ permalink: /mfernandez
             <div class="date right"><p class="right"> B. 1963 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Manuel Fernández is from Haiti.</p>
-                <a href="https://eu.wikipedia.org/wiki/Mylene_Fern%C3%A1ndez_Pintado" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Manuel Fernández is from <a href="http://localhost:4000/2">Spain.</a></p></div>
+              <div class="acreadmore">  <a href="https://eu.wikipedia.org/wiki/Mylene_Fern%C3%A1ndez_Pintado" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
