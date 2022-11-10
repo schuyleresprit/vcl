@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Guyana"
-permalink: /62
+permalink: /21
 ---
 <div class="container-0">
     <div class="container-title">

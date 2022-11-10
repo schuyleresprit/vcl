@@ -16,7 +16,7 @@ permalink: /gmfenn
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>George Manville Fenn is from .</p>
+            <p>George Manville Fenn is from England.</p>
                 <a href="" target="_blank">Read more</a>
             </div>
         </div>
