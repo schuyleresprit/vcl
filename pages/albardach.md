@@ -23,43 +23,43 @@ permalink: /albardach
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1></h1><hr>
-                <p><img src=""></p>
+                <h1>Cuba Confidential: Love and Vengeance in Miami and Havana</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51wSWHwR8zL._SX316_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: , <br/>
-                Genre: <br/>
-                Length: </p>
+                Language: English<br/>
+                Publisher: Vintage books<br/>
+                Pub_location: New York, United States<br/>
+                Genre: Biography<br/>
+                Length: 423</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
+                <h1>Without Fidel a death foretold in Miami, Havana and Washington</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41znf3LMj7L._SY291_BO1,204,203,200_QL40_.jpg"></p>
                 <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
+                Publisher: Charles Scribner's Sons<br/>
+                Pub_location: New York, United States<br/>
+                Genre: Biography<br/>
+                Length: 328</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
+                <h1>Sin Fidel : los últimos años de Fidel Castro, sus enemigos y la sucesión del poder en Cuba</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51TtRsypdnL._SX322_BO1,204,203,200_.jpg"></p>
+                <p>Language: Spanish<br/>
+                Publisher: Vintage Español<br/>
+                Pub_location: New York, United States<br/>
+                Genre: Biography<br/>
+                Length: 487</p>
             </div>
         </div>
         <div class="block">
