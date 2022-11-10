@@ -69,9 +69,6 @@ a.navbar-brand {
   ::-webkit-scrollbar {
     display: none;
 }
-form.d-flex {
-    padding-left: 20px;
-}
 
 .col-sm-3 {
 	/*height:100%;
