@@ -14,9 +14,11 @@ permalink: /rmartinez
             <div class="date right"><p class="right"> B. 1962 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Rubén Martínez is from United States.</p>
-                <a href="https://en.wikipedia.org/wiki/Rub%C3%A9n_Mart%C3%ADnez_(writer)" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Rubén Martínez is from <a href="http://localhost:4000/1">United States.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Rub%C3%A9n_Mart%C3%ADnez_(writer)" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

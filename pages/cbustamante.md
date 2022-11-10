@@ -16,7 +16,7 @@ permalink: /cbustamante
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Cecilia Bustamante is from Indiana.</p>
+            <p>Cecilia Bustamante is from Peru.</p>
                 <a href="https://revistazularte.blogia.com/upload/20061024014348-ceciliabustamante.jpg" target="_blank">Read more</a>
             </div>
         </div>
