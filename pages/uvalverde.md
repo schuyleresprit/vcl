@@ -15,9 +15,11 @@ permalink: /uvalverde
             <div class="date right"><p class="right">B. 1947</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Umberto Valverde is from Colombia.</p>
-                <a href="https://es.wikipedia.org/wiki/Umberto_Valverde" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Umberto Valverde is from <a href="http://localhost:4000/66"> Colombia.</a></p></div>
+              <div class="acreadmore">  <a href="https://es.wikipedia.org/wiki/Umberto_Valverde" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
