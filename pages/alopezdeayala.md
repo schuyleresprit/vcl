@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Adelardo López de Ayala"
-permalink: /alópezdeayala
+permalink: /alopezdeayala
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
