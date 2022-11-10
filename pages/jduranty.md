@@ -7,12 +7,12 @@ permalink: /jduranty
 <div class="content">
     <h1>Jade Duranty</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="NA" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">  </p></div>
+            <div class="date right"><p class="right"> NA </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
@@ -30,7 +30,7 @@ permalink: /jduranty
                 Language: French<br/>
                 Publisher: Ibis Rouge<br/>
                 Pub_location: Matoury, French Guiana<br/>
-                Genre: Fiction<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: 141</p>
             </div>
         </div>
@@ -43,7 +43,7 @@ permalink: /jduranty
                 <p>Language: French<br/>
                 Publisher: Edilivre<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Fiction<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: </p>
             </div>
         </div>
@@ -56,7 +56,7 @@ permalink: /jduranty
                 <p>Language:French<br/>
                 Publisher: Edilivre<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Fiction<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: 108</p>
             </div>
         </div>
@@ -68,7 +68,8 @@ permalink: /jduranty
                 <p><img src=""></p>
                 <p>Language: French<br/>
                 Publisher: Auzou1<br/>
-                Pub_location:  Bassoues,
+                Pub_location:  Bassoues, France<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: 32</p>
             </div>
         </div>
