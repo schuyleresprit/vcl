@@ -116,7 +116,7 @@ permalink: /mcélieagnant
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Le Noël de Maïté</h1><hr>
@@ -130,7 +130,7 @@ permalink: /mcélieagnant
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2022</p></div>
+            <div class="date left"><p class="left">2022</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>A knife in the sky</h1><hr>
