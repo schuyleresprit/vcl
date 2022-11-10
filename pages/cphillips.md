@@ -80,7 +80,7 @@ permalink: /cphillips
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Final Passage</h1><hr>
-                <p><img src="[https://images-na.ssl-images-amazon.com/images/I/413SW406TQL.jpg](https://covers.openlibrary.org/b/id/8128451-L.jpg)"></p>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+17144866_140.jpg?allowDefault=false&client=WorldcatOrgUI"></p>
                 <p>Language: English<br/>
                 Publisher: Faber and Faber<br/>
                 Pub_location:  London, England<br/>
