@@ -75,6 +75,19 @@ permalink: /cphillips
                 Length: </p>
             </div>
         </div>
+        <div class="block">
+            <div class="date right"><p class="right">1985</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>The Final Passage</h1><hr>
+                <p><img src="[https://images-na.ssl-images-amazon.com/images/I/413SW406TQL.jpg](https://covers.openlibrary.org/b/id/8128451-L.jpg)"></p>
+                <p>Language: English<br/>
+                Publisher: Faber and Faber<br/>
+                Pub_location:  London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 208</p>
+            </div>
+        </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
