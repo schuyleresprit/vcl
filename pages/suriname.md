@@ -17,7 +17,7 @@ permalink: /43
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://3.bp.blogspot.com/-W-Kq5BTGarU/T8PeDY12vcI/AAAAAAAARj0/ozeC4dzgT20/s400/Paul+Marlee.jpg">
+       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
