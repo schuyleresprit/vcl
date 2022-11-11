@@ -39,7 +39,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>This Planet Earth</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.com/books/content?id=-VoYjCDiTYwC&printsec=frontcover&img=1&zoom=1"></p>
                 <p>Language: English<br/>
                 Publisher: Borealis Press<br/>
                 Pub_location: Toronto, ON, Canada<br/>
@@ -52,7 +52,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Heart's Frame: Poems</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=72EIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72IKn2EzNpY_icExc9WW0RQYYEgJ0AOztK8zCYUOl8eWhFakGMoiGcivUlAMJHmsAuk1DjIaG0tgVOlhzhptoKhv_QSzwhb_RCEHjj5weZAiPrnfr7M2gCPUvXqOmXy5tvrqYDP"></p>
                 <p>Language: English<br/>
                 Publisher: Vesta Publications Limited<br/>
                 Pub_location: NA<br/>
@@ -65,7 +65,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Still Close to the Island</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394326350i/21317672._UY475_SS475_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Commoner's Pub.<br/>
                 Pub_location: Ottawa, ON, Canada<br/>
@@ -78,7 +78,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Elephants make good stepladders</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41pe2uv79JL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Third Eye<br/>
                 Pub_location: NA<br/>
@@ -91,7 +91,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Wizard Swami</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41o4eXEC62L.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -104,7 +104,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Islands Lovelier than a Vision</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9780948833021_0.jpg?itok=ciCXse4U"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -117,7 +117,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>To Monkey Jungle</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://s.gr-assets.com/assets/nophoto/book/blank-133x176-8b769f39ba6687a82d2eef30bdf46977.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Third Eye<br/>
                 Pub_location: NA<br/>
@@ -130,7 +130,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Wizard Swami</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41o4eXEC62L.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -143,7 +143,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Dark Swirl</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ynX2nIc5L._SX317_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -156,7 +156,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Coastland: New and Selected Poems, 1973-1989</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71JbN+s4gbL.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Mosaic Pr<br/>
                 Pub_location: Beverly Hills, CA, United States<br/>
@@ -169,7 +169,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Jogging in Havana</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322209l/4164343.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Mosaic Pr<br/>
                 Pub_location: Beverly Hills, CA, United States<br/>
@@ -182,7 +182,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Sometimes Hard</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.shenyunperformingarts.org/data/image/original/2015/02/05/f3a4ff4839c56a5f460c88cce3666a2b.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Pearson Schools<br/>
                 Pub_location: London, England<br/>
@@ -195,7 +195,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Stoning the wind</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41MsEdZ1XIL._SX325_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: TSAR Publications<br/>
                 Pub_location: Toronto, ON, Canada<br/>
@@ -208,7 +208,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Berbice Crossing: And Other Stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41KY4ZQ7FKL.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -221,7 +221,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Born in Amazonia</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9780889625983-us.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Mosaic Pr<br/>
                 Pub_location: Beverly Hills, CA, United States<br/>
@@ -234,7 +234,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Black Jesus and other stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51D3mnws5jL._SX334_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: TSAR Publications<br/>
                 Pub_location: Toronto, ON, Canada<br/>
@@ -247,7 +247,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Discussing Columbus</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328766291l/3640568.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -260,7 +260,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Goatsong</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.shenyunperformingarts.org/data/image/original/2015/02/05/f3a4ff4839c56a5f460c88cce3666a2b.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Mosaic Pr<br/>
                 Pub_location: Beverly Hills, CA, United States<br/>
@@ -273,7 +273,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>My Brahmin days, and other stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-Bs9T7omL.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: TSAR Publications<br/>
                 Pub_location: Toronto, ON, Canada<br/>
@@ -287,7 +287,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>North of the Equator</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366276713l/4957840.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Dundurn<br/>
                 Pub_location: Dundurn, Canada<br/>
@@ -300,7 +300,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Hemisphere of love</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347250958l/3089338.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: TSAR Publications<br/>
                 Pub_location: Toronto, ON, Canada<br/>
@@ -313,7 +313,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Imaginary Origins</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41B27X4GV1L.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -326,7 +326,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Play A Song Somebody</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/517KANJQ64L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Mosaic Pr<br/>
                 Pub_location: Beverly Hills, CA, United States<br/>
@@ -339,7 +339,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Drums of My Flesh</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41B27X4GV1L.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: TSAR Publications<br/>
                 Pub_location: Toronto, ON, Canada<br/>
@@ -352,7 +352,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Uncharted heart</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.borealispress.com/covers/848_04_9780888873521.cover.front.large.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Borealis Press<br/>
                 Pub_location: Toronto, ON, Canada<br/>
@@ -365,7 +365,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right hide">
                 <h1>God's Spider</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435187815l/25404401._SY475_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -378,7 +378,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="left hide">
                 <h1>My Undiscovered Country</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504939932i/36206291._UY630_SR1200,630_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Mosaic Pr<br/>
                 Pub_location: Beverly Hills, CA, United States<br/>
