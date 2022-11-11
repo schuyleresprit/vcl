@@ -7,7 +7,7 @@ permalink: /fcarco
 <div class="content">
     <h1>Francis Carco</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Francis_Carco_1930.jpg" class="logo"></div>
+        <div><img src="https://www.bing.com/th?id=ODL.3efc144bca914cea4ccc2b7da143a725&w=298&h=204&c=12&rs=1&qlt=99&pcl=faf9f7&o=6&pid=13.1" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
