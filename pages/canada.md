@@ -33,7 +33,7 @@ permalink: /24
  <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://stephaniemaymckenzie.com/wp-content/uploads/2018/09/photoforwebsite_stephanie.jpg" width="50%" height="50%">
+          <img src="https://roommagazine.com/wp-content/uploads/2015/11/stephaniemckenzie.png" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
