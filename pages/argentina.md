@@ -7,7 +7,7 @@ permalink: /45
     <div class="container-title">
         <span class="country"><h2>Argentina</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/r/w960-q80/upload/b0/d6/2e/ar-01.png" height="20%">
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/b0/d6/2e/ar-01.png" width="50%">
     </div>
 </div>
 <!-- partial:index.partial.html -->
