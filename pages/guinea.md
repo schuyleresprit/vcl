@@ -17,7 +17,7 @@ permalink: /57
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://www.africaguinee.com/sites/default/files/field/image/sekou_toure.jpg" width="70%" height="50%">
+          <img src="https://usafrikagov.com/wp-content/uploads/2020/11/67903_GettyImages56229330_1575642131857.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
