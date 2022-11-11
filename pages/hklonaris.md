@@ -23,11 +23,11 @@ permalink: /hklonaris
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1992</p></div>
+            <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>WomanSpeak : a collection of creative expressions</h1><hr>
-                <p><img src=""></p>
+                <h1>WomanSpeak : A Collection of Creative Expressions</h1><hr>
+                <p><img src="https://assets.lulu.com/cover_thumbs/1/q/1qzqyezv-ebook-shortedge-384.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: WomenSpeak Press<br/>
@@ -41,7 +41,7 @@ permalink: /hklonaris
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Cowboy</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://kbimages1-a.akamaihd.net/1ac04915-4ede-4180-8e8f-3f0cdbe04a5c/1200/1200/False/cowboy-16.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Dundurn Press<br/>
                 Pub_location: Toronto, Canada<br/>
@@ -54,7 +54,7 @@ permalink: /hklonaris
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Writing The Walls Down: A Convergence Of LGBTQ Voices</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51vj0xX0GhL._SX321_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Trans-Genre Press<br/>
                 Pub_location: Chapel Hill, NC,United States <br/>
@@ -67,7 +67,7 @@ permalink: /hklonaris
             <div class="dot"></div>
             <div class="left hide">
                 <h1>If I Had the Wings: Short Stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490875978l/34524853._SY475_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press <br/>
                 Pub_location:  Leeds, LDN, England <br/>
