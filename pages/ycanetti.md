@@ -128,7 +128,7 @@ permalink: /ycanetti
                 Publisher Location: Leon, Spain<br>
                 Genre: Fiction<br>
                 Length: 31<br>
-                Co-author: Teresa Herrero/p>
+                Co-author: Teresa Herrero</p>
             </div>
         </div>
 	      <div class="block">
@@ -156,7 +156,7 @@ permalink: /ycanetti
                 Publisher Location: London, England<br>
                 Genre: Fiction<br>
                 Length: 24<br>
-                Co-author: Patrice Aggs/p>
+                Co-author: Patrice Aggs</p>
             </div>
         </div>
 	       <div class="block">
