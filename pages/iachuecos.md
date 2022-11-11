@@ -27,7 +27,7 @@ permalink: /iachuecos
             <div class="dot"></div>
             <div class="right">
                 <h1>La Novelística de Alejo Carpentier y Sus Claves Musicales</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.elargonauta.com/media/img/portadas/74473.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Academia del Hispanismo<br/>
