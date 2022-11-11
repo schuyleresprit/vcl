@@ -25,7 +25,7 @@ permalink: /mpbarton-romeo
             <div class="dot"></div>
             <div class="right">
                 <h1>Prisoners : life is a virtual prison, choose your prison before one chooses you!</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51hf4n7WeWL.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Cambridge University Press<br/>
