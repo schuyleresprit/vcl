@@ -25,13 +25,13 @@ permalink: /cmmarias
             <div class="dot"></div>
             <div class="right">
                 <h1>Studying New World Negro Problems Open Double Consciousness And Mulatinidad In Edwidge Danticat's The Farming Of Bones</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/9/92/Clrjamescover1.gif"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Caribbean Philosophical Association<br/>
                 Pub_location: Mona, Jamaica<br/>
                 Genre: Nonfiction Book<br/>
-                Length: NA</p>
+                Length: 123-153</p>
             </div>
         </div>
         <div id="footer">

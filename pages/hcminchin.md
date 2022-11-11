@@ -15,9 +15,11 @@ permalink: /hcminchin
             <div class="date right"><p class="right"> 1894 - 1966 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Humphrey Cotton Minchin is from Britain.</p>
-                <a href="https://www.wikidata.org/wiki/Q75800101" target="_blank">Read more</a>
+            <div class="aclocation"><p>Humphrey Cotton Minchin is from <a href="http://localhost:4000/11">England.</a></p></div>
+            <div class="acreadmore">    <a href="https://www.wikidata.org/wiki/Q75800101" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

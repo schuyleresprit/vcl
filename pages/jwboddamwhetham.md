@@ -25,13 +25,13 @@ permalink: /jwboddamwhetham
             <div class="dot"></div>
             <div class="right">
                 <h1>Roraima and British Guiana: With a Glance at Bermuda, the West Indies, and the Spanish Main</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51E4527XGuL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Hurst and Blackett<br/>
                 Pub_location: London, England<br/>
                 Genre: NonFiction Book<br/>
-                Length: NA</p>
+                Length: 380</p>
             </div>
         </div>
         <div id="footer">
