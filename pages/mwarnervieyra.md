@@ -7,7 +7,7 @@ permalink: /mwarnervieyra
 <div class="content">
     <h1>Myriam Warner-Vieyra</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="http://ile-en-ile.org/wp-content/uploads/2003/10/warner-vieyra.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
