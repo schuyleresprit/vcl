@@ -15,9 +15,11 @@ permalink: /psylvain
             <div class="date right"><p class="right"> </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Patrick Sylvain is from Haiti.</p>
-                <a href="https://ht.wikipedia.org/wiki/Patrick_Sylvain" target="_blank">Read more</a>
+            <div class="aclocation"> <p>Patrick Sylvain is from<a href="http://localhost:4000/5"> Haiti.</a></p></div>
+              <div class="acreadmore">  <a href="https://ht.wikipedia.org/wiki/Patrick_Sylvain" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
