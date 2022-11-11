@@ -1,11 +1,11 @@
 ---
 layout: defaultau
-title: "Roberto Fernandez Retamar Caliban"
-permalink: /rfcaliban
+title: "Roberto Fernandez Retamar"
+permalink: /rfretamar
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Roberto Fernandez Retamar Caliban</h1>
+    <h1>Roberto Fernandez Retamar </h1>
     <div class="quote">
         <div><img src="https://www.ecured.cu/images/b/b4/Roberto_Fernandez_Retamar.jpg" class="logo"></div>
     </div>
@@ -16,7 +16,7 @@ permalink: /rfcaliban
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Roberto Fernandez Retamar Caliban is from Haiti.</p>
+            <p>Roberto Fernandez Retamar is from Haiti.</p>
                 <a href="https://en.wikipedia.org/wiki/Roberto_Fernández_Retamar" target="_blank">Read more</a>
             </div>
         </div>
