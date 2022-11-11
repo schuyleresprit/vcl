@@ -7,7 +7,7 @@ permalink: /mdcarrión
 <div class="content">
     <h1> Miguel de Carrión</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="http://bnjm.cu/img/noticias/2020/9/6/miguel%20de%20carrion.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -25,7 +25,7 @@ permalink: /mdcarrión
             <div class="dot"></div>
             <div class="right">
                 <h1>El Milagro y la Esfinge</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/81kjCLblpxL.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Mercaderes<br/>
