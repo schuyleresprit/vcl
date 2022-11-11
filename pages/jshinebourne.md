@@ -15,9 +15,11 @@ permalink: /jshinebourne
             <div class="date right"><p class="right"> B. 1947 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Janice Shinebourne is from Guyana.</p>
-                <a href="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Jan%20Lowe%20Shinebourne.jpg" target="_blank">Read more</a>
+            <div class="aclocation"><p>Janice Shinebourne is from <a href="http://localhost:4000/62">  Guyana.</a></p></div>
+            <div class="acreadmore">    <a href="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Jan%20Lowe%20Shinebourne.jpg" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
