@@ -15,9 +15,11 @@ permalink: /ycanetti
             <div class="date right"><p class="right">B. 1967 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Yanitzia Canetti is from Cuba.</p>
-                <a href="https://en.wikipedia.org/wiki/Yanitzia_Canetti" target="_blank">Read more</a>
+            <div class="aclocation"><p>Yanitzia Canetti is from <a href="http://localhost:4000/14"> Cuba.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Yanitzia_Canetti" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -131,7 +133,7 @@ permalink: /ycanetti
                 Co-author: Teresa Herrero</p>
             </div>
         </div>
-	      <div class="block">
+	<div class="block">
             <div class="date left"><p class="left hide">2012</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -142,10 +144,10 @@ permalink: /ycanetti
                 Publisher Location: New York, United States<br>
                 Genre: Fiction<br>
                 Length: 32<br>
-		            Original Publication Date: 2009</p>
+		Original Publication Date: 2009</p>
             </div>
         </div>
-	       <div class="block">
+	<div class="block">
             <div class="date right"><p class="right hide">2014</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -159,7 +161,7 @@ permalink: /ycanetti
                 Co-author: Patrice Aggs</p>
             </div>
         </div>
-	       <div class="block">
+	<div class="block">
             <div class="date left"><p class="left hide">2020</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -170,10 +172,11 @@ permalink: /ycanetti
                 Publisher Location: New York, United States<br>
                 Genre: Fiction<br>
                 Length: 32<br>
-	             	Co-author: Micha Archer</p>
+		Co-author: Micha Archer</p>
             </div>
         </div>
-    <div style="padding-bottom:100px;"></div>
+
+        <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
