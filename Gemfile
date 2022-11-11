@@ -14,5 +14,5 @@ group :jekyll_plugins do
   gem "webrick"
 end
 
-gem "gem", "~> 0.0.1.alpha"
+#gem "gem", "~> 0.0.1.alpha"
 gem "wdm", "~> 0.1.1"
