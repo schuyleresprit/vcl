@@ -13,12 +13,12 @@
 	<script>
 		let datasets = [
 			{
-				"type" : "pub_id",
+				"type" : "Pub_Location",
 				"url" : "/data/publications.json"
 			}
 		];
-
 		var dataLinks = [];
+
 
 		$( document ).ready(function() {
 			for (i = 0; i < datasets.length; i++) {
@@ -46,7 +46,7 @@
 
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "publishers":]
+					case "authors":]
 						for (key in data) {
 							temp.push({
 								"flavorText" : data[key]["Publisher"],
