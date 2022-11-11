@@ -27,7 +27,7 @@ permalink: /lcazal
             <div class="dot"></div>
             <div class="right">
                 <h1>Une Journée Miklon: Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://media.electre-ng.com/images/image-id/88b30e5f751eb3e2e4b9324e09140d47b36fcb3c87fa256362bc47a8f7949c90.jpg"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Ibis Rouge<br/>
