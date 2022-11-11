@@ -4,7 +4,7 @@ title: " Lloyd King"
 permalink: /lking
 ---
 <div class="content">
-    <h1>Josie Peterson</h1>
+    <h1>Lloyd King</h1>
     <div class="quote">
         <div><img src="https://alchetron.com/cdn/lloyd-king-puzzle-designer-545d95c4-2c1e-4137-8379-1f551fbfd5b-resize-750.jpeg" class="logo"></div>
     </div>
