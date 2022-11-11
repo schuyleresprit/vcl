@@ -10,7 +10,12 @@
   // Positioning context for the mobile navigation icon
   position: relative;
 }
- 
+
+.content {
+    margin-top: -2.3% !important;
+
+  }
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
