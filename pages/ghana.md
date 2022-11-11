@@ -1,13 +1,13 @@
 ---
 layout: defaultauco
-title: "Guinea"
-permalink: /57
+title: "Ghana"
+permalink: /25
 ---
 <div class="container-0">
     <div class="container-title">
-        <span class="country"><h2>Guinea</h2></span>
+        <span class="country"><h2>Ghana</h2></span>
         <div class="photo-co">
-          <img src="https://www.worldatlas.com/r/w960-q80/upload/0c/60/62/gn-01.jpg" >
+          <img src="https://www.worldatlas.com/r/w960-q80/upload/d2/cd/62/gh-01.jpg" >
     </div>
 </div>
 <!-- partial:index.partial.html -->
@@ -17,7 +17,7 @@ permalink: /57
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://www.africaguinee.com/sites/default/files/field/image/sekou_toure.jpg" width="70%" height="50%">
+          <img src="ttps://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Margaret_Busby_-_2019-02-12_-_Andy_Mabbett_-_03.jpg/330px-Margaret_Busby_-_2019-02-12_-_Andy_Mabbett_-_03.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -25,7 +25,7 @@ permalink: /57
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/stoure">Sékou Touré</a></h4>
+            <h4><a href="/mbusby">Margaret Busby</a></h4>
           </a>
         </div>
       </div>
