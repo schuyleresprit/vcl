@@ -17,7 +17,7 @@ permalink: /47
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://th.bing.com/th/id/OIP.ssXrJgG-VCiON9bFxZH1kwHaF0?pid=ImgDet&w=180&h=180&c=7">
+          <img src="https://th.bing.com/th/id/OIP.ssXrJgG-VCiON9bFxZH1kwHaF0?pid=ImgDet&w=228&h=179.37062937062936&c=7">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
