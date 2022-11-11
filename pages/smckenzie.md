@@ -7,7 +7,7 @@ permalink: /smckenzie
 <div class="content">
     <h1>Stephanie McKenzie</h1>
     <div class="quote">
-        <div><img src="https://roommagazine.com/wp-content/uploads/2015/11/stephaniemckenzie.png"></div>
+        <div><img src="https://roommagazine.com/wp-content/uploads/2015/11/stephaniemckenzie.png" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
