@@ -43,7 +43,7 @@ permalink: /30
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/carias">Claudia M. Milian Arias</a></h4>
+         <h4><a href="/cmmarias">Claudia M. Milian Arias</a></h4>
        </a>
      </div>
    </div>

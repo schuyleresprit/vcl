@@ -7,7 +7,7 @@ permalink: /evega
 <div class="content">
     <h1>Eddie Vega</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://m.media-amazon.com/images/I/61PAeWsg4jL._SX450_.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
