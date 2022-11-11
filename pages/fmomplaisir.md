@@ -27,7 +27,7 @@ permalink: /fmomplaisir
             <div class="dot"></div>
             <div class="right">
                 <h1>My Mother's House</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564200073l/49959234.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Vintage Books<br/>
@@ -41,7 +41,7 @@ permalink: /fmomplaisir
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Garden Of Broken Things</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.pinimg.com/736x/e8/6f/cc/e86fcc799767c7437cd41a13974891c4.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Alfred A. Knopf<br/>
                 Pub_location: New York, NY, United States<br/>
