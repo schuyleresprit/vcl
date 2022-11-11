@@ -15,9 +15,11 @@ permalink: /lmstanley
             <div class="date right"><p class="right"> B. 1944 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Lyne-Marie Stanley is from French Guiana.</p>
-                <a href="https://fr.wikipedia.org/wiki/Lyne-Marie_Stanley" target="_blank">Read more</a>
+            <div class="aclocation"><p>Lyne-Marie Stanley is from<a href="http://localhost:4000/28"> French Guiana.</a></p></div>
+                <div class="acreadmore">   <a href="https://fr.wikipedia.org/wiki/Lyne-Marie_Stanley" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

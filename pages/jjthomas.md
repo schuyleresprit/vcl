@@ -7,7 +7,7 @@ permalink: /jjthomas
 <div class="content">
     <h1>John Jacob Thomas</h1>
     <div class="quote">
-        <div><img src="https://www.marche-poesie.com/wp-content/uploads/2020/07/evelyne-trouillot-2.jpg" class="logo"></div>
+        <div><img src="https://manybooks.net/sites/default/files/styles/220x330sc/public/author-images/ai-thomasjj.jpg?itok=D81tSZpo.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
