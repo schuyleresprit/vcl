@@ -15,9 +15,11 @@ permalink: /cmmarias
             <div class="date right"><p class="right"> 1887-1961 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Claudia M Milian Arias is from El Salvador.</p>
-                <a href="https://en.wikipedia.org/wiki/Claudia_Millian" target="_blank">Read more</a>
+            <div class="aclocation"><p>Claudia M Milian Arias is from <a href="http://localhost:4000/30">El Salvador.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Claudia_Millian" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
