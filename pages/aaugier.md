@@ -7,7 +7,7 @@ permalink: /aaugier
 <div class="content">
     <h1>Ángel Augier</h1>
     <div class="quote">
-        <div><img src="https://www.marche-poesie.com/wp-content/uploads/2020/07/evelyne-trouillot-2.jpg" class="logo"></div>
+        <div><img src="https://www.cubaplusmagazine.com/img/articulos/15/12--angel-charles-chaplin-2.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
