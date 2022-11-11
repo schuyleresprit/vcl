@@ -20,8 +20,7 @@ permalink: /mmcwatt
                 <a href="https://en.wikipedia.org/wiki/Mark_McWatt" target="_blank">Read more</a>
             </div>
         </div>
-
-         <div class="block">
+        <div class="block">
             <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -50,7 +49,6 @@ permalink: /mmcwatt
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2017</p></div>
             <div class="dot"></div>
@@ -62,13 +60,9 @@ permalink: /mmcwatt
                 Publisher: Hodder Education<br/>
                 Publisher Location: London, England<br/>
                 Genre: Poetry Collection<br/>
-                Length: 
-   
-                 </p>
+                Length: 224</p>
             </div>
         </div>
-
- 
         <div class="block">
             <div class="date right"><p class="right hide">2017</p></div>
             <div class="dot"></div>
@@ -80,13 +74,9 @@ permalink: /mmcwatt
                 Publisher: Hodder Education<br/>
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
-                Length: 240
-
-                 </p>
-
+                Length: 240</p>
             </div>
         </div>
-
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
