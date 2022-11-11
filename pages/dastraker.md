@@ -15,9 +15,11 @@ permalink: /dastraker
             <div class="date right"><p class="right"> B. 1955 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> D. Augustus Straker is from Barbados.</p>
-                <a href="https://en.wikipedia.org/wiki/D._Augustus_Straker">Read more</a>
+          <div class="aclocation">  <p> D. Augustus Straker is from <a href="http://localhost:4000/12">Barbados.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/D._Augustus_Straker">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
