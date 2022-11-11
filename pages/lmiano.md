@@ -7,7 +7,7 @@ permalink: /lmiano
 <div class="content">
     <h1>Léonora Miano</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leonora_Miano_20100328_Salon_du_livre_de_Paris_2.jpg/" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leonora_Miano_20100328_Salon_du_livre_de_Paris_2.jpg/260px-Leonora_Miano_20100328_Salon_du_livre_de_Paris_2.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
