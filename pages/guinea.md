@@ -17,7 +17,7 @@ permalink: /57
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://th.bing.com/th/id/OIP.2jrsf4mApD3u8EnuyQNNLQAAAA?pid=ImgDet&rs=1">
+          <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/10/sekou.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
