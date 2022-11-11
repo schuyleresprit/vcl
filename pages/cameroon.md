@@ -17,7 +17,7 @@ permalink: /47
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leonora_Miano_20100328_Salon_du_livre_de_Paris_2.jpg/260px-Leonora_Miano_20100328_Salon_du_livre_de_Paris_2.jpg">
+          <img src="https://th.bing.com/th/id/OIP.ssXrJgG-VCiON9bFxZH1kwHaF0?pid=ImgDet&w=180&h=180&c=7">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
