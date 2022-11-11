@@ -17,7 +17,7 @@ permalink: /47
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://th.bing.com/th/id/OIP.ssXrJgG-VCiON9bFxZH1kwHaF0?pid=ImgDet&w=228&h=179.37062937062936&c=7">
+          <img src="https://img.lemde.fr/2017/04/25/0/0/4912/7360/664/0/75/0/33bbce2_29564-wp8kqa.07bob0rudi.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
