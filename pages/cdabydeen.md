@@ -25,7 +25,7 @@ permalink: /cdabydeen
             <div class="dot"></div>
             <div class="right">
                 <h1>Distances</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/01nL-gtn6gL._BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Fiddlehead Poetry Books<br/>
