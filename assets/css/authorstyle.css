@@ -53,6 +53,7 @@ body {
   perspective: 1000;
 }
 .content {
+  margin-top: -25px !important;
   position: relative;
   ont-family: "Roboto", "Montserrat", "Arial", sans-serif;
   width: 100%;

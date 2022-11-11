@@ -7,7 +7,7 @@ permalink: /hsladoo
 <div class="content">
     <h1>Harold Sonny Ladoo</h1>
     <div class="quote">
-        <div><img src="https://www.marche-poesie.com/wp-content/uploads/2020/07/evelyne-trouillot-2.jpg" class="logo"></div>
+        <div><img src="https://repeatingislands.files.wordpress.com/2020/10/screen-shot-2020-10-26-at-4.27.37-pm.png" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -15,9 +15,11 @@ permalink: /hsladoo
             <div class="date right"><p class="right"> 1954 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Harold Sonny Ladoo is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Évelyne_Trouillot" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Harold Sonny Ladoo is from<a href="http://localhost:4000/3"> Trinidad and Tobago.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Évelyne_Trouillot" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

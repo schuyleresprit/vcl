@@ -30,13 +30,12 @@ permalink: /jbreeze
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451379761l/3197241._SY475_.jpg" ></p>
                 <p>
                 Language: English <br/>
-                Publisher: Race Today Publications			 <br/>
+                Publisher: Race Today Publications<br/>
                 Pub_location: London, England <br/>
                 Genre: Poetry Collection <br/>
                 Length: 71 <br/>                   </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1997</p></div>
             <div class="dot"></div>
@@ -65,7 +64,6 @@ permalink: /jbreeze
                 Length: 192 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2016</p></div>
             <div class="dot"></div>

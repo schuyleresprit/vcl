@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: " J.W. Boddam-Whetham"
-permalink: /jwboddamwhetham
+title: "Marie Evelyn"
+permalink: /mevelyn
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1> J.W. Boddam-Whetham</h1>
+    <h1>Marie Evelyn</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://i0.wp.com/2.bp.blogspot.com/-mt73AREIaMA/V1rhK6byrcI/AAAAAAAADVg/hcZik5OmLAgif-ElQYb9mMaM5-IBlKtagCLcB/s1600/13335710_1035585969860272_7426307553638569245_n.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -16,22 +16,22 @@ permalink: /jwboddamwhetham
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p> J.W. Boddam-Whetham is from England.</p>
+            <p>Marie Evelyn is from United States.</p>
                 <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1879</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Roraima and British Guiana: With a Glance at Bermuda, the West Indies, and the Spanish Main</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51E4527XGuL._SX331_BO1,204,203,200_.jpg"></p>
+                <h1>The Turtle Run</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464705915i/28330185.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Hurst and Blackett<br/>
-                Pub_location: London, England<br/>
-                Genre: NonFiction Book<br/>
-                Length: 380</p>
+                Publisher: Accent Press<br/>
+                Pub_location: Cardiff, Wales<br/>
+                Genre: Fiction<br/>
+                Length: 386</p>
             </div>
         </div>
         <div id="footer">

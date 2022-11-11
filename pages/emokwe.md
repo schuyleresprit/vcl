@@ -27,7 +27,7 @@ permalink: /emokwe
             <div class="dot"></div>
             <div class="right">
                 <h1>Le Roman Antillais Contemporain: Une Écriture De L’enracinement Et De L’ouverture</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/31dE+s7oaTL._SX344_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Lincom Gmbh<br/>

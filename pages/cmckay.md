@@ -17,9 +17,9 @@ permalink: /cmckay
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Claude McKay is from <a href="http://localhost:4000/4">Jamaica.</a></p>
-          </div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a> </div>
+            <div class="aclocation"><p>Claude McKay is from <a href="http://localhost:4000/4"> Jamaica.</a></p>
+            </div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
@@ -38,7 +38,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1928</p></div>
             <div class="dot"></div>
@@ -70,7 +69,6 @@ permalink: /cmckay
                 </p>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1930</p></div>
             <div class="dot"></div>
@@ -86,7 +84,6 @@ permalink: /cmckay
                 Length: 281 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1931</p></div>
             <div class="dot"></div>
@@ -102,7 +99,6 @@ permalink: /cmckay
                 Length: 314 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1932</p></div>
             <div class="dot"></div>
@@ -119,8 +115,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
-
         <div class="block">
             <div class="date left"><p class="left hide">1933</p></div>
             <div class="dot"></div>
@@ -136,7 +130,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1934</p></div>
             <div class="dot"></div>
@@ -168,7 +161,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1951</p></div>
             <div class="dot"></div>
@@ -199,7 +191,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1965</p></div>
             <div class="dot"></div>
@@ -230,7 +221,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1973</p></div>
             <div class="dot"></div>
@@ -261,7 +251,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1987</p></div>
             <div class="dot"></div>
@@ -292,7 +281,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2014</p></div>
             <div class="dot"></div>
@@ -324,7 +312,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2018</p></div>
             <div class="dot"></div>
@@ -356,7 +343,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2020</p></div>
             <div class="dot"></div>
@@ -387,7 +373,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2021</p></div>
             <div class="dot"></div>
@@ -418,7 +403,6 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2022</p></div>
             <div class="dot"></div>

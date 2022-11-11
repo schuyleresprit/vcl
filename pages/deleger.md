@@ -15,9 +15,11 @@ permalink: /deleger
             <div class="date right"><p class="right"> 1971 </p></div>
             <div class="dot"></div>
             <div class="left first">
+              <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Dimitry Elias Léger is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Dimitry_Elias_Léger" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Dimitry Elias Léger is from <a href="http://localhost:4000/5">Haiti.</a></p></div>
+            <div class="acreadmore">    <a href="https://en.wikipedia.org/wiki/Dimitry_Elias_Léger" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

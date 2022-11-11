@@ -15,9 +15,11 @@ permalink: /fdaguiar
             <div class="date right"><p class="right"> 1960 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Fred D'Aguiar is from Guyana.</p>
-                <a href="https://en.wikipedia.org/wiki/Fred_D%27Aguiar" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Fred D'Aguiar is from <a href="http://localhost:4000/62">Guyana.</a></p></div>
+                <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Fred_D%27Aguiar" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

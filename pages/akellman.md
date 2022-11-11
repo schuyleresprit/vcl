@@ -15,13 +15,15 @@ permalink: /akellman
             <div class="date right"><p class="right"> B. 1955 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Anthony Kellman is from Barbados.</p>
-                <a href="https://en.wikipedia.org/wiki/Anthony_Kellman">Read more</a>
+          <div class="aclocation">   <p> Anthony Kellman is from <a href="http://localhost:4000/12">Barbados.</a></p></div>
+            <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Anthony_Kellman">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1982</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>In Depths of Burning Light </h1><hr>
@@ -36,9 +38,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1984</p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>The Broken Sun</h1><hr>
                 <p><img src="http://ocmsites.org/news/wp-content/uploads/sites/15/2015/06/Anthony-Kellman-press-photo-012609-216x300.gif"></p>
                 <p>
@@ -51,9 +53,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>Watercourse</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41MNNDARBYL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -66,9 +68,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1992</p></div>
+            <div class="date right"><p class="right hide">1992</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Crossing water : contemporary poetry of the English-speaking Caribbean</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1do6kZlgMyB5N-8xNCV8srojhM-wVPVht0GVj1i-tRoiIWjIr"></p>
                 <p>
@@ -81,7 +83,7 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1994</p></div>
+            <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>The Coral Rooms </h1><hr>
@@ -96,9 +98,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1996</p></div>
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>The Long Gap</h1><hr>
                 <p><img src="http://ocmsites.org/news/wp-content/uploads/sites/15/2015/06/Anthony-Kellman-press-photo-012609-216x300.gif"></p>
                 <p>
@@ -111,9 +113,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>Watercourse</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/311KW1GCMRL._SX308_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -126,9 +128,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2001</p></div>
+            <div class="date right"><p class="right hide">2001</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Wings Of A Stranger</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51xKBBZZXmL._SX341_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -141,9 +143,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2008</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>Limestone: An Epic Poem of Barbados</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51Od5R3+jxL._SX320_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -156,9 +158,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2012</p></div>
+            <div class="date right"><p class="right hide">2012</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>South Eastern Stages</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51UaMHC9LnL._SX324_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -171,9 +173,9 @@ permalink: /akellman
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>Tracing JaJa</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51o0XXDmmTL.jpg"></p>
                 <p>

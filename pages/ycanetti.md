@@ -46,7 +46,6 @@ permalink: /ycanetti
                 Publisher Location: Boston, MA, United States<br>
                 Genre: Fiction<br>
                 Length: 48<br>
-                </p>
             </div>
         </div>
         <div class="block">
@@ -62,8 +61,9 @@ permalink: /ycanetti
                 Genre: Fiction<br>
                 Length: 32<br>
                 Wikipedia Entry: https://en.wikipedia.org/wiki/Yanitzia_Canetti<br>
-                Co-authors: Angeles Peinador<br></p>
+                Co-authors: Angeles Peinador<br>
             </div>
+        </div>
         </div><div class="block">
             <div class="date right"><p class="right hide">2009</p></div>
             <div class="dot"></div>
@@ -74,7 +74,7 @@ permalink: /ycanetti
                 Publisher: Scholastic Inc.<br>
                 Publisher Location: New York, United States<br>
                 Genre: Fiction<br>
-                Length: 32<br></p>
+                Length: 32<br>
             </div>
         </div>
         <div class="block">
@@ -87,7 +87,7 @@ permalink: /ycanetti
                 Publisher: BrickHouse Education<br>
                 Publisher Location: Boston, MA, United States<br>
                 Genre: Fiction<br>
-                Length: 39<br></p>
+                Length: 39<br>
             </div>
         </div>
         <div class="block">
@@ -101,7 +101,7 @@ permalink: /ycanetti
                 Publisher Location: Leon, Spain<br>
                 Genre: Fiction<br>
                 Length: 31<br>
-                Co-author: Gustavo Mazali</p>
+                Co-author: Gustavo Mazali<br>
             </div>
         </div>
 		<div class="block">
@@ -114,7 +114,7 @@ permalink: /ycanetti
                 Publisher: Editorial Everest<br>
                 Publisher Location: Leon, Spain<br>
                 Genre: Fiction<br>
-                Length: 32</p>
+                Length: 32<br>
             </div>
         </div>
         <div class="block">
@@ -128,10 +128,10 @@ permalink: /ycanetti
                 Publisher Location: Leon, Spain<br>
                 Genre: Fiction<br>
                 Length: 31<br>
-                Co-author: Teresa Herrero/p>
+                Co-author: Teresa Herrero<br>
             </div>
         </div>
-	<div class="block">
+	      <div class="block">
             <div class="date left"><p class="left hide">2012</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -142,10 +142,10 @@ permalink: /ycanetti
                 Publisher Location: New York, United States<br>
                 Genre: Fiction<br>
                 Length: 32<br>
-		Original Publication Date: 2009</p>
+		            Original Publication Date: 2009<br>
             </div>
         </div>
-	<div class="block">
+	       <div class="block">
             <div class="date right"><p class="right hide">2014</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -156,10 +156,10 @@ permalink: /ycanetti
                 Publisher Location: London, England<br>
                 Genre: Fiction<br>
                 Length: 24<br>
-                Co-author: Patrice Aggs/p>
+                Co-author: Patrice Aggs<br>
             </div>
         </div>
-	<div class="block">
+	       <div class="block">
             <div class="date left"><p class="left hide">2020</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -170,11 +170,10 @@ permalink: /ycanetti
                 Publisher Location: New York, United States<br>
                 Genre: Fiction<br>
                 Length: 32<br>
-		Co-author: Micha Archer</p>
+	             	Co-author: Micha Archer<br>
             </div>
         </div>
-
-        <div style="padding-bottom:100px;"></div>
+    <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>

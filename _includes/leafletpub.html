@@ -39,16 +39,17 @@
                 fillOpacity: 0.8
                 };
             $.getJSON("data/publocation.geojson", function (data) {
-            var datalayer = L.geoJson(data, {
-                onEachFeature: function (feature, featureLayer) {
-                    featureLayer.bindPopup(`<a href="/${feature.properties.Pub_Location}">${feature.properties.Pub_Location}</a>`);
-                },
+           var datalayer = L.geoJson(data, {
+               onEachFeature: function (feature, featureLayer) {
+                   featureLayer.bindPopup(`<a href="/${feature.properties}">${feature.properties.Pub_Location}</a>`);
+               },
                 pointToLayer: function (feature, latlng) {
-                    return L.circleMarker(latlng, geojsonMarkerOptions);
-                        }
-                    }).addTo(map);
+                   return L.circleMarker(latlng, geojsonMarkerOptions);
+                       }
+                   }).addTo(map);
                     map.fitBounds(datalayer.getBounds());
                 });
+    
             </script>
         </div>
     </body>
