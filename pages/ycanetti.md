@@ -102,15 +102,15 @@ permalink: /ycanetti
                 Co-author: Gustavo Mazali</p>
             </div>
         </div>
-		<div class="block">
+		    <div class="block">
             <div class="date left"><p class="left hide">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Ceniciento</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51lo31dYcuL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Everest<br/>
-                Publisher Location: Leon, Spain<br.>
+                Pub_Location: Leon, Spain<br/>
                 Genre: Fiction<br/>
                 Length: 32</p>
             </div>
@@ -118,7 +118,7 @@ permalink: /ycanetti
         <div class="block">
             <div class="date right"><p class="right hide">2009</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>La peluca de Rapunzel</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51y-YyNL4iL.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -132,7 +132,7 @@ permalink: /ycanetti
 	      <div class="block">
             <div class="date left"><p class="left hide">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>I Can Be President, Too!</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71VDd1vnUEL.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -146,7 +146,7 @@ permalink: /ycanetti
 	       <div class="block">
             <div class="date right"><p class="right hide">2014</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Uno Dos Tres: My First Spanish Rhymes</h1><hr>
                 <p><img src=""></p>
                 <p>Language: Spanish<br/>
@@ -160,7 +160,7 @@ permalink: /ycanetti
 	       <div class="block">
             <div class="date left"><p class="left hide">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>My Big Family</h1><hr>
                 <p><img src=""></p>
                 <p>Language: Spanish<br/>
