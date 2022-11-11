@@ -17,7 +17,7 @@ permalink: /57
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/10/sekou.jpg">
+          <img src="https://img.over-blog.com/200x300/2/65/32/82/images6/ahmed-sekou-toure.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
