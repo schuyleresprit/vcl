@@ -15,9 +15,11 @@ permalink: /mtaylor
             <div class="date right"><p class="right"> NA </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Marcellus Taylor is from United States.</p>
-                <a href="NA" target="_blank">Read more</a>
+        <div class="aclocation">     <p>Marcellus Taylor is from <a href="http://localhost:4000/1">the United States of America.</a></p></div>
+              <div class="acreadmore">  <a href="NA" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
