@@ -15,9 +15,11 @@ permalink: /kaarthur
             <div class="date right"><p class="right"> B. 1942 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Kevyn Alan Arthur is from Barbados.</p>
-                <a href="#">Read more</a>
+          <div class="aclocation">  <p> Kevyn Alan Arthur is from <a href="http://localhost:4000/12">Barbados.</a></p></div>
+                <div class="acreadmore"><a href="#">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
