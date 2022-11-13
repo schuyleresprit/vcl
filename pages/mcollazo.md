@@ -7,7 +7,7 @@ permalink: /mcollazo
 <div class="content">
     <h1>Miguel Collazo</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://images.squarespace-cdn.com/content/v1/54ef4a93e4b01b969d320540/1570830420560-QH9GJL95EMYSRBPL89N0/Miguel+Collazo.jpg?format=1000w" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -121,7 +121,7 @@ permalink: /mcollazo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>El viaje</h1><hr>
-                <p><img src="http://static1.squarespace.com/static/54ef4a93e4b01b969d320540/551d9601e4b09bd0ea364ab9/5e9486e1e630e0731496d612/1602007112735/El+Viaje%2C+por+Miguell+Collazo+-+9781632060402.jpg?format=1500w"></p>
+                <p><img src="https://images.squarespace-cdn.com/content/54ef4a93e4b01b969d320540/1594250248142-3KA0VMKYMSG6ZZPH10U9/El+Viaje%2C+por+Miguell+Collazo+-+9781632060402.jpg?format=1500w&content-type=image%2Fjpeg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Restless Books<br/>
                 Pub_location: Brooklyn, NY, United States<br/>
