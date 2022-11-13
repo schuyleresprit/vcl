@@ -7,7 +7,7 @@ permalink: /mmorris
 <div class="content">
     <h1>Mervyn Morris</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://s1.stabroeknews.com/images/2020/01/Mervyn-Morris.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
