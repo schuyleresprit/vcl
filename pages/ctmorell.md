@@ -67,7 +67,7 @@ permalink: /ctmorell
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La muerte está servida: Félix Peyrallo Carbajal</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://oncubanews.com/wp-content/uploads/2021/12/Sin-titulo-1-5.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Bohemia<br/>
                 Pub_location: Buenos Aires, Argentina<br/>
