@@ -76,7 +76,7 @@ permalink: /srios
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2004</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Fuga: Una Antología Personal</h1><hr>
