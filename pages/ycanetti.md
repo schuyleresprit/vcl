@@ -148,7 +148,7 @@ permalink: /ycanetti
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Uno Dos Tres: My First Spanish Rhymes</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344702081i/13584720._UY630_SR1200,630_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Frances Lincoln Children's Books<br/>
                 Publisher Location: London, England<br/>
@@ -162,7 +162,7 @@ permalink: /ycanetti
             <div class="dot"></div>
             <div class="right hide">
                 <h1>My Big Family</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/91tALODr6WL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Reycraft Books<br/>
                 Publisher Location: New York, United States<br/>
