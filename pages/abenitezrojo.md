@@ -25,7 +25,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="right">
                 <h1>Heroica</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/1172917379.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: La Habana Ediciones Arte y Lietratura<br/>
@@ -39,7 +39,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Estatuas sepultadas y otros relatos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41wL1-KlRKL._SY291_BO1,204,203,200_QL40_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones del Nort<br/>
                 Pub_location: Hanover, NH, United States<br/>
@@ -52,7 +52,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Antología personal</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://ecx.images-amazon.com/images/I/31y-2o0F0ZL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial de la Universidad de Puerto Rico<br/>
                 Pub_location: San Juan, Puerto Rico<br/>
@@ -65,7 +65,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>A view from the Mangrove</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/519VCXCQ4BL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>Language: English <br/>
                 Publisher: University of Massachusetts Press<br/>
                 Pub_location: Amherst, MA, United States<br/>
@@ -78,7 +78,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>El mar de las lentejas</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://covers.openlibrary.org/b/id/3710285-M.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Casiopea<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -91,7 +91,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Paso de los vientos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://recursos.paraninfo.es/portada/9788495446015/m/"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Casiopea<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -104,7 +104,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Mujer en traje de batalla</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348697215l/2487486.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Punto de lectura<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -117,7 +117,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Femme en Costume de Bataille</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/1351866333.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: France Loisirs<br/>
                 Pub_location: Paris, France<br/>
@@ -130,7 +130,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Antonio Benítez Rojo : del mundo cerrado al Caribe infinito</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://tse4.mm.bing.net/th?id=OIP.PsfFFk7EgDcCowfcf2te1gAAAA&pid=Api&P=0"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Tamesis Books<br/>
                 Pub_location: Woodbridge, NJ, United States<br/>
@@ -143,7 +143,7 @@ permalink: /abenitezrojo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Woman in battle dress</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.pinimg.com/originals/2f/a9/ff/2fa9ffcc03eb2baf152b6b7fe7cf58e9.jpg"></p>
                 <p>Language: English <br/>
                 Publisher: City Lights Books<br/>
                 Pub_location: San Francisco, CA, United States<br/>
