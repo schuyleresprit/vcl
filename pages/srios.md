@@ -12,7 +12,7 @@ permalink: /srios
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">??</p></div>
+            <div class="date right"><p class="right">b. 1950</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -76,7 +76,7 @@ permalink: /srios
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">2004</p></div>
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Fuga: Una Antología Personal</h1><hr>
