@@ -362,7 +362,7 @@ permalink: /14
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mbleon">Marilyn Bobes León</a></h4>
+            <h4><a href="/mbleón">Marilyn Bobes León</a></h4>
           </a>
         </div>
       </div>
