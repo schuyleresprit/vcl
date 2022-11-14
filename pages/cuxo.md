@@ -7,7 +7,7 @@ permalink: /cuxo
 <div class="content">
     <h1>Carlos Uxo</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://media-exp1.licdn.com/dms/image/C5603AQF2oZ4g2VXLtQ/profile-displayphoto-shrink_800_800/0/1589524533923?e=2147483647&v=beta&t=azP4rTljeOGISTKS0n80F0LAmHJDNksUmf6Wvh0r-Vg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
