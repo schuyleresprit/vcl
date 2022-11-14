@@ -29,6 +29,7 @@ permalink: /17
        </a>
      </div>
    </div>
+   </div>
     <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -56,7 +57,7 @@ permalink: /17
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/ocossard">Olivier Cossard</a></h4>
+         <h4><a href="/jhusband">Joseph Husband</a></h4>
        </a>
      </div>
    </div>
@@ -64,7 +65,7 @@ permalink: /17
  <div id="post-4" class="vesti-col timeline-post">
     <div class="vesti-content-wrapper">
       <div class="photo">
-        <img src="https://images.centrepresseaveyron.fr/api/v1/images/view/5ccd6a25d286c26377384bd5/original/image.jpg" width="50%" height="50%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BernarD_Manet_BM_Croix_Rouge_32093.jpg/330px-BernarD_Manet_BM_Croix_Rouge_32093.jpg" width="50%" height="50%">
         <div class="vesti-date-wrapper">
           <div class="vesti-date">
           </div>
@@ -72,7 +73,7 @@ permalink: /17
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/mfabre">Michel Fabre</a></h4>
+          <h4><a href="/bmagnier">Bernard Magnier</a></h4>
         </a>
       </div>
     </div>
@@ -88,7 +89,7 @@ permalink: /17
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/jgalmot">Jean Galmot</a></h4>
+          <h4><a href="/mnérée">Marcel Nérée</a></h4>
         </a>
       </div>
     </div>
