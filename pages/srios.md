@@ -27,7 +27,7 @@ permalink: /srios
             <div class="dot"></div>
             <div class="right">
                 <h1>De La Sierra</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.granma.cu/granmad/2013/01/25/cultura/soleida_rios.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
@@ -54,7 +54,7 @@ permalink: /srios
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Poesia Infiel</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.granma.cu/granmad/2013/01/25/cultura/soleida_rios.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Abril<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -67,7 +67,7 @@ permalink: /srios
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Libro Cero</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.granma.cu/granmad/2013/01/25/cultura/soleida_rios.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -80,7 +80,7 @@ permalink: /srios
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Fuga: Una Antología Personal</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.granma.cu/granmad/2013/01/25/cultura/soleida_rios.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -106,7 +106,7 @@ permalink: /srios
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Dos Poemas</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.granma.cu/granmad/2013/01/25/cultura/soleida_rios.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -118,7 +118,7 @@ permalink: /srios
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Antes Del Mediodía: Memoria Del Sueño</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.granma.cu/granmad/2013/01/25/cultura/soleida_rios.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -131,7 +131,7 @@ permalink: /srios
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Estrías, Poesias</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.granma.cu/granmad/2013/01/25/cultura/soleida_rios.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
