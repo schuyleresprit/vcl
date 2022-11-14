@@ -7,7 +7,7 @@ permalink: /ctmorell
 <div class="content">
     <h1>Claribel Terré Morell</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://oncubanews.com/wp-content/uploads/2021/12/Sin-titulo-1-5.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /ctmorell
             <div class="dot"></div>
             <div class="right">
                 <h1>Archivo de Guerra para Mujeres Decentes</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md16032889538.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Culturales Hierbabuena SRL<br/>
@@ -41,7 +41,7 @@ permalink: /ctmorell
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Perverso Cubano</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/16032907322.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Bohemia<br/>
                 Pub_location: Buenos Aires, Argentina<br/>
@@ -54,7 +54,7 @@ permalink: /ctmorell
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cubana Confesión</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/91jm-3ohjvL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Planeta Publishing<br/>
                 Pub_location: Buenos Aires, Argentina<br/>
