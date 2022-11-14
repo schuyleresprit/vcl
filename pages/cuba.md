@@ -467,7 +467,7 @@ permalink: /14
        <div id="post-5" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://alchetron.com/cdn/roberto-valero-a90fe767-364b-43cf-8d58-862f39171fe-resize-750.jpeg" width="60%">
+          <img src="https://editorialhypermedia.com/wp-content/uploads/2020/05/Roberto-Valero.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -475,7 +475,7 @@ permalink: /14
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rvalvero">Roberto Valero</a></h4>
+            <h4><a href="/rvalero">Roberto Valero</a></h4>
           </a>
         </div>
       </div>

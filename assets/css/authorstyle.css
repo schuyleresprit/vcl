@@ -52,6 +52,7 @@ body {
           backface-visibility: hidden;
   perspective: 1000;
 }
+
 .content {
   margin-top: -25px !important;
   position: relative;
@@ -357,8 +358,4 @@ div.right p img, div.left p img {
     max-width: 250px;
     max-height: 400px;
 }
-}
-
-.row {
-    margin-top: -1.78% !important;
 }

@@ -15,9 +15,11 @@ permalink: /cluporini
             <div class="date right"><p class="right"> 1909 - 1993 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Cesare Luporini is from Italy.</p>
-                <a href="https://it.wikipedia.org/wiki/Cesare_Luporini" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Cesare Luporini is from <a href="http://localhost:4000/20">Italy.</a></p></div>
+                <div class="acreadmore"><a href="https://it.wikipedia.org/wiki/Cesare_Luporini" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

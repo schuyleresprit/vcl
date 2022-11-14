@@ -15,9 +15,11 @@ permalink: /rsingh
             <div class="date right"><p class="right"> ?? </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Roopnandan Singh is from Guyana.</p>
-                <a href="" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Roopnandan Singh is from <a href="http://localhost:4000/62"> Guyana.</a></p></div>
+              <div class="acreadmore">  <a href="" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

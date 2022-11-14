@@ -15,9 +15,11 @@ permalink: /mbusby
             <div class="date right"><p class="right"> 1944 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Margaret Busby is from Ghana.</p>
-                <a href="https://en.wikipedia.org/wiki/Margaret_Busby" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Margaret Busby is from <a href="http://localhost:4000/25">Ghana.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Margaret_Busby" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

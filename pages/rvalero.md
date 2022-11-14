@@ -12,7 +12,7 @@ permalink: /rvalero
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">1995 - 1994</p></div>
+            <div class="date right"><p class="right">1955 - 1994</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -76,7 +76,7 @@ permalink: /rvalero
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">1991</p></div>
+            <div class="date left"><p class="left">1991</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>No estare en tu camino</h1><hr>
