@@ -5,20 +5,20 @@ permalink: /ssdarduy
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Severo Sarduy</h1>
+    <h1>Soleida Rios</h1>
     <div class="quote">
         <div><img src="https://letraslibres.com/wp-content/uploads/2016/05/img_art_9060_2092.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">1995 - 1994</p></div>
+            <div class="date right"><p class="right">February 25, 1937 – June 8, 1993</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Severo Sarduy is from <a href="http://localhost:4000/14"> Cuba.</a></p> </div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Severo_Sarduy" target="_blank">Read more</a></div>
+            <div class="aclocation"><p>Severo Sarduy is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Severo_Sarduy" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
