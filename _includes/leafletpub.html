@@ -41,7 +41,7 @@
             $.getJSON("data/publocation.geojson", function (data) {
            var datalayer = L.geoJson(data, {
                onEachFeature: function (feature, featureLayer) {
-                   featureLayer.bindPopup(`<a href="/${feature.properties}">${feature.properties.Pub_Location}</a>`);
+                   featureLayer.bindPopup('Location: ' + feature.properties.Pub_Location + '<br>' + 'Publisher: ' + feature.properties.Publisher + '<br>' + 'Title: ' + feature.properties.Title__Item_ + '<br>' + 'Date: ' + feature.properties.Date + '<br>' + 'Author: ' + feature.properties.Author + '<br>' + 'Author Country: ' + feature.properties.Author_Country_1 + '<br>' + 'Language: ' + feature.properties.Language_1);
                },
                 pointToLayer: function (feature, latlng) {
                    return L.circleMarker(latlng, geojsonMarkerOptions);
@@ -49,7 +49,7 @@
                    }).addTo(map);
                     map.fitBounds(datalayer.getBounds());
                 });
-    
+
             </script>
         </div>
     </body>
