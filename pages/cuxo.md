@@ -27,7 +27,7 @@ permalink: /cuxo
             <div class="dot"></div>
             <div class="right">
                 <h1>The detective fiction of Leonardo Padura Fuentes</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://0.academia-photos.com/attachment_thumbnails/33034878/mini_magick20190406-11324-xx0fft.png?1554606611"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Manchester Metropolitan University Press<br/>
@@ -41,7 +41,7 @@ permalink: /cuxo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Representaciones del personaje del negro en la literatura cubana : una perspectiva desde los estudios subalternos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71WdN6cDiDL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Verbum<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -54,7 +54,7 @@ permalink: /cuxo
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Asedios al caimán letrado : literatura y poder en la Revolución cubana</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://media-exp1.licdn.com/dms/image/C5603AQF2oZ4g2VXLtQ/profile-displayphoto-shrink_800_800/0/1589524533923?e=2147483647&v=beta&t=azP4rTljeOGISTKS0n80F0LAmHJDNksUmf6Wvh0r-Vg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Karolinum Press<br/>
                 Pub_location: Prague, Czech Republic<br/>
@@ -67,7 +67,7 @@ permalink: /cuxo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>El genero policial en Cuba; Novela policial revolucionaria, neopolicial y teleseries - Hispanic Studies: Culture and Ideas 84</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/813kYyGpCCL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Peter Lang International Academic Publishers<br/>
                 Pub_location: New York, NY, United States<br/>
