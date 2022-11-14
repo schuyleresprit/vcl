@@ -19,6 +19,7 @@ permalink: /40
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://cdn.britannica.com/50/166750-050-9242DD4E/Eden-Phillpotts.jpg">
+         <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
        </div>

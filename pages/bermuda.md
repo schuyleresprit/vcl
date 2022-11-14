@@ -14,7 +14,7 @@ permalink: /51
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
-  <div id="post-3" class="vesti-col timeline-post">
+  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://d2kdkfqxnvpuu9.cloudfront.net/images/big/51357.jpg?1334941095" width="50%" height="50%">
