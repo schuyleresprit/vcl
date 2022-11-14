@@ -75,7 +75,7 @@ permalink: /rfetamar
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1970</p></div>
+            <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Martí</h1><hr>
@@ -87,6 +87,7 @@ permalink: /rfetamar
                 Length: 171</p>
             </div>
         </div>
+        
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
