@@ -27,26 +27,26 @@ permalink: /rbonneville
             <div class="dot"></div>
             <div class="right">
                 <h1>La Vierge Cubaine</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://static.ammareal.fr/280/B-648-309.jpg"></p>
                 <p>
                 Language: French<br/>
-                Publisher: Alexander Street Press<br/>
-                Pub_location: Alexandria, VA, United States<br/>
+                Publisher: Alexander Street Press,<br/>
+                Pub_location:Alexandria, VA, United States<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 100</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2007</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Les Soeurs Ennemies</h1><hr>
-                <p><img src=""></p>
+                <h1>Moeurs Creoles. Les Soeurs Ennemies</h1><hr>
+                <p><img src="https://imusic.b-cdn.net/images/item/original/639/9782329334639.jpg?rene-bonneville-2019-moeurs-creoles-les-soeurs-ennemies-paperback-book&class=scaled"></p>
                 <p>Language: French<br/>
-                Publisher: Alexander Street Press<br/>
-                Pub_location: Alexandria, VA, United States<br/>
+                Publisher: Hachette Livre - BNF<br/>
+                Pub_location:  Paris, France<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 101</p>
+                Length: 264</p>
             </div>
         </div>
         <div id="footer">
