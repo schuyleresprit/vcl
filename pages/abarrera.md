@@ -26,8 +26,8 @@ permalink: /abarrera
             <div class="date left"><p class="left">1993</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Coyote de ventanas</h1><hr>
-                <p><img src=""></p>
+                <h1>Coyote de Ventanas</h1><hr>
+                <p><img src="http://biblioteca.lapoeteca.com/images/covers/2019/February/5c701dcfc1d26/Coyote%20de%20ventanas.jpeg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Monte Avila Editores Latinoamericana<br/>
@@ -41,7 +41,7 @@ permalink: /abarrera
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The sickness</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://caserodellibro.com/images/the-sickness-book_5928.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Tin House Books<br/>
                 Pub_location: Portland, OR, United States<br/>
@@ -54,7 +54,7 @@ permalink: /abarrera
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Crimes</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436437243l/25876939._SX318_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: MacLehose Press<br/>
                 Pub_location: London, England<br/>
@@ -67,7 +67,7 @@ permalink: /abarrera
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Mujeres que matan</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.elsotano.com/imagenes/9786073/978607317278.JPG"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Literatura Random House<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -79,7 +79,7 @@ permalink: /abarrera
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The last days of el comandante</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.ebayimg.com/images/g/DywAAOSw~39gYui9/s-l500.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: University of Texas Press<br/>
                 Pub_location: Austin, TX, United States<br/>
