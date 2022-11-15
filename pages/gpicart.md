@@ -27,7 +27,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="right">
                 <h1>La Poza Del Angel</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9789592090118-us.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
@@ -41,7 +41,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="left hide">
                 <h1>El Druida</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9788427025899-us.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher:Ediciones Extramuros<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -54,7 +54,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Malevolgia</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/B1nTZfP0YzS.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -67,7 +67,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La Ciudad De Los Muertos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9788466628914-us.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Oriente<br/>
                 Pub_location: Santiago de Cuba, Cuba<br/>
@@ -80,7 +80,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Poética Del Signo Como Voluntad Y Representación</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51p3vPwhiIL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Extramuros<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -93,7 +93,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Historias Celtas</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i0.wp.com/media.cubadebate.cu/wp-content/uploads/2022/01/gina-2-1.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Extramuros<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -106,7 +106,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="right hide">
                 <h1>El Reino De La Noche Cuento</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/5105idA01tL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher:Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -119,7 +119,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Oil on Canvas</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9789591014320-es.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -132,7 +132,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Pasifae</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/007Rito_Valla%2C_Mito_di_Pasifae%2C_in_bronzo_cm_70x60%2C_del_1973.jpg/1200px-007Rito_Valla%2C_Mito_di_Pasifae%2C_in_bronzo_cm_70x60%2C_del_1973.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Extramuros<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -145,7 +145,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La Casa Del Alibi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://repeatingislands.files.wordpress.com/2011/07/casa2.jpg?w=640"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -158,7 +158,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Casa Del Alibi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/91FUnyVf+JL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -171,7 +171,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="left hide">
                 <h1>El Reino De La Noche Cuento</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.ecured.cu/images/thumb/d/d6/El_reino_de_la_noche.JPG/260px-El_reino_de_la_noche.JPG"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -184,7 +184,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Historias Celtas</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.caribbeannewsdigital.com/sites/default/files/sites/default/files/es/imagenes_noticias/ca44a716151848feb3c2b5291f585435.newsx.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Ediciones Extramuros<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -197,7 +197,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Historias Celtas</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.caribbeannewsdigital.com/sites/default/files/sites/default/files/es/imagenes_noticias/ca44a716151848feb3c2b5291f585435.newsx.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Extramuros<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -210,7 +210,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Olio Su Tela</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.artmajeur.com/medias/hd/b/o/bordange/artwork/10034086_n-8-150x100-olio-su-tela-2014.jpg"></p>
                 <p>Language: Italian<br/>
                 Publisher: Nova Delphi<br/>
                 Pub_location: Rome, Italy<br/>
@@ -223,7 +223,7 @@ permalink: /gpicart
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Havana Como Gemir De Violines</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.caribbeannewsdigital.com/sites/default/files/sites/default/files/es/imagenes_noticias/ca44a716151848feb3c2b5291f585435.newsx.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
