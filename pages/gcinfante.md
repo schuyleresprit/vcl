@@ -27,7 +27,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right">
                 <h1>Arcadia Todas las Noches</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41gHLzthvEL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Seix Barral<br/>
@@ -41,7 +41,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Arcadia Todas las Noches</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41gHLzthvEL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Seix Barral<br/>
                 Pub_location: Seix Barral, Spain<br/>
@@ -54,7 +54,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Havana Para un Infante Difunto</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51l2L5r61aL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Seix Barral<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -67,7 +67,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Orbis Oscillantis</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41ATWR7PGYL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Flammarion<br/>
                 Pub_location: Paris, France<br/>
@@ -80,7 +80,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Three Trapped Tigers</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41USOi12HJL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Pan Books<br/>
                 Pub_location: London, England<br/>
@@ -93,7 +93,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>View of Dawn in the Tropics</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://neglectedbooks.com/images/viewofdawn.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Creative Arts Books Co.<br/>
                 Pub_location: Berkeley, CA, United States<br/>
@@ -106,7 +106,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Tres Tristes Tigres</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456403834l/29337416._SY475_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Seix Barral<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -119,7 +119,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Havana para un Infante Difunto</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51l2L5r61aL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Seix Barral<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -132,7 +132,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Exorcismos de Esti(l)o</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/511xSfppZiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Seix Barral<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -145,7 +145,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Un Oficio Del Siglo 20: G. Cain 1954-1961</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51b68a7YlHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Seix Barral<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -158,7 +158,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Naki Ouji No Tameno Habaana</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://trabalibros.com/rs/13003/4886d523-1977-4fa1-ab24-df1b609c897c/55f/filename/guillermo-cabrera-infante.jpg"></p>
                 <p>Language: Japanese<br/>
                 Publisher: Shueisha<br/>
                 Pub_location: Tokyo, Japan<br/>
@@ -171,7 +171,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Infante's Inferno</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/31qPIWp0KNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Harper & Brothers<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -184,7 +184,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Vista del Amanecer en el Trópico</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/71Z89X5WP0L._SY291_BO1,204,203,200_QL40_FMwebp_.gif"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Plaza & Janés<br/>
                 Pub_location: Esplugues de Llobregat, Spain<br/>
@@ -197,7 +197,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La Havane Pour un Infante Defunt</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51xtzzhE20L._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Éditions du Seuil<br/>
                 Pub_location: Paris, France<br/>
@@ -210,7 +210,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Infante's Inferno</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/31qPIWp0KNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Avon<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -223,7 +223,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Puro Humo</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41HWBB6VSiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -236,7 +236,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Three Trapped Tigers</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51XbaLS-TaL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Avon<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -249,7 +249,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Holy Smoke</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/614WHGF80FL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Harper & Brothers<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -262,7 +262,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Havane Pour un Infante Défunt</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51xtzzhE20L._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Éditions du Seuil<br/>
                 Pub_location: Paris, France<br/>
@@ -275,7 +275,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Holy Smoke</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/614WHGF80FL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Faber and Faber<br/>
                 Pub_location: London, England<br/>
@@ -288,7 +288,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9trBB3GqHhAUgBkPcMqudAWheoniYI8Ik0EQ9nfpzoLuQS9KZ"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Montaña Mágica<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -301,7 +301,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Exorcismos de Esti(l)o</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/511xSfppZiL._SX327_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Oveja Negra<br/>
                 Pub_location: Bogota, Colombia<br/>
@@ -314,7 +314,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Arcadia Todas las Noches</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41gHLzthvEL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Retina<br/>
                 Pub_location: Bogota, Colombia<br/>
@@ -327,7 +327,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51Utw6KivdS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Oveja Negra<br/>
                 Pub_location: Bogota, Colombia<br/>
@@ -340,7 +340,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Exorcismos de Esti(l)o</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/511xSfppZiL._SX327_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Oveja Negra<br/>
                 Pub_location: Bogota, Colombia<br/>
@@ -353,7 +353,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Un Oficio Del Siglo 20: G. Cain 1954-1960</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51KhB3VeAeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Oveja Negra<br/>
                 Pub_location: Bogota, Colombia<br/>
@@ -366,7 +366,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Vista del Amanecer en el Trópico</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41JdCBnX8NL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Arnoldo Mondadori Editore<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -379,7 +379,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Tres Tristes Tigres</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51XbaLS-TaL._SX306_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Diputación Provincial<br/>
                 Pub_location: Málaga, Spain<br/>
@@ -392,7 +392,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Rauchzeichen</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/316TOsA4AlS._SX303_BO1,204,203,200_.jpg"></p>
                 <p>Language: German<br/>
                 Publisher: Insel Verlag<br/>
                 Pub_location: Frankfurt, Germany<br/>
@@ -405,7 +405,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>View of Dawn in the Tropics</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/31zdEuBG2jL._BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Harper & Brothers<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -418,7 +418,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41CwZAJcoTL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Diana Literaria<br/>
                 Pub_location: Mexico City, Mexico<br/>
@@ -431,7 +431,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Vista do Amanhecer no Trópico</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41JdCBnX8NL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Portugese<br/>
                 Publisher: Companhia das Letras<br/>
                 Pub_location: São Paulo, Brazil<br/>
@@ -444,7 +444,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51Utw6KivdS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Diana Literaria<br/>
                 Pub_location: Mexico City, Mexico<br/>
@@ -457,7 +457,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Havana para un Infante Difunto</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51WSia-xMML.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Plaza & Janés<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -466,63 +466,11 @@ permalink: /gcinfante
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Trois Tristes Tigres</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br/>
-                Publisher: Gallimard<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 459</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>View of Dawn in the Tropics</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Faber and Faber<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 163</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Infante's Inferno</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Faber and Faber<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 438</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>View of Dawn in the Tropics</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Faber and Faber<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 207</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Próxima Luna: Historias de Horror</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51U6U7F8OQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Tanagra<br/>
                 Pub_location: Bogota, Spain<br/>
@@ -535,7 +483,7 @@ permalink: /gcinfante
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://imag.lecturalia.com/img/libro/asi-en-la-paz-como-en-la-guerra-5063.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Oveja Negra<br/>
                 Pub_location: Bogota, Colombia<br/>
@@ -544,63 +492,11 @@ permalink: /gcinfante
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Tres Tristes Tigres</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Spanish<br/>
-                Publisher: Biblioteca Ayacucho<br/>
-                Pub_location: Caracas, Venezuela<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 377</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Rauchzeichen</h1><hr>
-                <p><img src=""></p>
-                <p>Language: German<br/>
-                Publisher: Insel Verlag<br/>
-                Pub_location: Frankfurt, Germany<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 413</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Rauchzeichen</h1><hr>
-                <p><img src=""></p>
-                <p>Language: German<br/>
-                Publisher: Insel Verlag<br/>
-                Pub_location: Frankfurt, Germany<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 413</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Drei Traurige Tiger Roman</h1><hr>
-                <p><img src=""></p>
-                <p>Language: German<br/>
-                Publisher: Suhrkamp Verlag<br/>
-                Pub_location: Frankfurt, Germany<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 535</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Diablesas y Diosas: 14 Perversas para 14 Autores</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51UIMKICqGL._SX315_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Laertes<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -609,50 +505,11 @@ permalink: /gcinfante
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1992</p></div>
+            <div class="date rightt"><p class="right">2021</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Orbis Oscillantis</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br/>
-                Publisher: Flammarion<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 240</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1992</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Orbis Oscillantis</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br/>
-                Publisher: Flammarion<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 240</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1999</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>La Havane Pour un Infante Défunt</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br/>
-                Publisher: Éditions du Seuil<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 603</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
                 <h1>La Nymphe Inconstante</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.arthaud.fr/media/cache/couverture_medium/flammarion_img/Couvertures/9782081486966.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Arthaud<br/>
                 Pub_location: Paris, France<br/>
