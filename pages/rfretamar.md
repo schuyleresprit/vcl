@@ -61,9 +61,9 @@ permalink: /rfretamar
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2009</p></div>
+            <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Recuerdo A</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443702445l/25232272._SX318_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -74,9 +74,9 @@ permalink: /rfretamar
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Toda la luz, toda la sangre: Antología (1948-2017)</h1><hr>
                 <p><img src="https://www.visor-libros.com/tienda/media/catalog/product/cache/1/image/364x/040ec09b1e35df139433887a97daa66f/9/7/9788498953183_l38_04_h.jpg"></p>
                 <p>Language: Spanish<br/>
