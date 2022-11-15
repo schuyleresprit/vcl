@@ -27,7 +27,7 @@ permalink: /mbrull
             <div class="dot"></div>
             <div class="right">
                 <h1>Poemas en menguante</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/21312898370.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Impr. Le Moil & Pascaly<br/>
@@ -41,7 +41,7 @@ permalink: /mbrull
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Solo de rosa, poemas</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/916O-kPKdzL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Verónica<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -54,7 +54,7 @@ permalink: /mbrull
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Rien que ... (Nada mas que ...)</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/91el41UJ+tL.jpg"></p>
                 <p>Language: Spanish & French<br/>
                 Publisher: P. Seghers,<br/>
                 Pub_location: Paris, France<br/>
@@ -67,7 +67,7 @@ permalink: /mbrull
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Poesia Cubana Contemporanea un Ensayo de Antologia</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41LQ0dW4OkL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Las Américas Publishing<br/>
                 Pub_location: Montréal, QC, Canada<br/>
@@ -80,7 +80,7 @@ permalink: /mbrull
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La casa del silencio.</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/607655892.jpg"></p>
                 <p>Language: Spanish & French<br/>
                 Publisher: Cultura Hispanica<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -93,7 +93,7 @@ permalink: /mbrull
             <div class="dot"></div>
             <div class="left hide">
                 <h1>En torno a la poética de Mariano Brull</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=LAhIAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73zukgAnjTsEVvyO2JGjq3LtlpuYoS1y0TQS9CiUAo-ELKex-IZcC-GB15AHWKgqLlENK7I1y_SPhxYRE1V2BmsUkk5OsItCzyrnG0jiiyPBS-TSLRl-32QvNMXqXUY-BrmcaY5"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Asociación de Hispanistas de las Américas<br/>
                 Pub_location: Miami, FL, United States<br/>
@@ -106,7 +106,7 @@ permalink: /mbrull
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Obras : poesía y prosa : 1916-1955</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=vYUaAQAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72y5dky8Urz0eZLskg8e5vI5ejss7csKKveUFYQ7dn4HIYI03HRQ6FrY9lISdx-BdlJrj_6dQPRK5E9skkRCpL75MISLV5edpSQvHF--U94Jktq8GMOxnlDvisjxm7YhApUrfC4"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Society of Spanish and Spanish American Studies<br/>
                 Pub_location: Boulder, COL, United States<br/>
