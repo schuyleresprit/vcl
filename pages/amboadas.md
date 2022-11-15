@@ -7,7 +7,7 @@ permalink: /amboadas
 <div class="content">
     <h1>Aura Marina Boadas</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://cdch.ucv.ve/wp-content/uploads/2017/04/img-20170417-wa0001-169x300.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -41,7 +41,7 @@ permalink: /amboadas
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Lo barroco en la obra de Jacques Stephen Alexis</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://4.bp.blogspot.com/-Qacu4Ns9YVA/UsiQ3Jc5CUI/AAAAAAAAAFc/QKnZijVBbNo/s1600/Portada_Lo+barroco.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Centro de Estudios Latinoamericanos Rómulo Gallegos<br/>
                 Pub_location: Caracas, Venezuela<br/>
@@ -54,7 +54,7 @@ permalink: /amboadas
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La huella étnica en la narrativa caribeña</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://2.bp.blogspot.com/-MHIgNkoeMNM/UsiL1kdxXNI/AAAAAAAAAFA/DQtd3BnKP6c/s1600/Portada_La+huella+etnica.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Centro de Estudios Latinoamericanos Rómulo Gallegos<br/>
                 Pub_location: Caracas, Venezuela<br/>
@@ -67,7 +67,7 @@ permalink: /amboadas
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Le "realism merveilleux" dans l'œvre de Jacques Stephen Alexis : Littérature caraïbéenne comparée</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.thenile.io/r1000/9786131557217.jpg?r=5e208b5462982"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Centro de Estudios Latinoamericanos Rómulo Gallegos<br/>
                 Pub_location: Caracas, Venezuela<br/>
