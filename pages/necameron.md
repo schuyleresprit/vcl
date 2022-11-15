@@ -27,7 +27,7 @@ permalink: /necameron
             <div class="dot"></div>
             <div class="right">
                 <h1>Guianese Poetry: Covering the Hundred Years' Period 1831-1931</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://d3525k1ryd2155.cloudfront.net/h/268/938/1451938268.0.l.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Argosy Publishing Inc.<br/>
