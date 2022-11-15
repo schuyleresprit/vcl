@@ -136,7 +136,7 @@ permalink: /rkdouglas
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Firefly who Lost His Light: A Play</h1><hr>
-                <p><img src="https://www.findyello.com/wp/wp-content/uploads/2017/04/Richardo-Keens-Douglas-feature-136x182.jpg"></p>
+                <p><img src="http://www.sunshine-book.com.tw/images/upfile/2005/20056161275368956.jpg"></p>
                <p>
                 Language: English <br/>
                 Publisher: Annick Press <br/>
@@ -173,9 +173,7 @@ permalink: /rkdouglas
                 Length: 116 <br/>                </p>
             </div>
         </div>
-     
-
-</div>
+        </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
 
