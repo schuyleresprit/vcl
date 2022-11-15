@@ -7,7 +7,7 @@ permalink: /acsinclair
 <div class="content">
     <h1>Augustus C. Sinclair</h1>
     <div class="quote">
-        <div><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" class="logo"></div>
+        <div><img src="https://external-preview.redd.it/26U99jlsijIVbAmrAkS12Sy8vsmzXw75z-Ap7cOdCiU.jpg?auto=webp&s=06fd7fd2f9942f7be0a42672fd15f5e3d964cc32" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -36,7 +36,6 @@ permalink: /acsinclair
                 Length: NA <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1886</p></div>
             <div class="dot"></div>
@@ -50,7 +49,6 @@ permalink: /acsinclair
                 Genre: Nonfiction Book <br/>
                 Length: NA <br/>                </p>
             </div>
-
             <div class="block">
                 <div class="date left"><p class="left">1888</p></div>
                 <div class="dot"></div>
@@ -65,7 +63,6 @@ permalink: /acsinclair
                     Length: 60 <br/>                </p>
                 </div>
             </div>
-
             <div class="block">
                 <div class="date right"><p class="right">1889</p></div>
                 <div class="dot"></div>
@@ -79,9 +76,6 @@ permalink: /acsinclair
                     Genre: Nonfiction Book <br/>
                     Length: 65 <br/>                </p>
                 </div>
-
-
-
-        </div>
+               </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

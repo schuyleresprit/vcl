@@ -9,6 +9,14 @@ body {
 	margin:0;
 	padding:0;
 }
+
+/****TOP BANNER ****/
+.header_banner img {
+    width: 100%;
+    margin-top: -26px !important;
+}
+/*********/
+
 h2 {
 	font-size: 3rem;
 }
