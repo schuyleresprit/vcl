@@ -7,7 +7,7 @@ permalink: /necameron
 <div class="content">
     <h1>Norman Eustace Cameron</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="http://guyanachronicle.com/wp-content/uploads/2014/09/Norman.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
