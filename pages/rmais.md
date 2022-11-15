@@ -18,7 +18,7 @@ permalink: /rmais
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Roger Mais is from <a href="http://localhost:4000/4"> Jamaica.</a></p> </div>
-                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Roger_Mais" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
@@ -61,7 +61,7 @@ permalink: /rmais
                 Length: 177</p>
             </div>
         </div>
-   
+
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

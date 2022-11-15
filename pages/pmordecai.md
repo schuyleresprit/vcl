@@ -18,7 +18,7 @@ permalink: /pmordecai
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Pamela Mordecai is from <a href="http://localhost:4000/4"> Jamaica.</a></p> </div>
-                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/George_Lamming" target="_blank">Read more</a> </div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Pamela_Mordecai" target="_blank">Read more</a> </div>
             </div>
             </div>
         </div>
