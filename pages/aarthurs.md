@@ -33,10 +33,9 @@ permalink: /aarthurs
                 Publisher: Ballantine Books	 <br/>
                 Pub_location: New York, NY, United States <br/>
                 Genre: Fiction (Short Story Collection) <br/>
-                Length: 239 <br/>                </p>
+                Length: 239</p>
             </div>
         </div>
-
         </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

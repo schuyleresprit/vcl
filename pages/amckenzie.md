@@ -33,10 +33,9 @@ permalink: /amckenzie
                 Publisher: Longman <br/>
                 Pub_location: London, England <br/>
                 Genre: Fiction (Short Story Collection) <br/>
-                Length: 95 <br/>                </p>
+                Length: 95</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
@@ -48,9 +47,8 @@ permalink: /amckenzie
                 Publisher: Heinemann <br/>
                 Pub_location: Portsmouth, NH, United States <br/>
                 Genre: Fiction (Short Story Collection) <br/>
-                Length: 107 <br/>                </p>
+                Length: 107</p>
             </div>
-
             <div class="block">
                 <div class="date left"><p class="left">2020</p></div>
                 <div class="dot"></div>
@@ -62,10 +60,9 @@ permalink: /amckenzie
                     Publisher: Akashic Books		 <br/>
                     Pub_location: Brooklyn, NY, United States <br/>
                     Genre: Fiction (Novel) <br/>
-                    Length: 102 <br/>                </p>
+                    Length: 102</p>
                 </div>
             </div>
-
-        </div>
+       </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
