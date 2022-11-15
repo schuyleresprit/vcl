@@ -27,7 +27,7 @@ permalink: /gtriana
             <div class="dot"></div>
             <div class="right">
                 <h1>Exhibition, Drawings And Paintings: March-April 1988</h1><hr>
-                <p><img src="NA"></p>
+                <p><img src="https://voca.network/wp-content/uploads/2020/08/VoCA_Talks-page_Gladys-Triana.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Cuban Museum of Art and Culture, Inc.<br/>
@@ -41,7 +41,7 @@ permalink: /gtriana
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Transformation And Dynamics Through Motion: Exhibition, March-April 1988</h1><hr>
-                <p><img src="NA"></p>
+                <p><img src="http://www.thechillconcept.com/wp-content/uploads/2014/08/gladys.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Cuban Museum of Art and Culture<br/>
                 Pub_location: Miami, FL, United States<br/>
