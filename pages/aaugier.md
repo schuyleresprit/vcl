@@ -76,9 +76,9 @@ permalink: /aaugier
             </div>
             </div>
         <div class="block">
-            <div class="date right"><p class="right">2004</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Acercamientos a la poesía de Nicolás Guillén</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/519dwWjtKQL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
