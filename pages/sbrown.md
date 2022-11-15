@@ -33,12 +33,9 @@ permalink: /sbrown
                 Publisher: Hodder and Stoughton<br/>
                 Publisher Location: London, England<br/>
                 Genre: Anthology<br/>
-                Length: 120
-
-                </p>
+                Length: 120</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
@@ -50,9 +47,7 @@ permalink: /sbrown
                 Publisher: Longman Inc.<br/>
                 Publisher Location: Harlow, England<br/>
                 Genre: Anthology<br/>
-                Length: 276
-
-                </p>
+                Length: 276</p>
             </div>
         </div>
         <div class="block">
@@ -66,13 +61,9 @@ permalink: /sbrown
                 Publisher: Oxford University Press<br/>
                 Publisher Location: Oxford, England<br/>
                 Genre: Anthology<br/>
-                Length: 476
-
-                </p>
+                Length: 476</p>
             </div>
         </div>
-
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
