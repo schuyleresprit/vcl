@@ -27,7 +27,7 @@ permalink: /abromfield
             <div class="dot"></div>
             <div class="right">
                 <h1>Hurricane Summer: A Novel</h1><hr>
-                <p><img src="https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B550%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&product=path%5B/pimages/9781250622235_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D"></p>
+                <p><img src="https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9781250622303.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: St. Martin's Press	 <br/>
@@ -36,7 +36,6 @@ permalink: /abromfield
                 Length: 400 <br/>                </p>
             </div>
         </div>
-
         </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
