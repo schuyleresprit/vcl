@@ -23,10 +23,6 @@
 			});
 		}
 
-		for (i = 0; i < dataLinks.length; i++) {
-			$('#search-dropdown').append(`<option value="${dataLinks[i].type}">${dataLinks[i].type}</option>`);
-		}
-
 		//Set triggers
 		$('#search-box').on('input', function (event) {
 			showCategory(event.target.value);
@@ -40,7 +36,7 @@
 
 		$.getJSON(url, function (data) {
 			switch (dataType) {
-				case "author_id":
+				case "pub_location":
 					for (key in data) {
 						temp.push({
 							"flavorText" : key,
