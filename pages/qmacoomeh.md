@@ -7,7 +7,7 @@ permalink: /qmacoomeh
 <div class="content">
     <h1>Queen Macoomeh</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://www.bocaslitfest.com/wp-content/uploads/2021/02/0015_Nathalie-Taghaboni.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /qmacoomeh
             <div class="dot"></div>
             <div class="right">
                 <h1>Tales From Icebox Land</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394348826l/21368525.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Commess University Press<br/>
