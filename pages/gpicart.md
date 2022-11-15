@@ -7,7 +7,7 @@ permalink: /gpicart
 <div class="content">
     <h1>Gina Picart</h1>
     <div class="quote">
-        <div><img src="https://www.ecured.cu/images/thumb/5/5b/Gina_Picart_Baluja.jpg/" class="logo"></div>
+        <div><img src="https://lanaveinvisible.files.wordpress.com/2021/01/ginapicart_perfil.jpg?w=584" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
