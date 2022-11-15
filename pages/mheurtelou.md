@@ -123,7 +123,7 @@ permalink: /mheurtelou
                 Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
-                Genre: Fiction (Novel)<br/>
+                Genre: Nonfiction<br/>
                 Length: 300</p>
             </div>
         </div>
@@ -415,7 +415,7 @@ permalink: /mheurtelou
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
-                Genre: Fiction (Novel)<br/>
+                Genre: Poetry Collection<br/>
                 Length: 160</p>
             </div>
         </div>
@@ -438,12 +438,78 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Guide to Learning Haitian Creole</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=vYz_NUPIbC4C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70um_THp2eIJ_RTF-TAa697iVBF7WAFfMN_AaLy08Sm7Wfro5mXoBWoWOWAsI_a-MMZN_1a4Lu31s1ux2Ysj_UoK030_tcccl0SSNI1jVlHo_-uLhZC33XKmQuNCxZTI4qzn-IZ"></p>
                 <p>Language: English<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
                 Genre: Nonfiction<br/>
                 Length: 189<br/>
                 Illustrator: Fequiere Vilsaint</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2004</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Sandra: Cinderella In Haiti</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 24</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2004</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Pitit Lyon</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 24</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2005</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Lafami Bonplezi</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 250</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2009</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Diksyonè Kreyòl Vilsen</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Nonfiction<br/>
+                Length: 508<br/>
+                Illustrator: Fequiere Vilsaint</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Pozisyon = Position</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Nonfiction<br/>
+                Length: 12</p>
             </div>
         </div>
