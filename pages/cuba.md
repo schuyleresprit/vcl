@@ -459,7 +459,7 @@ permalink: /14
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rfetamar">Roberto Fernández Retamar</a></h4>
+            <h4><a href="/rfretamar">Roberto Fernández Retamar</a></h4>
           </a>
         </div>
       </div>

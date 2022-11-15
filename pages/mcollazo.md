@@ -76,7 +76,7 @@ permalink: /mcollazo
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">1991</p></div>
+            <div class="date left"><p class="left">1991</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La gorrita del papa</h1><hr>
@@ -143,7 +143,7 @@ permalink: /mcollazo
                 Length: 224</p>
             </div>
         </div>
-    <div id="footer">
+        <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>

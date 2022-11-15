@@ -7,7 +7,7 @@ permalink: /gaepstein
 <div class="content">
     <h1>Grace A Epstein</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://webcentral.uc.edu/eprof/media/repository/0188EpsteinGrace2551.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -21,55 +21,29 @@ permalink: /gaepstein
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left"></p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1></h1><hr>
+                <h1>Minor Eruptions of The Heart </h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: , <br/>
-                Genre: <br/>
-                Length: </p>
+                Language: English<br/>
+                Publisher: Ohio State University<br/>
+                Pub_location: Columbus, OH, United States<br/>
+                Genre: Anthology<br/>
+                Length: 64</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p></div>
+            <div class="date right"><p class="right">1993</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1></h1><hr>
+                <h1>Bodily Harm : Female Containment and Abuse in The Romance Narrative</h1><hr>
                 <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left"></p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right"></p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1></h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: <br/>
-                Pub_location:  <br/>
-                Genre: <br/>
+                <p>Language: English<br/>
+                Publisher: University of Texas<br/>
+                Pub_location: Austin, TX, United States<br/>
+                Genre: Anthology<br/>
                 Length: </p>
             </div>
         </div>
