@@ -27,7 +27,7 @@ permalink: /akellman
             <div class="dot"></div>
             <div class="right">
                 <h1>In Depths of Burning Light </h1><hr>
-                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/anthony%20kellman1%20%281%29.jpg?itok=kI1huzgw"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English <br/>
                 Publisher: Anthony Kellman <br/>
@@ -42,7 +42,7 @@ permalink: /akellman
             <div class="dot"></div>
             <div class="left">
                 <h1>The Broken Sun</h1><hr>
-                <p><img src="http://ocmsites.org/news/wp-content/uploads/sites/15/2015/06/Anthony-Kellman-press-photo-012609-216x300.gif"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English <br/>
                 Publisher: Anthony Kellman <br/>
@@ -87,7 +87,7 @@ permalink: /akellman
             <div class="dot"></div>
             <div class="right">
                 <h1>The Coral Rooms </h1><hr>
-                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/anthony%20kellman1%20%281%29.jpg?itok=kI1huzgw"></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9780948833533.jpg?itok=Q6yzYnsx"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Peepal Tree Press <br/>
@@ -102,28 +102,13 @@ permalink: /akellman
             <div class="dot"></div>
             <div class="left">
                 <h1>The Long Gap</h1><hr>
-                <p><img src="http://ocmsites.org/news/wp-content/uploads/sites/15/2015/06/Anthony-Kellman-press-photo-012609-216x300.gif"></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9780948833786.jpg?itok=gtwp9Jqk"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Anthony Kellman <br/>
                 Pub_location: St. Michael, Barbados <br/>
                 Genre: Poetry Collection <br/>
-                Length: 28 <br/>
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Watercourse</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/311KW1GCMRL._SX308_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Peepal Tree Press <br/>
-                Pub_location: Leeds, England<br/>
-                Genre: Poetry Collection <br/>
-                Length: 62 <br/>
+                Length: 64 <br/>
                 </p>
             </div>
         </div>
