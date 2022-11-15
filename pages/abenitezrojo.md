@@ -38,7 +38,7 @@ permalink: /abenitezrojo
             <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Estatuas sepultadas y otros relatos</h1><hr>
+                <h1>Estatuas Sepultadas y Otros Relatos</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41wL1-KlRKL._SY291_BO1,204,203,200_QL40_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones del Nort<br/>
@@ -51,7 +51,7 @@ permalink: /abenitezrojo
             <div class="date left"><p class="left">1997</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Antología personal</h1><hr>
+                <h1>Antología Personal</h1><hr>
                 <p><img src="http://ecx.images-amazon.com/images/I/31y-2o0F0ZL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial de la Universidad de Puerto Rico<br/>
@@ -64,7 +64,7 @@ permalink: /abenitezrojo
             <div class="date right"><p class="right">1998</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>A view from the Mangrove</h1><hr>
+                <h1>A View from The Mangrove</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/519VCXCQ4BL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>Language: English <br/>
                 Publisher: University of Massachusetts Press<br/>
@@ -77,7 +77,7 @@ permalink: /abenitezrojo
             <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>El mar de las lentejas</h1><hr>
+                <h1>El Mar de Las Lentejas</h1><hr>
                 <p><img src="https://covers.openlibrary.org/b/id/3710285-M.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Casiopea<br/>
@@ -90,8 +90,8 @@ permalink: /abenitezrojo
             <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Paso de los vientos</h1><hr>
-                <p><img src="https://recursos.paraninfo.es/portada/9788495446015/m/"></p>
+                <h1>Paso de Los Vientos</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51Jjqym93sL._SX324_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Casiopea<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -103,7 +103,7 @@ permalink: /abenitezrojo
             <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Mujer en traje de batalla</h1><hr>
+                <h1>Mujer en Traje de Batalla</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348697215l/2487486.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Punto de lectura<br/>
@@ -129,7 +129,7 @@ permalink: /abenitezrojo
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Antonio Benítez Rojo : del mundo cerrado al Caribe infinito</h1><hr>
+                <h1>Antonio Benítez Rojo : Del Mundo Cerrado al Caribe Infinito</h1><hr>
                 <p><img src="https://tse4.mm.bing.net/th?id=OIP.PsfFFk7EgDcCowfcf2te1gAAAA&pid=Api&P=0"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Tamesis Books<br/>
@@ -142,7 +142,7 @@ permalink: /abenitezrojo
             <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Woman in battle dress</h1><hr>
+                <h1>Woman in Battle Dress</h1><hr>
                 <p><img src="https://i.pinimg.com/originals/2f/a9/ff/2fa9ffcc03eb2baf152b6b7fe7cf58e9.jpg"></p>
                 <p>Language: English <br/>
                 Publisher: City Lights Books<br/>
