@@ -67,7 +67,6 @@ permalink: /aandwele
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2003</p></div>
             <div class="dot"></div>
@@ -83,7 +82,6 @@ permalink: /aandwele
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
@@ -95,12 +93,9 @@ permalink: /aandwele
                 Publisher: Xlibris <br/>
                 Pub_location: Bloomington, IN, United States <br/>
                 Genre: Poetry Collection <br/>
-                Length: 74 <br/>
-                </p>
+                Length: 74</p>
             </div>
         </div>
-
-
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

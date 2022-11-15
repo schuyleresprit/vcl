@@ -7,7 +7,7 @@ permalink: /tcharles
 <div class="content">
     <h1> Tami Charles</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://thebrownbookshelf.com/wp-content/uploads/2018/02/author-pic-tami-charles.jpg?w=450" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /tcharles
             <div class="dot"></div>
             <div class="right">
                 <h1>Freedom Soup</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/A18fapPavcL.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Candlewick Press<br/>
