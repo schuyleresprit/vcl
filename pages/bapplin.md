@@ -27,7 +27,7 @@ permalink: /bapplin
             <div class="dot"></div>
             <div class="right">
                 <h1>Bluestone</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/81fNiiOZRDL._AC_UY218_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
@@ -41,7 +41,7 @@ permalink: /bapplin
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The twins</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://rukminim1.flixcart.com/image/416/416/kigbjbk0-0/book/v/p/s/ready-go-the-twins-original-imafy8tfzfgch2by.jpeg?q=70"></p>
                 <p>Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
                 Pub_location: London, England<br/>
@@ -54,7 +54,7 @@ permalink: /bapplin
             <div class="dot"></div>
             <div class="right hide">
                 <h1>What do you want to be?</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/519tGbsGWHL.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
                 Pub_location: London, England<br/>
@@ -67,7 +67,7 @@ permalink: /bapplin
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Island-Hopping Game</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51PUSTR388L._SX327_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
                 Pub_location: London, England<br/>
@@ -80,7 +80,7 @@ permalink: /bapplin
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The toy town game</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ni7-neKPL._SX329_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
                 Pub_location: London, England<br/>
