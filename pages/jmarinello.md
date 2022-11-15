@@ -27,7 +27,7 @@ permalink: /jmarinello
             <div class="dot"></div>
             <div class="right">
                 <h1>Órbita de Juan Marinello</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.biografiasyvidas.com/biografia/m/fotos/marinello.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Unión de Escritores y Artistas de Cuba<br/>
@@ -41,7 +41,7 @@ permalink: /jmarinello
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Contemporáneos : noticia y memoria</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://1.bp.blogspot.com/-fB62ShX43hs/V_L19b5rzAI/AAAAAAAAApI/19MWnV8t3TM4InRoF9PXGeUxnDv-K4H3wCLcB/s1600/MARINELLO-1.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Unión de Escritores y Artistas de Cuba<br/>
@@ -55,7 +55,7 @@ permalink: /jmarinello
             <div class="dot"></div>
             <div class="right hide">
                 <h1>José Martí</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Juan_Marinello_Vidaurreta.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Júcar<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -68,7 +68,7 @@ permalink: /jmarinello
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Las raíces antimperialistas de José Martí</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.prensa-latina.cu/wp-content/uploads/2022/11/Juan-Marinello.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Universidad Nacional Autónoma de México<br/>
                 Pub_location: Mexico City, Mexico<br/>
@@ -81,7 +81,7 @@ permalink: /jmarinello
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Recopilación de textos sobre Juan Marinello</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51BOXJjdlVL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Unión de Escritores y Artistas de Cuba<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -94,7 +94,7 @@ permalink: /jmarinello
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cartas a Pepilla</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cubaposible.com/wp-content/uploads/2017/09/marinello15.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Júcar<br/>
                 Pub_location: Havana, Cuba<br/>
