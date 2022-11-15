@@ -202,7 +202,7 @@ permalink: /14
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/gpicarti">Gina Picart</a></h4>
+         <h4><a href="/gpicart">Gina Picart</a></h4>
        </a>
      </div>
    </div>
