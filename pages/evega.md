@@ -27,7 +27,7 @@ permalink: /evega
             <div class="dot"></div>
             <div class="right">
                 <h1>Noir Nation: International Crime Fiction No. 1</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51xbyqo7Z1L.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: VegaWire Media<br/>
@@ -41,7 +41,7 @@ permalink: /evega
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Noir Nation: International Crime Fiction No. 2</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/81McKeSy1EL._AC_UL600_SR600,600_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Noir Nation Books<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -53,8 +53,8 @@ permalink: /evega
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Noir Nation: International Crime Fiction No. 1</h1><hr>
-                <p><img src=""></p>
+                <h1>Noir Nation: International Crime Fiction No. 3: The India Issue </h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51eIrDS9scL.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: VegaWire Media<br/>
@@ -68,7 +68,7 @@ permalink: /evega
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Metropolis: New Revised Edition</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/516N3RWR6mL.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Noir Nation Books<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -81,7 +81,7 @@ permalink: /evega
             <div class="dot"></div>
             <div class="right">
                 <h1>Noir Nation No. 4: The Canada Issue</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41KrcJOpmIL.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Noir Nation Books<br/>
@@ -95,7 +95,7 @@ permalink: /evega
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Noir Nation: International Crime Fiction No. 5: Jihad and its Metaphors</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51KRU5-HD6L.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Noir Nation Books<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -108,7 +108,7 @@ permalink: /evega
             <div class="dot"></div>
             <div class="right">
                 <h1>Noir Nation: International Journal of Crime Fiction No. 6: The Jazz Issue</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41qpbPK7S1L._SX342_SY445_QL70_ML2_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Noir Nation Books<br/>
@@ -122,7 +122,7 @@ permalink: /evega
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Noir Nation No. 7: The Golden Fedora Poetry Prize Issue</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/415XQ5dp7nL.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Noir Nation Books<br/>
                 Pub_location: New York, NY, United States<br/>
