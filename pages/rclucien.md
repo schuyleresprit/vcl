@@ -7,7 +7,7 @@ permalink: /rclucien
 <div class="content">
     <h1>Renée Clémentine Lucien</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://crimic-sorbonne.fr/wp-content/uploads/2010/12/photo-renee-clementine-lucien.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -49,7 +49,6 @@ permalink: /rclucien
                 Length: 282</p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
