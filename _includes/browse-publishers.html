@@ -36,11 +36,12 @@
 
 		$.getJSON(url, function (data) {
 			switch (dataType) {
-				case "publisher":
+				case "authors":
 					for (key in data) {
 						temp.push({
-							"flavorText" : key,
-							"link" : key,
+							"flavorText" : data[key]["Publisher"],
+							"subtitle" : data[key]["pub_id"],
+							"link" : data[key]["Title"]
 						});
 					}
 					break;
