@@ -33,7 +33,11 @@ a{
 
 .col-sm-10 {
 	margin-top: 70px;
-    
+
+}
+
+div#map {
+    z-index: 1;
 }
 
 a.navbar-brand {
@@ -90,6 +94,7 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 }
 
 .navbar-1 {
+	margin-top: 70px;
   position: relative;
   height: 150vh;
   overflow: auto;
