@@ -36,6 +36,8 @@ a{
 
 div#map {
     z-index: 1;
+		width: 98%;
+		height: 91%;
 }
 
 a.navbar-brand {
