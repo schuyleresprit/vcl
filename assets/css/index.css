@@ -136,5 +136,6 @@ footer p:last-child {
 }
 
 .footer {
+		padding: 30px 0;
     background: #dee1ec !important;
 }
