@@ -10,8 +10,9 @@ body {
 	padding:0;
 }
 .footer {
-    background: #dee1ec!important;
+    background: #dee1ec !important;
 }
+
 /****TOP BANNER ****/
 .header_banner img {
     width: 100%;
@@ -112,7 +113,7 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 
  footer {
   padding: 2rem 0;
-  color: #216b4d;
+	color: #216b4d;
   text-align: center;
   border-top: .05rem solid #bfbfbf;
 }
@@ -125,8 +126,4 @@ footer img {
 
 footer p:last-child {
   margin-bottom: 0;
-}
-
-footer.mt-5 {
-    background-color: #dee1ec!important;
 }
