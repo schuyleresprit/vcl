@@ -30,6 +30,13 @@ a.navbar-brand {
 	color: #fff;
 	font-weight: bold;
 }
+
+nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
 .nav-link {
     color: rgb(255 255 255);
 }
