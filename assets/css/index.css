@@ -31,8 +31,9 @@ a{
 	color: #216b4d;
 }
 
-.container .col-sm-10 {
-    margin-top: 70px;
+.col-sm-10 {
+	margin-top: 70px;
+    margin: 0 80px;
 }
 
 a.navbar-brand {
