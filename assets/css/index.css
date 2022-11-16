@@ -31,6 +31,10 @@ a{
 	color: #216b4d;
 }
 
+.container .col-sm-10 {
+    margin-top: 70px;
+}
+
 a.navbar-brand {
 	padding-left: 1rem;
 	font-size: 18px;
