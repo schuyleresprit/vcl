@@ -9,7 +9,9 @@ body {
 	margin:0;
 	padding:0;
 }
-
+.footer {
+    background: #dee1ec!important;
+}
 /****TOP BANNER ****/
 .header_banner img {
     width: 100%;
