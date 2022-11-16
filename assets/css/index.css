@@ -112,7 +112,7 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 
  footer {
   padding: 2rem 0;
-  color: #216b4d;
+  color: #dee1ec;
   text-align: center;
   border-top: .05rem solid #bfbfbf;
 }
@@ -125,8 +125,4 @@ footer img {
 
 footer p:last-child {
   margin-bottom: 0;
-}
-
-footer.mt-5 {
-    background-color: #dee1ec!important;
 }
