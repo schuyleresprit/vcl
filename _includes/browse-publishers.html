@@ -8,8 +8,8 @@
 	<script>
 	let datasets = [
 		{
-			"type" : "publications",
-			"url" : "/data/publications.json"
+			"type" : "places",
+			"url" : "/data/places.json"
 		}
 	];
 
@@ -36,7 +36,7 @@
 
 		$.getJSON(url, function (data) {
 			switch (dataType) {
-				case "authors":
+				case "places":
 					for (key in data) {
 						temp.push({
 							"flavorText" : data[key]["Publisher"],
