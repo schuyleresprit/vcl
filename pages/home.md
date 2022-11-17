@@ -3,10 +3,13 @@ layout: pagedefault
 permalink: /
 ---
 
+<<<<<<< Updated upstream
 <br>
 <h3 style="text-align:center;">Welcome to Visualizing Caribbean Literature</h3>
+=======
+<h3>Welcome to Visualizing Caribbean Literature</h3>
+>>>>>>> Stashed changes
 
-<br>
 
 
 Writing in and about the Caribbean has been documented across anthologies, bibliographies and critical analyses. In the spaces where Caribbean literary studies and digital humanities meet, there has already been rich exploration of Caribbean literary history. This project builds on existing work in Caribbean digital literary studies, including [In the Same Boats][1], [Caribbean Literary Heritage][2] and the 2020 effort of [The Caribbean Digital VII][3] to create a database of [Caribbean digital scholarship][4], collectively annotate the works of Aimé Césaire and produce a generative collection of keywords that inform the constellation of Caribbean Studies.
