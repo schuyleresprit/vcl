@@ -5,9 +5,12 @@ permalink: /
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <br>
 <h3 style="text-align:center;">Welcome to Visualizing Caribbean Literature</h3>
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <h3>Welcome to Visualizing Caribbean Literature</h3>
