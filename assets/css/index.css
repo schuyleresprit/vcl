@@ -12,13 +12,14 @@ body {
 
 
 /****TOP BANNER ****/
-.header_banner img {
-    width: 100%;
-    margin-top: -26px !important;
+.background{
+background: url('../img/vcl-background.png');
+color: #000;
+opacity: 0.5;
 }
 
-.header_banner {
-    margin-top: 82.5px;
+.overlay{
+	background:rgba(255,255,255, 0.8);
 }
 /*********/
 
