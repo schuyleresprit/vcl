@@ -1,9 +1,11 @@
 Michael Anthony,manthony,trinidad_&_tobago,,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,Pub_city,Pub_country,Pub_id,Genre,Translation,Length,Descriptor
+authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
 manthony,Michael Anthony's Tales for Young and Old,1967,English,Stockwell,North Devon,England,north_devon_england,Fiction (Short Story Collection),n,184,
+manthony,Caribbean Folk Tales & Fantasies,2005,English,Macmillan Publishers,"New York, NY",United States,new_york_ny_united_states,Fiction (Short Story Collection),n,104,
 manthony,In the Heat of the Day,1996,English,Heinemann,Oxford,England,oxford_england,Fiction (Novel),n,269,
 manthony,High Tide of Intrigue,2001,English,Heinemann,Oxford,England,oxford_england,Fiction (Novel),n,252,
 manthony,The Chieftain's Carnival and Other Stories,2007,English,Ian Randle Publishers,Kingston,Jamaica,kingston_jamaica,Fiction (Short Story Collection),n,189,
 manthony,Bright Road to El Dorado,2007,English,Ian Randle Publishers,Kingston,Jamaica,kingston_jamaica,Fiction (Novel),n,139,
-manthony,Green Days by the River,1967,English,Heinemann,London,England,london__england,Fiction (Novel),n,191,
-manthony,Games Were Coming,1963,English,Heinemann,London,England,london__england,Fiction (Novel),n,182,
+manthony,Green Days by the River,2014,English,Heinemann,Port of Spain,Trinidad & Tobago,port_of_spain_trinidad_&_tobago,Fiction (Novel),n,214,
+manthony,Green Days by the River,1967,English,Heinemann,London,England,london_england,Fiction (Novel),n,191,
+manthony,Games Were Coming,1963,English,Heinemann,London,England,london_england,Fiction (Novel),n,182,
