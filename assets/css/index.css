@@ -13,11 +13,7 @@ body {
 
 /****TOP BANNER ****/
 .background{
-<<<<<<< HEAD
 background: url('../img/vcl_background.jpg');
-=======
-background: url('../img/vcl_background.png');
->>>>>>> parent of 4e47555 (Revert "Merge branch 'master' of https://github.com/schuyleresprit/vcl")
 color: #000;
 opacity: 0.6;
 }
