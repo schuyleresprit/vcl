@@ -3,77 +3,73 @@
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a city to find a publisher">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for a genre of Caribbean writing">
 		</div>
+
+		<div id="data-container" class="row">
+		</div>
+	</div>
+
 	<script>
-	let datasets = [
-		{
-			"type" : "places",
-			"url" : "/data/places.json"
-		}
-	];
-
-	var dataLinks = [];
-
-	$( document ).ready(function() {
-		for (i = 0; i < datasets.length; i++) {
-			dataLinks.push({
-				"type" : datasets[i].type,
-				"data" : siftData(datasets[i].url, datasets[i].type)
-			});
-		}
-
-		//Set triggers
-		$('#search-box').on('input', function (event) {
-			showCategory(event.target.value);
-		})
-
-		//Populate page
-		setTimeout(showCategory, 5000);
-	});
-	function siftData (url, dataType) {
-		var temp = [];
-
-		$.getJSON(url, function (data) {
-			switch (dataType) {
-				case "places":
-					for (key in data) {
-						temp.push({
-							"flavorText" : data[key]["Publisher"],
-							"subtitle" : data[key]["pub_id"],
-							"link" : data[key]["Title"]
-						});
-					}
-					break;
-
-				default:
-					break;
+		let datasets = [
+			{
+				"type" : "translations",
+				"url" : "/data/translations.json"
 			}
+		];
+
+		var dataLinks = [];
+
+		$( document ).ready(function() {
+			for (i = 0; i < datasets.length; i++) {
+				dataLinks.push({
+					"type" : datasets[i].type,
+					"data" : siftData(datasets[i].url, datasets[i].type)
+				});
+			}
+
+			for (i = 0; i < dataLinks.length; i++) {
+				$('#search-dropdown').append(`<option value="${dataLinks[i].type}">${dataLinks[i].type}</option>`);
+			}
+
+			//Set triggers
+			$('#search-box').on('input', function (event) {
+				showCategory(event.target.value);
+			})
+
+			//Populate page
+			setTimeout(showCategory, 5000);
 		});
 
-		return temp;
-	}
+		function siftData (url, dataType) {
+			var temp = [];
 
-	function showCategory (filter = "") {
-		$('#data-container').html('');
-		filter = filter.trim();
+			$.getJSON(url, function (data) {
+				switch (dataType) {
+					case "language":
+						for (key in data) {
+							temp.push({
+								"flavorText" : key,
+								"link" : key,
+							});
+						}
+						break;
 
-		dataLinks.forEach(element => {
-			if ((filter == "") && element.data.length > 0) {
-				for (i = 0; i < element.data.length; i++) {
-					$('#data-container').append(`
-						<div class="card col-4">
-							<div class="card-body">
-								<h5 class="card-title">${element.data[i].flavorText}</h5>
-								<h6 class="card-subtitle mb-2 text-muted">${element.data[i].subtitle}</h6>
-								<a href="/${element.data[i].link}" class="card-link">More</a>
-							</div>
-						</div>
-					`);
+					default:
+						break;
 				}
-			} else {
-				for (i = 0; i < element.data.length; i++) {
-					if (element.data[i].flavorText.toLowerCase().includes(filter.toLowerCase()))
+			});
+
+			return temp;
+		}
+
+		function showCategory (filter = "") {
+			$('#data-container').html('');
+			filter = filter.trim();
+
+			dataLinks.forEach(element => {
+				if ((filter == "") && element.data.length > 0) {
+					for (i = 0; i < element.data.length; i++) {
 						$('#data-container').append(`
 							<div class="card col-4">
 								<div class="card-body">
@@ -84,9 +80,22 @@
 							</div>
 						`);
 					}
-			}
-		});
-	}
+				} else {
+					for (i = 0; i < element.data.length; i++) {
+						if (element.data[i].flavorText.toLowerCase().includes(filter.toLowerCase()))
+							$('#data-container').append(`
+								<div class="card col-4">
+									<div class="card-body">
+										<h5 class="card-title">${element.data[i].flavorText}</h5>
+										<h6 class="card-subtitle mb-2 text-muted">${element.data[i].subtitle}</h6>
+										<a href="/${element.data[i].link}" class="card-link">More</a>
+									</div>
+								</div>
+							`);
+						}
+				}
+			});
+		}
 	</script>
 </body>
 </html>
