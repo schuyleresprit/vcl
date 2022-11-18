@@ -41,10 +41,11 @@ permalink: /english
 			$.getJSON(url, function (data) {
 				switch (dataType) {
 					case "languages":
-						for (key in data) {
+						for (key ["English"] in data) {
 							temp.push({
-								"flavorText" : key,
-								"link" : key,
+								"flavorText" : data[key]["Title"]
+                                "subtitle" : data[key]["Translation"]
+								"link" : data[key]["Author"]
 							});
 						}
 						break;
