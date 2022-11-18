@@ -10,10 +10,9 @@ permalink: /english
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
 		</div>
-        </div>
+     </div>
 		<div id="data-container" class="row">
-		</div>
-	</div>
+	    </div>
 	<script>
 		let datasets = [
 			{
