@@ -105,10 +105,11 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
   position: relative;
   height: 150vh;
   overflow: auto;
+}
   ::-webkit-scrollbar {
     display: none;
 }
-}
+
 
 .col-sm-2 {
 	/*height:100%;
