@@ -15,11 +15,11 @@ body {
 .background{
 background: url('../img/background_vcl.jpg');
 color: #000;
-opacity: 0.6;
+opacity: 0.9;
 }
 
 .overlay{
-	background:rgba(255,255,255, 0.8);
+	background:rgba(255,255,255, 0.9);
 }
 
 /*********/
