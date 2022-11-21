@@ -21,7 +21,9 @@ opacity: 0.9;
 .overlay{
 	background:rgba(255,255,255, 0.9);
 }
-
+.row {
+    margin-bottom: -26px;
+}
 /*********/
 
 
