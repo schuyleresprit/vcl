@@ -72,28 +72,28 @@ def process_author_files(csv_path, csv_list):
 #----------------------------------------------------------
 #read the rest of each csv to get the author's publications
 #----------------------------------------------------------
-    languages = {}
-    languages['Author'] = author_info[0]
-    languages['Title'] = row['Title']
-    languages['Pubdate'] = row['Pubdate']
-    languages['Language'] = row['Language']
-    languages['Publisher'] = row['Publisher']
-    languages['Genre'] = row['Genre']
-    languages['Translation'] = row['Translation']
-    languages['Descriptor'] =  row['Descriptor']
+    author_publications = {}
+    author_publications['Author'] = author_info[0]
+    author_publications['Title'] = row['Title']
+    author_publications['Pubdate'] = row['Pubdate']
+    author_publications['Language'] = row['Language']
+    author_publications['Publisher'] = row['Publisher']
+    author_publications['Genre'] = row['Genre']
+    author_publications['Translation'] = row['Translation']
+    author_publications['Descriptor'] =  row['Descriptor']
 
     publication_id = row['Title']
-    languages['Title'] = publication_id
+    author_publications['Title'] = publication_id
     language_id = row['Language']
-    languages['Language'] = language_id
+    author_publications['Language'] = language_id
     genre_id = row['Genre']
-    languages['Genre'] = genre_id
+    author_publications['Genre'] = genre_id
     translation_id = row['Translation']
-    languages['Translation'] = translation_id
+    author_publications['Translation'] = translation_id
     date_id = row['Pubdate']
-    languages['Pubdate'] = date_id
+    author_publications['Pubdate'] = date_id
 
-    languages[author_id].append(publications)
+    publications[author_id].append(author_publications)
     row_index += 1
 #-------------------------------------------------------------------------------
 #Create a dictionary for the LANGUAGES, Genres, Timeline, Translations
