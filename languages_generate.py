@@ -1,7 +1,6 @@
 import os
 import csv
 import pandas as pd
-import datetime
 import codecs
 import json
 from geopy import geocoders
@@ -40,6 +39,7 @@ def get_csv_list(csv_location):
 #-------------------------------------------------------------------------
 def process_author_files(csv_path, csv_list):
   author_ids = {}
+  publications_two = {}
   languages = {}
   english = {}
   french = {}
@@ -56,7 +56,7 @@ def process_author_files(csv_path, csv_list):
 #------------------------------------------------
 # get the author information from the csv header based on language
 #------------------------------------------------
-      languages = reader.__next__()
+      author_info = reader.__next__()
 
       if (not len(author_info) > 1) :
         print('This file does not have proper author info: ' + csv_name)
@@ -72,29 +72,36 @@ def process_author_files(csv_path, csv_list):
 #----------------------------------------------------------
 #read the rest of each csv to get the author's publications
 #----------------------------------------------------------
-    author_publications = {}
-    author_publications['Author'] = author_info[0]
-    author_publications['Title'] = row['Title']
-    author_publications['Pubdate'] = row['Pubdate']
-    author_publications['Language'] = row['Language']
-    author_publications['Publisher'] = row['Publisher']
-    author_publications['Genre'] = row['Genre']
-    author_publications['Translation'] = row['Translation']
-    author_publications['Descriptor'] =  row['Descriptor']
+    for csv_name in csv_list:
+        with open(csv_path+csv_name) as csv_file:
+            reader = csv.DictReader(csv_file)
+        row_index = 0
+    
+    for row in reader:    
+    
+            author_publications = {}
+            author_publications['Author'] = author_info[0]
+            author_publications['Title'] = row['Title']
+            author_publications['Pubdate'] = row['Pubdate']
+            author_publications['Language'] = row['Language']
+            author_publications['Publisher'] = row['Publisher']
+            author_publications['Genre'] = row['Genre']
+            author_publications['Translation'] = row['Translation']
+            author_publications['Descriptor'] =  row['Descriptor']
 
-    publication_id = row['Title']
-    author_publications['Title'] = publication_id
-    language_id = row['Language']
-    author_publications['Language'] = language_id
-    genre_id = row['Genre']
-    author_publications['Genre'] = genre_id
-    translation_id = row['Translation']
-    author_publications['Translation'] = translation_id
-    date_id = row['Pubdate']
-    author_publications['Pubdate'] = date_id
+            publication_id = row['Title']
+            author_publications['Title'] = publication_id
+            language_id = row['Language']
+            author_publications['Language'] = language_id
+            genre_id = row['Genre']
+            author_publications['Genre'] = genre_id
+            translation_id = row['Translation']
+            author_publications['Translation'] = translation_id
+            date_id = row['Pubdate']
+            author_publications['Pubdate'] = date_id
 
-    publications[author_id].append(author_publications)
-    row_index += 1
+            publications_two[author_id].append(author_publications)
+            row_index += 1
 #-------------------------------------------------------------------------------
 #Create a dictionary for the LANGUAGES, Genres, Timeline, Translations
 #-------------------------------------------------------------------------------
@@ -106,16 +113,105 @@ def process_author_files(csv_path, csv_list):
     language_haitiancreole = {}
     language_italian = {}
 
-  for csv_name in csv_list:
-    with open(csv_path+csv_name) as csv_file:
-      reader = csv.reader(csv_file)
-    with open(csv_path+csv_name) as csv_file:
-          reader = csv.reader(csv_file)
-    for i in range(2):
+    for csv_name in csv_list:
+        with open(csv_path+csv_name) as csv_file:
+            reader = csv.reader(csv_file)
+        for i in range(2):
 
           if not row['Language'] in languages:
-            languages[row['Language']] = []
-          if not row['Language'] in publications_by_language:
-            publications_by_language[row['Language']] = []
+            languages[row['Language']] = ['English']
+          if not row['Language'] in language_english:
+            language_english[row['Language']] = []
             languages[language_id].append(languages)
             row_index += 1
+#-------------------------------------------------------------------------------
+        for i in range(2):
+           if not row['Language'] in languages:
+            languages[row['Language']] = ['French']
+        if not row['Language'] in language_french:
+            language_french[row['Language']] = []
+            languages[language_id].append(languages)
+            row_index += 1
+#-------------------------------------------------------------------------------
+        for i in range(2):
+           if not row['Language'] in languages:
+            languages[row['Language']] = ['Spanish']
+        if not row['Language'] in language_spanish:
+            language_spanish[row['Language']] = []
+            languages[language_id].append(languages)
+            row_index += 1
+#-------------------------------------------------------------------------------
+        for i in range(2):
+           if not row['Language'] in languages:
+            languages[row['Language']] = ['Dutch']
+        if not row['Language'] in language_dutch:
+            language_dutch[row['Language']] = []
+            languages[language_id].append(languages)
+            row_index += 1
+#-------------------------------------------------------------------------------
+        for i in range(2):
+           if not row['Language'] in languages:
+            languages[row['Language']] = ['Portuguese']
+        if not row['Language'] in language_portuguese:
+            language_portuguese[row['Language']] = []
+            languages[language_id].append(languages)
+            row_index += 1
+#-------------------------------------------------------------------------------
+        for i in range(2):
+           if not row['Language'] in languages:
+            languages[row['Language']] = ['Haitian Creole']
+        if not row['Language'] in language_haitiancreole:
+            language_haitiancreole[row['Language']] = []
+            languages[language_id].append(languages)
+            row_index += 1
+#-------------------------------------------------------------------------------
+        for i in range(2):
+           if not row['Language'] in languages:
+            languages[row['Language']] = ['Italian']
+        if not row['Language'] in language_italian:
+            language_italian[row['Language']] = []
+            languages[language_id].append(languages)
+            row_index += 1
+    csv_file.close()
+ 
+ 
+    return language_english, language_french, language_spanish, language_dutch, language_portuguese, language_haitiancreole, language_italian
+
+# ---------------
+# Function calls
+# ---------------
+csv_list = get_csv_list(CSV_LOCATION)
+
+language_english, language_french, language_spanish, language_dutch, language_portuguese, language_haitiancreole, language_italian = process_author_files(CSV_LOCATION, csv_list)
+
+
+with codecs.open(ENGLISH_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(language_english, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(FRENCH_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(language_french, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(SPANISH_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(language_spanish, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(DUTCH_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(language_dutch, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(PORTUGUESE_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(language_portuguese, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(HAITIANCREOLE_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(language_haitiancreole, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(ITALIAN_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(language_italian, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+
+          
