@@ -116,6 +116,8 @@ def process_author_files(csv_path, csv_list, geonames_username):
       reader = csv.DictReader(csv_file)
       row_index = 0
       for row in reader:
+        print(row)
+        '''
         #Skip improperly formated file
         if ((not 'City' in row) or (not 'Country' in row)) :
           print('The file ' + csv_name + ' are missing the keys to create place name!')
@@ -208,7 +210,7 @@ def process_author_files(csv_path, csv_list, geonames_username):
               #translations[translation_id].append(author_publications)
               translations.setdefault(translation_id, []).append(author_publications)
             row_index =+ 1
-
+'''
   csv_file.close()
 
   return author_ids, publications, places, countries, languages, genres, timeline, translations
