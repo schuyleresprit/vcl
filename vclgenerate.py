@@ -11,7 +11,7 @@ from operator import itemgetter
 # Settings
 # ---------
 
-CSV_LOCATION = os.getcwd() + '/raw-data/'
+CSV_LOCATION = os.getcwd() + '/raw-data-2/'
 AUTHOR_ID_JSON = os.getcwd() + '/data/author_ids.json'
 TIMELINE_JSON = os.getcwd() + '/data/timeline.json'
 INTERSECTIONS_JSON = os.getcwd() + '/data/intersections.json'
