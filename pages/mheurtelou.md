@@ -513,3 +513,470 @@ permalink: /mheurtelou
                 Length: 12</p>
             </div>
         </div>
+        <div class="block">
+            <div class="date right"><p class="right">2010</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Istwa Chat Ak Sourit</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 20</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Istwa Chat Ak Sourit</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2012</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Wi Ou Kapab: Istwa Ti Zwazo Jenn Nan</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Eske Nou Ka Antann Nou?</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 30<br/>
+                Illustrators: Luckner Clermont, Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2012</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Ann Antann Nou</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 32<br/>
+                Illustrators: Luckner Clermont, Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Konte Sou Mwen</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Volney Joseph</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2012</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Alix Se Fawouchè</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Tankou Lakansyèl</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 10<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Vakans An Ayiti</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 10<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Fanmi Mwen: Tankou Lakansyèl</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 10<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Yon Vye Moso Chabon</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 11<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Mwen Reve / I Dream Too</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 10<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Neglijans Den Konsekans!</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Kare</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Twa</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Kib</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Segonn, minit ak è</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Triyang</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Pre Ak Iwen</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Senk</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Sezon / Seasons</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Kiyè kafe, kiyè atab tas pou mezire</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Yon Vye Moso Chabon</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Mwen Reve</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Jou nan semèn nan</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Mwa Nan Ane A</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Jou Ft Ak Jou Vakans</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Silenn</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Liv, Pye Ak Pous / Pounds, Feet and Inches</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Dakò Ak Pa Dakò</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 8<br/>
+                Illustrators: Patrick Noze</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Ann Aprann Sou Tolerans</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 31<br/>
+                Illustrators: Patrick Noze</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>In and out = Anndan ak deyò</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2014</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Under and over = Anwo, anba</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Near and far = Pre ak iwen</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction<br/>
+                Length: 24<br/>
+                Illustrators: Stacey Louidor</p>
+            </div>
+        </div>
