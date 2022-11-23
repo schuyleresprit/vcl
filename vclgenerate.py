@@ -148,7 +148,7 @@ def process_author_files(csv_path, csv_list, geonames_username):
         author_publications['Publisher'] = row['Publisher']
         author_publications['Genre'] = row['Genre']
         author_publications['Translation'] = row['Translation']
-        author_publications['Descriptor'] =  row['Descriptor']
+        #author_publications['Descriptor'] =  row['Descriptor']
 
         publication_id = row['Title']
         author_publications['Title'] = publication_id
