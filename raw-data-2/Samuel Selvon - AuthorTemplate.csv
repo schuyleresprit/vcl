@@ -1,20 +1,20 @@
-Samuel Selvon,sselvon,trinidad_&_tobago,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length
-sselvon,Moses Ovenpå,1977,Danish,Olsen & Olsen,Fredensborg,Denmark,,Fiction (Novel),y,186
-sselvon,A Brighter Sun,1979,English,Longman Inc.,London,England,london_ldn_england,Fiction (Novel),n,215
-sselvon,The Lonely Londoners,1956,English,Longman Inc.,London,England,london_ldn_england,Fiction (Novel),n,141
-sselvon,Ways Of Sunlight,1987,English,Longman Inc.,London,England,london_ldn_england,Fiction (Short Story Collection),n,188
-sselvon,Moses Ascending,1975,English,Davis-Poynter,London,England,london_ldn_england,Fiction (Novel),n,213
-sselvon,A Brighter Sun,1971,English,Longman Inc.,London,England,london_ldn_england,Fiction (Novel),n,215
-sselvon,L'Ascension De Moise,1987,French,Éditions Caribéennes,Paris,France,paris_fr_france,Fiction (Novel),y,186
-sselvon,Turn Again Tiger,1979,English,Pearson Education,London,England,london_ldn_england,Fiction (Novel),n,182
-sselvon,The Housing Lark,2020,English,Penguin Books Limited,London,England,london_ldn_england,Fiction (Novel),n,144
-sselvon,A Drink of Water,1968,English,Nelson Caribbean,London,England,london_ldn_england,Short Story,n,42
-sselvon,Those Who Eat the Cascadura,1990,English,Mawenzi House,Toronto,Canada,toronto_canada,Fiction (Novel),n,184
-sselvon,Moses Migrating,2009,English,Lynne Rienner Publishers,"Boulder, CO",United States,boulder_co_united¬†states,Fiction (Novel),n,195
-sselvon,The Plains of Caroni,1970,English,MacGibbon & Kee Ltd,London,England,london_ldn_england,Fiction (Novel),n,166
-sselvon,Eldorado West One,1988,English,Peepal Tree Press,"Leeds, LDN",England,leeds_ldn_england,Drama,n,156
-sselvon,Foreday Morning: Selected Prose 1946-1986,1989,English,Longman Inc.,London,England,london_ldn_england,Fiction (Short Story Collection),n,253
-sselvon,Highway in the Sun and Other Plays,1991,English,Peepal Tree Press,"Leeds, LDN",England,leeds_ldn_england,Drama,n,183
-sselvon,An Island Is a World,2019,English,Mawenzi House,Toronto,Canada,toronto__canada,Fiction (Novel),n,304
-sselvon,I Hear Thunder,1983,English,St. Martin's Press,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,192
+Samuel Selvon,sselvon,trinidad_&_tobago,,,,,,,,,
+authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
+sselvon,Moses Ovenpå,1977,Danish,Olsen & Olsen,Fredensborg,Denmark,,Fiction (Novel),y,186,
+sselvon,A Brighter Sun,1979,English,Longman Inc.,London,England,london_ldn_england,Fiction (Novel),n,215,
+sselvon,The Lonely Londoners,1956,English,Longman Inc.,London,England,london_ldn_england,Fiction (Novel),n,141,
+sselvon,Ways Of Sunlight,1987,English,Longman Inc.,London,England,london_ldn_england,Fiction (Short Story Collection),n,188,
+sselvon,Moses Ascending,1975,English,Davis-Poynter,London,England,london_ldn_england,Fiction (Novel),n,213,
+sselvon,A Brighter Sun,1971,English,Longman Inc.,London,England,london_ldn_england,Fiction (Novel),n,215,
+sselvon,L'Ascension De Moise,1987,French,Éditions Caribéennes,Paris,France,paris_fr_france,Fiction (Novel),y,186,
+sselvon,Turn Again Tiger,1979,English,Pearson Education,London,England,london_ldn_england,Fiction (Novel),n,182,
+sselvon,The Housing Lark,2020,English,Penguin Books Limited,London,England,london_ldn_england,Fiction (Novel),n,144,
+sselvon,A Drink of Water,1968,English,Nelson Caribbean,London,England,london_ldn_england,Short Story,n,42,
+sselvon,Those Who Eat the Cascadura,1990,English,Mawenzi House,Toronto,Canada,toronto_canada,Fiction (Novel),n,184,
+sselvon,Moses Migrating,2009,English,Lynne Rienner Publishers,"Boulder, CO",United States,boulder_co_united¬†states,Fiction (Novel),n,195,
+sselvon,The Plains of Caroni,1970,English,MacGibbon & Kee Ltd,London,England,london_ldn_england,Fiction (Novel),n,166,
+sselvon,Eldorado West One,1988,English,Peepal Tree Press,"Leeds, LDN",England,leeds_ldn_england,Drama,n,156,
+sselvon,Foreday Morning: Selected Prose 1946-1986,1989,English,Longman Inc.,London,England,london_ldn_england,Fiction (Short Story Collection),n,253,
+sselvon,Highway in the Sun and Other Plays,1991,English,Peepal Tree Press,"Leeds, LDN",England,leeds_ldn_england,Drama,n,183,
+sselvon,An Island Is a World,2019,English,Mawenzi House,Toronto,Canada,toronto__canada,Fiction (Novel),n,304,
+sselvon,I Hear Thunder,1983,English,St. Martin's Press,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,192,
