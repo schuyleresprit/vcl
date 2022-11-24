@@ -15,9 +15,11 @@ permalink: /esaintamand
             <div class="date right"><p class="right"> 1918 - 2004 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Edris Saint-Amand is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Edris_Saint-Amand" target="_blank">Read more</a>
+              <div class="aclocation"> <p>Edris Saint-Amand is from <a href="http://localhost:4000/5"> Haiti.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Edris_Saint-Amand" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
