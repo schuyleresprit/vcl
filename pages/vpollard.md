@@ -34,9 +34,7 @@ permalink: /vpollard
                 Publisher: Taylor & Francis<br/>
                 Publisher Location: Oxfordshire, England<br/>
                 Genre: Non Fiction<br/>
-                Length: 117
-
-                </p>
+                Length: 117</p>
             </div>
         </div>
 
@@ -51,9 +49,7 @@ permalink: /vpollard
                 Publisher: Longman Caribbean<br/>
                 Publisher Location: Kingston, Jamaica<br/>
                 Genre: Anthology<br/>
-                Length: 141
-
-                </p>
+                Length: 141</p>
             </div>
         </div>
         <div class="block">
@@ -67,9 +63,7 @@ permalink: /vpollard
                 Publisher: Longman Publishing<br/>
                 Publisher Location: Harlow, England<br/>
                 Genre: Fiction<br/>
-                Length: 203
-
-                </p>
+                Length: 203</p>
             </div>
         </div>
 
@@ -94,9 +88,7 @@ permalink: /vpollard
                 Publisher: Women's Press<br/>
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
-                Length: 77
-
-                </p>
+                Length: 77</p>
             </div>
         </div>
 
@@ -111,9 +103,7 @@ permalink: /vpollard
                 Publisher: Peepal Tree Press<br/>
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Fiction<br/>
-                Length: 71
-
-                </p>
+                Length: 71</p>
             </div>
         </div>
 
@@ -128,9 +118,7 @@ permalink: /vpollard
                 Publisher: Longman Publishing<br/>
                 Publisher Location: Harlow, England<br/>
                 Genre: Fiction<br/>
-                Length: 189
-
-                </p>
+                Length: 189</p>
             </div>
         </div>
 
@@ -145,9 +133,7 @@ permalink: /vpollard
                 Publisher: University of the West Indies Press<br/>
                 Publisher Location: Kingston, Jamaica<br/>
                 Genre: Non Fiction<br/>
-                Length: 69
-
-                </p>
+                Length: 69</p>
             </div>
         </div>
         <div class="block">
@@ -161,9 +147,7 @@ permalink: /vpollard
                 Publisher: Peepal Tree Press<br/>
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Poetry Collection<br/>
-                Length: 92
-
-                </p>
+                Length: 92</p>
             </div>
         </div>
 
