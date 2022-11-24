@@ -2237,6 +2237,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Eric Eustace Williams ",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "English",
+            "Pub_id": "london_united¬†kingdom",
+            "Pubdate": "2003",
+            "Publisher": "Deutsch",
+            "Title": "From Columbus to Castro : the history of the Caribbean, 1492-1969",
+            "Translation": "n"
+        },
+        {
             "Author": "Ángel Augier",
             "Descriptor": "",
             "Genre": "Biography",
@@ -3059,19 +3070,6 @@
             "Pubdate": "2017",
             "Publisher": "Éditions Amsterdam",
             "Title": "Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue",
-            "Translation": "n"
-        }
-    ],
-    "Biograpy": [
-        {
-            "Author": "Eric Eustace Williams",
-            "Descriptor": "",
-            "Genre": "Biograpy",
-            "Language": "English",
-            "Pub_id": "london_united¬†kingdom",
-            "Pubdate": "2003",
-            "Publisher": "Deutsch",
-            "Title": "From Columbus to Castro : the history of the Caribbean, 1492-1969",
             "Translation": "n"
         }
     ],
@@ -4837,7 +4835,7 @@
             "Author": "George E Lawrence",
             "Descriptor": "",
             "Genre": "Essay",
-            "Language": "Enslish ",
+            "Language": "English ",
             "Pub_id": "",
             "Pubdate": "1938",
             "Publisher": "Advocate Printing and Publishing",
@@ -28148,7 +28146,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Eric Eustace Williams",
+            "Author": "Eric Eustace Williams ",
             "Descriptor": "",
             "Genre": "Non Fiction",
             "Language": "English",
@@ -28159,7 +28157,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Eric Eustace Williams",
+            "Author": "Eric Eustace Williams ",
             "Descriptor": "",
             "Genre": "Non Fiction",
             "Language": "English",
@@ -28170,7 +28168,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Eric Eustace Williams",
+            "Author": "Eric Eustace Williams ",
             "Descriptor": "",
             "Genre": "Non Fiction",
             "Language": "English",
@@ -28181,7 +28179,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Eric Eustace Williams",
+            "Author": "Eric Eustace Williams ",
             "Descriptor": "Co-Author: Selwyn Reginald Cudjoe",
             "Genre": "Non Fiction",
             "Language": "English",
@@ -28192,7 +28190,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Eric Eustace Williams",
+            "Author": "Eric Eustace Williams ",
             "Descriptor": "",
             "Genre": "Non Fiction",
             "Language": "English",
@@ -28203,7 +28201,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Eric Eustace Williams",
+            "Author": "Eric Eustace Williams ",
             "Descriptor": "",
             "Genre": "Non Fiction",
             "Language": "English",
@@ -28214,7 +28212,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Eric Eustace Williams",
+            "Author": "Eric Eustace Williams ",
             "Descriptor": "",
             "Genre": "Non Fiction",
             "Language": "English",
@@ -37811,7 +37809,7 @@
             "Author": "Margarita Suero-Duran",
             "Descriptor": "",
             "Genre": "Short Story",
-            "Language": "English; Spanish",
+            "Language": "English",
             "Pub_id": "thorofare_nj_united¬†states",
             "Pubdate": "2014",
             "Publisher": "Xlibris LLC",
@@ -38602,7 +38600,7 @@
     ],
     "Thesis/Dissertation": [
         {
-            "Author": "Eric Eustace Williams",
+            "Author": "Eric Eustace Williams ",
             "Descriptor": "",
             "Genre": "Thesis/Dissertation",
             "Language": "English",

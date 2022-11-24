@@ -3,20 +3,19 @@ layout: default
 title: English
 permalink: /English
 ---
-
 <html>
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for a language of publication">
 		</div>
-     </div>
 		<div id="data-container" class="row">
-	    </div>
+		</div>
+	</div>
 	<script>
 		let datasets = [
 			{
-				"type" : "languages",
+				"type" : "english",
 				"url" : "/data/languages.json"
 			}
 		];
@@ -38,18 +37,21 @@ permalink: /English
 		function siftData (url, dataType) {
 			var temp = [];
 			$.getJSON(url, function (data) {
-			json.getKeys (obj) 
-    		const key = Object.key(obj);
-    		for (let i = 0; i < keys.length; i++){
-     		   const key = key[i];
-        		if (typeof obj[key] === 'English') {
-        		 key.splice(i+1, 0, getKeys(obj[key]));
-        		    i++;
-        		}
-    }
+				switch (dataType) {
+					case "english":
+						for (key in data) {
+							temp.push({
+								"flavorText" : key,
+								"link" : key,
+							});
+						}
+						break;
+					default:
+						break;
+				}
 			});
-    return key;
-	}
+			return temp;
+		}
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();

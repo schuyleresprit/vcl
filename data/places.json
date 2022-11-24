@@ -1,7 +1,7 @@
 {
     "": {
-        "Lat": 35.17116,
-        "Long": -103.72567,
+        "Lat": null,
+        "Long": null,
         "Pub_id": ""
     },
     "(london)_england": {
@@ -10,13 +10,13 @@
         "Pub_id": "(london)_england"
     },
     "Amsterdam, Netherlands": {
-        "Lat": 52.37403,
-        "Long": 4.88969,
+        "Lat": null,
+        "Long": null,
         "Pub_id": "Amsterdam, Netherlands"
     },
     "Haarlem, Netherlands": {
-        "Lat": 52.38084,
-        "Long": 4.63683,
+        "Lat": null,
+        "Long": null,
         "Pub_id": "Haarlem, Netherlands"
     },
     "aarhus_denmark": {
@@ -150,8 +150,8 @@
         "Pub_id": "barcarena_portugal"
     },
     "barcelona": {
-        "Lat": 41.38879,
-        "Long": 2.15899,
+        "Lat": null,
+        "Long": null,
         "Pub_id": "barcelona"
     },
     "barcelona_spain": {
@@ -340,8 +340,8 @@
         "Pub_id": "budapest_hungary"
     },
     "buenos_aires": {
-        "Lat": -34.61315,
-        "Long": -58.37723,
+        "Lat": null,
+        "Long": null,
         "Pub_id": "buenos_aires"
     },
     "buenos_aires_argentina": {
@@ -1530,8 +1530,8 @@
         "Pub_id": "osnabruãàck_germany"
     },
     "oxford": {
-        "Lat": -43.16667,
-        "Long": 172.08333,
+        "Lat": null,
+        "Long": null,
         "Pub_id": "oxford"
     },
     "oxford_eng_england": {
@@ -2135,8 +2135,8 @@
         "Pub_id": "toronto_on_canada"
     },
     "tr": {
-        "Lat": 29.84064,
-        "Long": 89.29688,
+        "Lat": null,
+        "Long": null,
         "Pub_id": "tr"
     },
     "tres_cantos_spain": {

@@ -1,17 +1,17 @@
 {
     "": {
-        "Lat": 35.17116,
-        "Long": -103.72567,
+        "Lat": null,
+        "Long": null,
         "author_country": ""
     },
     "Cuba": {
-        "Lat": 22.0,
-        "Long": -79.5,
+        "Lat": null,
+        "Long": null,
         "author_country": "Cuba"
     },
     "Guyana": {
-        "Lat": 5.0,
-        "Long": -59.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "Guyana"
     },
     "antigua_&_barbuda": {
@@ -20,223 +20,223 @@
         "author_country": "antigua_&_barbuda"
     },
     "argentina": {
-        "Lat": -34.0,
-        "Long": -64.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "argentina"
     },
     "australia": {
-        "Lat": -25.0,
-        "Long": 135.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "australia"
     },
     "barbados": {
-        "Lat": 13.16453,
-        "Long": -59.55165,
+        "Lat": null,
+        "Long": null,
         "author_country": "barbados"
     },
     "belize": {
-        "Lat": 17.25,
-        "Long": -88.75,
+        "Lat": null,
+        "Long": null,
         "author_country": "belize"
     },
     "bermuda": {
-        "Lat": 32.33022,
-        "Long": -64.74003,
+        "Lat": null,
+        "Long": null,
         "author_country": "bermuda"
     },
     "bonaire": {
-        "Lat": 12.21286,
-        "Long": -68.29445,
+        "Lat": null,
+        "Long": null,
         "author_country": "bonaire"
     },
     "brazil": {
-        "Lat": -10.0,
-        "Long": -55.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "brazil"
     },
     "britain": {
-        "Lat": 41.66121,
-        "Long": -72.77954,
+        "Lat": null,
+        "Long": null,
         "author_country": "britain"
     },
     "british_virgin_islands": {
-        "Lat": 18.5,
-        "Long": -64.5,
+        "Lat": null,
+        "Long": null,
         "author_country": "british_virgin_islands"
     },
     "cameroon": {
-        "Lat": 6.0,
-        "Long": 12.5,
+        "Lat": null,
+        "Long": null,
         "author_country": "cameroon"
     },
     "canada": {
-        "Lat": 60.10867,
-        "Long": -113.64258,
+        "Lat": null,
+        "Long": null,
         "author_country": "canada"
     },
     "chile": {
-        "Lat": -30.0,
-        "Long": -71.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "chile"
     },
     "colombia": {
-        "Lat": 4.0,
-        "Long": -73.25,
+        "Lat": null,
+        "Long": null,
         "author_country": "colombia"
     },
     "columbia": {
-        "Lat": 4.0,
-        "Long": -73.25,
+        "Lat": null,
+        "Long": null,
         "author_country": "columbia"
     },
     "cuba": {
-        "Lat": 22.0,
-        "Long": -79.5,
+        "Lat": null,
+        "Long": null,
         "author_country": "cuba"
     },
     "curaçao": {
-        "Lat": 12.16667,
-        "Long": -68.96667,
+        "Lat": null,
+        "Long": null,
         "author_country": "curaçao"
     },
     "dominica": {
-        "Lat": 15.5,
-        "Long": -61.33333,
+        "Lat": null,
+        "Long": null,
         "author_country": "dominica"
     },
     "dominican_republic": {
-        "Lat": 19.31667,
-        "Long": -70.88333,
+        "Lat": null,
+        "Long": null,
         "author_country": "dominican_republic"
     },
     "el_salvador": {
-        "Lat": 13.46667,
-        "Long": -88.98333,
+        "Lat": null,
+        "Long": null,
         "author_country": "el_salvador"
     },
     "england": {
-        "Lat": 44.0,
-        "Long": -71.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "england"
     },
     "finland": {
-        "Lat": 64.0,
-        "Long": 26.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "finland"
     },
     "france": {
-        "Lat": 46.0,
-        "Long": 2.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "france"
     },
     "french_guiana": {
-        "Lat": 4.0,
-        "Long": -53.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "french_guiana"
     },
     "gabon": {
-        "Lat": -1.0,
-        "Long": 11.75,
+        "Lat": null,
+        "Long": null,
         "author_country": "gabon"
     },
     "ghana": {
-        "Lat": 8.1,
-        "Long": -1.2,
+        "Lat": null,
+        "Long": null,
         "author_country": "ghana"
     },
     "grenada": {
-        "Lat": 12.11667,
-        "Long": -61.66667,
+        "Lat": null,
+        "Long": null,
         "author_country": "grenada"
     },
     "guadeloupe": {
-        "Lat": 16.25,
-        "Long": -61.58333,
+        "Lat": null,
+        "Long": null,
         "author_country": "guadeloupe"
     },
     "guinea": {
-        "Lat": 10.83333,
-        "Long": -10.66667,
+        "Lat": null,
+        "Long": null,
         "author_country": "guinea"
     },
     "guyana": {
-        "Lat": 5.0,
-        "Long": -59.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "guyana"
     },
     "haiti": {
-        "Lat": 19.07582,
-        "Long": -72.29616,
+        "Lat": null,
+        "Long": null,
         "author_country": "haiti"
     },
     "india": {
-        "Lat": 22.0,
-        "Long": 79.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "india"
     },
     "ireland": {
-        "Lat": 53.0,
-        "Long": -8.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "ireland"
     },
     "italy": {
-        "Lat": 42.83333,
-        "Long": 12.83333,
+        "Lat": null,
+        "Long": null,
         "author_country": "italy"
     },
     "jamaica": {
-        "Lat": 18.16667,
-        "Long": -77.25,
+        "Lat": null,
+        "Long": null,
         "author_country": "jamaica"
     },
     "jerusalem": {
-        "Lat": 31.76904,
-        "Long": 35.21633,
+        "Lat": null,
+        "Long": null,
         "author_country": "jerusalem"
     },
     "lebanon": {
-        "Lat": 33.83333,
-        "Long": 35.83333,
+        "Lat": null,
+        "Long": null,
         "author_country": "lebanon"
     },
     "martinique": {
-        "Lat": 14.66667,
-        "Long": -61.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "martinique"
     },
     "new_caledonia": {
-        "Lat": -21.5,
-        "Long": 165.5,
+        "Lat": null,
+        "Long": null,
         "author_country": "new_caledonia"
     },
     "nigeria": {
-        "Lat": 10.0,
-        "Long": 8.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "nigeria"
     },
     "peru": {
-        "Lat": -10.0,
-        "Long": -75.25,
+        "Lat": null,
+        "Long": null,
         "author_country": "peru"
     },
     "portugal": {
-        "Lat": 39.6945,
-        "Long": -8.13057,
+        "Lat": null,
+        "Long": null,
         "author_country": "portugal"
     },
     "puerto_rico": {
-        "Lat": 18.2494,
-        "Long": -66.50101,
+        "Lat": null,
+        "Long": null,
         "author_country": "puerto_rico"
     },
     "russia": {
-        "Lat": 60.0,
-        "Long": 100.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "russia"
     },
     "spain": {
-        "Lat": 40.0,
-        "Long": -4.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "spain"
     },
     "st._kitts_&_nevis": {
@@ -250,13 +250,13 @@
         "author_country": "st._lucia"
     },
     "st._martin": {
-        "Lat": 50.07027,
-        "Long": -5.16641,
+        "Lat": null,
+        "Long": null,
         "author_country": "st._martin"
     },
     "st._vincent": {
-        "Lat": 37.0225,
-        "Long": -8.99704,
+        "Lat": null,
+        "Long": null,
         "author_country": "st._vincent"
     },
     "st._vincent_&_the_grenadines": {
@@ -265,18 +265,18 @@
         "author_country": "st._vincent_&_the_grenadines"
     },
     "st.lucia": {
-        "Lat": 13.88333,
-        "Long": -60.96667,
+        "Lat": null,
+        "Long": null,
         "author_country": "st.lucia"
     },
     "suriname": {
-        "Lat": 4.0,
-        "Long": -56.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "suriname"
     },
     "the_bahamas": {
-        "Lat": 25.04082,
-        "Long": -77.37122,
+        "Lat": null,
+        "Long": null,
         "author_country": "the_bahamas"
     },
     "trinidad_&_tobago": {
@@ -285,13 +285,13 @@
         "author_country": "trinidad_&_tobago"
     },
     "ukraine": {
-        "Lat": 49.0,
-        "Long": 32.0,
+        "Lat": null,
+        "Long": null,
         "author_country": "ukraine"
     },
     "united_states": {
-        "Lat": 40.58629,
-        "Long": -76.28807,
+        "Lat": null,
+        "Long": null,
         "author_country": "united_states"
     },
     "united¬†states": {
@@ -300,8 +300,8 @@
         "author_country": "united¬†states"
     },
     "virgin_islands": {
-        "Lat": 18.32275,
-        "Long": -64.80814,
+        "Lat": null,
+        "Long": null,
         "author_country": "virgin_islands"
     }
 }
