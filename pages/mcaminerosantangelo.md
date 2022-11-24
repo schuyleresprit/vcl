@@ -15,9 +15,11 @@ permalink: /mcaminerosantangelo
             <div class="date right"><p class="right"> B. 1966 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Marta Caminero-Santangelo is from Canada.</p>
-                <a href="#" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Marta Caminero-Santangelo is from <a href="http://localhost:4000/24">Canada.</a></p></div>
+            <div class="acreadmore">     <a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -27,7 +29,7 @@ permalink: /mcaminerosantangelo
                 <h1>On Latinidad : U.S. Latino literature and the construction of ethnicity</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/417WycnFiSL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: English <br/> 
+                Language: English <br/>
                 Publisher: University Press of Florida	 <br/>
                 Pub_location: Gainesville, FL, United States <br/>
                 Genre: Non Fiction<br/>

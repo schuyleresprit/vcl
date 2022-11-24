@@ -18,6 +18,7 @@ permalink: /lking
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p> Lloyd King is from <a href="http://localhost:4000/1">United States.</a></p> </div>
             </div>
+            <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
         </div>
         <div class="block">
