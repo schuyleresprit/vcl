@@ -15,9 +15,11 @@ permalink: /hmcdonald
             <div class="date right"><p class="right"> B. 1947 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Hazel Simmons-McDonald is from St. Lucia.</p>
-                <a href="https://en.wikipedia.org/wiki/Hazel_Simmons-McDonald" target="_blank">Read more</a>
+            <div class="aclocation"><p> Hazel Simmons-McDonald is from <a href="http://localhost:4000/16">St. Lucia.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Hazel_Simmons-McDonald" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
