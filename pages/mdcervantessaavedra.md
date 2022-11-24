@@ -15,9 +15,11 @@ permalink: /mdcervantessaavedra
             <div class="date right"><p class="right"> 1547 - 1616 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Miguel de Cervantes Saavedra is from Spain.</p>
-                <a href="https://en.wikipedia.org/wiki/Miguel_de_Cervantes" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Miguel de Cervantes Saavedra is from <a href="http://localhost:4000/2"> Spain.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Miguel_de_Cervantes" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
