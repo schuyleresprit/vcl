@@ -15,9 +15,11 @@ permalink: /mchancy
             <div class="date right"><p class="right"> B. 1970  </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Myriam J.A Chancy is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Myriam_J._A._Chancy" target="_blank">Read more</a>
+          <div class="aclocation">   <p> Myriam J.A Chancy is from <a href="http://localhost:4000/5"> Haiti.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Myriam_J._A._Chancy" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -49,7 +51,7 @@ permalink: /mchancy
                 Publisher Location: Waterloo, Canada<br/>
                 Genre: Non Fiction<br/>
                 Length: 358
- 
+
                 </p>
             </div>
         </div>
@@ -82,7 +84,7 @@ permalink: /mchancy
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
                 Length: 320
- 
+
                 </p>
             </div>
         </div>
@@ -95,4 +97,3 @@ permalink: /mchancy
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-
