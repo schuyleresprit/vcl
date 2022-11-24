@@ -15,6 +15,7 @@ box-sizing: border-box;}
     min-width: 70%;
     max-height: 70%;
     min-height: 70%;
+    border: 2px solid #fff !important;
     box-shadow: 0px 0px 11px #888;
 }
 
