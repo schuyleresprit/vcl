@@ -17,6 +17,7 @@ permalink: /ikelly
             <div class="author_country">
                 <h1>Author Country</h1><hr>
             <div class="aclocation"> <p>Ivory Kelly is from <a href="http://localhost:4000/33"> Belize.</a></p></div>
+            <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
