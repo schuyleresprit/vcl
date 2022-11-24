@@ -15,9 +15,11 @@ permalink: /hbell
             <div class="date right"><p class="right"> 1864 - 1952 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Hesketh Bell is from France.</p>
-                <a href="https://en.wikipedia.org/wiki/Henry_Hesketh_Bell" target="_blank">Read more</a>
+            <div class="aclocation"><p>Hesketh Bell is from<a href="http://localhost:4000/17"> France.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Henry_Hesketh_Bell" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
