@@ -39,7 +39,7 @@ permalink: /agarrandés
             <div class="dot"></div>
             <div class="left">
                 <h1>Walkman (Palimpsesto)</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609969946l/2621246._SX318_.jpg"></p>
+                <p><img src="https://yasminsportales.files.wordpress.com/2013/09/f9156-walkman-729304.jpg"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Ediciones Extramuros <br/>
