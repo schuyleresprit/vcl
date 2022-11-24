@@ -132,6 +132,7 @@ a {
   text-transform: uppercase;
 }
 .container-title {
+    margin-top: 65px;
     text-align: center;
     text-transform: uppercase;
 }
