@@ -1,7 +1,7 @@
 ---
 layout: default
 title: English
-permalink: /english
+permalink: /English
 ---
 
 <html>
@@ -38,22 +38,18 @@ permalink: /english
 		function siftData (url, dataType) {
 			var temp = [];
 			$.getJSON(url, function (data) {
-				switch (dataType) {
-					case "languages":
-						for (key ["English"] in data) {
-							temp.push({
-								"flavorText" : data[key]["Title"]
-                                "subtitle" : data[key]["Translation"]
-								"link" : data[key]["Author"]
-							});
-						}
-						break;
-					default:
-						break;
-				}
+			json.getKeys (obj) 
+    		const key = Object.key(obj);
+    		for (let i = 0; i < keys.length; i++){
+     		   const key = key[i];
+        		if (typeof obj[key] === 'English') {
+        		 key.splice(i+1, 0, getKeys(obj[key]));
+        		    i++;
+        		}
+    }
 			});
-			return temp;
-		}
+    return key;
+	}
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
