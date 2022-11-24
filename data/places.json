@@ -1,1 +1,2332 @@
-{}
+{
+    "": {
+        "Lat": 35.17116,
+        "Long": -103.72567,
+        "Pub_id": ""
+    },
+    "(london)_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "(london)_england"
+    },
+    "Amsterdam, Netherlands": {
+        "Lat": 52.37403,
+        "Long": 4.88969,
+        "Pub_id": "Amsterdam, Netherlands"
+    },
+    "Haarlem, Netherlands": {
+        "Lat": 52.38084,
+        "Long": 4.63683,
+        "Pub_id": "Haarlem, Netherlands"
+    },
+    "aarhus_denmark": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "aarhus_denmark"
+    },
+    "abingdon_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "abingdon_england"
+    },
+    "alabama_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "alabama_united_states"
+    },
+    "alexandria_va_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "alexandria_va_united¬†states"
+    },
+    "alfragide_portugal": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "alfragide_portugal"
+    },
+    "ambergate_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "ambergate_england"
+    },
+    "amherst_ma_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "amherst_ma_united_states"
+    },
+    "amherst_ma_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "amherst_ma_united¬†states"
+    },
+    "amherst_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "amherst_united¬†states"
+    },
+    "amsterdam_ams_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "amsterdam_ams_netherlands"
+    },
+    "amsterdam_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "amsterdam_netherlands"
+    },
+    "ankara_turkey": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "ankara_turkey"
+    },
+    "ann_arbor_mi_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "ann_arbor_mi_united¬†states"
+    },
+    "ann_arbor_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "ann_arbor_united¬†states"
+    },
+    "annandale_on_hudson_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "annandale_on_hudson_united¬†states"
+    },
+    "ashland_or_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "ashland_or_united¬†states"
+    },
+    "athena_greece": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "athena_greece"
+    },
+    "athens_greece": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "athens_greece"
+    },
+    "auckland_new_zealand": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "auckland_new_zealand"
+    },
+    "austin_tx_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "austin_tx_united¬†states"
+    },
+    "aylesbury_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "aylesbury_england"
+    },
+    "baarn_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "baarn_netherlands"
+    },
+    "bacrcelona_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bacrcelona_spain"
+    },
+    "baghdad_iraq": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "baghdad_iraq"
+    },
+    "baltimore_md_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "baltimore_md_united¬†states"
+    },
+    "barcarena_portugal": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "barcarena_portugal"
+    },
+    "barcelona": {
+        "Lat": 41.38879,
+        "Long": 2.15899,
+        "Pub_id": "barcelona"
+    },
+    "barcelona_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "barcelona_spain"
+    },
+    "basingstoke_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "basingstoke_england"
+    },
+    "basseterre_st._kitts": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "basseterre_st._kitts"
+    },
+    "basseterre_st.¬†kitts_&_nevis": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "basseterre_st.¬†kitts_&_nevis"
+    },
+    "bath_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bath_england"
+    },
+    "beijing_china": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "beijing_china"
+    },
+    "benque_viejo_del_carmen_belize": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "benque_viejo_del_carmen_belize"
+    },
+    "beograd;_alnari_serbia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "beograd;_alnari_serbia"
+    },
+    "beograd_serbia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "beograd_serbia"
+    },
+    "berkeley_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "berkeley_ca_united¬†states"
+    },
+    "berlin_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "berlin_germany"
+    },
+    "berlin_verl_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "berlin_verl_germany"
+    },
+    "bern_switzerland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bern_switzerland"
+    },
+    "beverly_hills_ca_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "beverly_hills_ca_united_states"
+    },
+    "bloomington_in_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bloomington_in_united_states"
+    },
+    "bloomington_in_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bloomington_in_united¬†states"
+    },
+    "bloomington_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bloomington_united¬†states"
+    },
+    "bogota_colombia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bogota_colombia"
+    },
+    "bogotá_columbia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bogotá_columbia"
+    },
+    "bornheim_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bornheim_germany"
+    },
+    "boston_ma_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "boston_ma_united_states"
+    },
+    "boston_ma_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "boston_ma_united¬†states"
+    },
+    "boulder_co_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "boulder_co_united¬†states"
+    },
+    "brantford_on_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "brantford_on_canada"
+    },
+    "breda_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "breda_netherlands"
+    },
+    "bremen_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bremen_germany"
+    },
+    "bridgend_wales": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bridgend_wales"
+    },
+    "bridgetown_barbados": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bridgetown_barbados"
+    },
+    "brighton_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "brighton_england"
+    },
+    "brisbane_australia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "brisbane_australia"
+    },
+    "bristol_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bristol_england"
+    },
+    "brooklyn_ny_ny_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "brooklyn_ny_ny_united_states"
+    },
+    "brooklyn_ny_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "brooklyn_ny_united_states"
+    },
+    "brooklyn_ny_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "brooklyn_ny_united¬†states"
+    },
+    "brunswick_australia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "brunswick_australia"
+    },
+    "bucuresti_romania": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bucuresti_romania"
+    },
+    "budapest_hungary": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "budapest_hungary"
+    },
+    "buenos_aires": {
+        "Lat": -34.61315,
+        "Long": -58.37723,
+        "Pub_id": "buenos_aires"
+    },
+    "buenos_aires_argentina": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "buenos_aires_argentina"
+    },
+    "buffalo_ny_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "buffalo_ny_united_states"
+    },
+    "bukarest_romania": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "bukarest_romania"
+    },
+    "burbank_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "burbank_united¬†states"
+    },
+    "burton_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "burton_united¬†states"
+    },
+    "caernarvon_wales": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "caernarvon_wales"
+    },
+    "california_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "california_united_states"
+    },
+    "camaguey_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "camaguey_cuba"
+    },
+    "cambridge_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "cambridge_england"
+    },
+    "cambridge_ma_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "cambridge_ma_united¬†states"
+    },
+    "cameron_nc_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "cameron_nc_united¬†states"
+    },
+    "canberra_australia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "canberra_australia"
+    },
+    "caracas_venezuela": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "caracas_venezuela"
+    },
+    "cardiff_wales": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "cardiff_wales"
+    },
+    "carlsbad_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "carlsbad_united¬†states"
+    },
+    "caroni_trinidad_&_tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "caroni_trinidad_&_tobago"
+    },
+    "carouge_geneve_switzerland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "carouge_geneve_switzerland"
+    },
+    "casale_monferrato_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "casale_monferrato_italy"
+    },
+    "castries_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "castries_cuba"
+    },
+    "castries_st._lucia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "castries_st._lucia"
+    },
+    "castries_st.¬†lucia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "castries_st.¬†lucia"
+    },
+    "cave_hill_barbados": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "cave_hill_barbados"
+    },
+    "champaign_il_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "champaign_il_united_states"
+    },
+    "chapel_hill_nc_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chapel_hill_nc_united¬†states"
+    },
+    "charles_village_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "charles_village_united¬†states"
+    },
+    "charlottesville_va_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "charlottesville_va_united¬†states"
+    },
+    "chatham_nj_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chatham_nj_united_states"
+    },
+    "chelsea_vt_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chelsea_vt_united¬†states"
+    },
+    "chicago_il_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chicago_il_united¬†states"
+    },
+    "chicago_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chicago_united¬†states"
+    },
+    "chichester_west_sussex_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chichester_west_sussex_england"
+    },
+    "chico_ca_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "chico_ca_united_states"
+    },
+    "ciego_de_√åvila_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "ciego_de_√åvila_cuba"
+    },
+    "city_of_westminister_ldn_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "city_of_westminister_ldn_england"
+    },
+    "clarion_pa_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "clarion_pa_united¬†states"
+    },
+    "cleveland_oh_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "cleveland_oh_united¬†states"
+    },
+    "coconut_creek_fl_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "coconut_creek_fl_united_states"
+    },
+    "coconut_creek_fl_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "coconut_creek_fl_united¬†states"
+    },
+    "columbia_mo_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "columbia_mo_united_states"
+    },
+    "columbia_mo_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "columbia_mo_united¬†states"
+    },
+    "cooperstown_ny_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "cooperstown_ny_united¬†states"
+    },
+    "copenhagen_denmark": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "copenhagen_denmark"
+    },
+    "crawley_sx_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "crawley_sx_england"
+    },
+    "cromer_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "cromer_england"
+    },
+    "crows_nest_australia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "crows_nest_australia"
+    },
+    "d'abadie_trinidad_&¬†tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "d'abadie_trinidad_&¬†tobago"
+    },
+    "dallas_tx_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "dallas_tx_united¬†states"
+    },
+    "daryaganj_india": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "daryaganj_india"
+    },
+    "den_haag_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "den_haag_netherlands"
+    },
+    "detroit_mi_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "detroit_mi_united_states"
+    },
+    "diego_martin_trinidad_&¬†tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "diego_martin_trinidad_&¬†tobago"
+    },
+    "don_mills_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "don_mills_canada"
+    },
+    "dublin_ireland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "dublin_ireland"
+    },
+    "dundurn_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "dundurn_canada"
+    },
+    "durham_nc_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "durham_nc_united_states"
+    },
+    "d√ºsseldorf_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "d√ºsseldorf_germany"
+    },
+    "ealing_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "ealing_england"
+    },
+    "edinburg_tx_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "edinburg_tx_united_states"
+    },
+    "edinburgh_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "edinburgh_england"
+    },
+    "edmonton_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "edmonton_canada"
+    },
+    "emeryville_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "emeryville_ca_united¬†states"
+    },
+    "erlandson_denmark": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "erlandson_denmark"
+    },
+    "esplugues_de_llobregat_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "esplugues_de_llobregat_spain"
+    },
+    "evanston_il_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "evanston_il_united¬†states"
+    },
+    "fairfax_va_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "fairfax_va_united¬†states"
+    },
+    "firenze_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "firenze_italy"
+    },
+    "fontabelle_bb_08_barbados": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "fontabelle_bb_08_barbados"
+    },
+    "fort_de_france_martinique": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "fort_de_france_martinique"
+    },
+    "frankfurt_ge_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "frankfurt_ge_germany"
+    },
+    "frankfurt_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "frankfurt_germany"
+    },
+    "frankfurt_md_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "frankfurt_md_spain"
+    },
+    "fredericton_nb_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "fredericton_nb_canada"
+    },
+    "freeport_n.y_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "freeport_n.y_united_states"
+    },
+    "gainesville_fl_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "gainesville_fl_united¬†states"
+    },
+    "galisteo_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "galisteo_spain"
+    },
+    "garden_city_ny_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "garden_city_ny_united_states"
+    },
+    "garden_city_ny_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "garden_city_ny_united¬†states"
+    },
+    "geneva_switzerland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "geneva_switzerland"
+    },
+    "georgetown_guyana": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "georgetown_guyana"
+    },
+    "glasgow_scotland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "glasgow_scotland"
+    },
+    "gloucester_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "gloucester_england"
+    },
+    "gottingen_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "gottingen_germany"
+    },
+    "greenville_nc_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "greenville_nc_united¬†states"
+    },
+    "guadalajara_mexico": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "guadalajara_mexico"
+    },
+    "guayaquil_ecuador": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "guayaquil_ecuador"
+    },
+    "haarlem_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "haarlem_netherlands"
+    },
+    "habana_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "habana_cuba"
+    },
+    "haiti_port_au_prince": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "haiti_port_au_prince"
+    },
+    "hamburg_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "hamburg_germany"
+    },
+    "hanover_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "hanover_united¬†states"
+    },
+    "harlow_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "harlow_england"
+    },
+    "harlow_united¬†kingdom": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "harlow_united¬†kingdom"
+    },
+    "havana_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "havana_cuba"
+    },
+    "havana_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "havana_spain"
+    },
+    "helsingissaãà_finland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "helsingissaãà_finland"
+    },
+    "helsingissaãà_hki_finland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "helsingissaãà_hki_finland"
+    },
+    "helsinki_finland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "helsinki_finland"
+    },
+    "hexham_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "hexham_england"
+    },
+    "hki_finland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "hki_finland"
+    },
+    "hoboken_nj_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "hoboken_nj_united_states"
+    },
+    "hoboken_nj_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "hoboken_nj_united¬†states"
+    },
+    "holgu√≠n_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "holgu√≠n_cuba"
+    },
+    "holiday_fl_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "holiday_fl_united¬†states"
+    },
+    "honfleur_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "honfleur_france"
+    },
+    "houston_tx_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "houston_tx_united_states"
+    },
+    "houten_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "houten_netherlands"
+    },
+    "hygiene_co_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "hygiene_co_united_states"
+    },
+    "il_blata_l_bajda_malta": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "il_blata_l_bajda_malta"
+    },
+    "indianapolis_in_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "indianapolis_in_united¬†states"
+    },
+    "istanbul_turkey": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "istanbul_turkey"
+    },
+    "jackson_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "jackson_united¬†states"
+    },
+    "jaipur_india": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "jaipur_india"
+    },
+    "jerusalem_israel": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "jerusalem_israel"
+    },
+    "jupiter_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "jupiter_united¬†states"
+    },
+    "jyvaãàskylaãà_finland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "jyvaãàskylaãà_finland"
+    },
+    "kansas_city_mo_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "kansas_city_mo_united¬†states"
+    },
+    "kingston_jam_jamaica": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "kingston_jam_jamaica"
+    },
+    "kingston_jamaica": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "kingston_jamaica"
+    },
+    "kirklees_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "kirklees_england"
+    },
+    "kourou_French_Guiana": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "kourou_French_Guiana"
+    },
+    "kourou_french_guiana": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "kourou_french_guiana"
+    },
+    "krakow_poland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "krakow_poland"
+    },
+    "k√∂ln_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "k√∂ln_germany"
+    },
+    "la_roque_d'antheãåron_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "la_roque_d'antheãåron_france"
+    },
+    "la_vergne_tn_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "la_vergne_tn_united¬†states"
+    },
+    "lake_county_il_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lake_county_il_united¬†states"
+    },
+    "lanham_md_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lanham_md_united¬†states"
+    },
+    "largo_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "largo_united¬†states"
+    },
+    "le_lamentin_martinique": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "le_lamentin_martinique"
+    },
+    "le_mans_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "le_mans_france"
+    },
+    "leatherhead_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leatherhead_england"
+    },
+    "leeds_eng_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leeds_eng_england"
+    },
+    "leeds_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leeds_england"
+    },
+    "leeds_ldn_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leeds_ldn_england"
+    },
+    "leeeds_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leeeds_england"
+    },
+    "lehigh_acres_fl_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lehigh_acres_fl_united¬†states"
+    },
+    "leiden_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leiden_netherlands"
+    },
+    "leipzig_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leipzig_germany"
+    },
+    "leuven_belgium": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "leuven_belgium"
+    },
+    "lewiston_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lewiston_united¬†states"
+    },
+    "lexington_ma_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lexington_ma_united¬†states"
+    },
+    "lima_peru": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lima_peru"
+    },
+    "lincoln_ne_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lincoln_ne_united¬†states"
+    },
+    "lisbon_portugal": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lisbon_portugal"
+    },
+    "liverpool_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "liverpool_england"
+    },
+    "london__england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "london__england"
+    },
+    "london_engand": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "london_engand"
+    },
+    "london_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "london_england"
+    },
+    "london_europe": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "london_europe"
+    },
+    "london_ldn_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "london_ldn_england"
+    },
+    "london_united¬†kingdom": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "london_united¬†kingdom"
+    },
+    "london_unites_kingdom": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "london_unites_kingdom"
+    },
+    "los_angeles_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "los_angeles_ca_united¬†states"
+    },
+    "lund_sweden": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lund_sweden"
+    },
+    "lutz_fl_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lutz_fl_united¬†states"
+    },
+    "lübeck_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "lübeck_germany"
+    },
+    "madison_wi_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "madison_wi_united¬†states"
+    },
+    "madrid_esp_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "madrid_esp_spain"
+    },
+    "madrid_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "madrid_spain"
+    },
+    "malaga_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "malaga_spain"
+    },
+    "manchester_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "manchester_england"
+    },
+    "manhattan_ny_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "manhattan_ny_united_states"
+    },
+    "manhattan_ny_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "manhattan_ny_united¬†states"
+    },
+    "markham_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "markham_canada"
+    },
+    "markham_on_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "markham_on_canada"
+    },
+    "markham_ont_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "markham_ont_canada"
+    },
+    "matanzas_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "matanzas_cuba"
+    },
+    "matoury_french_guiana": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "matoury_french_guiana"
+    },
+    "matoury_guyana": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "matoury_guyana"
+    },
+    "melbourne_australia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "melbourne_australia"
+    },
+    "messina_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "messina_italy"
+    },
+    "mexico_city_mex_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "mexico_city_mex_united_states"
+    },
+    "mexico_city_mexico": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "mexico_city_mexico"
+    },
+    "mexico_d.f._mexico": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "mexico_d.f._mexico"
+    },
+    "meãåxico_city_mexico": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "meãåxico_city_mexico"
+    },
+    "miami_fl_fl_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "miami_fl_fl_united_states"
+    },
+    "miami_fl_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "miami_fl_united_states"
+    },
+    "miami_fl_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "miami_fl_united¬†states"
+    },
+    "middletown_ct_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "middletown_ct_united¬†states"
+    },
+    "milan_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "milan_italy"
+    },
+    "milano_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "milano_italy"
+    },
+    "minneapolis_mn_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "minneapolis_mn_united¬†states"
+    },
+    "modena_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "modena_italy"
+    },
+    "mona_jamaica": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "mona_jamaica"
+    },
+    "moncton_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "moncton_canada"
+    },
+    "montevideo_uraguay": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montevideo_uraguay"
+    },
+    "montevido_uraguay": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montevido_uraguay"
+    },
+    "montpellier_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montpellier_france"
+    },
+    "montreal_qc_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montreal_qc_canada"
+    },
+    "montreãåal_qc_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montreãåal_qc_canada"
+    },
+    "montréal_qc_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montréal_qc_canada"
+    },
+    "montrouge_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montrouge_france"
+    },
+    "montréal_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montréal_canada"
+    },
+    "montr√©al_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "montr√©al_canada"
+    },
+    "morrisville_nc_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "morrisville_nc_united_states"
+    },
+    "moskva_russia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "moskva_russia"
+    },
+    "muir_of_od_scotland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "muir_of_od_scotland"
+    },
+    "muir_of_ord_scotland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "muir_of_ord_scotland"
+    },
+    "munchen_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "munchen_germany"
+    },
+    "munich_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "munich_germany"
+    },
+    "murska_sobota_slovenia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "murska_sobota_slovenia"
+    },
+    "m√ºnchen_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "m√ºnchen_germany"
+    },
+    "na_na": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "na_na"
+    },
+    "napoli_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "napoli_italy"
+    },
+    "nashville_tn_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "nashville_tn_united_states"
+    },
+    "nashville_tn_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "nashville_tn_united¬†states"
+    },
+    "nassau_bahamas": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "nassau_bahamas"
+    },
+    "nendeln_liechtenstein": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "nendeln_liechtenstein"
+    },
+    "new_brunswick_nj_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_brunswick_nj_united_states"
+    },
+    "new_brunswick_nj_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_brunswick_nj_united¬†states"
+    },
+    "new_haven_ldn_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_haven_ldn_england"
+    },
+    "new_orleans_la_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_orleans_la_united¬†states"
+    },
+    "new_york_ny__united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_york_ny__united_states"
+    },
+    "new_york_ny_n.y._united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_york_ny_n.y._united_states"
+    },
+    "new_york_ny_new_york": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_york_ny_new_york"
+    },
+    "new_york_ny_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_york_ny_united_states"
+    },
+    "new_york_ny_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "new_york_ny_united¬†states"
+    },
+    "niort_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "niort_france"
+    },
+    "norderstedt_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "norderstedt_germany"
+    },
+    "normal_il_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "normal_il_united¬†states"
+    },
+    "norman_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "norman_united¬†states"
+    },
+    "north_andover_ma_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "north_andover_ma_united¬†states"
+    },
+    "north_devon_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "north_devon_england"
+    },
+    "north_melbourne_australia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "north_melbourne_australia"
+    },
+    "north_stratford_nh_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "north_stratford_nh_united_states"
+    },
+    "northampton_ma_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "northampton_ma_united¬†states"
+    },
+    "novara_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "novara_italy"
+    },
+    "nueva_york_ny_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "nueva_york_ny_united¬†states"
+    },
+    "nürnberg_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "nürnberg_germany"
+    },
+    "oakland_ca_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "oakland_ca_united_states"
+    },
+    "oakland_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "oakland_ca_united¬†states"
+    },
+    "oklahoma_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "oklahoma_united¬†states"
+    },
+    "old_saybrook_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "old_saybrook_united¬†states"
+    },
+    "old_westbury_n.y_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "old_westbury_n.y_united_states"
+    },
+    "ontario_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "ontario_canada"
+    },
+    "oslo_norway": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "oslo_norway"
+    },
+    "osnabruãàck_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "osnabruãàck_germany"
+    },
+    "oxford": {
+        "Lat": -43.16667,
+        "Long": 172.08333,
+        "Pub_id": "oxford"
+    },
+    "oxford_eng_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "oxford_eng_england"
+    },
+    "oxford_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "oxford_england"
+    },
+    "oxfordshire_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "oxfordshire_england"
+    },
+    "palermo_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "palermo_italy"
+    },
+    "paramaribo_suriname": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "paramaribo_suriname"
+    },
+    "paran√°_brazil": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "paran√°_brazil"
+    },
+    "paris_fr_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "paris_fr_france"
+    },
+    "paris_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "paris_france"
+    },
+    "parker_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "parker_united¬†states"
+    },
+    "pasadena_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pasadena_ca_united¬†states"
+    },
+    "perros_guirec_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "perros_guirec_france"
+    },
+    "pessac_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pessac_france"
+    },
+    "peterborough_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "peterborough_canada"
+    },
+    "peterborough_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "peterborough_england"
+    },
+    "petit_bourg_guadeloupe": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "petit_bourg_guadeloupe"
+    },
+    "philadelphia_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "philadelphia_united_states"
+    },
+    "philippines_asia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "philippines_asia"
+    },
+    "philipsburg_st.¬†maarten": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "philipsburg_st.¬†maarten"
+    },
+    "pinar_del_r√≠o_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pinar_del_r√≠o_cuba"
+    },
+    "pittsburgh_pa_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pittsburgh_pa_united_states"
+    },
+    "pittsburgh_pa_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pittsburgh_pa_united¬†states"
+    },
+    "plouneãåour_meãånez_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "plouneãåour_meãånez_france"
+    },
+    "pointe_√ä_pitre_guadeloupe": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pointe_√ä_pitre_guadeloupe"
+    },
+    "pompano_beach_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pompano_beach_united¬†states"
+    },
+    "port_au__prince_haiti": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "port_au__prince_haiti"
+    },
+    "port_au_prince_haiti": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "port_au_prince_haiti"
+    },
+    "port_of_spain_trinidad": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "port_of_spain_trinidad"
+    },
+    "port_of_spain_trinidad_&_tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "port_of_spain_trinidad_&_tobago"
+    },
+    "port_of_spain_trinidad_&¬†tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "port_of_spain_trinidad_&¬†tobago"
+    },
+    "port_townsend_wa_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "port_townsend_wa_united_states"
+    },
+    "portland_or_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "portland_or_united_states"
+    },
+    "portland_or_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "portland_or_united¬†states"
+    },
+    "portsmouth_nh_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "portsmouth_nh_united_states"
+    },
+    "portsmouth_nh_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "portsmouth_nh_united¬†states"
+    },
+    "portsmouth_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "portsmouth_united¬†states"
+    },
+    "praha_czech_republic": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "praha_czech_republic"
+    },
+    "pretoria_south_africa": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "pretoria_south_africa"
+    },
+    "prince_frederick_md_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "prince_frederick_md_united¬†states"
+    },
+    "princeton_nj_new_jersey": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "princeton_nj_new_jersey"
+    },
+    "princeton_nj_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "princeton_nj_united¬†states"
+    },
+    "providence_ri_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "providence_ri_united¬†states"
+    },
+    "puebla_mexico": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "puebla_mexico"
+    },
+    "quebec_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "quebec_canada"
+    },
+    "red_bank_nj_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "red_bank_nj_united_states"
+    },
+    "reggio_emilia_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "reggio_emilia_italy"
+    },
+    "rennes_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "rennes_france"
+    },
+    "rhyl_wales": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "rhyl_wales"
+    },
+    "richmond_londonland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "richmond_londonland"
+    },
+    "riga_latvia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "riga_latvia"
+    },
+    "rijswijk_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "rijswijk_netherlands"
+    },
+    "rio_de_janeiro_br_brazil": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "rio_de_janeiro_br_brazil"
+    },
+    "rochester_ny_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "rochester_ny_united_states"
+    },
+    "roma_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "roma_italy"
+    },
+    "rome_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "rome_italy"
+    },
+    "rosario_argentina": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "rosario_argentina"
+    },
+    "roseau_dominica": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "roseau_dominica"
+    },
+    "saarbrücken_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "saarbrücken_germany"
+    },
+    "saint_croix_virgin_islands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "saint_croix_virgin_islands"
+    },
+    "saint_petersburg_russia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "saint_petersburg_russia"
+    },
+    "salt_lake_city_ut_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "salt_lake_city_ut_united_states"
+    },
+    "san_antonio_tx_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_antonio_tx_united_states"
+    },
+    "san_diego_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_diego_ca_united¬†states"
+    },
+    "san_fernando_trinidad_&¬†tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_fernando_trinidad_&¬†tobago"
+    },
+    "san_francisco_ca_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_francisco_ca_united_states"
+    },
+    "san_francisco_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_francisco_ca_united¬†states"
+    },
+    "san_franciso_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_franciso_ca_united¬†states"
+    },
+    "san_juan_puerto_rico": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_juan_puerto_rico"
+    },
+    "san_juan_trinidad_&¬†tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "san_juan_trinidad_&¬†tobago"
+    },
+    "sana_cruz_trinidad_&¬†tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "sana_cruz_trinidad_&¬†tobago"
+    },
+    "santa_clara_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "santa_clara_cuba"
+    },
+    "santiago_chile": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "santiago_chile"
+    },
+    "santiago_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "santiago_cuba"
+    },
+    "santiago_de_cuba_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "santiago_de_cuba_cuba"
+    },
+    "santo_domingo_dominican_republic": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "santo_domingo_dominican_republic"
+    },
+    "sao_paulo_brazil": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "sao_paulo_brazil"
+    },
+    "sassari_italy": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "sassari_italy"
+    },
+    "são_paulo_brazil": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "são_paulo_brazil"
+    },
+    "scarborough_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "scarborough_canada"
+    },
+    "schleswig_holstein_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "schleswig_holstein_germany"
+    },
+    "scott's_valley_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "scott's_valley_ca_united¬†states"
+    },
+    "scotts_valley_ca_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "scotts_valley_ca_united_states"
+    },
+    "scotts_valley_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "scotts_valley_united¬†states"
+    },
+    "seattle_wa_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "seattle_wa_united¬†states"
+    },
+    "sebastopol_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "sebastopol_united¬†states"
+    },
+    "seoul_south_korea": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "seoul_south_korea"
+    },
+    "seville_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "seville_spain"
+    },
+    "simsbury_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "simsbury_united¬†states"
+    },
+    "somerville_ma_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "somerville_ma_united¬†states"
+    },
+    "sonora_mexico": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "sonora_mexico"
+    },
+    "south_ozone_park_ny_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "south_ozone_park_ny_united¬†states"
+    },
+    "spartanburg_sc_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "spartanburg_sc_united_states"
+    },
+    "springfield_oh_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "springfield_oh_united_states"
+    },
+    "springfield_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "springfield_united¬†states"
+    },
+    "st._augustine_trinidad_&_tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "st._augustine_trinidad_&_tobago"
+    },
+    "st._augustine_trinidad_&¬†tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "st._augustine_trinidad_&¬†tobago"
+    },
+    "st._john's_antigua_&_barbuda": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "st._john's_antigua_&_barbuda"
+    },
+    "st._michael_barbados": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "st._michael_barbados"
+    },
+    "st._peter_barbados": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "st._peter_barbados"
+    },
+    "staten_island_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "staten_island_united¬†states"
+    },
+    "stockholm_sweden": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "stockholm_sweden"
+    },
+    "stuart_fl_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "stuart_fl_united_states"
+    },
+    "stuggart_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "stuggart_germany"
+    },
+    "stuttgart_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "stuttgart_germany"
+    },
+    "sudbury_on_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "sudbury_on_canada"
+    },
+    "surrey_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "surrey_england"
+    },
+    "swansea_wales": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "swansea_wales"
+    },
+    "sydney_australia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "sydney_australia"
+    },
+    "tafalla_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tafalla_spain"
+    },
+    "taipei_taiwan": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "taipei_taiwan"
+    },
+    "tel_aviv_israel": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tel_aviv_israel"
+    },
+    "the_hague_netherlands": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "the_hague_netherlands"
+    },
+    "the_morne_st.¬†lucia": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "the_morne_st.¬†lucia"
+    },
+    "thomaston_maine": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "thomaston_maine"
+    },
+    "thorofare_nj_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "thorofare_nj_united¬†states"
+    },
+    "thousand_oaks_ca_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "thousand_oaks_ca_united¬†states"
+    },
+    "tihraãñn_iran": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tihraãñn_iran"
+    },
+    "tokyo_japan": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tokyo_japan"
+    },
+    "toronto__canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "toronto__canada"
+    },
+    "toronto_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "toronto_canada"
+    },
+    "toronto_on_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "toronto_on_canada"
+    },
+    "tr": {
+        "Lat": 29.84064,
+        "Long": 89.29688,
+        "Pub_id": "tr"
+    },
+    "tres_cantos_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tres_cantos_spain"
+    },
+    "trier_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "trier_germany"
+    },
+    "trinidad_&_tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "trinidad_&_tobago"
+    },
+    "tulsa_ok_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tulsa_ok_united¬†states"
+    },
+    "tunapuna_trinidad_&_tonbago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tunapuna_trinidad_&_tonbago"
+    },
+    "tunapuna_trinidad_&¬†tobago": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tunapuna_trinidad_&¬†tobago"
+    },
+    "tuscon_az_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "tuscon_az_united¬†states"
+    },
+    "urbana_il_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "urbana_il_united¬†states"
+    },
+    "vaduz_liechtenstein": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "vaduz_liechtenstein"
+    },
+    "valencia_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "valencia_spain"
+    },
+    "valencia_v_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "valencia_v_spain"
+    },
+    "vancouver_bc_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "vancouver_bc_canada"
+    },
+    "vedado_cuba": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "vedado_cuba"
+    },
+    "vienne_france": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "vienne_france"
+    },
+    "vigo_spain": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "vigo_spain"
+    },
+    "warners_bay_n.s.w.": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "warners_bay_n.s.w."
+    },
+    "warszawa_poland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "warszawa_poland"
+    },
+    "washington_d.c_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "washington_d.c_united_states"
+    },
+    "washington_d.c_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "washington_d.c_united¬†states"
+    },
+    "washington_dc_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "washington_dc_united_states"
+    },
+    "washington_dc_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "washington_dc_united¬†states"
+    },
+    "waterloo_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "waterloo_canada"
+    },
+    "west_port_ct_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "west_port_ct_united¬†states"
+    },
+    "westminster_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "westminster_england"
+    },
+    "westminster_ldn_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "westminster_ldn_england"
+    },
+    "westport_ct_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "westport_ct_united¬†states"
+    },
+    "wetzlar_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "wetzlar_germany"
+    },
+    "whitefish_mt_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "whitefish_mt_united¬†states"
+    },
+    "willimantic_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "willimantic_united¬†states"
+    },
+    "wilmore_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "wilmore_united¬†states"
+    },
+    "windsor_canada": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "windsor_canada"
+    },
+    "winston_salem_nc_united_states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "winston_salem_nc_united_states"
+    },
+    "woodbridge_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "woodbridge_united¬†states"
+    },
+    "woodstock_ny_united¬†states": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "woodstock_ny_united¬†states"
+    },
+    "wuppertal_germany": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "wuppertal_germany"
+    },
+    "yorkshire_england": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "yorkshire_england"
+    },
+    "zurich_switserland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "zurich_switserland"
+    },
+    "zurich_switzerland": {
+        "Lat": null,
+        "Long": null,
+        "Pub_id": "zurich_switzerland"
+    }
+}

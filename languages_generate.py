@@ -10,7 +10,7 @@ from operator import itemgetter
 # Settings
 # ---------
 
-CSV_LOCATION = os.getcwd() + '/raw-data/'
+CSV_LOCATION = os.getcwd() + '/raw-data-2/'
 ENGLISH_JSON = os.getcwd() + 'data/english.json'
 FRENCH_JSON = os.getcwd() + 'data/french.json'
 SPANISH_JSON = os.getcwd() + 'data/spanish.json'

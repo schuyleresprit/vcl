@@ -124,7 +124,8 @@ def process_author_files(csv_path, csv_list, geonames_username):
           break
 
         if not(row['Title'] == '' and row['Pubdate'] == '' and row['Language'] == '' and row['Genre'] == ''):
-          place_name = row['City'] + ', ' + row['Country']
+          place_name = row['Pub_id']
+          #row['City'] + ', ' + row['Country']
 
         if not place_name in places:
           place_info = {}
