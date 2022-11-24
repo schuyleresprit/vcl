@@ -11,10 +11,11 @@ box-sizing: border-box;}
 }
 
 .timeline.clearfix img {
-    max-width: 100%;
-    min-width: 100%;
-    max-height: 100%;
-    min-height: 100%;
+    max-width: 70%;
+    min-width: 70%;
+    max-height: 70%;
+    min-height: 70%;
+    box-shadow: 0px 0px 11px #888;
 }
 
 img {
