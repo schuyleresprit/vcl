@@ -11,6 +11,3 @@ Author profiles generally include new editions, translations and significant rep
 <div class="authors">
 {% include browse-authors.html %}
 </div>
-
-
-.
