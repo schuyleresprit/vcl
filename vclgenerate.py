@@ -1,10 +1,12 @@
 import os
 import csv
 import pandas as pd
-import datetime
+#import datetime
 import codecs
 import json
-from geopy import geocoders
+import geocoder
+from mapbox import Geocoder
+#from geopy import geocoders
 from operator import itemgetter
 
 # ---------
@@ -21,7 +23,10 @@ LANGUAGES_JSON = os.getcwd() + '/data/languages.json'
 GENRES_JSON = os.getcwd() + '/data/genres.json'
 TRANSLATIONS_JSON = os.getcwd() + '/data/translations.json'
 PUBLICATIONS_JSON = os.getcwd() + '/data/publications.json'
-GEONAMES_USERNAME = 'schuylere'
+MAPBOX_USERNAME = 'schuylere'
+access_token='pk.eyJ1Ijoic2NodXlsZXJlIiwiYSI6ImNsMmh3aGRuMjAxN3MzaW1rMmZoenhpMTMifQ.Nwv-MP6OK6eOKW_bfNYRaw'
+
+#GEONAMES_USERNAME = 'schuylere'
 
 # ----------
 # Functions
@@ -43,30 +48,28 @@ def get_csv_list(csv_location):
 # Returns the GeoNames latitude and longitude of the place name provided.
 # If the place is not found, the function returns None for both longitude and latitude.
 #-------------------------------------------------------------------------
-def get_lat_long(place_name, geonames_username):
-  gn = geocoders.GeoNames(username=geonames_username, timeout=None)
-  location = gn.geocode(place_name,timeout=None)
+def get_lat_long(place_name, mapbox_username):
+  location = geocoder.mapbox(place_name, username=mapbox_username, timeout=None)
   if location == None:
     print(place_name, "not found.")
     return None, None
   else:
-    return location.latitude, location.longitude
+    return location.lat, location.lng
 #--------------------------------------------------------------------------
-def get_author_country_geo(author_country, geonames_username):
-  gn = geocoders.GeoNames(username=geonames_username, timeout=None)
-  location = gn.geocode(author_country,timeout=None)
+def get_author_country_geo(author_country, mapbox_username):
+  location = geocoder.mapbox(author_country, username=mapbox_username, timeout=None)
   if location == None:
     print(author_country, "not found.")
     return None, None
   else:
-    return location.latitude, location.longitude
+    return location.lat, location.lng
 # -------------------------------------------------------------------------
 # Returns a dictionary of author ids (key is the author name and the value is their id)
 # Returns a dictionary of places
 # places = { 'PlaceName': {'Lat': xxx, 'Long': yyy, 'Pub_id': ##}, ... }
 # Returns a dictionary each author movement# The keys for each movement in the author_movements dictionary are as follows:
 #-------------------------------------------------------------------------
-def process_author_files(csv_path, csv_list, geonames_username):
+def process_author_files(csv_path, csv_list, mapbox_username):
   author_ids = {}
   publications = {}
   places = {}
@@ -99,7 +102,7 @@ def process_author_files(csv_path, csv_list, geonames_username):
 #----------------------------------------------------------------
 #get author country coordinates for each author_id
 #----------------------------------------------------------------
-      lat, long = get_author_country_geo(author_country, geonames_username)
+      lat, long = get_author_country_geo(author_country, mapbox_username)
 
       country_name = author_info[2]
       if not country_name in countries:
@@ -130,7 +133,7 @@ def process_author_files(csv_path, csv_list, geonames_username):
         if not place_name in places:
           place_info = {}
 
-          lat, long = get_lat_long(place_name, geonames_username)
+          lat, long = get_lat_long(place_name, mapbox_username)
           place_info['Lat'] = lat
           place_info['Long'] = long
 
@@ -185,6 +188,16 @@ def process_author_files(csv_path, csv_list, geonames_username):
             languages[language_id].append(author_publications)
             row_index += 1
 #-------------------------------------------------------------------------------
+# get items in language json
+#-------------------------------------------------------------------------------
+
+        for row['Language'] in languages:
+          if language_id == True: 
+            languages.setdefault(language_id, []).append(author_publications)
+            row_index =+ 1
+            print(author_publications)
+
+#-------------------------------------------------------------------------------
         for i in range(2):
           if not row['Genre'] in genres:
             genres[row['Genre']] = []
@@ -221,7 +234,7 @@ def process_author_files(csv_path, csv_list, geonames_username):
 # Function calls
 # ---------------
 csv_list = get_csv_list(CSV_LOCATION)
-author_ids, publications, places, countries, languages, genres, timeline, translations = process_author_files(CSV_LOCATION, csv_list, GEONAMES_USERNAME)
+author_ids, publications, places, countries, languages, genres, timeline, translations = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
 
 with codecs.open(AUTHOR_ID_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(author_ids, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))

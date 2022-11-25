@@ -1,20 +1,24 @@
 import csv
 import sys
+import json
+import Node
+from python_utils import QueueFrontier
+from python_utils import StackFrontier
+ 
 
-from util import StackFrontier, QueueFrontier
-from util import  Node
 
 # Maps names to a set of corresponding author_country
 countries = {}
 
-# Maps author_ids to a dictionary of: name, birth, movies (a set of movie_ids)
+# Maps author_ids to a dictionary of: name, title, pubdate,  publisher
 authors = {}
 
 # Maps movie_ids to a dictionary of: title, year, stars (a set of person_ids)
 languages = {}
 
 genres = {}
-
+names = {}
+titles = {}
 #
 
 
@@ -22,37 +26,37 @@ def load_data(directory):
     """
     Load data from CSV files into memory.
     """
-    # Load people
-    with open(f"{directory}/people.csv", encoding="utf-8") as f:
+    # Load authors
+    with open(f"{directory}/data/authors.json", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            people[row["id"]] = {
-                "name": row["name"],
-                "birth": row["birth"],
-                "movies": set()
+            authors[row["id"]] = {
+                "name": row["Author"],
+                "author_id": row["author_id"],
+                "titles": set()
             }
             if row["name"].lower() not in names:
                 names[row["name"].lower()] = {row["id"]}
             else:
                 names[row["name"].lower()].add(row["id"])
 
-    # Load movies
-    with open(f"{directory}/movies.csv", encoding="utf-8") as f:
+    # Load titles
+    with open(f"{directory}data/publications.json", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            movies[row["id"]] = {
+            titles[row["id"]] = {
                 "title": row["title"],
-                "year": row["year"],
-                "stars": set()
+                "year": row["Pubdate"],
+                "language": set()
             }
 
     # Load stars
-    with open(f"{directory}/stars.csv", encoding="utf-8") as f:
+    with open(f"{directory}/data/languages.json", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             try:
-                people[row["person_id"]]["movies"].add(row["movie_id"])
-                movies[row["movie_id"]]["stars"].add(row["person_id"])
+                authors[row["person_id"]]["title"].add(row["movie_id"])
+                titles[row["movie_id"]]["language"].add(row["person_id"])
             except KeyError:
                 pass
 
@@ -83,9 +87,9 @@ def main():
         print(f"{degrees} degrees of separation.")
         path = [(None, source)] + path
         for i in range(degrees):
-            person1 = people[path[i][1]]["name"]
-            person2 = people[path[i + 1][1]]["name"]
-            movie = movies[path[i + 1][0]]["title"]
+            person1 = authors[path[i][1]]["name"]
+            person2 = authors[path[i + 1][1]]["name"]
+            movie = titles[path[i + 1][0]]["title"]
             print(f"{i + 1}: {person1} and {person2} starred in {movie}")
 
 
@@ -154,7 +158,7 @@ def person_id_for_name(name):
     elif len(person_ids) > 1:
         print(f"Which '{name}'?")
         for person_id in person_ids:
-            person = people[person_id]
+            person = authors[person_id]
             name = person["name"]
             birth = person["birth"]
             print(f"ID: {person_id}, Name: {name}, Birth: {birth}")
@@ -171,13 +175,13 @@ def person_id_for_name(name):
 
 def neighbors_for_person(person_id):
     """
-    Returns (movie_id, person_id) pairs for people
+    Returns (movie_id, person_id) pairs for authors
     who starred with a given person.
     """
-    movie_ids = people[person_id]["movies"]
+    movie_ids = authors[person_id]["titles"]
     neighbors = set()
     for movie_id in movie_ids:
-        for person_id in movies[movie_id]["stars"]:
+        for person_id in titles[movie_id]["stars"]:
             neighbors.add((movie_id, person_id))
     return neighbors
 
