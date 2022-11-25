@@ -109,9 +109,9 @@ permalink: /mconde
             <div class="dot"></div>
             <div class="right">
                 <h1>Une Saison à Rihata</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41QJt-ozKSL._SX314_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: English<br/>
+                Language: French<br/>
                 Publisher: Éditions Robert Laffont<br/>
                 Pub_location: Paris, France<br/>
                 Genre: Fiction (Novel)<br/>
@@ -119,73 +119,73 @@ permalink: /mconde
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Rihata</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540133546l/42407044.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Finnish<br/>
+                Publisher: Art House<br/>
+                Pub_location: Helsingissä Hki, Finland<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 230<br/>                   </p>
             </div>
         </div>
       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>De Open Plek Over Franstalige Literatuur uit de Antillen</h1><hr>
+                <p><img src="https://v112.nbc.bibliotheek.nl/thumbnail?width=320&uri=http%3A%2F%2Fdata.bibliotheek.nl%2Fggc%2Fppn%2F154068985&no-cover-image=false&token=45688e6d"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Dutch<br/>
+                Publisher: In de Knipscheer<br/>
+                Pub_location: Haarlem, Netherlands<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 158<br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>De Aarden Wallen</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51h4d-Q+WYL._SX307_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Dutch<br/>
+                Publisher: In de Knipscheer<br/>
+                Pub_location: Haarlem, Netherlands<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 654<br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Segu</h1><hr>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+889278477_140.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br/>
+                Publisher: <Ballantine Booksbr/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 493<br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Les Murailles de Terre</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/516S97XQ04L._SX210_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: French<br/>
+                Publisher: France Loisirs<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 487<br/>                   </p>
             </div>
         </div>
 <!-- partial -->
