@@ -1,194 +1,40 @@
 ---
 layout: defaultau
-title: "AUTHOR NAME"
-permalink: /AUTHORID
+title: "Albert Maria Gomes"
+permalink: /amgomes
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>AUTHOR NAME</h1>
+    <h1>Albert Maria Gomes</h1>
     <div class="quote">
-        <div><img src="AUTHOR IMAGE LINK" class="logo"></div>
+        <div><img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/9842/UWI-PIC-320.pdf.jpg?sequence=4&isAllowed=y" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
+            <div class="date right"><p class="right"> 1911-1978</p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>AUTHOR is from AUTHOR COUNTRY.</p>
-                <a href="WIKI LINK"_blank">Read more</a>
+            <p>Albert Maria Gomes is from Trinidad & Tobago.</p>
+                <a href="https://en.wikipedia.org/wiki/The_Beacon_(magazine)"_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1931</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
+                <h1>The Beacon</h1><hr>
                 <p><img src="IMAGE LINK"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
+                Language: English<br/>
+                Publisher: Albert Gomez<br/>
+                Pub_location: Port of Spain, Trinidad & Tobago<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: <br/>                   </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-      <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-<!-- partial -->
+  <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
 
 
