@@ -130,6 +130,11 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 	margin-top: 70px;
 
 }
+
+.languages #data-container {
+    margin-bottom: 20px !important;
+}
+
 .mt-5 {
     margin-top: 0rem!important;
 }
