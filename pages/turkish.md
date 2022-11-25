@@ -51,7 +51,7 @@ permalink: /Turkish
 					case "turkish":
 						for (key in data) {
 							temp.push({
-								"flavorText" : data[key]["Author"],
+								"flavorText" : data[key]["Title"],
 								"subtitle" : data[key]["Title"],
 								"link" : data[key]["Pubdate"]
 							});

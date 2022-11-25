@@ -13,7 +13,7 @@ from operator import itemgetter
 # Settings
 # ---------
 
-CSV_LOCATION = os.getcwd() + '/raw-data-2/'
+CSV_LOCATION = os.getcwd() + '/raw-data/'
 AUTHOR_ID_JSON = os.getcwd() + '/data/author_ids.json'
 TIMELINE_JSON = os.getcwd() + '/data/timeline.json'
 INTERSECTIONS_JSON = os.getcwd() + '/data/intersections.json'
@@ -188,16 +188,6 @@ def process_author_files(csv_path, csv_list, mapbox_username):
             languages[language_id].append(author_publications)
             row_index += 1
 #-------------------------------------------------------------------------------
-# get items in language json
-#-------------------------------------------------------------------------------
-
-        for row['Language'] in languages:
-          if language_id == True: 
-            languages.setdefault(language_id, []).append(author_publications)
-            row_index =+ 1
-            print(author_publications)
-
-#-------------------------------------------------------------------------------
         for i in range(2):
           if not row['Genre'] in genres:
             genres[row['Genre']] = []
@@ -213,11 +203,8 @@ def process_author_files(csv_path, csv_list, mapbox_username):
             publications_by_timeline[row['Pubdate']] = []
             timeline[date_id].append(author_publications)
             row_index += 1
-            #print(author_publications)
+#-------------------------------------------------------------------------------
         for i in range (2):
-          #print(author_publications)
-          #if not row['Translation'] in translations:
-          #	translations[row['Translation']] = []
           if not row['Translation'] in publications_by_translation:
             publications_by_translation[row['Translation']] = []
             if translation_id == 'y':
