@@ -1,115 +1,64 @@
 Jean Rhys,jrhys,dominica,,,,,,,,,
 authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
-jrhys,Wide Sargasso Sea,1987,Arabic,Dar al-Ma'mun,Baghdad,Iraq,baghdad_iraq,Fiction (Novel),y,159,
-jrhys,Quartet,1990,Chinese,China Federation of Literary and Art Circles Publishing Company,Beijing,China,beijing_china,Fiction (Novel),y,189,
-jrhys,Cang Hai Mang Mang,1986,Chinese,People's Literature Publishing House,Beijing,China,beijing_china,NA,y,193,
-jrhys,Voyage In The Dark,1984,Danish,Lindhardt og Ringhof,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,169,
-jrhys,Voyage In The Dark,1983,Danish,Samlerens Bogklub,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,169,
-jrhys,Voyage In The Dark,1982,Danish,Tiderne Skifter,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,169,
+jrhys,Wide Sargasso Sea,1987,Arabic,Dar al-Ma'mun,Baghdad,Iraq,baghdad_iraq,Fiction (Novel),y,159,"Jasim, Falah Rahim"
+jrhys,Quartet,1990,Chinese,China Federation of Literary and Art Circles Publishing Company,Beijing,China,beijing_china,Fiction (Novel),y,189,Li si; Liu ming zheng
+jrhys,Cang Hai Mang Mang,1986,Chinese,People's Literature Publishing House,Beijing,China,beijing_china,NA,y,193,"Wang, Jiaxiang"
+jrhys,Voyage In The Dark,1982,Danish,Tiderne Skifter,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,169,"Hertel, Lisbeth"
 jrhys,"Good Morning, Midnight",1985,Danish,Tiderne Skifter,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,170,
-jrhys,Efter Bruddet,1984,Danish,Tiderne Skifter,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,171,
-jrhys,Quartet,1983,Danish,Tiderne Skifter,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,163,
+jrhys,Quartet,1983,Danish,Tiderne Skifter,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,163,"Hertel, Lisbeth"
 jrhys,Efter Bruddet,1981,Danish,Tiderne Skifter,Copenhagen,Denmark,copenhagen_denmark,Fiction (Novel),y,171,
-jrhys,Wide Sargasso Sea,1983,Dutch,Bert Bakker,Amsterdam,Netherlands,amsterdam_netherlands,Fiction (Novel),y,159,
-jrhys,"Goedemorgen, Middernacht",1982,Dutch,Bert Bakker,Amsterdam,Netherlands,amsterdam_netherlands,Fiction (Novel),y,153,Translator: Max Schuchart
+jrhys,Wide Sargasso Sea,1983,Dutch,Bert Bakker,Amsterdam,Netherlands,amsterdam_netherlands,Fiction (Novel),y,159,"Williams, Ella Gwendolen Rees"
+jrhys,"Goedemorgen, Middernacht",1982,Dutch,Bert Bakker,Amsterdam,Netherlands,amsterdam_netherlands,Fiction (Novel),y,153,"Schuchart, Max"
 jrhys,Wide Sargasso Sea,1966,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,196,
-jrhys,Wide Sargasso Sea,1966,English,W. W. Norton Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,159,
-jrhys,Wide Sargasso Sea,2016,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,176,
-jrhys,"Good Morning, Midnight",2020,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,208,
-jrhys,After Leaving Mr. Mackenzie,1931,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,208,
-jrhys,The Collected Short Stories,1992,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Short Story Collection),n,403,
-jrhys,Voyage In The Dark,1994,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,192,
-jrhys,"Left Bank, And Other Stories",1927,English,Books for Libraries Press,"Freeport, NY",United States,new_york_ny_united_states,Fiction (Short Story Collection),n,256,
-jrhys,Tigers Are Better-Looking;: With A Selection From The Left Bank: Stories,1968,English,Andre Deutsch Limited,London,England,london_ldn_england,Fiction (Short Story Collection),n,236,
-jrhys,Wide Sargasso Sea,1989,English,Hodder and Stoughton,London,England,london_ldn_england,Fiction (Novel),n,159,
-jrhys,Wide Sargasso Sea,1983,English,Andre Deutsch Limited,London,England,london_ldn_england,Fiction (Novel),n,159,
-jrhys,Wide Sargasso Sea,1981,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,159,
-jrhys,The Left Bank & Other Stories,1984,English,Ayer Company Publishers,"North Stratford, NH",United States,north_stratford_nh_united_states,Fiction (Short Story Collection),n,256,Co-authors: Ford Madox Ford
-jrhys,Voyage In The Dark,1984,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,192,Co-authors: Julia Alvarez
-jrhys,Voyage In The Dark,1982,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,192,Co-authors: Julia Alvarez
-jrhys,Voyage In The Dark,1981,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,192,Co-authors: Julia Alvarez
-jrhys,After Leaving Mr. Mackenzie,1990,English,Carroll & Graf,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,184,Co-authors: Miranda Seymour
-jrhys,After Leaving Mr. Mackenzie,1939,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,184,Co-authors: Miranda Seymour
-jrhys,After Leaving Mr. Mackenzie,1987,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,184,Co-authors: Miranda Seymour
-jrhys,After Leaving Mr Mackenzie,1982,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,184,Co-authors: Miranda Seymour
-jrhys,After Leaving Mr Mackenzie,1981,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,184,Co-authors: Miranda Seymour
-jrhys,After Leaving Mr. Mackenzie,1930,English,Isis Large Print,Oxford,England,,Fiction (Novel),n,184,Co-authors: Miranda Seymour
-jrhys,After Leaving Mr Mackenzie,1900,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,184,Co-authors: Miranda Seymour
-jrhys,Quartet,1929,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,163,
-jrhys,Quartet,1987,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,163,
-jrhys,Quartet,1983,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,163,
-jrhys,Smile Please: An Unfinished Autobiography,1979,English,Penguin Books,London,England,london_ldn_england,Autobiography/Memoir,n,157,
-jrhys,Smile Please: An Unfinished Autobiography,1983,English,Creative Arts Book Company,"Berkeley, CA",United States,berkeley_ca_united¬†states,Autobiography/Memoir,n,157,
-jrhys,Smile Please: An Unfinished Autobiography,1981,English,Penguin Books,London,England,london_ldn_england,Autobiography/Memoir,n,157,
-jrhys,Sleep It Off Lady: Stories,1976,English,Penguin Books,London,England,london_ldn_england,Fiction (Short Story Collection),n,175,
-jrhys,Sleep It Off Lady: Stories,1981,English,Penguin Books,London,England,london_ldn_england,Fiction (Short Story Collection),n,175,
-jrhys,Tigers Are Better-Looking: With A Selection From The Left Bank,1986,English,Penguin Books,London,England,london_ldn_england,Fiction (Short Story Collection),n,236,
-jrhys,Tigers Are Better-Looking: With A Selection From The Left Bank,1981,English,Penguin Books,London,England,london_ldn_england,Fiction (Short Story Collection),n,236,
-jrhys,"Good Morning, Midnight",1939,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,192,
-jrhys,"Good Morning, Midnight",1986,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,192,
-jrhys,"Good Morning, Midnight",1984,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,192,
-jrhys,"Good Morning, Midnight",1982,English,Perennial Library,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,192,
-jrhys,"Good Morning, Midnight",1981,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,192,
-jrhys,Tales Of The Wide Caribbean,1985,English,Heinemann,London,England,london_ldn_england,,n,180,
-jrhys,Smile Please,2016,English,Penguin Books,London,England,london_ldn_england,Autobiography/Memoir,n,173,
-jrhys,Smile Please: An Unfinished Autobiography,1979,English,Andre Deutsch Limited,London,England,london_ldn_england,Autobiography/Memoir,n,173,
-jrhys,After Leaving Mr Mackenzie,1982,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,208,
-jrhys,Smile Please: An Unfinished Autobiography,1990,English,Penguin Books,London,England,london_ldn_england,Autobiography/Memoir,n,173,
-jrhys,Tigers Are Better Looking,1987,English,Penguin Books,London,England,london_ldn_england,Fiction (Short Story Collection),n,236,
+jrhys,The Collected Short Stories,1976,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Short Story Collection),n,403,
+jrhys,"Left Bank, And Other Stories",1927,English,Books for Libraries Press,"Freeport, NY",United States,freeport_ny_united¬†states,Fiction (Short Story Collection),n,256,
+jrhys,Tigers Are Better-Looking;: With A Selection From The Left Bank: Stories,1968,English,Andre Deutsch Limited,London,England,(london)_england,Fiction (Short Story Collection),n,236,
+jrhys,Voyage In The Dark,1934,English,Penguin Books,London,England,(london)_england,Fiction (Novel),n,192,
+jrhys,After Leaving Mr. Mackenzie,1930,English,Isis Large Print,Oxford,England,oxford_england,Fiction (Novel),n,184,
+jrhys,Quartet,1928,English,Penguin Books,London,England,(london)_england,Fiction (Novel),n,163,
+jrhys,Smile Please: An Unfinished Autobiography,1979,English,Penguin Books,London,England,(london)_england,Autobiography/Memoir,n,157,
+jrhys,Sleep It Off Lady: Stories,1976,English,Penguin Books,London,England,(london)_england,Fiction (Short Story Collection),n,175,
+jrhys,"Good Morning, Midnight",1939,English,Penguin Books,London,England,(london)_england,Fiction (Novel),n,192,
+jrhys,Tales Of The Wide Caribbean,1985,English,Heinemann,London,England,(london)_england,Fiction (Short Story Collection),n,180,
 jrhys,The Left Bank & Other Stories,1927,French,Mercure de France,Paris,France,paris_fr_france,Fiction (Short Story Collection),y,256,
 jrhys,Quartet,1982,French,Gallimard,Paris,France,paris_fr_france,Fiction (Novel),y,189,
-jrhys,The Left Bank & Other Stories,1927,English,Jonathan Cape,London,England,london_ldn_england,Fiction (Novel),n,256,
-jrhys,"Bonjour, Minuit",1987,French,Éditions Denoël,Paris,France,paris_fr_france,Fiction (Novel),y,223,
-jrhys,Quartett Roman,1985,German,Rogner und Bernhard,München,Germany,munchen_germany,Fiction (Novel),y,450,
+jrhys,"Bonjour, Minuit",1987,French,Éditions Denoël,Paris,France,paris_fr_france,Fiction (Novel),y,223,Jacqueline Bernard.
+jrhys,Quartett Roman,1985,German,Rogner und Bernhard,München,Germany,munchen_germany,Fiction (Novel),y,450,"Missen, Michaela; Leube, Anna"
 jrhys,Lächeln bitte! Unvollendete Erinnerungen,1982,German,Rogner und Bernhard,München,Germany,munchen_germany,Autobiography/Memoir,y,237,
-jrhys,Sargassomeer,1983,German,Fischer Taschenbuch Verlag,Frankfurt,Germany,frankfurt_ge_germany,Fiction (Novel),y,134,
-jrhys,Irrfahrt Im Dunkel,1985,German,Rogner und Bernhard,München,Germany,munchen_germany,Fiction (Novel),y,438,
-jrhys,The Complete Novels,1985,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,574,
+jrhys,Irrfahrt Im Dunkel,1985,German,Rogner und Bernhard,München,Germany,munchen_germany,Fiction (Novel),y,438,Simon Werle
+jrhys,The Complete Novels,1976,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,574,
 jrhys,"Adieu Marcus, Adieu Rose Erzählungen",1985,German,Rogner und Bernhard,München,Germany,munchen_germany,Fiction (Short Story Collection),y,559,
-jrhys,Hē platia thalassa tōn Sargassōn,1987,Greek,Gnose,Athens,Greece,athens_greece,Fiction (Novel),y,192,
-jrhys,Yam Sargaso ha-raḥav,1981,Hebrew,"Zemorah, Bitan, Modan",Tel Aviv,Israel,tel_aviv_israel,Fiction (Novel),y,164,
-jrhys,Bugzar Anra Gaz Binamand: Guzida-I Az Dastanha-Yi Nawisandigan-I Mu`asir-i Gahan,1990,Iranian,Nasr-i Mu`asir,The Hague,Netherlands,the_hague_netherlands,,y,,
-jrhys,Il grande mare dei Sargassi,1989,Italian,Adelphi,Milano,Italy,milano_italy,Fiction (Novel),y,207,
-jrhys,Viaje en la oscuridad,1981,Spanish,J. Vergara Editor,Buenos Aires,Argentina,,Fiction (Novel),y,183,
-jrhys,L'Ampla mar dels Sargassos,1987,Spanish,Columna,Barcelona,Spain,,Fiction (Novel),y,155,
-jrhys,Viaje en la oscuridad,1990,Spanish,Editorial Grijalbo,Mexico City,Mexico,mexico_d.f._mexico,Fiction (Novel),y,223,
-jrhys,Después de dejar al señor Mackenzie,1983,Spanish,Noguer,Barcelona,Spain,,Fiction (Novel),y,226,
-jrhys,Cuarteto,1990,Spanish,Grijalbo Mondadori,Barcelona,Spain,,Fiction (Novel),y,235,
-jrhys,Cuarteto,1983,Spanish,J. Vergara Editor,Buenos Aires,Argentina,,Fiction (Novel),y,212,
-jrhys,"Sonríe, por favor : una autobiografía inconclusa",1989,Spanish,Fondo de Cultura Economica,Mexico City,Mexico,mexico_d.f._mexico,Autobiography/Memoir,y,190,
-jrhys,"Buenos días, medianoche",1981,Spanish,J. Vergara Editor,Buenos Aires,Argentina,,Fiction (Novel),y,194,
-jrhys,Los tigres son más hermosos,1983,Spanish,Editorial Anagrama,Barcelona,Spain,,Fiction (Short Story Collection),y,141,
-jrhys,Dörtlü,1985,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,191,
-jrhys,Ancho mar de los Sargazos,1982,Spanish,Bruguera,Barcelona,Spain,,Fiction (Novel),y,191,
-jrhys,Ein Abend In Der Stadt: Erzählungen,1990,German,Kiepenheuer & Witsch,Köln,Germany,,Fiction (Short Story Collection),y,265,
-jrhys,Ayriliktan Sonra,1985,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,158,
-jrhys,Lasers (Look Inside),1981,English,Blackwell Raintree,Oxford,England,,Fiction (Novel),n,48,
-jrhys,Ancho mar de los Sargazos,1990,Spanish,Anagrama,Barcelona,Spain,,Fiction (Novel),y,196,
-jrhys,Después de dejar al señor Mackenzie,1990,Spanish,Anagrama,Barcelona,Spain,,Fiction (Novel),y,205,
-jrhys,Después de dejar al señor Mackenzie,1983,Spanish,Noguer,Barcelona,Spain,,Fiction (Novel),y,198,
-jrhys,El Vasto Mar De Los Sargazos,1982,Spanish,Casa de las Américas,Havana,Cuba,,Fiction (Novel),y,172,
-jrhys,"Ci dorma sopra, Signora",1982,Italian,La Tartaruga,Milano,Italy,milano_italy,Fiction (Short Story Collection),y,142,
-jrhys,여자가이별을말할때 (Yoja Ka Ibyol Ul Mal Halttae),1983,Korean,Munjisa,Seoul,South Korea,seoul_south_korea,Fiction (Novel),y,210,
-jrhys,Viaje en la oscuridad,1981,Spanish,Javier Vergara,Buenos Aires,Argentina,,Fiction (Novel),y,183,
-jrhys,Quatuor,1981,French,Loisirs,Paris,France,paris_fr_france,Fiction (Novel),y,222,
-jrhys,"Good Morning, Midnight",2020,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,181,
-jrhys,Günaydın geceyarısı,1990,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,191,
-jrhys,カルテット / (Karutetto),1988,Japanese,Hayakawa Publishing (早川書房),Tokyo,Japan,,Fiction (Novel),y,233,
-jrhys,Karanlıkta yolculuk,1989,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,165,
-jrhys,Geniş geniş bir deniz,1982,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,216,
-jrhys,Aphotou ephyge apo ton kyrio Makenzy,1982,"Greek, Modern",Chatzenikole,Athena,Greece,athena_greece,Fiction (Novel),y,134,
-jrhys,Nach der Trennung von Mr. Mackenzie,1984,German,Ullstein,Frankfurt,Germany,frankfurt_ge_germany,Fiction (Novel),y,222,
-jrhys,Den Första Hustrun,1989,Swedish,Btj,Stockholm,Sweden,stockholm_sweden,Fiction (Novel),y,186,
-jrhys,"Que Usted La Duerma Bien, Señora",1985,Spanish,Bruguera,Barcelona,Spain,,Fiction (Short Story Collection),y,173,
-jrhys,Taxidi Sto Skotadi,1989,"Greek, Modern",Ekdoseis Astartē,Athena,Greece,athena_greece,Fiction (Novel),y,155,
-jrhys,Quartet,1973,English,Penguin Books,London,England,london_ldn_england,Fiction (Novel),n,143,
-jrhys,Marea Sargasselor,1988,Romanian,Univers,Bucuresti,Romania,,Fiction (Novel),y,203,
-jrhys,Tales Of The Wide Caribbean,1985,English,Heinemann,London,England,london_ldn_england,Fiction (Short Story Collection),n,180,
-jrhys,Sargassomeer,1982,German,Frankfurt Fischer-Taschenbuch-Verlag,Berlin,Germany,berlin_verl_germany,Fiction (Novel),y,134,
-jrhys,Smile Please: An Unfinished Autobiography,1981,English,Penguin Books,London,England,london_ldn_england,Autobiography/Memoir,n,173,
-jrhys,After Leaving Mr. Mackenzie,2020,English,W. W. Norton & Company,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,208,
+jrhys,Hē platia thalassa tōn Sargassōn,1987,Greek,Gnose,Athens,Greece,athens_greece,Fiction (Novel),y,192,Nasia Magiakou
+jrhys,Yam Sargaso ha-raḥav,1981,Hebrew,"Zemorah, Bitan, Modan",Tel Aviv,Israel,tel_aviv_israel,Fiction (Novel),y,164,Aharon Amir.
+jrhys,Il grande mare dei Sargassi,1989,Italian,Adelphi,Milano,Italy,milano_italy,Fiction (Novel),y,207,Adriana Motti
+jrhys,Viaje en la oscuridad,1981,Spanish,J. Vergara Editor,Buenos Aires,Argentina,buenos_aires_argentina,Fiction (Novel),y,183,Rolando Costa Picazo
+jrhys,L'Ampla mar dels Sargassos,1987,Spanish,Columna,Barcelona,Spain,barcelona_spain,Fiction (Novel),y,155,Dolors Udina
+jrhys,Después de dejar al señor Mackenzie,1983,Spanish,Noguer,Barcelona,Spain,barcelona_spain,Fiction (Novel),y,226,Raúl Acuña
+jrhys,Cuarteto,1983,Spanish,J. Vergara Editor,Buenos Aires,Argentina,buenos_aires_argentina,Fiction (Novel),y,212,R. Costa Picazo
+jrhys,"Sonríe, por favor : una autobiografía inconclusa",1989,Spanish,Fondo de Cultura Economica,Mexico City,Mexico,mexico_city_mexico,Autobiography/Memoir,y,190,Juan José Utrilla
+jrhys,"Buenos días, medianoche",1981,Spanish,J. Vergara Editor,Buenos Aires,Argentina,buenos_aires_argentina,Fiction (Novel),y,194,Roland Costa Picazo
+jrhys,Los tigres son más hermosos,1983,Spanish,Editorial Anagrama,Barcelona,Spain,barcelona_spain,Fiction (Short Story Collection),y,141,Enrique Hegewicz
+jrhys,Dörtlü,1985,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,191,Pınar Kür
+jrhys,Ancho mar de los Sargazos,1982,Spanish,Bruguera,Barcelona,Spain,barcelona_spain,Fiction (Novel),y,191,Andrés Bosch
+jrhys,Ein Abend In Der Stadt: Erzählungen,1990,German,Kiepenheuer & Witsch,Köln,Germany,koln_germany,Fiction (Short Story Collection),y,265,Frank Auerbach
+jrhys,Ayriliktan Sonra,1985,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,158,Nili Bilkur
+jrhys,Lasers (Look Inside),1981,English,Blackwell Raintree,Oxford,England,oxford_england,Fiction (Novel),n,48,
+jrhys,El Vasto Mar De Los Sargazos,1982,Spanish,Casa de las Américas,Havana,Cuba,havana_cuba,Fiction (Novel),y,172,Charlotte Brontë
+jrhys,"Ci dorma sopra, Signora",1982,Italian,La Tartaruga,Milano,Italy,milano_italy,Fiction (Short Story Collection),y,142,Marisa Caramella
+jrhys,여자가이별을말할때 (Yoja Ka Ibyol Ul Mal Halttae),1983,Korean,Munjisa,Seoul,South Korea,seoul_south_korea,Fiction (Novel),y,210,Kyŏng-ja Chŏn
+jrhys,Quatuor,1981,French,Loisirs,Paris,France,paris_fr_france,Fiction (Novel),y,222,Viviane Forrester
+jrhys,Günaydın geceyarısı,1990,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,191,Pınar Kür
+jrhys,カルテット / (Karutetto),1988,Japanese,Hayakawa Publishing (早川書房),Tokyo,Japan,tokyo_japan,Fiction (Novel),y,233,Kishimoto Sachiko
+jrhys,Karanlıkta yolculuk,1989,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,165,Pınar Kür
+jrhys,Geniş geniş bir deniz,1982,Turkish,Can Yayinlari Ltd. Sti.,Istanbul,Turkey,istanbul_turkey,Fiction (Novel),y,216,Pınar Kür
+jrhys,Aphotou ephyge apo ton kyrio Makenzy,1982,"Greek, Modern",Chatzenikole,Athena,Greece,athena_greece,Fiction (Novel),y,134,Roula Lekanidou - Vadalouka
+jrhys,Nach der Trennung von Mr. Mackenzie,1984,German,Ullstein,Frankfurt,Germany,frankfurt_ge_germany,Fiction (Novel),y,222,Anna Leube
+jrhys,Den Första Hustrun,1989,Swedish,Btj,Stockholm,Sweden,stockholm_sweden,Fiction (Novel),y,186,Ingegärd Martinell
+jrhys,"Que Usted La Duerma Bien, Señora",1985,Spanish,Bruguera,Barcelona,Spain,barcelona_spain,Fiction (Short Story Collection),y,173,
+jrhys,Taxidi Sto Skotadi,1989,"Greek, Modern",Ekdoseis Astartē,Athena,Greece,athena_greece,Fiction (Novel),y,155,Viky Mpompola
+jrhys,Marea Sargasselor,1988,Romanian,Univers,Bucuresti,Romania,bucuresti_romania,Fiction (Novel),y,203,Ecaterina Popa
+jrhys,Sargassomeer,1982,German,Frankfurt Fischer-Taschenbuch-Verlag,Berlin,Germany,berlin_verl_germany,Fiction (Novel),y,134,Anne Leube
 jrhys,Wide Sargasso Sea,1987,Hungarian,Európa Editions,Budapest,Hungary,budapest_hungary,Fiction (Novel),y,159,
 jrhys,Wide Sargasso Sea,1987,Polish,Wydaw. Literackie,Krakow,Poland,krakow_poland,Fiction (Novel),y,159,
 jrhys,Voyage In The Dark,1986,Italian,Penguin Books,Firenze,Italy,firenze_italy,Fiction (Novel),y,169,
-jrhys,After Leaving Mr. MacKenzie,1973,English,HarperCollins,"New York, NY",United States,new_york_ny_united_states,Fiction (Novel),n,208,
-jrhys,The Letters Of Jean Rhys,1984,English,Viking Press,"New York, NY",United States,new_york_ny_united_states,Biography,n,315,
+jrhys,The Letters Of Jean Rhys,1984,English,Viking Press,"New York, NY",United States,new_york_ny_united_states,Biography,n,315,"Wyndham, Francis; Melly, Diana"
