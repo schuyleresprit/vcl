@@ -1,191 +1,38 @@
 ---
 layout: defaultau
-title: "AUTHOR NAME"
-permalink: /AUTHORID
+title: "Arthur Lemiere Hendriks"
+permalink: /alhendriks
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>AUTHOR NAME</h1>
+    <h1>Arthur Lemiere Hendriks</h1>
     <div class="quote">
-        <div><img src="AUTHOR IMAGE LINK" class="logo"></div>
+        <div><img src="https://latinamericanliterature3.weebly.com/uploads/1/4/1/8/14185920/9914758.jpg?142"
+" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
+            <div class="date right"><p class="right">1922-1992</p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>AUTHOR is from AUTHOR COUNTRY.</p>
-                <a href="WIKI LINK"_blank">Read more</a>
+            <p>Arthur Lemiere Hendriks is from Jamaica.</p>
+                <a href="https://en.wikipedia.org/wiki/A._L._Hendriks"_blank">Read more</a>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1965</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>On This Mountain - and Other Poems</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51ll-PzQHAL._SX371_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-      <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br/>
+                Publisher: André Deutsch<br/>
+                Pub_location: London, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 59<br/>                   </p>
             </div>
         </div>
 <!-- partial -->
