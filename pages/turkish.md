@@ -11,9 +11,11 @@ permalink: /Turkish
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a language of publication">
 		</div>
+
 		<div id="data-container" class="row">
 		</div>
 	</div>
+
 	<script>
 		let datasets = [
 			{
@@ -21,40 +23,53 @@ permalink: /Turkish
 				"url" : "/data/turkish.json"
 			}
 		];
+
 		var dataLinks = [];
+
 		$( document ).ready(function() {
 			for (i = 0; i < datasets.length; i++) {
 				dataLinks.push({
 					"type" : datasets[i].type,
 					"data" : siftData(datasets[i].url, datasets[i].type)
 				});
+			}
+
 			//Set triggers
 			$('#search-box').on('input', function (event) {
 				showCategory(event.target.value);
 			})
+
 			//Populate page
-		setTimeout(showCategory, 1000);
+			setTimeout(showCategory, 1000);
+		});
+
 		function siftData (url, dataType) {
 			var temp = [];
+
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "Author":
+					case "turkish":
 						for (key in data) {
 							temp.push({
-								"flavorText" : key,
-								"link" : key,
+								"flavorText" : data[key]["Author"],
+								"subtitle" : data[key]["Title"],
+								"link" : data[key]["Pubdate"]
 							});
 						}
 						break;
+
 					default:
 						break;
 				}
 			});
+
 			return temp;
 		}
+
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
+
 			dataLinks.forEach(element => {
 				if ((filter == "") && element.data.length > 0) {
 					for (i = 0; i < element.data.length; i++) {
