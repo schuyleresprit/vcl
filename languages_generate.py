@@ -3,8 +3,8 @@ import csv
 import pandas as pd
 import codecs
 import json
-from geopy import geocoders
-from operator import itemgetter
+#from geopy import geocoders
+#from operator import itemgetter
 
 # ---------
 # Settings
@@ -41,13 +41,13 @@ def process_author_files(csv_path, csv_list):
   author_ids = {}
   publications_two = {}
   languages = {}
-  english = {}
-  french = {}
-  spanish = {}
-  dutch = {}
-  portuguese = {}
-  haitiancreole = {}
-  italian = {}
+  #english = {}
+  #french = {}
+  #spanish = {}
+  #dutch = {}
+  #portuguese = {}
+  #haitiancreole = {}
+  #italian = {} 
 
   for csv_name in csv_list:
     with open(csv_path+csv_name) as csv_file:
@@ -65,117 +65,114 @@ def process_author_files(csv_path, csv_list):
 
       author_name = author_info[0]
       author_id = author_info[1]
+      #author_country = author_info[2]
       author_ids[author_name] = author_id
       languages[author_id] = []
-
 #----------------------------------------------------------
 #read the rest of each csv to get the author's publications
 #----------------------------------------------------------
-    for csv_name in csv_list:
-        with open(csv_path+csv_name) as csv_file:
-            reader = csv.DictReader(csv_file)
-            row_index = 0
-    
-            for row in reader:    
-            
-                author_publications = {}
-                author_publications['Author'] = author_info[0]
-                author_publications['Title'] = row['Title']
-                author_publications['Pubdate'] = row['Pubdate']
-                author_publications['Language'] = row['Language']
-                author_publications['Publisher'] = row['Publisher']
-                author_publications['Genre'] = row['Genre']
-                author_publications['Translation'] = row['Translation']
-                author_publications['Descriptor'] =  row['Descriptor']
+      reader = csv.DictReader(csv_file)
+      row_index = 0
+      for row in reader:
+              
+        author_publications = {}
+        author_publications['Author'] = author_info[0]
+        author_publications['Title'] = row['Title']
+        author_publications['Pubdate'] = row['Pubdate']
+        author_publications['Language'] = row['Language']
+        author_publications['Publisher'] = row['Publisher']
+        author_publications['Genre'] = row['Genre']
+        author_publications['Translation'] = row['Translation']
+        author_publications['Descriptor'] =  row['Descriptor']
 
-                publication_id = row['Title']
-                author_publications['Title'] = publication_id
-                language_id = row['Language']
-                author_publications['Language'] = language_id
-                genre_id = row['Genre']
-                author_publications['Genre'] = genre_id
-                translation_id = row['Translation']
-                author_publications['Translation'] = translation_id
-                date_id = row['Pubdate']
-                author_publications['Pubdate'] = date_id
-
-                publications_two[author_id].append(author_publications)
-                row_index += 1
+        publication_id = row['Title']
+        author_publications['Title'] = publication_id
+        language_id = row['Language']
+        author_publications['Language'] = language_id
+        genre_id = row['Genre']
+        author_publications['Genre'] = genre_id
+        translation_id = row['Translation']
+        author_publications['Translation'] = translation_id
+        date_id = row['Pubdate']
+        author_publications['Pubdate'] = date_id
+        publications_two[author_id].append(author_publications)
+        row_index += 1
 #-------------------------------------------------------------------------------
 #Create a dictionary for the LANGUAGES, Genres, Timeline, Translations
 #-------------------------------------------------------------------------------
-    language_english = {}
-    language_french = {}
-    language_spanish = {}
-    language_dutch = {}
-    language_portuguese = {}
-    language_haitiancreole = {}
-    language_italian = {}
+        language_english = {}
+        language_french = {}
+        language_spanish = {}
+        language_dutch = {}
+        language_portuguese = {}
+        language_haitiancreole = {}
+        language_italian = {}
 
-    for csv_name in csv_list:
+        #for csv_name in csv_list:
         with open(csv_path+csv_name) as csv_file:
             reader = csv.reader(csv_file)
         for i in range(2):
 
-            if not row['Language'] in languages:
-                languages[row['Language']] = ['English']
-            if not row['Language'] in language_english:
-                language_english[row['Language']] = []
-                languages[language_id].append(languages)
-                row_index += 1
+          if not row['Language'] in languages:
+              languages[row['Language']] = ['English']
+          if not row['Language'] in language_english:
+              language_english[row['Language']] = []
+              languages[language_id].append(languages)
+              row_index += 1
 #-------------------------------------------------------------------------------
         for i in range(2):
-           if not row['Language'] in languages:
+          if not row['Language'] in languages:
             languages[row['Language']] = ['French']
-        if not row['Language'] in language_french:
+          if not row['Language'] in language_french:
             language_french[row['Language']] = []
             languages[language_id].append(languages)
             row_index += 1
 #-------------------------------------------------------------------------------
         for i in range(2):
-           if not row['Language'] in languages:
+          if not row['Language'] in languages:
             languages[row['Language']] = ['Spanish']
-        if not row['Language'] in language_spanish:
+          if not row['Language'] in language_spanish:
             language_spanish[row['Language']] = []
             languages[language_id].append(languages)
             row_index += 1
-#-------------------------------------------------------------------------------
+      #-------------------------------------------------------------------------------
         for i in range(2):
-           if not row['Language'] in languages:
+          if not row['Language'] in languages:
             languages[row['Language']] = ['Dutch']
-        if not row['Language'] in language_dutch:
+          if not row['Language'] in language_dutch:
             language_dutch[row['Language']] = []
             languages[language_id].append(languages)
             row_index += 1
 #-------------------------------------------------------------------------------
         for i in range(2):
-           if not row['Language'] in languages:
+          if not row['Language'] in languages:
             languages[row['Language']] = ['Portuguese']
-        if not row['Language'] in language_portuguese:
+          if not row['Language'] in language_portuguese:
             language_portuguese[row['Language']] = []
             languages[language_id].append(languages)
             row_index += 1
 #-------------------------------------------------------------------------------
         for i in range(2):
-           if not row['Language'] in languages:
+          if not row['Language'] in languages:
             languages[row['Language']] = ['Haitian Creole']
-        if not row['Language'] in language_haitiancreole:
+          if not row['Language'] in language_haitiancreole:
             language_haitiancreole[row['Language']] = []
             languages[language_id].append(languages)
             row_index += 1
 #-------------------------------------------------------------------------------
         for i in range(2):
-           if not row['Language'] in languages:
+          if not row['Language'] in languages:
             languages[row['Language']] = ['Italian']
-        if not row['Language'] in language_italian:
+          if not row['Language'] in language_italian:
             language_italian[row['Language']] = []
             languages[language_id].append(languages)
             row_index += 1
-   
-    csv_file.close()
+
+
+  csv_file.close()
  
  
-    return language_english, language_french, language_spanish, language_dutch, language_portuguese, language_haitiancreole, language_italian
+  return language_english, language_french, language_spanish, language_dutch, language_portuguese, language_haitiancreole, language_italian
 
 # ---------------
 # Function calls
