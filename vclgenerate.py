@@ -129,7 +129,7 @@ def process_author_files(csv_path, csv_list, mapbox_username):
         if not(row['Title'] == '' and row['Pubdate'] == '' and row['Language'] == '' and row['Genre'] == ''):
           place_name = row['Pub_id']
           #row['City'] + ', ' + row['Country']
-
+        print(author_id)
         if not place_name in places:
           place_info = {}
 
