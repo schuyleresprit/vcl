@@ -67,6 +67,7 @@ permalink: /lhonychurch
                 <h1>Our Island Culture</h1><hr>
                 <p><img src=""></p>
                 <p>
+                Co-author: Mabel Caudeiron<br/>
                 Language: English<br/>
                 Publisher: Dominican National Cultural Council<br/>
                 Pub_location: Roseau, Dominica<br/>
@@ -104,7 +105,8 @@ permalink: /lhonychurch
             <div class="right hide">
                 <h1>Our Island Culture</h1><hr>
                 <p><img src=""></p>
-                <p>Language: English<br/>
+                <p>Co-author: Mabel Caudeiron<br/>
+                Language: English<br/>
                 Publisher: Dominican National Cultural Council<br/>
                 Pub_location: Roseau, Dominica<br/>
                 Genre: Nonfiction</p>
@@ -141,7 +143,8 @@ permalink: /lhonychurch
             <div class="left hide">
                 <h1>Our Island Culture</h1><hr>
                 <p><img src=""></p>
-                <p>Language: English<br/>
+                <p>Co-author: Mabel Caudeiron<br/>
+                Language: English<br/>
                 Publisher: Dominican National Cultural Council<br/>
                 Pub_location: Roseau, Dominica<br/>
                 Genre: Nonfiction</p>
