@@ -208,7 +208,6 @@ def process_author_files(csv_path, csv_list, mapbox_username):
           if not row['Translation'] in publications_by_translation:
             publications_by_translation[row['Translation']] = []
             if translation_id == 'y':
-              #translations[translation_id].append(author_publications)
               translations.setdefault(translation_id, []).append(author_publications)
             row_index =+ 1
 

@@ -11,13 +11,13 @@ import json
 # ---------
 
 CSV_LOCATION = os.getcwd() + '/raw-data/'
-ENGLISH_JSON = os.getcwd() + 'data/english.json'
-FRENCH_JSON = os.getcwd() + 'data/french.json'
-SPANISH_JSON = os.getcwd() + 'data/spanish.json'
-DUTCH_JSON = os.getcwd() + 'data/dutch.json'
-PORTUGUESE_JSON = os.getcwd() + 'data/portuguese.json'
-HAITIANCREOLE_JSON = os.getcwd() + 'data/haitiancreole.json'
-ITALIAN_JSON = os.getcwd() + 'data/italian.json'
+ENGLISH_JSON = os.getcwd() + '/data/english.json'
+FRENCH_JSON = os.getcwd() + '/data/french.json'
+SPANISH_JSON = os.getcwd() + '/data/spanish.json'
+DUTCH_JSON = os.getcwd() + '/data/dutch.json'
+PORTUGUESE_JSON = os.getcwd() + '/data/portuguese.json'
+HAITIANCREOLE_JSON = os.getcwd() + '/data/haitiancreole.json'
+ITALIAN_JSON = os.getcwd() + '/data/italian.json'
 
 # ----------
 # Functions
@@ -41,13 +41,7 @@ def process_author_files(csv_path, csv_list):
   author_ids = {}
   publications_two = {}
   languages = {}
-  #english = {}
-  #french = {}
-  #spanish = {}
-  #dutch = {}
-  #portuguese = {}
-  #haitiancreole = {}
-  #italian = {} 
+ 
 
   for csv_name in csv_list:
     with open(csv_path+csv_name) as csv_file:
@@ -65,7 +59,6 @@ def process_author_files(csv_path, csv_list):
 
       author_name = author_info[0]
       author_id = author_info[1]
-      #author_country = author_info[2]
       author_ids[author_name] = author_id
       languages[author_id] = []
 #----------------------------------------------------------
@@ -74,9 +67,14 @@ def process_author_files(csv_path, csv_list):
       reader = csv.DictReader(csv_file)
       row_index = 0
       for row in reader:
-              
+        if ((not 'City' in row) or (not 'Country' in row)) :
+          print('The file ' + csv_name + ' are missing the keys to create place name!')
+          break
+
+        if not(row['Title'] == '' and row['Pubdate'] == '' and row['Language'] == '' and row['Genre'] == ''):
+          place_name = row['Pub_id'] 
+
         author_publications = {}
-        author_publications['author_id'] = author_info[1]
         author_publications['Author'] = author_info[0]
         author_publications['Title'] = row['Title']
         author_publications['Pubdate'] = row['Pubdate']
@@ -96,7 +94,6 @@ def process_author_files(csv_path, csv_list):
         author_publications['Translation'] = translation_id
         date_id = row['Pubdate']
         author_publications['Pubdate'] = date_id
-        publications_two[author_id].append(author_publications)
         row_index += 1
 #-------------------------------------------------------------------------------
 #Create a dictionary for the LANGUAGES, Genres, Timeline, Translations

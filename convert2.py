@@ -22,7 +22,7 @@ def convjson(csvFilename, jsonFilename):
         jsonfile.write(json.dumps(mydata, indent = 4))
 
 # filenames
-csvFilename = r'vcl_author_info_revised.csv'
+csvFilename = r'vcl_author_info.csv'
 jsonFilename = r'data/authors.json'
 
 # Calling the convjson function
