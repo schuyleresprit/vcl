@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "Roberto Fernandez Retamar"
+title: "Roberto Fernández Retamar"
 permalink: /rfretamar
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Roberto Fernandez Retamar </h1>
+    <h1>Roberto Fernández Retamar</h1>
     <div class="quote">
-        <div><img src="https://www.ecured.cu/images/b/b4/Roberto_Fernandez_Retamar.jpg" class="logo"></div>
+        <div><img src="https://www.unesco.org/sites/default/files/styles/paragraph_medium_desktop/public/featured_photos/infocus_roberto_fernandez_retamar.jpg?itok=-kagGT2F" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -15,82 +15,111 @@ permalink: /rfretamar
             <div class="date right"><p class="right"> 1930-2019 </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Roberto Fernandez Retamar is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
-                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Roberto_Fernández_Retamar" target="_blank">Read more</a></div>
-            </div>
+            <p>Roberto Fernández Retamar is from Cuba.</p>
+                <a href="https://es.wikipedia.org/wiki/Roberto_Fern%C3%A1ndez_Retamar"_blank">Read more</a>
             </div>
         </div>
         <div class="block">
+            <div class="date left"><p class="left">1900</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Algunos Usos De Civilización Y Barbarie Y Otros Ensayos</h1><hr>
+                <p><img src="https://imagessl9.casadellibro.com/a/l/t7/09/mkt0006498309.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Contrapunto<br/>
+                Pub_location: Buenos Aires, Argentina<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 217<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">1959</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Vuelta De La Antigua & Barbuda Esperanza</h1><hr>
+                <p><img src="https://cloud10.todocoleccion.online/libros-segunda-mano-poesia/tc/2020/05/05/17/203058448.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Úcar García y Compañía<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Poetry Collection<br/>
+                Length: 28<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">1962</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Con Las Mismas Manos. Poesias,1949-1962</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/5146G8jUmML._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Ediciones Unión<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Poetry Collection<br/>
+                Length: 210<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
             <div class="date left"><p class="left">1969</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Avec les Mêmes Mains</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md15373372867.jpg"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/31038071799.jpg"></p>
                 <p>
+                Co-Author: Rene Depestre <br/>
                 Language: Spanish<br/>
                 Publisher: P.J. Oswald<br/>
                 Pub_location: Honfleur, France<br/>
                 Genre: Poem<br/>
-                Length: 105</p>
+                Length: 105<br/>                   </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">1989</p></div>
+<div class="block">
+            <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="left hide">
-                <h1>Caliban and Other Essays</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/515g+Iae0wL.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Univ Of Minnesota Press<br/>
-                Pub_location: Minneapolis, MN, United States<br/>
+            <div class="right">
+                <h1>Martí</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/10605471170.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Biblioteca de Marcha<br/>
+                Pub_location: Montevideo, Uraguay<br/>
                 Genre: Essay<br/>
-                Length: 160</p>
+                Length: 142<br/>                   </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+       <div class="block">
+            <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="right hide">
-                <h1>Todo Calibán</h1><hr>
-                <p><img src="https://lahistoriadeldiablog.files.wordpress.com/2009/08/todo-caliban.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Ediciones Callejón<br/>
-                Pub_location: San Juan, Puerto Rico<br/>
-                Genre: Non-Fiction<br/>
-                Length: 214</p>
+            <div class="right">
+                <h1>L'Isola Recuperata</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51IIlo7oG5L._SY344_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Italian<br/>
+                Publisher: Guanda<br/>
+                Pub_location: Milan, Italy<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 171<br/>                   </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">2009</p></div>
+       <div class="block">
+            <div class="date left"><p class="left">1974</p></div>
             <div class="dot"></div>
-            <div class="left hide">
-                <h1>Recuerdo A</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443702445l/25232272._SX318_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Monte Ávila Editores<br/>
-                Pub_location: Caracas, Venezuela<br/>
-                Genre: <br/>
-                Length: 243</p>
+            <div class="right">
+                <h1>Caliban: Apuntes Sobre la Cultura en Nuestra America</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/61LEfB48PIL._AC_SY780_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Diógenes<br/>
+                Pub_location: Mexico City, Mexico<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 108<br/>                   </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Toda la luz, toda la sangre: Antología (1948-2017)</h1><hr>
-                <p><img src="https://www.visor-libros.com/tienda/media/catalog/product/cache/1/image/364x/040ec09b1e35df139433887a97daa66f/9/7/9788498953183_l38_04_h.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Visor Libros<br/>
-                Pub_location:  Madrid, Spain<br/>
-                Genre: Poetry Collection<br/>
-                Length: 350</p>
-            </div>
-        </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
+      <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+
+
