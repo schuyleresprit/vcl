@@ -23,75 +23,179 @@ permalink: /lhonychurch
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1975</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In the Castle of my Skin</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <h1>The Dominica Story: A History Of The Island</h1><hr>
+                <p><img src=""></p>
                 <p>
-                Lorem ipsum...
-                </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">1921</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                Language: English<br/>
+                Publisher: Macmillan Publishers<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Nonfiction</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
+            <div class="date right"><p class="right">1979</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
+            <div class="left hide">
+                <h1>Green Triangles And Other Poems</h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>
+                Language: English<br/>
+                Publisher: Lennox Honychurch<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Poetry Collection</p>
             </div>
         </div>
-
         <div class="block">
-            <div class="date right"><p class="right">1939</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
+            <div class="right hide">
+                <h1>The Cabrits And Prince Rupert's Bay: History & Nature Notes</h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>Language: English<br/>
+                Publisher: Dominica Institute for the Arts<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Nonfiction</p>
             </div>
         </div>
-
         <div class="block">
-            <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
+            <div class="left hide">
+                <h1>Our Island Culture</h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>
+                Language: English<br/>
+                Publisher: Dominican National Cultural Council<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Nonfiction</p>
             </div>
         </div>
-
         <div class="block">
-            <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
+            <div class="date left"><p class="left">1983</p></div>
             <div class="dot"></div>
-            <div class="left">
-                <h1>Title</h1><hr>
+            <div class="right hide">
+                <h1>Cabrits And Prince Ruperts Bay</h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>Language: English<br/>
+                Publisher: Dominica Institute for the Arts<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Nonfiction</p>
             </div>
         </div>
-
         <div class="block">
-            <div class="date left"><p class="left">17 April 1955</p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
+            <div class="left hide">
+                <h1>The Dominica Story: A History Of The Island</h1><hr>
                 <p><img src=""></p>
-                <p>Lorem ipsum...</p>
+                <p>
+                Language: English<br/>
+                Publisher: Dominica Institute for the Arts<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Nonfiction</p>
             </div>
         </div>
+        <div class="block">
+            <div class="date left"><p class="left">1984</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Our Island Culture</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Dominican National Cultural Council<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Nonfiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1986</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Caribbean Landmarks: Historic Events And Sites</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English<br/>
+                Publisher: Nelson Caribbean<br/>
+                Pub_location: Walton-on-Thames, England<br/>
+                Genre: Nonfiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1987</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Our Island Culture</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Dominican National Cultural Council<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Nonfiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1988</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Our Island Culture</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Dominican National Cultural Council<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Nonfiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2011</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Archaeology Of Dominica</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Lennox Honychurch<br/>
+                Pub_location: Roseau, Dominica<br/>
+                Genre: Nonfiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Dominica's Cabrits And Prince Rupert's Bay</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Island Heritage Initiatives<br/>
+                Pub_location: Portsmouth, Dominica<br/>
+                Genre: Nonfiction</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Negre Mawon: The Fighting Maroons Of Dominica</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Island Heritage Initiatives<br/>
+                Pub_location: Portsmouth, Dominica<br/>
+                Genre: Nonfiction</p>
+            </div>
+        </div>   
+        <div class="block">
+            <div class="date right"><p class="right">2019</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>In The Forests Of Freedom: The Fighting Maroons Of Dominica</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: University Press of Mississippi<br/>
+                Pub_location: Jackson, MS, United States<br/>
+                Genre: Nonfiction</p>
+            </div>
+        </div>
+        
 
         <div style="padding-bottom:100px;"></div>
     </div>
