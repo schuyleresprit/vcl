@@ -39,7 +39,7 @@ permalink: /rfretamar
             <div class="dot"></div>
             <div class="right">
                 <h1>Vuelta De La Antigua & Barbuda Esperanza</h1><hr>
-                <p><img src="https://cloud10.todocoleccion.online/libros-segunda-mano-poesia/tc/2020/05/05/17/203058448.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51WtU+gs8iL._AC_SY780_.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Úcar García y Compañía<br/>
