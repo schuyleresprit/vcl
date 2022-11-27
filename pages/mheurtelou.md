@@ -980,3 +980,94 @@ permalink: /mheurtelou
                 Illustrators: Stacey Louidor</p>
             </div>
         </div>
+        <div class="block">
+            <div class="date right"><p class="right">2015</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Princess Sunny</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 36</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2015</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Sleeping Beauty</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 36</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2015</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Yon Sak Pwa Majik</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 36</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2015</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Twa Ti Kochon</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 36</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2015</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Istwa Prince Wozita</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 32</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2015</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Istwa Anita chapo wouj</h1><hr>
+                <p><img src=""></p>
+                <p>Language: English<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 30</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2017</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Tap Tabadap Pap Pap-Pap!</h1><hr>
+                <p><img src=""></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 20</p>
+            </div>
+        </div>
