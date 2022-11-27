@@ -24,6 +24,12 @@ GENRES_JSON = os.getcwd() + '/data/genres.json'
 TRANSLATIONS_JSON = os.getcwd() + '/data/translations.json'
 PUBLICATIONS_JSON = os.getcwd() + '/data/publications.json'
 ENGLISH_JSON = os.getcwd() + '/data/english.json'
+FRENCH_JSON = os.getcwd() + '/data/french.json'
+SPANISH_JSON = os.getcwd() + '/data/spanish.json'
+DUTCH_JSON = os.getcwd() + '/data/dutch.json'
+PORTUGUESE_JSON = os.getcwd() + '/data/portuguese.json'
+HAITIANCREOLE_JSON = os.getcwd() + '/data/haitiancreole.json'
+ITALIAN_JSON = os.getcwd() + '/data/italian.json'
 MAPBOX_USERNAME = 'schuylere'
 access_token='pk.eyJ1Ijoic2NodXlsZXJlIiwiYSI6ImNsMmh3aGRuMjAxN3MzaW1rMmZoenhpMTMifQ.Nwv-MP6OK6eOKW_bfNYRaw'
 
@@ -80,6 +86,13 @@ def process_author_files(csv_path, csv_list, mapbox_username):
   timeline = {}
   translations = {}
   english = {}
+  french = {}
+  spanish = {}
+  dutch = {}
+  portuguese = {}
+  haitiancreole = {}
+  italian = {}
+
 
   for csv_name in csv_list:
     with open(csv_path+csv_name) as csv_file:
@@ -214,21 +227,64 @@ def process_author_files(csv_path, csv_list, mapbox_username):
             row_index =+ 1
 #-------------------------------------------------------------------------------       
         for i in range (2):
-          if not row['Language'] in publications_by_language:
+          if not row['Language'] in publications_by_language == ['English']:
             publications_by_language[row['Language']] = []
             if language_id == 'English':
-              languages.setdefault(language_id, []).append(author_publications)
+              english.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Language'] in publications_by_language == ['French']:
+            publications_by_language[row['Language']] = []
+            if language_id == 'French':
+              french.setdefault(language_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Language'] in publications_by_language == ['Spanish']:
+            publications_by_language[row['Language']] = []
+            if language_id == 'Spanish':
+              spanish.setdefault(language_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Language'] in publications_by_language == ['Dutch']:
+            publications_by_language[row['Language']] = []
+            if language_id == 'Dutch':
+              dutch.setdefault(language_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Language'] in publications_by_language == ['Portuguese']:
+            publications_by_language[row['Language']] = []
+            if language_id == 'Portuguese':
+              portuguese.setdefault(language_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Language'] in publications_by_language == ['Haitian Creole']:
+            publications_by_language[row['Language']] = []
+            if language_id == 'Haitian Creole':
+              haitiancreole.setdefault(language_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Language'] in publications_by_language == ['Italian']:
+            publications_by_language[row['Language']] = []
+            if language_id == 'Italian':
+              italian.setdefault(language_id, []).append(author_publications)
+            row_index =+ 1
 
   csv_file.close()
 
-  return author_ids, publications, places, countries, languages, genres, timeline, translations, english
+  return author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian
 
 
 # ---------------
 # Function calls
 # ---------------
 csv_list = get_csv_list(CSV_LOCATION)
-author_ids, publications, places, countries, languages, genres, timeline, translations, english = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
+author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
 
 with codecs.open(AUTHOR_ID_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(author_ids, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
@@ -264,4 +320,28 @@ with codecs.open(TRANSLATIONS_JSON, 'w', 'utf8') as f:
 
 with codecs.open(ENGLISH_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(english, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(FRENCH_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(french, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(SPANISH_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(spanish, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(DUTCH_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(dutch, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(PORTUGUESE_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(portuguese, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(HAITIANCREOLE_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(haitiancreole, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(ITALIAN_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(italian, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
   f.close()

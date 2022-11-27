@@ -3,6 +3,7 @@ layout: default
 title: English
 permalink: /English
 ---
+
 <html>
 <body>
 	<div class="container">
@@ -16,7 +17,7 @@ permalink: /English
 		let datasets = [
 			{
 				"type" : "english",
-				"url" : "/data/languages.json"
+				"url" : "/data/english.json"
 			}
 		];
 		var dataLinks = [];
@@ -37,17 +38,14 @@ permalink: /English
 		function siftData (url, dataType) {
 			var temp = [];
 			$.getJSON(url, function (data) {
-				switch (dataType) {
-					case "english":
-						for (key in data) {
 							temp.push({
-								"flavorText" : key,
-								"link" : key,
+								"flavorText" : data[key]["Author"],
+								"subtitle" : data[key]["Title"],
+								"link" : data[key]["author_id"]
 							});
+						})
 						}
-						break;
-					default:
-						break;
+				
 				}
 			});
 			return temp;
