@@ -1,17 +1,6 @@
 {
     "y": [
         {
-            "Author": "Marion Bethel",
-            "Descriptor": "Co-author: David Cherician Fernandez",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1995",
-            "Publisher": "Casa de las Americas",
-            "Title": "Guanahani, mi amor y otros poemas.",
-            "Translation": "y"
-        },
-        {
             "Author": "Guillermo Cabrera Infante",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -223,7 +212,7 @@
         {
             "Author": "Velma Pollard",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "German",
             "Pub_id": "berlin_germany",
             "Pubdate": "1990",
@@ -265,14 +254,36 @@
             "Translation": "y"
         },
         {
-            "Author": "Mervyn Morris",
+            "Author": "Kettly Mars",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1990",
-            "Publisher": "Faber and Faber",
-            "Title": "The Faber Book of Contemporary Caribbean Short Stories",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2010",
+            "Publisher": "Akashic Books",
+            "Title": "Haiti Noir",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "Translator: Jeanine Herman",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "lincoln_ne_united¬†states",
+            "Pubdate": "2015",
+            "Publisher": "University of Nebraska Press",
+            "Title": "Savage seasons",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "Translator: Ingeborg Schmutte",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_germany",
+            "Pubdate": "2013",
+            "Publisher": "Trier Litradukt",
+            "Title": "Vor dem Verdursten",
             "Translation": "y"
         },
         {
@@ -465,7 +476,7 @@
         {
             "Author": "Milagros Ricourt",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_brunswick_nj_united¬†states",
             "Pubdate": "2016",
@@ -735,17 +746,6 @@
             "Pubdate": "2016",
             "Publisher": "66thand2nd",
             "Title": "L'arte ormai perduta del dolce far niente",
-            "Translation": "y"
-        },
-        {
-            "Author": "Mercedes Abad",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Finnish",
-            "Pub_id": "helsinki_finland",
-            "Pubdate": "2001",
-            "Publisher": "Kääntöpiiri",
-            "Title": "Veri",
             "Translation": "y"
         },
         {
@@ -1839,7 +1839,7 @@
         },
         {
             "Author": "Pierre Marcelin",
-            "Descriptor": " Co-Author: Philippe Thoby-Marcelin",
+            "Descriptor": "Co-Author: Philippe Thoby-Marcelin",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
@@ -1849,42 +1849,9 @@
             "Translation": "y"
         },
         {
-            "Author": "Michael Cozier",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "2009",
-            "Publisher": "iUniverse",
-            "Title": "Forward Ever! Backward Never!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Michael Cozier",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "trinidad_&_tobago",
-            "Pubdate": "2010",
-            "Publisher": "Potbake Productions",
-            "Title": "Bend Foot Bailey",
-            "Translation": "y"
-        },
-        {
-            "Author": "Michael Cozier",
-            "Descriptor": "",
-            "Genre": "Short Story",
-            "Language": "English",
-            "Pub_id": "na_na",
-            "Pubdate": "2012",
-            "Publisher": "Michael cozier",
-            "Title": "Of Suits and Horses",
-            "Translation": "y"
-        },
-        {
             "Author": "Marie Vieux-Chauvet",
             "Descriptor": "Translator: Kaiama L. Glover ",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united_states",
             "Pubdate": "2016",
@@ -1895,7 +1862,7 @@
         {
             "Author": "Marie Vieux-Chauvet",
             "Descriptor": "Translators: Rose-Myriam Rejouis and Val Vinokur",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2009",
@@ -2379,8 +2346,8 @@
         {
             "Author": "Lloyd King",
             "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Spanish ",
+            "Genre": "Anthology",
+            "Language": "Spanish",
             "Pub_id": "st._augustine_trinidad_&¬†tobago",
             "Pubdate": "1983",
             "Publisher": "University of the West Indies, Dept. of French & Spanish Literature",
@@ -2553,7 +2520,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2564,7 +2531,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2575,7 +2542,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2586,7 +2553,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2597,7 +2564,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2608,7 +2575,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Autobiography/Memoir",
             "Language": "English",
@@ -2619,7 +2586,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2630,7 +2597,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2641,9 +2608,9 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2001",
@@ -2652,7 +2619,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2663,7 +2630,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2674,7 +2641,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "French",
@@ -2685,7 +2652,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "French",
@@ -2696,7 +2663,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "French",
@@ -2707,7 +2674,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "French",
@@ -2718,7 +2685,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "German",
@@ -2729,7 +2696,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "German",
@@ -2740,7 +2707,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "Greek",
@@ -2751,7 +2718,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "French",
@@ -2762,7 +2729,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -2773,7 +2740,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "German",
@@ -2784,7 +2751,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Reinaldo Arenas",
+            "Author": "Reinaldo Arenas",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "German",
@@ -2916,6 +2883,17 @@
             "Translation": "y"
         },
         {
+            "Author": "Roberto Fernández Retamar",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1970",
+            "Publisher": "Guanda",
+            "Title": "L'Isola Recuperata",
+            "Translation": "y"
+        },
+        {
             "Author": "Gina Picart",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -2929,12 +2907,12 @@
         {
             "Author": "Myriam Warner-Vieyra",
             "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "harlow_england",
-            "Pubdate": "1982",
-            "Publisher": "Longman",
-            "Title": "As the Sorcerer Said",
+            "Genre": "Fiction (Novel)",
+            "Language": "Vietnamese",
+            "Pub_id": "portsmouth_nh_united¬†states",
+            "Pubdate": "2014",
+            "Publisher": "Heinemann",
+            "Title": "Juletane",
             "Translation": "y"
         },
         {
@@ -2979,6 +2957,1227 @@
             "Pubdate": "2014",
             "Publisher": "Editorial Letras Cubanas.",
             "Title": "Body Art",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hungarian",
+            "Pub_id": "budapest_hungary",
+            "Pubdate": "1983",
+            "Publisher": "Európa Editions",
+            "Title": "A Nagy Folyo Kanyarulataban: Regeny",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1989",
+            "Publisher": "Christian Bourgois",
+            "Title": "Le Retour D'Eva Perón: Et Autres Reportages",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1984",
+            "Publisher": "Albin Michel",
+            "Title": "Sacrifices",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Herr Und Sklave",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1984",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Eine Islamische Reise: Unter Den Glaubigen.",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1982",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Eine Islamische Reise: Unter Den Gläubigen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1981",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Meine Tante Goldzahn Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1983",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Meine Tante Goldzahn: Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1984",
+            "Publisher": "Verlag Kiepenheuer und Witsch",
+            "Title": "Der Mystische Masseur: Roman In Fünf Kapiteln",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1989",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Die 80er Jahre",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hebrew",
+            "Pub_id": "tel_aviv_israel",
+            "Pubdate": "1981",
+            "Publisher": "Kinneret Zmora-Bitan Dvir",
+            "Title": "`Ikul Ba-Nahar",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Hebrew",
+            "Pub_id": "tel_aviv_israel",
+            "Pubdate": "1986",
+            "Publisher": "Kinneret Zmora-Bitan Dvir",
+            "Title": "Rehov Migel",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Hebrew",
+            "Pub_id": "tel_aviv_israel",
+            "Pubdate": "1986",
+            "Publisher": "Kinneret Zmora-Bitan Dvir",
+            "Title": "Rehov Migel: Me-Anglit Ayalah Rahav",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1984",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Una Bandiera Sull'Isola",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1983",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Tra I Credenti: Un Viaggio Nell'Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1990",
+            "Publisher": "Arnoldo Mondadori Editore",
+            "Title": "Mr. Stone and the Knights Companion",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "",
+            "Language": "Korean",
+            "Pub_id": "seoul_south_korea",
+            "Pubdate": "1989",
+            "Publisher": "Toso Ch'ulp'an Ch'inu",
+            "Title": "Chayu Ui Nara Eso",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Korean",
+            "Pub_id": "seoul_south_korea",
+            "Pubdate": "1981",
+            "Publisher": "Minumsa",
+            "Title": "Migel Sŭt'ŭrit'ŭ",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "1990",
+            "Publisher": "Gyldendal",
+            "Title": "Reise I Sørstatene",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "1981",
+            "Publisher": "Gyldendal",
+            "Title": "Blant de Troende: en Islamsk Reise",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "1988",
+            "Publisher": "Gyldendal",
+            "Title": "Ankomsts Gåte en Roman I Dem Deler",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "1987",
+            "Publisher": "Gyldendal",
+            "Title": "Der Elva Krummer Seg",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "1980",
+            "Publisher": "Gyldendal",
+            "Title": "Der Elva Krummer Seg Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "NA",
+            "Language": "Persian",
+            "Pub_id": "tehran_iran",
+            "Pubdate": "1988",
+            "Publisher": "Khátún",
+            "Title": "Dar Kishvar-i Azád",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "warszawa_poland",
+            "Pubdate": "1985",
+            "Publisher": "Czytelnik",
+            "Title": "Zakret Rzeki",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Seix Barral",
+            "Title": "El Regreso de Eva Perón, y Otras Crónicas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1984",
+            "Publisher": "Quarto",
+            "Title": "Entre Los Creyentes: un Viaje por Tierras del Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Seix Barral",
+            "Title": "El Curandero Místico",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "mexico_d.f._mexico",
+            "Pubdate": "1983",
+            "Publisher": "Lasser Press",
+            "Title": "Entre Los Creyentes. Un Recorrido por Las Tierras del Islam.",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Else Lundgren",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1983",
+            "Publisher": "Wahlström & Widstrand",
+            "Title": "Vid Flodens Krok",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Vladimír Klíma",
+            "Genre": "Fiction (Novel)",
+            "Language": "Czech",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Odeon",
+            "Title": "Dum Pro Pana Biswase",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Roland Adlerberth",
+            "Genre": "",
+            "Language": "Japanese",
+            "Pub_id": "kyoto_japan",
+            "Pubdate": "1985",
+            "Publisher": "Jinbun Shoin",
+            "Title": "Indo Yami No Ryoiki",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Roland Adlerberth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1990",
+            "Publisher": "Wahlström & Widstrand",
+            "Title": "Den Mystiske Massören: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sakari Ahlbäck",
+            "Genre": "Nonfiction",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1983",
+            "Publisher": "Otava Publishing",
+            "Title": "Vapaassa Maassa",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Aharon Amir",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hebrew",
+            "Pub_id": "tel_aviv_israel",
+            "Pubdate": "1985",
+            "Publisher": "Kinneret Zmora-Bitan Dvir",
+            "Title": "Bayit Le-Mar Bizvaz",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Jürgen Behrens",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "1989",
+            "Publisher": "Limes",
+            "Title": "Guerillas: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Gérard Clarence",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1982",
+            "Publisher": "Albin Michel",
+            "Title": "A La Courbe Du Fleuve: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Bernard Géniès",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1989",
+            "Publisher": "Bourgois",
+            "Title": "L'Inde Brisée",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Erkki Haglund",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1990",
+            "Publisher": "Otava Publishing",
+            "Title": "Saapumisen Arvoitus",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_kantō_japan",
+            "Pubdate": "1983",
+            "Publisher": "TBS-Brittanica",
+            "Title": "Isuramu Kiko",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1986",
+            "Publisher": "Wahlström & Widstrand",
+            "Title": "På Väg Mot Mitten: Två Berättelser",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1984",
+            "Publisher": "Otava Publishing",
+            "Title": "Talo Mr Biswasille",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Seppo Loponen",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1981",
+            "Publisher": "Otava Publishing",
+            "Title": "Joki Tekee Mutkan",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Alī Maʻṣūmī",
+            "Genre": "Fiction (Novel)",
+            "Language": "Persian",
+            "Pub_id": "shīrāz_iran",
+            "Pubdate": "1990",
+            "Publisher": "Nivishtār",
+            "Title": "Aqayi Istun Va Shahsavaran-I Mulazim",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Raija Mattila",
+            "Genre": "Nonfiction",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1983",
+            "Publisher": "Otava Publishing",
+            "Title": "Matka Islamin Maailmaan",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translators: Jeanine Michel; Gabrielle Kolin",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1989",
+            "Publisher": "Bourgois",
+            "Title": "L'illusion Des Ténèbres: Une Expérience De l'Inde",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1981",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Ein Haus für Mr. Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Transalors: Jürgen Behrens, Ursula von Zedlitz",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Penguin Books",
+            "Title": "Guerillas Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Werner Peterich",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1986",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Wahlkampf Auf Karibisch Oder: Eine Hand Wäscht Die Andere",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1990",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "In Den Alten Sklavenstaaten Eine Reise",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1986",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1985",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1983",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1987",
+            "Publisher": "Penguin Books",
+            "Title": "Der Mystische Masseur",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1986",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Herr Und Sklave",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1987",
+            "Publisher": "Penguin Books",
+            "Title": "Der Mystische Masseur",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Autobiography/Memoir",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1984",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Prolog Zu Einer Autobiographie",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Franca Cavagnoli",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Seix Barral",
+            "Title": "Una Casa Para Mr. Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translators: Ulrich Enderwitz; Monika Noll",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1981",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Eine Islamische Reise: Unter Den Gläubigen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translators: V S Najpol; Mati Soomre",
+            "Genre": "Fiction (Novel)",
+            "Language": "Estonian",
+            "Pub_id": "tallinn_estonia",
+            "Pubdate": "1983",
+            "Publisher": "Perioodika",
+            "Title": "Sissid",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Rose-Marie Nielsen",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1987",
+            "Publisher": "Wahlström & Widstrand",
+            "Title": "Ankomstens Gåta: En Roman I Fem Avsnitt",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Rose-Marie Nielsen",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1989",
+            "Publisher": "Wahlström & Widstrand",
+            "Title": "Ankomstens Gåta: En Roman I Fem Avsnitt",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Rose-Marie Nielsen",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1990",
+            "Publisher": "Wahlström & Widstrand",
+            "Title": "I Sydstaterna : Ett Land Av Röster",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Rose-Marie Nielsen",
+            "Genre": "Nonfiction",
+            "Language": "Swedish",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Bra böcker",
+            "Title": "Bland De Rättrogna: En Islamisk Resa",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1984",
+            "Publisher": "Can Yayınları",
+            "Title": "Miguel Dokagi",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1985",
+            "Publisher": "Albin Michel",
+            "Title": "Mr Stone: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1984",
+            "Publisher": "Albin Michel",
+            "Title": "Sacrifices",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Ana Selić",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Serbian",
+            "Pub_id": "gornji_milanovac_serbia",
+            "Pubdate": "1984",
+            "Publisher": "Decje novine",
+            "Title": "Ulica Migel",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1985",
+            "Publisher": "Gallimard",
+            "Title": "Une Maison Pour Monsieur Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1988",
+            "Publisher": "Wahlström & Widstrand",
+            "Title": "Ett Hus Åt Mr Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1989",
+            "Publisher": "Christian Bourgois",
+            "Title": "Une Virée Dans Le Sud",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Béatrice Vierne",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1990",
+            "Publisher": "Librairie Plon",
+            "Title": "L'Inde: Un Millon De Révoltes",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "",
+            "Language": "Russian",
+            "Pub_id": "moskva_russia",
+            "Pubdate": "1984",
+            "Publisher": "Raduga Publishers",
+            "Title": "Povesti I Rasskazy",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Czech",
+            "Pub_id": "",
+            "Pubdate": "1985",
+            "Publisher": "Odeon",
+            "Title": "V Ohybu Reky",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1990",
+            "Publisher": "Gyldendal",
+            "Title": "Ankomstens Gåde",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "cheyenne_wy_united_states",
+            "Pubdate": "1982",
+            "Publisher": "Hekla Publishing",
+            "Title": "Blandt De Rettroende: En Islamisk Rejse",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1989",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Het Diepe Zuiden",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Krokodillen Van Yamoussoukro",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Terugkeer Van Eva Perón En Andere Essays",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1984",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Miguel Street",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Proloog Voor Een Autobiografie",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: C A G van den Broek",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1988",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Het Raadsel Van De Aankomst",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1981",
+            "Publisher": "Pandora",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1990",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1987",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Stemmen In Elvira",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Een Huis Voor Meneer Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1981",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Een Bocht In De Rivier",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Mimitators",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Mimitators",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "Destino",
+            "Title": "En Un Estado Libre",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "Penguin Books",
+            "Title": "Mr Stone and the Knights Companion",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "Albin Michel",
+            "Title": "Crépuscule Sur l'Islam: Voyage Au Pays Des Croyants",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portugese",
+            "Pub_id": "",
+            "Pubdate": "1987",
+            "Publisher": "Companhia das Letras",
+            "Title": "Os Mímicos",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1988",
+            "Publisher": "Penguin Books",
+            "Title": "A House for Mr. Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Demetrio Vittorini",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Alla Curva Del Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Demetrio Vittorini",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1989",
+            "Publisher": "Mondadori",
+            "Title": "Alla Curva Del Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "Penguin Books",
+            "Title": "Miguel Street",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: David Albahari",
+            "Genre": "Fiction (Novel)",
+            "Language": "Serbian",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "Rad",
+            "Title": "U Slobodnoj Drzavi",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Jordi Beltrán del Rey",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1984",
+            "Publisher": "Seix Barral",
+            "Title": "Los Simuladores",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Gérard Clarence",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "1984",
+            "Publisher": "Librairie générale française",
+            "Title": "À La Courbe Du Fleuve: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Trabslator: Mondadori",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1990",
+            "Publisher": "Mondadori",
+            "Title": "Elezioni A Elvira",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Trabslator: Mondadori",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1989",
+            "Publisher": "Mondadori",
+            "Title": "Nel Sud",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Takeshi Onodera;",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "ティビーエス・ブリタニカ",
+            "Title": "Kurai Kawa",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Annie Saumont",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Albin Michel",
+            "Title": "Dis-Moi Qui Tuer: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Annie Saumont",
+            "Genre": "Biography",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "1995",
+            "Publisher": "Albin Michel",
+            "Title": "Sacrifices",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Maria Inés Taulis",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Lasser Press Mexicana",
+            "Title": "Entre Los Creyentes: Un Recorrido Por Tierras Del Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Gallimard",
+            "Title": "Miguel Street",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Pauline Verdun",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Gallimard",
+            "Title": "Un Drapeau Sur l'île: Nouvelles",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translators: Marco Paggi; Dida Paggi",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1988",
+            "Publisher": "Arnoldo Mondadori Editore",
+            "Title": "L'Enigma Dell'Arrivo: Un Romanzo In Cinque Parti",
             "Translation": "y"
         },
         {
@@ -4160,7 +5359,18 @@
         },
         {
             "Author": "Maude Heurtelou",
-            "Descriptor": "translated by John Nickroz",
+            "Descriptor": "Vilsaint, Fequiere",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "1996",
+            "Publisher": "Educa Vision",
+            "Title": "Sezisman: Pou Lafami Bonplezi",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "Nickrosz, John",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "coconut_creek_fl_united¬†states",
@@ -4171,13 +5381,13 @@
         },
         {
             "Author": "Maude Heurtelou",
-            "Descriptor": "translated into English by John Nickroz",
+            "Descriptor": "Nickroz, John",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "1998",
             "Publisher": "Educa Vision",
-            "Title": "The Bonplezi Family: The Adventures of a Haitian Family in North America",
+            "Title": "The Bonplezi Family: The Adventures Of A Haitian Family In North America",
             "Translation": "y"
         },
         {
@@ -4214,72 +5424,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "non-fiction",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "1999",
-            "Publisher": "Espasa-Calpe",
-            "Title": "Juana la Loca. La cautiva de Tordesillas",
-            "Translation": "y"
-        },
-        {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "Spanish",
-            "Pub_id": "aarhus_denmark",
-            "Pubdate": "2002",
-            "Publisher": "Aarhus Universitet: Matematisk Institut",
-            "Title": "La Figura del Mimo en Máscaras de Leonardo Padura Fuentes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "non-fiction",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "2004",
-            "Publisher": "Espasa Calpe",
-            "Title": "Isabel la Católica",
-            "Translation": "y"
-        },
-        {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "non-fiction",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "2005",
-            "Publisher": "Espasa Calpe",
-            "Title": "Casadas, monjas, rameras y brujas",
-            "Translation": "y"
-        },
-        {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "non-fiction",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "2008",
-            "Publisher": "Espasa Calpe",
-            "Title": "Pequeña historia de España",
-            "Translation": "y"
-        },
-        {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "non-fiction",
-            "Language": "English",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "2010",
-            "Publisher": "Espasa Calpe",
-            "Title": "España. Biografía de una nación",
-            "Translation": "y"
-        },
-        {
             "Author": "Rene Depestre",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -4299,6 +5443,17 @@
             "Pubdate": "1930",
             "Publisher": "Planters' Punch",
             "Title": "Timber-Laden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Miguel Ángel Asturias",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1971",
+            "Publisher": "Delacorte Press",
+            "Title": "The Green Pope",
             "Translation": "y"
         },
         {
@@ -4365,17 +5520,6 @@
             "Pubdate": "2016",
             "Publisher": "One Moore Book",
             "Title": "Fabiola Goes To School",
-            "Translation": "y"
-        },
-        {
-            "Author": "Michael Thelwell",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "",
-            "Pubdate": "1984",
-            "Publisher": "MaroVerlag",
-            "Title": "Jamaica-Kid",
             "Translation": "y"
         },
         {
@@ -4456,14 +5600,14 @@
             "Translation": "y"
         },
         {
-            "Author": "Luis Rafael Sánchez",
+            "Author": "Tip Marugg",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "normal_il_united¬†states",
-            "Pubdate": "2001",
-            "Publisher": "Dalkey Archive Press",
-            "Title": "Macho Camacho's Beat",
+            "Pub_id": "new_haven_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Yale University Press",
+            "Title": "The Roar Of Morning",
             "Translation": "y"
         },
         {
@@ -4588,7 +5732,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Miguel de Cervantes Saavedra",
+            "Author": " Miguel de Cervantes Saavedra",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
@@ -4621,7 +5765,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Myriam J. A Chancy",
+            "Author": " Myriam J. A Chancy  ",
             "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
@@ -4765,8 +5909,8 @@
         },
         {
             "Author": "Marie Célie Agnant",
-            "Descriptor": "Transoator Fulton, Dawn",
-            "Genre": "Fiction (Novella)",
+            "Descriptor": "Translator Fulton, Dawn",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "amherst_ma_united¬†states",
             "Pubdate": "2020",
@@ -4775,20 +5919,9 @@
             "Translation": "y"
         },
         {
-            "Author": "Marie Célie Agnant",
-            "Descriptor": "Translator Katia Grubisic",
-            "Genre": "Fiction (Novella)",
-            "Language": "English",
-            "Pub_id": "toronto_on_canada",
-            "Pubdate": "2022",
-            "Publisher": "Inanna Poetry & Fiction",
-            "Title": "A knife in the sky",
-            "Translation": "y"
-        },
-        {
             "Author": "Mara Etienne-Manley",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2013",
@@ -4875,7 +6008,7 @@
         },
         {
             "Author": "Nicolás Guillén",
-            "Descriptor": " translated by Salvador Ortiz-Carboneres",
+            "Descriptor": "translated by Salvador Ortiz-Carboneres",
             "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
@@ -4898,9 +6031,9 @@
         {
             "Author": "Mylene Pintado Fernandz",
             "Descriptor": "",
-            "Genre": "Fiction (novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
-            "Pub_id": "tr",
+            "Pub_id": "tropea_italy",
             "Pubdate": "2004",
             "Publisher": "Marco Tropea",
             "Title": "Altre Preghiere Esaudite",
@@ -4909,7 +6042,7 @@
         {
             "Author": "Mylene Pintado Fernandz",
             "Descriptor": "",
-            "Genre": "Fiction (novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "san_francisco_ca_united¬†states",
             "Pubdate": "2014",
@@ -4920,7 +6053,7 @@
         {
             "Author": "Mylene Pintado Fernandz",
             "Descriptor": "",
-            "Genre": "Fiction (novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2017",
@@ -4930,8 +6063,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Zayas, Elena",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2014",
@@ -4941,8 +6074,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator:  Monica Stahel Co-authors:  Carlos Marcelo & Wagner Moura",
-            "Genre": "Fiction",
+            "Descriptor": "Stahel, Monica",
+            "Genre": "Fiction (Novel)",
             "Language": "Portuguese",
             "Pub_id": "são_paulo_brazil",
             "Pubdate": "2020",
@@ -4952,8 +6085,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors: Elena Zayas",
-            "Genre": "Fiction",
+            "Descriptor": "Zayas, Elena",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2014",
@@ -4963,8 +6096,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2001",
@@ -4974,8 +6107,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Hartstein,Hans-Joachim",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "zurich_switzerland",
             "Pubdate": "2003",
@@ -4985,30 +6118,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors:  René Solis; Mara Hernández",
-            "Genre": "Fiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2000",
-            "Publisher": "Editions Métailié",
-            "Title": "Electre Á La Havane",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2002",
-            "Publisher": "Editions Métailié",
-            "Title": "L'Automne En Cuba",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Lepage, Caroline",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2008",
@@ -5018,19 +6129,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "2003",
-            "Publisher": "Net",
-            "Title": "Maschere",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2004",
@@ -5040,8 +6140,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Solis, René",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2004",
@@ -5051,54 +6151,21 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2002",
             "Publisher": "Editions Métailié",
-            "Title": "Le Palmier Et L 'Étoile",
+            "Title": "Le Almier Et L 'Étoile",
             "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors:  Ángel Esteban; Yannelys Aparicio Molina",
-            "Genre": "Fiction",
+            "Descriptor": "Bush, Peter",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1997",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "Máscaras",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "santo_domingo_dominican_republic",
-            "Pubdate": "2001",
-            "Publisher": "Casa de Teatro",
-            "Title": "La Novela De Mi Vida",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "2006",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Black",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
+            "Pub_id": "(london)_england",
             "Pubdate": "2008",
             "Publisher": "Bitter Lemon Press",
             "Title": "Havana Gold: The Havana Quartet",
@@ -5106,21 +6173,10 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Bush, Peter",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "2008",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Gold: The Havana Quartet",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
+            "Pub_id": "(london)_england",
             "Pubdate": "2009",
             "Publisher": "Bitter Lemon Press",
             "Title": "Havana Fever",
@@ -5128,32 +6184,10 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Bush, Peter",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "2009",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Fever",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "2007",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Blue",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
+            "Pub_id": "(london)_england",
             "Pubdate": "2006",
             "Publisher": "Bitter Lemon Press",
             "Title": "Havana Black: A Lieutenant Mario Conde Mystery",
@@ -5161,21 +6195,10 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Bush, Peter",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "2006",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Black: A Lieutenant Mario Conde Mystery",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
+            "Pub_id": "(london)_england",
             "Pubdate": "2005",
             "Publisher": "Bitter Lemon Press",
             "Title": "Havana Red",
@@ -5183,19 +6206,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2018",
-            "Publisher": "Farrar, Straus and Giroux",
-            "Title": "Heretics",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Kushner, Anna",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2017",
@@ -5205,43 +6217,21 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Kushner, Anna",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2017",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Heretics",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny__united_states",
-            "Pubdate": "2018",
+            "Pubdate": "2021",
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "The Transparency of Time",
             "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
+            "Descriptor": "Kushner, Anna",
             "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "new_york_ny__united_states",
-            "Pubdate": "2018",
-            "Publisher": "Farrar, Straus and Giroux",
-            "Title": "The Transparency of Time",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny__united_states",
+            "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2014",
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "The Man Who Loved Dogs",
@@ -5249,30 +6239,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny__united_states",
-            "Pubdate": "2014",
-            "Publisher": "Farrar, Straus and Giroux",
-            "Title": "The Man Who Loved Dogs",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "2005",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Red",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Hernandez, Mara; Solis, René",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1999",
@@ -5282,8 +6250,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Hernandez, Mara; Solis, René",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1999",
@@ -5293,19 +6261,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2003",
-            "Publisher": "Éditions Métailié",
-            "Title": "Le Palmier Et L 'Étoile",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "zurich_switzerland",
             "Pubdate": "2005",
@@ -5315,19 +6272,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2008",
-            "Publisher": "Unionsverlag",
-            "Title": "Das Havanna-Quartett",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "zurich_switzerland",
             "Pubdate": "2015",
@@ -5337,19 +6283,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2017",
-            "Publisher": "Unionsverlag",
-            "Title": "Die Palme Und Der Stern",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "zurich_switzerland",
             "Pubdate": "2015",
@@ -5359,30 +6294,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator:  Hans-Joachim Hartstein",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2003",
-            "Publisher": "Unionsverlag",
-            "Title": "Ein Perfektes Leben",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2015",
-            "Publisher": "Unionsverlag",
-            "Title": "Ein Perfektes Leben: Kriminalroman. Havanna-Quartett \"Winter\"",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Hans-Joachim Hartstein",
-            "Genre": "Fiction",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "zurich_switzerland",
             "Pubdate": "2019",
@@ -5392,19 +6305,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Hans-Joachim Hartstein",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2019",
-            "Publisher": "Unionsverlag",
-            "Title": "Die Durchlässigkeit Der Zeit",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: ; Roberta Bovaia",
-            "Genre": "Fiction",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2001",
@@ -5414,8 +6316,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2017",
@@ -5425,8 +6327,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Eleonora Mogavero",
-            "Genre": "Fiction",
+            "Descriptor": "Mogavero, Eleonora",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2021",
@@ -5436,8 +6338,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Bruno Arpaia",
-            "Genre": "Fiction",
+            "Descriptor": "Arpaia, Bruno",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2019",
@@ -5447,8 +6349,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Monica Stahel",
-            "Genre": "Fiction",
+            "Descriptor": "Stahel, Monica",
+            "Genre": "Fiction (Novel)",
             "Language": "Portuguese",
             "Pub_id": "são_paulo_brazil",
             "Pubdate": "2018",
@@ -5458,129 +6360,8 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Monica Stahel",
-            "Genre": "Fiction",
-            "Language": " Portuguese",
-            "Pub_id": "são_paulo_brazil",
-            "Pubdate": "2018",
-            "Publisher": "Boitempo Editorial",
-            "Title": "A Transparencia Do Tempo",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors: Mondadori",
-            "Genre": "Fiction",
-            "Language": "Italian",
-            "Pub_id": "milano_italy",
-            "Pubdate": "1997",
-            "Publisher": "Marco Tropea Editore",
-            "Title": "Maschere",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
             "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "2006",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Blue",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united_states",
-            "Pubdate": "2003",
-            "Publisher": "Smithsonian Books",
-            "Title": "Faces Of Salsa: A Spoken History of the Music",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors:  François Gaudry",
-            "Genre": "Fiction",
-            "Language": "Portuguese",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2004",
-            "Publisher": "Métailié",
-            "Title": "Vents De Carême",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors:  Hans-Joachim Hartstein",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2004",
-            "Publisher": "Unionsverlag",
-            "Title": "Handel Der Gefühle",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors: Journalist Schriftsteller Kuba; Hans-Joachim Hartstein",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2010",
-            "Publisher": "Unionsverlag",
-            "Title": "Der Nebel Von Gestern",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "2018",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "The Transparency Of Time",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors: Journalist Schriftsteller Kuba; Hans-Joachim Hartstein",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switserland",
-            "Pubdate": "2006",
-            "Publisher": "Unionsverlag",
-            "Title": "Das Meer Der Illusionen Das Havanna-Quartett: \"Herbst\"",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors: Journalist Schriftsteller Kuba; Hans-Joachim Hartstein",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switserland",
-            "Pubdate": "2008",
-            "Publisher": "Unionsverlag",
-            "Title": "Der Nebel Von Gestern",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "Portuguese",
-            "Pub_id": "alfragide_portugal",
-            "Pubdate": "2009",
-            "Publisher": "Asa Edições",
-            "Title": "Um Passado Perfeito",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors: Danuta Rycerz",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Polish",
             "Pub_id": "krakow_poland",
             "Pubdate": "2009",
@@ -5590,79 +6371,13 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Co-authors:  Marcin Sarna; Społeczny Instytut Wydawniczy Znak.",
-            "Genre": "Fiction",
-            "Language": "Polish",
-            "Pub_id": "krakow_poland",
-            "Pubdate": "2010",
-            "Publisher": "Wydawnictwo Znak",
-            "Title": "Trans W Hawanie",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2000",
-            "Publisher": "Métailié",
-            "Title": "L'Automne Á Cuba",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2006",
-            "Publisher": "Métailié",
-            "Title": "Les Brumes Du Passé",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
-            "Pub_id": "zurich_switserland",
+            "Pub_id": "zurich_switzerland",
             "Pubdate": "2011",
             "Publisher": "Unionsverlag",
             "Title": "Der Mann, Der Hunde Liebte",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switserland",
-            "Pubdate": "2015",
-            "Publisher": "Unionsverlag",
-            "Title": "Die Palme Und Der Stern",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switserland",
-            "Pubdate": "2020",
-            "Publisher": "Unionsverlag",
-            "Title": "Die Durchlässigkeit Der Zeit",
-            "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "German",
-            "Pub_id": "zurich_switserland",
-            "Pubdate": "2015",
-            "Publisher": "Unionsverlag",
-            "Title": "Ein Perfektes Leben: Das Havanna-Quartett 1",
             "Translation": "y"
         },
         {
@@ -5965,23 +6680,12 @@
         {
             "Author": "Simone Schwarz-Bart",
             "Descriptor": "Co-Author: André Schwarz-Bart",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "madison_wi_united¬†states",
             "Pubdate": "2002",
             "Publisher": "University of Wisconsin Press",
             "Title": "In Praise of Black Women: Heroines of the slavery era",
-            "Translation": "y"
-        },
-        {
-            "Author": "Marie Evelyn",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "cardiff_wales",
-            "Pubdate": "2016",
-            "Publisher": "Accent Press",
-            "Title": "The Turtle Run",
             "Translation": "y"
         }
     ]

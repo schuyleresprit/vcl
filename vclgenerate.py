@@ -23,6 +23,7 @@ LANGUAGES_JSON = os.getcwd() + '/data/languages.json'
 GENRES_JSON = os.getcwd() + '/data/genres.json'
 TRANSLATIONS_JSON = os.getcwd() + '/data/translations.json'
 PUBLICATIONS_JSON = os.getcwd() + '/data/publications.json'
+ENGLISH_JSON = os.getcwd() + '/data/english.json'
 MAPBOX_USERNAME = 'schuylere'
 access_token='pk.eyJ1Ijoic2NodXlsZXJlIiwiYSI6ImNsMmh3aGRuMjAxN3MzaW1rMmZoenhpMTMifQ.Nwv-MP6OK6eOKW_bfNYRaw'
 
@@ -78,6 +79,7 @@ def process_author_files(csv_path, csv_list, mapbox_username):
   genres = {}
   timeline = {}
   translations = {}
+  english = {}
 
   for csv_name in csv_list:
     with open(csv_path+csv_name) as csv_file:
@@ -129,7 +131,7 @@ def process_author_files(csv_path, csv_list, mapbox_username):
         if not(row['Title'] == '' and row['Pubdate'] == '' and row['Language'] == '' and row['Genre'] == ''):
           place_name = row['Pub_id']
           #row['City'] + ', ' + row['Country']
-        print(author_id)
+        #print(author_id)
         if not place_name in places:
           place_info = {}
 
@@ -210,17 +212,23 @@ def process_author_files(csv_path, csv_list, mapbox_username):
             if translation_id == 'y':
               translations.setdefault(translation_id, []).append(author_publications)
             row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Language'] in publications_by_language:
+            publications_by_language[row['Language']] = []
+            if language_id == 'English':
+              languages.setdefault(language_id, []).append(author_publications)
 
   csv_file.close()
 
-  return author_ids, publications, places, countries, languages, genres, timeline, translations
+  return author_ids, publications, places, countries, languages, genres, timeline, translations, english
 
 
 # ---------------
 # Function calls
 # ---------------
 csv_list = get_csv_list(CSV_LOCATION)
-author_ids, publications, places, countries, languages, genres, timeline, translations = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
+author_ids, publications, places, countries, languages, genres, timeline, translations, english = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
 
 with codecs.open(AUTHOR_ID_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(author_ids, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
@@ -252,4 +260,8 @@ with codecs.open(PUBLICATIONS_JSON, 'w', 'utf8') as f:
 
 with codecs.open(TRANSLATIONS_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(translations, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(ENGLISH_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(english, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
   f.close()
