@@ -15,11 +15,9 @@ permalink: /aarthurs
             <div class="date right"><p class="right"> B. ??? </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">   <p>Alexia Arthurs is from <a href="http://localhost:4000/4">Jamaica.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Alexia_Arthurs" target="_blank">Read more</a></div>
-            </div>
+            <p>Alexia Arthurs is from Jamaica.</p>
+                <a href="https://en.wikipedia.org/wiki/Alexia_Arthurs" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -33,7 +31,7 @@ permalink: /aarthurs
                 Publisher: Ballantine Books	 <br/>
                 Pub_location: New York, NY, United States <br/>
                 Genre: Fiction (Short Story Collection) <br/>
-                Length: 239</p>
+                Length: 239 <br/>                </p>
             </div>
         </div>
         </div>

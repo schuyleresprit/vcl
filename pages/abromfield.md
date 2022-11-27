@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Asha Bromfield"
-permalink: /abromfield
+permalink: /abromfield 
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -15,11 +15,9 @@ permalink: /abromfield
             <div class="date right"><p class="right"> B. 1994 </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Asha Bromfield is from <a href="http://localhost:4000/4">Jamaica.</a></p></div>
-              <div class="acreadmore">  <a href="#" target="_blank">Read more</a> </div>
-            </div>
+            <p>Asha Bromfield is from Jamaica.</p>
+                <a href="#" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -27,11 +25,11 @@ permalink: /abromfield
             <div class="dot"></div>
             <div class="right">
                 <h1>Hurricane Summer: A Novel</h1><hr>
-                <p><img src="https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9781250622303.jpg"></p>
+                <p><img src="https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B550%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&product=path%5B/pimages/9781250622235_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D"></p>
                 <p>
                 Language: English <br/>
                 Publisher: St. Martin's Press	 <br/>
-                Pub_location: New York, NY, United States <br/>
+                Pub_location: New York, NY, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 400 <br/>                </p>
             </div>

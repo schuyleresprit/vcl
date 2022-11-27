@@ -1,192 +1,38 @@
 ---
 layout: defaultau
-title: "AUTHOR NAME"
-permalink: /AUTHORID
+title: "Tony Delsham"
+permalink: /tdelsham
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>AUTHOR NAME</h1>
+    <h1>Tony Delsham</h1>
     <div class="quote">
-        <div><img src="AUTHOR IMAGE LINK" class="logo"></div>
+        <div><img src="https://www.babelio.com/users/AVT_Tony-Delsham_8727.jpeg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
+            <div class="date right"><p class="right"> B. 1946 </p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>AUTHOR is from AUTHOR COUNTRY.</p>
-                <a href="WIKI LINK"_blank">Read more</a>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+            <p>Tony Delsham is from Martinique.</p>
+                <a href="https://fr.wikipedia.org/wiki/Tony_Delsham"_blank">Read more</a>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Le Retour de Monsieur Coutcha</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9782868230034-fr.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-      <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
+                Language: French<br/>
+                Publisher: Editions M.G.G.<br/>
+                Pub_location: Fort-de France, Martinique<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 60<br/>                   </p>
+           </div>
         </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

@@ -5,7 +5,7 @@ permalink: /acarpentier
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Alejo Carpentier</h1>
+    <h1>Alejo Carpenter</h1>
     <div class="quote">
         <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfelPBX5TvzMEFO7AATsknHvbPHMyMM2ERAGCCpCqkTpDo-ELzAfk70dMbUEH8Oz6Qcc&usqp=CAU" class="logo"></div>
     </div>
@@ -15,11 +15,9 @@ permalink: /acarpentier
             <div class="date right"><p class="right"> 1904 - 1980 </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p> Alejo Carpentier is from <a href="http://localhost:4000/14"> Cuba.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Alejo_Carpentier" target="_blank">Read more</a></div>
-            </div>
+            <p> Alejo Carpenter is from Cuba.</p>
+                <a href="https://en.wikipedia.org/wiki/Alejo_Carpentier" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -1027,3 +1025,4 @@ permalink: /acarpentier
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+

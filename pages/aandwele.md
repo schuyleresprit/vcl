@@ -15,11 +15,9 @@ permalink: /aandwele
             <div class="date right"><p class="right"> B. 1973 </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p> Adisa Andwele is from <a href="http://localhost:4000/12">Barbados.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Adisa_Andwele" target="_blank">Read more</a></div>
-            </div>
+            <p> Adisa Andwele is from Barbados.</p>
+                <a href="https://en.wikipedia.org/wiki/Adisa_Andwele" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -30,8 +28,8 @@ permalink: /aandwele
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51EPIsU9nJL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: We Culture Publications <br/>
-                Pub_location: Bridgetown,Barbados <br/>
+                Publisher: Peepal Tree Press <br/>
+                Pub_location: Leeds, England <br/>
                 Genre: Poetry Collection <br/>
                 Length: 73 <br/>              
                 </p>
@@ -67,6 +65,7 @@ permalink: /aandwele
                 </p>
             </div>
         </div>
+
         <div class="block">
             <div class="date right"><p class="right hide">2003</p></div>
             <div class="dot"></div>
@@ -82,6 +81,7 @@ permalink: /aandwele
                 </p>
             </div>
         </div>
+
         <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
@@ -93,9 +93,12 @@ permalink: /aandwele
                 Publisher: Xlibris <br/>
                 Pub_location: Bloomington, IN, United States <br/>
                 Genre: Poetry Collection <br/>
-                Length: 74</p>
+                Length: 74 <br/>
+                </p>
             </div>
         </div>
+
+
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

@@ -15,11 +15,9 @@ permalink: /aalexandre
             <div class="date right"><p class="right"> 1970 </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"> <p>Alfred Alexandre is from <a href="http://localhost:4000/8">Martinique.</a></p> </div>
-                <div class="acreadmore"><a href="NA" target="_blank">Read more</a></div>
-            </div>
+            <p>Alfred Alexandre is from Martinique.</p>
+                <a href="NA" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -47,19 +45,6 @@ permalink: /aalexandre
                 Pub_location: Montréal, QC, Canada<br/
                 Genre: Fiction (Novel)<br/>
                 Length: 125</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>La ballade de Leïla Khane</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/31fRC99CBKL._SX305_BO1,204,203,200_.jpg"></p>
-                <p>Language: French<br/>
-                Publisher: Mémoire d'encrier<br/>
-                Pub_location: Montréal, QC, Canada<br/>
-                Genre: Poem<br/>
-                Length: 56</p>
             </div>
         </div>
         <div id="footer">
