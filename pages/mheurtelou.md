@@ -40,7 +40,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Dyabet: Tout Sa You Moun Ki Fè Dyabèt Te Dwe Konnen</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://ia902204.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/dyabet/dyabet_jp2.zip&file=dyabet_jp2/dyabet_0000.jp2&id=dyabet&scale=4&rotate=0"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -132,7 +132,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Lafami Bonplezi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51mtFtFyxfL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -145,7 +145,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Sezisman: Pou Lafami Bonplezi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41mfuadq0ML._SX311_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -158,7 +158,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Lafami Bonplezi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51mtFtFyxfL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -199,7 +199,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Bonplezi Family: The Adventures of a Haitian Family in North America</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/516pIfrVJPL._SL500_.jpg"></p>
                 <p>Language: English<br/>
                 Translation: y<br/>
                 Translator: John Nickroz<br/>
@@ -214,7 +214,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Story of the Cat and the Mouse</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503293.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -227,7 +227,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Dekouvèt</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503216.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -346,7 +346,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>My name is Nadine</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503281.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -359,7 +359,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Mwen Rele Nadine</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://kepkaa.com/wp-content/uploads/2017/01/176..jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -478,7 +478,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Lafami Bonplezi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51LiesDXnXL._SX318_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
