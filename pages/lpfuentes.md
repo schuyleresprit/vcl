@@ -283,7 +283,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La Novela De Mi Vida</h1><hr>
-                <p><img src="https://i.ebayimg.com/images/g/CTkAAOSwrKBggEkC/s-l400.jpg"></p>
+                <p><img src="http://bnjm.cu/img/noticias/2020/9/26/2024.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Casa de Teatro<br/>
                 Pub_location: Santo Domingo, Dominican Republic<br/>
