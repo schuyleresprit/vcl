@@ -190,7 +190,7 @@
         {
             "Author": "Guillermo Cabrera Infante",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "barcelona_spain",
             "Pubdate": "1990",
@@ -243,9 +243,9 @@
             "Translation": "y"
         },
         {
-            "Author": "Eric Eustace Williams ",
+            "Author": "Eric Eustace Williams",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "washington_dc_united¬†states",
             "Pubdate": "1941",
@@ -254,9 +254,9 @@
             "Translation": "y"
         },
         {
-            "Author": "Eric Eustace Williams ",
+            "Author": "Eric Eustace Williams",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "chapel_hill_nc_united¬†states",
             "Pubdate": "1944",
@@ -452,39 +452,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Juan Francisco Manzano",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2014",
-            "Publisher": "Palgrave Macmillan",
-            "Title": "The Life and Poems of a Cuban Slave: Juan Francisco Manzano 1797–1854",
-            "Translation": "y"
-        },
-        {
-            "Author": "Juan Francisco Manzano",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2014",
-            "Publisher": "Macmillan Publishers",
-            "Title": "The Life and Poems of a Cuban Slave",
-            "Translation": "y"
-        },
-        {
-            "Author": "Juan Francisco Manzano",
-            "Descriptor": "Alain Yacou",
-            "Genre": "Biography",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2004",
-            "Publisher": "Centre d'études et de recherches caraïbéennes, université des Antilles et de la Guyane, cop.",
-            "Title": "Un esclave-poète à Cuba au temps du péril noir",
-            "Translation": "y"
-        },
-        {
             "Author": "Orlando Luis Pardo Lazo",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -557,7 +524,7 @@
             "Language": "English",
             "Pub_id": "vancouver_bc_canada",
             "Pubdate": "2011",
-            "Publisher": " Douglas & McIntyre",
+            "Publisher": "Douglas & McIntyre",
             "Title": "The return",
             "Translation": "y"
         },
@@ -579,7 +546,7 @@
             "Language": "English",
             "Pub_id": "vancouver_bc_canada",
             "Pubdate": "2009",
-            "Publisher": " Douglas & McIntyre",
+            "Publisher": "Douglas & McIntyre",
             "Title": "Heading south",
             "Translation": "y"
         },
@@ -601,7 +568,7 @@
             "Language": "English",
             "Pub_id": "vancouver_bc_canada",
             "Pubdate": "2010",
-            "Publisher": " Douglas & McIntyre",
+            "Publisher": "Douglas & McIntyre",
             "Title": "I am a Japanese writer : a novel",
             "Translation": "y"
         },
@@ -645,7 +612,7 @@
             "Language": "English",
             "Pub_id": "vancouver_bc_canada",
             "Pubdate": "1997",
-            "Publisher": " Douglas & McIntyre",
+            "Publisher": "Douglas & McIntyre",
             "Title": "Down among the dead men",
             "Translation": "y"
         },
@@ -656,7 +623,7 @@
             "Language": "Italian",
             "Pub_id": "roma_italy",
             "Pubdate": "2015",
-            "Publisher": " Nottetempo",
+            "Publisher": "Nottetempo",
             "Title": "Paese senza cappello",
             "Translation": "y"
         },
@@ -667,7 +634,7 @@
             "Language": "English",
             "Pub_id": "toronto_on_canada",
             "Pubdate": "1997",
-            "Publisher": " Douglas & McIntyre",
+            "Publisher": "Douglas & McIntyre",
             "Title": "Drifting year.",
             "Translation": "y"
         },
@@ -697,7 +664,7 @@
             "Author": "Dany Laferrière",
             "Descriptor": "Translator: Manuel Serrat Crespo",
             "Genre": "Fiction (Novel)",
-            "Language": "Spanish ",
+            "Language": "Spanish",
             "Pub_id": "",
             "Pubdate": "2004",
             "Publisher": "El Cobre Ediciones",
@@ -782,45 +749,34 @@
             "Translation": "y"
         },
         {
-            "Author": "George Lamming ",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1985",
-            "Publisher": "Casa de las Américas",
-            "Title": "A Wedding In Spring",
-            "Translation": "y"
-        },
-        {
-            "Author": "George Lamming ",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Éditions Caribéennes",
-            "Title": "Age Et Innocence",
-            "Translation": "y"
-        },
-        {
-            "Author": "George Lamming ",
+            "Author": "George Lamming",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1987",
+            "Pubdate": "1953",
             "Publisher": "Longman Inc.",
             "Title": "En El Castillo De Mi Piel",
             "Translation": "y"
         },
         {
-            "Author": "George Lamming ",
-            "Descriptor": "",
+            "Author": "George Lamming",
+            "Descriptor": "Charbonnier, Claire-Lise",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1958",
+            "Publisher": "Éditions Caribéennes",
+            "Title": "Age Et Innocence",
+            "Translation": "y"
+        },
+        {
+            "Author": "George Lamming",
+            "Descriptor": "Ortega, María Teresa",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
-            "Pubdate": "1988",
+            "Pubdate": "1971",
             "Publisher": "Casa de las Américas",
             "Title": "Partes De Mi Ser",
             "Translation": "y"
@@ -849,7 +805,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Jasim, Falah Rahim",
             "Genre": "Fiction (Novel)",
             "Language": "Arabic",
             "Pub_id": "baghdad_iraq",
@@ -860,7 +816,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Li si; Liu ming zheng",
             "Genre": "Fiction (Novel)",
             "Language": "Chinese",
             "Pub_id": "beijing_china",
@@ -871,7 +827,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Wang, Jiaxiang",
             "Genre": "NA",
             "Language": "Chinese",
             "Pub_id": "beijing_china",
@@ -882,29 +838,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Danish",
-            "Pub_id": "copenhagen_denmark",
-            "Pubdate": "1984",
-            "Publisher": "Lindhardt og Ringhof",
-            "Title": "Voyage In The Dark",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Danish",
-            "Pub_id": "copenhagen_denmark",
-            "Pubdate": "1983",
-            "Publisher": "Samlerens Bogklub",
-            "Title": "Voyage In The Dark",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Hertel, Lisbeth",
             "Genre": "Fiction (Novel)",
             "Language": "Danish",
             "Pub_id": "copenhagen_denmark",
@@ -926,18 +860,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Danish",
-            "Pub_id": "copenhagen_denmark",
-            "Pubdate": "1984",
-            "Publisher": "Tiderne Skifter",
-            "Title": "Efter Bruddet",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Hertel, Lisbeth",
             "Genre": "Fiction (Novel)",
             "Language": "Danish",
             "Pub_id": "copenhagen_denmark",
@@ -959,7 +882,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Williams, Ella Gwendolen Rees",
             "Genre": "Fiction (Novel)",
             "Language": "Dutch",
             "Pub_id": "amsterdam_netherlands",
@@ -970,7 +893,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "Translator: Max Schuchart",
+            "Descriptor": "Schuchart, Max",
             "Genre": "Fiction (Novel)",
             "Language": "Dutch",
             "Pub_id": "amsterdam_netherlands",
@@ -1003,7 +926,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Jacqueline Bernard.",
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
@@ -1014,7 +937,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Missen, Michaela; Leube, Anna",
             "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "munchen_germany",
@@ -1036,18 +959,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "frankfurt_ge_germany",
-            "Pubdate": "1983",
-            "Publisher": "Fischer Taschenbuch Verlag",
-            "Title": "Sargassomeer",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Simon Werle",
             "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "munchen_germany",
@@ -1069,7 +981,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Nasia Magiakou",
             "Genre": "Fiction (Novel)",
             "Language": "Greek",
             "Pub_id": "athens_greece",
@@ -1080,7 +992,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Aharon Amir.",
             "Genre": "Fiction (Novel)",
             "Language": "Hebrew",
             "Pub_id": "tel_aviv_israel",
@@ -1091,18 +1003,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "Iranian",
-            "Pub_id": "the_hague_netherlands",
-            "Pubdate": "1990",
-            "Publisher": "Nasr-i Mu`asir",
-            "Title": "Bugzar Anra Gaz Binamand: Guzida-I Az Dastanha-Yi Nawisandigan-I Mu`asir-i Gahan",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Adriana Motti",
             "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milano_italy",
@@ -1113,10 +1014,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Rolando Costa Picazo",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1981",
             "Publisher": "J. Vergara Editor",
             "Title": "Viaje en la oscuridad",
@@ -1124,10 +1025,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Dolors Udina",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "barcelona_spain",
             "Pubdate": "1987",
             "Publisher": "Columna",
             "Title": "L'Ampla mar dels Sargassos",
@@ -1135,21 +1036,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Raúl Acuña",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
-            "Pub_id": "mexico_d.f._mexico",
-            "Pubdate": "1990",
-            "Publisher": "Editorial Grijalbo",
-            "Title": "Viaje en la oscuridad",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "barcelona_spain",
             "Pubdate": "1983",
             "Publisher": "Noguer",
             "Title": "Después de dejar al señor Mackenzie",
@@ -1157,21 +1047,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "R. Costa Picazo",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1990",
-            "Publisher": "Grijalbo Mondadori",
-            "Title": "Cuarteto",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1983",
             "Publisher": "J. Vergara Editor",
             "Title": "Cuarteto",
@@ -1179,10 +1058,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Juan José Utrilla",
             "Genre": "Autobiography/Memoir",
             "Language": "Spanish",
-            "Pub_id": "mexico_d.f._mexico",
+            "Pub_id": "mexico_city_mexico",
             "Pubdate": "1989",
             "Publisher": "Fondo de Cultura Economica",
             "Title": "Sonríe, por favor : una autobiografía inconclusa",
@@ -1190,10 +1069,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Roland Costa Picazo",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1981",
             "Publisher": "J. Vergara Editor",
             "Title": "Buenos días, medianoche",
@@ -1201,10 +1080,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Enrique Hegewicz",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "barcelona_spain",
             "Pubdate": "1983",
             "Publisher": "Editorial Anagrama",
             "Title": "Los tigres son más hermosos",
@@ -1212,7 +1091,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Pınar Kür",
             "Genre": "Fiction (Novel)",
             "Language": "Turkish",
             "Pub_id": "istanbul_turkey",
@@ -1223,10 +1102,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Andrés Bosch",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "barcelona_spain",
             "Pubdate": "1982",
             "Publisher": "Bruguera",
             "Title": "Ancho mar de los Sargazos",
@@ -1234,10 +1113,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Frank Auerbach",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "German",
-            "Pub_id": "",
+            "Pub_id": "koln_germany",
             "Pubdate": "1990",
             "Publisher": "Kiepenheuer & Witsch",
             "Title": "Ein Abend In Der Stadt: Erzählungen",
@@ -1245,7 +1124,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Nili Bilkur",
             "Genre": "Fiction (Novel)",
             "Language": "Turkish",
             "Pub_id": "istanbul_turkey",
@@ -1256,43 +1135,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Charlotte Brontë",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1990",
-            "Publisher": "Anagrama",
-            "Title": "Ancho mar de los Sargazos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1990",
-            "Publisher": "Anagrama",
-            "Title": "Después de dejar al señor Mackenzie",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1983",
-            "Publisher": "Noguer",
-            "Title": "Después de dejar al señor Mackenzie",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "havana_cuba",
             "Pubdate": "1982",
             "Publisher": "Casa de las Américas",
             "Title": "El Vasto Mar De Los Sargazos",
@@ -1300,7 +1146,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Marisa Caramella",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "Italian",
             "Pub_id": "milano_italy",
@@ -1311,7 +1157,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Kyŏng-ja Chŏn",
             "Genre": "Fiction (Novel)",
             "Language": "Korean",
             "Pub_id": "seoul_south_korea",
@@ -1322,18 +1168,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1981",
-            "Publisher": "Javier Vergara",
-            "Title": "Viaje en la oscuridad",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Viviane Forrester",
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
@@ -1344,7 +1179,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Pınar Kür",
             "Genre": "Fiction (Novel)",
             "Language": "Turkish",
             "Pub_id": "istanbul_turkey",
@@ -1355,10 +1190,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Kishimoto Sachiko",
             "Genre": "Fiction (Novel)",
             "Language": "Japanese",
-            "Pub_id": "",
+            "Pub_id": "tokyo_japan",
             "Pubdate": "1988",
             "Publisher": "Hayakawa Publishing (早川書房)",
             "Title": "カルテット / (Karutetto)",
@@ -1366,7 +1201,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Pınar Kür",
             "Genre": "Fiction (Novel)",
             "Language": "Turkish",
             "Pub_id": "istanbul_turkey",
@@ -1377,7 +1212,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Pınar Kür",
             "Genre": "Fiction (Novel)",
             "Language": "Turkish",
             "Pub_id": "istanbul_turkey",
@@ -1388,7 +1223,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Roula Lekanidou - Vadalouka",
             "Genre": "Fiction (Novel)",
             "Language": "Greek, Modern",
             "Pub_id": "athena_greece",
@@ -1399,7 +1234,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Anna Leube",
             "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "frankfurt_ge_germany",
@@ -1410,7 +1245,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Ingegärd Martinell",
             "Genre": "Fiction (Novel)",
             "Language": "Swedish",
             "Pub_id": "stockholm_sweden",
@@ -1424,7 +1259,7 @@
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "Spanish",
-            "Pub_id": "",
+            "Pub_id": "barcelona_spain",
             "Pubdate": "1985",
             "Publisher": "Bruguera",
             "Title": "Que Usted La Duerma Bien, Señora",
@@ -1432,7 +1267,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Viky Mpompola",
             "Genre": "Fiction (Novel)",
             "Language": "Greek, Modern",
             "Pub_id": "athena_greece",
@@ -1443,10 +1278,10 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Ecaterina Popa",
             "Genre": "Fiction (Novel)",
             "Language": "Romanian",
-            "Pub_id": "",
+            "Pub_id": "bucuresti_romania",
             "Pubdate": "1988",
             "Publisher": "Univers",
             "Title": "Marea Sargasselor",
@@ -1454,7 +1289,7 @@
         },
         {
             "Author": "Jean Rhys",
-            "Descriptor": "",
+            "Descriptor": "Anne Leube",
             "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "berlin_verl_germany",
@@ -1926,7 +1761,7 @@
             "Translation": "y"
         },
         {
-            "Author": "De Lisser H. G.",
+            "Author": "H. G. De Lisser",
             "Descriptor": "Nicolas, Eugène",
             "Genre": "Fiction (Novel)",
             "Language": "French",
@@ -1937,7 +1772,7 @@
             "Translation": "y"
         },
         {
-            "Author": "De Lisser H. G.",
+            "Author": "H. G. De Lisser",
             "Descriptor": "Atsuko, Satō",
             "Genre": "Fiction (Novel)",
             "Language": "Japanese",
@@ -1948,7 +1783,7 @@
             "Translation": "y"
         },
         {
-            "Author": "De Lisser H. G.",
+            "Author": "H. G. De Lisser",
             "Descriptor": "Nicolas, Eugène",
             "Genre": "Fiction (Novel)",
             "Language": "French",
@@ -2126,7 +1961,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2012",
@@ -2137,7 +1972,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2017",
@@ -2181,7 +2016,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Swedish",
             "Pub_id": "stockholm_sweden",
             "Pubdate": "1987",
@@ -2192,7 +2027,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Swedish",
             "Pub_id": "stockholm_sweden",
             "Pubdate": "1994",
@@ -2203,7 +2038,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "frankfurt_ge_germany",
             "Pubdate": "1996",
@@ -2225,7 +2060,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Finnish",
             "Pub_id": "helsingissaãà_finland",
             "Pubdate": "1997",
@@ -2236,7 +2071,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Swedish",
             "Pub_id": "stockholm_sweden",
             "Pubdate": "1997",
@@ -2247,7 +2082,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "frankfurt_ge_germany",
             "Pubdate": "1997",
@@ -2258,7 +2093,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Portuguese",
             "Pub_id": "lisbon_portugal",
             "Pubdate": "1999",
@@ -2280,7 +2115,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "madrid_esp_spain",
             "Pubdate": "2000",
@@ -2291,7 +2126,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "madrid_esp_spain",
             "Pubdate": "2001",
@@ -2302,7 +2137,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Swedish",
             "Pub_id": "stockholm_sweden",
             "Pubdate": "2001",
@@ -2324,7 +2159,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "frankfurt_ge_germany",
             "Pubdate": "2003",
@@ -2357,7 +2192,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Polish",
             "Pub_id": "warszawa_poland",
             "Pubdate": "2006",
@@ -2368,9 +2203,9 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Japanese",
-            "Pub_id": "",
+            "Pub_id": "tokyo_japan",
             "Pubdate": "2007",
             "Publisher": "Akashi Shoten",
             "Title": "Atarashii Sekai No Katachi: Kokujin No Rekishi Bunka To Diasupora No Sekai Chizu",
@@ -2379,18 +2214,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
-            "Language": "Swedish",
-            "Pub_id": "lund_sweden",
-            "Pubdate": "2007",
-            "Publisher": "BTJ",
-            "Title": "Dans I Marker",
-            "Translation": "y"
-        },
-        {
-            "Author": "Caryl Phillips",
-            "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Swedish",
             "Pub_id": "stockholm_sweden",
             "Pubdate": "2008",
@@ -2412,7 +2236,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Portuguese",
             "Pub_id": "rio_de_janeiro_br_brazil",
             "Pubdate": "2011",
@@ -2423,7 +2247,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "stuggart_germany",
             "Pubdate": "2011",
@@ -2434,7 +2258,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Swedish",
             "Pub_id": "stockholm_sweden",
             "Pubdate": "2011",
@@ -2445,7 +2269,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milano_italy",
             "Pubdate": "2011",
@@ -2456,9 +2280,9 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Japanese",
-            "Pub_id": "",
+            "Pub_id": "tokyo_japan",
             "Pubdate": "2011",
             "Publisher": "Iwanamishoten",
             "Title": "Harukanaru Kishibe",
@@ -2467,7 +2291,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Swedish",
             "Pub_id": "lund_sweden",
             "Pubdate": "2011",
@@ -2478,7 +2302,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Latvian",
             "Pub_id": "riga_latvia",
             "Pubdate": "2012",
@@ -2489,18 +2313,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
-            "Language": "Italian",
-            "Pub_id": "napoli_italy",
-            "Pubdate": "2014",
-            "Publisher": "Liguori",
-            "Title": "The Shelter",
-            "Translation": "y"
-        },
-        {
-            "Author": "Caryl Phillips",
-            "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "reggio_emilia_italy",
             "Pubdate": "2015",
@@ -2511,18 +2324,7 @@
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
-            "Genre": "",
-            "Language": "German",
-            "Pub_id": "frankfurt_ge_germany",
-            "Pubdate": "2018",
-            "Publisher": "Fischer Taschenbuch",
-            "Title": "Auf Festem Grund Ein Roman In Drei Teilen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Caryl Phillips",
-            "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "frankfurt_ge_germany",
             "Pubdate": "2018",
@@ -2718,9 +2520,20 @@
             "Translation": "y"
         },
         {
+            "Author": "Erna Brodber",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "gottingen_germany",
+            "Pubdate": "2000",
+            "Publisher": "Lamuv",
+            "Title": "Alabaster-Baby Roman",
+            "Translation": "y"
+        },
+        {
             "Author": "Elizabeth Walcott-Hackshaw",
             "Descriptor": "Translator: Christine Raguet",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "london__england",
             "Pubdate": "2020",
@@ -2735,7 +2548,7 @@
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2021",
-            "Publisher": " Calmann-Lévy",
+            "Publisher": "Calmann-Lévy",
             "Title": "Et d'un seul bras, la soeur balaie sa maison",
             "Translation": "y"
         },
@@ -2993,182 +2806,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1949",
-            "Publisher": "Alfred A. Knopf",
-            "Title": "The Kingdom of This World",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1974",
-            "Publisher": "Gallimard",
-            "Title": "Le Recours de la Méthode",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hungarian",
-            "Pub_id": "bukarest_romania",
-            "Pubdate": "1962",
-            "Publisher": "Kriterion Publishing House",
-            "Title": "A Fény Százada",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1953",
-            "Publisher": "Alfred A. Knopf",
-            "Title": "The Lost Steps",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "English",
-            "Pub_id": "minneapolis_mn_united¬†states",
-            "Pubdate": "1946",
-            "Publisher": "University Of Minnesota Press",
-            "Title": "Music in Cuba",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1956",
-            "Publisher": "Farrar, Straus and Giroux",
-            "Title": "The Chase",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1974",
-            "Publisher": "Alfred A. Knopf",
-            "Title": "Reasons of State",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "san_francisco_ca_united¬†states",
-            "Pubdate": "1979",
-            "Publisher": "Mercury House",
-            "Title": "The Harp and the Shadow",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1958",
-            "Publisher": "Alfred A. Knopf",
-            "Title": "War of Time",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novella)",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1974",
-            "Publisher": "Deutsch",
-            "Title": "Baroque Concerto",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1956",
-            "Publisher": "Gallimard",
-            "Title": "Chasse à L'Homme",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "palermo_italy",
-            "Pubdate": "1979",
-            "Publisher": "Sellerio Editore",
-            "Title": "L'Arpa e L'Ombra",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novella)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1962",
-            "Publisher": "Little, Brown and Company",
-            "Title": "Explosion in a Cathedral",
-            "Translation": "y"
-        },
-        {
-            "Author": "Alejo Carpentier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novella)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1978",
-            "Publisher": "Gallimard",
-            "Title": "La Danse Sacrale",
-            "Translation": "y"
-        },
-        {
-            "Author": " Roberto Fernandez Retamar",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "1970",
-            "Publisher": "Guanda",
-            "Title": "L'Isola Recuperata",
-            "Translation": "y"
-        },
-        {
-            "Author": " Roberto Fernandez Retamar",
-            "Descriptor": "Translator: Rene Depestre ",
-            "Genre": "Poetry Collection",
-            "Language": "French",
-            "Pub_id": "",
-            "Pubdate": "1969",
-            "Publisher": "P.J. Oswald",
-            "Title": "Avec les Mêmes Mains",
-            "Translation": "y"
-        },
-        {
             "Author": "D.F. Les Pierre-Luke",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -3281,7 +2918,7 @@
         {
             "Author": "Gina Picart",
             "Descriptor": "",
-            "Genre": "Short Story",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "Italian",
             "Pub_id": "rome_italy",
             "Pubdate": "2014",
@@ -3356,17 +2993,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Caryl Phillips",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_ams_netherlands",
-            "Pubdate": "2002",
-            "Publisher": "De Bezige Bij",
-            "Title": "Een Nieuwe Wereldorde",
-            "Translation": "y"
-        },
-        {
             "Author": "Justin Lhérisson",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -3375,6 +3001,17 @@
             "Pubdate": "1963",
             "Publisher": "Imprimerie des Antilles",
             "Title": "La famille Des Pitite-Caille: Les Fortunes De Chez Nous",
+            "Translation": "y"
+        },
+        {
+            "Author": "Andrew Salkey",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1970",
+            "Publisher": "Høst",
+            "Title": "Orkanen",
             "Translation": "y"
         },
         {
@@ -4016,7 +3653,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
+            "Author": "Kamau (Edward) Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -4027,7 +3664,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
+            "Author": "Kamau (Edward) Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "French",
@@ -4038,7 +3675,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
+            "Author": "Kamau (Edward) Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "Spanish",
@@ -4049,7 +3686,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
+            "Author": "Kamau (Edward) Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "Spanish",
@@ -4060,7 +3697,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
+            "Author": "Kamau (Edward) Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "French",
@@ -4068,6 +3705,94 @@
             "Pubdate": "2013",
             "Publisher": "Mémoire D'Encrier",
             "Title": "Rêvhaïti",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "oakland_ca_united¬†states",
+            "Pubdate": "1983",
+            "Publisher": "University of California Press",
+            "Title": "Collected Poetry",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "middletown_ct_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Wesleyan University Press",
+            "Title": "Notebook of a Return to the Native Land",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "charlottesville_va_united¬†states",
+            "Pubdate": "1990",
+            "Publisher": "University Press of Virginia",
+            "Title": "Lyric and Dramatic Poetry, 1946-82",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "1987",
+            "Publisher": "München Wien Hanser",
+            "Title": "Gedichte",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "stanford_ca_united¬†states",
+            "Pubdate": "1984",
+            "Publisher": "Stanford University Press",
+            "Title": "Non-Vicious Circle: Twenty Poems Of Aimé Césaire",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "pasadena_ca_united¬†states",
+            "Pubdate": "1981",
+            "Publisher": "Munger Africana Library",
+            "Title": "Some African Poems",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "durham_nc_england",
+            "Pubdate": "2017",
+            "Publisher": "Duke University Press Books",
+            "Title": "Journal of a Homecoming",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "new_york_ny_canada",
+            "Pubdate": "1986",
+            "Publisher": "Ubu Repertory Theater Publications",
+            "Title": "A Tempest",
             "Translation": "y"
         },
         {
@@ -4118,11 +3843,11 @@
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Swedish",
-            "Pub_id": "stockholm_sweden",
-            "Pubdate": "1985",
-            "Publisher": "Stenström",
-            "Title": "På Flodens Botten",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1990",
+            "Publisher": "Agathon Press",
+            "Title": "Negen Bij Twaalf",
             "Translation": "y"
         },
         {
@@ -4151,149 +3876,6 @@
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "stuttgart_germany",
-            "Pubdate": "1986",
-            "Publisher": "Stuttgart Deutsche Verlags-Anstalt",
-            "Title": "Am Grunde Des Flusses",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "novara_italy",
-            "Pubdate": "1987",
-            "Publisher": "De Agostini S.p.A.",
-            "Title": "Anna Delle Antille",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Swedish",
-            "Pub_id": "stockholm_sweden",
-            "Pubdate": "1988",
-            "Publisher": "Stenström",
-            "Title": "Antigua & Barbuda: En Liten Ö",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "frankfurt_ge_germany",
-            "Pubdate": "1989",
-            "Publisher": "Fischer Taschenbuch",
-            "Title": "Am Grunde Des Flusses: Erzählungen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "houten_netherlands",
-            "Pubdate": "1990",
-            "Publisher": "Agathon Press",
-            "Title": "Negen Bij Twaalf",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "stuttgart_germany",
-            "Pubdate": "1990",
-            "Publisher": "Deutsche Verlags-Anstalt",
-            "Title": "Nur Eine Kleine Insel",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novella)",
-            "Language": "German",
-            "Pub_id": "frankfurt_germany",
-            "Pubdate": "1991",
-            "Publisher": "Wolfgang Krüger Verlag",
-            "Title": "Lucy",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "munchen_germany",
-            "Pubdate": "1992",
-            "Publisher": "Farrar, Straus and Giroux",
-            "Title": "Annie John",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2000",
-            "Publisher": "Éditions de l'Olivier",
-            "Title": "Mon Frère",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Éditions de l'Olivier",
-            "Title": "Au Fond De La Rivière",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Seuil",
-            "Title": "Mon Frère",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novella)",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2014",
-            "Publisher": "Unionsverlag",
-            "Title": "Lucy",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novella)",
-            "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2015",
-            "Publisher": "Unionsverlag",
-            "Title": "Lucy: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2016",
@@ -4315,45 +3897,56 @@
         {
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
-            "Genre": "Fiction (Novella)",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "2016",
-            "Publisher": "Adelphi Edizioni",
-            "Title": "Lucy",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2001",
+            "Publisher": "Éditions de l'Olivier",
+            "Title": "Au Fond De La Rivière",
             "Translation": "y"
         },
         {
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
-            "Genre": "Fiction (Novella)",
-            "Language": "English",
-            "Pub_id": "ashland_or_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "Blackstone Audio, Inc.",
-            "Title": "Lucy",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2000",
+            "Publisher": "Éditions de l'Olivier",
+            "Title": "Mon Frère",
             "Translation": "y"
         },
         {
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "2020",
-            "Publisher": "Adelphi Edizioni",
-            "Title": "In Fondo Al Fiume",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1990",
+            "Publisher": "Deutsche Verlags-Anstalt",
+            "Title": "Nur Eine Kleine Insel",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1986",
+            "Publisher": "Stuttgart Deutsche Verlags-Anstalt",
+            "Title": "Am Grunde Des Flusses",
             "Translation": "y"
         },
         {
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Fiction (Novella)",
-            "Language": "Spanish",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2020",
-            "Publisher": "Farrar, Straus and Giroux",
-            "Title": "Lucy",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2015",
+            "Publisher": "Unionsverlag",
+            "Title": "Lucy: Roman",
             "Translation": "y"
         },
         {
@@ -4371,11 +3964,77 @@
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "2020",
+            "Publisher": "Adelphi Edizioni",
+            "Title": "In Fondo Al Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Farrar, Straus and Giroux",
+            "Title": "Lucy",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "novara_italy",
+            "Pubdate": "1987",
+            "Publisher": "De Agostini S.p.A.",
+            "Title": "Anna Delle Antille",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1985",
+            "Publisher": "Stenström",
+            "Title": "På Flodens Botten",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "1988",
+            "Publisher": "Stenström",
+            "Title": "Antigua & Barbuda: En Liten Ö",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
-            "Pub_id": "zurich_switzerland",
-            "Pubdate": "2022",
-            "Publisher": "Kampa Verlag",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1989",
+            "Publisher": "Farrar, Straus and Giroux",
             "Title": "Annie John",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "2008",
+            "Publisher": "Farrar, Straus and Giroux",
+            "Title": "Lucy",
             "Translation": "y"
         },
         {
@@ -4473,7 +4132,7 @@
             "Language": "English",
             "Pub_id": "roseau_dominica",
             "Pubdate": "1974",
-            "Publisher": "Arts Council of Dominica,Writers Workshop",
+            "Publisher": "Arts Council of Dominica, Writers Workshop",
             "Title": "Dominican Short Stories",
             "Translation": "y"
         },
@@ -4634,7 +4293,7 @@
         {
             "Author": "A Halcrow",
             "Descriptor": "",
-            "Genre": "Short Story",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1930",
@@ -4678,7 +4337,7 @@
         {
             "Author": "Alaí Reyes-Santos",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_brunswick_nj_united¬†states",
             "Pubdate": "2015",
@@ -4722,7 +4381,7 @@
         {
             "Author": "Esi Edugyan",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "2011",
@@ -4733,7 +4392,7 @@
         {
             "Author": "Esi Edugyan",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2005",
@@ -4744,7 +4403,7 @@
         {
             "Author": "Esi Edugyan",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Biography",
             "Language": "English",
             "Pub_id": "toronto_on_canada",
             "Pubdate": "2022",
@@ -4755,7 +4414,7 @@
         {
             "Author": "Esi Edugyan",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Autobiography/Memoir",
             "Language": "English",
             "Pub_id": "edmonton_canada",
             "Pubdate": "2014",
@@ -4765,7 +4424,7 @@
         },
         {
             "Author": "Junot Diaz",
-            "Descriptor": "\nObejas, Achy",
+            "Descriptor": "Obejas, Achy",
             "Genre": "Fiction (Short Story)",
             "Language": "Spanish",
             "Pub_id": "new_york_ny_united¬†states",
@@ -4830,6 +4489,17 @@
             "Translation": "y"
         },
         {
+            "Author": "Jean Casimir",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "chapel_hill_nc_united¬†states",
+            "Pubdate": "2020",
+            "Publisher": "The University of North Carolina Press",
+            "Title": "The Haitians: A Decolonial History",
+            "Translation": "y"
+        },
+        {
             "Author": "Evan Jones",
             "Descriptor": "",
             "Genre": "Biography",
@@ -4843,7 +4513,7 @@
         {
             "Author": "Evan Jones",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Biography",
             "Language": "Welsh",
             "Pub_id": "swansea_wales",
             "Pubdate": "1925",
@@ -4876,7 +4546,7 @@
         {
             "Author": "Evan Jones",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "melbourne_australia",
             "Pubdate": "1969",
@@ -4918,7 +4588,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Miguel de Cervantes Saavedra",
+            "Author": "Miguel de Cervantes Saavedra",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
@@ -4951,7 +4621,7 @@
             "Translation": "y"
         },
         {
-            "Author": " Myriam J. A Chancy",
+            "Author": "Myriam J. A Chancy",
             "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
@@ -4963,24 +4633,35 @@
         },
         {
             "Author": "Julia Alvarez",
-            "Descriptor": "Enzenberg, Carina von; Zahn, Hartmut; Piper Verlag",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "munich_germany",
-            "Pubdate": "2017",
-            "Publisher": "Piper Edition",
-            "Title": "Die Zeit der Schmetterlinge Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Julia Alvarez",
-            "Descriptor": "Carina von; Piper Verlag",
+            "Descriptor": "Enzenberg, Carina von; Piper Verlag",
             "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "munich_germany",
             "Pubdate": "2017",
             "Publisher": "Piper Verlag GmbH",
             "Title": "Im Namen Der Salomé Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Enzenberg, Carina von; Zahn, Hartmut; Piper Verlag",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "1994",
+            "Publisher": "Piper Edition",
+            "Title": "Die Zeit der Schmetterlinge Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Falger, Lon",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1994",
+            "Publisher": "Poema Pocket",
+            "Title": "In De Tijd Van De Vlinders",
             "Translation": "y"
         },
         {
@@ -4992,17 +4673,6 @@
             "Pubdate": "2017",
             "Publisher": "Piper Verlag GmbH",
             "Title": "Yolanda: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Julia Alvarez",
-            "Descriptor": "Falger, Lon",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "2006",
-            "Publisher": "Poema Pocket",
-            "Title": "In De Tijd Van De Vlinders",
             "Translation": "y"
         },
         {
@@ -5124,6 +4794,17 @@
             "Pubdate": "2013",
             "Publisher": "Editorial Campana.",
             "Title": "I Am Dominica : Mwen Sé Donmnik",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jan J Dominique",
+            "Descriptor": "Donovan, Emma Page",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "charlottesville_va_united¬†states",
+            "Pubdate": "2021",
+            "Publisher": "University of Virginia Press",
+            "Title": "Wandering Memory",
             "Translation": "y"
         },
         {
@@ -5260,7 +4941,7 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator:  Monica Stahel Co-authors:  Carlos Marcelo & Wagner Moura ",
+            "Descriptor": "Translator:  Monica Stahel Co-authors:  Carlos Marcelo & Wagner Moura",
             "Genre": "Fiction",
             "Language": "Portuguese",
             "Pub_id": "são_paulo_brazil",
@@ -5755,7 +5436,7 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Bruno Arpaia ",
+            "Descriptor": "Translator: Bruno Arpaia",
             "Genre": "Fiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
@@ -5766,7 +5447,7 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Monica Stahel ",
+            "Descriptor": "Translator: Monica Stahel",
             "Genre": "Fiction",
             "Language": "Portuguese",
             "Pub_id": "são_paulo_brazil",
@@ -5777,7 +5458,7 @@
         },
         {
             "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "Translator: Monica Stahel ",
+            "Descriptor": "Translator: Monica Stahel",
             "Genre": "Fiction",
             "Language": " Portuguese",
             "Pub_id": "são_paulo_brazil",
@@ -5985,17 +5666,6 @@
             "Translation": "y"
         },
         {
-            "Author": "John M Kirk",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2002",
-            "Publisher": "Editorial Plaza Mayor",
-            "Title": "La cultura y la revolución cubana : conversaciones en La Habana",
-            "Translation": "y"
-        },
-        {
             "Author": "Ibi Zoboi",
             "Descriptor": "",
             "Genre": "Nonfiction Book",
@@ -6092,6 +5762,160 @@
             "Pubdate": "2017",
             "Publisher": "Balzer + Bray",
             "Title": "American Street",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1949",
+            "Publisher": "Alfred A. Knopf",
+            "Title": "The Kingdom of This World",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1974",
+            "Publisher": "Gallimard",
+            "Title": "Le Recours de la Méthode",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hungarian",
+            "Pub_id": "bukarest_romania",
+            "Pubdate": "1962",
+            "Publisher": "Kriterion Publishing House",
+            "Title": "A Fény Százada",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1953",
+            "Publisher": "Alfred A. Knopf",
+            "Title": "The Lost Steps",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "minneapolis_mn_united¬†states",
+            "Pubdate": "1946",
+            "Publisher": "University Of Minnesota Press",
+            "Title": "Music in Cuba",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1956",
+            "Publisher": "Farrar, Straus and Giroux",
+            "Title": "The Chase",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1974",
+            "Publisher": "Alfred A. Knopf",
+            "Title": "Reasons of State",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "san_francisco_ca_united¬†states",
+            "Pubdate": "1979",
+            "Publisher": "Mercury House",
+            "Title": "The Harp and the Shadow",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1958",
+            "Publisher": "Alfred A. Knopf",
+            "Title": "War of Time",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1974",
+            "Publisher": "Deutsch",
+            "Title": "Baroque Concerto",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1956",
+            "Publisher": "Gallimard",
+            "Title": "Chasse à L'Homme",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "palermo_italy",
+            "Pubdate": "1979",
+            "Publisher": "Sellerio Editore",
+            "Title": "L'Arpa e L'Ombra",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1962",
+            "Publisher": "Little, Brown and Company",
+            "Title": "Explosion in a Cathedral",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1978",
+            "Publisher": "Gallimard",
+            "Title": "La Danse Sacrale",
             "Translation": "y"
         },
         {

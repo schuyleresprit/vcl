@@ -76,6 +76,7 @@ def process_author_files(csv_path, csv_list):
       for row in reader:
               
         author_publications = {}
+        author_publications['author_id'] = author_info[1]
         author_publications['Author'] = author_info[0]
         author_publications['Title'] = row['Title']
         author_publications['Pubdate'] = row['Pubdate']
