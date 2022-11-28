@@ -29920,11 +29920,11 @@
             "Translation": "n"
         }
     ],
-    "Nonfiction Book": [
+    "Nonfiction": [
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1995",
