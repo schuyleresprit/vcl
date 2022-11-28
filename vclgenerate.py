@@ -60,6 +60,16 @@ SWEDISH_JSON = os.getcwd() + '/data/swedish.json'
 TURKISH_JSON = os.getcwd() + '/data/turkish.json'
 VIETNAMESE_JSON = os.getcwd() + '/data/vietnamese.json'
 WELSH_JSON = os.getcwd() + '/data/welsh.json'
+FICTIONNOVEL_JSON = os.getcwd() + '/data/fictionnovel.json'
+FICTIONSTORY_JSON = os.getcwd() + '/data/fictionstory.json'
+FICTIONSTORYCOLL_JSON = os.getcwd() + '/data/fictionstorycoll.json'
+POEM_JSON = os.getcwd() + '/data/poem.json'
+POETRYCOLL_JSON = os.getcwd() + '/data/poetrycoll.json'
+DRAMA_JSON = os.getcwd() + '/data/drama.json'
+MEMOIR_JSON = os.getcwd() + '/data/memoir.json'
+ANTHOLOGY_JSON = os.getcwd() + '/data/anthology.json'
+NONFICTION_JSON = os.getcwd() + '/data/nonfiction.json'
+ESSAY_JSON = os.getcwd() + '/data/essay.json'
 MAPBOX_USERNAME = 'schuylere'
 access_token='pk.eyJ1Ijoic2NodXlsZXJlIiwiYSI6ImNsMmh3aGRuMjAxN3MzaW1rMmZoenhpMTMifQ.Nwv-MP6OK6eOKW_bfNYRaw'
 
@@ -152,7 +162,17 @@ def process_author_files(csv_path, csv_list, mapbox_username):
   turkish = {}
   vietnamese = {}
   welsh = {}
-  
+  fictionnovel = {}
+  fictionstory = {}
+  fictionstorycoll = {}
+  poem = {}
+  poetrycoll = {}
+  drama = {}
+  memoir = {}
+  anthology = {}
+  nonfiction = {}
+  essay = {}
+ 
   for csv_name in csv_list:
     with open(csv_path+csv_name) as csv_file:
       reader = csv.reader(csv_file)
@@ -543,17 +563,87 @@ def process_author_files(csv_path, csv_list, mapbox_username):
             if language_id == 'Welsh':
               welsh.setdefault(author_id, []).append(author_publications)
             row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Fiction (Novel)']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Fiction (Novel)':
+              fictionnovel.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Fiction (Short Story)']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Fiction (Short Story)':
+              fictionstory.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Fiction (Short Story Collection)']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Fiction (Short Story Collection)':
+              fictionstorycoll.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Poem']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Poem':
+              poem.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Poetry Collection']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Poetry Collection':
+              poetrycoll.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Drama']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Drama':
+              drama.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Autobiogaphy/ Memoir']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Autobiography/ Memoir':
+              memoir.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Anthology']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Anthology':
+              anthology.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Nonfiction']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Nonfiction':
+              nonfiction.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
+#-------------------------------------------------------------------------------       
+        for i in range (2):
+          if not row['Genre'] in publications_by_genre == ['Essay']:
+            publications_by_genre[row['Genre']] = []
+            if genre_id == 'Essay':
+              essay.setdefault(author_id, []).append(author_publications)
+            row_index =+ 1
 
   csv_file.close()
 
-  return author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian, arabic, chinese, creole, czech, danish, estonian, finnish, frenchcreole, german, greek, greekmodern, hebrew, hungarian, japanese, korean, latvian, norwegian, persian, persianfarsi, polish, romanian, russian, serbian, slovenian, spanishfrench, slucreole, swedish, turkish, vietnamese, welsh
+  return author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian, arabic, chinese, creole, czech, danish, estonian, finnish, frenchcreole, german, greek, greekmodern, hebrew, hungarian, japanese, korean, latvian, norwegian, persian, persianfarsi, polish, romanian, russian, serbian, slovenian, spanishfrench, slucreole, swedish, turkish, vietnamese, welsh, fictionnovel, fictionstory, fictionstorycoll, poem, poetrycoll, drama, memoir, anthology, nonfiction, essay
 
 
 # ---------------
 # Function calls
 # ---------------
 csv_list = get_csv_list(CSV_LOCATION)
-author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian, arabic, chinese, creole, czech, danish, estonian, finnish, frenchcreole, german, greek, greekmodern, hebrew, hungarian, japanese, korean, latvian, norwegian, persian, persianfarsi, polish, romanian, russian, serbian, slovenian, spanishfrench, slucreole, swedish, turkish, vietnamese, welsh = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
+author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian, arabic, chinese, creole, czech, danish, estonian, finnish, frenchcreole, german, greek, greekmodern, hebrew, hungarian, japanese, korean, latvian, norwegian, persian, persianfarsi, polish, romanian, russian, serbian, slovenian, spanishfrench, slucreole, swedish, turkish, vietnamese, welsh, fictionnovel, fictionstory, fictionstorycoll, poem, poetrycoll, drama, memoir, anthology, nonfiction, essay = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
 
 with codecs.open(AUTHOR_ID_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(author_ids, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
@@ -733,4 +823,44 @@ with codecs.open(VIETNAMESE_JSON, 'w', 'utf8') as f:
 
 with codecs.open(WELSH_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(welsh, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(FICTIONNOVEL_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(fictionnovel, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(FICTIONSTORY_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(fictionstory, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(FICTIONSTORYCOLL_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(fictionstorycoll, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(POEM_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(poem, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(POETRYCOLL_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(poetrycoll, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(DRAMA_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(drama, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(MEMOIR_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(memoir, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(ANTHOLOGY_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(anthology, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(NONFICTION_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(nonfiction, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+  f.close()
+
+with codecs.open(ESSAY_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(essay, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
   f.close()
