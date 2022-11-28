@@ -25967,7 +25967,7 @@
         {
             "Author": "Chiara Bettelli Lelio",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2018",
@@ -25978,7 +25978,7 @@
         {
             "Author": "Manuel Zapata Olivella",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2022",
@@ -25989,7 +25989,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1948",
@@ -25998,9 +25998,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Cynric R. Williams ",
+            "Author": "Cynric R. Williams",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2015",
@@ -26011,7 +26011,7 @@
         {
             "Author": "Cynric R. Williams ",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1827",
@@ -26022,7 +26022,7 @@
         {
             "Author": "Ian E Robertson",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "2014",
@@ -26033,7 +26033,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2013",
@@ -26042,11 +26042,11 @@
             "Translation": "n"
         }
     ],
-    "Non fiction Book": [
+    "Nonfiction": [
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Non fiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2001",
@@ -29874,11 +29874,11 @@
             "Translation": "y"
         }
     ],
-    "Nonfiction ": [
+    "Nonfiction": [
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1983",
@@ -29889,7 +29889,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "2014",
@@ -29900,7 +29900,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2003",
@@ -29911,7 +29911,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "bloomington_in_united_states",
             "Pubdate": "1992",
@@ -29920,11 +29920,11 @@
             "Translation": "n"
         }
     ],
-    "Nonfiction Book": [
+    "Nonfiction": [
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1995",
@@ -29935,7 +29935,7 @@
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1982",
@@ -29946,7 +29946,7 @@
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1997",
@@ -29957,7 +29957,7 @@
         {
             "Author": "Néstor Ponce",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "rennes_france",
             "Pubdate": "2010",
