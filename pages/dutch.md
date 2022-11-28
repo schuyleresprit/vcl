@@ -4,28 +4,26 @@ title: Dutch
 permalink: /dutch
 ---
 
-<html>
 
+Represented here are the authors who have written works in Dutch. Some of these may be texts translated into Dutch from other languages. 
+
+<html>
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a language of publication">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
 		</div>
-
 		<div id="data-container" class="row">
 		</div>
 	</div>
-
 	<script>
 		let datasets = [
 			{
-				"type" : "languages",
-				"url" : "/data/languages.json"
+				"type" : "dutch",
+				"url" : "/data/dutch.json"
 			}
 		];
-
 		var dataLinks = [];
-
 		$( document ).ready(function() {
 			for (i = 0; i < datasets.length; i++) {
 				dataLinks.push({
@@ -33,22 +31,18 @@ permalink: /dutch
 					"data" : siftData(datasets[i].url, datasets[i].type)
 				});
 			}
-
 			//Set triggers
 			$('#search-box').on('input', function (event) {
 				showCategory(event.target.value);
 			})
-
 			//Populate page
 			setTimeout(showCategory, 1000);
 		});
-
 		function siftData (url, dataType) {
 			var temp = [];
-
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "languages":
+					case "english":
 						for (key in data) {
 							temp.push({
 								"flavorText" : key,
@@ -56,19 +50,15 @@ permalink: /dutch
 							});
 						}
 						break;
-
 					default:
 						break;
 				}
 			});
-
 			return temp;
 		}
-
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
-
 			dataLinks.forEach(element => {
 				if ((filter == "") && element.data.length > 0) {
 					for (i = 0; i < element.data.length; i++) {

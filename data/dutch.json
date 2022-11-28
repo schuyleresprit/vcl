@@ -1,93 +1,5 @@
 {
-    "Dutch": [
-        {
-            "Author": "Pauline Melville",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1999",
-            "Publisher": "Vassallucci",
-            "Title": "Savanne-Sagen",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pauline Melville",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1999",
-            "Publisher": "Vassallucci",
-            "Title": "Savanne-Sagen",
-            "Translation": "n"
-        },
-        {
-            "Author": "Dany Laferrière",
-            "Descriptor": "Translator: Chris Van de Poel",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "rijswijk_netherlands",
-            "Pubdate": "1992",
-            "Publisher": "Goossens",
-            "Title": "Eroshima",
-            "Translation": "y"
-        },
-        {
-            "Author": "Dany Laferrière",
-            "Descriptor": "Translator: Chris Van de Poel",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "rijswijk_netherlands",
-            "Pubdate": "1992",
-            "Publisher": "Goossens",
-            "Title": "Eroshima",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "Williams, Ella Gwendolen Rees",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1983",
-            "Publisher": "Bert Bakker",
-            "Title": "Wide Sargasso Sea",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "Williams, Ella Gwendolen Rees",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1983",
-            "Publisher": "Bert Bakker",
-            "Title": "Wide Sargasso Sea",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "Schuchart, Max",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1982",
-            "Publisher": "Bert Bakker",
-            "Title": "Goedemorgen, Middernacht",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Rhys",
-            "Descriptor": "Schuchart, Max",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1982",
-            "Publisher": "Bert Bakker",
-            "Title": "Goedemorgen, Middernacht",
-            "Translation": "y"
-        },
+    "cdebrot": [
         {
             "Author": "Cola Debrot",
             "Descriptor": "",
@@ -549,95 +461,9 @@
             "Publisher": "Meulenhoff",
             "Title": "Gedichten",
             "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1999",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Land Voor de Levenden",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1999",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Land Voor de Levenden",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1996",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Krik? Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1996",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Krik? Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1995",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1995",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1998",
-            "Publisher": "Muntinga",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1998",
-            "Publisher": "Muntinga",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
+        }
+    ],
+    "cphillips": [
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
@@ -769,29 +595,123 @@
             "Publisher": "De Geus",
             "Title": "Buitenlanders",
             "Translation": "y"
-        },
+        }
+    ],
+    "dlaferrière": [
         {
-            "Author": "Joseph Zobel",
-            "Descriptor": "",
+            "Author": "Dany Laferrière",
+            "Descriptor": "Translator: Chris Van de Poel",
             "Genre": "Fiction (Novel)",
             "Language": "Dutch",
-            "Pub_id": "baarn_netherlands",
-            "Pubdate": "1991",
-            "Publisher": "Ambo ; NOVIB ; NCOS",
-            "Title": "Negerhuttenweg",
+            "Pub_id": "rijswijk_netherlands",
+            "Pubdate": "1992",
+            "Publisher": "Goossens",
+            "Title": "Eroshima",
             "Translation": "y"
         },
         {
-            "Author": "Joseph Zobel",
+            "Author": "Dany Laferrière",
+            "Descriptor": "Translator: Chris Van de Poel",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "rijswijk_netherlands",
+            "Pubdate": "1992",
+            "Publisher": "Goossens",
+            "Title": "Eroshima",
+            "Translation": "y"
+        }
+    ],
+    "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "Dutch",
-            "Pub_id": "baarn_netherlands",
-            "Pubdate": "1991",
-            "Publisher": "Ambo ; NOVIB ; NCOS",
-            "Title": "Negerhuttenweg",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Land Voor de Levenden",
             "Translation": "y"
         },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Land Voor de Levenden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1996",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1996",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1995",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1995",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1998",
+            "Publisher": "Muntinga",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1998",
+            "Publisher": "Muntinga",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        }
+    ],
+    "elovelace": [
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
@@ -813,7 +733,355 @@
             "Publisher": "In de Knipscheer",
             "Title": "De Dans van de Draak: Roman",
             "Translation": "y"
+        }
+    ],
+    "jalvarez": [
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Falger, Lon",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1994",
+            "Publisher": "Poema Pocket",
+            "Title": "In De Tijd Van De Vlinders",
+            "Translation": "y"
         },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Falger, Lon",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1994",
+            "Publisher": "Poema Pocket",
+            "Title": "In De Tijd Van De Vlinders",
+            "Translation": "y"
+        }
+    ],
+    "jkincaid": [
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1990",
+            "Publisher": "Agathon Press",
+            "Title": "Negen Bij Twaalf",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1990",
+            "Publisher": "Agathon Press",
+            "Title": "Negen Bij Twaalf",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Agathon Press",
+            "Title": "Op De Bodem Van De Rivier",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Agathon Press",
+            "Title": "Op De Bodem Van De Rivier",
+            "Translation": "y"
+        }
+    ],
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Williams, Ella Gwendolen Rees",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "Bert Bakker",
+            "Title": "Wide Sargasso Sea",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Williams, Ella Gwendolen Rees",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "Bert Bakker",
+            "Title": "Wide Sargasso Sea",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Schuchart, Max",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "Bert Bakker",
+            "Title": "Goedemorgen, Middernacht",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Schuchart, Max",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "Bert Bakker",
+            "Title": "Goedemorgen, Middernacht",
+            "Translation": "y"
+        }
+    ],
+    "jzobel": [
+        {
+            "Author": "Joseph Zobel",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "baarn_netherlands",
+            "Pubdate": "1991",
+            "Publisher": "Ambo ; NOVIB ; NCOS",
+            "Title": "Negerhuttenweg",
+            "Translation": "y"
+        },
+        {
+            "Author": "Joseph Zobel",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "baarn_netherlands",
+            "Pubdate": "1991",
+            "Publisher": "Ambo ; NOVIB ; NCOS",
+            "Title": "Negerhuttenweg",
+            "Translation": "y"
+        }
+    ],
+    "mconde": [
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1986",
+            "Publisher": "In de Knipscheer",
+            "Title": "Tituba de Zwarte Heks van Salem",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1986",
+            "Publisher": "In de Knipscheer",
+            "Title": "Tituba de Zwarte Heks van Salem",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Aarden Wallen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Aarden Wallen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Muntinga",
+            "Title": "De Verkruimelde Aarde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Muntinga",
+            "Title": "De Verkruimelde Aarde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Rainbow Pocketboeken",
+            "Title": "Tituba de Zwarte Heks van Salem",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Rainbow Pocketboeken",
+            "Title": "Tituba de Zwarte Heks van Salem",
+            "Translation": "y"
+        }
+    ],
+    "mhodge": [
+        {
+            "Author": "Merle Hodge",
+            "Descriptor": "",
+            "Genre": "Fiction",
+            "Language": "Dutch",
+            "Pub_id": "baarn_netherlands",
+            "Pubdate": "1993",
+            "Publisher": "Ambo ; NOVIB ; NCOS",
+            "Title": "Allemaal Kapsones",
+            "Translation": ""
+        },
+        {
+            "Author": "Merle Hodge",
+            "Descriptor": "",
+            "Genre": "Fiction",
+            "Language": "Dutch",
+            "Pub_id": "baarn_netherlands",
+            "Pubdate": "1993",
+            "Publisher": "Ambo ; NOVIB ; NCOS",
+            "Title": "Allemaal Kapsones",
+            "Translation": ""
+        }
+    ],
+    "nyoon": [
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_ams_netherlands",
+            "Pubdate": "2021",
+            "Publisher": "Em. Querido's Uitgeverij",
+            "Title": "Dansen Voor Beginners",
+            "Translation": "n"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_ams_netherlands",
+            "Pubdate": "2021",
+            "Publisher": "Em. Querido's Uitgeverij",
+            "Title": "Dansen Voor Beginners",
+            "Translation": "n"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2015",
+            "Publisher": "Uitgeverij Rainbow bv",
+            "Title": "Alles Wat Je Lief Is",
+            "Translation": "n"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2015",
+            "Publisher": "Uitgeverij Rainbow bv",
+            "Title": "Alles Wat Je Lief Is",
+            "Translation": "n"
+        }
+    ],
+    "pmelville": [
+        {
+            "Author": "Pauline Melville",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Vassallucci",
+            "Title": "Savanne-Sagen",
+            "Translation": "n"
+        },
+        {
+            "Author": "Pauline Melville",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Vassallucci",
+            "Title": "Savanne-Sagen",
+            "Translation": "n"
+        }
+    ],
+    "vsnaipaul": [
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
@@ -1120,248 +1388,6 @@
             "Pubdate": "1983",
             "Publisher": "De Arbeiderspers",
             "Title": "De Mimitators",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Haarlem, Netherlands",
-            "Pubdate": "1984",
-            "Publisher": "In de Knipscheer",
-            "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Haarlem, Netherlands",
-            "Pubdate": "1984",
-            "Publisher": "In de Knipscheer",
-            "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "In de Knipscheer",
-            "Title": "Tituba de Zwarte Heks van Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "In de Knipscheer",
-            "Title": "Tituba de Zwarte Heks van Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Haarlem, Netherlands",
-            "Pubdate": "1984",
-            "Publisher": "In de Knipscheer",
-            "Title": "De Aarden Wallen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Haarlem, Netherlands",
-            "Pubdate": "1984",
-            "Publisher": "In de Knipscheer",
-            "Title": "De Aarden Wallen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1985",
-            "Publisher": "Muntinga",
-            "Title": "De Verkruimelde Aarde",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1985",
-            "Publisher": "Muntinga",
-            "Title": "De Verkruimelde Aarde",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "Rainbow Pocketboeken",
-            "Title": "Tituba de Zwarte Heks van Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "Rainbow Pocketboeken",
-            "Title": "Tituba de Zwarte Heks van Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "houten_netherlands",
-            "Pubdate": "1990",
-            "Publisher": "Agathon Press",
-            "Title": "Negen Bij Twaalf",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "houten_netherlands",
-            "Pubdate": "1990",
-            "Publisher": "Agathon Press",
-            "Title": "Negen Bij Twaalf",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "houten_netherlands",
-            "Pubdate": "1986",
-            "Publisher": "Agathon Press",
-            "Title": "Op De Bodem Van De Rivier",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jamaica Kincaid",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "houten_netherlands",
-            "Pubdate": "1986",
-            "Publisher": "Agathon Press",
-            "Title": "Op De Bodem Van De Rivier",
-            "Translation": "y"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_ams_netherlands",
-            "Pubdate": "2021",
-            "Publisher": "Em. Querido's Uitgeverij",
-            "Title": "Dansen Voor Beginners",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_ams_netherlands",
-            "Pubdate": "2021",
-            "Publisher": "Em. Querido's Uitgeverij",
-            "Title": "Dansen Voor Beginners",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "2015",
-            "Publisher": "Uitgeverij Rainbow bv",
-            "Title": "Alles Wat Je Lief Is",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "2015",
-            "Publisher": "Uitgeverij Rainbow bv",
-            "Title": "Alles Wat Je Lief Is",
-            "Translation": "n"
-        },
-        {
-            "Author": "Merle Hodge",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "Dutch",
-            "Pub_id": "baarn_netherlands",
-            "Pubdate": "1993",
-            "Publisher": "Ambo ; NOVIB ; NCOS",
-            "Title": "Allemaal Kapsones",
-            "Translation": ""
-        },
-        {
-            "Author": "Merle Hodge",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "Dutch",
-            "Pub_id": "baarn_netherlands",
-            "Pubdate": "1993",
-            "Publisher": "Ambo ; NOVIB ; NCOS",
-            "Title": "Allemaal Kapsones",
-            "Translation": ""
-        },
-        {
-            "Author": "Julia Alvarez",
-            "Descriptor": "Falger, Lon",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1994",
-            "Publisher": "Poema Pocket",
-            "Title": "In De Tijd Van De Vlinders",
-            "Translation": "y"
-        },
-        {
-            "Author": "Julia Alvarez",
-            "Descriptor": "Falger, Lon",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1994",
-            "Publisher": "Poema Pocket",
-            "Title": "In De Tijd Van De Vlinders",
             "Translation": "y"
         }
     ]

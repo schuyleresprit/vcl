@@ -5623,7 +5623,7 @@
             "Author": "Roque Dalton",
             "Descriptor": "",
             "Genre": "Essay",
-            "Language": "test",
+            "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1969",
             "Publisher": "Siglo Feintiuno Editores",
@@ -14283,7 +14283,7 @@
             "Author": "Francis Carco",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "test",
+            "Language": "English",
             "Pub_id": "berkeley_ca_united¬†states",
             "Pubdate": "1987",
             "Publisher": "Black Lizard",
@@ -14745,7 +14745,7 @@
             "Author": "V.S. Naipaul",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Portugese",
+            "Language": "Portuguese",
             "Pub_id": "",
             "Pubdate": "1987",
             "Publisher": "Companhia das Letras",
@@ -15044,7 +15044,7 @@
             "Author": "Guillermo Cabrera Infante",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Portugese",
+            "Language": "Portuguese",
             "Pub_id": "sao_paulo_brazil",
             "Pubdate": "1988",
             "Publisher": "Companhia das Letras",
@@ -24151,7 +24151,7 @@
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
             "Genre": "Fiction",
-            "Language": "French ",
+            "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2004",
             "Publisher": "Ibis Rouge",
@@ -36016,6 +36016,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Edouard Mokwe",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "munich_germany",
+            "Pubdate": "2020",
+            "Publisher": "Lincom Gmbh",
+            "Title": "Le Roman Antillais Contemporain",
+            "Translation": "n"
+        },
+        {
             "Author": "Jean Casimir",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -37285,19 +37296,6 @@
             "Publisher": "Editorial Academia del Hispanismo",
             "Title": "La Novelística de Alejo Carpentier y Sus Claves Musicales",
             "Translation": "n"
-        }
-    ],
-    "French": [
-        {
-            "Author": "Edouard Mokwe",
-            "Descriptor": null,
-            "Genre": "n",
-            "Language": "Lincom Gmbh",
-            "Pub_id": "Fiction (Novel)",
-            "Pubdate": "French",
-            "Publisher": "Munich",
-            "Title": "Le Roman Antillais Contemporain",
-            "Translation": "208"
         }
     ],
     "NA": [

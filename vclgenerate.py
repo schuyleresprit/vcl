@@ -237,42 +237,42 @@ def process_author_files(csv_path, csv_list, mapbox_username):
           if not row['Language'] in publications_by_language == ['French']:
             publications_by_language[row['Language']] = []
             if language_id == 'French':
-              french.setdefault(language_id, []).append(author_publications)
+              french.setdefault(author_id, []).append(author_publications)
             row_index =+ 1
 #-------------------------------------------------------------------------------       
         for i in range (2):
           if not row['Language'] in publications_by_language == ['Spanish']:
             publications_by_language[row['Language']] = []
             if language_id == 'Spanish':
-              spanish.setdefault(language_id, []).append(author_publications)
+              spanish.setdefault(author_id, []).append(author_publications)
             row_index =+ 1
 #-------------------------------------------------------------------------------       
         for i in range (2):
           if not row['Language'] in publications_by_language == ['Dutch']:
             publications_by_language[row['Language']] = []
             if language_id == 'Dutch':
-              dutch.setdefault(language_id, []).append(author_publications)
+              dutch.setdefault(author_id, []).append(author_publications)
             row_index =+ 1
 #-------------------------------------------------------------------------------       
         for i in range (2):
           if not row['Language'] in publications_by_language == ['Portuguese']:
             publications_by_language[row['Language']] = []
             if language_id == 'Portuguese':
-              portuguese.setdefault(language_id, []).append(author_publications)
+              portuguese.setdefault(author_id, []).append(author_publications)
             row_index =+ 1
 #-------------------------------------------------------------------------------       
         for i in range (2):
           if not row['Language'] in publications_by_language == ['Haitian Creole']:
             publications_by_language[row['Language']] = []
             if language_id == 'Haitian Creole':
-              haitiancreole.setdefault(language_id, []).append(author_publications)
+              haitiancreole.setdefault(author_id, []).append(author_publications)
             row_index =+ 1
 #-------------------------------------------------------------------------------       
         for i in range (2):
           if not row['Language'] in publications_by_language == ['Italian']:
             publications_by_language[row['Language']] = []
             if language_id == 'Italian':
-              italian.setdefault(language_id, []).append(author_publications)
+              italian.setdefault(author_id, []).append(author_publications)
             row_index =+ 1
 
   csv_file.close()

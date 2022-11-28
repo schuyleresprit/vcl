@@ -1,5 +1,5 @@
 {
-    "Portuguese": [
+    "cphillips": [
         {
             "Author": "Caryl Phillips",
             "Descriptor": "",
@@ -43,51 +43,33 @@
             "Publisher": "Editora Record",
             "Title": "A Travessia Do Rio",
             "Translation": "y"
-        },
+        }
+    ],
+    "gcinfante": [
         {
-            "Author": "Nicola Yoon",
+            "Author": "Guillermo Cabrera Infante",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "Portuguese",
-            "Pub_id": "barcarena_portugal",
-            "Pubdate": "2017",
-            "Publisher": "Editorial Presença",
-            "Title": "O Sol Também eE Uma Estrela",
-            "Translation": "n"
+            "Pub_id": "sao_paulo_brazil",
+            "Pubdate": "1988",
+            "Publisher": "Companhia das Letras",
+            "Title": "Vista do Amanhecer no Trópico",
+            "Translation": "y"
         },
         {
-            "Author": "Nicola Yoon",
+            "Author": "Guillermo Cabrera Infante",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "Portuguese",
-            "Pub_id": "barcarena_portugal",
-            "Pubdate": "2017",
-            "Publisher": "Editorial Presença",
-            "Title": "O Sol Também eE Uma Estrela",
-            "Translation": "n"
-        },
-        {
-            "Author": "Virgilio Piñera",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Portuguese",
-            "Pub_id": "são_paulo_brazil",
-            "Pubdate": "1989",
-            "Publisher": "Iluminuras",
-            "Title": "Contos Frios: Seguidos De Outros Contos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Virgilio Piñera",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Portuguese",
-            "Pub_id": "são_paulo_brazil",
-            "Pubdate": "1989",
-            "Publisher": "Iluminuras",
-            "Title": "Contos Frios: Seguidos De Outros Contos",
-            "Translation": "n"
-        },
+            "Pub_id": "sao_paulo_brazil",
+            "Pubdate": "1988",
+            "Publisher": "Companhia das Letras",
+            "Title": "Vista do Amanhecer no Trópico",
+            "Translation": "y"
+        }
+    ],
+    "lpfuentes": [
         {
             "Author": "Leonardo Padura Fuentes",
             "Descriptor": "Stahel, Monica",
@@ -175,6 +157,78 @@
             "Publisher": "Asa Edições",
             "Title": "Um Passado Perfeito",
             "Translation": "n"
+        }
+    ],
+    "nyoon": [
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "barcarena_portugal",
+            "Pubdate": "2017",
+            "Publisher": "Editorial Presença",
+            "Title": "O Sol Também eE Uma Estrela",
+            "Translation": "n"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "barcarena_portugal",
+            "Pubdate": "2017",
+            "Publisher": "Editorial Presença",
+            "Title": "O Sol Também eE Uma Estrela",
+            "Translation": "n"
+        }
+    ],
+    "vpinera": [
+        {
+            "Author": "Virgilio Piñera",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Portuguese",
+            "Pub_id": "são_paulo_brazil",
+            "Pubdate": "1989",
+            "Publisher": "Iluminuras",
+            "Title": "Contos Frios: Seguidos De Outros Contos",
+            "Translation": "n"
+        },
+        {
+            "Author": "Virgilio Piñera",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Portuguese",
+            "Pub_id": "são_paulo_brazil",
+            "Pubdate": "1989",
+            "Publisher": "Iluminuras",
+            "Title": "Contos Frios: Seguidos De Outros Contos",
+            "Translation": "n"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "",
+            "Pubdate": "1987",
+            "Publisher": "Companhia das Letras",
+            "Title": "Os Mímicos",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "",
+            "Pubdate": "1987",
+            "Publisher": "Companhia das Letras",
+            "Title": "Os Mímicos",
+            "Translation": "y"
         }
     ]
 }

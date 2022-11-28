@@ -4,11 +4,13 @@ title: English
 permalink: /English
 ---
 
+Represented here are the authors who have written works in English. Some of these may be texts translated into English from other languages. 
+
 <html>
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a language of publication">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
 		</div>
 		<div id="data-container" class="row">
 		</div>
@@ -38,14 +40,17 @@ permalink: /English
 		function siftData (url, dataType) {
 			var temp = [];
 			$.getJSON(url, function (data) {
+				switch (dataType) {
+					case "english":
+						for (key in data) {
 							temp.push({
-								"flavorText" : data[key]["Author"],
-								"subtitle" : data[key]["Title"],
-								"link" : data[key]["author_id"]
+								"flavorText" : key,
+								"link" : key,
 							});
-						})
 						}
-				
+						break;
+					default:
+						break;
 				}
 			});
 			return temp;

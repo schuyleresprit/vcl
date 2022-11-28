@@ -1,27 +1,5 @@
 {
-    "Haitian Creole": [
-        {
-            "Author": "Patrick Sylvain",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Haitian Creole",
-            "Pub_id": "boston_ma_united¬†states",
-            "Pubdate": "2013",
-            "Publisher": "Trilingual Press",
-            "Title": "Masuife",
-            "Translation": "n"
-        },
-        {
-            "Author": "Patrick Sylvain",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Haitian Creole",
-            "Pub_id": "boston_ma_united¬†states",
-            "Pubdate": "2013",
-            "Publisher": "Trilingual Press",
-            "Title": "Masuife",
-            "Translation": "n"
-        },
+    "mheurtelou": [
         {
             "Author": "Maude Heurtelou",
             "Descriptor": "",
@@ -527,7 +505,79 @@
             "Publisher": "Educa Vision",
             "Title": "Tap Tabadap Pap Pap-Pap!",
             "Translation": "n"
+        }
+    ],
+    "psylvain": [
+        {
+            "Author": "Patrick Sylvain",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Haitian Creole",
+            "Pub_id": "boston_ma_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Trilingual Press",
+            "Title": "Masuife",
+            "Translation": "n"
         },
+        {
+            "Author": "Patrick Sylvain",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Haitian Creole",
+            "Pub_id": "boston_ma_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Trilingual Press",
+            "Title": "Masuife",
+            "Translation": "n"
+        }
+    ],
+    "rbaltidor": [
+        {
+            "Author": "Raoul B. Altidor",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "2008",
+            "Publisher": "Edisyon Près Nasyonal d'Ayiti",
+            "Title": "Simbad Avenue",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raoul B. Altidor",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "2008",
+            "Publisher": "Edisyon Près Nasyonal d'Ayiti",
+            "Title": "Simbad Avenue",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raoul B. Altidor",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Haitian Creole",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "2018",
+            "Publisher": "Editions Bon Signe",
+            "Title": "Ri Pwent Chemiz",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raoul B. Altidor",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Haitian Creole",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "2018",
+            "Publisher": "Editions Bon Signe",
+            "Title": "Ri Pwent Chemiz",
+            "Translation": "n"
+        }
+    ],
+    "rdepestre": [
         {
             "Author": "Rene Depestre",
             "Descriptor": "",
@@ -592,50 +642,6 @@
             "Pubdate": "1970",
             "Publisher": "Kraus International Publications",
             "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        },
-        {
-            "Author": "Raoul B. Altidor",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Haitian Creole",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "2008",
-            "Publisher": "Edisyon Près Nasyonal d'Ayiti",
-            "Title": "Simbad Avenue",
-            "Translation": "n"
-        },
-        {
-            "Author": "Raoul B. Altidor",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Haitian Creole",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "2008",
-            "Publisher": "Edisyon Près Nasyonal d'Ayiti",
-            "Title": "Simbad Avenue",
-            "Translation": "n"
-        },
-        {
-            "Author": "Raoul B. Altidor",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Haitian Creole",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "2018",
-            "Publisher": "Editions Bon Signe",
-            "Title": "Ri Pwent Chemiz",
-            "Translation": "n"
-        },
-        {
-            "Author": "Raoul B. Altidor",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Haitian Creole",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "2018",
-            "Publisher": "Editions Bon Signe",
-            "Title": "Ri Pwent Chemiz",
             "Translation": "n"
         }
     ]

@@ -7,8 +7,7 @@ permalink: /alhendriks
 <div class="content">
     <h1>Arthur Lemiere Hendriks</h1>
     <div class="quote">
-        <div><img src="https://latinamericanliterature3.weebly.com/uploads/1/4/1/8/14185920/9914758.jpg?142"
-" class="logo"></div>
+        <div><img src="https://latinamericanliterature3.weebly.com/uploads/1/4/1/8/14185920/9914758.jpg?142" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -18,7 +17,7 @@ permalink: /alhendriks
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Arthur Lemiere Hendriks is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/A._L._Hendriks"_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/A._L._Hendriks" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
