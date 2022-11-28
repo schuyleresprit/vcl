@@ -27,6 +27,7 @@ permalink: /agarrandés
                 <h1>Teoría De La Crítica Y El Ensayo En Hispanoamérica</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=rkIHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72lCTqnO1QdQNQKi7eujxXp74ZLGgyLR7hgcewGpjsD4XuwkFsgiMBV9yqaCycf8mBwI9wDPJJ-sIz0UzP_hT1nGW8EiK6P9mVidW876Trg7xCsRjzaNl8LwYyDOfegsRzMUSyQ"></p>
                 <p>
+                Co-Author: Jorge Luis Arcos
                 Language: Spanish <br/>
                 Publisher: Academia <br/>
                 Pub_location: Havana, Cuba <br/>
@@ -130,7 +131,7 @@ permalink: /agarrandés
                 Pub_location: Havana, Cuba <br/>
                 Genre: Fiction (Short Story Collection) <br/>
                 Length: 159 <br/>                  </p>
-            </div>
+             </div>
         </div>
 <div class="block">
             <div class="date right"><p class="right">1997</p></div>
@@ -144,6 +145,20 @@ permalink: /agarrandés
                 Pub_location: Havana, Cuba <br/>
                 Genre: Fiction (Short Story Collection) <br/>
                 Length: 189<br/>                       </p>
+                 </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right hide">1997</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Poco Antes Del 2000 : Jóvenes Cuentistas Cubanos En Las Puertas Del Nuevo Siglo</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9789591003645-us.jpg" ></p>
+                <p>
+                Language: Spanish <br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba <br/>
+                Genre: Fiction (Short Story Collection) <br/>
+                Length: 159 <br/>                  </p>
             </div>
         </div>
         <div class="block">
@@ -228,6 +243,342 @@ permalink: /agarrandés
                 Pub_location: San Juan, Puerto Rico <br/>
                 Genre: Essay <br/>
                 Length: 173 <br/>                  </p>
+            </div>
+        </div>
+         <div class="block">
+            <div class="date left"><p class="left">2002</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Cibersade: Seis Piezas Narrativas</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=J3sfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71lw1owHJpfsPCDhN5TuEwOCM7B3VtMTIy52gdkmxF1yK8Fcm8E38T7UgxdxCMPuzraNOZ_SyDxuIX0sCiG5z9isad4GrlORuY-3YGLql6WhyGLt69VW2OpcoI0OY5rFt5ZzO5l"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 273<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2003</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Tres Relatos Góticos</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552964049l/44527318._SX318_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Arte y Literatura<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 259<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2003</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Fake : Los Frívolos Voraces</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51NPHeCNBrL._SX373_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 190<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2004</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>El Cuerpo Inmortal Revisitado : Cuentos Eróticos Cubanos</h1><hr>
+                <p><img src="https://http2.mlstatic.com/D_NQ_NP_946940-MLA29001358198_122018-O.webp"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 373<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2005</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Presunciones</h1><hr>
+                <p><img src="https://http2.mlstatic.com/D_NQ_NP_2X_736401-MCO20330076236_062015-F.webp"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Essay<br/>
+                Length: 430<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2007</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>La Mirada Critica</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Ediciones Almargen : Editorial Cauce : UNEAC<br/>
+                Pub_location: Pinar del Río, Cuba<br/>
+                Genre: Essay<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2007</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Las Potestades Incorpóreas</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51rxvpNq7zL._SX373_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 158<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2008</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Mundos Extraños : Narraciones Clásicas De Lo Fantástico Y Lo Sobrenatural</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449067558l/28076500._SX318_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Arte y Literatura<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 673<br/>                   </p>
+            </div>
+        </div>
+      <div class="block">
+            <div class="date left"><p class="left">2008</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Donde Su Fuego Nunca Se Apaga</h1><hr>
+                <p><img src="https://cloud10.todocoleccion.online/libros-segunda-mano-literatura/tc/2016/07/13/18/57995044.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Gente Nueva<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 262<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2008</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>La Insula Fabulante : El Cuento Cubano En La Revolución, 1959-2008</h1><hr>
+                <p><img src="https://media.anobii.com/covers/01ac24154a72fb108c/290/426/1.5/paperback/webp/1364165497"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 809<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2008</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>El Concierto De Las Fábulas : Discursos, Historia E Imaginación En La Narrativa Cubana De Los Años Sesenta</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51hECvNd5WL._SX331_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Essay<br/>
+                Length: 214<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Días Invisibles</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Oriente<br/>
+                Pub_location: Santiago, Cuba<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+         <div class="block">
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Rapunzel: Y Otras Historias</h1><hr>
+                <p><img src="https://http2.mlstatic.com/D_NQ_NP_2X_960813-MLM46082217965_052021-F.webp"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Ediciones Holguín<br/>
+                Pub_location: Guayaquil, Ecuador<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 120<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2010</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Las Nubes En El Agua: Novela</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/31McHo7Qc2L._SX331_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Ediciones Unión<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 170<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2010</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Instrucciones Para Cruzar El Espejo</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503517109l/36112059.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Anthology<br/>
+                Length: 379<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2011/p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Una Pasión En El Desierto : Y Otros Cuentos De Amor</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621000964l/58041054._SY475_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Arte y Literatura<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+      <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
             </div>
         </div>
 </div>
