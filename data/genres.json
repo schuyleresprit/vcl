@@ -25897,7 +25897,7 @@
             "Translation": "n"
         }
     ],
-    "Non Fiction": [
+    "Nonfiction": [
         {
             "Author": "Desmond V Nicholson",
             "Descriptor": "",
@@ -25912,7 +25912,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1933",
@@ -25923,7 +25923,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1932",
@@ -25934,7 +25934,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "niort_france",
             "Pubdate": "1933",
