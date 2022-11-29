@@ -25591,11 +25591,11 @@
             "Translation": "n"
         }
     ],
-    "N/A": [
+    "Anthology": [
         {
             "Author": "Juan Carlos Nunez",
             "Descriptor": "",
-            "Genre": "N/A",
+            "Genre": "Anthology",
             "Language": "Spanish",
             "Pub_id": "guadalajara_mexico",
             "Pubdate": "2020",
