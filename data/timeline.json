@@ -3,7 +3,7 @@
         {
             "Author": "Denise Harris",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "",
@@ -168,7 +168,7 @@
         {
             "Author": "Walter Goodman",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1873",
@@ -181,7 +181,7 @@
         {
             "Author": "John W. Boddam-Whetham",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1879",
@@ -233,7 +233,7 @@
         {
             "Author": "David Augustus Straker",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "whitefish_mt_united¬†states",
             "Pubdate": "1888",
@@ -244,7 +244,7 @@
         {
             "Author": "David Augustus Straker",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "la_vergne_tn_united¬†states",
             "Pubdate": "1888",
@@ -1162,7 +1162,7 @@
         {
             "Author": "Ramón De Palma",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1928",
@@ -1522,7 +1522,7 @@
         {
             "Author": "Lowell J Ragatz",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "washington_dc_united¬†states",
             "Pubdate": "1932",
@@ -2378,9 +2378,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Claude Thompson ",
+            "Author": "Claude Thompson",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1943",
@@ -2718,7 +2718,7 @@
         {
             "Author": "Great Britain Colonial Office",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1947",
@@ -3609,7 +3609,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1958",
@@ -3721,7 +3721,7 @@
         {
             "Author": "Geoffrey Drayton",
             "Descriptor": "",
-            "Genre": "FictionFiction (Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "1959",
@@ -4088,7 +4088,7 @@
         {
             "Author": "Geoffrey Drayton",
             "Descriptor": "",
-            "Genre": "FictionFiction (Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "1961",
@@ -5800,7 +5800,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "santiago_chile",
             "Pubdate": "1970",
@@ -6352,7 +6352,7 @@
         {
             "Author": "Gus John ",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1971",
@@ -6752,7 +6752,7 @@
         {
             "Author": "Christine Craig",
             "Descriptor": "",
-            "Genre": "Nonfiction Books",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1973",
@@ -7680,28 +7680,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1976",
-            "Publisher": "Three Continents Press",
-            "Title": "Heremakhonon",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1976",
-            "Publisher": "Three Continents Press",
-            "Title": "Heremakhonon",
-            "Translation": "y"
-        },
-        {
             "Author": "Kamau (Edward) Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -7926,7 +7904,7 @@
         {
             "Author": "Maureen Warner-Lewis",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "benin_city_nigeria",
             "Pubdate": "1977",
@@ -7948,7 +7926,7 @@
         {
             "Author": "Marion O'Callaghan",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "paris_france",
             "Pubdate": "1977",
@@ -7959,7 +7937,7 @@
         {
             "Author": "Marion O'Callaghan",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "paris_france",
             "Pubdate": "1977",
@@ -8170,34 +8148,12 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1978",
             "Publisher": "Hatier",
             "Title": "Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
             "Translation": "y"
         },
         {
@@ -8612,7 +8568,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1979",
@@ -9274,7 +9230,7 @@
         {
             "Author": "Milagros Rodríguez Cáceres",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "tafalla_spain",
             "Pubdate": "1980",
@@ -9887,17 +9843,6 @@
             "Pubdate": "1981",
             "Publisher": "Heinemann",
             "Title": "A Season in Rihata",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1981",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Une Saison à Rihata",
             "Translation": "y"
         },
         {
@@ -10917,7 +10862,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1982",
@@ -11535,7 +11480,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1983",
@@ -12175,7 +12120,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Fiction (Novel)",
+            "Genre": "Nonfiction",
             "Language": "Dutch",
             "Pub_id": "Haarlem, Netherlands",
             "Pubdate": "1984",
@@ -12220,17 +12165,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1984",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Les Murailles de Terre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "k√∂ln_germany",
             "Pubdate": "1984",
@@ -12258,17 +12192,6 @@
             "Pubdate": "1984",
             "Publisher": "Tiden",
             "Title": "Segu Murer av Leire",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_n.y._united_states",
-            "Pubdate": "1984",
-            "Publisher": "Ballantine",
-            "Title": "Segu",
             "Translation": "y"
         },
         {
@@ -13201,28 +13124,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1985",
-            "Publisher": "Viking Press",
-            "Title": "The Children of Segu",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1985",
-            "Publisher": "Viking Press",
-            "Title": "The Children of Segu",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1985",
@@ -13237,29 +13138,7 @@
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1985",
-            "Publisher": "Hatier",
-            "Title": "Pays Mele: Suivi de Nanna-ya",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
             "Publisher": "France Loisirs",
-            "Title": "La Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Éditions Robert Laffont",
             "Title": "La Terre en Miettes",
             "Translation": "y"
         },
@@ -13863,39 +13742,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "Rainbow Pocketboeken",
-            "Title": "Tituba de Zwarte Heks van Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1986",
@@ -13923,17 +13769,6 @@
             "Pubdate": "1986",
             "Publisher": "München Knaur",
             "Title": "Ich, Tituba, die Schwarze Hexe von Salem Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "bacrcelona_spain",
-            "Pubdate": "1986",
-            "Publisher": "Círculo de Lectores",
-            "Title": "La Bruja de Salem",
             "Translation": "y"
         },
         {
@@ -14766,7 +14601,7 @@
         {
             "Author": "Jorge Ronet",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1987",
@@ -15516,7 +15351,7 @@
         {
             "Author": "Jorge Ronet",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1988",
@@ -16088,17 +15923,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1989",
-            "Publisher": "Folio",
-            "Title": "Traversee de la Mangrove",
-            "Translation": "y"
-        },
-        {
             "Author": "Kamau (Edward) Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -16177,8 +16001,8 @@
         },
         {
             "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9 Co-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
-            "Genre": "Nonfiction Book",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9\nCo-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1989",
@@ -16433,7 +16257,7 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "alabama_united_states",
             "Pubdate": "1990",
@@ -16576,7 +16400,7 @@
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1990",
@@ -16829,7 +16653,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "pointe_√ä_pitre_guadeloupe",
             "Pubdate": "1990",
@@ -17238,7 +17062,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1991",
@@ -17515,7 +17339,7 @@
         {
             "Author": "Helen Klonaris",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "nassau_bahamas",
             "Pubdate": "1992",
@@ -17680,7 +17504,7 @@
         {
             "Author": "Maude Heurtelou",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "1992",
@@ -18210,7 +18034,7 @@
         {
             "Author": "Robert D. Hamner",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "boulder_co_united¬†states",
             "Pubdate": "1993",
@@ -18918,7 +18742,7 @@
         {
             "Author": "Edward W. Said",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1995",
@@ -19017,12 +18841,12 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "poem",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "tunapuna_trinidad_&¬†tobago",
             "Pubdate": "1995",
             "Publisher": "G.V Ferguson",
-            "Title": "Vigil ",
+            "Title": "Vigil",
             "Translation": "n"
         },
         {
@@ -19404,7 +19228,7 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "alabama_united_states",
             "Pubdate": "1996",
@@ -20176,7 +20000,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1997",
@@ -20541,7 +20365,7 @@
         {
             "Author": "Cherie Jones",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "nashville_tn_united_states",
             "Pubdate": "1998",
@@ -21346,7 +21170,7 @@
         {
             "Author": "Georges Sylvain",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1999",
@@ -21865,12 +21689,12 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "d'abadie_trinidad_&¬†tobago",
             "Pubdate": "2000",
             "Publisher": "Green Tree Press",
-            "Title": "Bluejean, A Novel ",
+            "Title": "Bluejean, A Novel",
             "Translation": "n"
         },
         {
@@ -22826,7 +22650,7 @@
         {
             "Author": "Adisa Andwele",
             "Descriptor": "",
-            "Genre": "Poems",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2002",
@@ -22991,7 +22815,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "portsmouth_united¬†states",
             "Pubdate": "2002",
@@ -23145,7 +22969,7 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(short story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "2002",
@@ -23156,7 +22980,7 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(short story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "2002",
@@ -23167,7 +22991,7 @@
         {
             "Author": "Gilberto Mendonça Teles",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "frankfurt_md_spain",
             "Pubdate": "2002",
@@ -23455,7 +23279,7 @@
         {
             "Author": "Adisa Andwele",
             "Descriptor": "",
-            "Genre": "Poems",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "st._michael_barbados",
             "Pubdate": "2003",
@@ -23620,7 +23444,7 @@
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "san_juan_trinidad_&¬†tobago",
             "Pubdate": "2003",
@@ -23631,7 +23455,7 @@
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2003",
@@ -23719,7 +23543,7 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "2003",
@@ -23730,7 +23554,7 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "2003",
@@ -23741,7 +23565,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2003",
@@ -24412,6 +24236,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2004",
+            "Publisher": "Mango Publishing",
+            "Title": "Spirit Of Haiti",
+            "Translation": "n"
+        },
+        {
             "Author": "Dennis Scott",
             "Descriptor": "",
             "Genre": "Drama",
@@ -24581,7 +24416,7 @@
         {
             "Author": "Marilyn Bobes León",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "san_juan_puerto_rico",
             "Pubdate": "2005",
@@ -24735,7 +24570,7 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "st._augustine_trinidad_&¬†tobago",
             "Pubdate": "2005",
@@ -24995,6 +24830,17 @@
             "Publisher": "Insomniac Press",
             "Title": "Over the Roofs of the World",
             "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "bogota_colombia",
+            "Pubdate": "2005",
+            "Publisher": "LaSirén Press",
+            "Title": "Loas. Spanish translation of Loneliness of Angels (A Novel)",
+            "Translation": "y"
         },
         {
             "Author": "Alexandra Isfahani-Hammond",
@@ -25474,7 +25320,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "peterborough_england",
             "Pubdate": "2006",
@@ -25551,7 +25397,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2006",
@@ -25661,7 +25507,7 @@
         {
             "Author": "Earl G Long",
             "Descriptor": "",
-            "Genre": "Fiction ( novel",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_orleans_la_united¬†states",
             "Pubdate": "2006",
@@ -26015,7 +25861,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "parker_united¬†states",
             "Pubdate": "2007",
@@ -26026,7 +25872,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "charles_village_united¬†states",
             "Pubdate": "2007",
@@ -26103,7 +25949,7 @@
         {
             "Author": "Raoul Pantin",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2007",
@@ -26169,7 +26015,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "2007",
@@ -26191,7 +26037,7 @@
         {
             "Author": "Julia Alvarez",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2007",
@@ -26424,7 +26270,7 @@
         {
             "Author": "Anthony Nash",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2008",
@@ -26457,7 +26303,7 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2008",
@@ -26512,7 +26358,7 @@
         {
             "Author": "Sabrina Costanzo",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "messina_italy",
             "Pubdate": "2008",
@@ -26677,7 +26523,7 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2008",
@@ -28098,6 +27944,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2010",
+            "Publisher": "Peepal Tree Press",
+            "Title": "The Loneliness Of Angels",
+            "Translation": "n"
+        },
+        {
             "Author": "Kia Marie Khelawan",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -28925,6 +28782,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2011",
+            "Publisher": "Peepal Tree Press",
+            "Title": "The Scorpion's Claw",
+            "Translation": "n"
+        },
+        {
             "Author": "Stephens A Dantes",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -29281,7 +29149,7 @@
         {
             "Author": "Zadie Smith",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "toronto_on_canada",
             "Pubdate": "2012",
@@ -29424,7 +29292,7 @@
         {
             "Author": "Kwame Senu Neville Dawes",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2012",
@@ -29556,7 +29424,7 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2012",
@@ -29820,7 +29688,7 @@
         {
             "Author": "Ibi Zoboi",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2012",
@@ -30020,7 +29888,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "2013",
@@ -30141,7 +30009,7 @@
         {
             "Author": "D.F. Les Pierre-Luke",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2013",
@@ -30339,7 +30207,7 @@
         {
             "Author": "Junot Diaz",
             "Descriptor": "Obejas, Achy",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "Spanish",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2013",
@@ -30367,6 +30235,17 @@
             "Pubdate": "2013",
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "The Deep",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "waterloo_canada",
+            "Pubdate": "2013",
+            "Publisher": "Wilfrid Laurier University Press",
+            "Title": "From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic",
             "Translation": "n"
         },
         {
@@ -31364,7 +31243,7 @@
         {
             "Author": "Elina Valovirta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "amsterdam_netherlands",
             "Pubdate": "2014",
@@ -31397,7 +31276,7 @@
         {
             "Author": "Didacus Jules",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2014",
@@ -31861,7 +31740,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2015",
@@ -31938,7 +31817,7 @@
         {
             "Author": "Helen Klonaris",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "toronto_canada",
             "Pubdate": "2015",
@@ -32158,7 +32037,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2015",
@@ -32356,7 +32235,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "2015",
@@ -32710,7 +32589,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2016",
@@ -32732,7 +32611,7 @@
         {
             "Author": "David Augustus Straker",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "detroit_mi_united_states",
             "Pubdate": "2016",
@@ -32831,7 +32710,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "carlsbad_united¬†states",
             "Pubdate": "2016",
@@ -32842,18 +32721,18 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "chicago_il_united¬†states",
             "Pubdate": "2016",
             "Publisher": "Motivational Press",
-            "Title": "I Choose Me ",
+            "Title": "I Choose Me",
             "Translation": "n"
         },
         {
             "Author": "Gerald Horne",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2016",
@@ -33196,7 +33075,7 @@
         {
             "Author": "Juan Francisco Manzano",
             "Descriptor": "",
-            "Genre": "Poetry Collections",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "london_united¬†kingdom",
             "Pubdate": "2017",
@@ -33361,7 +33240,7 @@
         {
             "Author": "Helen Klonaris",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "2017",
@@ -33548,7 +33427,7 @@
         {
             "Author": "Simon Schama",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2017",
@@ -34166,7 +34045,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2018",
@@ -34740,7 +34619,7 @@
         {
             "Author": "Zadie Smith",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2019",
@@ -34762,7 +34641,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "jackson_united¬†states",
             "Pubdate": "2019",
@@ -34773,7 +34652,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "chicago_united¬†states",
             "Pubdate": "2019",
@@ -34993,7 +34872,7 @@
         {
             "Author": "Claire Adam",
             "Descriptor": "",
-            "Genre": "Fiction(novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "richmond_londonland",
             "Pubdate": "2019",
@@ -35004,7 +34883,7 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_ny_united_states",
             "Pubdate": "2019",
@@ -35109,6 +34988,17 @@
             "Pubdate": "2019",
             "Publisher": "Tradewind Books",
             "Title": "Boonoonoonous Hair",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Forlaget Rebel With a Cause",
+            "Title": "Englenes Ensomhed",
             "Translation": "n"
         },
         {
@@ -35796,6 +35686,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "urbana_il_united¬†states",
+            "Pubdate": "2020",
+            "Publisher": "University of Illinois Press",
+            "Title": "Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora",
+            "Translation": "n"
+        },
+        {
             "Author": "Edouard Mokwe",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -36130,7 +36031,7 @@
         {
             "Author": "Jose Prats Sariol",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "valencia_spain",
             "Pubdate": "2021",
@@ -36249,9 +36150,9 @@
             "Translation": "n"
         },
         {
-            "Author": " Maisy Card",
+            "Author": "Maisy Card",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2021",
@@ -36405,7 +36306,7 @@
         {
             "Author": "Rachel Afi Quinn",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "champaign_il_united_states",
             "Pubdate": "2021",
@@ -36601,6 +36502,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2021",
+            "Publisher": "HarperCollins",
+            "Title": "What Storm, What Thunder",
+            "Translation": "n"
+        },
+        {
             "Author": " Myriam J. A Chancy  ",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -36702,7 +36614,7 @@
         {
             "Author": "Ibi Zoboi",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2021",
@@ -37126,7 +37038,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "bacrcelona_spain",
             "Pubdate": "NA",
@@ -37148,7 +37060,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "NA",
@@ -37159,7 +37071,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "NA",
@@ -37187,17 +37099,6 @@
             "Pubdate": "NA",
             "Publisher": "Bayard Presse",
             "Title": "Victor et les Barricades",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "NA",
-            "Publisher": "Bayard Presse",
-            "Title": "Haïti Chérie",
             "Translation": "y"
         },
         {

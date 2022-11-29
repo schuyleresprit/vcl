@@ -3465,7 +3465,7 @@
         {
             "Author": "Edward W. Said",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1995",
@@ -3476,7 +3476,7 @@
         {
             "Author": "Edward W. Said",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1995",
@@ -3961,7 +3961,7 @@
         {
             "Author": "Gilberto Mendonça Teles",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "frankfurt_md_spain",
             "Pubdate": "2002",
@@ -3972,7 +3972,7 @@
         {
             "Author": "Gilberto Mendonça Teles",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "frankfurt_md_spain",
             "Pubdate": "2002",
@@ -4437,7 +4437,7 @@
         {
             "Author": "Junot Diaz",
             "Descriptor": "Obejas, Achy",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "Spanish",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2013",
@@ -4448,7 +4448,7 @@
         {
             "Author": "Junot Diaz",
             "Descriptor": "Obejas, Achy",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "Spanish",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2013",
@@ -4707,7 +4707,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "santiago_chile",
             "Pubdate": "1970",
@@ -4718,7 +4718,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "santiago_chile",
             "Pubdate": "1970",
@@ -4993,7 +4993,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1958",
@@ -5004,7 +5004,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1958",
@@ -5441,7 +5441,7 @@
         {
             "Author": "Jose Prats Sariol",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "valencia_spain",
             "Pubdate": "2021",
@@ -5452,7 +5452,7 @@
         {
             "Author": "Jose Prats Sariol",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "valencia_spain",
             "Pubdate": "2021",
@@ -5711,7 +5711,7 @@
         {
             "Author": "Jorge Ronet",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1987",
@@ -5722,7 +5722,7 @@
         {
             "Author": "Jorge Ronet",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1987",
@@ -5733,7 +5733,7 @@
         {
             "Author": "Jorge Ronet",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1988",
@@ -5744,7 +5744,7 @@
         {
             "Author": "Jorge Ronet",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1988",
@@ -6971,7 +6971,7 @@
         {
             "Author": "Marilyn Bobes León",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "san_juan_puerto_rico",
             "Pubdate": "2005",
@@ -6982,7 +6982,7 @@
         {
             "Author": "Marilyn Bobes León",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "san_juan_puerto_rico",
             "Pubdate": "2005",
@@ -8101,7 +8101,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "bacrcelona_spain",
             "Pubdate": "NA",
@@ -8112,34 +8112,12 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "bacrcelona_spain",
             "Pubdate": "NA",
             "Publisher": "Ediciones B",
             "Title": "Carta al Ciudadano 6.000 Millones",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "bacrcelona_spain",
-            "Pubdate": "1986",
-            "Publisher": "Círculo de Lectores",
-            "Title": "La Bruja de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "bacrcelona_spain",
-            "Pubdate": "1986",
-            "Publisher": "Círculo de Lectores",
-            "Title": "La Bruja de Salem",
             "Translation": "y"
         }
     ],
@@ -8192,6 +8170,28 @@
         }
     ],
     "mjachancy": [
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "bogota_colombia",
+            "Pubdate": "2005",
+            "Publisher": "LaSirén Press",
+            "Title": "Loas. Spanish translation of Loneliness of Angels (A Novel)",
+            "Translation": "y"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "bogota_colombia",
+            "Pubdate": "2005",
+            "Publisher": "LaSirén Press",
+            "Title": "Loas. Spanish translation of Loneliness of Angels (A Novel)",
+            "Translation": "y"
+        },
         {
             "Author": " Myriam J. A Chancy  ",
             "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
@@ -8423,7 +8423,7 @@
         {
             "Author": "Milagros Rodríguez Cáceres",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "tafalla_spain",
             "Pubdate": "1980",
@@ -8434,7 +8434,7 @@
         {
             "Author": "Milagros Rodríguez Cáceres",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "tafalla_spain",
             "Pubdate": "1980",
@@ -9673,7 +9673,7 @@
         {
             "Author": "Ramón De Palma",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1928",
@@ -9684,7 +9684,7 @@
         {
             "Author": "Ramón De Palma",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1928",

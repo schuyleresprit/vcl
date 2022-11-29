@@ -2997,7 +2997,7 @@
         {
             "Author": "Georges Sylvain",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1999",
@@ -3008,7 +3008,7 @@
         {
             "Author": "Georges Sylvain",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1999",
@@ -3340,8 +3340,8 @@
     "jbernabé": [
         {
             "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9 Co-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
-            "Genre": "Nonfiction Book",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9\nCo-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1989",
@@ -3351,8 +3351,8 @@
         },
         {
             "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9 Co-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
-            "Genre": "Nonfiction Book",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9\nCo-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1989",
@@ -3385,7 +3385,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2003",
@@ -3396,7 +3396,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2003",
@@ -3407,7 +3407,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1983",
@@ -3418,7 +3418,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1983",
@@ -3429,7 +3429,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2006",
@@ -3440,7 +3440,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2006",
@@ -3451,7 +3451,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2015",
@@ -3462,7 +3462,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2015",
@@ -5003,28 +5003,6 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "pointe_√ä_pitre_guadeloupe",
-            "Pubdate": "1990",
-            "Publisher": "Editions Jasor",
-            "Title": "Bouquet de Voix Pour Guy Tirolien",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "pointe_√ä_pitre_guadeloupe",
-            "Pubdate": "1990",
-            "Publisher": "Editions Jasor",
-            "Title": "Bouquet de Voix Pour Guy Tirolien",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_france",
@@ -5042,28 +5020,6 @@
             "Pubdate": "1976",
             "Publisher": "Seghers",
             "Title": "Hérémakhonon",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Hatier",
-            "Title": "Pays Mele: Suivi de Nanna-ya",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Hatier",
-            "Title": "Pays Mele: Suivi de Nanna-ya",
             "Translation": "y"
         },
         {
@@ -5091,7 +5047,29 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1978",
+            "Publisher": "Hatier",
+            "Title": "Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1978",
+            "Publisher": "Hatier",
+            "Title": "Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1979",
@@ -5102,7 +5080,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1979",
@@ -5116,9 +5094,9 @@
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
+            "Pubdate": "1981",
+            "Publisher": "Éditions Robert Laffont",
+            "Title": "Une Saison à Rihata",
             "Translation": "y"
         },
         {
@@ -5127,31 +5105,53 @@
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
+            "Pubdate": "1981",
+            "Publisher": "Éditions Robert Laffont",
+            "Title": "Une Saison à Rihata",
             "Translation": "y"
         },
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique",
+            "Pubdate": "1984",
+            "Publisher": "France Loisirs",
+            "Title": "Les Murailles de Terre",
             "Translation": "y"
         },
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
+            "Pubdate": "1984",
+            "Publisher": "France Loisirs",
+            "Title": "Les Murailles de Terre",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1985",
             "Publisher": "Hatier",
-            "Title": "Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique",
+            "Title": "Pays Mele: Suivi de Nanna-ya",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1985",
+            "Publisher": "Hatier",
+            "Title": "Pays Mele: Suivi de Nanna-ya",
             "Translation": "y"
         },
         {
@@ -5182,42 +5182,9 @@
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
+            "Pubdate": "1985",
+            "Publisher": "France Loisirs",
+            "Title": "La Terre en Miettes",
             "Translation": "y"
         },
         {
@@ -5227,8 +5194,8 @@
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1985",
-            "Publisher": "Hatier",
-            "Title": "Pays Mele: Suivi de Nanna-ya",
+            "Publisher": "France Loisirs",
+            "Title": "La Terre en Miettes",
             "Translation": "y"
         },
         {
@@ -5237,9 +5204,9 @@
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Hatier",
-            "Title": "Pays Mele: Suivi de Nanna-ya",
+            "Pubdate": "1986",
+            "Publisher": "Mercure de France",
+            "Title": "Moi, Tituba, Sorcière Noire de Salem",
             "Translation": "y"
         },
         {
@@ -5248,9 +5215,9 @@
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1981",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Une Saison à Rihata",
+            "Pubdate": "1986",
+            "Publisher": "Mercure de France",
+            "Title": "Moi, Tituba, Sorcière Noire de Salem",
             "Translation": "y"
         },
         {
@@ -5259,9 +5226,20 @@
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1981",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Une Saison à Rihata",
+            "Pubdate": "1987",
+            "Publisher": "Seghers",
+            "Title": "La Vie Scélérate. Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1987",
+            "Publisher": "Seghers",
+            "Title": "La Vie Scélérate. Roman",
             "Translation": "y"
         },
         {
@@ -5292,50 +5270,6 @@
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "France Loisirs",
-            "Title": "La Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "France Loisirs",
-            "Title": "La Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "La Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "La Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
             "Pubdate": "1989",
             "Publisher": "Mercure de France",
             "Title": "Traversee de la Mangrove",
@@ -5355,133 +5289,23 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Fiction (Novel)",
+            "Genre": "Nonfiction",
             "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1984",
-            "Publisher": "France Loisirs",
-            "Title": "Les Murailles de Terre",
+            "Pub_id": "pointe_√ä_pitre_guadeloupe",
+            "Pubdate": "1990",
+            "Publisher": "Editions Jasor",
+            "Title": "Bouquet de Voix Pour Guy Tirolien",
             "Translation": "y"
         },
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Fiction (Novel)",
+            "Genre": "Nonfiction",
             "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1984",
-            "Publisher": "France Loisirs",
-            "Title": "Les Murailles de Terre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1984",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Les Murailles de Terre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1984",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Les Murailles de Terre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1987",
-            "Publisher": "Seghers",
-            "Title": "La Vie Scélérate. Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1987",
-            "Publisher": "Seghers",
-            "Title": "La Vie Scélérate. Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1989",
-            "Publisher": "Folio",
-            "Title": "Traversee de la Mangrove",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1989",
-            "Publisher": "Folio",
-            "Title": "Traversee de la Mangrove",
+            "Pub_id": "pointe_√ä_pitre_guadeloupe",
+            "Pubdate": "1990",
+            "Publisher": "Editions Jasor",
+            "Title": "Bouquet de Voix Pour Guy Tirolien",
             "Translation": "y"
         },
         {
@@ -5548,28 +5372,6 @@
             "Pubdate": "NA",
             "Publisher": "Bayard Presse",
             "Title": "Victor et les Barricades",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "NA",
-            "Publisher": "Bayard Presse",
-            "Title": "Haïti Chérie",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "NA",
-            "Publisher": "Bayard Presse",
-            "Title": "Haïti Chérie",
             "Translation": "y"
         }
     ],

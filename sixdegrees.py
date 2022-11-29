@@ -7,13 +7,10 @@ from util import  Node
 
 # Maps names to a set of corresponding author_country
 countries = {}
-
 # Maps author_ids to a dictionary of: name, title, pubdate,  publisher
 authors = {}
-
 # Maps movie_ids to a dictionary of: title, year, stars (a set of person_ids)
 languages = {}
-
 genres = {}
 names = {}
 titles = {}
@@ -25,7 +22,7 @@ def load_data(directory):
     Load data from CSV files into memory.
     """
     # Load authors
-    with open(f"data/authors.json", encoding="utf-8") as f:
+    with open(f"data/publications.json", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             authors[row["id"]] = {
@@ -48,13 +45,13 @@ def load_data(directory):
                 "language": set()
             }
 
-    # Load stars
+    # Load languages
     with open(f"{directory}/data/languages.json", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             try:
-                authors[row["person_id"]]["title"].add(row["movie_id"])
-                titles[row["movie_id"]]["language"].add(row["person_id"])
+                authors[row["author_id"]]["title"].add(row["title_id"])
+                titles[row["title_id"]]["language"].add(row["author_id"])
             except KeyError:
                 pass
 

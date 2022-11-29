@@ -43,9 +43,8 @@ Represented here are the authors who have written works in Chinese. Some of thes
 					case "chinese":
 						for (key in data) {
 							temp.push({
-								"flavorText" : data[key],
-								"subtitle" : data[key]["Author"],
-								"link" : data[key]["author_id"]
+								"flavorText" : key,
+								"link" :  key
 							});
 						}
 						break;

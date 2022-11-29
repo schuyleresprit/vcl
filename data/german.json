@@ -1243,28 +1243,6 @@
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "German",
-            "Pub_id": "berlin_verl_germany",
-            "Pubdate": "NA",
-            "Publisher": "Neues Leben",
-            "Title": "Tod auf Guadeloupe",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "berlin_verl_germany",
-            "Pubdate": "NA",
-            "Publisher": "Neues Leben",
-            "Title": "Tod auf Guadeloupe",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
             "Pub_id": "munchen_germany",
             "Pubdate": "1986",
             "Publisher": "München Knaur",
@@ -1280,6 +1258,28 @@
             "Pubdate": "1986",
             "Publisher": "München Knaur",
             "Title": "Ich, Tituba, die Schwarze Hexe von Salem Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "NA",
+            "Publisher": "Neues Leben",
+            "Title": "Tod auf Guadeloupe",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "NA",
+            "Publisher": "Neues Leben",
+            "Title": "Tod auf Guadeloupe",
             "Translation": "y"
         }
     ],

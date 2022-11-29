@@ -4795,19 +4795,6 @@
     ],
     "Fiction (Novel)": [
         {
-            "Author": "Earl G Long",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_orleans_la_united¬†states",
-            "Pubdate": "2006",
-            "Publisher": "Peepal Tree Press ",
-            "Title": "Leaves in a River ",
-            "Translation": "n"
-        }
-    ],
-    "Fiction (Novel)": [
-        {
             "Author": "Collazo Ramos",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -6870,6 +6857,17 @@
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "san_juan_puerto_rico",
+            "Pubdate": "2005",
+            "Publisher": "Isla Negra editores",
+            "Title": "Fiebre de Invierno",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marilyn Bobes León",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "san_juan_puerto_rico",
             "Pubdate": "2006",
             "Publisher": "Isla Negra Editores",
             "Title": "Fiebre de Invierno",
@@ -8083,6 +8081,17 @@
             "Pubdate": "1986",
             "Publisher": "Virago Press",
             "Title": "Whole Of A Morning Sky",
+            "Translation": "y"
+        },
+        {
+            "Author": "Denise Harris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Web of Secrets",
             "Translation": "y"
         },
         {
@@ -10147,11 +10156,77 @@
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
+            "Pub_id": "na_na",
+            "Pubdate": "2013",
+            "Publisher": "‎CreateSpace Independent Publishing Platform",
+            "Title": "The High Road",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2015",
+            "Publisher": "CreateSpace Independent Publishing Platform",
+            "Title": "What now?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2016",
+            "Publisher": "Createspace Independent Publishing Platform",
+            "Title": "Free in the City (The Acreage Series Book 2)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2017",
             "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "Free at Last (The Acreage Series Book 3)",
             "Translation": "y"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2018",
+            "Publisher": "CreateSpace Independent Publishing Platform",
+            "Title": "Vaucluse",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "jackson_united¬†states",
+            "Pubdate": "2019",
+            "Publisher": "Arise Publishing",
+            "Title": "Return to The Acreage (The Acreage Series Book 4)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "chicago_united¬†states",
+            "Pubdate": "2019",
+            "Publisher": "Independently Published",
+            "Title": "Return to The Acreage",
+            "Translation": "n"
         },
         {
             "Author": "Donna Every",
@@ -10349,6 +10424,17 @@
             "Pubdate": "2019",
             "Publisher": "Mérida La Moderna",
             "Title": "Más Que Islas Antología De Cuentistas Del Gran Caribe Hispano",
+            "Translation": "n"
+        },
+        {
+            "Author": "Anthony Nash",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "bloomington_in_united¬†states",
+            "Pubdate": "2008",
+            "Publisher": "Xlibris",
+            "Title": "Changind Shape",
             "Translation": "n"
         },
         {
@@ -11430,6 +11516,39 @@
             "Translation": "n"
         },
         {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_ldn_england",
+            "Pubdate": "2017",
+            "Publisher": "Peepal Tree Press",
+            "Title": "If I Had the Wings: Short Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "nassau_bahamas",
+            "Pubdate": "1992",
+            "Publisher": "WomenSpeak Press",
+            "Title": "WomanSpeak : a collection of creative expressions",
+            "Translation": "n"
+        },
+        {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "toronto_canada",
+            "Pubdate": "2015",
+            "Publisher": "Dundurn Press",
+            "Title": "Cowboy",
+            "Translation": "n"
+        },
+        {
             "Author": "Wilson Harris",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -12219,6 +12338,17 @@
             "Pubdate": "2020",
             "Publisher": "DC Comics",
             "Title": "House Of Whispers. Volume 3, Issue 13-22",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maisy Card",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2021",
+            "Publisher": "Simon & Schuster",
+            "Title": "These Ghosts are Family",
             "Translation": "n"
         },
         {
@@ -13903,6 +14033,39 @@
             "Publisher": "Musée Dapper",
             "Title": "L'Oiseau Zombie",
             "Translation": "y"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "charles_village_united¬†states",
+            "Pubdate": "2007",
+            "Publisher": "Johns Hopkins University Press",
+            "Title": "From \"Sapodilla Terrace\"",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "d'abadie_trinidad_&¬†tobago",
+            "Pubdate": "2000",
+            "Publisher": "Green Tree Press",
+            "Title": "Bluejean, A Novel",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "peterborough_england",
+            "Pubdate": "2006",
+            "Publisher": "Upfront Publishing",
+            "Title": "Sapodilla Terrace",
+            "Translation": "n"
         },
         {
             "Author": "Antonio Benítez-Rojo",
@@ -16230,54 +16393,10 @@
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2017",
-            "Publisher": "World Editions",
-            "Title": "The Wondrous and Tragic Life of Ivan and Ivana",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "charlottesville_va_united¬†states",
-            "Pubdate": "2001",
-            "Publisher": "University of Virginia Press",
-            "Title": "The Belle Créole",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Ballantine Books",
-            "Title": "The Children of Segu",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2010",
-            "Publisher": "World Editions",
-            "Title": "Waiting for the Waters to Rise",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Hatier",
-            "Title": "Pays Mele: Suivi de Nanna-ya",
+            "Pub_id": "boulder_co_united¬†states",
+            "Pubdate": "1976",
+            "Publisher": "Lynne Rienner Publishers",
+            "Title": "Heremakhonon",
             "Translation": "y"
         },
         {
@@ -16295,22 +16414,33 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Haarlem, Netherlands",
-            "Pubdate": "1984",
-            "Publisher": "In de Knipscheer",
-            "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
+            "Language": "English",
+            "Pub_id": "oxfordshire_england",
+            "Pubdate": "1981",
+            "Publisher": "Heinemann",
+            "Title": "A Season in Rihata",
             "Translation": "y"
         },
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "In de Knipscheer",
-            "Title": "Tituba de Zwarte Heks van Salem",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1981",
+            "Publisher": "Éditions Robert Laffont",
+            "Title": "Une Saison à Rihata",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissaãà_hki_finland",
+            "Pubdate": "1981",
+            "Publisher": "Art House",
+            "Title": "Rihata",
             "Translation": "y"
         },
         {
@@ -16328,72 +16458,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1985",
-            "Publisher": "Muntinga",
-            "Title": "De Verkruimelde Aarde",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "Rainbow Pocketboeken",
-            "Title": "Tituba de Zwarte Heks van Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "manhattan_ny_united_states",
-            "Pubdate": "1995",
-            "Publisher": "Soho Press",
-            "Title": "Windward Heights",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1989",
-            "Publisher": "Penguin Books",
-            "Title": "Crossing the Mangrove",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "oxfordshire_england",
-            "Pubdate": "1981",
-            "Publisher": "Heinemann",
-            "Title": "A Season in Rihata",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1985",
-            "Publisher": "Viking Press",
-            "Title": "The Children of Segu",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1984",
@@ -16405,176 +16469,11 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1985",
-            "Publisher": "Viking Press",
-            "Title": "The Children of Segu",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1981",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Une Saison à Rihata",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Ségou: la Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Hatier",
-            "Title": "Pays Mele: Suivi de Nanna-ya",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1981",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Une Saison à Rihata",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "France Loisirs",
-            "Title": "La Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "La Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1989",
-            "Publisher": "Mercure de France",
-            "Title": "Traversee de la Mangrove",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1984",
             "Publisher": "France Loisirs",
             "Title": "Les Murailles de Terre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1984",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Les Murailles de Terre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1987",
-            "Publisher": "Seghers",
-            "Title": "La Vie Scélérate. Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "boulder_co_united¬†states",
-            "Pubdate": "1976",
-            "Publisher": "Lynne Rienner Publishers",
-            "Title": "Heremakhonon",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1989",
-            "Publisher": "Folio",
-            "Title": "Traversee de la Mangrove",
             "Translation": "y"
         },
         {
@@ -16586,17 +16485,6 @@
             "Pubdate": "1984",
             "Publisher": "Kiepenheuer und Witsch",
             "Title": "Segu die Mauern aus Lehm",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "berlin_verl_germany",
-            "Pubdate": "NA",
-            "Publisher": "Neues Leben",
-            "Title": "Tod auf Guadeloupe",
             "Translation": "y"
         },
         {
@@ -16625,33 +16513,22 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "bacrcelona_spain",
-            "Pubdate": "1986",
-            "Publisher": "Ediciones B",
-            "Title": "La Bruja de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1976",
-            "Publisher": "Three Continents Press",
-            "Title": "Heremakhonon",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_n.y._united_states",
+            "Language": "Slovenian",
+            "Pub_id": "murska_sobota_slovenia",
             "Pubdate": "1984",
-            "Publisher": "Ballantine",
-            "Title": "Segu",
+            "Publisher": "Pomurska zalozba",
+            "Title": "Segu: Zidovje Iz Blata : Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Ballantine Books",
+            "Title": "The Children of Segu",
             "Translation": "y"
         },
         {
@@ -16660,9 +16537,75 @@
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
-            "Pubdate": "NA",
-            "Publisher": "Richer Publishing Ltd",
-            "Title": "Guadeloupe",
+            "Pubdate": "1985",
+            "Publisher": "Hatier",
+            "Title": "Pays Mele: Suivi de Nanna-ya",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Muntinga",
+            "Title": "De Verkruimelde Aarde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1985",
+            "Publisher": "Éditions Robert Laffont",
+            "Title": "Ségou: la Terre en Miettes",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1985",
+            "Publisher": "France Loisirs",
+            "Title": "La Terre en Miettes",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1986",
+            "Publisher": "In de Knipscheer",
+            "Title": "Tituba de Zwarte Heks van Salem",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1986",
+            "Publisher": "Mercure de France",
+            "Title": "Moi, Tituba, Sorcière Noire de Salem",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "bacrcelona_spain",
+            "Pubdate": "1986",
+            "Publisher": "Ediciones B",
+            "Title": "La Bruja de Salem",
             "Translation": "y"
         },
         {
@@ -16680,11 +16623,99 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Slovenian",
-            "Pub_id": "murska_sobota_slovenia",
-            "Pubdate": "1984",
-            "Publisher": "Pomurska zalozba",
-            "Title": "Segu: Zidovje Iz Blata : Roman",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1987",
+            "Publisher": "Seghers",
+            "Title": "La Vie Scélérate. Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "1989",
+            "Publisher": "Penguin Books",
+            "Title": "Crossing the Mangrove",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1989",
+            "Publisher": "Mercure de France",
+            "Title": "Traversee de la Mangrove",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "manhattan_ny_united_states",
+            "Pubdate": "1995",
+            "Publisher": "Soho Press",
+            "Title": "Windward Heights",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "charlottesville_va_united¬†states",
+            "Pubdate": "2001",
+            "Publisher": "University of Virginia Press",
+            "Title": "The Belle Créole",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "2010",
+            "Publisher": "World Editions",
+            "Title": "Waiting for the Waters to Rise",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2017",
+            "Publisher": "World Editions",
+            "Title": "The Wondrous and Tragic Life of Ivan and Ivana",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "NA",
+            "Publisher": "Neues Leben",
+            "Title": "Tod auf Guadeloupe",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "NA",
+            "Publisher": "Richer Publishing Ltd",
+            "Title": "Guadeloupe",
             "Translation": "y"
         },
         {
@@ -16702,55 +16733,11 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1976",
-            "Publisher": "Three Continents Press",
-            "Title": "Heremakhonon",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "bacrcelona_spain",
-            "Pubdate": "1986",
-            "Publisher": "Círculo de Lectores",
-            "Title": "La Bruja de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Finnish",
-            "Pub_id": "helsingissaãà_hki_finland",
-            "Pubdate": "1981",
-            "Publisher": "Art House",
-            "Title": "Rihata",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "NA",
             "Publisher": "Bayard Presse",
             "Title": "Victor et les Barricades",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "NA",
-            "Publisher": "Bayard Presse",
-            "Title": "Haïti Chérie",
             "Translation": "y"
         },
         {
@@ -17304,6 +17291,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Claire Adam",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "richmond_londonland",
+            "Pubdate": "2019",
+            "Publisher": "Hogarth Press",
+            "Title": "The Golden Child",
+            "Translation": "n"
+        },
+        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -17488,6 +17486,61 @@
             "Pubdate": "1985",
             "Publisher": "Tropical Printers",
             "Title": "Native Laughter",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_ny_united_states",
+            "Pubdate": "2019",
+            "Publisher": "Akashic Books",
+            "Title": "A Tall History Of Sugar",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2008",
+            "Publisher": "Peepal Tree Press Ltd",
+            "Title": "A Permanent Freedom",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "2003",
+            "Publisher": "Walker Books Ltd.",
+            "Title": "Flying With Icarus And Other Stories",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2012",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Ghosts: A Memoir",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "2003",
+            "Publisher": "Hodder Education",
+            "Title": "Songs of Silence",
             "Translation": ""
         },
         {
@@ -19581,6 +19634,72 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2021",
+            "Publisher": "HarperCollins",
+            "Title": "What Storm, What Thunder",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2011",
+            "Publisher": "Peepal Tree Press",
+            "Title": "The Scorpion's Claw",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2010",
+            "Publisher": "Peepal Tree Press",
+            "Title": "The Loneliness Of Angels",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2004",
+            "Publisher": "Mango Publishing",
+            "Title": "Spirit Of Haiti",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Forlaget Rebel With a Cause",
+            "Title": "Englenes Ensomhed",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "bogota_colombia",
+            "Pubdate": "2005",
+            "Publisher": "LaSirén Press",
+            "Title": "Loas. Spanish translation of Loneliness of Angels (A Novel)",
+            "Translation": "y"
+        },
+        {
             "Author": "Edouard Mokwe",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -19644,6 +19763,61 @@
             "Pubdate": "1999",
             "Publisher": "Tusquets Editores S.A.",
             "Title": "El árbol de los sentidos",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1982",
+            "Publisher": "Heineman",
+            "Title": "Beka Lamb",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1991",
+            "Publisher": "Heineman",
+            "Title": "In Times Like These",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1997",
+            "Publisher": "Heineman",
+            "Title": "The Festival of San Joaquin",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2007",
+            "Publisher": "Heineman",
+            "Title": "Time and the River",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2015",
+            "Publisher": "Heineman",
+            "Title": "Beka Lamb",
             "Translation": "n"
         },
         {
@@ -20736,6 +20910,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Earl G Long",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_orleans_la_united¬†states",
+            "Pubdate": "2006",
+            "Publisher": "Peepal Tree Press ",
+            "Title": "Leaves in a River ",
+            "Translation": "n"
+        },
+        {
             "Author": "Pamela Mordecai",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -21528,6 +21713,28 @@
             "Translation": "y"
         },
         {
+            "Author": "Geoffrey Drayton",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "1959",
+            "Publisher": "Heinemann",
+            "Title": "Christopher (Caribbean Writers S.)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Geoffrey Drayton",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "1961",
+            "Publisher": "Secker & Warburg",
+            "Title": "Zohara",
+            "Translation": "n"
+        },
+        {
             "Author": "Ibi Zoboi",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -22086,30 +22293,6 @@
             "Pubdate": "2016",
             "Publisher": "Accent Press",
             "Title": "The Turtle Run",
-            "Translation": "n"
-        }
-    ],
-    "Fiction (Novel)": [
-        {
-            "Author": "Marilyn Bobes León",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2005",
-            "Publisher": "Isla Negra editores",
-            "Title": "Fiebre de Invierno",
-            "Translation": "n"
-        },
-        {
-            "Author": " Maisy Card",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2021",
-            "Publisher": "Simon & Schuster",
-            "Title": "These Ghosts are Family",
             "Translation": "n"
         }
     ],
@@ -23756,6 +23939,28 @@
             "Translation": "n"
         },
         {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1990",
+            "Publisher": "Heinemann",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "Persea Books",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
             "Author": "Gina Picart",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -24339,6 +24544,28 @@
             "Translation": ""
         },
         {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2002",
+            "Publisher": "Heinemann",
+            "Title": "Songs of Silence",
+            "Translation": "y"
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2002",
+            "Publisher": "Heinemann",
+            "Title": "Songs of Silence",
+            "Translation": ""
+        },
+        {
             "Author": "Raoul B. Altidor",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -24398,6 +24625,17 @@
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1999",
+            "Publisher": "FOKAL",
+            "Title": "Cric? Crac!: Krik? Krak! : Fables Crèoles",
+            "Translation": "n"
+        },
+        {
+            "Author": "Georges Sylvain",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1901",
             "Publisher": "Ateliers Haïtiens",
@@ -24414,6 +24652,17 @@
             "Publisher": "House of Nehesi Publishers",
             "Title": "Same Sea - Another Wave: A Collection Of Short Stories",
             "Translation": "n"
+        },
+        {
+            "Author": "Gus John ",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1971",
+            "Publisher": "Penquin Books",
+            "Title": "Because They're Black ",
+            "Translation": "y"
         },
         {
             "Author": "Paul Keens-Douglas",
@@ -24458,6 +24707,17 @@
             "Publisher": "Riverhead Books",
             "Title": "This Is How You Lose Her",
             "Translation": "n"
+        },
+        {
+            "Author": "Junot Diaz",
+            "Descriptor": "Obejas, Achy",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Spanish",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Vintage Espanol",
+            "Title": "Así Es Como La Pierdes",
+            "Translation": "y"
         },
         {
             "Author": "Miguel Collazo",
@@ -24966,329 +25226,6 @@
             "Translation": "n"
         }
     ],
-    "Fiction (Short Story Collection)": [
-        {
-            "Author": "Earl Lovelace",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1990",
-            "Publisher": "Heinemann",
-            "Title": "A Brief Conversion and Other Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Earl Lovelace",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2003",
-            "Publisher": "Persea Books",
-            "Title": "A Brief Conversion and Other Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Georges Sylvain",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1999",
-            "Publisher": "FOKAL",
-            "Title": "Cric? Crac!: Krik? Krak! : Fables Crèoles",
-            "Translation": "n"
-        },
-        {
-            "Author": "Gus John",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1971",
-            "Publisher": "Penquin Books",
-            "Title": "Because They're Black ",
-            "Translation": "y"
-        },
-        {
-            "Author": "Junot Diaz",
-            "Descriptor": "Obejas, Achy",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2013",
-            "Publisher": "Vintage Espanol",
-            "Title": "Así Es Como La Pierdes",
-            "Translation": "y"
-        }
-    ],
-    "Fiction (Novel)": [
-        {
-            "Author": "Denise Harris",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Web of Secrets",
-            "Translation": "y"
-        },
-        {
-            "Author": "Donna Every",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "na_na",
-            "Pubdate": "2013",
-            "Publisher": "‎CreateSpace Independent Publishing Platform",
-            "Title": "The High Road",
-            "Translation": "n"
-        },
-        {
-            "Author": "Donna Every",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "scotts_valley_united¬†states",
-            "Pubdate": "2015",
-            "Publisher": "CreateSpace Independent Publishing Platform",
-            "Title": "What now?",
-            "Translation": "n"
-        },
-        {
-            "Author": "Donna Every",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "scotts_valley_united¬†states",
-            "Pubdate": "2016",
-            "Publisher": "Createspace Independent Publishing Platform",
-            "Title": "Free in the City (The Acreage Series Book 2)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Donna Every",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "scotts_valley_united¬†states",
-            "Pubdate": "2018",
-            "Publisher": "CreateSpace Independent Publishing Platform",
-            "Title": "Vaucluse",
-            "Translation": "n"
-        },
-        {
-            "Author": "Donna Every",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "jackson_united¬†states",
-            "Pubdate": "2019",
-            "Publisher": "Arise Publishing",
-            "Title": "Return to The Acreage (The Acreage Series Book 4)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Donna Every",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "chicago_united¬†states",
-            "Pubdate": "2019",
-            "Publisher": "Independently Published",
-            "Title": "Return to The Acreage",
-            "Translation": "n"
-        },
-        {
-            "Author": "Anthony Nash",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "bloomington_in_united¬†states",
-            "Pubdate": "2008",
-            "Publisher": "Xlibris",
-            "Title": "Changind Shape",
-            "Translation": "n"
-        },
-        {
-            "Author": "Helen Klonaris",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "leeds_ldn_england",
-            "Pubdate": "2017",
-            "Publisher": "Peepal Tree Press",
-            "Title": "If I Had the Wings: Short Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Helen Klonaris",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "nassau_bahamas",
-            "Pubdate": "1992",
-            "Publisher": "WomenSpeak Press",
-            "Title": "WomanSpeak : a collection of creative expressions",
-            "Translation": "n"
-        },
-        {
-            "Author": "Helen Klonaris",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "toronto_canada",
-            "Pubdate": "2015",
-            "Publisher": "Dundurn Press",
-            "Title": "Cowboy",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "charles_village_united¬†states",
-            "Pubdate": "2007",
-            "Publisher": "Johns Hopkins University Press",
-            "Title": "From \"Sapodilla Terrace\"",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "d'abadie_trinidad_&¬†tobago",
-            "Pubdate": "2000",
-            "Publisher": "Green Tree Press",
-            "Title": "Bluejean, A Novel ",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "peterborough_england",
-            "Pubdate": "2006",
-            "Publisher": "Upfront Publishing",
-            "Title": "Sapodilla Terrace",
-            "Translation": "n"
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_ny_united_states",
-            "Pubdate": "2019",
-            "Publisher": "Akashic Books",
-            "Title": "A Tall History Of Sugar",
-            "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2008",
-            "Publisher": "Peepal Tree Press Ltd",
-            "Title": "A Permanent Freedom",
-            "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2003",
-            "Publisher": "Walker Books Ltd.",
-            "Title": "Flying With Icarus And Other Stories",
-            "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2012",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Ghosts: A Memoir",
-            "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2003",
-            "Publisher": "Hodder Education",
-            "Title": "Songs of Silence",
-            "Translation": ""
-        },
-        {
-            "Author": "Zee Edgell",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1982",
-            "Publisher": "Heineman",
-            "Title": "Beka Lamb",
-            "Translation": "n"
-        },
-        {
-            "Author": "Zee Edgell",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1991",
-            "Publisher": "Heineman",
-            "Title": "In Times Like These",
-            "Translation": "n"
-        },
-        {
-            "Author": "Zee Edgell",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1997",
-            "Publisher": "Heineman",
-            "Title": "The Festival of San Joaquin",
-            "Translation": "n"
-        },
-        {
-            "Author": "Zee Edgell",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2007",
-            "Publisher": "Heineman",
-            "Title": "Time and the River",
-            "Translation": "n"
-        },
-        {
-            "Author": "Zee Edgell",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2015",
-            "Publisher": "Heineman",
-            "Title": "Beka Lamb",
-            "Translation": "n"
-        }
-    ],
     "Fiction(Short Story Collection)": [
         {
             "Author": "Cynthia James",
@@ -25302,19 +25239,6 @@
             "Translation": "n"
         }
     ],
-    "Fiction (Novel)": [
-        {
-            "Author": "Claire Adam",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "richmond_londonland",
-            "Pubdate": "2019",
-            "Publisher": "Hogarth Press",
-            "Title": "The Golden Child",
-            "Translation": "n"
-        }
-    ],
     "Fiction(short Story Collection)": [
         {
             "Author": "Cynthia James",
@@ -25325,54 +25249,6 @@
             "Pubdate": "",
             "Publisher": "World Literature Collection Tunapuna : Gloria V. Ferguson",
             "Title": "Soothe Me, Music, Soothe Me",
-            "Translation": "n"
-        }
-    ],
-    "Fiction (Short Story Collection)": [
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2002",
-            "Publisher": "Heinemann",
-            "Title": "Songs of Silence",
-            "Translation": "y"
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2002",
-            "Publisher": "Heinemann",
-            "Title": "Songs of Silence",
-            "Translation": ""
-        }
-    ],
-    "Fiction (Novel)": [
-        {
-            "Author": "Geoffrey Drayton",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1959",
-            "Publisher": "Heinemann",
-            "Title": "Christopher (Caribbean Writers S.)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Geoffrey Drayton",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1961",
-            "Publisher": "Secker & Warburg",
-            "Title": "Zohara",
             "Translation": "n"
         }
     ],
@@ -26680,6 +26556,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Lowell J Ragatz",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "washington_dc_united¬†states",
+            "Pubdate": "1932",
+            "Publisher": "Government Printing Office, Washington",
+            "Title": "A Guide For The Study Of British Caribbean History, 1763-1834, Including The Abolition And Emancipation Movements",
+            "Translation": "n"
+        },
+        {
             "Author": "Edith Clarke",
             "Descriptor": "Original Publication Date: 1957",
             "Genre": "Nonfiction",
@@ -26713,6 +26600,28 @@
             "Translation": "n"
         },
         {
+            "Author": "Edward W. Said",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1995",
+            "Publisher": "Casa de las Américas",
+            "Title": "Revista Casa De Las Americas Julio-Septiembre De 1995.Numero 200.Saludos En El 200.Carta Del Che A Haydee",
+            "Translation": "n"
+        },
+        {
+            "Author": "Great Britain Colonial Office",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1947",
+            "Publisher": "H.M. Stationery Office",
+            "Title": "Barbados",
+            "Translation": "n"
+        },
+        {
             "Author": "Beverley Ormerod Noakes",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -26721,6 +26630,17 @@
             "Pubdate": "1985",
             "Publisher": "Heinemann",
             "Title": "An Introduction To The French Caribbean Novel",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jose Prats Sariol",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "valencia_spain",
+            "Pubdate": "2021",
+            "Publisher": "Aduana Vieja",
+            "Title": "Obra Selecta: Ensayo Y Crítica Literaria",
             "Translation": "n"
         },
         {
@@ -26743,6 +26663,28 @@
             "Pubdate": "1992",
             "Publisher": "Harvard College",
             "Title": "Subverting manichean allegory : soap, blackness and the articulation of racial difference in French advertisements for hygienic products, 1900-1930",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2019",
+            "Publisher": "Penguin",
+            "Title": "Feel Free: Essays",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "toronto_on_canada",
+            "Pubdate": "2012",
+            "Publisher": "Hamish Hamilton Canada",
+            "Title": "Changing My Mind: Occasional Essays",
             "Translation": "n"
         },
         {
@@ -26787,6 +26729,17 @@
             "Pubdate": "1869",
             "Publisher": "The Chronicle Publishing Office",
             "Title": "The Theory And Practice Of Creole Grammar",
+            "Translation": "n"
+        },
+        {
+            "Author": "Claude Thompson",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1943",
+            "Publisher": "The Herald Ltd. Printers",
+            "Title": "These My People",
             "Translation": "n"
         },
         {
@@ -26853,6 +26806,83 @@
             "Pubdate": "2018",
             "Publisher": "Morellini",
             "Title": "Test a test : conosci davvero te stessa?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Barbara Lalla",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "alabama_united_states",
+            "Pubdate": "1990",
+            "Publisher": "University of Alabama Press",
+            "Title": "Language in exile : three hundred years of Jamaican Creole",
+            "Translation": "n"
+        },
+        {
+            "Author": "Barbara Lalla",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "alabama_united_states",
+            "Pubdate": "1996",
+            "Publisher": "University of Alabama Press",
+            "Title": "Defining Jamaican fiction : marronage and the discourse of survival",
+            "Translation": "n"
+        },
+        {
+            "Author": "Barbara Lalla",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "2008",
+            "Publisher": "The University of The West Indies Press",
+            "Title": "Postcolonialisms : Caribbean rereading of medieval English discourse",
+            "Translation": "n"
+        },
+        {
+            "Author": "Barbara Lalla",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "st._augustine_trinidad_&¬†tobago",
+            "Pubdate": "2005",
+            "Publisher": "Society for Caribbean Linguistics",
+            "Title": "Virtual realism : constraints on validity in textual evidence of Caribbean history",
+            "Translation": "n"
+        },
+        {
+            "Author": "David Augustus Straker",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "detroit_mi_united_states",
+            "Pubdate": "2016",
+            "Publisher": "J. H. Stone & Co.",
+            "Title": "A Trip To The Windward Islands: Or, Then and Now. By D. Augustus Straker",
+            "Translation": "n"
+        },
+        {
+            "Author": "David Augustus Straker",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "whitefish_mt_united¬†states",
+            "Pubdate": "1888",
+            "Publisher": "Kessinger Publishing, LLC",
+            "Title": "The New South Investigated",
+            "Translation": "n"
+        },
+        {
+            "Author": "David Augustus Straker",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "la_vergne_tn_united¬†states",
+            "Pubdate": "1888",
+            "Publisher": "General Books",
+            "Title": "The New South Investigated",
             "Translation": "n"
         },
         {
@@ -26977,6 +27007,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Kwame Senu Neville Dawes",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2012",
+            "Publisher": "Sanctuary Publishing",
+            "Title": "Bob Marley: Lyrical Genius",
+            "Translation": "n"
+        },
+        {
             "Author": "Janelle S Martin",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -26985,6 +27026,17 @@
             "Pubdate": "2015",
             "Publisher": "Wake Forest University",
             "Title": "Wandering Bodies: The Disruption Of Identities In Jamaica Kincaid's Lucy And Edwidge Danticat's The Farming Of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Sabrina Costanzo",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "messina_italy",
+            "Pubdate": "2008",
+            "Publisher": "A. Lippolis",
+            "Title": "La Costruzione di un Giallo Sociale: Las Cuatro Estacionesdi Leonardo Padura Fuentes",
             "Translation": "n"
         },
         {
@@ -27073,6 +27125,17 @@
             "Pubdate": "1948",
             "Publisher": "Imp. Telhomme",
             "Title": "L'Action De L'Élite Noire A Saint Domingue, Suivi La Guerre Aux Aînés (Ètudes)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cherie Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "nashville_tn_united_states",
+            "Pubdate": "1998",
+            "Publisher": "Upper Room Books",
+            "Title": "Walking Side by Side Devotions for Pilgrims",
             "Translation": "n"
         },
         {
@@ -27252,6 +27315,17 @@
             "Translation": "n"
         },
         {
+            "Author": "D.F. Les Pierre-Luke",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "bloomington_in_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Xlibris",
+            "Title": "From Pillar To Post",
+            "Translation": ""
+        },
+        {
             "Author": "Edward Baugh",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -27271,6 +27345,17 @@
             "Pubdate": "1979",
             "Publisher": "West Indian Association for Commonwealth Literature and Language Studies",
             "Title": "Language and literature in the Commonwealth Caribbean",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "san_juan_trinidad_&¬†tobago",
+            "Pubdate": "2003",
+            "Publisher": "Lexicon Trinidad",
+            "Title": "Growing in the Dark",
             "Translation": "n"
         },
         {
@@ -27384,6 +27469,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Maureen Warner-Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "benin_city_nigeria",
+            "Pubdate": "1977",
+            "Publisher": "Ethiope Publishing Corporation",
+            "Title": "Notes To Masks",
+            "Translation": "n"
+        },
+        {
             "Author": "Michael Anthony Field ",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -27392,6 +27488,61 @@
             "Pubdate": "1967",
             "Publisher": "The British Coal Utilisation Research Association",
             "Title": "Combustion of Pulverised Coal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "carlsbad_united¬†states",
+            "Pubdate": "2016",
+            "Publisher": "Motivational Press",
+            "Title": "I Choose Me: The Art of Being A Phenomenally Successful Woman At Home And At Work",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "parker_united¬†states",
+            "Pubdate": "2007",
+            "Publisher": "Thornton Publishing : Books to Believe In",
+            "Title": "What Will Set You Free: From Pain To Passion In 7 Weeks",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "portsmouth_united¬†states",
+            "Pubdate": "2002",
+            "Publisher": "Heineman",
+            "Title": "The Maroon Narrative: Caribbean Literature In English Across Boundaries, Ethnicities, And Centuries",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "chicago_il_united¬†states",
+            "Pubdate": "2016",
+            "Publisher": "Motivational Press",
+            "Title": "I Choose Me",
+            "Translation": "n"
+        },
+        {
+            "Author": "Gerald Horne",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "2016",
+            "Publisher": "New York Monthly Review Press",
+            "Title": "Confronting Black Jacobins: The U.S., The Haitian Revolution, And The Origins Of The Dominican Republic",
             "Translation": "n"
         },
         {
@@ -28418,6 +28569,39 @@
             "Translation": "n"
         },
         {
+            "Author": "Marion O'Callaghan",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "paris_france",
+            "Pubdate": "1977",
+            "Publisher": "United Nations Educational, Scientific and Cultural Organization",
+            "Title": "South Rhodesia: The Effects Of A Conquest Society On Education, Culture And Information",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marion O'Callaghan",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "paris_france",
+            "Pubdate": "1977",
+            "Publisher": "Unesco",
+            "Title": "Namibia: The Effects of Apartheid on Culture and Education",
+            "Translation": "n"
+        },
+        {
+            "Author": "Christine Craig",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1973",
+            "Publisher": "Social Development Commission",
+            "Title": "\"Right On\"",
+            "Translation": "n"
+        },
+        {
             "Author": "Andrew Salkey",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -28427,6 +28611,83 @@
             "Publisher": "Penguin Books",
             "Title": "Havana Journal",
             "Translation": "n"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1978",
+            "Publisher": "Hatier",
+            "Title": "Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1979",
+            "Publisher": "L'Harmattan",
+            "Title": "La Parole des Femmes: Essai sur des Romancières des Antilles de Langue Française",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "pointe_√ä_pitre_guadeloupe",
+            "Pubdate": "1990",
+            "Publisher": "Editions Jasor",
+            "Title": "Bouquet de Voix Pour Guy Tirolien",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "bacrcelona_spain",
+            "Pubdate": "NA",
+            "Publisher": "Ediciones B",
+            "Title": "Carta al Ciudadano 6.000 Millones",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "NA",
+            "Publisher": "W. W. Norton",
+            "Title": "We Are Your Sisters: Black Women in the Nineteenth Century",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "NA",
+            "Publisher": "Zed Books",
+            "Title": "Women in Nigeria Today",
+            "Translation": "y"
         },
         {
             "Author": "Kamau (Edward) Brathwaite",
@@ -28770,6 +29031,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Simon Schama",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2017",
+            "Publisher": "Bloomsbury Publishing",
+            "Title": "Rough Crossings",
+            "Translation": "y"
+        },
+        {
             "Author": "Henry Hesketh Bell",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -28836,6 +29108,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Rachel Afi Quinn",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "champaign_il_united_states",
+            "Pubdate": "2021",
+            "Publisher": "University of Illinois Press",
+            "Title": "Being La Dominicana: Race And Identity In The Visual Culture Of Santo Domingo",
+            "Translation": "n"
+        },
+        {
             "Author": "Patrick Chamoiseau",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -28847,6 +29130,50 @@
             "Translation": "n"
         },
         {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "santiago_chile",
+            "Pubdate": "1970",
+            "Publisher": "Editorial Orbe",
+            "Title": "Tratados En Havana: Ensayos Estéticos",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1958",
+            "Publisher": "La Universidad Central \"Marta Abreu\" de Las Villas",
+            "Title": "Tratados En Havana. Ensayos, Por Jose Lezama Lima, Primera Edicion",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "1992",
+            "Publisher": "Educa Vision",
+            "Title": "Dyabet: Tout Sa You Moun Ki Fè Dyabèt Te Dwe Konnen",
+            "Translation": "n"
+        },
+        {
+            "Author": "Gilberto Mendonça Teles",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "frankfurt_md_spain",
+            "Pubdate": "2002",
+            "Publisher": "Iberoamericana Editorial Vervuert",
+            "Title": "Vanguardia Latino Americana: Historia, Crítica Y Documentos. Tomo II",
+            "Translation": "n"
+        },
+        {
             "Author": "Pompée Valentin Vastey",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -28855,6 +29182,61 @@
             "Pubdate": "1814",
             "Publisher": "P. Roux, imprimeur du Roi",
             "Title": "Le Systeme Colonial Dèvoile",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jean Bernabé",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9\nCo-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1989",
+            "Publisher": "Gallimard",
+            "Title": "Eloge De La Créolité",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jean Bernabé",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "matoury_french_guiana",
+            "Pubdate": "2003",
+            "Publisher": "Ibis rouge éd",
+            "Title": "Précis de syntaxe créole",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jean Bernabé",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1983",
+            "Publisher": "L'Harmattan",
+            "Title": "Fondal-natal : grammaire basilectale approchée des créoles guadeloupéen et martiniquais : approche sociolittéraire, sociolinguistique et syntaxique",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jean Bernabé",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2006",
+            "Publisher": "Écriture",
+            "Title": "Le bailleur d'étincelle : roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jean Bernabé",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2015",
+            "Publisher": "L'Harmattan",
+            "Title": "Approche cognitive du créole martiniquais : ranboulzay 1 = révolution 1",
             "Translation": "n"
         },
         {
@@ -28891,6 +29273,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Raoul Pantin",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2007",
+            "Publisher": "iUniverse",
+            "Title": "Days Of Wrath: The 1990 Coup In Trinidad & Tobago",
+            "Translation": "n"
+        },
+        {
             "Author": "Anthony Michael O'Connor",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -28922,6 +29315,17 @@
             "Publisher": "Rutgers University Press",
             "Title": "Our Caribbean Kin: Race And Nation In The Neoliberal Antilles",
             "Translation": "y"
+        },
+        {
+            "Author": "Elina Valovirta",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2014",
+            "Publisher": "Editions Rodopi BV",
+            "Title": "Sexual Feelings: Reading Anglophone Caribbean Women's Writing Through Affect",
+            "Translation": "n"
         },
         {
             "Author": "Eintou Pearl Springer",
@@ -28965,6 +29369,17 @@
             "Pubdate": "2018",
             "Publisher": "Karolinum Press",
             "Title": "Asedios al caimán letrado : literatura y poder en la Revolución cubana",
+            "Translation": "n"
+        },
+        {
+            "Author": "Didacus Jules",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "2014",
+            "Publisher": "Ian Randle Publishers",
+            "Title": "At the Rainbow's Edge",
             "Translation": "n"
         },
         {
@@ -29229,6 +29644,28 @@
             "Pubdate": "2006",
             "Publisher": "L'Harmattan",
             "Title": "Résistance et cubanité trois écrivains nés avec la révolution cubaine ; Eliseo Alberto, Leonardo Padura et Zoé Valdes trois écrivains nés avec la révolution cubaine ; Eliseo Alberto, Leonardo Padura et Zoé Valdes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "waterloo_canada",
+            "Pubdate": "2013",
+            "Publisher": "Wilfrid Laurier University Press",
+            "Title": "From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "urbana_il_united¬†states",
+            "Pubdate": "2020",
+            "Publisher": "University of Illinois Press",
+            "Title": "Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora",
             "Translation": "n"
         },
         {
@@ -29540,6 +29977,72 @@
             "Translation": "n"
         },
         {
+            "Author": "Walter Goodman",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1873",
+            "Publisher": "Henry S. King & Co.",
+            "Title": "The Pearl Of The Antilles Or An Artist In Cuba",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ramón De Palma",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1928",
+            "Publisher": "Cultural, S.A.",
+            "Title": "Cuentos Cubanos",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jorge Ronet",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "madrid_spain",
+            "Pubdate": "1987",
+            "Publisher": "Editorial Playor",
+            "Title": "La Mueca De La Paloma Negra",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jorge Ronet",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "madrid_spain",
+            "Pubdate": "1988",
+            "Publisher": "Ediciones Universal",
+            "Title": "Diptico Cubano : La Mueca De La Paloma Negra Desertores Del Paraiso",
+            "Translation": "n"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2007",
+            "Publisher": "Plume",
+            "Title": "Once Upon A Quinceanera: Coming Of Age In The USA",
+            "Translation": "n"
+        },
+        {
+            "Author": "Milagros Rodríguez Cáceres",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "tafalla_spain",
+            "Pubdate": "1980",
+            "Publisher": "Cénlit Ediciones",
+            "Title": "Renacimiento",
+            "Translation": "n"
+        },
+        {
             "Author": "Amy Wilentz",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -29735,6 +30238,17 @@
             "Pubdate": "2017",
             "Publisher": "University of Michigan Press",
             "Title": "Accountability In The Context Of Bahamian Education: Country Case Study",
+            "Translation": "n"
+        },
+        {
+            "Author": "Robert D. Hamner",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "boulder_co_united¬†states",
+            "Pubdate": "1993",
+            "Publisher": "Lynne Rienner Publishers",
+            "Title": "Critical Perspectives On Derek Walcott",
             "Translation": "n"
         },
         {
@@ -29980,6 +30494,28 @@
             "Translation": "n"
         },
         {
+            "Author": "Ibi Zoboi",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "2021",
+            "Publisher": "Balzer + Bray",
+            "Title": "The People Remember",
+            "Translation": "y"
+        },
+        {
+            "Author": "Ibi Zoboi",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "One Moore Book",
+            "Title": "A Is For Ayiti",
+            "Translation": "y"
+        },
+        {
             "Author": "Philip Brenner",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -30134,6 +30670,17 @@
             "Translation": "n"
         },
         {
+            "Author": "John W. Boddam-Whetham",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1879",
+            "Publisher": "Hurst and Blackett",
+            "Title": "Roraima and British Guiana: With a Glance at Bermuda, the West Indies, and the Spanish Main",
+            "Translation": "n"
+        },
+        {
             "Author": "Simone Schwarz-Bart",
             "Descriptor": "Co-Author: André Schwarz-Bart",
             "Genre": "Nonfiction",
@@ -30156,550 +30703,11 @@
             "Translation": "y"
         }
     ],
-    "Nonfiction": [
+    "Nonfiction Book": [
         {
-            "Author": "Lowell J Ragatz",
+            "Author": " Myriam J. A Chancy  ",
             "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "washington_dc_united¬†states",
-            "Pubdate": "1932",
-            "Publisher": "Government Printing Office, Washington",
-            "Title": "A Guide For The Study Of British Caribbean History, 1763-1834, Including The Abolition And Emancipation Movements",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward W. Said",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1995",
-            "Publisher": "Casa de las Américas",
-            "Title": "Revista Casa De Las Americas Julio-Septiembre De 1995.Numero 200.Saludos En El 200.Carta Del Che A Haydee",
-            "Translation": "n"
-        },
-        {
-            "Author": "Great Britain Colonial Office",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1947",
-            "Publisher": "H.M. Stationery Office",
-            "Title": "Barbados",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jose Prats Sariol",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "valencia_spain",
-            "Pubdate": "2021",
-            "Publisher": "Aduana Vieja",
-            "Title": "Obra Selecta: Ensayo Y Crítica Literaria",
-            "Translation": "n"
-        },
-        {
-            "Author": "Zadie Smith",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2019",
-            "Publisher": "Penguin",
-            "Title": "Feel Free: Essays",
-            "Translation": "n"
-        },
-        {
-            "Author": "Zadie Smith",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "toronto_on_canada",
-            "Pubdate": "2012",
-            "Publisher": "Hamish Hamilton Canada",
-            "Title": "Changing My Mind: Occasional Essays",
-            "Translation": "n"
-        },
-        {
-            "Author": "Claude Thompson",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1943",
-            "Publisher": "The Herald Ltd. Printers",
-            "Title": "These My People",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "alabama_united_states",
-            "Pubdate": "1990",
-            "Publisher": "University of Alabama Press",
-            "Title": "Language in exile : three hundred years of Jamaican Creole",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "alabama_united_states",
-            "Pubdate": "1996",
-            "Publisher": "University of Alabama Press",
-            "Title": "Defining Jamaican fiction : marronage and the discourse of survival",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2008",
-            "Publisher": "The University of The West Indies Press",
-            "Title": "Postcolonialisms : Caribbean rereading of medieval English discourse",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "2005",
-            "Publisher": "Society for Caribbean Linguistics",
-            "Title": "Virtual realism : constraints on validity in textual evidence of Caribbean history",
-            "Translation": "n"
-        },
-        {
-            "Author": "David Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "detroit_mi_united_states",
-            "Pubdate": "2016",
-            "Publisher": "J. H. Stone & Co.",
-            "Title": "A Trip To The Windward Islands: Or, Then and Now. By D. Augustus Straker",
-            "Translation": "n"
-        },
-        {
-            "Author": "David Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "whitefish_mt_united¬†states",
-            "Pubdate": "1888",
-            "Publisher": "Kessinger Publishing, LLC",
-            "Title": "The New South Investigated",
-            "Translation": "n"
-        },
-        {
-            "Author": "David Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "la_vergne_tn_united¬†states",
-            "Pubdate": "1888",
-            "Publisher": "General Books",
-            "Title": "The New South Investigated",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kwame Senu Neville Dawes",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2012",
-            "Publisher": "Sanctuary Publishing",
-            "Title": "Bob Marley: Lyrical Genius",
-            "Translation": "n"
-        },
-        {
-            "Author": "Sabrina Costanzo",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Italian",
-            "Pub_id": "messina_italy",
-            "Pubdate": "2008",
-            "Publisher": "A. Lippolis",
-            "Title": "La Costruzione di un Giallo Sociale: Las Cuatro Estacionesdi Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cherie Jones",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "nashville_tn_united_states",
-            "Pubdate": "1998",
-            "Publisher": "Upper Room Books",
-            "Title": "Walking Side by Side Devotions for Pilgrims",
-            "Translation": "n"
-        },
-        {
-            "Author": "D.F. Les Pierre-Luke",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "bloomington_in_united¬†states",
-            "Pubdate": "2013",
-            "Publisher": "Xlibris",
-            "Title": "From Pillar To Post",
-            "Translation": ""
-        },
-        {
-            "Author": "Earl Lovelace",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "san_juan_trinidad_&¬†tobago",
-            "Pubdate": "2003",
-            "Publisher": "Lexicon Trinidad",
-            "Title": "Growing in the Dark",
-            "Translation": "n"
-        },
-        {
-            "Author": "Maureen Warner-Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "benin_city_nigeria",
-            "Pubdate": "1977",
-            "Publisher": "Ethiope Publishing Corporation",
-            "Title": "Notes To Masks",
-            "Translation": "n"
-        },
-        {
-            "Author": "Gerald Horne",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2016",
-            "Publisher": "New York Monthly Review Press",
-            "Title": "Confronting Black Jacobins: The U.S., The Haitian Revolution, And The Origins Of The Dominican Republic",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marion O'Callaghan",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "paris_france",
-            "Pubdate": "1977",
-            "Publisher": "United Nations Educational, Scientific and Cultural Organization",
-            "Title": "South Rhodesia: The Effects Of A Conquest Society On Education, Culture And Information",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marion O'Callaghan",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "paris_france",
-            "Pubdate": "1977",
-            "Publisher": "Unesco",
-            "Title": "Namibia: The Effects of Apartheid on Culture and Education",
-            "Translation": "n"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "pointe_√ä_pitre_guadeloupe",
-            "Pubdate": "1990",
-            "Publisher": "Editions Jasor",
-            "Title": "Bouquet de Voix Pour Guy Tirolien",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1979",
-            "Publisher": "L'Harmattan",
-            "Title": "La Parole des Femmes: Essai sur des Romancières des Antilles de Langue Française",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "bacrcelona_spain",
-            "Pubdate": "NA",
-            "Publisher": "Ediciones B",
-            "Title": "Carta al Ciudadano 6.000 Millones",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "NA",
-            "Publisher": "W. W. Norton",
-            "Title": "We Are Your Sisters: Black Women in the Nineteenth Century",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "NA",
-            "Publisher": "Zed Books",
-            "Title": "Women in Nigeria Today",
-            "Translation": "y"
-        },
-        {
-            "Author": "Simon Schama",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2017",
-            "Publisher": "Bloomsbury Publishing",
-            "Title": "Rough Crossings",
-            "Translation": "y"
-        },
-        {
-            "Author": "Rachel Afi Quinn",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "champaign_il_united_states",
-            "Pubdate": "2021",
-            "Publisher": "University of Illinois Press",
-            "Title": "Being La Dominicana: Race And Identity In The Visual Culture Of Santo Domingo",
-            "Translation": "n"
-        },
-        {
-            "Author": "José Lezama Lima",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "santiago_chile",
-            "Pubdate": "1970",
-            "Publisher": "Editorial Orbe",
-            "Title": "Tratados En Havana: Ensayos Estéticos",
-            "Translation": "n"
-        },
-        {
-            "Author": "José Lezama Lima",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1958",
-            "Publisher": "La Universidad Central \"Marta Abreu\" de Las Villas",
-            "Title": "Tratados En Havana. Ensayos, Por Jose Lezama Lima, Primera Edicion",
-            "Translation": "n"
-        },
-        {
-            "Author": "Maude Heurtelou",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Haitian Creole",
-            "Pub_id": "coconut_creek_fl_united¬†states",
-            "Pubdate": "1992",
-            "Publisher": "Educa Vision",
-            "Title": "Dyabet: Tout Sa You Moun Ki Fè Dyabèt Te Dwe Konnen",
-            "Translation": "n"
-        },
-        {
-            "Author": "Gilberto Mendonça Teles",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "frankfurt_md_spain",
-            "Pubdate": "2002",
-            "Publisher": "Iberoamericana Editorial Vervuert",
-            "Title": "Vanguardia Latino Americana: Historia, Crítica Y Documentos. Tomo II",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9 Co-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1989",
-            "Publisher": "Gallimard",
-            "Title": "Eloge De La Créolité",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "matoury_french_guiana",
-            "Pubdate": "2003",
-            "Publisher": "Ibis rouge éd",
-            "Title": "Précis de syntaxe créole",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1983",
-            "Publisher": "L'Harmattan",
-            "Title": "Fondal-natal : grammaire basilectale approchée des créoles guadeloupéen et martiniquais : approche sociolittéraire, sociolinguistique et syntaxique",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2006",
-            "Publisher": "Écriture",
-            "Title": "Le bailleur d'étincelle : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2015",
-            "Publisher": "L'Harmattan",
-            "Title": "Approche cognitive du créole martiniquais : ranboulzay 1 = révolution 1",
-            "Translation": "n"
-        },
-        {
-            "Author": "Raoul Pantin",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2007",
-            "Publisher": "iUniverse",
-            "Title": "Days Of Wrath: The 1990 Coup In Trinidad & Tobago",
-            "Translation": "n"
-        },
-        {
-            "Author": "Elina Valovirta",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "2014",
-            "Publisher": "Editions Rodopi BV",
-            "Title": "Sexual Feelings: Reading Anglophone Caribbean Women's Writing Through Affect",
-            "Translation": "n"
-        },
-        {
-            "Author": "Didacus Jules",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "Ian Randle Publishers",
-            "Title": "At the Rainbow's Edge",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Goodman",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1873",
-            "Publisher": "Henry S. King & Co.",
-            "Title": "The Pearl Of The Antilles Or An Artist In Cuba",
-            "Translation": "n"
-        },
-        {
-            "Author": "Ramón De Palma",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1928",
-            "Publisher": "Cultural, S.A.",
-            "Title": "Cuentos Cubanos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jorge Ronet",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "1987",
-            "Publisher": "Editorial Playor",
-            "Title": "La Mueca De La Paloma Negra",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jorge Ronet",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "1988",
-            "Publisher": "Ediciones Universal",
-            "Title": "Diptico Cubano : La Mueca De La Paloma Negra Desertores Del Paraiso",
-            "Translation": "n"
-        },
-        {
-            "Author": "Myriam J. A Chancy",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
+            "Genre": "Nonfiction Book",
             "Language": "English",
             "Pub_id": "waterloo_canada",
             "Pubdate": "2013",
@@ -30708,9 +30716,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Myriam J. A Chancy",
+            "Author": " Myriam J. A Chancy  ",
             "Descriptor": "",
-            "Genre": "Nonfiction",
+            "Genre": "Nonfiction Book",
             "Language": "English",
             "Pub_id": "urbana_il_united¬†states",
             "Pubdate": "2020",
@@ -30719,42 +30727,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Julia Alvarez",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2007",
-            "Publisher": "Plume",
-            "Title": "Once Upon A Quinceanera: Coming Of Age In The USA",
-            "Translation": "n"
-        },
-        {
-            "Author": "Milagros Rodríguez Cáceres",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "tafalla_spain",
-            "Pubdate": "1980",
-            "Publisher": "Cénlit Ediciones",
-            "Title": "Renacimiento",
-            "Translation": "n"
-        },
-        {
-            "Author": "Robert D. Hamner",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "boulder_co_united¬†states",
-            "Pubdate": "1993",
-            "Publisher": "Lynne Rienner Publishers",
-            "Title": "Critical Perspectives On Derek Walcott",
-            "Translation": "n"
-        },
-        {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction",
+            "Genre": "Nonfiction Book",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1971",
@@ -30765,7 +30740,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction",
+            "Genre": "Nonfiction Book",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",
@@ -30776,104 +30751,12 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction",
+            "Genre": "Nonfiction Book",
             "Language": "Spanish",
             "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1989",
             "Publisher": "Editorial Contrapunto",
             "Title": "Algunos Usos De Civilización Y Barbarie Y Otros Ensayos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Ibi Zoboi",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2021",
-            "Publisher": "Balzer + Bray",
-            "Title": "The People Remember",
-            "Translation": "y"
-        },
-        {
-            "Author": "Ibi Zoboi",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_united¬†states",
-            "Pubdate": "2012",
-            "Publisher": "One Moore Book",
-            "Title": "A Is For Ayiti",
-            "Translation": "y"
-        },
-        {
-            "Author": "John W. Boddam-Whetham",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1879",
-            "Publisher": "Hurst and Blackett",
-            "Title": "Roraima and British Guiana: With a Glance at Bermuda, the West Indies, and the Spanish Main",
-            "Translation": "n"
-        }
-    ],
-    "Nonfiction": [
-        {
-            "Author": "Christine Craig",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1973",
-            "Publisher": "Social Development Commission",
-            "Title": "\"Right On\"",
-            "Translation": "n"
-        }
-    ],
-    "Nonfiction": [
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "carlsbad_united¬†states",
-            "Pubdate": "2016",
-            "Publisher": "Motivational Press",
-            "Title": "I Choose Me: The Art of Being A Phenomenally Successful Woman At Home And At Work",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "parker_united¬†states",
-            "Pubdate": "2007",
-            "Publisher": "Thornton Publishing : Books to Believe In",
-            "Title": "What Will Set You Free: From Pain To Passion In 7 Weeks",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "portsmouth_united¬†states",
-            "Pubdate": "2002",
-            "Publisher": "Heineman",
-            "Title": "The Maroon Narrative: Caribbean Literature In English Across Boundaries, Ethnicities, And Centuries",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "chicago_il_united¬†states",
-            "Pubdate": "2016",
-            "Publisher": "Motivational Press",
-            "Title": "I Choose Me ",
             "Translation": "n"
         }
     ],
@@ -30986,6 +30869,28 @@
             "Pubdate": "1927",
             "Publisher": "Chéraquit",
             "Title": "Défilée La Folle: Poème",
+            "Translation": "n"
+        },
+        {
+            "Author": "Adisa Andwele",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "st._michael_barbados",
+            "Pubdate": "2003",
+            "Publisher": "WOW Caribbean",
+            "Title": "Crop Over",
+            "Translation": "n"
+        },
+        {
+            "Author": "Adisa Andwele",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2002",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Antiquity",
             "Translation": "n"
         },
         {
@@ -31129,6 +31034,17 @@
             "Pubdate": "2004",
             "Publisher": "Minnesota Center for Book Arts",
             "Title": "Salsa",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "tunapuna_trinidad_&¬†tobago",
+            "Pubdate": "1995",
+            "Publisher": "G.V Ferguson",
+            "Title": "Vigil",
             "Translation": "n"
         },
         {
@@ -31759,30 +31675,6 @@
             "Translation": "n"
         }
     ],
-    "Poem": [
-        {
-            "Author": "Adisa Andwele",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "st._michael_barbados",
-            "Pubdate": "2003",
-            "Publisher": "WOW Caribbean",
-            "Title": "Crop Over",
-            "Translation": "n"
-        },
-        {
-            "Author": "Adisa Andwele",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2002",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Antiquity",
-            "Translation": "n"
-        }
-    ],
     "Poetry Collection": [
         {
             "Author": "Opal Palmer Adisa",
@@ -32189,6 +32081,17 @@
             "Pubdate": "2011",
             "Publisher": "World Classics",
             "Title": "Poemas",
+            "Translation": "n"
+        },
+        {
+            "Author": "Juan Francisco Manzano",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "london_united¬†kingdom",
+            "Pubdate": "2017",
+            "Publisher": "Forgotten Books",
+            "Title": "Poems by a Slave in the Island of Cuba, Recently Liberated",
             "Translation": "n"
         },
         {
@@ -36097,19 +36000,6 @@
             "Translation": "n"
         }
     ],
-    "Poetry Collection": [
-        {
-            "Author": "Juan Francisco Manzano",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_united¬†kingdom",
-            "Pubdate": "2017",
-            "Publisher": "Forgotten Books",
-            "Title": "Poems by a Slave in the Island of Cuba, Recently Liberated",
-            "Translation": "n"
-        }
-    ],
     "Short Story": [
         {
             "Author": "Velma Pollard",
@@ -36991,19 +36881,6 @@
             "Pubdate": "2014",
             "Publisher": "Rowman & Littlefield",
             "Title": "The economic aspect of the abolition of the West Indian slave trade and slavery",
-            "Translation": "n"
-        }
-    ],
-    "Poem": [
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "tunapuna_trinidad_&¬†tobago",
-            "Pubdate": "1995",
-            "Publisher": "G.V Ferguson",
-            "Title": "Vigil ",
             "Translation": "n"
         }
     ]

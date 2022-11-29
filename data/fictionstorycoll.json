@@ -1303,6 +1303,52 @@
             "Translation": "n"
         }
     ],
+    "cforbes": [
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2002",
+            "Publisher": "Heinemann",
+            "Title": "Songs of Silence",
+            "Translation": "y"
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2002",
+            "Publisher": "Heinemann",
+            "Title": "Songs of Silence",
+            "Translation": "y"
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2002",
+            "Publisher": "Heinemann",
+            "Title": "Songs of Silence",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2002",
+            "Publisher": "Heinemann",
+            "Title": "Songs of Silence",
+            "Translation": ""
+        }
+    ],
     "cjones": [
         {
             "Author": "Cherie Jones",
@@ -1961,6 +2007,52 @@
             "Translation": "n"
         }
     ],
+    "elovelace": [
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1990",
+            "Publisher": "Heinemann",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1990",
+            "Publisher": "Heinemann",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "Persea Books",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "Persea Books",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        }
+    ],
     "evieta": [
         {
             "Author": "Ezequiel Vieta",
@@ -2257,6 +2349,30 @@
             "Translation": "n"
         }
     ],
+    "gjohn": [
+        {
+            "Author": "Gus John ",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1971",
+            "Publisher": "Penquin Books",
+            "Title": "Because They're Black ",
+            "Translation": "y"
+        },
+        {
+            "Author": "Gus John ",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1971",
+            "Publisher": "Penquin Books",
+            "Title": "Because They're Black ",
+            "Translation": "y"
+        }
+    ],
     "gpicart": [
         {
             "Author": "Gina Picart",
@@ -2392,6 +2508,28 @@
         }
     ],
     "gsylvain": [
+        {
+            "Author": "Georges Sylvain",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1999",
+            "Publisher": "FOKAL",
+            "Title": "Cric? Crac!: Krik? Krak! : Fables Crèoles",
+            "Translation": "n"
+        },
+        {
+            "Author": "Georges Sylvain",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1999",
+            "Publisher": "FOKAL",
+            "Title": "Cric? Crac!: Krik? Krak! : Fables Crèoles",
+            "Translation": "n"
+        },
         {
             "Author": "Georges Sylvain",
             "Descriptor": "",
@@ -2603,6 +2741,28 @@
             "Publisher": "Riverhead Books",
             "Title": "This Is How You Lose Her",
             "Translation": "n"
+        },
+        {
+            "Author": "Junot Diaz",
+            "Descriptor": "Obejas, Achy",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Spanish",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Vintage Espanol",
+            "Title": "Así Es Como La Pierdes",
+            "Translation": "y"
+        },
+        {
+            "Author": "Junot Diaz",
+            "Descriptor": "Obejas, Achy",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Spanish",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Vintage Espanol",
+            "Title": "Así Es Como La Pierdes",
+            "Translation": "y"
         }
     ],
     "jjdominique": [
