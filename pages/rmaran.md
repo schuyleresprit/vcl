@@ -94,7 +94,7 @@ permalink: /rmaran
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Savorgnan de Brazza</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51O9Lvk9ACL._SX333_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions du Dauphin<br/>
                 Pub_location: Paris, France<br/>
@@ -141,8 +141,6 @@ permalink: /rmaran
                 Length: 186</p>
             </div>
         </div>
-
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">

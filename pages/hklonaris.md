@@ -23,17 +23,17 @@ permalink: /hklonaris
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>WomanSpeak : A Collection of Creative Expressions</h1><hr>
+            <div class="right hide">
+                <h1>Not A Manifesto</h1><hr>
                 <p><img src="https://assets.lulu.com/cover_thumbs/1/q/1qzqyezv-ebook-shortedge-384.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: WomenSpeak Press<br/>
-                Pub_location: Nassau, Bahamas<br/>
-                Genre: Fiction(Novel)<br/>
-                Length: 128</p>
+                Publisher: Not A Manifesto<br/>
+                Pub_location: Miami, FL, United States<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 15</p>
             </div>
         </div>
         <div class="block">

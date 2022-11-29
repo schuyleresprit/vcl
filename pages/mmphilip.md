@@ -7,7 +7,7 @@ permalink: /mmphilip
 <div class="content">
     <h1>Michel Maxwell Philip</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://pbs.twimg.com/media/EGWXloQXYAI2lRC.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -17,7 +17,7 @@ permalink: /mmphilip
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Michel Maxwell Philip is from <a href="http://localhost:4000/3"> Trinidad and Tobago.</a></p></div>
+            <div class="aclocation"><p>Michel Maxwell Philip is from Trinidad & Tobago.<a href="http://localhost:4000/3"> Trinidad and Tobago.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Michel_Maxwell_Philip" target="_blank">Read more</a></div>
             </div>
             </div>
@@ -62,7 +62,6 @@ permalink: /mmphilip
                 Length: 336</p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
