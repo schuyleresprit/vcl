@@ -127,6 +127,22 @@ permalink: /8
         </div>
       </div>
     </div>
+<div id="post-3" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://repeatingislands.files.wordpress.com/2017/03/patrick-chamoiseau-pagespeed-ic_-kk28ubhn8.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/pchamoiseau">Patrick Chamoiseau</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -178,7 +194,7 @@ permalink: /8
 <div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://repeatingislands.files.wordpress.com/2017/03/patrick-chamoiseau-pagespeed-ic_-kk28ubhn8.jpg">
+          <img src="http://ile-en-ile.org/wp-content/uploads/2001/08/confiant.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -186,7 +202,7 @@ permalink: /8
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/pchamoiseau">Patrick Chamoiseau</a></h4>
+            <h4><a href="/rconfidant">Raphaël Confiant</a></h4>
           </a>
         </div>
       </div>
