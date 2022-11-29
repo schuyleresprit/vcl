@@ -31759,11 +31759,11 @@
             "Translation": "n"
         }
     ],
-    "Poems": [
+    "Poem": [
         {
             "Author": "Adisa Andwele",
             "Descriptor": "",
-            "Genre": "Poems",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "st._michael_barbados",
             "Pubdate": "2003",
@@ -31774,7 +31774,7 @@
         {
             "Author": "Adisa Andwele",
             "Descriptor": "",
-            "Genre": "Poems",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2002",
@@ -36994,11 +36994,11 @@
             "Translation": "n"
         }
     ],
-    "poem": [
+    "Poem": [
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "poem",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "tunapuna_trinidad_&¬†tobago",
             "Pubdate": "1995",
