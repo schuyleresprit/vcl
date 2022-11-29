@@ -45,8 +45,8 @@ permalink: /kaarthur
                 <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781900715027_0.jpg?itok=eDIQh9bi"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Tate Publishing <br/>
-                Pub_location: London, England <br/>
+                Publisher: Peepal Tree Press <br/>
+                Pub_location: Leeds, England <br/>
                 Genre: Fiction <br/>
                 Length: 222 <br/>
                 </p>
