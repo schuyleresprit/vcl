@@ -4,12 +4,8 @@ import json
 from util import StackFrontier, QueueFrontier
 from util import  Node
 
-
-# Maps names to a set of corresponding author_country
 countries = {}
-# Maps author_ids to a dictionary of: name, title, pubdate,  publisher
 authors = {}
-# Maps title_ids to a dictionary of: title, year, stars (a set of author_ids)
 languages = {}
 genres = {}
 names = {}
@@ -25,7 +21,7 @@ def load_data(directory):
         reader = csv.DictReader(f)
         for row in reader:
             authors[row["id"]] = {
-                "name": row["Author"]
+                "Author": row["Author"]
                 "author_id": row["author_id"],
                 "titles": set()
             }

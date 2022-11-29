@@ -2728,6 +2728,28 @@
             "Author": "Edwidge Danticat",
             "Descriptor": "",
             "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Vintage Books",
+            "Title": "Create Dangerously: The Immigrant Artist at Work",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Vintage Books",
+            "Title": "Create Dangerously: The Immigrant Artist at Work",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "washington_d.c_united¬†states",
             "Pubdate": "2011",
@@ -2812,6 +2834,28 @@
             "Pubdate": "1941",
             "Publisher": "Howard University",
             "Title": "The Impact Of The International Crisis Upon The Negro In The Caribbean",
+            "Translation": "n"
+        },
+        {
+            "Author": "Eric Eustace Williams",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "lanham_md_united¬†states",
+            "Pubdate": "2014",
+            "Publisher": "Rowman & Littlefield",
+            "Title": "The economic aspect of the abolition of the West Indian slave trade and slavery",
+            "Translation": "n"
+        },
+        {
+            "Author": "Eric Eustace Williams",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "lanham_md_united¬†states",
+            "Pubdate": "2014",
+            "Publisher": "Rowman & Littlefield",
+            "Title": "The economic aspect of the abolition of the West Indian slave trade and slavery",
             "Translation": "n"
         },
         {
@@ -3586,6 +3630,28 @@
             "Pubdate": "1993",
             "Publisher": "University of Wisconsin Press",
             "Title": "The Zea Mexican Diary, 7 Sept 1926-7 Sept 1986",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1984",
+            "Publisher": "New Beacon Books",
+            "Title": "History of the Voice: The Development of Nation Language in Anglophone Carribbean Poetry",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1984",
+            "Publisher": "New Beacon Books",
+            "Title": "History of the Voice: The Development of Nation Language in Anglophone Carribbean Poetry",
             "Translation": "n"
         },
         {
@@ -5220,6 +5286,30 @@
             "Pubdate": "2013",
             "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "How To Help Your Children to Read and Write Effectively by Mr. Herbert J Reifer",
+            "Translation": "n"
+        }
+    ],
+    "hpapailler": [
+        {
+            "Author": "Hubert Papailler",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1958",
+            "Publisher": "Secretairerie d'Etat de la coordination et de l'information",
+            "Title": "Le Bicolore, Symbole De L'Unité Nationale: Sermon Prononcé",
+            "Translation": "n"
+        },
+        {
+            "Author": "Hubert Papailler",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1958",
+            "Publisher": "Secretairerie d'Etat de la coordination et de l'information",
+            "Title": "Le Bicolore, Symbole De L'Unité Nationale: Sermon Prononcé",
             "Translation": "n"
         }
     ],
@@ -7292,6 +7382,30 @@
             "Pubdate": "2017",
             "Publisher": "University of Michigan Press",
             "Title": "Accountability In The Context Of Bahamian Education: Country Case Study",
+            "Translation": "n"
+        }
+    ],
+    "mthelwell": [
+        {
+            "Author": "Michael Thelwell",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1980",
+            "Publisher": "Grove Press",
+            "Title": "Nine Night Version: Excerpted By The Massachusetts Review From The Harder they Come",
+            "Translation": "n"
+        },
+        {
+            "Author": "Michael Thelwell",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1980",
+            "Publisher": "Grove Press",
+            "Title": "Nine Night Version: Excerpted By The Massachusetts Review From The Harder they Come",
             "Translation": "n"
         }
     ],
