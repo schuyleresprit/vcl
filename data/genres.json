@@ -24966,11 +24966,11 @@
             "Translation": "n"
         }
     ],
-    "Fiction (Short Story)": [
+    "Fiction (Short Story Collection)": [
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1990",
@@ -24981,7 +24981,7 @@
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2003",
@@ -24992,7 +24992,7 @@
         {
             "Author": "Georges Sylvain",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1999",
@@ -25001,9 +25001,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Gus John ",
+            "Author": "Gus John",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1971",
@@ -25014,7 +25014,7 @@
         {
             "Author": "Junot Diaz",
             "Descriptor": "Obejas, Achy",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "Spanish",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2013",
