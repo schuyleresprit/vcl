@@ -1,9 +1,9 @@
 ---
-layout: pagedefault
-title: "Translations"
-permalink: /Translations
+layout: default
+title: Arabic
+permalink: /arabic
 ---
-
+Represented here are the authors who have written works in Arabic. Some of these may be texts translated into Arabic from other languages.
 
 <html>
 <body>
@@ -17,8 +17,8 @@ permalink: /Translations
 	<script>
 		let datasets = [
 			{
-				"type" : "greek",
-				"url" : "/data/greek.json"
+				"type" : "arabic",
+				"url" : "/data/arabic.json"
 			}
 		];
 		var dataLinks = [];
@@ -40,7 +40,7 @@ permalink: /Translations
 			var temp = [];
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "greek":
+					case "arabic":
 						for (key in data) {
 							temp.push({
 								"flavorText" : key,

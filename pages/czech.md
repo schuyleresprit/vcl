@@ -1,9 +1,9 @@
 ---
-layout: pagedefault
-title: "Translations"
-permalink: /Translations
+layout: default
+title: Czech
+permalink: /czech
 ---
-
+Represented here are the authors who have written works in Czech. Some of these may be texts translated into Czech from other languages.
 
 <html>
 <body>
@@ -17,8 +17,8 @@ permalink: /Translations
 	<script>
 		let datasets = [
 			{
-				"type" : "greek",
-				"url" : "/data/greek.json"
+				"type" : "czech",
+				"url" : "/data/czech.json"
 			}
 		];
 		var dataLinks = [];
@@ -40,7 +40,7 @@ permalink: /Translations
 			var temp = [];
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "greek":
+					case "czech":
 						for (key in data) {
 							temp.push({
 								"flavorText" : key,
