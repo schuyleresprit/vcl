@@ -7,7 +7,7 @@ permalink: /aandwele
 <div class="content">
     <h1>Adisa Andwele</h1>
     <div class="quote">
-        <div><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Adisa%20Andwele%20%28AJA%29.jpg?itok=xfiRikUg" class="logo"></div>
+        <div><img src="https://pbs.twimg.com/media/EIOROMRXYAAoq4Y?format=jpg&name=large" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -21,7 +21,7 @@ permalink: /aandwele
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Rhythm an' Roots: A Collection Of Poems</h1><hr>
@@ -38,7 +38,7 @@ permalink: /aandwele
         <div class="block">
             <div class="date right"><p class="right">1992</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Black Distant Voice: A Collection of Poems</h1><hr>
                 <p><img src="https://pbs.twimg.com/media/EIOROMVXsAECwdX.jpg:large"></p>
                 <p>
@@ -51,7 +51,7 @@ permalink: /aandwele
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2002</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Antiquity</h1><hr>
@@ -59,15 +59,14 @@ permalink: /aandwele
                 <p>
                 Language: English <br/>
                 Publisher: Peepal Tree Press <br/>
-                Pub_location: Leeds, LDN, England <br/>
+                Pub_location: Leeds, England <br/>
                 Genre: Poem <br/>
                 Length: 91 <br/>        
                 </p>
             </div>
         </div>
-
         <div class="block">
-            <div class="date right"><p class="right hide">2003</p></div>
+            <div class="date right"><p class="right">2003</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Crop Over</h1><hr>
@@ -81,11 +80,10 @@ permalink: /aandwele
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Painting Poetry: Poetic Interpretations of Art.</h1><hr>
                 <p><img src="https://imgv2-1-f.scribdassets.com/img/word_document/524037782/original/216x287/a5bc47650c/1638698407?v=1"></p>
                 <p>
