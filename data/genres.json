@@ -4780,11 +4780,11 @@
             "Translation": "n"
         }
     ],
-    "Fiction ": [
+    "Fiction (Novel)": [
         {
             "Author": "Jonathan De La Rosa",
             "Descriptor": "",
-            "Genre": "Fiction ",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "diego_martin_trinidad_&¬†tobago",
             "Pubdate": "2014",
@@ -25226,11 +25226,336 @@
             "Translation": "n"
         }
     ],
-    "Fiction(Short Story Collection)": [
+
+    "Fiction (Short Story Collection)": [
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1990",
+            "Publisher": "Heinemann",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "Persea Books",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Georges Sylvain",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1999",
+            "Publisher": "FOKAL",
+            "Title": "Cric? Crac!: Krik? Krak! : Fables Crèoles",
+            "Translation": "n"
+        },
+        {
+            "Author": "Gus John",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1971",
+            "Publisher": "Penquin Books",
+            "Title": "Because They're Black ",
+            "Translation": "y"
+        },
+        {
+            "Author": "Junot Diaz",
+            "Descriptor": "Obejas, Achy",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Spanish",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Vintage Espanol",
+            "Title": "Así Es Como La Pierdes",
+            "Translation": "y"
+        }
+    ],
+    "Fiction (Novel)": [
+        {
+            "Author": "Denise Harris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Web of Secrets",
+            "Translation": "y"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "na_na",
+            "Pubdate": "2013",
+            "Publisher": "‎CreateSpace Independent Publishing Platform",
+            "Title": "The High Road",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2015",
+            "Publisher": "CreateSpace Independent Publishing Platform",
+            "Title": "What now?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2016",
+            "Publisher": "Createspace Independent Publishing Platform",
+            "Title": "Free in the City (The Acreage Series Book 2)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2018",
+            "Publisher": "CreateSpace Independent Publishing Platform",
+            "Title": "Vaucluse",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "jackson_united¬†states",
+            "Pubdate": "2019",
+            "Publisher": "Arise Publishing",
+            "Title": "Return to The Acreage (The Acreage Series Book 4)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "chicago_united¬†states",
+            "Pubdate": "2019",
+            "Publisher": "Independently Published",
+            "Title": "Return to The Acreage",
+            "Translation": "n"
+        },
+        {
+            "Author": "Anthony Nash",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "bloomington_in_united¬†states",
+            "Pubdate": "2008",
+            "Publisher": "Xlibris",
+            "Title": "Changind Shape",
+            "Translation": "n"
+        },
+        {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_ldn_england",
+            "Pubdate": "2017",
+            "Publisher": "Peepal Tree Press",
+            "Title": "If I Had the Wings: Short Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "nassau_bahamas",
+            "Pubdate": "1992",
+            "Publisher": "WomenSpeak Press",
+            "Title": "WomanSpeak : a collection of creative expressions",
+            "Translation": "n"
+        },
+        {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "toronto_canada",
+            "Pubdate": "2015",
+            "Publisher": "Dundurn Press",
+            "Title": "Cowboy",
+            "Translation": "n"
+        },
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(Short Story Collection)",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "charles_village_united¬†states",
+            "Pubdate": "2007",
+            "Publisher": "Johns Hopkins University Press",
+            "Title": "From \"Sapodilla Terrace\"",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "d'abadie_trinidad_&¬†tobago",
+            "Pubdate": "2000",
+            "Publisher": "Green Tree Press",
+            "Title": "Bluejean, A Novel ",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "peterborough_england",
+            "Pubdate": "2006",
+            "Publisher": "Upfront Publishing",
+            "Title": "Sapodilla Terrace",
+            "Translation": "n"
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_ny_united_states",
+            "Pubdate": "2019",
+            "Publisher": "Akashic Books",
+            "Title": "A Tall History Of Sugar",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2008",
+            "Publisher": "Peepal Tree Press Ltd",
+            "Title": "A Permanent Freedom",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "2003",
+            "Publisher": "Walker Books Ltd.",
+            "Title": "Flying With Icarus And Other Stories",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2012",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Ghosts: A Memoir",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "2003",
+            "Publisher": "Hodder Education",
+            "Title": "Songs of Silence",
+            "Translation": ""
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1982",
+            "Publisher": "Heineman",
+            "Title": "Beka Lamb",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1991",
+            "Publisher": "Heineman",
+            "Title": "In Times Like These",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1997",
+            "Publisher": "Heineman",
+            "Title": "The Festival of San Joaquin",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2007",
+            "Publisher": "Heineman",
+            "Title": "Time and the River",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2015",
+            "Publisher": "Heineman",
+            "Title": "Beka Lamb",
+            "Translation": "n"
+        }
+    ],
+    "Fiction (Short Story Collection)": [
+>>>>>>> 451ea93ddfc24e919f3955f8aaba05dde6d59072
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "tunapuna_trinidad_&_tonbago",
             "Pubdate": "1990",
@@ -25239,11 +25564,25 @@
             "Translation": "n"
         }
     ],
-    "Fiction(short Story Collection)": [
+
+    "Fiction (Novel)": [
+        {
+            "Author": "Claire Adam",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "richmond_londonland",
+            "Pubdate": "2019",
+            "Publisher": "Hogarth Press",
+            "Title": "The Golden Child",
+            "Translation": "n"
+        }
+    ],
+    "Fiction (Short Story Collection)": [
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(short Story Collection)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "tunapuna_trinidad_&_tonbago",
             "Pubdate": "",
