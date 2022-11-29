@@ -17,7 +17,7 @@ permalink: /amgomes
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Albert Maria Gomes is from Trinidad & Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/The_Beacon_(magazine)"_blank">Read more</a>
+                <a href="https://en.wikipedia.org/wiki/Albert_Gomes"_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -35,6 +35,6 @@ permalink: /amgomes
             </div>
         </div>
   <!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
 
 
