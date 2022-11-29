@@ -737,6 +737,96 @@
             "Translation": "n"
         }
     ],
+    "ekbrathwaite": [
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "cambridge_england",
+            "Pubdate": "1974",
+            "Publisher": "The American Academy of Arts and Sciences",
+            "Title": "The African Presence in Caribbean Literature",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "cambridge_england",
+            "Pubdate": "1974",
+            "Publisher": "The American Academy of Arts and Sciences",
+            "Title": "The African Presence in Caribbean Literature",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1982",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Nation Language Poetry (Savacou Working Paper)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1982",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Nation Language Poetry (Savacou Working Paper)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "caracas_venezuela",
+            "Pubdate": "2010",
+            "Publisher": "Katatay",
+            "Title": "La Unidad Submarina: Ensayos Caribeños",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "caracas_venezuela",
+            "Pubdate": "2010",
+            "Publisher": "Katatay",
+            "Title": "La Unidad Submarina: Ensayos Caribeños",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1986",
+            "Publisher": "Casa de las Américas",
+            "Title": "Roots",
+            "Translation": ""
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1986",
+            "Publisher": "Casa de las Américas",
+            "Title": "Roots",
+            "Translation": ""
+        }
+    ],
     "ewhyte": [
         {
             "Author": "Eddie Whyte",
@@ -1211,96 +1301,6 @@
             "Publisher": "Universidad Central de Las Villas, Departamento de Relaciones Culturales",
             "Title": "Tratados En Havana",
             "Translation": "n"
-        }
-    ],
-    "kebrathwaite": [
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "cambridge_england",
-            "Pubdate": "1974",
-            "Publisher": "The American Academy of Arts and Sciences",
-            "Title": "The African Presence in Caribbean Literature",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "cambridge_england",
-            "Pubdate": "1974",
-            "Publisher": "The American Academy of Arts and Sciences",
-            "Title": "The African Presence in Caribbean Literature",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1982",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Nation Language Poetry (Savacou Working Paper)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1982",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Nation Language Poetry (Savacou Working Paper)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "caracas_venezuela",
-            "Pubdate": "2010",
-            "Publisher": "Katatay",
-            "Title": "La Unidad Submarina: Ensayos Caribeños",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "caracas_venezuela",
-            "Pubdate": "2010",
-            "Publisher": "Katatay",
-            "Title": "La Unidad Submarina: Ensayos Caribeños",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1986",
-            "Publisher": "Casa de las Américas",
-            "Title": "Roots",
-            "Translation": ""
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1986",
-            "Publisher": "Casa de las Américas",
-            "Title": "Roots",
-            "Translation": ""
         }
     ],
     "lfmanigat": [

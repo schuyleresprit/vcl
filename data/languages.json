@@ -915,7 +915,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Dutch",
             "Pub_id": "baarn_netherlands",
             "Pubdate": "1993",
@@ -1335,7 +1335,7 @@
         {
             "Author": "Velma Pollard",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2003",
@@ -11059,7 +11059,7 @@
         {
             "Author": "Roy Namba",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1986",
@@ -12632,7 +12632,7 @@
         {
             "Author": "Joseph Husband",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1925",
@@ -13126,8 +13126,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Co-Author: Thea Von Harbou ",
-            "Genre": "Fiction",
+            "Descriptor": "Co-Author: Thea Von Harbou",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2014",
@@ -13137,8 +13137,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: Jean Charbonneau,  Leah Chamberlain, Scott Wolven, Tristan Davies, Paul D. Brazill, JJ Toner,  Alan Ward Thomas, Cortright McMeel ",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: Jean Charbonneau, Leah Chamberlain, Scott Wolven, Tristan Davies, Paul D. Brazill, JJ Toner, Alan Ward Thomas, Cortright McMeel",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
@@ -13149,7 +13149,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
@@ -13159,19 +13159,19 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: Suparn Verma, Samrat, Cortright McMeel, Yaeer Talker,  Kshemendra, Jonathan Sturak, Graham Wynd,  David Siddell, Richard Godwin ",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: Suparn Verma, Samrat, Cortright McMeel, Yaeer Talker, Kshemendra, Jonathan Sturak, Graham Wynd, David Siddell, Richard Godwin",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
             "Publisher": "Noir Nation Books",
-            "Title": "Noir Nation: International Crime Fiction No. 3: The India Issue ",
+            "Title": "Noir Nation: International Crime Fiction No. 3: The India Issue",
             "Translation": "n"
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: Jonathan Sturak, Marina Perezagua, Richard Godwin, Lauren Cahn, Rob Brunet, Melodie Campbell, Bianca Bellova,  Mary Agnes Fleming, George Beck",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: Jonathan Sturak, Marina Perezagua, Richard Godwin, Lauren Cahn, Rob Brunet, Melodie Campbell, Bianca Bellova, Mary Agnes Fleming, George Beck",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2014",
@@ -13181,8 +13181,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: A.J. Sidransky, Frank Sonderborg, Barbie Wilde, Lindsay Moran,  Lauren Cahn, Doug Levy, Diane Vacca",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: A.J. Sidransky, Frank Sonderborg, Barbie Wilde, Lindsay Moran, Lauren Cahn, Doug Levy, Diane Vacca",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2014",
@@ -13192,8 +13192,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: Gary Phillips, Tatiana Eva-Marie, JC Hopkins ",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: Gary Phillips, Tatiana Eva-Marie, JC Hopkins",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2017",
@@ -13203,19 +13203,19 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: George Perreault, Bianca Bellova, Adam Ward, David Keaton, Ava Black ,Simon Rowe, Barbie Wilde, JJ Toner, Deborah Pintonelli ",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: George Perreault, Bianca Bellova, Adam Ward, David Keaton, Ava Black ,Simon Rowe, Barbie Wilde, JJ Toner, Deborah Pintonelli",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2019",
             "Publisher": "Noir Nation Books",
-            "Title": "Noir Nation No. 7: The Golden Fedora Poetry Prize Issue ",
+            "Title": "Noir Nation No. 7: The Golden Fedora Poetry Prize Issue",
             "Translation": "n"
         },
         {
             "Author": "Eddie Vega",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2011",
@@ -14964,7 +14964,7 @@
         {
             "Author": "Ylce Irizarry",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "thousand_oaks_ca_united¬†states",
             "Pubdate": "2006",
@@ -14975,7 +14975,7 @@
         {
             "Author": "Bukka Rennie",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "kingston_jam_jamaica",
             "Pubdate": "2014",
@@ -14997,7 +14997,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2009",
@@ -15008,7 +15008,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2020",
@@ -15019,7 +15019,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "westminster_england",
             "Pubdate": "2015",
@@ -15030,7 +15030,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2022",
@@ -15041,7 +15041,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2019",
@@ -15052,7 +15052,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2018",
@@ -15063,7 +15063,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "pretoria_south_africa",
             "Pubdate": "2016",
@@ -15201,17 +15201,6 @@
             "Pubdate": "1970",
             "Publisher": "Oxford University Press",
             "Title": "Emanuel and His Parrot",
-            "Translation": "n"
-        },
-        {
-            "Author": "Michel Maxwell Phillip",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "boston_ma_united¬†states",
-            "Pubdate": "1997",
-            "Publisher": "University of Massachusetts Press",
-            "Title": "Emmanuel Appadocca, Or, Blighted life: A Tale Of The Boucaneers",
             "Translation": "n"
         },
         {
@@ -15415,7 +15404,7 @@
         {
             "Author": "Jean Breeze",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "hexham_england",
             "Pubdate": "1997",
@@ -15732,7 +15721,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -15743,7 +15732,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -15754,7 +15743,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15765,7 +15754,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -15776,7 +15765,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -15787,7 +15776,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15798,7 +15787,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15809,7 +15798,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15820,7 +15809,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15831,7 +15820,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15842,7 +15831,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "English",
@@ -15853,7 +15842,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -15864,7 +15853,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15875,7 +15864,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -15886,7 +15875,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15897,7 +15886,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "English",
@@ -15908,7 +15897,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -15919,7 +15908,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15930,7 +15919,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -15941,7 +15930,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
@@ -15952,7 +15941,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -15963,7 +15952,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15974,7 +15963,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -15985,7 +15974,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15996,7 +15985,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16007,9 +15996,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
-            "Genre": "Bibliography",
+            "Genre": "Kamau (Edward) Brathwaite",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1984",
@@ -16018,7 +16007,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16029,7 +16018,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16040,7 +16029,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16051,7 +16040,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16062,7 +16051,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16073,7 +16062,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16084,7 +16073,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16095,7 +16084,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16106,7 +16095,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16117,7 +16106,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16128,7 +16117,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16139,7 +16128,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16150,7 +16139,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16161,7 +16150,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16172,7 +16161,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16183,7 +16172,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16194,7 +16183,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16205,7 +16194,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16216,7 +16205,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16227,7 +16216,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16238,7 +16227,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16249,7 +16238,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16260,7 +16249,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Anthology",
             "Language": "English",
@@ -16271,7 +16260,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16282,7 +16271,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16293,7 +16282,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16304,7 +16293,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16315,7 +16304,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16326,7 +16315,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16337,7 +16326,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16348,7 +16337,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16359,7 +16348,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16370,7 +16359,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16381,7 +16370,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16392,7 +16381,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16403,7 +16392,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16414,7 +16403,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16425,7 +16414,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16436,7 +16425,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16447,7 +16436,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16458,7 +16447,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16469,7 +16458,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -16480,7 +16469,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16491,7 +16480,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16502,7 +16491,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -16513,7 +16502,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16524,7 +16513,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16535,7 +16524,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Autobiography/Memoir",
             "Language": "English",
@@ -16546,7 +16535,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "",
             "Language": "English",
@@ -16557,7 +16546,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16568,7 +16557,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16579,7 +16568,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16590,7 +16579,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -16601,7 +16590,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16612,7 +16601,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16623,7 +16612,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -16634,7 +16623,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16645,7 +16634,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16656,7 +16645,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16667,7 +16656,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16678,7 +16667,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16689,7 +16678,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "English",
@@ -16700,7 +16689,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16711,7 +16700,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -16722,7 +16711,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16733,7 +16722,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16744,7 +16733,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16755,7 +16744,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
@@ -16766,7 +16755,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16777,7 +16766,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -16788,7 +16777,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -18022,7 +18011,7 @@
         {
             "Author": "Frits Wols",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "paramaribo_suriname",
             "Pubdate": "2004",
@@ -18374,7 +18363,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1973",
@@ -18385,7 +18374,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "2022",
@@ -18396,7 +18385,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1998",
@@ -18517,7 +18506,7 @@
         {
             "Author": "Pierre Alex Jeanty",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "lehigh_acres_fl_united¬†states",
             "Pubdate": "2015",
@@ -18594,7 +18583,7 @@
         {
             "Author": "Nailah Folami Imoja",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "portsmouth_nh_united_states",
             "Pubdate": "2004",
@@ -18792,7 +18781,7 @@
         {
             "Author": "Vanessa Riley",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2022",
@@ -18825,7 +18814,7 @@
         {
             "Author": "Marcia Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2018",
@@ -18946,7 +18935,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad",
             "Pubdate": "1997",
@@ -18957,7 +18946,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad",
             "Pubdate": "1989",
@@ -19001,7 +18990,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "1980",
@@ -19386,7 +19375,7 @@
         {
             "Author": "Maria Roberts-Squires",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2005",
@@ -19397,7 +19386,7 @@
         {
             "Author": "Évelyne Trouillot",
             "Descriptor": "Paul Curtis Daw; Jason Herbeck",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "charlottesville_va_united¬†states",
             "Pubdate": "2015",
@@ -19408,7 +19397,7 @@
         {
             "Author": "Jake Hugh Reece Wilson",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "rhyl_wales",
             "Pubdate": "2014",
@@ -21916,7 +21905,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2007",
@@ -21927,7 +21916,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2012",
@@ -21938,7 +21927,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2019",
@@ -21949,7 +21938,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "1987",
@@ -22257,7 +22246,7 @@
         {
             "Author": "N. D. Williams",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "1992",
@@ -22268,7 +22257,7 @@
         {
             "Author": "N. D. Williams",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "1994",
@@ -22410,19 +22399,19 @@
         },
         {
             "Author": "Herbert J. Reifer",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": null,
+            "Genre": "Fiction (Novel)n",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2013",
             "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "Rich Paupers",
-            "Translation": "n"
+            "Translation": "159"
         },
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2016",
@@ -22433,7 +22422,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2010",
@@ -22928,7 +22917,7 @@
         {
             "Author": "Sylvia Wynter",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "manhattan_ny_united¬†states",
             "Pubdate": "1962",
@@ -22972,7 +22961,7 @@
         {
             "Author": "Marlene Nourbese Phillip",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "portsmouth_nh_united_states",
             "Pubdate": "1988",
@@ -23918,7 +23907,7 @@
         {
             "Author": "Naomi Jackson",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2015",
@@ -26344,7 +26333,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -26366,7 +26355,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -26377,7 +26366,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1949",
@@ -26388,7 +26377,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1954",
@@ -27046,7 +27035,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "French",
@@ -27057,7 +27046,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "French",
@@ -27301,7 +27290,7 @@
         {
             "Author": "Robert Nazaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1988",
@@ -27477,7 +27466,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2001",
@@ -29174,8 +29163,8 @@
         },
         {
             "Author": "Merle Hodge",
-            "Descriptor": "Translator: Barbara Müller ",
-            "Genre": "Fiction",
+            "Descriptor": "Translator: Barbara Müller",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "munich_germany",
             "Pubdate": "2002",
@@ -29841,7 +29830,7 @@
         {
             "Author": "Marcel Nérée",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Haitian Creole",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2004",
@@ -30386,7 +30375,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "Translator: Chiara Arnone",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1997",
@@ -30551,7 +30540,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",
@@ -34238,7 +34227,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -34249,7 +34238,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "Spanish",
@@ -34260,7 +34249,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "Spanish",
@@ -35384,7 +35373,7 @@
         {
             "Author": "Juan Carlos Nunez",
             "Descriptor": "",
-            "Genre": "N/A",
+            "Genre": "Anthology",
             "Language": "Spanish",
             "Pub_id": "guadalajara_mexico",
             "Pubdate": "2020",
@@ -36165,7 +36154,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1971",
@@ -36209,7 +36198,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1989",
@@ -36242,7 +36231,7 @@
         {
             "Author": "Fabio Murrieta Rodríguez",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1994",

@@ -2175,6 +2175,52 @@
             "Translation": "y"
         }
     ],
+    "ekbrathwaite": [
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "leuven_belgium",
+            "Pubdate": "1986",
+            "Publisher": "Leuvense Schrijversaktie",
+            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "leuven_belgium",
+            "Pubdate": "1986",
+            "Publisher": "Leuvense Schrijversaktie",
+            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "montreãåal_qc_canada",
+            "Pubdate": "2013",
+            "Publisher": "Mémoire D'Encrier",
+            "Title": "Rêvhaïti",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "montreãåal_qc_canada",
+            "Pubdate": "2013",
+            "Publisher": "Mémoire D'Encrier",
+            "Title": "Rêvhaïti",
+            "Translation": "y"
+        }
+    ],
     "elovelace": [
         {
             "Author": "Earl Lovelace",
@@ -3363,7 +3409,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2001",
@@ -3374,7 +3420,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2001",
@@ -3571,7 +3617,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -3582,7 +3628,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -3615,7 +3661,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -3626,7 +3672,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -3637,7 +3683,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1949",
@@ -3648,7 +3694,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1949",
@@ -3659,7 +3705,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1954",
@@ -3670,7 +3716,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1954",
@@ -4332,52 +4378,6 @@
             "Pubdate": "2010",
             "Publisher": "Nouvelles Éditions latines",
             "Title": "Diab'-La: Roman Antillais",
-            "Translation": "y"
-        }
-    ],
-    "kebrathwaite": [
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "leuven_belgium",
-            "Pubdate": "1986",
-            "Publisher": "Leuvense Schrijversaktie",
-            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "leuven_belgium",
-            "Pubdate": "1986",
-            "Publisher": "Leuvense Schrijversaktie",
-            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2013",
-            "Publisher": "Mémoire D'Encrier",
-            "Title": "Rêvhaïti",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2013",
-            "Publisher": "Mémoire D'Encrier",
-            "Title": "Rêvhaïti",
             "Translation": "y"
         }
     ],
@@ -6833,7 +6833,7 @@
         {
             "Author": "Robert Nazaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1988",
@@ -6844,7 +6844,7 @@
         {
             "Author": "Robert Nazaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1988",

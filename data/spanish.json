@@ -3039,6 +3039,74 @@
             "Translation": "n"
         }
     ],
+    "ekbrathwaite": [
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "caracas_venezuela",
+            "Pubdate": "2010",
+            "Publisher": "Katatay",
+            "Title": "La Unidad Submarina: Ensayos Caribeños",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "caracas_venezuela",
+            "Pubdate": "2010",
+            "Publisher": "Katatay",
+            "Title": "La Unidad Submarina: Ensayos Caribeños",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Spanish",
+            "Pub_id": "mexico_d.f._mexico",
+            "Pubdate": "1979",
+            "Publisher": "Universidad Nacional Autónoma de México",
+            "Title": "La Criollización en las Antillas de Lengua Inglesa",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Spanish",
+            "Pub_id": "mexico_d.f._mexico",
+            "Pubdate": "1979",
+            "Publisher": "Universidad Nacional Autónoma de México",
+            "Title": "La Criollización en las Antillas de Lengua Inglesa",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1977",
+            "Publisher": "Casa de las Américas",
+            "Title": "Black + Blues",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1977",
+            "Publisher": "Casa de las Américas",
+            "Title": "Black + Blues",
+            "Translation": "y"
+        }
+    ],
     "etudorovskaya": [
         {
             "Author": "E. A Tudorovskaya",
@@ -3537,7 +3605,7 @@
         {
             "Author": "Fabio Murrieta Rodríguez",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1994",
@@ -3548,7 +3616,7 @@
         {
             "Author": "Fabio Murrieta Rodríguez",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1994",
@@ -4391,7 +4459,7 @@
         {
             "Author": "Juan Carlos Nunez",
             "Descriptor": "",
-            "Genre": "N/A",
+            "Genre": "Anthology",
             "Language": "Spanish",
             "Pub_id": "guadalajara_mexico",
             "Pubdate": "2020",
@@ -4402,7 +4470,7 @@
         {
             "Author": "Juan Carlos Nunez",
             "Descriptor": "",
-            "Genre": "N/A",
+            "Genre": "Anthology",
             "Language": "Spanish",
             "Pub_id": "guadalajara_mexico",
             "Pubdate": "2020",
@@ -5797,74 +5865,6 @@
             "Publisher": "Casa de las Americas",
             "Title": "El Compadre General Sol",
             "Translation": "n"
-        }
-    ],
-    "kebrathwaite": [
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "caracas_venezuela",
-            "Pubdate": "2010",
-            "Publisher": "Katatay",
-            "Title": "La Unidad Submarina: Ensayos Caribeños",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "caracas_venezuela",
-            "Pubdate": "2010",
-            "Publisher": "Katatay",
-            "Title": "La Unidad Submarina: Ensayos Caribeños",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "Spanish",
-            "Pub_id": "mexico_d.f._mexico",
-            "Pubdate": "1979",
-            "Publisher": "Universidad Nacional Autónoma de México",
-            "Title": "La Criollización en las Antillas de Lengua Inglesa",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "Spanish",
-            "Pub_id": "mexico_d.f._mexico",
-            "Pubdate": "1979",
-            "Publisher": "Universidad Nacional Autónoma de México",
-            "Title": "La Criollización en las Antillas de Lengua Inglesa",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1977",
-            "Publisher": "Casa de las Américas",
-            "Title": "Black + Blues",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1977",
-            "Publisher": "Casa de las Américas",
-            "Title": "Black + Blues",
-            "Translation": "y"
         }
     ],
     "laguero": [
@@ -9765,7 +9765,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1971",
@@ -9776,7 +9776,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1971",
@@ -9853,7 +9853,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1989",
@@ -9864,7 +9864,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1989",

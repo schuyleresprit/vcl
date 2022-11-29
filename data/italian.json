@@ -801,7 +801,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "Translator: Chiara Arnone",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1997",
@@ -812,7 +812,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "Translator: Chiara Arnone",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1997",
@@ -919,7 +919,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",
@@ -930,7 +930,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",

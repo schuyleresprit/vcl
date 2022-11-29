@@ -647,6 +647,30 @@
             "Translation": "n"
         }
     ],
+    "ekbrathwaite": [
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "English",
+            "Pub_id": "cave_hill_barbados",
+            "Pubdate": "2011",
+            "Publisher": "University of the West Indies Press",
+            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "English",
+            "Pub_id": "cave_hill_barbados",
+            "Pubdate": "2011",
+            "Publisher": "University of the West Indies Press",
+            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
+            "Translation": "n"
+        }
+    ],
     "elovelace": [
         {
             "Author": "Earl Lovelace",
@@ -959,6 +983,30 @@
             "Translation": "n"
         }
     ],
+    "jcnunez": [
+        {
+            "Author": "Juan Carlos Nunez",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "Spanish",
+            "Pub_id": "guadalajara_mexico",
+            "Pubdate": "2020",
+            "Publisher": "Editorial Universidad de Guadalajara",
+            "Title": "Retrato Hablado: Entrevistas Con Personajes De Guadalajara",
+            "Translation": "n"
+        },
+        {
+            "Author": "Juan Carlos Nunez",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "Spanish",
+            "Pub_id": "guadalajara_mexico",
+            "Pubdate": "2020",
+            "Publisher": "Editorial Universidad de Guadalajara",
+            "Title": "Retrato Hablado: Entrevistas Con Personajes De Guadalajara",
+            "Translation": "n"
+        }
+    ],
     "jkincaid": [
         {
             "Author": "Jamaica Kincaid",
@@ -1100,30 +1148,6 @@
             "Pubdate": "2008",
             "Publisher": "Peepal Tree Press",
             "Title": "Caribbean Treasure: A Trove Of 18th-Century Barbadian Poetry And Prose: Vol. 1",
-            "Translation": "n"
-        }
-    ],
-    "kebrathwaite": [
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "cave_hill_barbados",
-            "Pubdate": "2011",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "cave_hill_barbados",
-            "Pubdate": "2011",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
             "Translation": "n"
         }
     ],
