@@ -300,7 +300,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2011",
@@ -311,7 +311,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2014",
@@ -322,7 +322,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2019",
@@ -333,7 +333,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2013",
@@ -344,7 +344,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1983",
@@ -355,7 +355,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1982",
@@ -366,7 +366,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1986",
@@ -377,7 +377,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1987",
@@ -388,7 +388,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1984",
@@ -399,7 +399,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1975",
@@ -410,7 +410,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1988",
@@ -421,7 +421,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1982",
@@ -432,7 +432,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1984",
@@ -1802,39 +1802,6 @@
             "Pubdate": "2005",
             "Publisher": "Riverbank Press",
             "Title": "There's No Place Like...",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2010",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Translator: Jeanine Herman",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "lincoln_ne_united¬†states",
-            "Pubdate": "2015",
-            "Publisher": "University of Nebraska Press",
-            "Title": "Savage seasons",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Translator: Ingeborg Schmutte",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "berlin_germany",
-            "Pubdate": "2013",
-            "Publisher": "Trier Litradukt ",
-            "Title": "Vor dem Verdursten",
             "Translation": "y"
         },
         {

@@ -495,7 +495,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Non fiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2001",
@@ -506,7 +506,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Non fiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2001",
@@ -3593,7 +3593,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1948",
@@ -3604,7 +3604,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1948",
@@ -4535,160 +4535,6 @@
             "Publisher": "L'Imprimeur S.A.",
             "Title": "Aux frontières de la soif : roman",
             "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Contributors: Jean-Claude Fignolé",
-            "Genre": "Non Fiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2015",
-            "Publisher": "Magellan & Cie Édition",
-            "Title": "Nouvelles d'Haïti",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Contributors: Jean-Claude Fignolé",
-            "Genre": "Non Fiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2015",
-            "Publisher": "Magellan & Cie Édition",
-            "Title": "Nouvelles d'Haïti",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Original Publication Date: 2010",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2011",
-            "Publisher": "Gallimard",
-            "Title": "Saisons sauvages",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Original Publication Date: 2010",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2011",
-            "Publisher": "Gallimard",
-            "Title": "Saisons sauvages",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2018",
-            "Publisher": "Mémoire d'encrier",
-            "Title": "L'heure hybride",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2018",
-            "Publisher": "Mémoire d'encrier",
-            "Title": "L'heure hybride",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2018",
-            "Publisher": "Mercure de France",
-            "Title": "L'ange du patriarche : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2018",
-            "Publisher": "Mercure de France",
-            "Title": "L'ange du patriarche : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2007",
-            "Publisher": "La Roque-d'Anthéron",
-            "Title": "Kasalé",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2007",
-            "Publisher": "La Roque-d'Anthéron",
-            "Title": "Kasalé",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2008",
-            "Publisher": "Mercure de France",
-            "Title": "Fado : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2008",
-            "Publisher": "Mercure de France",
-            "Title": "Fado : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "port_au__prince_haiti",
-            "Pubdate": "2014",
-            "Publisher": "L'Imprimeur S.A.",
-            "Title": "Aux frontières de la soif : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "port_au__prince_haiti",
-            "Pubdate": "2014",
-            "Publisher": "L'Imprimeur S.A.",
-            "Title": "Aux frontières de la soif : roman",
-            "Translation": "n"
         }
     ],
     "kwolek": [
@@ -5065,7 +4911,7 @@
         {
             "Author": "Max A Antoine",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1968",
@@ -5076,7 +4922,7 @@
         {
             "Author": "Max A Antoine",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1968",
@@ -5753,7 +5599,7 @@
         {
             "Author": "Michelle Gargar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2007",
@@ -5764,7 +5610,7 @@
         {
             "Author": "Michelle Gargar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2007",
@@ -5893,7 +5739,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1933",
@@ -5904,7 +5750,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1933",
@@ -5915,7 +5761,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1932",
@@ -5926,7 +5772,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1932",
@@ -5937,7 +5783,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "niort_france",
             "Pubdate": "1933",
@@ -5948,7 +5794,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "niort_france",
             "Pubdate": "1933",
@@ -6119,7 +5965,7 @@
         {
             "Author": "Néstor Ponce",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "rennes_france",
             "Pubdate": "2010",
@@ -6130,7 +5976,7 @@
         {
             "Author": "Néstor Ponce",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "rennes_france",
             "Pubdate": "2010",
@@ -7465,7 +7311,7 @@
         {
             "Author": "Timothée Paret",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1932",
@@ -7476,7 +7322,7 @@
         {
             "Author": "Timothée Paret",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1932",
