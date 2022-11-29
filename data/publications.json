@@ -2499,7 +2499,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Non fiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2001",
@@ -2919,7 +2919,7 @@
         {
             "Author": "Andrea Stuart",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london__england",
             "Pubdate": "1996",
@@ -4521,7 +4521,7 @@
         {
             "Author": "Chiara Bettelli Lelio",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2018",
@@ -6690,11 +6690,11 @@
             "Translation": "n"
         }
     ],
-    "crwilliams ": [
+    "crwilliams": [
         {
-            "Author": "Cynric R. Williams ",
+            "Author": "Cynric R. Williams",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2015",
@@ -6703,9 +6703,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Cynric R. Williams ",
+            "Author": "Cynric R. Williams",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1827",
@@ -8286,7 +8286,7 @@
         {
             "Author": "Delfín Rodríguez-Silva",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "miami_fl_united¬†states",
             "Pubdate": "2020",
@@ -8402,7 +8402,7 @@
         {
             "Author": "Desmond V Nicholson",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "st._john's_antigua_&_barbuda",
             "Pubdate": "1983",
@@ -12326,7 +12326,7 @@
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1995",
@@ -12370,7 +12370,7 @@
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1982",
@@ -12469,7 +12469,7 @@
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1997",
@@ -15117,7 +15117,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1934",
@@ -15128,7 +15128,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1935",
@@ -15139,7 +15139,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1913",
@@ -15150,7 +15150,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1917",
@@ -15755,7 +15755,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "los_angeles_ca_united¬†states",
             "Pubdate": "2012",
@@ -15858,7 +15858,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2013",
@@ -16225,7 +16225,7 @@
         {
             "Author": "Ian E Robertson",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "2014",
@@ -17490,7 +17490,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1948",
@@ -21281,7 +21281,7 @@
         {
             "Author": "Kettly Mars",
             "Descriptor": "Contributors: Jean-Claude Fignolé",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2015",
@@ -21373,7 +21373,7 @@
             "Language": "German",
             "Pub_id": "berlin_germany",
             "Pubdate": "2013",
-            "Publisher": "Trier Litradukt ",
+            "Publisher": "Trier Litradukt",
             "Title": "Vor dem Verdursten",
             "Translation": "y"
         }
@@ -22057,7 +22057,7 @@
         {
             "Author": "Lázaro Gómez Carriles",
             "Descriptor": "Jorge Ronet, Nestor Almendros, Reinaldo Arenas",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1987",
@@ -22136,7 +22136,7 @@
         {
             "Author": "Lorna Goodison",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2018",
@@ -22285,7 +22285,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2011",
@@ -22296,7 +22296,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2014",
@@ -22307,7 +22307,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2019",
@@ -22318,7 +22318,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2013",
@@ -22329,7 +22329,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1983",
@@ -22340,7 +22340,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1982",
@@ -22351,7 +22351,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1986",
@@ -22362,7 +22362,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1987",
@@ -22373,7 +22373,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1984",
@@ -22384,7 +22384,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1975",
@@ -22395,7 +22395,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1988",
@@ -22406,7 +22406,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1982",
@@ -22417,7 +22417,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1984",
@@ -23487,7 +23487,7 @@
         {
             "Author": "Max A Antoine",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1968",
@@ -25377,7 +25377,7 @@
         {
             "Author": "Michelle Gargar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2007",
@@ -26547,7 +26547,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "1982",
@@ -26643,7 +26643,7 @@
         {
             "Author": "Martin Munro",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2006",
@@ -26907,7 +26907,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1933",
@@ -26918,7 +26918,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1932",
@@ -26929,7 +26929,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "niort_france",
             "Pubdate": "1933",
@@ -27232,7 +27232,7 @@
         {
             "Author": "Manuel Zapata Olivella",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2022",
@@ -27819,7 +27819,7 @@
         {
             "Author": "Nancy Morejón",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "north_melbourne_australia",
             "Pubdate": "2005",
@@ -27876,7 +27876,7 @@
         {
             "Author": "Néstor Ponce",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "rennes_france",
             "Pubdate": "2010",
@@ -28340,7 +28340,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1983",
@@ -28395,7 +28395,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "2014",
@@ -28483,7 +28483,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2003",
@@ -28538,7 +28538,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "bloomington_in_united_states",
             "Pubdate": "1992",
@@ -29728,7 +29728,7 @@
             "Author": "Peekash Press",
             "Descriptor": "",
             "Genre": "Anthology",
-            "Language": "test",
+            "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&¬†tobago",
             "Pubdate": "2014",
             "Publisher": "Peekash Press",
@@ -32776,7 +32776,7 @@
         {
             "Author": "Sekou Toure",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "san_francisco_ca_united¬†states",
             "Pubdate": "1972",
@@ -33047,7 +33047,7 @@
         {
             "Author": "Timothée Paret",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1932",

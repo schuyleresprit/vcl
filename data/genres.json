@@ -1139,7 +1139,7 @@
             "Author": "Peekash Press",
             "Descriptor": "",
             "Genre": "Anthology",
-            "Language": "test",
+            "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&¬†tobago",
             "Pubdate": "2014",
             "Publisher": "Peekash Press",
@@ -9085,105 +9085,6 @@
             "Publisher": "Mercure de France",
             "Title": "L'Hôtel du bon Plaisir",
             "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2010",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Translator: Jeanine Herman",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "lincoln_ne_united¬†states",
-            "Pubdate": "2015",
-            "Publisher": "University of Nebraska Press",
-            "Title": "Savage seasons",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Original Publication Date: 2010",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2011",
-            "Publisher": "Gallimard",
-            "Title": "Saisons sauvages",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2018",
-            "Publisher": "Mémoire d'encrier",
-            "Title": "L'heure hybride",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2018",
-            "Publisher": "Mercure de France",
-            "Title": "L'ange du patriarche : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2007",
-            "Publisher": "La Roque-d'Anthéron",
-            "Title": "Kasalé",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2008",
-            "Publisher": "Mercure de France",
-            "Title": "Fado : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "port_au__prince_haiti",
-            "Pubdate": "2014",
-            "Publisher": "L'Imprimeur S.A.",
-            "Title": "Aux frontières de la soif : roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Translator: Ingeborg Schmutte",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "berlin_germany",
-            "Pubdate": "2013",
-            "Publisher": "Trier Litradukt ",
-            "Title": "Vor dem Verdursten",
-            "Translation": "y"
         },
         {
             "Author": "Martha Blanchard",
@@ -25899,163 +25800,38 @@
     ],
     "Nonfiction": [
         {
-            "Author": "Desmond V Nicholson",
+            "Author": "Ezequiel Vieta",
             "Descriptor": "",
             "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "st._john's_antigua_&_barbuda",
-            "Pubdate": "1983",
-            "Publisher": "Desmond Nicholson",
-            "Title": "The Story Of The Arawaks In Antigua & Barbuda And Barbuda",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1995",
+            "Publisher": "Editorial Letras Cubanas",
+            "Title": "Teatro Completo",
             "Translation": "n"
         },
         {
-            "Author": "Milo Rigaud",
+            "Author": "Ezequiel Vieta",
             "Descriptor": "",
             "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "vienne_france",
-            "Pubdate": "1933",
-            "Publisher": "\"Amis de la Poésie",
-            "Title": "Jásus Ou Legba? Ecole Du Symbolisme Afro-Haitien",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1982",
+            "Publisher": "Editorial Letras Cubanas",
+            "Title": "Mi llamada es",
             "Translation": "n"
         },
         {
-            "Author": "Milo Rigaud",
+            "Author": "Ezequiel Vieta",
             "Descriptor": "",
             "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "vienne_france",
-            "Pubdate": "1932",
-            "Publisher": "J. Marciraux",
-            "Title": "Rhythmes Et Rites",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1997",
+            "Publisher": "Union de Escritores y Artistas de Cuba",
+            "Title": "Mundo Subterráneo: Puertas Secretas, Ciudades Sumergidas Y Utopías Bajo Tierra",
             "Translation": "n"
         },
-        {
-            "Author": "Milo Rigaud",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "niort_france",
-            "Pubdate": "1933",
-            "Publisher": "Editions l'Action intellectuelle,",
-            "Title": "Tassos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Martin Munro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2006",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Reinterpreting The Haitian Revolution And It's Cultural Aftershocks",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Contributors: Jean-Claude Fignolé",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2015",
-            "Publisher": "Magellan & Cie Édition",
-            "Title": "Nouvelles d'Haïti",
-            "Translation": "n"
-        },
-        {
-            "Author": "Chiara Bettelli Lelio",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "2018",
-            "Publisher": "Morellini",
-            "Title": "Test a test : conosci davvero te stessa?",
-            "Translation": "n"
-        },
-        {
-            "Author": "Manuel Zapata Olivella",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2022",
-            "Publisher": "Routledge",
-            "Title": "Changó, A New World Novel: Decolonizing The African Diaspora",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jean-Joseph Vilaire",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1948",
-            "Publisher": "Imp. Telhomme",
-            "Title": "L'Action De L'Élite Noire A Saint Domingue, Suivi La Guerre Aux Aînés (Ètudes)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynric R. Williams",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2015",
-            "Publisher": "Scholar's Choice",
-            "Title": "A Tour Through Jamaica in 1823. - Scholar's Choice Edition",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynric R. Williams ",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1827",
-            "Publisher": "London Hunt and Clarke",
-            "Title": "Hamel, The Obeah Man",
-            "Translation": "n"
-        },
-        {
-            "Author": "Ian E Robertson",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Education Issues in Creole and Creole-Influenced Vernac",
-            "Translation": "n"
-        },
-        {
-            "Author": "Herbert J. Reifer",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "scott's_valley_ca_united¬†states",
-            "Pubdate": "2013",
-            "Publisher": "CreateSpace Independent Publishing Platform",
-            "Title": "How To Help Your Children to Read and Write Effectively by Mr. Herbert J Reifer",
-            "Translation": "n"
-        }
-    ],
-    "Nonfiction": [
-        {
-            "Author": "Arlette Minatchy-Bogat",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "petit_bourg_guadeloupe",
-            "Pubdate": "2001",
-            "Publisher": "Ibis Rouge",
-            "Title": "Terre D'Exil Et D'Adoption",
-            "Translation": "n"
-        }
-    ],
-    "Nonfiction": [
         {
             "Author": "Guillermo Cabrera Infante",
             "Descriptor": "",
@@ -26099,6 +25875,17 @@
             "Publisher": "De Gruyter",
             "Title": "Caribbean Languages Lesser Known Varieties",
             "Translation": "y"
+        },
+        {
+            "Author": "Néstor Ponce",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "rennes_france",
+            "Pubdate": "2010",
+            "Publisher": "University of Rennes 2",
+            "Title": "Leonardo Padura",
+            "Translation": "n"
         },
         {
             "Author": "Eric Eustace Williams",
@@ -26200,6 +25987,215 @@
             "Translation": "n"
         },
         {
+            "Author": "Delfín Rodríguez-Silva",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "miami_fl_united¬†states",
+            "Pubdate": "2020",
+            "Publisher": "Ediciones Universal",
+            "Title": "Cronologia Martiana: LA Ruta Apostolica De Jose Marti 1853-1895",
+            "Translation": "n"
+        },
+        {
+            "Author": "Timothée Paret",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1932",
+            "Publisher": "Jouve & Cie",
+            "Title": "Dans La Mélange: Pensées, Conférences, Discours, Etc. (1916-1931)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Max A Antoine",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1968",
+            "Publisher": "Impr. H. Deschamps",
+            "Title": "Louis Etienne Lysius Félicité Salomon Jeune",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1982",
+            "Publisher": "Caribbean Quarterly",
+            "Title": "Louise Bennett in Print",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2011",
+            "Publisher": "Lennox Honychurch",
+            "Title": "The Archaeology Of Dominica",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2014",
+            "Publisher": "Island Heritage Initiatives",
+            "Title": "Negre Mawon: The Fighting Maroons Of Dominica",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "University Press of Mississippi",
+            "Title": "In The Forests Of Freedom: The Fighting Maroons Of Dominica",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2013",
+            "Publisher": "Island Heritage Initiatives",
+            "Title": "Dominica's Cabrits And Prince Rupert's Bay",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Dominica Institute for the Arts",
+            "Title": "Cabrits And Prince Ruperts Bay",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Dominica Institute for the Arts",
+            "Title": "The Cabrits And Prince Rupert's Bay: History & Nature Notes",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1986",
+            "Publisher": "Nelson Caribbean",
+            "Title": "Caribbean Landmarks: Historic Events And Sites",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1987",
+            "Publisher": "Dominican National Cultural Council",
+            "Title": "Our Island Culture",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1984",
+            "Publisher": "Dominica Institute for the Arts",
+            "Title": "The Dominica Story: A History Of The Island",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1975",
+            "Publisher": "Macmillan Publishers",
+            "Title": "The Dominica Story: A History Of The Island",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1988",
+            "Publisher": "Dominican National Cultural Council",
+            "Title": "Our Island Culture",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Dominican National Cultural Council",
+            "Title": "Our Island Culture",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lennox Honychurch",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1984",
+            "Publisher": "Dominican National Cultural Council",
+            "Title": "Our Island Culture",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nancy Morejón",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "north_melbourne_australia",
+            "Pubdate": "2005",
+            "Publisher": "Ocean Press",
+            "Title": "Letters-Of-Love-Hope",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lázaro Gómez Carriles",
+            "Descriptor": "Jorge Ronet, Nestor Almendros, Reinaldo Arenas",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "madrid_spain",
+            "Pubdate": "1987",
+            "Publisher": "Editorial Playor",
+            "Title": "Desertores Del Paraíso: Testimonio De Uno De Los Diez Mil Ochocientos Cubanos Asilados En La Elmbajada Del Perú En Havana En Abril De 1980",
+            "Translation": "n"
+        },
+        {
             "Author": "Milagros Ricourt",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -26222,6 +26218,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Andrea Stuart",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london__england",
+            "Pubdate": "1996",
+            "Publisher": "Jonathan Cape",
+            "Title": "Showgirls",
+            "Translation": "n"
+        },
+        {
             "Author": "Julie K Lundgren",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -26230,6 +26237,17 @@
             "Pubdate": "2011",
             "Publisher": "Educa Vision",
             "Title": "Adaptasyon Animal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Arlette Minatchy-Bogat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "petit_bourg_guadeloupe",
+            "Pubdate": "2001",
+            "Publisher": "Ibis Rouge",
+            "Title": "Terre D'Exil Et D'Adoption",
             "Translation": "n"
         },
         {
@@ -26321,6 +26339,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Desmond V Nicholson",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "st._john's_antigua_&_barbuda",
+            "Pubdate": "1983",
+            "Publisher": "Desmond Nicholson",
+            "Title": "The Story Of The Arawaks In Antigua & Barbuda And Barbuda",
+            "Translation": "n"
+        },
+        {
             "Author": "Marilyn Bobes León",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -26340,6 +26369,61 @@
             "Pubdate": "2001",
             "Publisher": "Ediciones Instituto Movilizador de Fondos Cooperativos C.L",
             "Title": "Cuentistas Cubanas de Hoy",
+            "Translation": "n"
+        },
+        {
+            "Author": "Milo Rigaud",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "vienne_france",
+            "Pubdate": "1933",
+            "Publisher": "\"Amis de la Poésie",
+            "Title": "Jásus Ou Legba? Ecole Du Symbolisme Afro-Haitien",
+            "Translation": "n"
+        },
+        {
+            "Author": "Milo Rigaud",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "vienne_france",
+            "Pubdate": "1932",
+            "Publisher": "J. Marciraux",
+            "Title": "Rhythmes Et Rites",
+            "Translation": "n"
+        },
+        {
+            "Author": "Milo Rigaud",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "niort_france",
+            "Pubdate": "1933",
+            "Publisher": "Editions l'Action intellectuelle,",
+            "Title": "Tassos",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lorna Goodison",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2018",
+            "Publisher": "Myriad Editions",
+            "Title": "Redemption Ground: Essays And Adventures",
+            "Translation": "n"
+        },
+        {
+            "Author": "Michelle Gargar",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "matoury_french_guiana",
+            "Pubdate": "2007",
+            "Publisher": "Ibis Rouge",
+            "Title": "La Vérité Du Sang",
             "Translation": "n"
         },
         {
@@ -26486,6 +26570,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Sekou Toure",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "san_francisco_ca_united¬†states",
+            "Pubdate": "1972",
+            "Publisher": "Black World Foundation",
+            "Title": "The Black Scholar January 1972 Journal Of Black Studies And Research",
+            "Translation": "n"
+        },
+        {
             "Author": "Margarite Fernández Olmos",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -26494,6 +26589,72 @@
             "Pubdate": "2003",
             "Publisher": "New York University Press",
             "Title": "Creole Religions of the Caribbean",
+            "Translation": "n"
+        },
+        {
+            "Author": "Martin Munro",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "2006",
+            "Publisher": "University of the West Indies Press",
+            "Title": "Reinterpreting The Haitian Revolution And It's Cultural Aftershocks",
+            "Translation": "n"
+        },
+        {
+            "Author": "H. G. De Lisser",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1934",
+            "Publisher": "Planters' Punch",
+            "Title": "Statistical Sir Arthur",
+            "Translation": "n"
+        },
+        {
+            "Author": "H. G. De Lisser",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1935",
+            "Publisher": "Planters' Punch",
+            "Title": "Lewis and the Little Ones",
+            "Translation": "n"
+        },
+        {
+            "Author": "H. G. De Lisser",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1913",
+            "Publisher": "Jamaica Times",
+            "Title": "Twentieth Century Jamaica",
+            "Translation": "n"
+        },
+        {
+            "Author": "H. G. De Lisser",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1917",
+            "Publisher": "The Gleaner Company Ltd.",
+            "Title": "Jamaica and the Great War",
+            "Translation": "n"
+        },
+        {
+            "Author": "H. G. De Lisser",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "los_angeles_ca_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Hardpress Publishing",
+            "Title": "Twentieth Century Jamaica",
             "Translation": "n"
         },
         {
@@ -26681,6 +26842,17 @@
             "Pubdate": "2009",
             "Publisher": "Createspace Independent Pub",
             "Title": "Along The Road",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2018",
+            "Publisher": "Morellini",
+            "Title": "Test a test : conosci davvero te stessa?",
             "Translation": "n"
         },
         {
@@ -26879,6 +27051,50 @@
             "Pubdate": "1989",
             "Publisher": "Unión de Escritores y Artistas de Cuba",
             "Title": "Mi Correspondencia con Lezama Lima",
+            "Translation": "n"
+        },
+        {
+            "Author": "Manuel Zapata Olivella",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2022",
+            "Publisher": "Routledge",
+            "Title": "Changó, A New World Novel: Decolonizing The African Diaspora",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jean-Joseph Vilaire",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1948",
+            "Publisher": "Imp. Telhomme",
+            "Title": "L'Action De L'Élite Noire A Saint Domingue, Suivi La Guerre Aux Aînés (Ètudes)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynric R. Williams",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2015",
+            "Publisher": "Scholar's Choice",
+            "Title": "A Tour Through Jamaica in 1823. - Scholar's Choice Edition",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynric R. Williams",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1827",
+            "Publisher": "London Hunt and Clarke",
+            "Title": "Hamel, The Obeah Man",
             "Translation": "n"
         },
         {
@@ -28180,6 +28396,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Ian E Robertson",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "2014",
+            "Publisher": "University of the West Indies Press",
+            "Title": "Education Issues in Creole and Creole-Influenced Vernac",
+            "Translation": "n"
+        },
+        {
             "Author": "Bukka Rennie",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -28939,6 +29166,50 @@
             "Translation": "n"
         },
         {
+            "Author": "Olive Senior",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1983",
+            "Publisher": "Heineman",
+            "Title": "A - Z Of Jamaican Heritage",
+            "Translation": "n"
+        },
+        {
+            "Author": "Olive Senior",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "2014",
+            "Publisher": "University of The West Indies Press",
+            "Title": "Dying To Better Themselves: West Indians And The Building Of The Panama Canal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Olive Senior",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "2003",
+            "Publisher": "Twin Guinep Publishers Ltd",
+            "Title": "The Encyclopedia of Jamaican Heritage",
+            "Translation": "n"
+        },
+        {
+            "Author": "Olive Senior",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "bloomington_in_united_states",
+            "Pubdate": "1992",
+            "Publisher": "Indiana University Press",
+            "Title": "Working Miracles: Women's Lives in the English-speaking Caribbean",
+            "Translation": "n"
+        },
+        {
             "Author": "René Maran",
             "Descriptor": "Co-Author: Paul Jouve",
             "Genre": "Nonfiction",
@@ -29277,6 +29548,17 @@
             "Pubdate": "2014",
             "Publisher": "Simon & Schuster",
             "Title": "Farewell, Fred Voodoo: A Letter From Haiti",
+            "Translation": "n"
+        },
+        {
+            "Author": "Herbert J. Reifer",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "scott's_valley_ca_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "CreateSpace Independent Publishing Platform",
+            "Title": "How To Help Your Children to Read and Write Effectively by Mr. Herbert J Reifer",
             "Translation": "n"
         },
         {
@@ -29874,409 +30156,11 @@
             "Translation": "y"
         }
     ],
-    "Nonfiction": [
-        {
-            "Author": "Olive Senior",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1983",
-            "Publisher": "Heineman",
-            "Title": "A - Z Of Jamaican Heritage",
-            "Translation": "n"
-        },
-        {
-            "Author": "Olive Senior",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "University of The West Indies Press",
-            "Title": "Dying To Better Themselves: West Indians And The Building Of The Panama Canal",
-            "Translation": "n"
-        },
-        {
-            "Author": "Olive Senior",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2003",
-            "Publisher": "Twin Guinep Publishers Ltd",
-            "Title": "The Encyclopedia of Jamaican Heritage",
-            "Translation": "n"
-        },
-        {
-            "Author": "Olive Senior",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "bloomington_in_united_states",
-            "Pubdate": "1992",
-            "Publisher": "Indiana University Press",
-            "Title": "Working Miracles: Women's Lives in the English-speaking Caribbean",
-            "Translation": "n"
-        }
-    ],
-    "Nonfiction": [
-        {
-            "Author": "Ezequiel Vieta",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1995",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "Teatro Completo",
-            "Translation": "n"
-        },
-        {
-            "Author": "Ezequiel Vieta",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1982",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "Mi llamada es",
-            "Translation": "n"
-        },
-        {
-            "Author": "Ezequiel Vieta",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1997",
-            "Publisher": "Union de Escritores y Artistas de Cuba",
-            "Title": "Mundo Subterráneo: Puertas Secretas, Ciudades Sumergidas Y Utopías Bajo Tierra",
-            "Translation": "n"
-        },
-        {
-            "Author": "Néstor Ponce",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "rennes_france",
-            "Pubdate": "2010",
-            "Publisher": "University of Rennes 2",
-            "Title": "Leonardo Padura",
-            "Translation": "n"
-        },
-        {
-            "Author": "Delfín Rodríguez-Silva",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "miami_fl_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "Ediciones Universal",
-            "Title": "Cronologia Martiana: LA Ruta Apostolica De Jose Marti 1853-1895",
-            "Translation": "n"
-        },
-        {
-            "Author": "Timothée Paret",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1932",
-            "Publisher": "Jouve & Cie",
-            "Title": "Dans La Mélange: Pensées, Conférences, Discours, Etc. (1916-1931)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Max A Antoine",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1968",
-            "Publisher": "Impr. H. Deschamps",
-            "Title": "Louis Etienne Lysius Félicité Salomon Jeune",
-            "Translation": "n"
-        },
-        {
-            "Author": "Mervyn Morris",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1982",
-            "Publisher": "Caribbean Quarterly",
-            "Title": "Louise Bennett in Print",
-            "Translation": "n"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "2011",
-            "Publisher": "Lennox Honychurch",
-            "Title": "The Archaeology Of Dominica",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction,
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "2014",
-            "Publisher": "Island Heritage Initiatives",
-            "Title": "Negre Mawon: The Fighting Maroons Of Dominica",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "2019",
-            "Publisher": "University Press of Mississippi",
-            "Title": "In The Forests Of Freedom: The Fighting Maroons Of Dominica",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "2013",
-            "Publisher": "Island Heritage Initiatives",
-            "Title": "Dominica's Cabrits And Prince Rupert's Bay",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1983",
-            "Publisher": "Dominica Institute for the Arts",
-            "Title": "Cabrits And Prince Ruperts Bay",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1982",
-            "Publisher": "Dominica Institute for the Arts",
-            "Title": "The Cabrits And Prince Rupert's Bay: History & Nature Notes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1986",
-            "Publisher": "Nelson Caribbean",
-            "Title": "Caribbean Landmarks: Historic Events And Sites",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1987",
-            "Publisher": "Dominican National Cultural Council",
-            "Title": "Our Island Culture",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1984",
-            "Publisher": "Dominica Institute for the Arts",
-            "Title": "The Dominica Story: A History Of The Island",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1975",
-            "Publisher": "Macmillan Publishers",
-            "Title": "The Dominica Story: A History Of The Island",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1988",
-            "Publisher": "Dominican National Cultural Council",
-            "Title": "Our Island Culture",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1982",
-            "Publisher": "Dominican National Cultural Council",
-            "Title": "Our Island Culture",
-            "Translation": "y"
-        },
-        {
-            "Author": "Lennox Honychurch",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1984",
-            "Publisher": "Dominican National Cultural Council",
-            "Title": "Our Island Culture",
-            "Translation": "y"
-        },
-        {
-            "Author": "Nancy Morejón",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "north_melbourne_australia",
-            "Pubdate": "2005",
-            "Publisher": "Ocean Press",
-            "Title": "Letters-Of-Love-Hope",
-            "Translation": "n"
-        },
-        {
-            "Author": "Lázaro Gómez Carriles",
-            "Descriptor": "Jorge Ronet, Nestor Almendros, Reinaldo Arenas",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "1987",
-            "Publisher": "Editorial Playor",
-            "Title": "Desertores Del Paraíso: Testimonio De Uno De Los Diez Mil Ochocientos Cubanos Asilados En La Elmbajada Del Perú En Havana En Abril De 1980",
-            "Translation": "n"
-        },
-        {
-            "Author": "Andrea Stuart",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "1996",
-            "Publisher": "Jonathan Cape",
-            "Title": "Showgirls",
-            "Translation": "n"
-        },
-        {
-            "Author": "Lorna Goodison",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2018",
-            "Publisher": "Myriad Editions",
-            "Title": "Redemption Ground: Essays And Adventures",
-            "Translation": "n"
-        },
-        {
-            "Author": "Michelle Gargar",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "matoury_french_guiana",
-            "Pubdate": "2007",
-            "Publisher": "Ibis Rouge",
-            "Title": "La Vérité Du Sang",
-            "Translation": "n"
-        },
-        {
-            "Author": "Sekou Toure",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "san_francisco_ca_united¬†states",
-            "Pubdate": "1972",
-            "Publisher": "Black World Foundation",
-            "Title": "The Black Scholar January 1972 Journal Of Black Studies And Research",
-            "Translation": "n"
-        },
-        {
-            "Author": "H. G. De Lisser",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1934",
-            "Publisher": "Planters' Punch",
-            "Title": "Statistical Sir Arthur",
-            "Translation": "n"
-        },
-        {
-            "Author": "H. G. De Lisser",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1935",
-            "Publisher": "Planters' Punch",
-            "Title": "Lewis and the Little Ones",
-            "Translation": "n"
-        },
-        {
-            "Author": "H. G. De Lisser",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1913",
-            "Publisher": "Jamaica Times",
-            "Title": "Twentieth Century Jamaica",
-            "Translation": "n"
-        },
-        {
-            "Author": "H. G. De Lisser",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1917",
-            "Publisher": "The Gleaner Company Ltd.",
-            "Title": "Jamaica and the Great War",
-            "Translation": "n"
-        },
-        {
-            "Author": "H. G. De Lisser",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "los_angeles_ca_united¬†states",
-            "Pubdate": "2012",
-            "Publisher": "Hardpress Publishing",
-            "Title": "Twentieth Century Jamaica",
-            "Translation": "n"
-        },
+    "Nonfiction Book": [
         {
             "Author": "Lowell J Ragatz",
             "Descriptor": "",
-            "Genre": "Nonfiction",
+            "Genre": "Nonfiction Book",
             "Language": "English",
             "Pub_id": "washington_dc_united¬†states",
             "Pubdate": "1932",
