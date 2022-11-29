@@ -1,20 +1,9 @@
 {
     "": [
         {
-            "Author": "Richardo Keens-Douglas",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "scotts_valley_ca_united_states",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
             "Author": "Denise Harris",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "",
@@ -34,108 +23,9 @@
             "Translation": "y"
         },
         {
-            "Author": "Cyril Dabydeen",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "toronto_on_canada",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
-            "Author": "Patrick Sylvain",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "lynn_ma_united¬†states",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
-            "Author": "Lloyd King",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
-            "Author": "Lloyd King",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
-            "Author": "Lloyd King",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
-            "Author": "Lloyd King",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
-            "Author": "Lloyd King",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
-            "Author": "Lloyd King",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "",
-            "Translation": ""
-        },
-        {
-            "Author": "Lloyd King",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "",
-            "Publisher": " ",
-            "Title": "",
-            "Translation": ""
-        },
-        {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(short Story Collection)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "tunapuna_trinidad_&_tonbago",
             "Pubdate": "",
@@ -185,9 +75,9 @@
     ],
     "1827": [
         {
-            "Author": "Cynric R. Williams ",
+            "Author": "Cynric R. Williams",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1827",
@@ -278,7 +168,7 @@
         {
             "Author": "Walter Goodman",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1873",
@@ -291,7 +181,7 @@
         {
             "Author": "John W. Boddam-Whetham",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1879",
@@ -343,7 +233,7 @@
         {
             "Author": "David Augustus Straker",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "whitefish_mt_united¬†states",
             "Pubdate": "1888",
@@ -354,7 +244,7 @@
         {
             "Author": "David Augustus Straker",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "la_vergne_tn_united¬†states",
             "Pubdate": "1888",
@@ -663,7 +553,7 @@
         {
             "Author": "Edith Clarke",
             "Descriptor": "",
-            "Genre": "Cook Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1912",
@@ -698,7 +588,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1913",
@@ -759,7 +649,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1917",
@@ -1092,7 +982,7 @@
         {
             "Author": "Joseph Husband",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1925",
@@ -1215,7 +1105,7 @@
         {
             "Author": "Edith Clarke",
             "Descriptor": "",
-            "Genre": "Cook Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1927",
@@ -1272,7 +1162,7 @@
         {
             "Author": "Ramón De Palma",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1928",
@@ -1577,7 +1467,7 @@
         {
             "Author": "Timothée Paret",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1932",
@@ -1588,7 +1478,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1932",
@@ -1632,7 +1522,7 @@
         {
             "Author": "Lowell J Ragatz",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "washington_dc_united¬†states",
             "Pubdate": "1932",
@@ -1667,7 +1557,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "vienne_france",
             "Pubdate": "1933",
@@ -1678,7 +1568,7 @@
         {
             "Author": "Milo Rigaud",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "niort_france",
             "Pubdate": "1933",
@@ -1845,7 +1735,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1934",
@@ -1968,7 +1858,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1935",
@@ -2194,7 +2084,7 @@
         {
             "Author": "Elma Napier",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "1938",
@@ -2488,9 +2378,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Claude Thompson ",
+            "Author": "Claude Thompson",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1943",
@@ -2501,7 +2391,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -2512,7 +2402,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -2828,7 +2718,7 @@
         {
             "Author": "Great Britain Colonial Office",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1947",
@@ -2863,7 +2753,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1948",
@@ -2909,7 +2799,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1949",
@@ -3348,7 +3238,7 @@
         {
             "Author": "Mariano Brull",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish & French",
             "Pub_id": "paris_france",
             "Pubdate": "1954",
@@ -3370,7 +3260,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1954",
@@ -3719,7 +3609,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1958",
@@ -3831,7 +3721,7 @@
         {
             "Author": "Geoffrey Drayton",
             "Descriptor": "",
-            "Genre": "FictionFiction (Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "1959",
@@ -4198,7 +4088,7 @@
         {
             "Author": "Geoffrey Drayton",
             "Descriptor": "",
-            "Genre": "FictionFiction (Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "1961",
@@ -4288,7 +4178,7 @@
         {
             "Author": "Sylvia Wynter",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "manhattan_ny_united¬†states",
             "Pubdate": "1962",
@@ -4554,7 +4444,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
@@ -5121,7 +5011,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -5132,7 +5022,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -5213,7 +5103,7 @@
         {
             "Author": "Max A Antoine",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1968",
@@ -5310,7 +5200,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -5510,7 +5400,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -5521,7 +5411,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -5532,7 +5422,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -5853,7 +5743,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -5864,7 +5754,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -5910,7 +5800,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "santiago_chile",
             "Pubdate": "1970",
@@ -6152,7 +6042,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",
@@ -6361,7 +6251,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -6372,7 +6262,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -6383,7 +6273,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "",
             "Language": "English",
@@ -6462,7 +6352,7 @@
         {
             "Author": "Gus John ",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1971",
@@ -6539,7 +6429,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1971",
@@ -6552,7 +6442,7 @@
         {
             "Author": "Sekou Toure",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "san_francisco_ca_united¬†states",
             "Pubdate": "1972",
@@ -6638,7 +6528,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -6649,7 +6539,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Autobiography/Memoir",
             "Language": "English",
@@ -6862,7 +6752,7 @@
         {
             "Author": "Christine Craig",
             "Descriptor": "",
-            "Genre": "Nonfiction Books",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1973",
@@ -6884,7 +6774,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1973",
@@ -7027,7 +6917,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "English",
@@ -7038,7 +6928,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -7049,7 +6939,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -7060,7 +6950,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -7185,7 +7075,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1975",
@@ -7403,7 +7293,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -7414,7 +7304,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -7610,7 +7500,7 @@
             "Pub_id": "madrid_spain",
             "Pubdate": "1976",
             "Publisher": "Cultura Hispanica",
-            "Title": "La casa del silencio.\n",
+            "Title": "La casa del silencio.",
             "Translation": "n"
         },
         {
@@ -7790,29 +7680,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1976",
-            "Publisher": "Three Continents Press",
-            "Title": "Heremakhonon",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1976",
-            "Publisher": "Three Continents Press",
-            "Title": "Heremakhonon",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -8036,7 +7904,7 @@
         {
             "Author": "Maureen Warner-Lewis",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "benin_city_nigeria",
             "Pubdate": "1977",
@@ -8058,7 +7926,7 @@
         {
             "Author": "Marion O'Callaghan",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "paris_france",
             "Pubdate": "1977",
@@ -8069,7 +7937,7 @@
         {
             "Author": "Marion O'Callaghan",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "paris_france",
             "Pubdate": "1977",
@@ -8078,7 +7946,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -8089,7 +7957,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -8100,7 +7968,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -8111,7 +7979,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "Spanish",
@@ -8280,34 +8148,12 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1978",
             "Publisher": "Hatier",
             "Title": "Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1978",
-            "Publisher": "Hatier",
-            "Title": "Cahier d'un Retour au Pays Natal: Césaire : Analyse Critique",
             "Translation": "y"
         },
         {
@@ -8722,7 +8568,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1979",
@@ -8731,7 +8577,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -8742,7 +8588,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -8753,7 +8599,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -8764,7 +8610,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -8775,7 +8621,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -8786,7 +8632,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -8797,7 +8643,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "Spanish",
@@ -9066,7 +8912,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Anthology",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "bath_england",
             "Pubdate": "1980",
             "Publisher": "Persephone Press",
@@ -9296,7 +9142,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "1980",
@@ -9384,7 +9230,7 @@
         {
             "Author": "Milagros Rodríguez Cáceres",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "tafalla_spain",
             "Pubdate": "1980",
@@ -10003,17 +9849,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1981",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Une Saison à Rihata",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1981",
@@ -10033,7 +9868,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -10044,7 +9879,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -10055,7 +9890,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -10125,7 +9960,7 @@
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1982",
@@ -10180,7 +10015,7 @@
         {
             "Author": "Ángel Augier",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Biography",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1982",
@@ -10191,7 +10026,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "1982",
@@ -10202,7 +10037,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1982",
@@ -10213,7 +10048,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1982",
@@ -10893,7 +10728,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "English",
@@ -10904,7 +10739,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -10915,7 +10750,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -10926,7 +10761,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -10937,7 +10772,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -10972,8 +10807,8 @@
         {
             "Author": "Anthony Kellman",
             "Descriptor": "",
-            "Genre": "Poetry Collection ",
-            "Language": "English ",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "st._michael_barbados",
             "Pubdate": "1982",
             "Publisher": "Anthony Kellman",
@@ -11027,7 +10862,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1982",
@@ -11106,7 +10941,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1983",
@@ -11117,7 +10952,7 @@
         {
             "Author": "Desmond V Nicholson",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "st._john's_antigua_&_barbuda",
             "Pubdate": "1983",
@@ -11588,7 +11423,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -11599,7 +11434,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -11645,7 +11480,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1983",
@@ -11656,7 +11491,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1983",
@@ -11779,7 +11614,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1984",
@@ -11790,7 +11625,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1984",
@@ -11856,7 +11691,7 @@
         {
             "Author": "Jennie Wheatley",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1984",
@@ -12285,7 +12120,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Fiction (Novel)",
+            "Genre": "Nonfiction",
             "Language": "Dutch",
             "Pub_id": "Haarlem, Netherlands",
             "Pubdate": "1984",
@@ -12330,17 +12165,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1984",
-            "Publisher": "Éditions Robert Laffont",
-            "Title": "Les Murailles de Terre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "k√∂ln_germany",
             "Pubdate": "1984",
@@ -12374,17 +12198,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_n.y._united_states",
-            "Pubdate": "1984",
-            "Publisher": "Ballantine",
-            "Title": "Segu",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "Slovenian",
             "Pub_id": "murska_sobota_slovenia",
             "Pubdate": "1984",
@@ -12393,9 +12206,9 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
-            "Genre": "Bibliography",
+            "Genre": "Kamau (Edward) Brathwaite",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1984",
@@ -12404,7 +12217,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -12439,8 +12252,8 @@
         {
             "Author": "Anthony Kellman",
             "Descriptor": "",
-            "Genre": "Poetry Collection ",
-            "Language": "English ",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "st._michael_barbados",
             "Pubdate": "1984",
             "Publisher": "Anthony Kellman",
@@ -12672,7 +12485,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "1985",
@@ -12849,7 +12662,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Anthology",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "ann_arbor_mi_united¬†states",
             "Pubdate": "1985",
             "Publisher": "Firebrand Books",
@@ -13311,28 +13124,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1985",
-            "Publisher": "Viking Press",
-            "Title": "The Children of Segu",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1985",
-            "Publisher": "Viking Press",
-            "Title": "The Children of Segu",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1985",
@@ -13347,29 +13138,7 @@
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1985",
-            "Publisher": "Hatier",
-            "Title": "Pays Mele: Suivi de Nanna-ya",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
             "Publisher": "France Loisirs",
-            "Title": "La Terre en Miettes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1985",
-            "Publisher": "Éditions Robert Laffont",
             "Title": "La Terre en Miettes",
             "Translation": "y"
         },
@@ -13521,7 +13290,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1986",
@@ -13554,7 +13323,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "Wang, Jiaxiang",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "Chinese",
             "Pub_id": "beijing_china",
             "Pubdate": "1986",
@@ -13752,7 +13521,7 @@
         {
             "Author": "Roy Namba",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1986",
@@ -13973,39 +13742,6 @@
             "Author": "Maryse Condé",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "Rainbow Pocketboeken",
-            "Title": "Tituba de Zwarte Heks van Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1986",
-            "Publisher": "Mercure de France",
-            "Title": "Moi, Tituba, Sorcière Noire de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1986",
@@ -14036,18 +13772,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "bacrcelona_spain",
-            "Pubdate": "1986",
-            "Publisher": "Círculo de Lectores",
-            "Title": "La Bruja de Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -14058,7 +13783,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "English",
@@ -14069,7 +13794,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "French",
@@ -14260,7 +13985,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "1987",
@@ -14271,7 +13996,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1987",
@@ -14293,7 +14018,7 @@
         {
             "Author": "Lázaro Gómez Carriles",
             "Descriptor": "Jorge Ronet, Nestor Almendros, Reinaldo Arenas",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1987",
@@ -14415,7 +14140,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1987",
             "Publisher": "Dutton",
@@ -14775,7 +14500,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -14786,7 +14511,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -14876,7 +14601,7 @@
         {
             "Author": "Jorge Ronet",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1987",
@@ -14887,7 +14612,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "1987",
@@ -15087,7 +14812,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "1988",
@@ -15098,7 +14823,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1988",
@@ -15448,7 +15173,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -15459,7 +15184,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -15470,7 +15195,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -15527,7 +15252,7 @@
         {
             "Author": "Robert Nazaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1988",
@@ -15626,7 +15351,7 @@
         {
             "Author": "Jorge Ronet",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "madrid_spain",
             "Pubdate": "1988",
@@ -15670,7 +15395,7 @@
         {
             "Author": "Marlene Nourbese Phillip",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "portsmouth_nh_united_states",
             "Pubdate": "1988",
@@ -15793,7 +15518,7 @@
         {
             "Author": "Lorna Goodison",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Biography",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1989",
@@ -16198,18 +15923,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1989",
-            "Publisher": "Folio",
-            "Title": "Traversee de la Mangrove",
-            "Translation": "y"
-        },
-        {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16287,8 +16001,8 @@
         },
         {
             "Author": "Jean Bernabé",
-            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9 Co-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
-            "Genre": "Nonfiction Book",
+            "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9\nCo-Authors: Chamoiseau, Patrick; Confiant, Raphaël",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1989",
@@ -16299,7 +16013,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad",
             "Pubdate": "1989",
@@ -16387,7 +16101,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1989",
@@ -16477,7 +16191,7 @@
         {
             "Author": "George Lamming",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&¬†tobago",
             "Pubdate": "1990",
@@ -16533,7 +16247,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1990",
             "Publisher": "Dutton",
@@ -16543,7 +16257,7 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "alabama_united_states",
             "Pubdate": "1990",
@@ -16686,7 +16400,7 @@
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1990",
@@ -16697,7 +16411,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(Short Story Collection)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "tunapuna_trinidad_&_tonbago",
             "Pubdate": "1990",
@@ -16939,7 +16653,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "pointe_√ä_pitre_guadeloupe",
             "Pubdate": "1990",
@@ -16948,7 +16662,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -17016,8 +16730,8 @@
         {
             "Author": "Anthony Kellman",
             "Descriptor": "",
-            "Genre": "Poetry Collection ",
-            "Language": "English ",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "1990",
             "Publisher": "Peepal Tree Press",
@@ -17039,7 +16753,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "1990",
             "Publisher": "Educa Vision",
@@ -17205,7 +16919,7 @@
         {
             "Author": "Jennie Wheatley",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "boston_ma_united¬†states",
             "Pubdate": "1991",
@@ -17227,7 +16941,7 @@
         {
             "Author": "Colville N Young",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "benque_viejo_del_carmen_belize",
             "Pubdate": "1991",
@@ -17348,7 +17062,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1991",
@@ -17482,7 +17196,7 @@
         {
             "Author": "Velma Pollard",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "1992",
@@ -17625,7 +17339,7 @@
         {
             "Author": "Helen Klonaris",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "nassau_bahamas",
             "Pubdate": "1992",
@@ -17758,7 +17472,7 @@
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Anthology",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "",
             "Pubdate": "1992",
             "Publisher": "Greenfield Review Press",
@@ -17790,7 +17504,7 @@
         {
             "Author": "Maude Heurtelou",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "1992",
@@ -17812,7 +17526,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "bloomington_in_united_states",
             "Pubdate": "1992",
@@ -17823,7 +17537,7 @@
         {
             "Author": "N. D. Williams",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "1992",
@@ -17925,7 +17639,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1993",
             "Publisher": "Dutton",
@@ -18120,7 +17834,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -18131,7 +17845,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -18142,7 +17856,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -18153,7 +17867,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -18265,7 +17979,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Dutch",
             "Pub_id": "baarn_netherlands",
             "Pubdate": "1993",
@@ -18320,7 +18034,7 @@
         {
             "Author": "Robert D. Hamner",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "boulder_co_united¬†states",
             "Pubdate": "1993",
@@ -18650,7 +18364,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -18661,7 +18375,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -18672,7 +18386,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -18708,7 +18422,7 @@
             "Author": "Harischandra Khemraj",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "1994",
             "Publisher": "Peepal Tree Press",
@@ -18716,10 +18430,21 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1994",
+            "Publisher": "Vintage Books",
+            "Title": "Breath, Eyes, Memory",
+            "Translation": "n"
+        },
+        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "1994",
             "Publisher": "Peepal Tree Press",
@@ -18839,7 +18564,7 @@
         {
             "Author": "N. D. Williams",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "1994",
@@ -18861,7 +18586,7 @@
         {
             "Author": "Fabio Murrieta Rodríguez",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1994",
@@ -18896,7 +18621,7 @@
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1995",
@@ -18996,7 +18721,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1995",
             "Publisher": "Plume",
@@ -19028,7 +18753,7 @@
         {
             "Author": "Edward W. Said",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1995",
@@ -19127,12 +18852,12 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "poem",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "tunapuna_trinidad_&¬†tobago",
             "Pubdate": "1995",
             "Publisher": "G.V Ferguson",
-            "Title": "Vigil ",
+            "Title": "Vigil",
             "Translation": "n"
         },
         {
@@ -19169,7 +18894,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -19180,7 +18905,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -19189,6 +18914,28 @@
             "Publisher": "New Beacon Books",
             "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
             "Translation": ""
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1995",
+            "Publisher": "Pygmalion",
+            "Title": "Le Cri de L'oiseau Rouge",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1995",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
         },
         {
             "Author": "Lindsay Barrett",
@@ -19338,7 +19085,7 @@
         {
             "Author": "Andrea Stuart",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london__england",
             "Pubdate": "1996",
@@ -19514,7 +19261,7 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "alabama_united_states",
             "Pubdate": "1996",
@@ -19677,7 +19424,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -19688,7 +19435,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -19699,7 +19446,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -19743,10 +19490,54 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1996",
+            "Publisher": "Vintage Books",
+            "Title": "Krik? Krak!",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1996",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1996",
+            "Publisher": "Pygmalion",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "d√ºsseldorf_germany",
+            "Pubdate": "1996",
+            "Publisher": "Marion von Schröder Verlag",
+            "Title": "Atem, Augen, Erinnerungen",
+            "Translation": "y"
+        },
+        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
-            "Genre": "Poetry Collection ",
-            "Language": "English ",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "1996",
             "Publisher": "Peepal Tree Press",
@@ -19857,7 +19648,7 @@
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1997",
@@ -20141,20 +19932,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Michel Maxwell Phillip",
-            "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "English",
-            "Pub_id": "boston_ma_united¬†states",
-            "Pubdate": "1997",
-            "Publisher": "University of Massachusetts Press",
-            "Title": "Emmanuel Appadocca, Or, Blighted life: A Tale Of The Boucaneers",
-            "Translation": "n"
-        },
-        {
             "Author": "Jean Breeze",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "hexham_england",
             "Pubdate": "1997",
@@ -20163,7 +19943,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -20174,7 +19954,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -20218,6 +19998,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1997",
+            "Publisher": "Pocket Books",
+            "Title": "Le Cri de L'oiseau Rouge",
+            "Translation": "y"
+        },
+        {
             "Author": "Patrick Chamoiseau",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -20253,7 +20044,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "Translator: Chiara Arnone",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1997",
@@ -20275,7 +20066,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad",
             "Pubdate": "1997",
@@ -20286,7 +20077,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1997",
@@ -20597,7 +20388,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1998",
             "Publisher": "Houghton Mifflin Company",
@@ -20651,7 +20442,7 @@
         {
             "Author": "Cherie Jones",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "nashville_tn_united_states",
             "Pubdate": "1998",
@@ -20737,6 +20528,72 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1998",
+            "Publisher": "Penguin Books",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1998",
+            "Publisher": "Pocket Books",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1998",
+            "Publisher": "Muntinga",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1998",
+            "Publisher": "Ediciones del Bronce",
+            "Title": "Palabra, Ojos, Memoria",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1998",
+            "Publisher": "Soho Press",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1998",
+            "Publisher": "Soho Press",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
             "Author": "Eloísa Lezama Lima",
             "Descriptor": "",
             "Genre": "Biography",
@@ -20783,7 +20640,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1998",
@@ -21115,7 +20972,7 @@
         {
             "Author": "Llewellyn Emery",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "pembroke_bermuda",
             "Pubdate": "1999",
@@ -21126,7 +20983,7 @@
         {
             "Author": "Llewellyn Emery",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "pembroke_bermuda",
             "Pubdate": "1999",
@@ -21311,7 +21168,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -21331,6 +21188,116 @@
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "My Garden Book",
             "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1999",
+            "Publisher": "Fremad",
+            "Title": "Livet er en Underlig Gave",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Land Voor de Levenden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1999",
+            "Publisher": "Lumen",
+            "Title": "¿Krik? ¡Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1999",
+            "Publisher": "Círculo de lectores",
+            "Title": "Palabra, Ojos, Memoria",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1999",
+            "Publisher": "Abacus",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "m√ºnchen_germany",
+            "Pubdate": "1999",
+            "Publisher": "Claassen",
+            "Title": "Die Süße Saat Der Tränen: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "1999",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "1999",
+            "Publisher": "Pax Forlag",
+            "Title": "Ved Elven Massacre",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "buenos_aires",
+            "Pubdate": "1999",
+            "Publisher": "Grupo Editorial Norma",
+            "Title": "Cosecha de Huesos",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1999",
+            "Publisher": "Grasset",
+            "Title": "La Récolte Douce des Larmes",
+            "Translation": "y"
         },
         {
             "Author": "Patrick Chamoiseau",
@@ -21402,7 +21369,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "1999",
             "Publisher": "Educa Vision",
@@ -21456,7 +21423,7 @@
         {
             "Author": "Georges Sylvain",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1999",
@@ -21479,7 +21446,7 @@
             "Author": "Oonya Kempadoo",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1999",
             "Publisher": "Dutton",
@@ -21975,12 +21942,12 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "d'abadie_trinidad_&¬†tobago",
             "Pubdate": "2000",
             "Publisher": "Green Tree Press",
-            "Title": "Bluejean, A Novel ",
+            "Title": "Bluejean, A Novel",
             "Translation": "n"
         },
         {
@@ -22028,7 +21995,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -22039,7 +22006,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -22081,6 +22048,127 @@
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "Talk Stories",
             "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "2000",
+            "Publisher": "Pax Forlag",
+            "Title": "Pust, Blikk, Minne",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2000",
+            "Publisher": "Abacus",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "2000",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "2000",
+            "Publisher": "Lumen",
+            "Title": "Cosecha de Huesos",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hebrew",
+            "Pub_id": "tel_aviv_israel",
+            "Pubdate": "2000",
+            "Publisher": "Kinneret",
+            "Title": "Ḳene Ha-Sukar Ha-Marim",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2000",
+            "Publisher": "France Loisirs",
+            "Title": "La Récolte Douce des Larmes",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "m√ºnchen_germany",
+            "Pubdate": "2000",
+            "Publisher": "Deutscher Taschenbuch-Verlag",
+            "Title": "Die Süße Saat Der Tränen: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "2000",
+            "Publisher": "Lumen",
+            "Title": "El Cultivo de Huesos",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hungarian",
+            "Pub_id": "budapest_hungary",
+            "Pubdate": "2000",
+            "Publisher": "Európa",
+            "Title": "Vér Ès Cukornád",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "jyvaãàskylaãà_finland",
+            "Pubdate": "2000",
+            "Publisher": "Gummerus",
+            "Title": "Veressä Viljava Maa",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hebrew",
+            "Pub_id": "tel_aviv_israel",
+            "Pubdate": "2000",
+            "Publisher": "Kinneret",
+            "Title": "Kene Ha-sukar Ha-marim",
+            "Translation": "y"
         },
         {
             "Author": "Raoul Pantin",
@@ -22219,7 +22307,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Non fiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2001",
@@ -22481,7 +22569,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Drama",
             "Language": "English",
@@ -22492,7 +22580,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -22514,10 +22602,21 @@
             "Translation": "y"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2001",
+            "Publisher": "Éditions Grasset et Fasquelle",
+            "Title": "La Récolte Douce des Larmes",
+            "Translation": "y"
+        },
+        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
-            "Genre": "Poetry Collection ",
-            "Language": "English ",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2001",
             "Publisher": "Peepal Tree Press",
@@ -22583,7 +22682,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2001",
             "Publisher": "Educa Vision",
@@ -22593,7 +22692,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2001",
@@ -22936,7 +23035,7 @@
         {
             "Author": "Adisa Andwele",
             "Descriptor": "",
-            "Genre": "Poems",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2002",
@@ -23101,7 +23200,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "portsmouth_united¬†states",
             "Pubdate": "2002",
@@ -23198,7 +23297,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -23209,7 +23308,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -23220,7 +23319,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -23231,7 +23330,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -23255,8 +23354,8 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(short story)",
-            "Language": "English ",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "2002",
             "Publisher": "Heinemann",
@@ -23266,8 +23365,8 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(short story)",
-            "Language": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "2002",
             "Publisher": "Heinemann",
@@ -23277,7 +23376,7 @@
         {
             "Author": "Gilberto Mendonça Teles",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "frankfurt_md_spain",
             "Pubdate": "2002",
@@ -23309,8 +23408,8 @@
         },
         {
             "Author": "Merle Hodge",
-            "Descriptor": "Translator: Barbara Müller ",
-            "Genre": "Fiction",
+            "Descriptor": "Translator: Barbara Müller",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "munich_germany",
             "Pubdate": "2002",
@@ -23466,7 +23565,7 @@
         {
             "Author": "Velma Pollard",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2003",
@@ -23565,7 +23664,7 @@
         {
             "Author": "Adisa Andwele",
             "Descriptor": "",
-            "Genre": "Poems",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "st._michael_barbados",
             "Pubdate": "2003",
@@ -23730,7 +23829,7 @@
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "san_juan_trinidad_&¬†tobago",
             "Pubdate": "2003",
@@ -23741,7 +23840,7 @@
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2003",
@@ -23794,7 +23893,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -23819,7 +23918,7 @@
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2003",
             "Publisher": "Peepal Tree Press",
@@ -23829,8 +23928,8 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
-            "Language": "English ",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "2003",
             "Publisher": "Walker Books Ltd.",
@@ -23840,8 +23939,8 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
-            "Language": "English ",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "2003",
             "Publisher": "Hodder Education",
@@ -23851,7 +23950,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2003",
@@ -23906,7 +24005,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2003",
@@ -23929,7 +24028,7 @@
             "Author": "Oonya Kempadoo",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2003",
             "Publisher": "Farrar, Straus and Giroux",
@@ -24150,7 +24249,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2004",
@@ -24184,7 +24283,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "san_franciso_ca_united¬†states",
             "Pubdate": "2004",
             "Publisher": "City Lights Publishers",
@@ -24401,7 +24500,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -24412,7 +24511,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -24431,6 +24530,17 @@
             "Pubdate": "2004",
             "Publisher": "Ediciones Unión",
             "Title": "Fuga: Una Antología Personal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2004",
+            "Publisher": "Vintage Books",
+            "Title": "The Dew Breaker",
             "Translation": "n"
         },
         {
@@ -24458,7 +24568,7 @@
         {
             "Author": "Frits Wols",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "paramaribo_suriname",
             "Pubdate": "2004",
@@ -24469,7 +24579,7 @@
         {
             "Author": "Nailah Folami Imoja",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "portsmouth_nh_united_states",
             "Pubdate": "2004",
@@ -24522,6 +24632,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2004",
+            "Publisher": "Mango Publishing",
+            "Title": "Spirit Of Haiti",
+            "Translation": "n"
+        },
+        {
             "Author": "Dennis Scott",
             "Descriptor": "",
             "Genre": "Drama",
@@ -24546,8 +24667,8 @@
         {
             "Author": "Marcel Nérée",
             "Descriptor": "",
-            "Genre": "Fiction",
-            "Language": "test",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2004",
             "Publisher": "Ibis Rouge",
@@ -24658,7 +24779,7 @@
         {
             "Author": "Nancy Morejón",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "north_melbourne_australia",
             "Pubdate": "2005",
@@ -24691,7 +24812,7 @@
         {
             "Author": "Marilyn Bobes León",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "san_juan_puerto_rico",
             "Pubdate": "2005",
@@ -24845,7 +24966,7 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "st._augustine_trinidad_&¬†tobago",
             "Pubdate": "2005",
@@ -24942,7 +25063,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -24953,7 +25074,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -24964,7 +25085,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -25054,7 +25175,7 @@
         {
             "Author": "Maria Roberts-Squires",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2005",
@@ -25105,6 +25226,17 @@
             "Publisher": "Insomniac Press",
             "Title": "Over the Roofs of the World",
             "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "bogota_colombia",
+            "Pubdate": "2005",
+            "Publisher": "LaSirén Press",
+            "Title": "Loas. Spanish translation of Loneliness of Angels (A Novel)",
+            "Translation": "y"
         },
         {
             "Author": "Alexandra Isfahani-Hammond",
@@ -25331,7 +25463,7 @@
         {
             "Author": "Marie-Elena John",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2006",
@@ -25386,7 +25518,7 @@
         {
             "Author": "Martin Munro",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2006",
@@ -25584,7 +25716,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "peterborough_england",
             "Pubdate": "2006",
@@ -25617,7 +25749,7 @@
         {
             "Author": "Ylce Irizarry",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "thousand_oaks_ca_united¬†states",
             "Pubdate": "2006",
@@ -25626,7 +25758,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -25661,7 +25793,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2006",
@@ -25771,7 +25903,7 @@
         {
             "Author": "Earl G Long",
             "Descriptor": "",
-            "Genre": "Fiction ( novel",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_orleans_la_united¬†states",
             "Pubdate": "2006",
@@ -25960,7 +26092,7 @@
         {
             "Author": "Michelle Gargar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2007",
@@ -26010,17 +26142,6 @@
             "Pubdate": "2007",
             "Publisher": "Heinemann",
             "Title": "Bad Girls In School",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2007",
-            "Publisher": "La Roque-d'Anthéron",
-            "Title": "Kasalé",
             "Translation": "n"
         },
         {
@@ -26136,7 +26257,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "parker_united¬†states",
             "Pubdate": "2007",
@@ -26147,7 +26268,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "charles_village_united¬†states",
             "Pubdate": "2007",
@@ -26200,7 +26321,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
@@ -26224,7 +26345,7 @@
         {
             "Author": "Raoul Pantin",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2007",
@@ -26290,7 +26411,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "2007",
@@ -26301,7 +26422,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2007",
@@ -26312,7 +26433,7 @@
         {
             "Author": "Julia Alvarez",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2007",
@@ -26477,17 +26598,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2008",
-            "Publisher": "Mercure de France",
-            "Title": "Fado : roman",
-            "Translation": "n"
-        },
-        {
             "Author": "Robert Antoni",
             "Descriptor": "Nunez, Elizabeth; Kempadoo, Oonya; Espinet, Ramabai; Mootoo, Shani; Scott, Lawrence",
             "Genre": "Anthology",
@@ -26546,7 +26656,7 @@
             "Author": "Katia Wolek",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "French ",
+            "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "2008",
             "Publisher": "Danger Public",
@@ -26556,7 +26666,7 @@
         {
             "Author": "Anthony Nash",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2008",
@@ -26589,7 +26699,7 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2008",
@@ -26644,7 +26754,7 @@
         {
             "Author": "Sabrina Costanzo",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "messina_italy",
             "Pubdate": "2008",
@@ -26798,8 +26908,8 @@
         {
             "Author": "Anthony Kellman",
             "Descriptor": "",
-            "Genre": "Poetry Collection ",
-            "Language": "English ",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2008",
             "Publisher": "Peepal Tree Press",
@@ -26809,8 +26919,8 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
-            "Language": "English ",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2008",
             "Publisher": "Peepal Tree Press Ltd",
@@ -27064,7 +27174,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2009",
@@ -27131,7 +27241,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "minneapolis_mn_united¬†states",
             "Pubdate": "2009",
             "Publisher": "University of Minnesota Press",
@@ -27383,7 +27493,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2009",
@@ -27737,7 +27847,7 @@
         {
             "Author": "Néstor Ponce",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "rennes_france",
             "Pubdate": "2010",
@@ -27837,7 +27947,7 @@
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "minneapolis_mn_united¬†states",
             "Pubdate": "2010",
             "Publisher": "University of Minnesota Press",
@@ -27865,17 +27975,6 @@
             "Publisher": "Omnibus Press",
             "Title": "Fela: This Bitch Of A Life: The Authorized Biography Of Africa's Musical Genius",
             "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2010",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir",
-            "Translation": "y"
         },
         {
             "Author": "Beryl Gilroy",
@@ -28164,7 +28263,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -28175,7 +28274,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -28186,7 +28285,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -28238,6 +28337,17 @@
             "Pubdate": "2010",
             "Publisher": "Skyscape",
             "Title": "A Wish After Midnight",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2010",
+            "Publisher": "Peepal Tree Press",
+            "Title": "The Loneliness Of Angels",
             "Translation": "n"
         },
         {
@@ -28298,7 +28408,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2010",
@@ -28388,7 +28498,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2011",
@@ -28537,17 +28647,6 @@
             "Pubdate": "2011",
             "Publisher": "University of Michigan",
             "Title": "Adult Learners’ Understandings And Expectations Of Literacy And Their Impact On Participation In Adult Literacy Programs",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Original Publication Date: 2010",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2011",
-            "Publisher": "Gallimard",
-            "Title": "Saisons sauvages",
             "Translation": "n"
         },
         {
@@ -28872,7 +28971,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2011",
@@ -28969,7 +29068,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -28980,7 +29079,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -28991,7 +29090,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Anthology",
             "Language": "English",
@@ -29002,7 +29101,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -29022,6 +29121,61 @@
             "Publisher": "Ediciones Unión",
             "Title": "Antes Del Mediodía: Memoria Del Sueño",
             "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Soho Press",
+            "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Vintage Books",
+            "Title": "Create Dangerously: The Immigrant Artist at Work",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Akashic Books",
+            "Title": "Haiti Noir",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "",
+            "Pubdate": "2011",
+            "Publisher": "Sakuhinsha",
+            "Title": "Honegari no Toki",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "washington_d.c_united¬†states",
+            "Pubdate": "2011",
+            "Publisher": "IDB Cultural Center",
+            "Title": "Haiti: A Bi-Cultural Experience",
+            "Translation": "y"
         },
         {
             "Author": "Liesel Daisley",
@@ -29076,6 +29230,17 @@
             "Pubdate": "2011",
             "Publisher": "Cormorant Books",
             "Title": "Dancing Lessons",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2011",
+            "Publisher": "Peepal Tree Press",
+            "Title": "The Scorpion's Claw",
             "Translation": "n"
         },
         {
@@ -29413,7 +29578,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "los_angeles_ca_united¬†states",
             "Pubdate": "2012",
@@ -29435,7 +29600,7 @@
         {
             "Author": "Zadie Smith",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "toronto_on_canada",
             "Pubdate": "2012",
@@ -29578,7 +29743,7 @@
         {
             "Author": "Kwame Senu Neville Dawes",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2012",
@@ -29699,8 +29864,8 @@
         {
             "Author": "Anthony Kellman",
             "Descriptor": "",
-            "Genre": "Poetry Collection ",
-            "Language": "English ",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2012",
             "Publisher": "Peepal Tree Press",
@@ -29710,8 +29875,8 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
-            "Language": "English ",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2012",
             "Publisher": "Peepal Tree Press",
@@ -29722,7 +29887,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2012",
             "Publisher": "Educa Vision",
@@ -29733,7 +29898,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2012",
             "Publisher": "Educa Vision",
@@ -29744,7 +29909,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2012",
             "Publisher": "Educa Vision",
@@ -29755,7 +29920,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2012",
             "Publisher": "Educa Vision",
@@ -29766,7 +29931,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2012",
             "Publisher": "Educa Vision",
@@ -29777,7 +29942,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2012",
             "Publisher": "Educa Vision",
@@ -29930,7 +30095,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2012",
@@ -29974,7 +30139,7 @@
         {
             "Author": "Ibi Zoboi",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2012",
@@ -30042,7 +30207,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2013",
@@ -30097,7 +30262,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2013",
@@ -30108,7 +30273,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2013",
@@ -30150,17 +30315,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Kettly Mars",
-            "Descriptor": "Translator: Ingeborg Schmutte",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "berlin_germany",
-            "Pubdate": "2013",
-            "Publisher": "Trier Litradukt ",
-            "Title": "Vor dem Verdursten",
-            "Translation": "y"
-        },
-        {
             "Author": "Robert Antoni",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -30185,7 +30339,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "2013",
@@ -30306,7 +30460,7 @@
         {
             "Author": "D.F. Les Pierre-Luke",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2013",
@@ -30349,8 +30503,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: Jean Charbonneau,  Leah Chamberlain, Scott Wolven, Tristan Davies, Paul D. Brazill, JJ Toner,  Alan Ward Thomas, Cortright McMeel ",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: Jean Charbonneau, Leah Chamberlain, Scott Wolven, Tristan Davies, Paul D. Brazill, JJ Toner, Alan Ward Thomas, Cortright McMeel",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
@@ -30361,7 +30515,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
@@ -30371,17 +30525,17 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: Suparn Verma, Samrat, Cortright McMeel, Yaeer Talker,  Kshemendra, Jonathan Sturak, Graham Wynd,  David Siddell, Richard Godwin ",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: Suparn Verma, Samrat, Cortright McMeel, Yaeer Talker, Kshemendra, Jonathan Sturak, Graham Wynd, David Siddell, Richard Godwin",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
             "Publisher": "Noir Nation Books",
-            "Title": "Noir Nation: International Crime Fiction No. 3: The India Issue ",
+            "Title": "Noir Nation: International Crime Fiction No. 3: The India Issue",
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "French",
@@ -30422,6 +30576,17 @@
             "Pubdate": "2013",
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "See Now Then",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_ny_united_states",
+            "Pubdate": "2013",
+            "Publisher": "Akashic Books",
+            "Title": "Haiti Noir",
             "Translation": "n"
         },
         {
@@ -30494,7 +30659,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2013",
             "Publisher": "Educa Vision",
@@ -30504,7 +30669,7 @@
         {
             "Author": "Junot Diaz",
             "Descriptor": "Obejas, Achy",
-            "Genre": "Fiction (Short Story)",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "Spanish",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2013",
@@ -30532,6 +30697,17 @@
             "Pubdate": "2013",
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "The Deep",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "waterloo_canada",
+            "Pubdate": "2013",
+            "Publisher": "Wilfrid Laurier University Press",
+            "Title": "From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic",
             "Translation": "n"
         },
         {
@@ -30657,19 +30833,19 @@
         },
         {
             "Author": "Herbert J. Reifer",
-            "Descriptor": "",
-            "Genre": "Fiction",
+            "Descriptor": null,
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2013",
             "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "Rich Paupers",
-            "Translation": "n"
+            "Translation": "159"
         },
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2013",
@@ -30814,7 +30990,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2014",
@@ -30952,17 +31128,6 @@
             "Pubdate": "2014",
             "Publisher": "Frances Lincoln Children's Books",
             "Title": "Uno dos tres : my first Spanish rhymes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "port_au__prince_haiti",
-            "Pubdate": "2014",
-            "Publisher": "L'Imprimeur S.A.",
-            "Title": "Aux frontières de la soif : roman",
             "Translation": "n"
         },
         {
@@ -31242,8 +31407,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Co-Author: Thea Von Harbou ",
-            "Genre": "Fiction",
+            "Descriptor": "Co-Author: Thea Von Harbou",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2014",
@@ -31253,8 +31418,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: Jonathan Sturak, Marina Perezagua, Richard Godwin, Lauren Cahn, Rob Brunet, Melodie Campbell, Bianca Bellova,  Mary Agnes Fleming, George Beck",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: Jonathan Sturak, Marina Perezagua, Richard Godwin, Lauren Cahn, Rob Brunet, Melodie Campbell, Bianca Bellova, Mary Agnes Fleming, George Beck",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2014",
@@ -31264,8 +31429,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: A.J. Sidransky, Frank Sonderborg, Barbie Wilde, Lindsay Moran,  Lauren Cahn, Doug Levy, Diane Vacca",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: A.J. Sidransky, Frank Sonderborg, Barbie Wilde, Lindsay Moran, Lauren Cahn, Doug Levy, Diane Vacca",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2014",
@@ -31276,7 +31441,7 @@
         {
             "Author": "Ian E Robertson",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "2014",
@@ -31298,7 +31463,7 @@
         {
             "Author": "Bukka Rennie",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "kingston_jam_jamaica",
             "Pubdate": "2014",
@@ -31309,7 +31474,7 @@
         {
             "Author": "Jonathan De La Rosa",
             "Descriptor": "",
-            "Genre": "Fiction ",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "diego_martin_trinidad_&¬†tobago",
             "Pubdate": "2014",
@@ -31338,6 +31503,28 @@
             "Publisher": "City Lights Booksellers & Publishers",
             "Title": "Haiti Glass",
             "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2014",
+            "Publisher": "Quercus",
+            "Title": "Claire of the Sea Light",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2014",
+            "Publisher": "Akashic Books",
+            "Title": "Haiti Noir 2: The Classics",
+            "Translation": "n"
         },
         {
             "Author": "Maude Heurtelou",
@@ -31530,7 +31717,7 @@
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2014",
             "Publisher": "Educa Vision",
@@ -31540,7 +31727,7 @@
         {
             "Author": "Elina Valovirta",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "amsterdam_netherlands",
             "Pubdate": "2014",
@@ -31573,7 +31760,7 @@
         {
             "Author": "Didacus Jules",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "2014",
@@ -31585,7 +31772,7 @@
             "Author": "Peekash Press",
             "Descriptor": "",
             "Genre": "Anthology",
-            "Language": "test",
+            "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&¬†tobago",
             "Pubdate": "2014",
             "Publisher": "Peekash Press",
@@ -31606,7 +31793,7 @@
         {
             "Author": "Jake Hugh Reece Wilson",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "rhyl_wales",
             "Pubdate": "2014",
@@ -31672,7 +31859,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "Nonfiction ",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "2014",
@@ -31991,28 +32178,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Kettly Mars",
-            "Descriptor": "Contributors: Jean-Claude Fignolé",
-            "Genre": "Non Fiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2015",
-            "Publisher": "Magellan & Cie Édition",
-            "Title": "Nouvelles d'Haïti",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "Translator: Jeanine Herman",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "lincoln_ne_united¬†states",
-            "Pubdate": "2015",
-            "Publisher": "University of Nebraska Press",
-            "Title": "Savage seasons",
-            "Translation": "y"
-        },
-        {
             "Author": "Martha Blanchard",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -32059,7 +32224,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2015",
@@ -32136,7 +32301,7 @@
         {
             "Author": "Helen Klonaris",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "toronto_canada",
             "Pubdate": "2015",
@@ -32189,9 +32354,9 @@
             "Translation": "n"
         },
         {
-            "Author": "Cynric R. Williams ",
+            "Author": "Cynric R. Williams",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2015",
@@ -32268,7 +32433,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "westminster_england",
             "Pubdate": "2015",
@@ -32356,7 +32521,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2015",
@@ -32433,7 +32598,7 @@
         {
             "Author": "Pierre Alex Jeanty",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "lehigh_acres_fl_united¬†states",
             "Pubdate": "2015",
@@ -32455,7 +32620,7 @@
         {
             "Author": "Évelyne Trouillot",
             "Descriptor": "Paul Curtis Daw; Jason Herbeck",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "charlottesville_va_united¬†states",
             "Pubdate": "2015",
@@ -32554,7 +32719,7 @@
         {
             "Author": "Zee Edgell",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "2015",
@@ -32686,7 +32851,7 @@
         {
             "Author": "Naomi Jackson",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2015",
@@ -32908,7 +33073,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2016",
@@ -32930,7 +33095,7 @@
         {
             "Author": "David Augustus Straker",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "detroit_mi_united_states",
             "Pubdate": "2016",
@@ -33029,7 +33194,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "carlsbad_united¬†states",
             "Pubdate": "2016",
@@ -33040,18 +33205,18 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "chicago_il_united¬†states",
             "Pubdate": "2016",
             "Publisher": "Motivational Press",
-            "Title": "I Choose Me ",
+            "Title": "I Choose Me",
             "Translation": "n"
         },
         {
             "Author": "Gerald Horne",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2016",
@@ -33128,7 +33293,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "pretoria_south_africa",
             "Pubdate": "2016",
@@ -33148,7 +33313,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -33239,7 +33404,7 @@
             "Author": "Katia D. Ulysse",
             "Descriptor": "Kula Moore (Illustrator)",
             "Genre": "Fiction (Novel)",
-            "Language": "Hatian Creole",
+            "Language": "Haitian Creole",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2016",
             "Publisher": "One Moore Book",
@@ -33293,7 +33458,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2016",
@@ -33394,7 +33559,7 @@
         {
             "Author": "Juan Francisco Manzano",
             "Descriptor": "",
-            "Genre": "Poetry Collections",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "london_united¬†kingdom",
             "Pubdate": "2017",
@@ -33416,7 +33581,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2017",
@@ -33427,7 +33592,7 @@
         {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "petit_bourg_guadeloupe",
             "Pubdate": "2017",
@@ -33548,7 +33713,7 @@
         {
             "Author": "Michaellee James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2017",
@@ -33559,7 +33724,7 @@
         {
             "Author": "Helen Klonaris",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "2017",
@@ -33657,8 +33822,8 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: Gary Phillips, Tatiana Eva-Marie, JC Hopkins ",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: Gary Phillips, Tatiana Eva-Marie, JC Hopkins",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2017",
@@ -33678,7 +33843,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -33689,7 +33854,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -33700,7 +33865,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -33711,7 +33876,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -33722,7 +33887,7 @@
             "Translation": ""
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -33746,7 +33911,7 @@
         {
             "Author": "Simon Schama",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2017",
@@ -33786,6 +33951,17 @@
             "Publisher": "Ediciones Unión",
             "Title": "A Wa Nile, Poesias",
             "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "montr√©al_canada",
+            "Pubdate": "2017",
+            "Publisher": "La Magnétothèque",
+            "Title": "La Récolte Douce des Larmes",
+            "Translation": "y"
         },
         {
             "Author": "Maude Heurtelou",
@@ -34221,7 +34397,7 @@
         {
             "Author": "Lorna Goodison",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2018",
@@ -34296,28 +34472,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2018",
-            "Publisher": "Mémoire d'encrier",
-            "Title": "L'heure hybride",
-            "Translation": "n"
-        },
-        {
-            "Author": "Kettly Mars",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2018",
-            "Publisher": "Mercure de France",
-            "Title": "L'ange du patriarche : roman",
-            "Translation": "n"
-        },
-        {
             "Author": "Josie Peterson",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -34386,7 +34540,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scotts_valley_united¬†states",
             "Pubdate": "2018",
@@ -34430,7 +34584,7 @@
         {
             "Author": "Chiara Bettelli Lelio",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2018",
@@ -34497,7 +34651,7 @@
             "Author": "Wallace Williams ",
             "Descriptor": "",
             "Genre": "Biography",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "saint_croix_virgin_islands",
             "Pubdate": "2018",
             "Publisher": "Virgin Islands Council on the Arts Project",
@@ -34540,7 +34694,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2018",
@@ -34661,7 +34815,7 @@
         {
             "Author": "Marcia Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2018",
@@ -34883,7 +35037,7 @@
         {
             "Author": "Lennox Honychurch",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2019",
@@ -34960,7 +35114,7 @@
         {
             "Author": "Zadie Smith",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2019",
@@ -34982,7 +35136,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "jackson_united¬†states",
             "Pubdate": "2019",
@@ -34993,7 +35147,7 @@
         {
             "Author": "Donna Every",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "chicago_united¬†states",
             "Pubdate": "2019",
@@ -35146,13 +35300,13 @@
         },
         {
             "Author": "Eddie Vega",
-            "Descriptor": "Contributors: George Perreault, Bianca Bellova, Adam Ward, David Keaton, Ava Black ,Simon Rowe, Barbie Wilde, JJ Toner, Deborah Pintonelli ",
-            "Genre": "Fiction",
+            "Descriptor": "Contributors: George Perreault, Bianca Bellova, Adam Ward, David Keaton, Ava Black ,Simon Rowe, Barbie Wilde, JJ Toner, Deborah Pintonelli",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2019",
             "Publisher": "Noir Nation Books",
-            "Title": "Noir Nation No. 7: The Golden Fedora Poetry Prize Issue ",
+            "Title": "Noir Nation No. 7: The Golden Fedora Poetry Prize Issue",
             "Translation": "n"
         },
         {
@@ -35169,7 +35323,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2019",
@@ -35178,7 +35332,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
@@ -35213,7 +35367,7 @@
         {
             "Author": "Claire Adam",
             "Descriptor": "",
-            "Genre": "Fiction(novel)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "richmond_londonland",
             "Pubdate": "2019",
@@ -35224,8 +35378,8 @@
         {
             "Author": "Curdella Forbes",
             "Descriptor": "",
-            "Genre": "Fiction(Novel)",
-            "Language": "English ",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
             "Pub_id": "brooklyn_ny_ny_united_states",
             "Pubdate": "2019",
             "Publisher": "Akashic Books",
@@ -35332,6 +35486,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Forlaget Rebel With a Cause",
+            "Title": "Englenes Ensomhed",
+            "Translation": "n"
+        },
+        {
             "Author": "Evan Jones",
             "Descriptor": "",
             "Genre": "",
@@ -35378,7 +35543,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2019",
@@ -35523,7 +35688,7 @@
         {
             "Author": "Delfín Rodríguez-Silva",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "miami_fl_united¬†states",
             "Pubdate": "2020",
@@ -35708,9 +35873,9 @@
             "Translation": "n"
         },
         {
-            "Author": " Margaret Busby",
+            "Author": "Margaret Busby",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Anthology",
             "Language": "English",
             "Pub_id": "brighton_england",
             "Pubdate": "2020",
@@ -35754,7 +35919,7 @@
         {
             "Author": "Lauren Willig",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2020",
@@ -35864,7 +36029,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2020",
@@ -35928,10 +36093,54 @@
             "Translation": "y"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Vintage Books",
+            "Title": "Everything Inside",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Vintage Books",
+            "Title": "Everything Inside",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Vintage Books",
+            "Title": "Everything Inside",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "2020",
+            "Publisher": "Bokförlaget Tranan",
+            "Title": "Att Skörda Ben",
+            "Translation": "y"
+        },
+        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
-            "Language": "English ",
+            "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2020",
             "Publisher": "Peepal Tree Press",
@@ -35963,7 +36172,7 @@
         {
             "Author": "Juan Carlos Nunez",
             "Descriptor": "",
-            "Genre": "N/A",
+            "Genre": "Anthology",
             "Language": "Spanish",
             "Pub_id": "guadalajara_mexico",
             "Pubdate": "2020",
@@ -36013,6 +36222,17 @@
             "Pubdate": "2020",
             "Publisher": "Rosetta Press",
             "Title": "On My Block",
+            "Translation": "n"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "urbana_il_united¬†states",
+            "Pubdate": "2020",
+            "Publisher": "University of Illinois Press",
+            "Title": "Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora",
             "Translation": "n"
         },
         {
@@ -36350,7 +36570,7 @@
         {
             "Author": "Jose Prats Sariol",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "valencia_spain",
             "Pubdate": "2021",
@@ -36469,9 +36689,9 @@
             "Translation": "n"
         },
         {
-            "Author": " Maisy Card",
+            "Author": "Maisy Card",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2021",
@@ -36590,7 +36810,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -36601,7 +36821,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Kamau (Edward) Brathwaite",
+            "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -36623,9 +36843,20 @@
             "Translation": "y"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2021",
+            "Publisher": "Asphalte Éditions",
+            "Title": "Haïti Noir",
+            "Translation": "y"
+        },
+        {
             "Author": "Rachel Afi Quinn",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "champaign_il_united_states",
             "Pubdate": "2021",
@@ -36821,6 +37052,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2021",
+            "Publisher": "HarperCollins",
+            "Title": "What Storm, What Thunder",
+            "Translation": "n"
+        },
+        {
             "Author": " Myriam J. A Chancy  ",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -36922,7 +37164,7 @@
         {
             "Author": "Ibi Zoboi",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2021",
@@ -37067,7 +37309,7 @@
         {
             "Author": "Manuel Zapata Olivella",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2022",
@@ -37100,7 +37342,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2022",
@@ -37111,7 +37353,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "2022",
@@ -37122,7 +37364,7 @@
         {
             "Author": "Vanessa Riley",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2022",
@@ -37346,7 +37588,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "bacrcelona_spain",
             "Pubdate": "NA",
@@ -37368,7 +37610,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "NA",
@@ -37379,7 +37621,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "NA",
@@ -37407,17 +37649,6 @@
             "Pubdate": "NA",
             "Publisher": "Bayard Presse",
             "Title": "Victor et les Barricades",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "NA",
-            "Publisher": "Bayard Presse",
-            "Title": "Haïti Chérie",
             "Translation": "y"
         },
         {

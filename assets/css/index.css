@@ -131,13 +131,10 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 
 }
 
-.languages #data-container {
+.languages #data-container, .authors #data-container, .genres #data-container {
     margin-bottom: 20px !important;
 }
 
-.authors #data-container {
-    margin-bottom: 20px !important;
-}
 .mt-5 {
     margin-top: 0rem!important;
 }

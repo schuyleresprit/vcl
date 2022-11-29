@@ -27,7 +27,7 @@ permalink: /mmorris
             <div class="dot"></div>
             <div class="right">
                 <h1>Seven Jamaican poets : an anthology of recent poetry</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/415qUdnoFDL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Bolivar Press<br/>
@@ -54,38 +54,12 @@ permalink: /mmorris
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Louise Bennett in Print</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51Aj5uR-rRL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Caribbean Quarterly<br/>
                 Pub_location: Mona, Jamaica<br/>
                 Genre: Nonfiction<br/>
                 Length: 104</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1983</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Focus: An Anthology of Contemporary Jamaican Writing</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md30474909095.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Caribbean Authors Publishing Co.<br/>
-                Pub_location: Kingston, Jamaica<br/>
-                Genre: Anthology<br/>
-                Length: 294</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="left">1983</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Focus: An Anthology of Contemporary Jamaican Writing</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Caribbean Authors Publishing Co.<br/>
-                Pub_location: Kingston, Jamaica<br/>
-                Genre: Anthology<br/>
-                Length: 294</p>
             </div>
         </div>
         <div class="block">
@@ -121,6 +95,8 @@ permalink: /mmorris
                 <p>Language: English<br/>
                 Publisher: Women and Development Studies, University of the West Indies<br/>
                 Pub_location: Mona, Jamaica<br/></p>
+		    Genre: Poetry Collection<br/>
+                Length: 11</p>
             </div>
         </div>
         <div class="block">
@@ -128,7 +104,7 @@ permalink: /mmorris
             <div class="dot"></div>
             <div class="right hide">
                 <h1>On Holy Week: A Sequence of Poems for Radio</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=BDtbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73Q5RQVYBCx9G6aHiP4XkYDAt-mFyLvIlLSg8TzdwawE81BDZGiwtBRqccZEl8JNvNajrBvSbXCfwQM54xCPWrwj5vc8znOyptfoJ80CoBjkAtzNm-H_4nKRrw7atskeaDh5aC4"></p>
                 <p>Language: English<br/>
                 Publisher: Pathways Publications<br/>
                 Pub_location: Kingston, Jamaica<br/>
@@ -141,7 +117,7 @@ permalink: /mmorris
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Faber Book of Contemporary Caribbean Short Stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41PsvhlSkdL._SX351_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Faber and Faber<br/>
                 Pub_location: London, England<br/>
@@ -176,7 +152,6 @@ permalink: /mmorris
                 Length: 244</p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">

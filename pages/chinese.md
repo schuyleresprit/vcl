@@ -3,28 +3,25 @@ layout: default
 title: Chinese
 permalink: /chinese
 ---
-<html>
+Represented here are the authors who have written works in Chinese. Some of these may be texts translated into Chinese from other languages.
 
+<html>
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
 		</div>
-
 		<div id="data-container" class="row">
 		</div>
 	</div>
-
 	<script>
 		let datasets = [
 			{
-				"type" : "languages",
-				"url" : "/data/languages.json"
+				"type" : "chinese",
+				"url" : "/data/chinese.json"
 			}
 		];
-
 		var dataLinks = [];
-
 		$( document ).ready(function() {
 			for (i = 0; i < datasets.length; i++) {
 				dataLinks.push({
@@ -32,47 +29,34 @@ permalink: /chinese
 					"data" : siftData(datasets[i].url, datasets[i].type)
 				});
 			}
-
-		      for (i = 0; i < dataLinks.length; i++) {
-				$('#search-dropdown').append(`<option value="${dataLinks[i].type}">${dataLinks[i].type}</option>`);
-			}
-
 			//Set triggers
 			$('#search-box').on('input', function (event) {
 				showCategory(event.target.value);
 			})
-
 			//Populate page
-			setTimeout(showCategory, 5000);
+			setTimeout(showCategory, 1000);
 		});
-
 		function siftData (url, dataType) {
 			var temp = [];
-
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "authors":
+					case "chinese":
 						for (key in data) {
 							temp.push({
-								"flavorText" : data[key]["Chinese"],
-								"subtitle" : data[key]["language"],
-								"link" : data[key]["Author"]
+								"flavorText" : key,
+								"link" :  key
 							});
 						}
 						break;
-
 					default:
 						break;
 				}
 			});
-
 			return temp;
 		}
-
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
-
 			dataLinks.forEach(element => {
 				if ((filter == "") && element.data.length > 0) {
 					for (i = 0; i < element.data.length; i++) {
@@ -80,7 +64,7 @@ permalink: /chinese
 							<div class="card col-4">
 								<div class="card-body">
 									<h5 class="card-title">${element.data[i].flavorText}</h5>
-									<h6 class="card-subtitle mb-2 text-muted">${element.data[i].subtitle}</h6>
+									<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
 									<a href="/${element.data[i].link}" class="card-link">More</a>
 								</div>
 							</div>
@@ -93,7 +77,7 @@ permalink: /chinese
 								<div class="card col-4">
 									<div class="card-body">
 										<h5 class="card-title">${element.data[i].flavorText}</h5>
-										<h6 class="card-subtitle mb-2 text-muted">${element.data[i].subtitle}</h6>
+										<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
 										<a href="/${element.data[i].link}" class="card-link">More</a>
 									</div>
 								</div>

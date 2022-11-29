@@ -34,11 +34,9 @@ permalink: /mchancy
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Fiction<br/>
                 Length: 188
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
@@ -51,7 +49,6 @@ permalink: /mchancy
                 Publisher Location: Waterloo, Canada<br/>
                 Genre: Non Fiction<br/>
                 Length: 358
-
                 </p>
             </div>
         </div>
@@ -67,11 +64,9 @@ permalink: /mchancy
                 Publisher Location: Urbana, IL, United States<br/>
                 Genre: Non Fiction<br/>
                 Length: 246
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
@@ -84,11 +79,9 @@ permalink: /mchancy
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
                 Length: 320
-
                 </p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">

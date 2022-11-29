@@ -709,6 +709,94 @@
             "Publisher": "Muntinga",
             "Title": "Adem, Ogen, Herinnering",
             "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Land Voor de Levenden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Land Voor de Levenden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1996",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1996",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1995",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1995",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1998",
+            "Publisher": "Muntinga",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1998",
+            "Publisher": "Muntinga",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
         }
     ],
     "elovelace": [
@@ -879,7 +967,7 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Fiction (Novel)",
+            "Genre": "Nonfiction",
             "Language": "Dutch",
             "Pub_id": "Haarlem, Netherlands",
             "Pubdate": "1984",
@@ -890,34 +978,12 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Fiction (Novel)",
+            "Genre": "Nonfiction",
             "Language": "Dutch",
             "Pub_id": "Haarlem, Netherlands",
             "Pubdate": "1984",
             "Publisher": "In de Knipscheer",
             "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "In de Knipscheer",
-            "Title": "Tituba de Zwarte Heks van Salem",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "Amsterdam, Netherlands",
-            "Pubdate": "1986",
-            "Publisher": "In de Knipscheer",
-            "Title": "Tituba de Zwarte Heks van Salem",
             "Translation": "y"
         },
         {
@@ -971,7 +1037,7 @@
             "Language": "Dutch",
             "Pub_id": "Amsterdam, Netherlands",
             "Pubdate": "1986",
-            "Publisher": "Rainbow Pocketboeken",
+            "Publisher": "In de Knipscheer",
             "Title": "Tituba de Zwarte Heks van Salem",
             "Translation": "y"
         },
@@ -982,7 +1048,7 @@
             "Language": "Dutch",
             "Pub_id": "Amsterdam, Netherlands",
             "Pubdate": "1986",
-            "Publisher": "Rainbow Pocketboeken",
+            "Publisher": "In de Knipscheer",
             "Title": "Tituba de Zwarte Heks van Salem",
             "Translation": "y"
         }
@@ -991,7 +1057,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Dutch",
             "Pub_id": "baarn_netherlands",
             "Pubdate": "1993",
@@ -1002,7 +1068,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Dutch",
             "Pub_id": "baarn_netherlands",
             "Pubdate": "1993",

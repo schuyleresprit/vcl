@@ -7,17 +7,13 @@ from util import  Node
 
 # Maps names to a set of corresponding author_country
 countries = {}
-
 # Maps author_ids to a dictionary of: name, title, pubdate,  publisher
 authors = {}
-
-# Maps movie_ids to a dictionary of: title, year, stars (a set of person_ids)
+# Maps title_ids to a dictionary of: title, year, stars (a set of author_ids)
 languages = {}
-
 genres = {}
 names = {}
 titles = {}
-#
 
 
 def load_data(directory):
@@ -25,11 +21,11 @@ def load_data(directory):
     Load data from CSV files into memory.
     """
     # Load authors
-    with open(f"data/authors.json", encoding="utf-8") as f:
+    with open(f"data/publications.json", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             authors[row["id"]] = {
-                "name": row["Author"],
+                "name": row["Author"]
                 "author_id": row["author_id"],
                 "titles": set()
             }
@@ -48,13 +44,13 @@ def load_data(directory):
                 "language": set()
             }
 
-    # Load stars
+    # Load languages
     with open(f"{directory}/data/languages.json", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             try:
-                authors[row["person_id"]]["title"].add(row["movie_id"])
-                titles[row["movie_id"]]["language"].add(row["person_id"])
+                authors[row["author_id"]]["title"].add(row["title_id"])
+                titles[row["title_id"]]["language"].add(row["author_id"])
             except KeyError:
                 pass
 
@@ -69,12 +65,12 @@ def main():
     load_data(directory)
     print("Data loaded.")
 
-    source = person_id_for_name(input("Name: "))
+    source =  author_id_for_name(input("Name: "))
     if source is None:
-        sys.exit("Person not found.")
-    target = person_id_for_name(input("Name: "))
+        sys.exit("author not found.")
+    target = author_id_for_name(input("Name: "))
     if target is None:
-        sys.exit("Person not found.")
+        sys.exit("author not found.")
 
     path = shortest_path(source, target)
 
@@ -85,15 +81,15 @@ def main():
         print(f"{degrees} degrees of separation.")
         path = [(None, source)] + path
         for i in range(degrees):
-            person1 = authors[path[i][1]]["name"]
-            person2 = authors[path[i + 1][1]]["name"]
-            movie = titles[path[i + 1][0]]["title"]
-            print(f"{i + 1}: {person1} and {person2} starred in {movie}")
+            author1 = authors[path[i][1]]["name"]
+            author2 = authors[path[i + 1][1]]["name"]
+            title = titles[path[i + 1][0]]["title"]
+            print(f"{i + 1}: {author1} and {author2} starred in {title}")
 
 
 def shortest_path(source, target):
     """
-    Returns the shortest list of (movie_id, person_id) pairs
+    Returns the shortest list of (title_id, author_id) pairs
     that connect the source to the target.
 
     If no possible path, returns None.
@@ -126,7 +122,7 @@ def shortest_path(source, target):
             solution.reverse()
 
         explored.add(node)
-        children = neighbors_for_person(node.state)
+        children = neighbors_for_author(node.state)
         for child in children:
             child_node = Node(state=child[1], action=child[0],parent=node)
             frontier.add(child_node)
@@ -145,42 +141,42 @@ def shortest_path(source, target):
         return solution
 
 
-def person_id_for_name(name):
+def author_id_for_name(name):
     """
-    Returns the IMDB id for a person's name,
+    Returns the IMDB id for a author's name,
     resolving ambiguities as needed.
     """
-    person_ids = list(names.get(name.lower(), set()))
-    if len(person_ids) == 0:
+    author_ids = list(names.get(name.lower(), set()))
+    if len(author_ids) == 0:
         return None
-    elif len(person_ids) > 1:
+    elif len(author_ids) > 1:
         print(f"Which '{name}'?")
-        for person_id in person_ids:
-            person = authors[person_id]
-            name = person["name"]
-            birth = person["birth"]
-            print(f"ID: {person_id}, Name: {name}, Birth: {birth}")
+        for author_id in author_ids:
+            author = authors[author_id]
+            name = author["name"]
+            birth = author["birth"]
+            print(f"ID: {author_id}, Name: {name}, Birth: {birth}")
         try:
-            person_id = input("Intended Person ID: ")
-            if person_id in person_ids:
-                return person_id
+            author_id = input("Intended author ID: ")
+            if author_id in author_ids:
+                return author_id
         except ValueError:
             pass
         return None
     else:
-        return person_ids[0]
+        return author_ids[0]
 
 
-def neighbors_for_person(person_id):
+def neighbors_for_author(author_id):
     """
-    Returns (movie_id, person_id) pairs for authors
-    who starred with a given person.
+    Returns (title_id, author_id) pairs for authors
+    who starred with a given author.
     """
-    movie_ids = authors[person_id]["titles"]
+    title_ids = authors[author_id]["titles"]
     neighbors = set()
-    for movie_id in movie_ids:
-        for person_id in titles[movie_id]["stars"]:
-            neighbors.add((movie_id, person_id))
+    for title_id in title_ids:
+        for author_id in titles[title_id]["stars"]:
+            neighbors.add((title_id, author_id))
     return neighbors
 
 

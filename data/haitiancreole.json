@@ -1,9 +1,33 @@
 {
+    "kdulysse": [
+        {
+            "Author": "Katia D. Ulysse",
+            "Descriptor": "Kula Moore (Illustrator)",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2016",
+            "Publisher": "One Moore Book",
+            "Title": "Fabiola Goes To School",
+            "Translation": "y"
+        },
+        {
+            "Author": "Katia D. Ulysse",
+            "Descriptor": "Kula Moore (Illustrator)",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2016",
+            "Publisher": "One Moore Book",
+            "Title": "Fabiola Goes To School",
+            "Translation": "y"
+        }
+    ],
     "mheurtelou": [
         {
             "Author": "Maude Heurtelou",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "1992",
@@ -14,7 +38,7 @@
         {
             "Author": "Maude Heurtelou",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "1992",
@@ -358,6 +382,182 @@
             "Genre": "Fiction (Novel)",
             "Language": "Haitian Creole",
             "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "1999",
+            "Publisher": "Educa Vision",
+            "Title": "Seziman!: Pou Lafami Bonplezi",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "1999",
+            "Publisher": "Educa Vision",
+            "Title": "Seziman!: Pou Lafami Bonplezi",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "1990",
+            "Publisher": "Educa Vision",
+            "Title": "Anayiz Ap Aprann: Ljyèn",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "1990",
+            "Publisher": "Educa Vision",
+            "Title": "Anayiz Ap Aprann: Ljyèn",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Eske M Kapab: Istwa Ti Zwazo Jenn Nan",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Eske M Kapab: Istwa Ti Zwazo Jenn Nan",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Wi Ou Kapab: Istwa Ti Zwazo Jenn Nan",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Wi Ou Kapab: Istwa Ti Zwazo Jenn Nan",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Eske Nou Ka Antann Nou?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Eske Nou Ka Antann Nou?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Ann Antann Nou",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Ann Antann Nou",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Konte Sou Mwen",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Konte Sou Mwen",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Alix Se Fawouch",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2012",
+            "Publisher": "Educa Vision",
+            "Title": "Alix Se Fawouch",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
             "Pubdate": "2013",
             "Publisher": "Educa Vision",
             "Title": "Vakans An Ayiti",
@@ -504,6 +704,96 @@
             "Pubdate": "2017",
             "Publisher": "Educa Vision",
             "Title": "Tap Tabadap Pap Pap-Pap!",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2014",
+            "Publisher": "Educa Vision",
+            "Title": "Ann Aprann Sou Tolerans",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2014",
+            "Publisher": "Educa Vision",
+            "Title": "Ann Aprann Sou Tolerans",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Educa Vision",
+            "Title": "Neglijans Den Konsekans!",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Educa Vision",
+            "Title": "Neglijans Den Konsekans!",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2001",
+            "Publisher": "Educa Vision",
+            "Title": "Mwen Pito Fwi",
+            "Translation": ""
+        },
+        {
+            "Author": "Maude Heurtelou",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "coconut_creek_fl_united¬†states",
+            "Pubdate": "2001",
+            "Publisher": "Educa Vision",
+            "Title": "Mwen Pito Fwi",
+            "Translation": ""
+        }
+    ],
+    "mnérée": [
+        {
+            "Author": "Marcel Nérée",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "matoury_french_guiana",
+            "Pubdate": "2004",
+            "Publisher": "Ibis Rouge",
+            "Title": "Tanbouyé",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marcel Nérée",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Haitian Creole",
+            "Pub_id": "matoury_french_guiana",
+            "Pubdate": "2004",
+            "Publisher": "Ibis Rouge",
+            "Title": "Tanbouyé",
             "Translation": "n"
         }
     ],

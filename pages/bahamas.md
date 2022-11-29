@@ -17,7 +17,7 @@ permalink: /19
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://helenklonaris.files.wordpress.com/2017/10/sw17-helen-kloanris-1.jpg" width="50%" height="50%">
+          <img src="https://cdn.funcheap.com/wp-content/uploads/2017/07/cropped-img_89193.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -33,7 +33,7 @@ permalink: /19
     <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://i1.wp.com/shamsrumi.com.ng/wp-content/uploads/2018/12/Marion-Bethel-2.jpg?fit=932%2C494&ssl=1" width="50%" height="50%">
+       <img src="https://repeatingislands.files.wordpress.com/2014/06/tumblr_m86fnhqyom1qer96ro1_500.jpg" width="50%" height="50%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>

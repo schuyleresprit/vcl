@@ -71,7 +71,7 @@
         {
             "Author": "Chiara Bettelli Lelio",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2018",
@@ -82,7 +82,7 @@
         {
             "Author": "Chiara Bettelli Lelio",
             "Descriptor": "",
-            "Genre": "Non Fiction",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2018",
@@ -364,6 +364,50 @@
         }
     ],
     "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "2000",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "2000",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "1999",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "1999",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
         {
             "Author": "Edwidge Danticat",
             "Descriptor": "",
@@ -801,7 +845,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "Translator: Chiara Arnone",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1997",
@@ -812,7 +856,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "Translator: Chiara Arnone",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1997",
@@ -919,7 +963,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",
@@ -930,7 +974,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",
@@ -967,7 +1011,7 @@
         {
             "Author": "Sabrina Costanzo",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "messina_italy",
             "Pubdate": "2008",
@@ -978,7 +1022,7 @@
         {
             "Author": "Sabrina Costanzo",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "messina_italy",
             "Pubdate": "2008",
