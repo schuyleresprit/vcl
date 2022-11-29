@@ -265,7 +265,7 @@ permalink: /12
           </div>
             <div class="vesti-desc">
               <a class="desc-a" href="#">
-                <h4><a href="/karthur"> Kevyn Alan Arthur </a></h4>
+                <h4><a href="/kaarthur"> Kevyn Alan Arthur </a></h4>
               </a>
             </div>
           </div>
