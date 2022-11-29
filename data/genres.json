@@ -30156,11 +30156,11 @@
             "Translation": "y"
         }
     ],
-    "Nonfiction Book": [
+    "Nonfiction": [
         {
             "Author": "Lowell J Ragatz",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "washington_dc_united¬†states",
             "Pubdate": "1932",
@@ -30697,9 +30697,9 @@
             "Translation": "n"
         },
         {
-            "Author": " Myriam J. A Chancy  ",
+            "Author": "Myriam J. A Chancy",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "waterloo_canada",
             "Pubdate": "2013",
@@ -30708,9 +30708,9 @@
             "Translation": "n"
         },
         {
-            "Author": " Myriam J. A Chancy  ",
+            "Author": "Myriam J. A Chancy",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "urbana_il_united¬†states",
             "Pubdate": "2020",
@@ -30721,7 +30721,7 @@
         {
             "Author": "Julia Alvarez",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2007",
@@ -30732,7 +30732,7 @@
         {
             "Author": "Milagros Rodríguez Cáceres",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "tafalla_spain",
             "Pubdate": "1980",
@@ -30743,7 +30743,7 @@
         {
             "Author": "Robert D. Hamner",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "boulder_co_united¬†states",
             "Pubdate": "1993",
@@ -30754,7 +30754,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1971",
@@ -30765,7 +30765,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",
@@ -30776,7 +30776,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1989",
@@ -30787,7 +30787,7 @@
         {
             "Author": "Ibi Zoboi",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2021",
@@ -30798,7 +30798,7 @@
         {
             "Author": "Ibi Zoboi",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2012",
@@ -30809,7 +30809,7 @@
         {
             "Author": "John W. Boddam-Whetham",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1879",
@@ -30818,11 +30818,11 @@
             "Translation": "n"
         }
     ],
-    "Nonfiction Books": [
+    "Nonfiction": [
         {
             "Author": "Christine Craig",
             "Descriptor": "",
-            "Genre": "Nonfiction Books",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1973",
@@ -30831,11 +30831,11 @@
             "Translation": "n"
         }
     ],
-    "Nonfiction book": [
+    "Nonfiction": [
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "carlsbad_united¬†states",
             "Pubdate": "2016",
@@ -30846,7 +30846,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "parker_united¬†states",
             "Pubdate": "2007",
@@ -30857,7 +30857,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "portsmouth_united¬†states",
             "Pubdate": "2002",
@@ -30868,7 +30868,7 @@
         {
             "Author": "Cynthia James",
             "Descriptor": "",
-            "Genre": "Nonfiction book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "chicago_il_united¬†states",
             "Pubdate": "2016",
