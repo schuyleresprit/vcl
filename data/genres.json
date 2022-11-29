@@ -22089,11 +22089,11 @@
             "Translation": "n"
         }
     ],
-    "Fiction (Novel/Novella)": [
+    "Fiction (Novel)": [
         {
             "Author": "Marilyn Bobes León",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "san_juan_puerto_rico",
             "Pubdate": "2005",
@@ -22104,7 +22104,7 @@
         {
             "Author": " Maisy Card",
             "Descriptor": "",
-            "Genre": "Fiction (Novel/Novella)",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2021",
