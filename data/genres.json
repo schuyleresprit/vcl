@@ -703,7 +703,7 @@
             "Pub_id": "madrid_spain",
             "Pubdate": "1976",
             "Publisher": "Cultura Hispanica",
-            "Title": "La casa del silencio.",
+            "Title": "La casa del silencio.\n",
             "Translation": "n"
         },
         {
@@ -3931,11 +3931,198 @@
             "Translation": "n"
         }
     ],
-    "Fiction": [
+    "Fiction (Novel)": [
+        {
+            "Author": "Velma Pollard",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_ldn_england",
+            "Pubdate": "1992",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Shame trees don't grow here : but poincianas bloom",
+            "Translation": "n"
+        },
+        {
+            "Author": "Arlette Minatchy-Bogat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "petit_bourg_guadeloupe",
+            "Pubdate": "2004",
+            "Publisher": "Ibis Rouge",
+            "Title": "La métisse caribéenne - roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Arlette Minatchy-Bogat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "petit_bourg_guadeloupe",
+            "Pubdate": "2009",
+            "Publisher": "Ibis Rouge",
+            "Title": "Maman ! J'ai raté mes études",
+            "Translation": "n"
+        },
+        {
+            "Author": "Arlette Minatchy-Bogat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "petit_bourg_guadeloupe",
+            "Pubdate": "2013",
+            "Publisher": "Ibis Rouge",
+            "Title": "Les héritiers de l'Inde en terre créole - récit historique",
+            "Translation": "n"
+        },
+        {
+            "Author": "Arlette Minatchy-Bogat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "petit_bourg_guadeloupe",
+            "Pubdate": "2013",
+            "Publisher": "Ibis Rouge",
+            "Title": "Papa ! - t'ai-je vraiment pardonné ?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Arlette Minatchy-Bogat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "petit_bourg_guadeloupe",
+            "Pubdate": "2017",
+            "Publisher": "Ibis Rouge",
+            "Title": "Sharmila, l'Indienne aux trois familles - récit historique",
+            "Translation": "n"
+        },
+        {
+            "Author": "Arlette Minatchy-Bogat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "petit_bourg_guadeloupe",
+            "Pubdate": "2017",
+            "Publisher": "Ibis Rouge",
+            "Title": "Saomie la métisse - mi sud-africaine mi caribéenne",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marie-Elena John",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2006",
+            "Publisher": "Amistad",
+            "Title": "Unburnable",
+            "Translation": "n"
+        },
+        {
+            "Author": "Llewellyn Emery",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "pembroke_bermuda",
+            "Pubdate": "1999",
+            "Publisher": "The Bermudian Publishing Company Limited",
+            "Title": "The Fires of Pembroke",
+            "Translation": "n"
+        },
+        {
+            "Author": "Llewellyn Emery",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "pembroke_bermuda",
+            "Pubdate": "1999",
+            "Publisher": "The Bermudian Publishing Company Limited",
+            "Title": "Nothin' But A Pond Dog",
+            "Translation": "n"
+        },
+        {
+            "Author": "Elma Napier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_ldn_england",
+            "Pubdate": "1938",
+            "Publisher": "Peepal Tree Press",
+            "Title": "A Flying Fish Whispered",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jennie Wheatley",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1984",
+            "Publisher": "UNESCO",
+            "Title": "Boysie And The Genips: And Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jennie Wheatley",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "boston_ma_united¬†states",
+            "Pubdate": "1991",
+            "Publisher": "W S T D Publishing",
+            "Title": "Pass It On!: A Treasury Of Virgin Island Tales",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lauren Willig",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "HarperCollins",
+            "Title": "The Summer Country",
+            "Translation": "n"
+        },
+        {
+            "Author": "Michaellee James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2017",
+            "Publisher": "Pegasus Books",
+            "Title": "Trees Grow Over Fences",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mariano Brull",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish & French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1954",
+            "Publisher": "P. Seghers,",
+            "Title": "Rien que ... (Nada mas que ...)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Colville N Young",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "benque_viejo_del_carmen_belize",
+            "Pubdate": "1991",
+            "Publisher": "Cubola Productions",
+            "Title": "Pataki Full: Seven Belizean Short Stories",
+            "Translation": "n"
+        },
         {
             "Author": "Roy Namba",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1986",
@@ -3946,7 +4133,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -3957,7 +4144,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1943",
@@ -3979,7 +4166,7 @@
         {
             "Author": "Jean-Joseph Vilaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1954",
@@ -3990,7 +4177,7 @@
         {
             "Author": "Joseph Husband",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1925",
@@ -4001,7 +4188,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "Co-Author: Thea Von Harbou ",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2014",
@@ -4012,7 +4199,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "Contributors: Jean Charbonneau,  Leah Chamberlain, Scott Wolven, Tristan Davies, Paul D. Brazill, JJ Toner,  Alan Ward Thomas, Cortright McMeel ",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
@@ -4023,7 +4210,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
@@ -4034,7 +4221,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "Contributors: Suparn Verma, Samrat, Cortright McMeel, Yaeer Talker,  Kshemendra, Jonathan Sturak, Graham Wynd,  David Siddell, Richard Godwin ",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2013",
@@ -4045,7 +4232,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "Contributors: Jonathan Sturak, Marina Perezagua, Richard Godwin, Lauren Cahn, Rob Brunet, Melodie Campbell, Bianca Bellova,  Mary Agnes Fleming, George Beck",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2014",
@@ -4056,7 +4243,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "Contributors: A.J. Sidransky, Frank Sonderborg, Barbie Wilde, Lindsay Moran,  Lauren Cahn, Doug Levy, Diane Vacca",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2014",
@@ -4067,7 +4254,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "Contributors: Gary Phillips, Tatiana Eva-Marie, JC Hopkins ",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2017",
@@ -4078,7 +4265,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "Contributors: George Perreault, Bianca Bellova, Adam Ward, David Keaton, Ava Black ,Simon Rowe, Barbie Wilde, JJ Toner, Deborah Pintonelli ",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "2019",
@@ -4089,7 +4276,7 @@
         {
             "Author": "Eddie Vega",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2011",
@@ -4100,7 +4287,7 @@
         {
             "Author": "Ylce Irizarry",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "thousand_oaks_ca_united¬†states",
             "Pubdate": "2006",
@@ -4111,7 +4298,7 @@
         {
             "Author": "Bukka Rennie",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "kingston_jam_jamaica",
             "Pubdate": "2014",
@@ -4122,7 +4309,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2009",
@@ -4133,7 +4320,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2020",
@@ -4144,7 +4331,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "westminster_england",
             "Pubdate": "2015",
@@ -4155,7 +4342,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2022",
@@ -4166,7 +4353,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2019",
@@ -4177,7 +4364,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2018",
@@ -4188,7 +4375,7 @@
         {
             "Author": "Marlon James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "pretoria_south_africa",
             "Pubdate": "2016",
@@ -4199,7 +4386,7 @@
         {
             "Author": "Michel Maxwell Phillip",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "boston_ma_united¬†states",
             "Pubdate": "1997",
@@ -4210,7 +4397,7 @@
         {
             "Author": "Jean Breeze",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "hexham_england",
             "Pubdate": "1997",
@@ -4221,7 +4408,7 @@
         {
             "Author": "Robert Nazaire",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "1988",
@@ -4232,7 +4419,7 @@
         {
             "Author": "Frits Wols",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "paramaribo_suriname",
             "Pubdate": "2004",
@@ -4243,7 +4430,7 @@
         {
             "Author": "Jean Bernabé",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2001",
@@ -4254,7 +4441,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1973",
@@ -4265,7 +4452,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "Translator: Barbara Müller ",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "munich_germany",
             "Pubdate": "2002",
@@ -4276,7 +4463,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "2022",
@@ -4287,7 +4474,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1998",
@@ -4298,7 +4485,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Dutch",
             "Pub_id": "baarn_netherlands",
             "Pubdate": "1993",
@@ -4309,7 +4496,7 @@
         {
             "Author": "Merle Hodge",
             "Descriptor": "Translator: Chiara Arnone",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1997",
@@ -4320,7 +4507,7 @@
         {
             "Author": "Pierre Alex Jeanty",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "lehigh_acres_fl_united¬†states",
             "Pubdate": "2015",
@@ -4331,7 +4518,7 @@
         {
             "Author": "Nailah Folami Imoja",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "portsmouth_nh_united_states",
             "Pubdate": "2004",
@@ -4342,7 +4529,7 @@
         {
             "Author": "Vanessa Riley",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2022",
@@ -4353,7 +4540,7 @@
         {
             "Author": "Marcia Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2018",
@@ -4364,7 +4551,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad",
             "Pubdate": "1997",
@@ -4375,7 +4562,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad",
             "Pubdate": "1989",
@@ -4386,7 +4573,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "1980",
@@ -4397,7 +4584,7 @@
         {
             "Author": "Maria Roberts-Squires",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2005",
@@ -4408,7 +4595,7 @@
         {
             "Author": "Évelyne Trouillot",
             "Descriptor": "Paul Curtis Daw; Jason Herbeck",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "charlottesville_va_united¬†states",
             "Pubdate": "2015",
@@ -4419,7 +4606,7 @@
         {
             "Author": "Jake Hugh Reece Wilson",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "rhyl_wales",
             "Pubdate": "2014",
@@ -4430,7 +4617,7 @@
         {
             "Author": "Marcel Nérée",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Haitian Creole",
             "Pub_id": "matoury_french_guiana",
             "Pubdate": "2004",
@@ -4441,7 +4628,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2007",
@@ -4452,7 +4639,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2012",
@@ -4463,7 +4650,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "2019",
@@ -4474,7 +4661,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "brooklyn_ny_united¬†states",
             "Pubdate": "1987",
@@ -4485,7 +4672,7 @@
         {
             "Author": "N. D. Williams",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "1992",
@@ -4496,7 +4683,7 @@
         {
             "Author": "N. D. Williams",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_ldn_england",
             "Pubdate": "1994",
@@ -4507,7 +4694,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2013",
@@ -4518,7 +4705,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2016",
@@ -4529,7 +4716,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2010",
@@ -4540,7 +4727,7 @@
         {
             "Author": "Sylvia Wynter",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "manhattan_ny_united¬†states",
             "Pubdate": "1962",
@@ -4551,7 +4738,7 @@
         {
             "Author": "Marlene Nourbese Phillip",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "portsmouth_nh_united_states",
             "Pubdate": "1988",
@@ -4562,7 +4749,7 @@
         {
             "Author": "Naomi Jackson",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2015",
@@ -4573,7 +4760,7 @@
         {
             "Author": "Fabio Murrieta Rodríguez",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1994",
@@ -4584,12 +4771,25 @@
         {
             "Author": "C. L. R. James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "crows_nest_australia",
             "Pubdate": "1936",
             "Publisher": "Allen & Unwin",
             "Title": "Minty Alley",
+            "Translation": "n"
+        }
+    ],
+    "Fiction (Novel)": [
+        {
+            "Author": "Jonathan De La Rosa",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "diego_martin_trinidad_&¬†tobago",
+            "Pubdate": "2014",
+            "Publisher": "Jonathan de la Rosa",
+            "Title": "Captain Coconut",
             "Translation": "n"
         }
     ],
@@ -5186,17 +5386,6 @@
             "Pubdate": "1994",
             "Publisher": "Longman Publishing",
             "Title": "Homestretch",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "leeds_ldn_england",
-            "Pubdate": "1992",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Shame trees don't grow here : but poincianas bloom",
             "Translation": "n"
         },
         {
@@ -6410,72 +6599,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Arlette Minatchy-Bogat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "petit_bourg_guadeloupe",
-            "Pubdate": "2004",
-            "Publisher": "Ibis Rouge",
-            "Title": "La métisse caribéenne - roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arlette Minatchy-Bogat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "petit_bourg_guadeloupe",
-            "Pubdate": "2009",
-            "Publisher": "Ibis Rouge",
-            "Title": "Maman ! J'ai raté mes études",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arlette Minatchy-Bogat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "petit_bourg_guadeloupe",
-            "Pubdate": "2013",
-            "Publisher": "Ibis Rouge",
-            "Title": "Les héritiers de l'Inde en terre créole - récit historique",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arlette Minatchy-Bogat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "petit_bourg_guadeloupe",
-            "Pubdate": "2013",
-            "Publisher": "Ibis Rouge",
-            "Title": "Papa ! - t'ai-je vraiment pardonné ?",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arlette Minatchy-Bogat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "petit_bourg_guadeloupe",
-            "Pubdate": "2017",
-            "Publisher": "Ibis Rouge",
-            "Title": "Sharmila, l'Indienne aux trois familles - récit historique",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arlette Minatchy-Bogat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "petit_bourg_guadeloupe",
-            "Pubdate": "2017",
-            "Publisher": "Ibis Rouge",
-            "Title": "Saomie la métisse - mi sud-africaine mi caribéenne",
-            "Translation": "n"
-        },
-        {
             "Author": "Orlando Patterson",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -6583,17 +6706,6 @@
             "Pubdate": "1963",
             "Publisher": "Heinemann",
             "Title": "Games Were Coming",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marie-Elena John",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2006",
-            "Publisher": "Amistad",
-            "Title": "Unburnable",
             "Translation": "n"
         },
         {
@@ -7851,28 +7963,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Llewellyn Emery",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "pembroke_bermuda",
-            "Pubdate": "1999",
-            "Publisher": "The Bermudian Publishing Company Limited",
-            "Title": "The Fires of Pembroke",
-            "Translation": "n"
-        },
-        {
-            "Author": "Llewellyn Emery",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "pembroke_bermuda",
-            "Pubdate": "1999",
-            "Publisher": "The Bermudian Publishing Company Limited",
-            "Title": "Nothin' But A Pond Dog",
-            "Translation": "n"
-        },
-        {
             "Author": "Bernard Magnier",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -7892,17 +7982,6 @@
             "Pubdate": "2015",
             "Publisher": "Peepal Tree",
             "Title": "The Whale House and Other Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Elma Napier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "leeds_ldn_england",
-            "Pubdate": "1938",
-            "Publisher": "Peepal Tree Press",
-            "Title": "A Flying Fish Whispered",
             "Translation": "n"
         },
         {
@@ -11030,28 +11109,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Jennie Wheatley",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1984",
-            "Publisher": "UNESCO",
-            "Title": "Boysie And The Genips: And Other Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jennie Wheatley",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "boston_ma_united¬†states",
-            "Pubdate": "1991",
-            "Publisher": "W S T D Publishing",
-            "Title": "Pass It On!: A Treasury Of Virgin Island Tales",
-            "Translation": "n"
-        },
-        {
             "Author": "Chiara Bettelli Lelio",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -11294,17 +11351,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Lauren Willig",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2020",
-            "Publisher": "HarperCollins",
-            "Title": "The Summer Country",
-            "Translation": "n"
-        },
-        {
             "Author": "Tiphanie Yanique",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -11357,17 +11403,6 @@
             "Pubdate": "2022",
             "Publisher": "Papillote Press",
             "Title": "A Scream In The Shadows",
-            "Translation": "n"
-        },
-        {
-            "Author": "Michaellee James",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2017",
-            "Publisher": "Pegasus Books",
-            "Title": "Trees Grow Over Fences",
             "Translation": "n"
         },
         {
@@ -12031,17 +12066,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Mariano Brull",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish & French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1954",
-            "Publisher": "P. Seghers,",
-            "Title": "Rien que ... (Nada mas que ...)",
-            "Translation": "n"
-        },
-        {
             "Author": "Derek Walcott",
             "Descriptor": "Co-Author: Béatrice Dunner",
             "Genre": "Fiction (Novel)",
@@ -12380,17 +12404,6 @@
             "Pubdate": "1975",
             "Publisher": "Key Caribbean Publications",
             "Title": "The Lights Of Divali And Other Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Colville N Young",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "benque_viejo_del_carmen_belize",
-            "Pubdate": "1991",
-            "Publisher": "Cubola Productions",
-            "Title": "Pataki Full: Seven Belizean Short Stories",
             "Translation": "n"
         },
         {
@@ -16726,17 +16739,6 @@
             "Publisher": "Bayard Presse",
             "Title": "Victor et les Barricades",
             "Translation": "y"
-        },
-        {
-            "Author": "Jonathan De La Rosa",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "diego_martin_trinidad_&¬†tobago",
-            "Pubdate": "2014",
-            "Publisher": "Jonathan de la Rosa",
-            "Title": "Captain Coconut",
-            "Translation": "n"
         },
         {
             "Author": "Clément Magloire-Saint-Aude",
@@ -24047,28 +24049,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "tunapuna_trinidad_&_tonbago",
-            "Pubdate": "1990",
-            "Publisher": "Cynthia James",
-            "Title": "Smoothe Me, Music, Soothe Me: A Collection Of Short Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Cynthia James",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "tunapuna_trinidad_&_tonbago",
-            "Pubdate": "",
-            "Publisher": "World Literature Collection Tunapuna : Gloria V. Ferguson",
-            "Title": "Soothe Me, Music, Soothe Me",
-            "Translation": "n"
-        },
-        {
             "Author": "Alberto Garrandés",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -25243,6 +25223,371 @@
             "Pubdate": "2003",
             "Publisher": "Editorial Txalaparta",
             "Title": "Viaje a la Semilla",
+            "Translation": "n"
+        }
+    ],
+
+    "Fiction (Short Story Collection)": [
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1990",
+            "Publisher": "Heinemann",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "Persea Books",
+            "Title": "A Brief Conversion and Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Georges Sylvain",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1999",
+            "Publisher": "FOKAL",
+            "Title": "Cric? Crac!: Krik? Krak! : Fables Crèoles",
+            "Translation": "n"
+        },
+        {
+            "Author": "Gus John",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1971",
+            "Publisher": "Penquin Books",
+            "Title": "Because They're Black ",
+            "Translation": "y"
+        },
+        {
+            "Author": "Junot Diaz",
+            "Descriptor": "Obejas, Achy",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Spanish",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "2013",
+            "Publisher": "Vintage Espanol",
+            "Title": "Así Es Como La Pierdes",
+            "Translation": "y"
+        }
+    ],
+    "Fiction (Novel)": [
+        {
+            "Author": "Denise Harris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Web of Secrets",
+            "Translation": "y"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "na_na",
+            "Pubdate": "2013",
+            "Publisher": "‎CreateSpace Independent Publishing Platform",
+            "Title": "The High Road",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2015",
+            "Publisher": "CreateSpace Independent Publishing Platform",
+            "Title": "What now?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2016",
+            "Publisher": "Createspace Independent Publishing Platform",
+            "Title": "Free in the City (The Acreage Series Book 2)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "scotts_valley_united¬†states",
+            "Pubdate": "2018",
+            "Publisher": "CreateSpace Independent Publishing Platform",
+            "Title": "Vaucluse",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "jackson_united¬†states",
+            "Pubdate": "2019",
+            "Publisher": "Arise Publishing",
+            "Title": "Return to The Acreage (The Acreage Series Book 4)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Donna Every",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "chicago_united¬†states",
+            "Pubdate": "2019",
+            "Publisher": "Independently Published",
+            "Title": "Return to The Acreage",
+            "Translation": "n"
+        },
+        {
+            "Author": "Anthony Nash",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "bloomington_in_united¬†states",
+            "Pubdate": "2008",
+            "Publisher": "Xlibris",
+            "Title": "Changind Shape",
+            "Translation": "n"
+        },
+        {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_ldn_england",
+            "Pubdate": "2017",
+            "Publisher": "Peepal Tree Press",
+            "Title": "If I Had the Wings: Short Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "nassau_bahamas",
+            "Pubdate": "1992",
+            "Publisher": "WomenSpeak Press",
+            "Title": "WomanSpeak : a collection of creative expressions",
+            "Translation": "n"
+        },
+        {
+            "Author": "Helen Klonaris",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "toronto_canada",
+            "Pubdate": "2015",
+            "Publisher": "Dundurn Press",
+            "Title": "Cowboy",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "charles_village_united¬†states",
+            "Pubdate": "2007",
+            "Publisher": "Johns Hopkins University Press",
+            "Title": "From \"Sapodilla Terrace\"",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "d'abadie_trinidad_&¬†tobago",
+            "Pubdate": "2000",
+            "Publisher": "Green Tree Press",
+            "Title": "Bluejean, A Novel ",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "peterborough_england",
+            "Pubdate": "2006",
+            "Publisher": "Upfront Publishing",
+            "Title": "Sapodilla Terrace",
+            "Translation": "n"
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_ny_united_states",
+            "Pubdate": "2019",
+            "Publisher": "Akashic Books",
+            "Title": "A Tall History Of Sugar",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2008",
+            "Publisher": "Peepal Tree Press Ltd",
+            "Title": "A Permanent Freedom",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "2003",
+            "Publisher": "Walker Books Ltd.",
+            "Title": "Flying With Icarus And Other Stories",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "2012",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Ghosts: A Memoir",
+            "Translation": ""
+        },
+        {
+            "Author": "Curdella Forbes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "2003",
+            "Publisher": "Hodder Education",
+            "Title": "Songs of Silence",
+            "Translation": ""
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1982",
+            "Publisher": "Heineman",
+            "Title": "Beka Lamb",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1991",
+            "Publisher": "Heineman",
+            "Title": "In Times Like These",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1997",
+            "Publisher": "Heineman",
+            "Title": "The Festival of San Joaquin",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2007",
+            "Publisher": "Heineman",
+            "Title": "Time and the River",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zee Edgell",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2015",
+            "Publisher": "Heineman",
+            "Title": "Beka Lamb",
+            "Translation": "n"
+        }
+    ],
+    "Fiction (Short Story Collection)": [
+>>>>>>> 451ea93ddfc24e919f3955f8aaba05dde6d59072
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "tunapuna_trinidad_&_tonbago",
+            "Pubdate": "1990",
+            "Publisher": "Cynthia James",
+            "Title": "Smoothe Me, Music, Soothe Me: A Collection Of Short Stories",
+            "Translation": "n"
+        }
+    ],
+
+    "Fiction (Novel)": [
+        {
+            "Author": "Claire Adam",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "richmond_londonland",
+            "Pubdate": "2019",
+            "Publisher": "Hogarth Press",
+            "Title": "The Golden Child",
+            "Translation": "n"
+        }
+    ],
+    "Fiction (Short Story Collection)": [
+        {
+            "Author": "Cynthia James",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "tunapuna_trinidad_&_tonbago",
+            "Pubdate": "",
+            "Publisher": "World Literature Collection Tunapuna : Gloria V. Ferguson",
+            "Title": "Soothe Me, Music, Soothe Me",
             "Translation": "n"
         }
     ],
