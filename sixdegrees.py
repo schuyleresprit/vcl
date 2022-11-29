@@ -25,7 +25,7 @@ def load_data(directory):
         reader = csv.DictReader(f)
         for row in reader:
             authors[row["id"]] = {
-                "name": row["Author"],
+                "name": row["Author"]
                 "author_id": row["author_id"],
                 "titles": set()
             }
