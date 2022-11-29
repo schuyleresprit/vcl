@@ -66,10 +66,10 @@ def main():
     load_data(directory)
     print("Data loaded.")
 
-    source = person_id_for_name(input("Name: "))
+    source =  author_id_for_name(input("Name: "))
     if source is None:
         sys.exit("Person not found.")
-    target = person_id_for_name(input("Name: "))
+    target = author_id_for_name(input("Name: "))
     if target is None:
         sys.exit("Person not found.")
 
@@ -84,7 +84,7 @@ def main():
         for i in range(degrees):
             person1 = authors[path[i][1]]["name"]
             person2 = authors[path[i + 1][1]]["name"]
-            movie = titles[path[i + 1][0]]["title"]
+            title = titles[path[i + 1][0]]["title"]
             print(f"{i + 1}: {person1} and {person2} starred in {movie}")
 
 
