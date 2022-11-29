@@ -23,69 +23,17 @@ permalink: /mbethel
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2010</p>Bougainvillea Ringplay</div>
+            <div class="date left"><p class="left">2009</p>Bougainvillea Ringplay</div>
             <div class="dot"></div>
             <div class="right">
                 <h1></h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41c1ZwrFnNL.SR160,240_BG243,243,243.jpg"></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781845230845.jpg?itok=UVk_clWb"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 87</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2009</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Guanahani, my love</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: House of Nehesi Publisher<br/>
-                Pub_location: Philipsburg, Sint Maarten<br/>
-                Genre: Poetry Collection<br/>
-                Length: 55</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1995</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Guanahani, mi amor y otros poemas.</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Spanish<br/>
-                Publisher: Casa de las Americas<br/>
-                Pub_location: Havana_Cuba<br/>
-                Genre: Poetry Collection<br/>
-                Length: 87</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>The criminalisation of marital rape and intimate partner sexual violence : across the Commonwealth</h1><hr>
-                <p><img src=""></p>
-                <p>Language: <br/>
-                Publisher: English<VSbr/>
-                Pub_location:  Equality & Justice Alliance	London<br/>
-                Genre: Non Fiction<br/>
-                Length: NA</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Rondas de Bugambilia.</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Spanish<br/>
-                Publisher: Casa de las Americas<br/>
-                Pub_location: Havana_Cuba<br/>
-                Genre: Poetry Collection<br/>
-                Length: 94</p>
             </div>
         </div>
         <div id="footer">
