@@ -4,8 +4,12 @@ import json
 from util import StackFrontier, QueueFrontier
 from util import  Node
 
+
+# Maps names to a set of corresponding author_country
 countries = {}
+# Maps author_ids to a dictionary of: name, title, pubdate,  publisher
 authors = {}
+# Maps title_ids to a dictionary of: title, year, stars (a set of author_ids)
 languages = {}
 genres = {}
 names = {}
@@ -21,7 +25,7 @@ def load_data(directory):
         reader = csv.DictReader(f)
         for row in reader:
             authors[row["id"]] = {
-                "Author": row["Author"]
+                "name": row["Author"],
                 "author_id": row["author_id"],
                 "titles": set()
             }
@@ -139,10 +143,10 @@ def shortest_path(source, target):
 
 def author_id_for_name(name):
     """
-    Returns the IMDB id for a author's name,
+    Returns the IMDB id for a person's name,
     resolving ambiguities as needed.
     """
-    author_ids = list(names.get(name.lower(), set()))
+    person_ids = list(names.get(name.lower(), set()))
     if len(author_ids) == 0:
         return None
     elif len(author_ids) > 1:
