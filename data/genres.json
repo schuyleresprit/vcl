@@ -31042,11 +31042,11 @@
             "Translation": "y"
         }
     ],
-    "Nonfiction Book": [
+    "Nonfiction": [
         {
-            "Author": " Myriam J. A Chancy  ",
+            "Author": "Myriam J. A Chancy",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "waterloo_canada",
             "Pubdate": "2013",
@@ -31057,7 +31057,7 @@
         {
             "Author": " Myriam J. A Chancy  ",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "urbana_il_united¬†states",
             "Pubdate": "2020",
@@ -31068,7 +31068,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1971",
@@ -31079,7 +31079,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "1970",
@@ -31090,7 +31090,7 @@
         {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
-            "Genre": "Nonfiction Book",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "buenos_aires_argentina",
             "Pubdate": "1989",
