@@ -2701,6 +2701,52 @@
             "Translation": "n"
         }
     ],
+    "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Vintage Books",
+            "Title": "Create Dangerously: The Immigrant Artist at Work",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Vintage Books",
+            "Title": "Create Dangerously: The Immigrant Artist at Work",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "washington_d.c_united¬†states",
+            "Pubdate": "2011",
+            "Publisher": "IDB Cultural Center",
+            "Title": "Haiti: A Bi-Cultural Experience",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "washington_d.c_united¬†states",
+            "Pubdate": "2011",
+            "Publisher": "IDB Cultural Center",
+            "Title": "Haiti: A Bi-Cultural Experience",
+            "Translation": "y"
+        }
+    ],
     "eewilliams": [
         {
             "Author": "Eric Eustace Williams",
@@ -4806,6 +4852,28 @@
             "Pubdate": "1990",
             "Publisher": "Churchill Livingstone",
             "Title": "Physiology Of Reproduction",
+            "Translation": "n"
+        },
+        {
+            "Author": "George Lamming",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
+            "Pubdate": "1990",
+            "Publisher": "Banyan Archive",
+            "Title": "Caribbean Eye. Tape 9",
+            "Translation": "n"
+        },
+        {
+            "Author": "George Lamming",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
+            "Pubdate": "1990",
+            "Publisher": "Banyan Archive",
+            "Title": "Caribbean Eye. Tape 9",
             "Translation": "n"
         },
         {

@@ -2563,6 +2563,28 @@
             "Publisher": "Soho Press",
             "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
             "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Soho Press",
+            "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Soho Press",
+            "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
+            "Translation": "n"
         }
     ],
     "ediego": [
@@ -6421,6 +6443,28 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
+            "Pub_id": "na_na",
+            "Pubdate": "1985",
+            "Publisher": "NA",
+            "Title": "Another Claude McKay a Poet of Love",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "na_na",
+            "Pubdate": "1985",
+            "Publisher": "NA",
+            "Title": "Another Claude McKay a Poet of Love",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1976",
             "Publisher": "Sangster's Book Stores",
@@ -6436,6 +6480,50 @@
             "Pubdate": "1976",
             "Publisher": "Sangster's Book Stores",
             "Title": "On Holy Week",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1988",
+            "Publisher": "Women and Development Studies, Institute of International Relations, University of the West Indies",
+            "Title": "Gender In 'Summer lightning' And 'Talking Of trees'",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1988",
+            "Publisher": "Women and Development Studies, Institute of International Relations, University of the West Indies",
+            "Title": "Gender In 'Summer lightning' And 'Talking Of trees'",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1987",
+            "Publisher": "Women and Development Studies, University of the West Indies",
+            "Title": "Gender In Some Performance Poems",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1987",
+            "Publisher": "Women and Development Studies, University of the West Indies",
+            "Title": "Gender In Some Performance Poems",
             "Translation": "n"
         }
     ],

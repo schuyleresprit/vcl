@@ -119,7 +119,7 @@
         {
             "Author": "Ángel Augier",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Biography",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1982",
@@ -10047,7 +10047,7 @@
         {
             "Author": "Edwidge Danticat",
             "Descriptor": "",
-            "Genre": "Creative Nonfiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2011",
@@ -10300,7 +10300,7 @@
         {
             "Author": "Edwidge Danticat",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "washington_d.c_united¬†states",
             "Pubdate": "2011",
@@ -14992,7 +14992,7 @@
         {
             "Author": "George Lamming",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&¬†tobago",
             "Pubdate": "1990",
@@ -16949,7 +16949,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": null,
-            "Genre": "Fiction (Novel)n",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2013",
@@ -19759,7 +19759,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "Wang, Jiaxiang",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "Chinese",
             "Pub_id": "beijing_china",
             "Pubdate": "1986",
@@ -22092,7 +22092,7 @@
         {
             "Author": "Lorna Goodison",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Biography",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1989",
@@ -26349,7 +26349,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "1985",
@@ -26382,7 +26382,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "1988",
@@ -26393,7 +26393,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "1987",

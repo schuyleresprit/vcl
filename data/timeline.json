@@ -10015,7 +10015,7 @@
         {
             "Author": "Ángel Augier",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Biography",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1982",
@@ -12485,7 +12485,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "1985",
@@ -13323,7 +13323,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "Wang, Jiaxiang",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "Chinese",
             "Pub_id": "beijing_china",
             "Pubdate": "1986",
@@ -13985,7 +13985,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "1987",
@@ -14812,7 +14812,7 @@
         {
             "Author": "Mervyn Morris",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "mona_jamaica",
             "Pubdate": "1988",
@@ -15518,7 +15518,7 @@
         {
             "Author": "Lorna Goodison",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Biography",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1989",
@@ -16191,7 +16191,7 @@
         {
             "Author": "George Lamming",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&¬†tobago",
             "Pubdate": "1990",
@@ -18430,6 +18430,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1994",
+            "Publisher": "Vintage Books",
+            "Title": "Breath, Eyes, Memory",
+            "Translation": "n"
+        },
+        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -18903,6 +18914,28 @@
             "Publisher": "New Beacon Books",
             "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
             "Translation": ""
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1995",
+            "Publisher": "Pygmalion",
+            "Title": "Le Cri de L'oiseau Rouge",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1995",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
         },
         {
             "Author": "Lindsay Barrett",
@@ -19457,6 +19490,50 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1996",
+            "Publisher": "Vintage Books",
+            "Title": "Krik? Krak!",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1996",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1996",
+            "Publisher": "Pygmalion",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "d√ºsseldorf_germany",
+            "Pubdate": "1996",
+            "Publisher": "Marion von Schröder Verlag",
+            "Title": "Atem, Augen, Erinnerungen",
+            "Translation": "y"
+        },
+        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -19919,6 +19996,17 @@
             "Publisher": "The Johns Hopkins University Press",
             "Title": "In History",
             "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1997",
+            "Publisher": "Pocket Books",
+            "Title": "Le Cri de L'oiseau Rouge",
+            "Translation": "y"
         },
         {
             "Author": "Patrick Chamoiseau",
@@ -20437,6 +20525,72 @@
             "Pubdate": "1998",
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "My Favorite Plant: Writers and Gardeners On The Plants They Love",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1998",
+            "Publisher": "Penguin Books",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1998",
+            "Publisher": "Pocket Books",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1998",
+            "Publisher": "Muntinga",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1998",
+            "Publisher": "Ediciones del Bronce",
+            "Title": "Palabra, Ojos, Memoria",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1998",
+            "Publisher": "Soho Press",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1998",
+            "Publisher": "Soho Press",
+            "Title": "The Farming of Bones",
             "Translation": "n"
         },
         {
@@ -21034,6 +21188,116 @@
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "My Garden Book",
             "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1999",
+            "Publisher": "Fremad",
+            "Title": "Livet er en Underlig Gave",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Land Voor de Levenden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1999",
+            "Publisher": "Lumen",
+            "Title": "¿Krik? ¡Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1999",
+            "Publisher": "Círculo de lectores",
+            "Title": "Palabra, Ojos, Memoria",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1999",
+            "Publisher": "Abacus",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "m√ºnchen_germany",
+            "Pubdate": "1999",
+            "Publisher": "Claassen",
+            "Title": "Die Süße Saat Der Tränen: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "1999",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "1999",
+            "Publisher": "Pax Forlag",
+            "Title": "Ved Elven Massacre",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "buenos_aires",
+            "Pubdate": "1999",
+            "Publisher": "Grupo Editorial Norma",
+            "Title": "Cosecha de Huesos",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1999",
+            "Publisher": "Grasset",
+            "Title": "La Récolte Douce des Larmes",
+            "Translation": "y"
         },
         {
             "Author": "Patrick Chamoiseau",
@@ -21786,6 +22050,127 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Norwegian",
+            "Pub_id": "oslo_norway",
+            "Pubdate": "2000",
+            "Publisher": "Pax Forlag",
+            "Title": "Pust, Blikk, Minne",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2000",
+            "Publisher": "Abacus",
+            "Title": "The Farming of Bones",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "2000",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "2000",
+            "Publisher": "Lumen",
+            "Title": "Cosecha de Huesos",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hebrew",
+            "Pub_id": "tel_aviv_israel",
+            "Pubdate": "2000",
+            "Publisher": "Kinneret",
+            "Title": "Ḳene Ha-Sukar Ha-Marim",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2000",
+            "Publisher": "France Loisirs",
+            "Title": "La Récolte Douce des Larmes",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "m√ºnchen_germany",
+            "Pubdate": "2000",
+            "Publisher": "Deutscher Taschenbuch-Verlag",
+            "Title": "Die Süße Saat Der Tränen: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "2000",
+            "Publisher": "Lumen",
+            "Title": "El Cultivo de Huesos",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hungarian",
+            "Pub_id": "budapest_hungary",
+            "Pubdate": "2000",
+            "Publisher": "Európa",
+            "Title": "Vér Ès Cukornád",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "jyvaãàskylaãà_finland",
+            "Pubdate": "2000",
+            "Publisher": "Gummerus",
+            "Title": "Veressä Viljava Maa",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hebrew",
+            "Pub_id": "tel_aviv_israel",
+            "Pubdate": "2000",
+            "Publisher": "Kinneret",
+            "Title": "Kene Ha-sukar Ha-marim",
+            "Translation": "y"
+        },
+        {
             "Author": "Raoul Pantin",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -22214,6 +22599,17 @@
             "Pubdate": "2001",
             "Publisher": "Éditions de l'Olivier",
             "Title": "Au Fond De La Rivière",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2001",
+            "Publisher": "Éditions Grasset et Fasquelle",
+            "Title": "La Récolte Douce des Larmes",
             "Translation": "y"
         },
         {
@@ -24134,6 +24530,17 @@
             "Pubdate": "2004",
             "Publisher": "Ediciones Unión",
             "Title": "Fuga: Una Antología Personal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2004",
+            "Publisher": "Vintage Books",
+            "Title": "The Dew Breaker",
             "Translation": "n"
         },
         {
@@ -28716,6 +29123,61 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Soho Press",
+            "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Vintage Books",
+            "Title": "Create Dangerously: The Immigrant Artist at Work",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Akashic Books",
+            "Title": "Haiti Noir",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "",
+            "Pubdate": "2011",
+            "Publisher": "Sakuhinsha",
+            "Title": "Honegari no Toki",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "washington_d.c_united¬†states",
+            "Pubdate": "2011",
+            "Publisher": "IDB Cultural Center",
+            "Title": "Haiti: A Bi-Cultural Experience",
+            "Translation": "y"
+        },
+        {
             "Author": "Liesel Daisley",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -30117,6 +30579,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_ny_united_states",
+            "Pubdate": "2013",
+            "Publisher": "Akashic Books",
+            "Title": "Haiti Noir",
+            "Translation": "n"
+        },
+        {
             "Author": "Elsie Augustave",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -30361,7 +30834,7 @@
         {
             "Author": "Herbert J. Reifer",
             "Descriptor": null,
-            "Genre": "Fiction (Novel)n",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "scott's_valley_ca_united¬†states",
             "Pubdate": "2013",
@@ -31030,6 +31503,28 @@
             "Publisher": "City Lights Booksellers & Publishers",
             "Title": "Haiti Glass",
             "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2014",
+            "Publisher": "Quercus",
+            "Title": "Claire of the Sea Light",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2014",
+            "Publisher": "Akashic Books",
+            "Title": "Haiti Noir 2: The Classics",
+            "Translation": "n"
         },
         {
             "Author": "Maude Heurtelou",
@@ -33458,6 +33953,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "montr√©al_canada",
+            "Pubdate": "2017",
+            "Publisher": "La Magnétothèque",
+            "Title": "La Récolte Douce des Larmes",
+            "Translation": "y"
+        },
+        {
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -35587,6 +36093,50 @@
             "Translation": "y"
         },
         {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Vintage Books",
+            "Title": "Everything Inside",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Vintage Books",
+            "Title": "Everything Inside",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Vintage Books",
+            "Title": "Everything Inside",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Swedish",
+            "Pub_id": "stockholm_sweden",
+            "Pubdate": "2020",
+            "Publisher": "Bokförlaget Tranan",
+            "Title": "Att Skörda Ben",
+            "Translation": "y"
+        },
+        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -36290,6 +36840,17 @@
             "Pubdate": "2021",
             "Publisher": "Kampa Verlag",
             "Title": "Mister Potter",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2021",
+            "Publisher": "Asphalte Éditions",
+            "Title": "Haïti Noir",
             "Translation": "y"
         },
         {
