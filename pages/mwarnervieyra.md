@@ -23,48 +23,20 @@ permalink: /mwarnervieyra
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Le Quimboiseur l'avait dit</h1><hr>
-                <p><img src=""></p>
+                <h1>Juletane</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51JRFNoPg0L._SX342_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: French<br/>
-                Publisher: Presence africaine<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction<br/>
-                Length: 138</p>
+                Language: Vietnamese<br/>
+                Publisher: Heinemann<br/>
+                Pub_location: Portsmouth, NH, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 80</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">1982</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>As the Sorcerer Said</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457015376i/1190349.jpg"></p>
-                <p>Language: English<br/>
-                Translation: y<br/>
-                Publisher: Longman<br/>
-                Pub_location: Harlow, England<br/>
-                Genre: Fiction<br/>
-                Length: 73</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1988</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Femmes échouées : nouvelles/h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41xHHlq-nSL._SX415_BO1,204,203,200_.jpg"></p>
-                <p>Language: French<br/>
-                Publisher: Presence africaine<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction<br/>
-                Length: 146</p>
-            </div>
-        </div>
-
-        <div style="padding-bottom:100px;"></div>
+       <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
