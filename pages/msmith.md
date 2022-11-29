@@ -1,192 +1,89 @@
 ---
 layout: defaultau
-title: "AUTHOR NAME"
-permalink: /AUTHORID
+title: "Michael Smith"
+permalink: /msmith
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>AUTHOR NAME</h1>
+    <h1>Michael Smith</h1>
     <div class="quote">
-        <div><img src="AUTHOR IMAGE LINK" class="logo"></div>
+        <div><img src="https://2.bp.blogspot.com/_Ca61V1Z1LU0/THIiT8Oe4uI/AAAAAAAALQM/a6QKhY4f9gE/s1600/michael+smith+foto+3.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
+            <div class="date right"><p class="right">1954 - 1983</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>AUTHOR is from AUTHOR COUNTRY.</p>
-                <a href="WIKI LINK"_blank">Read more</a>
+          <div class="aclocation">  <p>Michael Smith is from <a href="http://localhost:4000/4">Jamaica.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Mikey_Smith" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>It A Come</h1><hr>
+                <p><img src="https://www.reggaeholland.com/wp-content/uploads/Untitled-5.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br>
+                Publisher: Race Today Publications<br>
+                Publisher Location: London, England<br>
+                Genre: Poetry Collection<br>
+                Length: 61<br>
+                </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+         <div class="block">
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>It A Come</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51FaLPMCs6L._SX343_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br>
+                Publisher: City Lights Books<br>
+                Publisher Location: San Franciso, CA, United States<br>
+                Genre: Poetry Collection<br>
+                Length: 61<br>
+                </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+        <div class="block">
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Mi Cyaan Believe It</h1><hr>
+                <p><img src="https://img.discogs.com/N5XBylJ_rijDtPpjT2MCBwiOlTI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1169120-1447543928-3847.mpo.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br>
+                Publisher: Island Records<br>
+                Publisher Location: London, England<br>
+                Genre: Poetry Collection<br>
+                Length: NA<br>
+                </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+        <div class="block">
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Me Cyaan Believe It/Roots</h1><hr>
+                <p><img src="https://th.bing.com/th/id/R.fb38dc754aac4e1f552353482de902c9?rik=YiLvOUMh6gEcGw&riu=http%3a%2f%2f2.bp.blogspot.com%2f_5IdEvMimaF4%2fS8tjbR55LRI%2fAAAAAAAAADc%2fSuQ6NX_5gTE%2fs1600%2fabu_baka2.jpg&ehk=pk7OI5uGPwrEUFhoNC1U%2bLz%2bj2FNoP0OwQAf5KxcHrQ%3d&risl=&pid=ImgRaw&r=0"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br>
+                Publisher: LKJ Records<br>
+                Publisher Location: London, England<br>
+                Genre: Poetry Collection<br>
+                Length: NA<br>
+                </p>
             </div>
         </div>
-<div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-      <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
+
+
+</div>
 <!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>           

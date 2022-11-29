@@ -1,194 +1,64 @@
 ---
 layout: defaultau
-title: "AUTHOR NAME"
-permalink: /AUTHORID
+title: "Pierre Marcelin "
+permalink: /pmarcelin
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>AUTHOR NAME</h1>
+    <h1>Pierre Marcelin </h1>
     <div class="quote">
-        <div><img src="AUTHOR IMAGE LINK" class="logo"></div>
+        <div><img src="" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
+            <div class="date right"><p class="right">??</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>AUTHOR is from AUTHOR COUNTRY.</p>
-                <a href="WIKI LINK"_blank">Read more</a>
+          <div class="aclocation">   <p>Pierre Marcelin  is from <a href="http://localhost:4000/5">Haiti.</a></p></div>
+              <div class="acreadmore">  <a href="" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1952</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Le Crayon de Dieu: Roman</h1><hr>
+                <p><img src=""></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Co-author: Philippe Thoby-Marcelin<br/>
+                Language: French<br/>
+                Publisher: Éditions de la Table ronde<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 254</p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+        <div class="block">
+            <div class="date right"><p class="right">1971</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+            <div class="left hide">
+                <h1>Singing Turtle and Other Tales From Haiti</h1><hr>
+                <p><img src="https://covers.openlibrary.org/b/id/8025207-L.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Co-author: Philippe Thoby-Marcelin<br/>
+                Language: English<br/>
+                Translation: y<br/>
+                Publisher: Farrar, Straus and Giroux<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction<br/>
+                Length: 115</p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-      <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
-                <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
+
+        <div style="padding-bottom:100px;"></div>
+    </div>
+    <div id="footer">
+        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
+    </div>
+</div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-
-
