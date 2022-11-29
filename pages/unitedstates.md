@@ -15,7 +15,7 @@ permalink: /1
   <div class="timeline clearfix">
   <div class="vertical-line">
 
- <div id="post-2" class="vesti-col timeline-post">
+ <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://comment.org/wp-content/uploads/2021/12/Gregory-Thompson.jpg" width="70%">
@@ -47,7 +47,7 @@ permalink: /1
         </div>
       </div>
     </div>
-  <div id="post-2" class="vesti-col timeline-post">
+  <div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://images.hola.com/us/images/026d-133a9630e8cc-8302267d1161-1000/horizontal-1200/julia-alvarez.jpg">
@@ -63,7 +63,7 @@ permalink: /1
         </div>
       </div>
     </div>
-     <div id="post-2" class="vesti-col timeline-post">
+     <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://m.media-amazon.com/images/I/61YoCppuP7L._SX450_.jpg" width="60%">
@@ -79,7 +79,7 @@ permalink: /1
         </div>
       </div>
     </div>
-    <div id="post-2" class="vesti-col timeline-post">
+    <div id="post-5" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="60%">
@@ -95,7 +95,7 @@ permalink: /1
         </div>
       </div>
     </div>
-      <div id="post-2" class="vesti-col timeline-post">
+      <div id="post-6" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://alchetron.com/cdn/lloyd-king-puzzle-designer-545d95c4-2c1e-4137-8379-1f551fbfd5b-resize-750.jpeg" width="60%">
@@ -111,7 +111,7 @@ permalink: /1
         </div>
       </div>
     </div>
-       <div id="post-2" class="vesti-col timeline-post">
+       <div id="post-7" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="60%">
@@ -128,7 +128,7 @@ permalink: /1
       </div>
     </div>
 
-  <div id="post-1" class="vesti-col timeline-post">
+  <div id="post-8" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/Paule_Marshall.jpg" width="60%">
@@ -145,7 +145,7 @@ permalink: /1
    </div>
  </div>
 
-  <div id="post-1" class="vesti-col timeline-post">
+  <div id="post-9" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.cgas.udel.edu/IMAGES%20BIOS/BRAHAM_P.JPG?RenditionID=14" width="60%">
@@ -162,7 +162,7 @@ permalink: /1
    </div>
  </div>
 
- <div id="post-1" class="vesti-col timeline-post">
+ <div id="post-10" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://static.wixstatic.com/media/16aa54_d4c6423a128f41fdba8ed0093fb9fc2b~mv2.jpg/v1/fill/w_286,h_420,al_c,lg_1,q_80,enc_auto/Young%20Artist.jpg" width="60%">
@@ -178,7 +178,7 @@ permalink: /1
      </div>
    </div>
  </div>
-   <div id="post-1" class="vesti-col timeline-post">
+   <div id="post-11" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -195,7 +195,7 @@ permalink: /1
    </div>
  </div> 
 
- <div id="post-1" class="vesti-col timeline-post">
+ <div id="post-12" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/robert%20antoni.jpg">
@@ -212,7 +212,7 @@ permalink: /1
    </div>
  </div> 
 
-  <div id="post-1" class="vesti-col timeline-post">
+  <div id="post-13" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://orionmagazine.org/wp-content/uploads/2015/06/Ruben-Martinez.jpg" width="60%">
@@ -229,7 +229,22 @@ permalink: /1
    </div>
  </div> 
 
-
+  <div id="post-14" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE8nXmyu0ZF7w/profile-displayphoto-shrink_400_400/0/1644055672238?e=1674086400&v=beta&t=XohpqJwcwMSCrvPJ-Uls89kZQ7zTNrVIyaWRJR9YqX4" width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/scostanzo">Sabrina Costanzo</a></h4>
+       </a>
+     </div>
+   </div>
+ </div> 
 
 
 
