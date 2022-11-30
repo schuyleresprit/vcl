@@ -20,22 +20,6 @@ permalink: /pjosie
             <div class="aclocation"><p> Peter Josie is from <a href="http://localhost:4000/16">St. Lucia.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Peter_Josie" target="_blank">Read more</a></div>
             </div>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1977</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Extracts fron Hansard : a House of Assembly (1974-1977) record of the Hon. Peter Josie</h1><hr>
-                <p><img src="https://alchetron.com/cdn/peter-josie-063034de-064a-4ce5-964f-c31498dddc9-resize-750.jpg"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Voice Press  <br/>
-                Pub_location: Castries, St. Lucia <br/>
-                Genre: Non Fiction <br/>
-                Length: 56 <br/>
-                </p>
-            </div>
         </div>
         <div class="block">
             <div class="date right"><p class="right">2012</p></div>
@@ -52,8 +36,6 @@ permalink: /pjosie
                 </p>
             </div>
         </div>
-
-
         </div>
         <!-- partial -->
           <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
