@@ -7,7 +7,7 @@ permalink: /ebenjamin
 <div class="content">
     <h1>Errol Benjamin</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://newsday.co.tt/wp-content/uploads/2021/08/14916914.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
