@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mylene Fernández Pintado"
-permalink: /mpfernandez
+permalink: /mfpintado
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -32,7 +32,7 @@ permalink: /mpfernandez
                 Language: Spanish <br/>
                 Publisher: Ediciones Unión <br/>
                 Pub_location: Havana, Cuba <br/>
-                Genre: Fiction <br/>
+                Genre: Fiction (Short Story Collection) <br/>
                 Length: 79 <br/>  
                 </p>
             </div>
@@ -47,7 +47,7 @@ permalink: /mpfernandez
                 Language: Spanish <br/>
                 Publisher: Ediciones Unión <br/>
                  Pub_location: Havana, Cuba <br/>
-                Genre: Fiction <br/>
+                Genre: Fiction (Novel) <br/>
                 Length: 237 <br/>                       
                 </p>
             </div>
@@ -62,23 +62,8 @@ permalink: /mpfernandez
                 Language: Italian <br/>
                 Publisher: Marco Tropea <br/>
                 Pub_location: Tropea, Italy <br/>
-                Genre: Fiction <br/>
+                Genre: Fiction (Novel) <br/>
                 Length: 185 <br/>                 
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">2009</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Infiel y Otros Cuentos</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51dBVfozMPL.jpg"></p>
-                <p>
-                Language: Spanish <br/>
-                Publisher: Editorial Campana <br/>
-                 Pub_location: Barcelona, Spain <br/>
-                Genre: Fiction <br/>
-                Length: 84 <br/>                
                 </p>
             </div>
         </div>
@@ -92,8 +77,37 @@ permalink: /mpfernandez
                 Language: English <br/>
                 Publisher: Ediciones Unión <br/>
                  Pub_location: Havana, Cuba <br/>
-                Genre: Fiction <br/>
+                Genre: Fiction (Novel) <br/>
                 Length: 78 <br/>                   
+                </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right hide">2009</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Infiel y Otros Cuentos</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51dBVfozMPL.jpg"></p>
+                <p>
+                Language: Spanish <br/>
+                Publisher: Editorial Campana <br/>
+                 Pub_location: Barcelona, Spain <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 84 <br/>                
+                </p>
+                 </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right hide">2010</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Vivir Sin Papeles</h1><hr>
+                <p><img src="https://www.ecured.cu/images/thumb/f/fb/Vivir_sin_papeles.jpg/390px-Vivir_sin_papeles.jpg"></p>
+                Language: Spanish <br/>
+                Publisher: Editorial Oriente <br/>
+                 Pub_location: Santiago, Cuba <br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 85 <br/>                
                 </p>
             </div>
         </div>
@@ -107,11 +121,10 @@ permalink: /mpfernandez
                 Language: Spanish <br/>
                 Publisher: Ediciones Unión <br/>
                  Pub_location: Havana, Cuba <br/>
-                Genre: Fiction <br/>
+                Genre:  Fiction (Novel)<br/>
                 Length: 142 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2014</p></div>
             <div class="dot"></div>
@@ -122,7 +135,7 @@ permalink: /mpfernandez
                 Language: English <br/>
                 Publisher: City Lights Publishers <br/>
                  Pub_location: San Francisco, CA, United States <br/>
-                Genre: Fiction <br/>
+                Genre: Fiction (Novel) <br/>
                 Length: 141 <br/>                 
                 </p>
             </div>
@@ -137,7 +150,7 @@ permalink: /mpfernandez
                 Language: Italian <br/>
                 Publisher: Marcos y Marcos <br/>
                 Pub_location: Milan, Italy <br/>
-                Genre: Fiction <br/>
+                Genre: Fiction (Novel) <br/>
                 Length: 224 <br/>                  
                 </p>
             </div>
@@ -152,7 +165,7 @@ permalink: /mpfernandez
                 Language: Spanish <br/>
                 Publisher: Ediciones Unión <br/>
                  Pub_location: Havana, Cuba <br/>
-                Genre: Fiction <br/>
+                Genre: Fiction (Short Story Collection) <br/>
                 Length: 177 <br/>                  
                 </p>
             </div>
