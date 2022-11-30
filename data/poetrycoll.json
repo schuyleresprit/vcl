@@ -24,23 +24,23 @@
         },
         {
             "Author": "Adisa Andwele",
-            "Descriptor": "1989",
+            "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
-            "Pub_id": "bridgetown_barbados",
-            "Pubdate": "1989",
-            "Publisher": "We Culture Publications",
+            "Pub_id": "leeds_england",
+            "Pubdate": "1990",
+            "Publisher": "Peepal Tree Press",
             "Title": "Rhythm an' Roots: A Collection Of Poems",
             "Translation": "n"
         },
         {
             "Author": "Adisa Andwele",
-            "Descriptor": "1989",
+            "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
-            "Pub_id": "bridgetown_barbados",
-            "Pubdate": "1989",
-            "Publisher": "We Culture Publications",
+            "Pub_id": "leeds_england",
+            "Pubdate": "1990",
+            "Publisher": "Peepal Tree Press",
             "Title": "Rhythm an' Roots: A Collection Of Poems",
             "Translation": "n"
         },
@@ -2409,6 +2409,28 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1988",
+            "Publisher": "Sandberry Press",
+            "Title": "A tale from the rainforest",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Baugh",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1988",
+            "Publisher": "Sandberry Press",
+            "Title": "A tale from the rainforest",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Baugh",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "kingston_jam_jamaica",
             "Pubdate": "1989",
             "Publisher": "West Indian Association for Commonwealth Literature and Language Studies",
@@ -2837,6 +2859,28 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
+            "Pub_id": "london__england",
+            "Pubdate": "1960",
+            "Publisher": "Deutsch",
+            "Title": "The Father: Letters To Sons And Daughters",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "london__england",
+            "Pubdate": "1960",
+            "Publisher": "Deutsch",
+            "Title": "The Father: Letters To Sons And Daughters",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "manchester_england",
             "Pubdate": "2012",
             "Publisher": "Carcanet Press",
@@ -2875,6 +2919,28 @@
             "Publisher": "Fitzhenry & Whiteside",
             "Title": "New Canadian Poetry",
             "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Welsh",
+            "Pub_id": "swansea_wales",
+            "Pubdate": "1925",
+            "Publisher": "Thomas a Parry, Cyf.",
+            "Title": "Doethineb Llafar",
+            "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Welsh",
+            "Pub_id": "swansea_wales",
+            "Pubdate": "1925",
+            "Publisher": "Thomas a Parry, Cyf.",
+            "Title": "Doethineb Llafar",
+            "Translation": "y"
         },
         {
             "Author": "Evan Jones",
@@ -4536,6 +4602,30 @@
             "Pubdate": "2017",
             "Publisher": "Forgotten Books",
             "Title": "Poems by a Slave in the Island of Cuba, Recently Liberated",
+            "Translation": "n"
+        }
+    ],
+    "jjfigueroa": [
+        {
+            "Author": "John J Figueroa",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "liverpool_england",
+            "Pubdate": "1962",
+            "Publisher": "Tinling & Co.",
+            "Title": "Love Leaps Here",
+            "Translation": "n"
+        },
+        {
+            "Author": "John J Figueroa",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "liverpool_england",
+            "Pubdate": "1962",
+            "Publisher": "Tinling & Co.",
+            "Title": "Love Leaps Here",
             "Translation": "n"
         }
     ],
@@ -7554,6 +7644,118 @@
             "Pubdate": "2017",
             "Publisher": "Jeanius Publishing LLC",
             "Title": "Her II",
+            "Translation": "n"
+        }
+    ],
+    "pkeensdouglas": [
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "1976",
+            "Publisher": "Keensdee Productions",
+            "Title": "\"Tim Tim\"",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "1976",
+            "Publisher": "Keensdee Productions",
+            "Title": "\"Tim Tim\"",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2000",
+            "Publisher": "Keensdee Productions",
+            "Title": "Las' Lap: Farewell To The Nineties : The Humour, Poetry and Storytelling",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2000",
+            "Publisher": "Keensdee Productions",
+            "Title": "Las' Lap: Farewell To The Nineties : The Humour, Poetry and Storytelling",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2002",
+            "Publisher": "Keensdee Productions",
+            "Title": "It's The Little Things: The Poetry, Humour, Poetry And Storytelling",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2002",
+            "Publisher": "Keensdee Productions",
+            "Title": "It's The Little Things: The Poetry, Humour, Poetry And Storytelling",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2001",
+            "Publisher": "Keensdee Productions",
+            "Title": "The Best Of Paul Keens-Douglas. Vol. 2",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2001",
+            "Publisher": "Keensdee Productions",
+            "Title": "The Best Of Paul Keens-Douglas. Vol. 2",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2003",
+            "Publisher": "Keensdee Productions",
+            "Title": "It' Not Easy: The Best Of Paul Keens-Douglas. Vol. 3",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2003",
+            "Publisher": "Keensdee Productions",
+            "Title": "It' Not Easy: The Best Of Paul Keens-Douglas. Vol. 3",
             "Translation": "n"
         }
     ],

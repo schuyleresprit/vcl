@@ -3327,6 +3327,50 @@
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2006",
+            "Publisher": "University of New England",
+            "Title": "Treatment Of Error In Students' Second Language Writing: An Investigation Of Two Online Approaches",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2006",
+            "Publisher": "University of New England",
+            "Title": "Treatment Of Error In Students' Second Language Writing: An Investigation Of Two Online Approaches",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "sydney_australia",
+            "Pubdate": "1978",
+            "Publisher": "School of Economics University of Sydney",
+            "Title": "An Examination Of Earnings Differentials In Australian Manufacturing Industry",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "sydney_australia",
+            "Pubdate": "1978",
+            "Publisher": "School of Economics University of Sydney",
+            "Title": "An Examination Of Earnings Differentials In Australian Manufacturing Industry",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
             "Pub_id": "rochester_ny_united_states",
             "Pubdate": "2009",
             "Publisher": "University of Rochester Press",
@@ -4116,6 +4160,28 @@
             "Pubdate": "2003",
             "Publisher": "Lexicon Trinidad",
             "Title": "Growing in the Dark",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "washington_d.c_united¬†states",
+            "Pubdate": "1998",
+            "Publisher": "IDB Cultural Center",
+            "Title": "Welcoming Each Other: Cultural Transformation of the Caribbean in the 21st Century : Lecture",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "washington_d.c_united¬†states",
+            "Pubdate": "1998",
+            "Publisher": "IDB Cultural Center",
+            "Title": "Welcoming Each Other: Cultural Transformation of the Caribbean in the 21st Century : Lecture",
             "Translation": "n"
         }
     ],
@@ -5953,6 +6019,30 @@
             "Translation": "n"
         }
     ],
+    "jlinen": [
+        {
+            "Author": "James Linen",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1933",
+            "Publisher": "Planters' Punch",
+            "Title": "Former Kingston",
+            "Translation": "n"
+        },
+        {
+            "Author": "James Linen",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1933",
+            "Publisher": "Planters' Punch",
+            "Title": "Former Kingston",
+            "Translation": "n"
+        }
+    ],
     "jllima": [
         {
             "Author": "José Lezama Lima",
@@ -5974,6 +6064,50 @@
             "Pubdate": "1970",
             "Publisher": "Editorial Orbe",
             "Title": "Tratados En Havana: Ensayos Estéticos",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1970",
+            "Publisher": "Biblioteca Nacional José Martí",
+            "Title": "Nuevo Encuentro Con Victor Manuel",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1970",
+            "Publisher": "Biblioteca Nacional José Martí",
+            "Title": "Nuevo Encuentro Con Victor Manuel",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1971",
+            "Publisher": "Editorial Anagrama",
+            "Title": "Interrogando A Lezama Lima",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1971",
+            "Publisher": "Editorial Anagrama",
+            "Title": "Interrogando A Lezama Lima",
             "Translation": "n"
         },
         {
@@ -7199,6 +7333,30 @@
             "Translation": "n"
         }
     ],
+    "mnugent": [
+        {
+            "Author": "Maria Nugent",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jam_jamaica",
+            "Pubdate": "1950",
+            "Publisher": "West Indian review",
+            "Title": "A Govenor's Wife Keeps A Diary",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maria Nugent",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jam_jamaica",
+            "Pubdate": "1950",
+            "Publisher": "West Indian review",
+            "Title": "A Govenor's Wife Keeps A Diary",
+            "Translation": "n"
+        }
+    ],
     "mocallaghan": [
         {
             "Author": "Marion O'Callaghan",
@@ -8291,6 +8449,28 @@
             "Publisher": "iUniverse",
             "Title": "Days Of Wrath: The 1990 Coup In Trinidad & Tobago",
             "Translation": "n"
+        },
+        {
+            "Author": "Raoul Pantin",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
+            "Pubdate": "1974",
+            "Publisher": "Sharc Productions",
+            "Title": "Bim; An Outline. Based On An Original Idea",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raoul Pantin",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
+            "Pubdate": "1974",
+            "Publisher": "Sharc Productions",
+            "Title": "Bim; An Outline. Based On An Original Idea",
+            "Translation": "n"
         }
     ],
     "rretamar": [
@@ -9023,6 +9203,28 @@
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "1984",
+            "Publisher": "The Sunday Times Magazine",
+            "Title": "Heavy Manners in Grenada",
+            "Translation": "n"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "1984",
+            "Publisher": "The Sunday Times Magazine",
+            "Title": "Heavy Manners in Grenada",
+            "Translation": "n"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1990",
             "Publisher": "New York review",
@@ -9192,6 +9394,28 @@
             "Pubdate": "1981",
             "Publisher": "Gyldendal",
             "Title": "Blant de Troende: en Islamsk Reise",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Persian",
+            "Pub_id": "tehran_iran",
+            "Pubdate": "1988",
+            "Publisher": "Khátún",
+            "Title": "Dar Kishvar-i Azád",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Persian",
+            "Pub_id": "tehran_iran",
+            "Pubdate": "1988",
+            "Publisher": "Khátún",
+            "Title": "Dar Kishvar-i Azád",
             "Translation": "y"
         },
         {

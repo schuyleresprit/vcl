@@ -807,7 +807,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "German",
             "Pub_id": "munchen_germany",
             "Pubdate": "1982",
@@ -818,7 +818,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "German",
             "Pub_id": "munchen_germany",
             "Pubdate": "1982",
@@ -1761,7 +1761,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "köln_germany",
             "Pubdate": "1989",
@@ -1772,7 +1772,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "köln_germany",
             "Pubdate": "1989",
@@ -2047,7 +2047,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "German",
             "Pub_id": "köln_germany",
             "Pubdate": "1984",
@@ -2058,7 +2058,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "German",
             "Pub_id": "köln_germany",
             "Pubdate": "1984",

@@ -1728,5 +1728,29 @@
             "Title": "Language In The Poetry Of Edward Brathwaite",
             "Translation": "n"
         }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "dijon_france",
+            "Pubdate": "1983",
+            "Publisher": "Société d'étude des pays du Commenwealth",
+            "Title": "Commonwealth: Essays and Studies. Vol. 6, n° 1, Automn 1983",
+            "Translation": "n"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "dijon_france",
+            "Pubdate": "1983",
+            "Publisher": "Société d'étude des pays du Commenwealth",
+            "Title": "Commonwealth: Essays and Studies. Vol. 6, n° 1, Automn 1983",
+            "Translation": "n"
+        }
     ]
 }

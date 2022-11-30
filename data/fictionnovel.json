@@ -3609,6 +3609,28 @@
             "Publisher": "Macmillan Publishers",
             "Title": "A Visitor From Home",
             "Translation": "n"
+        },
+        {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "Roxann A Bradshaw",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "charles_village_united¬†states",
+            "Pubdate": "2002",
+            "Publisher": "The Johns Hopkins University Press",
+            "Title": "Beryl Gilroy's Fact Fiction--Through The Lens Of The \"Quiet Old Lady\"",
+            "Translation": "n"
+        },
+        {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "Roxann A Bradshaw",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "charles_village_united¬†states",
+            "Pubdate": "2002",
+            "Publisher": "The Johns Hopkins University Press",
+            "Title": "Beryl Gilroy's Fact Fiction--Through The Lens Of The \"Quiet Old Lady\"",
+            "Translation": "n"
         }
     ],
     "bhambley": [
@@ -3935,6 +3957,30 @@
             "Translation": "n"
         }
     ],
+    "caparsons": [
+        {
+            "Author": "Captain Anthony Parsons",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1932",
+            "Publisher": "Planters' Punch",
+            "Title": "The Lost Safe - A Baffling Mystery With A Dramatic Conclusion",
+            "Translation": "n"
+        },
+        {
+            "Author": "Captain Anthony Parsons",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1932",
+            "Publisher": "Planters' Punch",
+            "Title": "The Lost Safe - A Baffling Mystery With A Dramatic Conclusion",
+            "Translation": "n"
+        }
+    ],
     "cblelio": [
         {
             "Author": "Chiara Bettelli Lelio",
@@ -3956,6 +4002,28 @@
             "Pubdate": "2005",
             "Publisher": "Unicopli",
             "Title": "L'Avana: La Città Sensuale di Leonardo Padura Fuentes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2014",
+            "Publisher": "Altromondo",
+            "Title": "Havana Melody",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2014",
+            "Publisher": "Altromondo",
+            "Title": "Havana Melody",
             "Translation": "n"
         },
         {
@@ -10693,6 +10761,28 @@
             "Publisher": "Editions Dapper",
             "Title": "Aventures Sur La Planète Knos",
             "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Evan Jones",
+            "Title": "Dr. Love Jones: Lays Down the Basics",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Evan Jones",
+            "Title": "Dr. Love Jones: Lays Down the Basics",
+            "Translation": "n"
         }
     ],
     "elovelace": [
@@ -17768,6 +17858,28 @@
             "Pubdate": "1970",
             "Publisher": "Ediciones Era",
             "Title": "Paradiso: Ilustr. De René Portocarrero",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1970",
+            "Publisher": "Tusquets Editores S.A.",
+            "Title": "Esferaimagen: Sierpa De Don Luis De Góngora, Las imagenes Posibles",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1970",
+            "Publisher": "Tusquets Editores S.A.",
+            "Title": "Esferaimagen: Sierpa De Don Luis De Góngora, Las imagenes Posibles",
             "Translation": "n"
         },
         {
@@ -28137,6 +28249,28 @@
             "Publisher": "Zenith",
             "Title": "Tanti At De Oval: Selected Works of Paul Keens-Douglas",
             "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2000",
+            "Publisher": "Keensdee Productions",
+            "Title": "Crick ... Crack ... Cricket!!: A Humourous Look At Cricket",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2000",
+            "Publisher": "Keensdee Productions",
+            "Title": "Crick ... Crack ... Cricket!!: A Humourous Look At Cricket",
+            "Translation": "n"
         }
     ],
     "pkempadoo": [
@@ -30394,6 +30528,54 @@
             "Pubdate": "2000",
             "Publisher": "Edwin Mellen Press",
             "Title": "The Rule of Francois (\"Papa Doc\") Duvalier in Two Novels By Roger Dorsinville: Realism and Magic Realism in Haiti",
+            "Translation": "y"
+        }
+    ],
+    "rfpatterson": [
+        {
+            "Author": "Richard F. Patterson",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2006",
+            "Publisher": "Callaloo",
+            "Title": "Resurrecting Rafael: Fictional Incarnations Of A Dominican Dictator",
+            "Translation": "n"
+        },
+        {
+            "Author": "Richard F. Patterson",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2006",
+            "Publisher": "Callaloo",
+            "Title": "Resurrecting Rafael: Fictional Incarnations Of A Dominican Dictator",
+            "Translation": "n"
+        }
+    ],
+    "rgay": [
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "willimantic_united¬†states",
+            "Pubdate": "",
+            "Publisher": "",
+            "Title": "Ayiti",
+            "Translation": "y"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "willimantic_united¬†states",
+            "Pubdate": "",
+            "Publisher": "",
+            "Title": "Ayiti",
             "Translation": "y"
         }
     ],
@@ -32814,6 +32996,28 @@
             "Author": "V.S. Naipaul",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1989",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Die 80er Jahre",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1989",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Die 80er Jahre",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Hebrew",
             "Pub_id": "tel_aviv_israel",
             "Pubdate": "1981",
@@ -32874,6 +33078,28 @@
             "Pubdate": "1990",
             "Publisher": "Arnoldo Mondadori Editore",
             "Title": "Mr. Stone and the Knights Companion",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Korean",
+            "Pub_id": "seoul_south_korea",
+            "Pubdate": "1989",
+            "Publisher": "Toso Ch'ulp'an Ch'inu",
+            "Title": "Chayu Ui Nara Eso",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Korean",
+            "Pub_id": "seoul_south_korea",
+            "Pubdate": "1989",
+            "Publisher": "Toso Ch'ulp'an Ch'inu",
+            "Title": "Chayu Ui Nara Eso",
             "Translation": "y"
         },
         {
@@ -33028,6 +33254,28 @@
             "Pubdate": "1982",
             "Publisher": "Odeon",
             "Title": "Dum Pro Pana Biswase",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Roland Adlerberth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "kyoto_japan",
+            "Pubdate": "1985",
+            "Publisher": "Jinbun Shoin",
+            "Title": "Indo Yami No Ryoiki",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Roland Adlerberth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "kyoto_japan",
+            "Pubdate": "1985",
+            "Publisher": "Jinbun Shoin",
+            "Title": "Indo Yami No Ryoiki",
             "Translation": "y"
         },
         {

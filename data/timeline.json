@@ -14,7 +14,7 @@
         {
             "Author": "Roxane Gay",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "willimantic_united¬†states",
             "Pubdate": "",
@@ -90,7 +90,7 @@
         {
             "Author": "Mary Prince",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1831",
@@ -675,7 +675,7 @@
         {
             "Author": "Cyril V Briggs",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1920",
@@ -745,7 +745,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1922",
@@ -1004,7 +1004,7 @@
         {
             "Author": "Evan Jones",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Poetry Collection",
             "Language": "Welsh",
             "Pub_id": "swansea_wales",
             "Pubdate": "1925",
@@ -1252,7 +1252,7 @@
         {
             "Author": "Eden Phillpotts",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1929",
@@ -1533,7 +1533,7 @@
         {
             "Author": "Captain Anthony Parsons",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1932",
@@ -1579,7 +1579,7 @@
         {
             "Author": "James Linen",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1933",
@@ -2049,7 +2049,7 @@
         {
             "Author": "Claude McKay",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_brunswick_nj_united_states",
             "Pubdate": "1937",
@@ -2878,7 +2878,7 @@
         {
             "Author": "Maria Nugent",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "kingston_jam_jamaica",
             "Pubdate": "1950",
@@ -3082,7 +3082,7 @@
         {
             "Author": "George Lamming",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1953",
@@ -3899,7 +3899,7 @@
         {
             "Author": "Evan Jones",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "london__england",
             "Pubdate": "1960",
@@ -4123,7 +4123,7 @@
         {
             "Author": "John J Figueroa",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "liverpool_england",
             "Pubdate": "1962",
@@ -5213,7 +5213,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1968",
@@ -5580,7 +5580,7 @@
         {
             "Author": "Olive Lewin",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Anthology",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1970",
@@ -5822,7 +5822,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1970",
@@ -5855,7 +5855,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "",
             "Pubdate": "1970",
@@ -6275,7 +6275,7 @@
         {
             "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Poem",
             "Language": "English",
             "Pub_id": "ealing_england",
             "Pubdate": "1971",
@@ -6308,7 +6308,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "",
             "Pubdate": "1971",
@@ -6541,7 +6541,7 @@
         {
             "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1972",
@@ -6985,7 +6985,7 @@
         {
             "Author": "Raoul Pantin",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&¬†tobago",
             "Pubdate": "1974",
@@ -7473,7 +7473,7 @@
         {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1976",
@@ -7704,7 +7704,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "1976",
@@ -8225,7 +8225,7 @@
         {
             "Author": "Evan Jones",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "sydney_australia",
             "Pubdate": "1978",
@@ -8293,7 +8293,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "1979",
@@ -9032,7 +9032,7 @@
         {
             "Author": "Austin Clarke",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "toronto_canada",
             "Pubdate": "1980",
@@ -9463,7 +9463,7 @@
         {
             "Author": "Frank Janney",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1981",
@@ -9982,7 +9982,7 @@
         {
             "Author": "Guillermo Cabrera Infante",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "barcelona_spain",
             "Pubdate": "1982",
@@ -10103,7 +10103,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "German",
             "Pub_id": "munchen_germany",
             "Pubdate": "1982",
@@ -10895,7 +10895,7 @@
         {
             "Author": "Nicolás Guillén",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1982",
@@ -11359,7 +11359,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Essay",
             "Language": "English",
             "Pub_id": "dijon_france",
             "Pubdate": "1983",
@@ -11856,7 +11856,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "1984",
@@ -11944,7 +11944,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "German",
             "Pub_id": "köln_germany",
             "Pubdate": "1984",
@@ -11988,7 +11988,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "Russian",
             "Pub_id": "moskva_russia",
             "Pubdate": "1984",
@@ -12881,7 +12881,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "Translator: Roland Adlerberth",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Japanese",
             "Pub_id": "kyoto_japan",
             "Pubdate": "1985",
@@ -14977,7 +14977,7 @@
         {
             "Author": "Edward Baugh",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1988",
@@ -15021,7 +15021,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "Persian",
             "Pub_id": "tehran_iran",
             "Pubdate": "1988",
@@ -15540,7 +15540,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "Juan José Utrilla",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1989",
@@ -15590,17 +15590,6 @@
             "Pubdate": "1989",
             "Publisher": "De Bezige Bij",
             "Title": "Wie was Céline? Van cuirassier tot clochard",
-            "Translation": "n"
-        },
-        {
-            "Author": "Adisa Andwele",
-            "Descriptor": "1989",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "bridgetown_barbados",
-            "Pubdate": "1989",
-            "Publisher": "We Culture Publications",
-            "Title": "Rhythm an' Roots: A Collection Of Poems",
             "Translation": "n"
         },
         {
@@ -15771,7 +15760,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
             "Pub_id": "köln_germany",
             "Pubdate": "1989",
@@ -15782,7 +15771,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Korean",
             "Pub_id": "seoul_south_korea",
             "Pubdate": "1989",
@@ -16252,6 +16241,17 @@
             "Pubdate": "1990",
             "Publisher": "Dutton",
             "Title": "Bodies of Water",
+            "Translation": "n"
+        },
+        {
+            "Author": "Adisa Andwele",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "leeds_england",
+            "Pubdate": "1990",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Rhythm an' Roots: A Collection Of Poems",
             "Translation": "n"
         },
         {
@@ -16741,7 +16741,7 @@
         {
             "Author": "Patrick Chamoiseau",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1990",
@@ -17394,7 +17394,7 @@
         {
             "Author": "Reinaldo Arenas",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "westminster_england",
             "Pubdate": "1992",
@@ -17748,7 +17748,7 @@
         {
             "Author": "Derek Walcott",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "1993",
@@ -18190,7 +18190,7 @@
         {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1994",
@@ -18962,7 +18962,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1995",
@@ -19052,7 +19052,7 @@
         {
             "Author": "Juan Francisco Manzano",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "detroit_mi_united_states",
             "Pubdate": "1996",
@@ -19448,7 +19448,7 @@
         {
             "Author": "Kevin Baldeosingh",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1996",
@@ -20442,7 +20442,7 @@
         {
             "Author": "Earl Lovelace",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "washington_d.c_united¬†states",
             "Pubdate": "1998",
@@ -20695,7 +20695,7 @@
         {
             "Author": "Julia Alvarez",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "chapel_hill_nc_united¬†states",
             "Pubdate": "1998",
@@ -21788,7 +21788,7 @@
         {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2000",
@@ -22184,7 +22184,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "2000",
@@ -22195,7 +22195,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "2000",
@@ -22736,7 +22736,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "2001",
@@ -23068,7 +23068,7 @@
         {
             "Author": "Beryl Gilroy",
             "Descriptor": "Roxann A Bradshaw",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "charles_village_united¬†states",
             "Pubdate": "2002",
@@ -23409,7 +23409,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "2002",
@@ -23972,7 +23972,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "2003",
@@ -24733,7 +24733,7 @@
         {
             "Author": "Alicia Ikida Harraway",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "jupiter_united¬†states",
             "Pubdate": "2004",
@@ -25131,7 +25131,7 @@
         {
             "Author": "Paul Keens-Douglas",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "port_of_spain_trinidad_&_tobago",
             "Pubdate": "2005",
@@ -25551,7 +25551,7 @@
         {
             "Author": "Lloyd King",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Biography",
             "Language": "English",
             "Pub_id": "st._augustine_trinidad_&¬†tobago",
             "Pubdate": "2006",
@@ -25595,7 +25595,7 @@
         {
             "Author": "Richard F. Patterson",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "2006",
@@ -25848,7 +25848,7 @@
         {
             "Author": "Evan Jones",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2006",
@@ -26202,7 +26202,7 @@
         {
             "Author": "Kwame Senu Neville Dawes",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2007",
@@ -27515,7 +27515,7 @@
         {
             "Author": "Cynthia Wilson",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "st._peter_barbados",
             "Pubdate": "2009",
@@ -29721,7 +29721,7 @@
         {
             "Author": "Peter Josie",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2012",
@@ -31122,7 +31122,7 @@
         {
             "Author": "Chiara Bettelli Lelio",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "Italian",
             "Pub_id": "milan_italy",
             "Pubdate": "2014",
@@ -31287,7 +31287,7 @@
         {
             "Author": "Elizabeth Nunez",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2014",
@@ -31716,7 +31716,7 @@
         {
             "Author": "Esi Edugyan",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "edmonton_canada",
             "Pubdate": "2014",
@@ -34804,7 +34804,7 @@
         {
             "Author": "Krystal A Sital",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2018",
@@ -35433,7 +35433,7 @@
         {
             "Author": "Evan Jones",
             "Descriptor": "",
-            "Genre": "",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "",
             "Pubdate": "2019",
@@ -36361,7 +36361,7 @@
         {
             "Author": "Fred D'Aguiar",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2021",
@@ -36493,7 +36493,7 @@
         {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2021",
@@ -36559,7 +36559,7 @@
         {
             "Author": "Kei Miller",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "edinburgh_scotland",
             "Pubdate": "2021",
