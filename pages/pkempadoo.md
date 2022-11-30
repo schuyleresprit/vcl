@@ -12,7 +12,7 @@ permalink: /pkempadoo
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">??</p></div>
+            <div class="date right"><p class="right">1926-2019</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -31,58 +31,10 @@ permalink: /pkempadoo
                 <p>
                 Language: English<br/>
                 Publisher: New Literature<br/>
-                Pub_location: Sussex, England<br/>
+                Pub_location: Crawley, SX, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 172</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1965</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Old Thom's Harvest</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/513rg+fLSmL._SX373_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Eyre & Spottiswoode<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 195</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1974</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Recordings of folklore, drama & music made in Guyana : 1971-3</h1><hr>
-                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Peter%20Kempadoo.jpg?itok=FKZBpCK4"></p>
-                <p>Language: English<br/>
-                Publisher: The Library<br/>
-                Pub_location: Georgetown, Guyana<br/><br/>
-                Length: 22</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1988</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>The Caribbean Today</h1><hr>
-                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Peter%20Kempadoo.jpg?itok=FKZBpCK4"></p>
-                <p>Language: English<br/>
-                Publisher: Commonwealth Institute<br/>
-                Pub_location: London, England<br/></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1991</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Zenzele : the O.R.A.P. way</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51fyPGN9cML._SX331_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: RCP<br/>
-                Pub_location: Bulawayo, Zimbabwe<br/>
-                Length: 76</p>
-            </div>
+           </div>
         </div>
         <div class="block">
             <div class="date right"><p class="right hide">2002</p></div>
@@ -97,7 +49,6 @@ permalink: /pkempadoo
                 Length: 187</p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">

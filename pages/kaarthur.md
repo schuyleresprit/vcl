@@ -23,15 +23,15 @@ permalink: /kaarthur
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">1993</p></div>
+            <div class="date left"><p class="left">1993</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>England and Nowhere</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/410M03K9NTL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Peepal Tree Press <br/>
-                Pub_location: Leeds, LDN, England <br/>
+                Pub_location: Leeds, England <br/>
                 Genre: Fiction <br/>
                 Length: 88 <br/>
                 </p>
@@ -40,13 +40,13 @@ permalink: /kaarthur
         <div class="block">
             <div class="date right"><p class="right">1997</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The View from Belmont </h1><hr>
-                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781900715027_0.jpg?itok=eDIQh9bi></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781900715027_0.jpg?itok=eDIQh9bi"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Tate Publishing <br/>
-                Pub_location: London, England <br/>
+                Publisher: Peepal Tree Press <br/>
+                Pub_location: Leeds, England <br/>
                 Genre: Fiction <br/>
                 Length: 222 <br/>
                 </p>
@@ -55,20 +55,17 @@ permalink: /kaarthur
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Caribbean Treasure: A Trove Of 18th-Century Barbadian Poetry And Prose: Vol. 1</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/5109CWQJbaL._SX328_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Peepal Tree Press <br/>
-                Pub_location: Ldeds, LDN, England <br/>
+                Pub_location: Leeds, England <br/>
                 Genre: Anthology <br/>
                 Length: 396 <br/>
                 </p>
             </div>
-        </div>
-        </div>
-
         </div>
         <!-- partial -->
           <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>

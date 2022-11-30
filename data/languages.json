@@ -260,17 +260,6 @@
             "Publisher": "Olsen & Olsen",
             "Title": "Moses Ovenpå",
             "Translation": "y"
-        },
-        {
-            "Author": " Myriam J. A Chancy  ",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Danish",
-            "Pub_id": "",
-            "Pubdate": "2019",
-            "Publisher": "Forlaget Rebel With a Cause",
-            "Title": "Englenes Ensomhed",
-            "Translation": "n"
         }
     ],
     "Dutch": [
@@ -1588,7 +1577,7 @@
         {
             "Author": "Eric Eustace Williams",
             "Descriptor": "",
-            "Genre": "Thesis/Dissertation",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "lanham_md_united¬†states",
             "Pubdate": "2014",
@@ -3931,7 +3920,7 @@
         {
             "Author": "Edwidge Danticat",
             "Descriptor": "",
-            "Genre": "Creative Nonfiction",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2011",
@@ -9246,17 +9235,6 @@
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "nassau_bahamas",
-            "Pubdate": "1992",
-            "Publisher": "WomenSpeak Press",
-            "Title": "WomanSpeak : a collection of creative expressions",
-            "Translation": "n"
-        },
-        {
-            "Author": "Helen Klonaris",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
             "Pub_id": "toronto_canada",
             "Pubdate": "2015",
             "Publisher": "Dundurn Press",
@@ -9271,7 +9249,7 @@
             "Pub_id": "miami_fl_united¬†states",
             "Pubdate": "2011",
             "Publisher": "University of Miami Press",
-            "Title": "Not a manifesto",
+            "Title": "Not A Manifesto",
             "Translation": "n"
         },
         {
@@ -16053,7 +16031,7 @@
         {
             "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
-            "Genre": "Kamau (Edward) Brathwaite",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1984",
@@ -19430,7 +19408,7 @@
         {
             "Author": "Michael Thelwell",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1980",
@@ -20178,7 +20156,7 @@
         {
             "Author": "Olive Senior",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Essay",
             "Language": "English",
             "Pub_id": "hoboken_nj_united¬†states",
             "Pubdate": "1989",
@@ -22076,72 +22054,6 @@
             "Pubdate": "2014",
             "Publisher": "University of Virginia Press",
             "Title": "The Fury And Cries Of Women",
-            "Translation": "n"
-        },
-        {
-            "Author": " Myriam J. A Chancy  ",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2021",
-            "Publisher": "HarperCollins",
-            "Title": "What Storm, What Thunder",
-            "Translation": "n"
-        },
-        {
-            "Author": " Myriam J. A Chancy  ",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "English",
-            "Pub_id": "waterloo_canada",
-            "Pubdate": "2013",
-            "Publisher": "Wilfrid Laurier University Press",
-            "Title": "From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic",
-            "Translation": "n"
-        },
-        {
-            "Author": " Myriam J. A Chancy  ",
-            "Descriptor": "",
-            "Genre": "Nonfiction Book",
-            "Language": "English",
-            "Pub_id": "urbana_il_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "University of Illinois Press",
-            "Title": "Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora",
-            "Translation": "n"
-        },
-        {
-            "Author": " Myriam J. A Chancy  ",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2011",
-            "Publisher": "Peepal Tree Press",
-            "Title": "The Scorpion's Claw",
-            "Translation": "n"
-        },
-        {
-            "Author": " Myriam J. A Chancy  ",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2010",
-            "Publisher": "Peepal Tree Press",
-            "Title": "The Loneliness Of Angels",
-            "Translation": "n"
-        },
-        {
-            "Author": " Myriam J. A Chancy  ",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "2004",
-            "Publisher": "Mango Publishing\n",
-            "Title": "Spirit Of Haiti",
             "Translation": "n"
         },
         {
@@ -24303,7 +24215,7 @@
         {
             "Author": "C. L. R. James",
             "Descriptor": "",
-            "Genre": "Fiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "crows_nest_australia",
             "Pubdate": "1936",
@@ -28016,7 +27928,7 @@
         {
             "Author": "Hubert Papailler",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Nonfiction",
             "Language": "French",
             "Pub_id": "port_au_prince_haiti",
             "Pubdate": "1958",
@@ -36031,17 +35943,6 @@
             "Translation": "n"
         },
         {
-            "Author": " Myriam J. A Chancy  ",
-            "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2005",
-            "Publisher": "LaSirén Press",
-            "Title": "Loas. Spanish translation of Loneliness of Angels (A Novel)",
-            "Translation": "y"
-        },
-        {
             "Author": "Julia Alvarez",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -36539,7 +36440,7 @@
         {
             "Author": "Leonardo Padura Fuentes",
             "Descriptor": "",
-            "Genre": "NA",
+            "Genre": "Fiction (Novel)",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "2002",
