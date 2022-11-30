@@ -103,7 +103,6 @@ permalink: /mfpintado
             <div class="left hide">
                 <h1>Vivir Sin Papeles</h1><hr>
                 <p><img src="https://www.ecured.cu/images/thumb/f/fb/Vivir_sin_papeles.jpg/390px-Vivir_sin_papeles.jpg"></p>
-                <p>
                 Language: Spanish <br/>
                 Publisher: Editorial Oriente <br/>
                  Pub_location: Santiago, Cuba <br/>
@@ -126,7 +125,6 @@ permalink: /mfpintado
                 Length: 142 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2014</p></div>
             <div class="dot"></div>
