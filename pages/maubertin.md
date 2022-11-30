@@ -23,18 +23,16 @@ permalink: /maubertin
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2000</p></div>
+            <div class="date left"><p class="left">1995</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Neg Maron: Freedom Fighter</Neg Maron: Freedom Fighter</h1><hr>
+                <h1>Neg Maron: Freedom Fighter</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/515QpJIHE+L._SX322_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Caribbean Diaspora Press  <br/>
-                Pub_location: Brooklyn, NY, United States <br/>
-                Genre: Fiction <br/>
-                Length: 256 <br/>
-                </p>
+ 			<p> Language: English <br/>
+                Publisher: Caribbean Diaspora Press<br/>
+                Pub_location: Brooklyn, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 188<br/>                </p>
             </div>
         </div>
         <div class="block">
@@ -52,7 +50,4 @@ permalink: /maubertin
                 </p>
             </div>
         </div>
-
         </div>
-        <!-- partial -->
-          <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
