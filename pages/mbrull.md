@@ -28,6 +28,7 @@ permalink: /mbrull
             <div class="left hide">
                 <h1>Poesia Cubana Contemporanea un Ensayo de Antologia</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41LQ0dW4OkL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                Co-Authors: Eugenio Florit, et al.
                 <p>Language: Spanish<br/>
                 Publisher: Las Américas Publishing<br/>
                 Pub_location: Montréal, QC, Canada<br/>
