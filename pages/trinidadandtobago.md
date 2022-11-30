@@ -497,7 +497,7 @@ permalink: /3
      <div id="post-31" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://www.canadianauthors.net/m/maharaj_rabindranath/maharaj_rabindranath.jpg" width="80%">
+          <img src="http://www.canadianauthors.net/m/maharaj_rabindranath/maharaj_rabindranath.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
