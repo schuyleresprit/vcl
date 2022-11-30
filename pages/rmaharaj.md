@@ -17,7 +17,7 @@ permalink: /rmaharaj
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">   <p>Rabindranath Maharaj is from Trinidad and Tobago.</a></p></div>
+          <div class="aclocation">   <p>Rabindranath Maharaj is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p></div>
               <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Rabindranath_Maharaj" target="_blank">Read more</a></div>
             </div>
             </div>
