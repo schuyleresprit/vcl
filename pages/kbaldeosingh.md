@@ -7,7 +7,7 @@ permalink: /kbaldeosingh
 <div class="content">
     <h1>Kevin Baldeosingh</h1>
     <div class="quote">
-        <div><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/kevin%20baldeosingh.jpg?itok=zBF4lZOk.jpg" class="logo"></div>
+        <div><img src="https://static.wired868.com/wp-content/uploads/2016/07/Kevin-Baldeosingh.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

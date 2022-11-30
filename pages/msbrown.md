@@ -1,13 +1,13 @@
 ---
 layout: defaultau
 title: "Marina Salandy-Brown"
-permalink: /msalandyrobwn
+permalink: /msbrown
 ---
 <!-- partial:index.partial.html -->
-<div class="contenthttps://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Marina_Salandy_Brown_presents_the_2019_Swanzy_Award_to_Ian_Randle_at_the_Bocas_Lit_Fest.jpg/330px-Marina_Salandy_Brown_presents_the_2019_Swanzy_Award_to_Ian_Randle_at_the_Bocas_Lit_Fest.jpg">
+<div class="content">
     <h1>Marina Salandy-Brown</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://globalvoices.org/wp-content/uploads/2020/12/Marina-Headshot-400x600.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
