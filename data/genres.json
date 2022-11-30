@@ -1,171 +1,4 @@
 {
-    "": [
-        {
-            "Author": "Cyril V Briggs",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1920",
-            "Publisher": "Éditeur Inconnu",
-            "Title": "The Crusader: The Magazine Nearly Every Negro Reads",
-            "Translation": "n"
-        },
-        {
-            "Author": "James Linen",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1933",
-            "Publisher": "Planters' Punch",
-            "Title": "Former Kingston",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roxane Gay",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "willimantic_united¬†states",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "Ayiti",
-            "Translation": "y"
-        },
-        {
-            "Author": "Olive Lewin",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1970",
-            "Publisher": "Oxford University Press",
-            "Title": "Some Jamaican Folk Songs",
-            "Translation": "n"
-        },
-        {
-            "Author": "John J Figueroa",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "liverpool_england",
-            "Pubdate": "1962",
-            "Publisher": "Tinling & Co.",
-            "Title": "Love Leaps Here",
-            "Translation": "n"
-        },
-        {
-            "Author": "V.S. Naipaul",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "German",
-            "Pub_id": "köln_germany",
-            "Pubdate": "1989",
-            "Publisher": "Kiepenheuer & Witsch",
-            "Title": "Die 80er Jahre",
-            "Translation": "y"
-        },
-        {
-            "Author": "V.S. Naipaul",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "Korean",
-            "Pub_id": "seoul_south_korea",
-            "Pubdate": "1989",
-            "Publisher": "Toso Ch'ulp'an Ch'inu",
-            "Title": "Chayu Ui Nara Eso",
-            "Translation": "y"
-        },
-        {
-            "Author": "V.S. Naipaul",
-            "Descriptor": "Translator: Roland Adlerberth",
-            "Genre": "",
-            "Language": "Japanese",
-            "Pub_id": "kyoto_japan",
-            "Pubdate": "1985",
-            "Publisher": "Jinbun Shoin",
-            "Title": "Indo Yami No Ryoiki",
-            "Translation": "y"
-        },
-        {
-            "Author": "V.S. Naipaul",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "Russian",
-            "Pub_id": "moskva_russia",
-            "Pubdate": "1984",
-            "Publisher": "Raduga Publishers",
-            "Title": "Povesti I Rasskazy",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "ealing_england",
-            "Pubdate": "1971",
-            "Publisher": "Bogle-L'Ouverture Publications",
-            "Title": "I Must Be Given Words To Shape My Name",
-            "Translation": ""
-        },
-        {
-            "Author": "Evan Jones",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "london__england",
-            "Pubdate": "1960",
-            "Publisher": "Deutsch",
-            "Title": "The Father: Letters To Sons And Daughters",
-            "Translation": "n"
-        },
-        {
-            "Author": "Evan Jones",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "Welsh",
-            "Pub_id": "swansea_wales",
-            "Pubdate": "1925",
-            "Publisher": "Thomas a Parry, Cyf.",
-            "Title": "Doethineb Llafar",
-            "Translation": "y"
-        },
-        {
-            "Author": "Evan Jones",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "2006",
-            "Publisher": "University of New England",
-            "Title": "Treatment Of Error In Students' Second Language Writing: An Investigation Of Two Online Approaches",
-            "Translation": "n"
-        },
-        {
-            "Author": "Evan Jones",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "sydney_australia",
-            "Pubdate": "1978",
-            "Publisher": "School of Economics University of Sydney",
-            "Title": "An Examination Of Earnings Differentials In Australian Manufacturing Industry",
-            "Translation": "n"
-        },
-        {
-            "Author": "Evan Jones",
-            "Descriptor": "",
-            "Genre": "",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "2019",
-            "Publisher": "Evan Jones",
-            "Title": "Dr. Love Jones: Lays Down the Basics",
-            "Translation": "n"
-        }
-    ],
     "Anthology": [
         {
             "Author": "Ezequiel Vieta",
@@ -650,6 +483,17 @@
             "Publisher": "University of the West Indies, Dept. of French & Spanish Literature",
             "Title": "La mujer en la literatura caribeña : Sexta Conferencia de Hispanistas, 6th-8th abril 1983, University of the West Indies, St. Augustine, Trinidad",
             "Translation": "y"
+        },
+        {
+            "Author": "Olive Lewin",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1970",
+            "Publisher": "Oxford University Press",
+            "Title": "Some Jamaican Folk Songs",
+            "Translation": "n"
         },
         {
             "Author": "Lucía López Coll",
@@ -1301,11 +1145,11 @@
             "Translation": "n"
         }
     ],
-    "Autobiography/Memoir": [
+    "Autobiography/ Memoir": [
         {
             "Author": "Guillermo Cabrera Infante",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "barcelona_spain",
             "Pubdate": "1982",
@@ -1316,7 +1160,7 @@
         {
             "Author": "Fred D'Aguiar",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united¬†states",
             "Pubdate": "2021",
@@ -1327,7 +1171,7 @@
         {
             "Author": "Juan Francisco Manzano",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "detroit_mi_united_states",
             "Pubdate": "1996",
@@ -1338,7 +1182,7 @@
         {
             "Author": "Mary Prince",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1831",
@@ -1349,7 +1193,7 @@
         {
             "Author": "George Lamming",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1953",
@@ -1360,7 +1204,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "(london)_england",
             "Pubdate": "1979",
@@ -1371,7 +1215,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "German",
             "Pub_id": "munchen_germany",
             "Pubdate": "1982",
@@ -1382,7 +1226,7 @@
         {
             "Author": "Jean Rhys",
             "Descriptor": "Juan José Utrilla",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "mexico_city_mexico",
             "Pubdate": "1989",
@@ -1393,7 +1237,7 @@
         {
             "Author": "H. G. De Lisser",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "kingston_jamaica",
             "Pubdate": "1922",
@@ -1402,9 +1246,20 @@
             "Translation": "n"
         },
         {
+            "Author": "Eden Phillpotts",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1929",
+            "Publisher": "George G. Harrap & Co. Ltd.",
+            "Title": "Eden Phillpotts",
+            "Translation": "n"
+        },
+        {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1994",
@@ -1415,7 +1270,7 @@
         {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2021",
@@ -1426,7 +1281,7 @@
         {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "1976",
@@ -1437,7 +1292,7 @@
         {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_ldn_england",
             "Pubdate": "2000",
@@ -1448,7 +1303,7 @@
         {
             "Author": "Kei Miller",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "edinburgh_scotland",
             "Pubdate": "2021",
@@ -1459,7 +1314,7 @@
         {
             "Author": "Austin Clarke",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "toronto_canada",
             "Pubdate": "1980",
@@ -1468,9 +1323,20 @@
             "Translation": "n"
         },
         {
+            "Author": "Derek Walcott",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "1993",
+            "Publisher": "Caedmon",
+            "Title": "Derek Walcott Reads",
+            "Translation": "n"
+        },
+        {
             "Author": "Frank Janney",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1981",
@@ -1481,7 +1347,7 @@
         {
             "Author": "Kwame Senu Neville Dawes",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "leeds_england",
             "Pubdate": "2007",
@@ -1492,7 +1358,7 @@
         {
             "Author": "Peter Josie",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2012",
@@ -1503,7 +1369,7 @@
         {
             "Author": "Reinaldo Arenas",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "westminster_england",
             "Pubdate": "1992",
@@ -1514,7 +1380,7 @@
         {
             "Author": "Elizabeth Nunez",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2014",
@@ -1525,7 +1391,7 @@
         {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "German",
             "Pub_id": "köln_germany",
             "Pubdate": "1984",
@@ -1536,7 +1402,7 @@
         {
             "Author": "Edward Kamau Brathwaite",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "london_england",
             "Pubdate": "1972",
@@ -1547,7 +1413,7 @@
         {
             "Author": "Kevin Baldeosingh",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1996",
@@ -1558,7 +1424,7 @@
         {
             "Author": "Patrick Chamoiseau",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "French",
             "Pub_id": "paris_france",
             "Pubdate": "1990",
@@ -1569,7 +1435,7 @@
         {
             "Author": "José Lezama Lima",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1968",
@@ -1580,7 +1446,7 @@
         {
             "Author": "Cynthia Wilson",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "st._peter_barbados",
             "Pubdate": "2009",
@@ -1591,7 +1457,7 @@
         {
             "Author": "Esi Edugyan",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "edmonton_canada",
             "Pubdate": "2014",
@@ -1602,7 +1468,7 @@
         {
             "Author": "Krystal A Sital",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2018",
@@ -1613,7 +1479,7 @@
         {
             "Author": "Anthony C. Winkler",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1995",
@@ -1624,7 +1490,7 @@
         {
             "Author": "Julia Alvarez",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "chapel_hill_nc_united¬†states",
             "Pubdate": "1998",
@@ -1635,7 +1501,7 @@
         {
             "Author": "Claude McKay",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "English",
             "Pub_id": "new_brunswick_nj_united_states",
             "Pubdate": "1937",
@@ -1646,7 +1512,7 @@
         {
             "Author": "Nicolás Guillén",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
             "Pubdate": "1982",
@@ -1657,7 +1523,7 @@
         {
             "Author": "Alicia Ikida Harraway",
             "Descriptor": "",
-            "Genre": "Autobiography/Memoir",
+            "Genre": "Autobiography/ Memoir",
             "Language": "Spanish",
             "Pub_id": "jupiter_united¬†states",
             "Pubdate": "2004",
@@ -1995,6 +1861,17 @@
             "Pubdate": "1996",
             "Publisher": "University of the West Indies Press",
             "Title": "The autobiography of a Cuban slave",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lloyd King",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "English",
+            "Pub_id": "st._augustine_trinidad_&¬†tobago",
+            "Pubdate": "2006",
+            "Publisher": "University of the West Indies Press",
+            "Title": "Reflections at New Credit",
             "Translation": "n"
         },
         {
@@ -3484,6 +3361,17 @@
             "Pubdate": "2018",
             "Publisher": "Ediciones ICAIC",
             "Title": "Señores De La Oscuridad : El Gótico En El Cine",
+            "Translation": "n"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "dijon_france",
+            "Pubdate": "1983",
+            "Publisher": "Société d'étude des pays du Commenwealth",
+            "Title": "Commonwealth: Essays and Studies. Vol. 6, n° 1, Automn 1983",
             "Translation": "n"
         },
         {
@@ -8538,6 +8426,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "willimantic_united¬†states",
+            "Pubdate": "",
+            "Publisher": "",
+            "Title": "Ayiti",
+            "Translation": "y"
+        },
+        {
             "Author": "Robert Antoni",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -9264,6 +9163,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "Roxann A Bradshaw",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "charles_village_united¬†states",
+            "Pubdate": "2002",
+            "Publisher": "The Johns Hopkins University Press",
+            "Title": "Beryl Gilroy's Fact Fiction--Through The Lens Of The \"Quiet Old Lady\"",
+            "Translation": "n"
+        },
+        {
             "Author": "Baptiste Paul",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -9305,6 +9215,17 @@
             "Pubdate": "2018",
             "Publisher": "Groundwood Books",
             "Title": "Auntie Luce's Talking Paintings",
+            "Translation": "n"
+        },
+        {
+            "Author": "Captain Anthony Parsons",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1932",
+            "Publisher": "Planters' Punch",
+            "Title": "The Lost Safe - A Baffling Mystery With A Dramatic Conclusion",
             "Translation": "n"
         },
         {
@@ -10427,6 +10348,17 @@
             "Pubdate": "2005",
             "Publisher": "Unicopli",
             "Title": "L'Avana: La Città Sensuale di Leonardo Padura Fuentes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2014",
+            "Publisher": "Altromondo",
+            "Title": "Havana Melody",
             "Translation": "n"
         },
         {
@@ -11802,6 +11734,17 @@
             "Pubdate": "2009",
             "Publisher": "Caribbean Planet",
             "Title": "Boy Boy And The Magic Drum",
+            "Translation": "n"
+        },
+        {
+            "Author": "Richard F. Patterson",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2006",
+            "Publisher": "Callaloo",
+            "Title": "Resurrecting Rafael: Fictional Incarnations Of A Dominican Dictator",
             "Translation": "n"
         },
         {
@@ -14118,6 +14061,17 @@
             "Author": "V.S. Naipaul",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1989",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Die 80er Jahre",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Hebrew",
             "Pub_id": "tel_aviv_israel",
             "Pubdate": "1981",
@@ -14145,6 +14099,17 @@
             "Pubdate": "1990",
             "Publisher": "Arnoldo Mondadori Editore",
             "Title": "Mr. Stone and the Knights Companion",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Korean",
+            "Pub_id": "seoul_south_korea",
+            "Pubdate": "1989",
+            "Publisher": "Toso Ch'ulp'an Ch'inu",
+            "Title": "Chayu Ui Nara Eso",
             "Translation": "y"
         },
         {
@@ -14222,6 +14187,17 @@
             "Pubdate": "1982",
             "Publisher": "Odeon",
             "Title": "Dum Pro Pana Biswase",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Roland Adlerberth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "kyoto_japan",
+            "Pubdate": "1985",
+            "Publisher": "Jinbun Shoin",
+            "Title": "Indo Yami No Ryoiki",
             "Translation": "y"
         },
         {
@@ -17554,6 +17530,17 @@
             "Pub_id": "",
             "Pubdate": "1970",
             "Publisher": "Tusquets Editores S.A.",
+            "Title": "Esferaimagen: Sierpa De Don Luis De Góngora, Las imagenes Posibles",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1970",
+            "Publisher": "Tusquets Editores S.A.",
             "Title": "Esferaimagen",
             "Translation": "n"
         },
@@ -18955,6 +18942,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2000",
+            "Publisher": "Keensdee Productions",
+            "Title": "Crick ... Crack ... Cricket!!: A Humourous Look At Cricket",
+            "Translation": "n"
+        },
+        {
             "Author": "Katia D. Ulysse",
             "Descriptor": "Kula Moore (Illustrator)",
             "Genre": "Fiction (Novel)",
@@ -20097,6 +20095,17 @@
             "Publisher": "Editions Dapper",
             "Title": "Aventures Sur La Planète Knos",
             "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Evan Jones",
+            "Title": "Dr. Love Jones: Lays Down the Basics",
+            "Translation": "n"
         },
         {
             "Author": "Vanessa Spence",
@@ -23062,6 +23071,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Cyril V Briggs",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1920",
+            "Publisher": "Éditeur Inconnu",
+            "Title": "The Crusader: The Magazine Nearly Every Negro Reads",
+            "Translation": "n"
+        },
+        {
             "Author": "Roger Parsemain",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -24737,6 +24757,17 @@
             "Author": "V.S. Naipaul",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
+            "Language": "Russian",
+            "Pub_id": "moskva_russia",
+            "Pubdate": "1984",
+            "Publisher": "Raduga Publishers",
+            "Title": "Povesti I Rasskazy",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
             "Language": "English",
             "Pub_id": "new_york_ny__united_states",
             "Pubdate": "1984",
@@ -25171,6 +25202,17 @@
             "Pubdate": "1975",
             "Publisher": "Keensdee Productions",
             "Title": "When Moon Shine",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2005",
+            "Publisher": "Keensdee Productions",
+            "Title": "My Daddy ... Is De Best: Stories For The Family",
             "Translation": "n"
         },
         {
@@ -25735,270 +25777,6 @@
             "Publisher": "IDB Cultural Center",
             "Title": "Haiti: A Bi-Cultural Experience",
             "Translation": "y"
-        },
-        {
-            "Author": "Eden Phillpotts",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1929",
-            "Publisher": "George G. Harrap & Co. Ltd.",
-            "Title": "Eden Phillpotts",
-            "Translation": "n"
-        },
-        {
-            "Author": "Beryl Gilroy",
-            "Descriptor": "Roxann A Bradshaw",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "charles_village_united¬†states",
-            "Pubdate": "2002",
-            "Publisher": "The Johns Hopkins University Press",
-            "Title": "Beryl Gilroy's Fact Fiction--Through The Lens Of The \"Quiet Old Lady\"",
-            "Translation": "n"
-        },
-        {
-            "Author": "Captain Anthony Parsons",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1932",
-            "Publisher": "Planters' Punch",
-            "Title": "The Lost Safe - A Baffling Mystery With A Dramatic Conclusion",
-            "Translation": "n"
-        },
-        {
-            "Author": "Maria Nugent",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "kingston_jam_jamaica",
-            "Pubdate": "1950",
-            "Publisher": "West Indian review",
-            "Title": "A Govenor's Wife Keeps A Diary",
-            "Translation": "n"
-        },
-        {
-            "Author": "Chiara Bettelli Lelio",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "2014",
-            "Publisher": "Altromondo",
-            "Title": "Havana Melody",
-            "Translation": "n"
-        },
-        {
-            "Author": "Lloyd King",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "2006",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Reflections at New Credit",
-            "Translation": "n"
-        },
-        {
-            "Author": "Derek Walcott",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1993",
-            "Publisher": "Caedmon",
-            "Title": "Derek Walcott Reads",
-            "Translation": "n"
-        },
-        {
-            "Author": "Richard F. Patterson",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2006",
-            "Publisher": "Callaloo",
-            "Title": "Resurrecting Rafael: Fictional Incarnations Of A Dominican Dictator",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Baugh",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1988",
-            "Publisher": "Sandberry Press",
-            "Title": "A tale from the rainforest",
-            "Translation": "n"
-        },
-        {
-            "Author": "Earl Lovelace",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1998",
-            "Publisher": "IDB Cultural Center",
-            "Title": "Welcoming Each Other: Cultural Transformation of the Caribbean in the 21st Century : Lecture",
-            "Translation": "n"
-        },
-        {
-            "Author": "V.S. Naipaul",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1984",
-            "Publisher": "The Sunday Times Magazine",
-            "Title": "Heavy Manners in Grenada",
-            "Translation": "n"
-        },
-        {
-            "Author": "V.S. Naipaul",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Persian",
-            "Pub_id": "tehran_iran",
-            "Pubdate": "1988",
-            "Publisher": "Khátún",
-            "Title": "Dar Kishvar-i Azád",
-            "Translation": "y"
-        },
-        {
-            "Author": "V.S. Naipaul",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "dijon_france",
-            "Pubdate": "1983",
-            "Publisher": "Société d'étude des pays du Commenwealth",
-            "Title": "Commonwealth: Essays and Studies. Vol. 6, n° 1, Automn 1983",
-            "Translation": "n"
-        },
-        {
-            "Author": "José Lezama Lima",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1970",
-            "Publisher": "Biblioteca Nacional José Martí",
-            "Title": "Nuevo Encuentro Con Victor Manuel",
-            "Translation": "n"
-        },
-        {
-            "Author": "José Lezama Lima",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1971",
-            "Publisher": "Editorial Anagrama",
-            "Title": "Interrogando A Lezama Lima",
-            "Translation": "n"
-        },
-        {
-            "Author": "José Lezama Lima",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1970",
-            "Publisher": "Tusquets Editores S.A.",
-            "Title": "Esferaimagen: Sierpa De Don Luis De Góngora, Las imagenes Posibles",
-            "Translation": "n"
-        },
-        {
-            "Author": "Raoul Pantin",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "1974",
-            "Publisher": "Sharc Productions",
-            "Title": "Bim; An Outline. Based On An Original Idea",
-            "Translation": "n"
-        },
-        {
-            "Author": "Paul Keens-Douglas",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&_tobago",
-            "Pubdate": "1976",
-            "Publisher": "Keensdee Productions",
-            "Title": "\"Tim Tim\"",
-            "Translation": "n"
-        },
-        {
-            "Author": "Paul Keens-Douglas",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&_tobago",
-            "Pubdate": "2000",
-            "Publisher": "Keensdee Productions",
-            "Title": "Crick ... Crack ... Cricket!!: A Humourous Look At Cricket",
-            "Translation": "n"
-        },
-        {
-            "Author": "Paul Keens-Douglas",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&_tobago",
-            "Pubdate": "2000",
-            "Publisher": "Keensdee Productions",
-            "Title": "Las' Lap: Farewell To The Nineties : The Humour, Poetry and Storytelling",
-            "Translation": "n"
-        },
-        {
-            "Author": "Paul Keens-Douglas",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&_tobago",
-            "Pubdate": "2002",
-            "Publisher": "Keensdee Productions",
-            "Title": "It's The Little Things: The Poetry, Humour, Poetry And Storytelling",
-            "Translation": "n"
-        },
-        {
-            "Author": "Paul Keens-Douglas",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&_tobago",
-            "Pubdate": "2001",
-            "Publisher": "Keensdee Productions",
-            "Title": "The Best Of Paul Keens-Douglas. Vol. 2",
-            "Translation": "n"
-        },
-        {
-            "Author": "Paul Keens-Douglas",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&_tobago",
-            "Pubdate": "2003",
-            "Publisher": "Keensdee Productions",
-            "Title": "It' Not Easy: The Best Of Paul Keens-Douglas. Vol. 3",
-            "Translation": "n"
-        },
-        {
-            "Author": "Paul Keens-Douglas",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&_tobago",
-            "Pubdate": "2005",
-            "Publisher": "Keensdee Productions",
-            "Title": "My Daddy ... Is De Best: Stories For The Family",
-            "Translation": "n"
         }
     ],
     "Nonfiction": [
@@ -26751,6 +26529,17 @@
             "Translation": "n"
         },
         {
+            "Author": "James Linen",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1933",
+            "Publisher": "Planters' Punch",
+            "Title": "Former Kingston",
+            "Translation": "n"
+        },
+        {
             "Author": "Edwidge Danticat",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -27133,6 +26922,17 @@
             "Pubdate": "2022",
             "Publisher": "New Beacon Books",
             "Title": "Education Across Borders: Immigration, Race, and Identity",
+            "Translation": "n"
+        },
+        {
+            "Author": "Maria Nugent",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jam_jamaica",
+            "Pubdate": "1950",
+            "Publisher": "West Indian review",
+            "Title": "A Govenor's Wife Keeps A Diary",
             "Translation": "n"
         },
         {
@@ -27730,6 +27530,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "washington_d.c_united¬†states",
+            "Pubdate": "1998",
+            "Publisher": "IDB Cultural Center",
+            "Title": "Welcoming Each Other: Cultural Transformation of the Caribbean in the 21st Century : Lecture",
+            "Translation": "n"
+        },
+        {
             "Author": "Roberto Fernández Retamar",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -28295,6 +28106,17 @@
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "1984",
+            "Publisher": "The Sunday Times Magazine",
+            "Title": "Heavy Manners in Grenada",
+            "Translation": "n"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "1990",
             "Publisher": "New York review",
@@ -28376,6 +28198,17 @@
             "Pubdate": "1981",
             "Publisher": "Gyldendal",
             "Title": "Blant de Troende: en Islamsk Reise",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Persian",
+            "Pub_id": "tehran_iran",
+            "Pubdate": "1988",
+            "Publisher": "Khátún",
+            "Title": "Dar Kishvar-i Azád",
             "Translation": "y"
         },
         {
@@ -29550,6 +29383,28 @@
             "Genre": "Nonfiction",
             "Language": "Spanish",
             "Pub_id": "havana_cuba",
+            "Pubdate": "1970",
+            "Publisher": "Biblioteca Nacional José Martí",
+            "Title": "Nuevo Encuentro Con Victor Manuel",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "",
+            "Pubdate": "1971",
+            "Publisher": "Editorial Anagrama",
+            "Title": "Interrogando A Lezama Lima",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
             "Pubdate": "1958",
             "Publisher": "La Universidad Central \"Marta Abreu\" de Las Villas",
             "Title": "Tratados En Havana. Ensayos, Por Jose Lezama Lima, Primera Edicion",
@@ -29685,6 +29540,17 @@
             "Pubdate": "2007",
             "Publisher": "iUniverse",
             "Title": "Days Of Wrath: The 1990 Coup In Trinidad & Tobago",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raoul Pantin",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
+            "Pubdate": "1974",
+            "Publisher": "Sharc Productions",
+            "Title": "Bim; An Outline. Based On An Original Idea",
             "Translation": "n"
         },
         {
@@ -30301,6 +30167,28 @@
             "Pubdate": "2011",
             "Publisher": "Routledge",
             "Title": "Principles And Practice Of Tonal Counterpoint",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2006",
+            "Publisher": "University of New England",
+            "Title": "Treatment Of Error In Students' Second Language Writing: An Investigation Of Two Online Approaches",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "sydney_australia",
+            "Pubdate": "1978",
+            "Publisher": "School of Economics University of Sydney",
+            "Title": "An Examination Of Earnings Differentials In Australian Manufacturing Industry",
             "Translation": "n"
         },
         {
@@ -31674,6 +31562,17 @@
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
+            "Pub_id": "ealing_england",
+            "Pubdate": "1971",
+            "Publisher": "Bogle-L'Ouverture Publications",
+            "Title": "I Must Be Given Words To Shape My Name",
+            "Translation": ""
+        },
+        {
+            "Author": "Edward Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
             "Pub_id": "oxford_england",
             "Pubdate": "1988",
             "Publisher": "Oxford University Press",
@@ -32773,12 +32672,12 @@
         },
         {
             "Author": "Adisa Andwele",
-            "Descriptor": "1989",
+            "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
-            "Pub_id": "bridgetown_barbados",
-            "Pubdate": "1989",
-            "Publisher": "We Culture Publications",
+            "Pub_id": "leeds_england",
+            "Pubdate": "1990",
+            "Publisher": "Peepal Tree Press",
             "Title": "Rhythm an' Roots: A Collection Of Poems",
             "Translation": "n"
         },
@@ -33916,6 +33815,17 @@
             "Translation": "n"
         },
         {
+            "Author": "John J Figueroa",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "liverpool_england",
+            "Pubdate": "1962",
+            "Publisher": "Tinling & Co.",
+            "Title": "Love Leaps Here",
+            "Translation": "n"
+        },
+        {
             "Author": "Edward Baugh",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -33935,6 +33845,17 @@
             "Pubdate": "2013",
             "Publisher": "Peepal Tree Press",
             "Title": "Black sand : new and selected poems",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward Baugh",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1988",
+            "Publisher": "Sandberry Press",
+            "Title": "A tale from the rainforest",
             "Translation": "n"
         },
         {
@@ -35214,6 +35135,61 @@
             "Translation": "n"
         },
         {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "1976",
+            "Publisher": "Keensdee Productions",
+            "Title": "\"Tim Tim\"",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2000",
+            "Publisher": "Keensdee Productions",
+            "Title": "Las' Lap: Farewell To The Nineties : The Humour, Poetry and Storytelling",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2002",
+            "Publisher": "Keensdee Productions",
+            "Title": "It's The Little Things: The Poetry, Humour, Poetry And Storytelling",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2001",
+            "Publisher": "Keensdee Productions",
+            "Title": "The Best Of Paul Keens-Douglas. Vol. 2",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2003",
+            "Publisher": "Keensdee Productions",
+            "Title": "It' Not Easy: The Best Of Paul Keens-Douglas. Vol. 3",
+            "Translation": "n"
+        },
+        {
             "Author": "Wycliffe Bennett",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -35647,6 +35623,17 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
+            "Pub_id": "london__england",
+            "Pubdate": "1960",
+            "Publisher": "Deutsch",
+            "Title": "The Father: Letters To Sons And Daughters",
+            "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "manchester_england",
             "Pubdate": "2012",
             "Publisher": "Carcanet Press",
@@ -35663,6 +35650,17 @@
             "Publisher": "Fitzhenry & Whiteside",
             "Title": "New Canadian Poetry",
             "Translation": "n"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Welsh",
+            "Pub_id": "swansea_wales",
+            "Pubdate": "1925",
+            "Publisher": "Thomas a Parry, Cyf.",
+            "Title": "Doethineb Llafar",
+            "Translation": "y"
         },
         {
             "Author": "Evan Jones",

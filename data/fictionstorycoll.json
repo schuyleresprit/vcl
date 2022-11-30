@@ -1489,6 +1489,30 @@
             "Translation": "n"
         }
     ],
+    "cvbriggs": [
+        {
+            "Author": "Cyril V Briggs",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1920",
+            "Publisher": "Éditeur Inconnu",
+            "Title": "The Crusader: The Magazine Nearly Every Negro Reads",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cyril V Briggs",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1920",
+            "Publisher": "Éditeur Inconnu",
+            "Title": "The Crusader: The Magazine Nearly Every Negro Reads",
+            "Translation": "n"
+        }
+    ],
     "cwilson": [
         {
             "Author": "Cynthia Wilson",
@@ -4965,6 +4989,28 @@
             "Publisher": "Keensdee Productions",
             "Title": "When Moon Shine",
             "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2005",
+            "Publisher": "Keensdee Productions",
+            "Title": "My Daddy ... Is De Best: Stories For The Family",
+            "Translation": "n"
+        },
+        {
+            "Author": "Paul Keens-Douglas",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "port_of_spain_trinidad_&_tobago",
+            "Pubdate": "2005",
+            "Publisher": "Keensdee Productions",
+            "Title": "My Daddy ... Is De Best: Stories For The Family",
+            "Translation": "n"
         }
     ],
     "pmelville": [
@@ -5970,6 +6016,28 @@
             "Pubdate": "1984",
             "Publisher": "Decje novine",
             "Title": "Ulica Migel",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Russian",
+            "Pub_id": "moskva_russia",
+            "Pubdate": "1984",
+            "Publisher": "Raduga Publishers",
+            "Title": "Povesti I Rasskazy",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Russian",
+            "Pub_id": "moskva_russia",
+            "Pubdate": "1984",
+            "Publisher": "Raduga Publishers",
+            "Title": "Povesti I Rasskazy",
             "Translation": "y"
         },
         {
