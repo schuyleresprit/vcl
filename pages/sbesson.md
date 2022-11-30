@@ -7,7 +7,7 @@ permalink: /sbesson
 <div class="content">
     <h1>Sherwyn Besson</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://bbbookdataprod.blob.core.windows.net/authorimages/CT91650929/CT91650929.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
