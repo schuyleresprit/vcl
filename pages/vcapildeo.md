@@ -7,7 +7,7 @@ permalink: /vcapildeo
 <div class="content">
     <h1>Vahni Capildeo</h1>
     <div class="quote">
-        <div><img src="https://www.forwardartsfoundation.org/wp-content/uploads/2020/09/CafRRKbg-2-scaled-e1599125717827.jpeg" class="logo"></div>
+        <div><img src="https://www.scottishpoetrylibrary.org.uk/wp-content/uploads/2018/05/Vahni-Capildeo-Forward-Prize-for-Best-Collection-winner.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

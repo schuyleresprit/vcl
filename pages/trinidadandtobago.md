@@ -449,6 +449,22 @@ permalink: /3
     <div id="post-28" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://static.wixstatic.com/media/a27d24_efa054a8e0a940d9839e3f12769d0936~mv2.png/v1/fill/w_172,h_305,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a27d24_efa054a8e0a940d9839e3f12769d0936~mv2.png" width="80%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mcozier">Michael Cozier</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-29" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHCD5zAvIYGZQ/profile-displayphoto-shrink_200_200/0/1517471331471?e=2147483647&v=beta&t=tKgpKVnIdKvJf8QxQaHJ418Zv_bG8WuFAoGqYifPSyo" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
@@ -462,7 +478,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-29" class="vesti-col timeline-post">
+    <div id="post-30" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://i0.wp.com/www.culture.gov.tt/wp-content/uploads/2015/06/MBM-2015_Paul-Keens-Douglas.jpg" width="60%">
@@ -478,7 +494,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-30" class="vesti-col timeline-post">
+     <div id="post-31" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.bocaslitfest.com/wp-content/uploads/2021/02/0015_Nathalie-Taghaboni.jpg">
@@ -494,7 +510,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-31" class="vesti-col timeline-post">
+     <div id="post-32" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://pbs.twimg.com/media/Dnim-AgXcAAz7De.jpg" width="80%">
@@ -506,22 +522,6 @@ permalink: /3
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/rmaharaj">Rabindranath Maharaj</a></h4>
-          </a>
-        </div>
-      </div>
-    </div>
- <div id="post-32" class="vesti-col timeline-post">
-      <div class="vesti-content-wrapper">
-        <div class="photo">
-          <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/robert%20antoni.jpg" width="80%">
-          <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-            </div>
-          </div>
-        </div>
-        <div class="vesti-desc">
-          <a class="desc-a" href="#">
-            <h4><a href="/rantoni">Robert Antoni</a></h4>
           </a>
         </div>
       </div>
