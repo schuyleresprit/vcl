@@ -5,11 +5,8 @@ from util import StackFrontier, QueueFrontier
 from util import  Node
 
 
-# Maps names to a set of corresponding author_country
 countries = {}
-# Maps author_ids to a dictionary of: name, title, pubdate,  publisher
 authors = {}
-# Maps title_ids to a dictionary of: title, year, stars (a set of author_ids)
 languages = {}
 genres = {}
 names = {}
@@ -146,7 +143,7 @@ def author_id_for_name(name):
     Returns the IMDB id for a person's name,
     resolving ambiguities as needed.
     """
-    person_ids = list(names.get(name.lower(), set()))
+    author_ids = list(names.get(name.lower(), set()))
     if len(author_ids) == 0:
         return None
     elif len(author_ids) > 1:
