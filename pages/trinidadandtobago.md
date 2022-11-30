@@ -497,7 +497,7 @@ permalink: /3
      <div id="post-31" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://www.canadianauthors.net/m/maharaj_rabindranath/maharaj_rabindranath.jpg" width="50%" height="50%">
+          <img src="https://pbs.twimg.com/media/Dnim-AgXcAAz7De.jpg" width="80%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -545,7 +545,7 @@ permalink: /3
         <div id="post-34" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="70%">
+          <img src="https://www.bcpires.com/rw_common/plugins/stacks/armadillo/media/sala34web.jpg" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>

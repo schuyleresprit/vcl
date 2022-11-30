@@ -7,7 +7,7 @@ permalink: /rmaharaj
 <div class="content">
     <h1>Rabindranath Maharaj</h1>
     <div class="quote">
-        <div><img src="http://www.canadianauthors.net/m/maharaj_rabindranath/maharaj_rabindranath.jpg" class="logo"></div>
+        <div><img src="https://pbs.twimg.com/media/Dnim-AgXcAAz7De.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
