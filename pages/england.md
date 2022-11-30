@@ -78,21 +78,6 @@ permalink: /11
      </div>
    </div>
  </div>
-    <div id="post-5" class="vesti-col timeline-post">
-      <div class="vesti-content-wrapper">
-        <div class="photo">
-          <img src="https://prabook.com/web/show-photo.jpg?id=2582591">
-          <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-            </div>
-          </div>
-        </div>
-        <div class="vesti-desc">
-          <a class="desc-a" href="#">
-            <h4><a href="/okempadoo">Oonya Kempadoo</a></h4>
-          </a>
-        </div>
-      </div>
-    </div>
+
 
 <!-- partial -->
