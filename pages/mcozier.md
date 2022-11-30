@@ -32,35 +32,6 @@ permalink: /mcozier
                 Publisher: iUniverse <br/>
                 Pub_location: Bloomington, Indiana, United States <br/>
                 Genre: Fiction (Short Story Collection) <br/>
-                Translation: y <br/>
                 Length: 180 <br/>                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2010</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Bend Foot Bailey</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/513rOTOfpbL._SX310_BO1,204,203,200_.jpg"></p>
-                <p> Language: English <br/>
-                Publisher: Potbake Productions <br/>
-                Pub_location: Trincity, Trinidad and Tobagoos <br/>
-                Genre: Fiction (Short Story Collection) <br/>
-                  Translation: y <br/>
-                Length: 152 <br/>                </p>
-               </div>
-       		   </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">2012</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Of Suits and Horses</h1><hr>
-                <p><img src="https://kbimages1-a.akamaihd.net/090528a6-44f7-43ef-808c-b0e900346b6e/353/569/90/False/of-suits-and-horses.jpg"></p>
-                <p> Language: English <br/>
-                Publisher: Smashwords Edition <br/>
-                Pub_location: Los Gatos, California <br/>
-                Genre: Fiction (Short Story Collection) <br/>
-                 Translation: y <br/>
-                Length: 13 <br/>                </p>
             </div>
         </div>
