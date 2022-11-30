@@ -7,7 +7,7 @@ permalink: /mafield
 <div class="content">
     <h1>Michael Anthony Field</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Michael_Anthony_%282020%29.jpg/330px-Michael_Anthony_%282020%29.jpg" class="logo"></div>
+        <div><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
