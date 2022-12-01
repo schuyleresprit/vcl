@@ -5,19 +5,19 @@
 				event.preventDefault();
 				submitdata = {
 					"ajax": 1,
-				"a": "",
-				"b": "",
-				"use_role_types": "",
-				"rt0": "",
-				"company": "",
+				"Author": "",
+				"Pubdate": "",
+				"Publisher": "",
+				"Publocation": "",
+				"Title": "",
 				};
 				$.ajax({
-					type: "POST",
+					type: "Author",
 					url: "publications.json",
 					data: submitdata,
 					dataType: "html",
 					success: function( data ) {
-						document.getElementById("linkresult").innerHTML = data;
+						document.getElementById("Author").innerHTML = data;
 					}
 				});
 			});
