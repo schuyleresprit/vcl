@@ -94,6 +94,22 @@ permalink: /3
      </div>
    </div>
  </div>
+ <div id="post-4" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://andrewbukkarennie.com/wp-content/uploads/2021/08/aa-400x518.png" width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/brennie">Bukka Rennie</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
   <div id="post-4" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -913,22 +929,6 @@ permalink: /3
     <div id="post-38" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://media4.manhattan-institute.org/sites/cj/files/shiva-naipaul_1.jpg" width="60%">
-          <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-            </div>
-          </div>
-        </div>
-        <div class="vesti-desc">
-          <a class="desc-a" href="#">
-            <h4><a href="/shnaipaul">Shiva Naipaul</a></h4>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div id="post-38" class="vesti-col timeline-post">
-      <div class="vesti-content-wrapper">
-        <div class="photo">
           <img src="https://images.squarespace-cdn.com/content/v1/5664929ae4b0288a6983e67d/1451600581491-Y21XBODL7MKV8AP194L5/SharonMillar_AuthorPhoto.jpg?format=1000w" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
@@ -958,6 +958,22 @@ permalink: /3
         </div>
       </div>
     </div>
+    <div id="post-38" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://media4.manhattan-institute.org/sites/cj/files/shiva-naipaul_1.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/shnaipaul">Shiva Naipaul</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
      <div id="post-40" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -970,6 +986,22 @@ permalink: /3
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/ssmaharajh">Shiva Shridath Maharajh</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-38" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://cortex.persona.co/w/750/i/73af4e2b371384ccc48349fd95e39999f01573b441cc7a51d6b29adce3dcc3ca/Marlon-James_Portrait_Author_Shivanee-Ramlochan17-04-12098_bw.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/sramlochan">Shivanee Ramlochan</a></h4>
           </a>
         </div>
       </div>
@@ -1001,7 +1033,23 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/vcapildeo"> Vahni Capildeo</a></h4>
+            <h4><a href="/vcapildeo">Vahni Capildeo</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-43" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://vanessariley.com/gotool/image/data/3377_VanessaRileyH1sm.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/vriley">Vanessa Riley</a></h4>
           </a>
         </div>
       </div>
