@@ -7,7 +7,7 @@ permalink: /ccraig
 <div class="content">
     <h1>Christine Craig</h1>
     <div class="quote">
-        <div><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg" class="logo"></div>
+        <div><img src="https://japoetryarchive.nlj.gov.jm/wp-content/uploads/2022/03/Christine-craig-img.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
