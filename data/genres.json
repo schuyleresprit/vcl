@@ -25766,19 +25766,6 @@
             "Translation": "n"
         }
     ],
-    "NA": [
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "NA",
-            "Language": "Spanish",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "IDB Cultural Center",
-            "Title": "Haiti: A Bi-Cultural Experience",
-            "Translation": "y"
-        }
-    ],
     "Nonfiction": [
         {
             "Author": "Ezequiel Vieta",
@@ -26549,6 +26536,17 @@
             "Publisher": "Vintage Books",
             "Title": "Create Dangerously: The Immigrant Artist at Work",
             "Translation": "n"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Spanish",
+            "Pub_id": "washington_d.c_united¬†states",
+            "Pubdate": "2011",
+            "Publisher": "IDB Cultural Center",
+            "Title": "Haiti: A Bi-Cultural Experience",
+            "Translation": "y"
         },
         {
             "Author": "Bernard Magnier",

@@ -310,13 +310,13 @@
         "Pub_id": "budapest_hungary"
     },
     "buenos_aires": {
-        "Lat": -34.607568,
-        "Long": -58.437089,
+        "Lat": -34.6075682,
+        "Long": -58.4370894,
         "Pub_id": "buenos_aires"
     },
     "buenos_aires_argentina": {
-        "Lat": -34.607568,
-        "Long": -58.437089,
+        "Lat": -34.6075682,
+        "Long": -58.4370894,
         "Pub_id": "buenos_aires_argentina"
     },
     "buffalo_ny_united_states": {
@@ -1355,8 +1355,8 @@
         "Pub_id": "m√ºnchen_germany"
     },
     "na_na": {
-        "Lat": 14.65,
-        "Long": 120.95,
+        "Lat": 1.285044,
+        "Long": 103.82216,
         "Pub_id": "na_na"
     },
     "nashville_tn_united_states": {
