@@ -15,9 +15,11 @@ permalink: /amgomes
             <div class="date right"><p class="right"> 1911-1978</p></div>
             <div class="dot"></div>
             <div class="left first">
+        <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Albert Maria Gomes is from Trinidad & Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/Albert_Gomes"_blank">Read more</a>
+          <div class="aclocation"> <p>Albert Maria Gomes is from <a href="http://localhost:4000/3">Trinidad & Tobago</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Albert_Gomes" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
