@@ -1,0 +1,93 @@
+---
+layout: defaultau
+title: "Anthony C. Winkler"
+permalink: /acwinkler
+---
+<!-- partial:index.partial.html -->
+<div class="content">
+    <h1>Anthony C. Winkler</h1>
+    <div class="quote">
+        <div><img src="https://upload.wikimedia.org/wikipedia/en/4/40/Anthony_C._Winkler.jpg"logo"></div>
+    </div>
+    <div class="timeline">
+        <div style="padding-bottom:100px;"></div>
+        <div class="block">
+            <div class="date right"><p class="right">1942-2015</p></div>
+            <div class="dot"></div>
+            <div class="left first">
+                <h1>Author Country</h1><hr>
+            <p>Anthony C. Winkler is from Jamaica.</p>
+                <a href="https://en.wikipedia.org/wiki/Anthony_C._Winkler"_blank">Read more</a>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1987</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Lunatic</h1><hr>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcF_chjcC5i3Jcy7I1cIVVpvmFTCUrM_vSJU-waffkgNEwh0dp"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Akashic Books<br/>
+                Pub_location: Brooklyn, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 210<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">1995</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Going Home To Teach</h1><hr>
+                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkAe60aQPMW0xr846unPSxpG_RIYxXK5l1SUZ9oVbkK5BsDJYY"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Macmillan Publishers<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Autobiography/Memoir<br/>
+                Length: 318<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2007</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Dog War</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51h3kY-a4vL._SX373_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Akashic Books<br/>
+                Pub_location: Brooklyn, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 220<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>God Carlos</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51hPmUTQ-XL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Akashic Books<br/>
+                Pub_location: Brooklyn, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 200<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2019</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Family Mansion</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/510uE5hjryL._SX338_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Akashic Books<br/>
+                Pub_location: Brooklyn, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 224<br/>                   </p>
+            </div>
+        </div>
+   

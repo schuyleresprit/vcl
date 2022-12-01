@@ -17,6 +17,22 @@ permalink: /3
     <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/9842/UWI-PIC-320.pdf.jpg?sequence=4&isAllowed=y" width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/amgomes">Albert Maria Gomes</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-2" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://i.dailymail.co.uk/1s/2019/12/11/14/22019088-7772873-Born_in_Trinidad_in_1897_Alfred_H_Mendes_attended_private_school-a-5_1576075112286.jpg"  width="60%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
@@ -105,7 +121,39 @@ permalink: /3
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/cmaharaj"> Clement Maharaj</a></h4>
+         <h4><a href="/cmaharaj">Clement Maharaj</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-6" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://www.thefamouspeople.com/profiles/images/c-l-r-james-4.jpg"  width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/clrjames">C. L. R. James</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-6" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://4.bp.blogspot.com/-mhWVcononFc/Tt94WfRn0YI/AAAAAAAADzI/m1-TPEEfxt0/s1600/CynthiaJames.JPG"  width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/cjames">Cynthia James</a></h4>
        </a>
      </div>
    </div>
@@ -234,6 +282,22 @@ permalink: /3
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/glanatol">Giselle Liza Anatol</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-15" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://scontent.fdcf1-1.fna.fbcdn.net/v/t39.30808-6/291980872_503429235119409_2784615760273993991_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZA1v8fKvRGYAX9iNMZa&_nc_ht=scontent.fdcf1-1.fna&oh=00_AfBNuHcY9LFhXpJGTpvbduPRmmgX3Cl5ti2qbnfF18by2w&oe=638EA9B3" width= "70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/gguevara">Glynis Guevara</a></h4>
           </a>
         </div>
       </div>
@@ -430,6 +494,22 @@ permalink: /3
         </div>
       </div>
     </div>
+    <div id="post-27" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://stories.isu.pub/88562224/images/43_original_file_I0.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mhodge">Merle Hodge</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
      <div id="post-27" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -489,12 +569,28 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mpbartonromeo"> Michelle Paula Barton-Romeo</a></h4>
+            <h4><a href="/mpbartonromeo"> Michelle Paula Barton-Romeo</a></h4> 
           </a>
         </div>
       </div>
     </div>
     <div id="post-31" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/ngiuseppi">Neville Giuseppi</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-32" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://i0.wp.com/www.culture.gov.tt/wp-content/uploads/2015/06/MBM-2015_Paul-Keens-Douglas.jpg" width="60%">
