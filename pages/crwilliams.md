@@ -12,7 +12,7 @@ permalink: /crwilliams
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> B. ??? </p></div>
+            <div class="date right"><p class="right"> </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -23,19 +23,17 @@ permalink: /crwilliams
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
+            <div class="date left"><p class="left">1827</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>A Tour Through Jamaica in 1823. - Scholar's Choice Edition</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41no9Ba4NmL._SX382_BO1,204,203,200_.jpg"></p>
+                <h1>Hamel, The Obeah Man</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413746101l/9365358.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Scholar's Choice	 		 <br/>
+                Publisher: London Hunt and Clarke<br/>
                 Pub_location: London, England <br/>
-                Genre: Nonfiction Book <br/>
-                Length: 396 <br/>                   </p>
+                Genre: Fiction (Novel)<br/>
+                Length: 496<br/>                   </p>
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
