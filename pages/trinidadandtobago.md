@@ -105,7 +105,7 @@ permalink: /3
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/cmohammed"> Celeste Mohammed</a></h4>
+         <h4><a href="/cmohammed">Celeste Mohammed</a></h4>
        </a>
      </div>
    </div>
@@ -174,22 +174,6 @@ permalink: /3
      </div>
    </div>
  </div>
-  <div id="post-7" class="vesti-col timeline-post">
-   <div class="vesti-content-wrapper">
-     <div class="photo">
-       <img src="https://griffinpoetryprize.com/wp-content/uploads/2022/03/brand-dionne-e1647884604301.jpeg"  width="60%">
-       <div class="vesti-date-wrapper">
-         <div class="vesti-date">
-         </div>
-       </div>
-     </div>
-     <div class="vesti-desc">
-       <a class="desc-a" href="#">
-         <h4><a href="/dbrand">Dionne Brand</a></h4>
-       </a>
-     </div>
-   </div>
- </div>
  <div id="post-8" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -206,6 +190,38 @@ permalink: /3
      </div>
    </div>
  </div>
+ <div id="post-8" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="70%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/dflpierreluke">D.F. Les Pierre-Luke</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-7" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://griffinpoetryprize.com/wp-content/uploads/2022/03/brand-dionne-e1647884604301.jpeg"  width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/dbrand">Dionne Brand</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
    <div id="post-9" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -218,6 +234,38 @@ permalink: /3
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/epspringer">Eintou Pearl Springer</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-9" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://aalbc.com/author-photos/Earl_Lovelace.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/elovelace">Earl Lovelace</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-10" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Elizabeth_nunez_9285010.jpg/220px-Elizabeth_nunez_9285010.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/enunez">Elizabeth Nunez</a></h4>
           </a>
         </div>
       </div>
@@ -350,10 +398,26 @@ permalink: /3
         </div>
       </div>
     </div>
+    <div id="post-16" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ingrid_Persaud_%28writer%29_%28cropped%29.tif/lossy-page1-220px-Ingrid_Persaud_%28writer%29_%28cropped%29.tif.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/ipersaud">Ingrid Persaud</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
       <div id="post-16" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://www.indocaribbeanworld.com/archives/2017/july_19_2017/images/17_Ismith.jpg" width= "60%">
+          <img src="http://www.indocaribbeanworld.com/archives/2017/july_19_2017/images/17_Ismith.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -425,7 +489,7 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/kmkhelawan"> Kia Marie Khelawan</a></h4>
+            <h4><a href="/kmkhelawan">Kia Marie Khelawan</a></h4>
           </a>
         </div>
       </div>
@@ -441,7 +505,23 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/kasital"> Krystal A Sital</a></h4>
+            <h4><a href="/kasital">Krystal A Sital</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-22" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="http://www.bestoftrinidad.com/profiles/persaudL.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/lpersaud">Lakshmi Persaud</a></h4>
           </a>
         </div>
       </div>
@@ -481,6 +561,22 @@ permalink: /3
     <div id="post-24" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://images.thestar.com/wKSk34ClZuTZuDc9UiGZM7xU5Yw=/1280x1024/smart/filters:cb(1581545809894)/https://www.thestar.com/content/dam/thestar/news/world/us/2020/02/12/canadian-poet-m-nourbese-philip-to-receive-pen-america-writing-award/CPT13845083.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mnphilip">M. NourbeSe Philip</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-24" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://www.damajority.com/wp-content/uploads/2020/11/Machell-copy2.png" >
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
@@ -506,6 +602,22 @@ permalink: /3
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/msbrown">Marina Salandy-Brown</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-24" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" >
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mocallaghan">Marion O'Callaghan</a></h4>
           </a>
         </div>
       </div>
@@ -586,6 +698,22 @@ permalink: /3
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/mcozier">Michael Cozier</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-29" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://pbs.twimg.com/media/EGWXloQXYAI2lRC.jpg" width="80%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mmphilip">Michel Maxwell Philip</a></h4>
           </a>
         </div>
       </div>
@@ -686,6 +814,22 @@ permalink: /3
         </div>
       </div>
     </div>
+    <div id="post-33" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://1.bp.blogspot.com/-87E03e7esI0/TzIOEzXckoI/AAAAAAAAOOQ/Ff8ZvCipvVU/s400/pantin.jpg" width="80%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rpantin">Raoul Pantin</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
     <div id="post-34" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -746,6 +890,38 @@ permalink: /3
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/sclarke">Sebastian Clarke</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-38" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Seepersad_Naipaul_with_Ford_Prefect.jpg/220px-Seepersad_Naipaul_with_Ford_Prefect.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/snaipaul">Seepersad Naipaul</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-38" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://media4.manhattan-institute.org/sites/cj/files/shiva-naipaul_1.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/shnaipaul">Shiva Naipaul</a></h4>
           </a>
         </div>
       </div>
