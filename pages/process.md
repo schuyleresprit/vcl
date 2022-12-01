@@ -3,7 +3,7 @@ layout: pagedefault
 title: "Process"
 permalink: /process
 ---
-
+<div class="page_title"><h3>The Process</h3></div>
 __Introducing Visualizing Caribbean Literature__
 
 ___Where we begin (by Dr. Schuyler Esprit)___
