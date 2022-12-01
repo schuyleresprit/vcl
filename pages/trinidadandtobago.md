@@ -289,6 +289,22 @@ permalink: /3
     <div id="post-18" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://m.media-amazon.com/images/I/61QFz-WLsDL._SX450_.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/kdeen">Kamalo Deen</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-19" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://static.wired868.com/wp-content/uploads/2016/07/Kevin-Baldeosingh.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
@@ -302,7 +318,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-19" class="vesti-col timeline-post">
+    <div id="post-20" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/o1btpbn1860esin9hdeaibe44h._SY600_.jpg" width="60%">
@@ -318,7 +334,7 @@ permalink: /3
         </div>
       </div>
     </div>
-        <div id="post-20" class="vesti-col timeline-post">
+        <div id="post-21" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5PxdlWKl4iz8jo-dhu2kgqAHo-bAU2OCSz9Tj7naU2x3HEI82Nf7djVlvauKu9tAq4Q&usqp=CAU" width="50%">
@@ -334,7 +350,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-21" class="vesti-col timeline-post">
+    <div id="post-22" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.lawrencescott.co.uk/Resources/item1a1.jpeg" width="60%">
@@ -350,7 +366,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-22" class="vesti-col timeline-post">
+    <div id="post-23" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://sta.uwi.edu/crgs/images/CRGS_Issue10_LisaAllenAgostini.jpg">
@@ -366,7 +382,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-23" class="vesti-col timeline-post">
+    <div id="post-24" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.damajority.com/wp-content/uploads/2020/11/Machell-copy2.png" >
@@ -382,7 +398,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-24" class="vesti-col timeline-post">
+    <div id="post-25" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://globalvoices.org/wp-content/uploads/2020/12/Marina-Headshot-400x600.jpg" width="60%"> 
@@ -398,7 +414,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-25" class="vesti-col timeline-post">
+     <div id="post-26" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.mona.uwi.edu/liteng/sites/default/files/liteng/maureen_warner-lewis.png" width="60%">
@@ -414,7 +430,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-26" class="vesti-col timeline-post">
+     <div id="post-27" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -430,7 +446,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-27" class="vesti-col timeline-post">
+     <div id="post-28" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://sflcn.com/wp-content/uploads/2015/09/Dr.-Michael-Anthony.jpg" width="70%">
@@ -446,7 +462,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-28" class="vesti-col timeline-post">
+    <div id="post-29" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://static.wixstatic.com/media/a27d24_efa054a8e0a940d9839e3f12769d0936~mv2.png/v1/fill/w_172,h_305,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a27d24_efa054a8e0a940d9839e3f12769d0936~mv2.png" width="80%">
@@ -462,7 +478,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-29" class="vesti-col timeline-post">
+    <div id="post-30" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHCD5zAvIYGZQ/profile-displayphoto-shrink_200_200/0/1517471331471?e=2147483647&v=beta&t=tKgpKVnIdKvJf8QxQaHJ418Zv_bG8WuFAoGqYifPSyo" width="60%">
@@ -478,7 +494,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-30" class="vesti-col timeline-post">
+    <div id="post-31" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://i0.wp.com/www.culture.gov.tt/wp-content/uploads/2015/06/MBM-2015_Paul-Keens-Douglas.jpg" width="60%">
@@ -494,7 +510,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-31" class="vesti-col timeline-post">
+     <div id="post-32" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.bocaslitfest.com/wp-content/uploads/2021/02/0015_Nathalie-Taghaboni.jpg">
@@ -510,7 +526,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-32" class="vesti-col timeline-post">
+     <div id="post-33" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://pbs.twimg.com/media/Dnim-AgXcAAz7De.jpg" width="80%">
@@ -526,7 +542,39 @@ permalink: /3
         </div>
       </div>
     </div>
-      <div id="post-33" class="vesti-col timeline-post">
+    <div id="post-34" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://scontent.fdcf1-1.fna.fbcdn.net/v/t1.18169-9/574457_115092901971480_328507962_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9267fe&_nc_ohc=gpVy41Z6-6gAX9f4daf&_nc_ht=scontent.fdcf1-1.fna&oh=00_AfDWEIHSobzE9VMah1Dgb8cZt95zMk4oMkoMVc01WuiuNw&oe=63B03802" width="80%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/ragalt">Roy A. Galt</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-35" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://popgoesthereader.com/wp-content/uploads/2020/12/Author-Photo-Sarah-Dass.png" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/sdass">Sarah Dass</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+      <div id="post-36" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://images.gr-assets.com/authors/1401975751p5/8293973.jpg" width="60%">
@@ -542,7 +590,7 @@ permalink: /3
         </div>
       </div>
     </div>
-        <div id="post-34" class="vesti-col timeline-post">
+        <div id="post-37" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.bcpires.com/rw_common/plugins/stacks/armadillo/media/sala34web.jpg" width="70%">
@@ -558,7 +606,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-35" class="vesti-col timeline-post">
+    <div id="post-38" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://images.squarespace-cdn.com/content/v1/5664929ae4b0288a6983e67d/1451600581491-Y21XBODL7MKV8AP194L5/SharonMillar_AuthorPhoto.jpg?format=1000w" width="60%">
@@ -574,7 +622,7 @@ permalink: /3
         </div>
       </div>
     </div>
-      <div id="post-36" class="vesti-col timeline-post">
+      <div id="post-39" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://bbbookdataprod.blob.core.windows.net/authorimages/CT91650929/CT91650929.jpg" width="60%">
@@ -590,7 +638,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-37" class="vesti-col timeline-post">
+     <div id="post-40" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -606,7 +654,7 @@ permalink: /3
         </div>
       </div>
     </div>
-    <div id="post-38" class="vesti-col timeline-post">
+    <div id="post-41" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -617,12 +665,12 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/tchadee"> Trevor Chadee</a></h4>
+            <h4><a href="/tchadee">Trevor Chadee</a></h4>
           </a>
         </div>
       </div>
     </div>
-    <div id="post-39" class="vesti-col timeline-post">
+    <div id="post-42" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.scottishpoetrylibrary.org.uk/wp-content/uploads/2018/05/Vahni-Capildeo-Forward-Prize-for-Best-Collection-winner.jpg" width="60%">
@@ -638,7 +686,7 @@ permalink: /3
         </div>
       </div>
     </div>
-     <div id="post-40" class="vesti-col timeline-post">
+     <div id="post-43" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg" width="60%">
@@ -654,7 +702,7 @@ permalink: /3
         </div>
       </div>
     </div>
-      <div id="post-41" class="vesti-col timeline-post">
+      <div id="post-44" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.independentauthornetwork.com/uploads/3/9/7/9/3979996/8115105.jpg">
