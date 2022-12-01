@@ -16,7 +16,7 @@ permalink: /awilentz
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Amy Wilentz is from United States.</p>
+            <p>Amy Wilentz is from the United States.</p>
                 <a href="https://en.wikipedia.org/wiki/Amy_Wilentz"_blank">Read more</a>
             </div>
         </div>
