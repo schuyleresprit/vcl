@@ -23,9 +23,9 @@ permalink: /ldaisley
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>The Adventures of Lisbeth</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61zX6YCQUwL._SY498_BO1,204,203,200_.jpg"></p>
                 <p>
