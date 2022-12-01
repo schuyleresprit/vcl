@@ -27,8 +27,7 @@ permalink: /ravmartinez
                 <h1>"Rayano": Una Nueva Metafora Para Explicar La Dominicanidad</h1><hr>
                 <p><img src="https://i1.rgstatic.net/publication/210845794_Rayano_Una_nueva_metafora_para_explicar_la_dominicanidad/links/5d6acb3a299bf1808d5cbcc9/largepreview.png"></p>
                 <p>
-		    Co-Author(s): Sidroc Ramos; Samuel Feijoo; Juan Hernandez; Vladimir Lenin; Nicolas Guillen<br/>               
-		    Language: Spanish<br/>
+		Language: Spanish<br/>
                 Publisher: University of Toronto<br/>
                 Pub_location: Toronto, Canada<br/>
                 Genre: Essay<br/>
