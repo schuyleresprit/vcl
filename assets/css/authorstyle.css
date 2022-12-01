@@ -52,6 +52,9 @@ body {
           backface-visibility: hidden;
   perspective: 1000;
 }
+.page_title {
+    text-align: center;
+}
 
 .content {
   margin-top: -13px !important;
