@@ -135,6 +135,10 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
     margin-bottom: 20px !important;
 }
 
+.page_title {
+    text-align: center;
+}
+
 .mt-5 {
     margin-top: 0rem!important;
 }
