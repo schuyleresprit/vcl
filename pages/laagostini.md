@@ -23,37 +23,6 @@ permalink: /laagostini
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>The Chalice Project</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=v9tFNwAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72UUG_nVlP5dhgNjl80D64Ph7Uj8elHhEP88Mbz4lxBBH16il_R0sm4faMXoBwSp7zjzSMGpFyoKjvyePFykPt4HIojYcPCiD3nysPFvFTOSbaB3yf7FIn97wS3XwZ5_jU4SY41"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Macmillan-Caribbean<br/>
-                Pub Location: Oxford, England <br/>
-                Genre: Fiction (Short Story Collection) <br/>
-                Length: 191 <br/>
-                </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Swallowing the Sky</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41JJfz5FksL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Cane Arrow Press	 <br/>
-                Pub Location: Royston, England <br/>
-                Genre: Poetry Collection <br/>
-                Length: 69 <br/>
-                </p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -68,23 +37,6 @@ permalink: /laagostini
                 </p>
             </div>
         </div>
-
-        <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Home Home</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41ZzURAwTFL._SX327_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Ember	 <br/>
-                Pub Location: New York, NY, United States <br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 153 <br/>
-                </p>
-            </div>
-        </div>
-
         <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
@@ -100,13 +52,5 @@ permalink: /laagostini
                 </p>
             </div>
         </div>
-
-
         <div style="padding-bottom:100px;"></div>
     </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
