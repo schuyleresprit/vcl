@@ -16,7 +16,7 @@ permalink: /ewalcotthackshaw
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Elizabeth Walcott-Hackshaw is from Trinidad.</p>
+            <p>Elizabeth Walcott-Hackshaw is from Trinidad & Tobago.</p>
                 <a href="https://en.wikipedia.org/wiki/Elizabeth_Walcott-Hackshaw"_blank">Read more</a>
             </div>
         </div>
