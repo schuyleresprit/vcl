@@ -178,8 +178,8 @@ permalink: /dwalcott
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Walker And The Gr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Walker And The Ghost Dance: Plays</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41+J+5uyWLL._SY344_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Farrar, Straus and Giroux<br/>
