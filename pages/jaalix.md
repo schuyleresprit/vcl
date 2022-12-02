@@ -7,7 +7,7 @@ permalink: /jaalix
 <div class="content">
     <h1>Juan Antonio Alix</h1>
     <div class="quote">
-        <div><img src="https://scontent.fdcf1-1.fna.fbcdn.net/v/t31.18172-8/1529973_316126451919178_6789041727178229723_o.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=109&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=YSDAnDYKb4kAX-azaMs&_nc_ht=scontent.fdcf1-1.fna&oh=00_AfAk1sBZNSvtRgDEAdgRrTpBiTdQ03sxdXjkB4lVkHU1ig&oe=6394856B.jpg" class="logo"></div>
+        <div><img src="https://scontent-sju1-1.xx.fbcdn.net/v/t31.18172-8/1529973_316126451919178_6789041727178229723_o.jpg?stp=cp0_dst-jpg_e15_p403x403_q65&_nc_cat=109&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=I71bbEhA23oAX9uQZm9&_nc_ht=scontent-sju1-1.xx&oh=00_AfDo9XsxhxnjQn_oBKLkj9a-EavlTP8mwiEEWkkb0r9okg&oe=63B1BEAB" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /jaalix
             <div class="dot"></div>
             <div class="right">
                 <h1>Décimas</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.los-poetas.com/n/alix55.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Impr. de J.R. vda. García, sucesores<br/>
@@ -36,9 +36,3 @@ permalink: /jaalix
                 Length: 215</p>
             </div>
         </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
