@@ -30,7 +30,7 @@ permalink: /2
         </div>
       </div>
     </div>
-  <div id="post-1" class="vesti-col timeline-post">
+  <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -46,7 +46,7 @@ permalink: /2
         </div>
       </div>
     </div>
-    <div id="post-2" class="vesti-col timeline-post">
+    <div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -62,7 +62,7 @@ permalink: /2
         </div>
       </div>
     </div>
-    <div id="post-3" class="vesti-col timeline-post">
+    <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://otrolunes.com/24/files/2012/08/novas-calvo-226x300.jpg">
@@ -78,7 +78,7 @@ permalink: /2
         </div>
       </div>
     </div>
-     <div id="post-4" class="vesti-col timeline-post">
+     <div id="post-5" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -94,7 +94,7 @@ permalink: /2
         </div>
       </div>
     </div>
-    <div id="post-4" class="vesti-col timeline-post">
+    <div id="post-6" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2020/07/16/5fa91c35baec9.jpeg">
@@ -110,7 +110,7 @@ permalink: /2
         </div>
       </div>
     </div>
- <div id="post-5" class="vesti-col timeline-post">
+ <div id="post-7" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://www.biografiasyvidas.com/monografia/cervantes/fotos/cervantes_miguel_1.jpg">
@@ -126,7 +126,7 @@ permalink: /2
         </div>
       </div>
     </div>
-    <div id="post-6" class="vesti-col timeline-post">
+    <div id="post-8" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
