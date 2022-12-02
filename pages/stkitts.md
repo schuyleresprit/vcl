@@ -29,7 +29,7 @@ permalink: /41
      </div>
    </div>
  </div>
-  <div id="post-1" class="vesti-col timeline-post">
+  <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://upload.wikimedia.org/wikipedia/en/a/aa/Briggs-Cyril.jpg"  width="60%">
@@ -40,12 +40,12 @@ permalink: /41
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/cbriggs">Cyril Briggs</a></h4>
+         <h4><a href="/cvbriggs">Cyril V Briggs</a></h4>
        </a>
      </div>
    </div>
  </div>
- <div id="post-1" class="vesti-col timeline-post">
+ <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://i.ytimg.com/vi/o3oPSYrUa40/hqdefault.jpg"  width="80%">
