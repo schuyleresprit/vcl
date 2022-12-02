@@ -7,7 +7,7 @@ permalink: /mmandisa
 <div class="content">
     <h1>Mosi Mandisa</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://i.ytimg.com/vi/o3oPSYrUa40/hqdefault.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

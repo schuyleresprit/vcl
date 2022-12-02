@@ -48,7 +48,7 @@ permalink: /41
  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://external.fanu2-1.fna.fbcdn.net/safe_image.php?w=476&h=249&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo3oPSYrUa40%2Fhqdefault.jpg&cfs=1&jq=75&sx=0&sy=36&sw=480&sh=251&ext=jpg&utld=ytimg.com&_nc_oe=706b6&_nc_sid=632586&_nc_o2e=1&ccb=3-6&_nc_hash=AQHuiC50fcx7HMgm"  width="80%">
+       <img src="https://i.ytimg.com/vi/o3oPSYrUa40/hqdefault.jpg"  width="80%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
