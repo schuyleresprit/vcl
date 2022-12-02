@@ -24,13 +24,13 @@ permalink: /fetienne
             <div class="date left"><p class="left">1978</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Pèlin Tèt - Les Émigrès</h1><hr>
-                <p><img src=""></p>
+                <h1>Pèlen Tèt - Les Émigrès</h1><hr>
+                <p><img src="https://files.gandi.ws/bc/fb/bcfb3e8e-30a3-4d69-8bbf-5421d36135ba.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Editions du Soleil<br/>
                 Pub_location: Port-au-Prince, Haiti<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: </p>
+                Length: 320</p>
             </div>
         </div>
         <div class="block">
@@ -38,12 +38,12 @@ permalink: /fetienne
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Les Échos De L'abîme</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/3c/57/51/5330748/1540-1/tsp20140303140102/Les-echos-de-l-abime.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Vents d'ailleurs<br/>
                 Pub_location: La Roque-d'Anthéron, France<br/>
-                Genre: <br/>
-                Length: </p>
+                Genre: Poetry Collection<br/>
+                Length: 192</p>
             </div>
         </div>
         <div class="block">
@@ -51,12 +51,12 @@ permalink: /fetienne
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Et La Voyance Explose: Spirale</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/1/1/3/002863113.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Vents d'ailleurs<br/>
                 Pub_location: La Roque-d'Anthéron, France<br/>
-                Genre: <br/>
-                Length: </p>
+                Genre: Poetry Collection<br/>
+                Length: 224</p>
             </div>
         </div>
         <div class="block">
@@ -64,13 +64,13 @@ permalink: /fetienne
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ready To Burst</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/61Z0OmRR32L._SX479_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Archipelago Books<br/>
                 Pub_location: Brooklyn, NY, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: </p>
+                Length: 240</p>
             </div>
         </div>
         <div class="block">
@@ -78,17 +78,11 @@ permalink: /fetienne
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Dezafi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKVEwmYZPDT-gA38ZyiHd9UI2A3Vu90kKRKTjXcY0KNnz0f7Fc"></p>
                 <p>Language: English<br/>
                 Publisher: University of Virginia Press<br/>
                 Pub_location: Charlottesville, VA, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: </p>
+                Length: 244</p>
             </div>
         </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
