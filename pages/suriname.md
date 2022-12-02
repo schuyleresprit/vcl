@@ -17,7 +17,7 @@ permalink: /43
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT53k59B-iE9UidnRYAeI3a3h5kJhKxPM-gt-8gjtp8&s">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
