@@ -39,11 +39,11 @@ permalink: /fictionnovel
 			var temp = [];
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "fictionnovel":
+					case "Fiction (Novel)":
 						for (key in data) {
 							temp.push({
 								"flavorText" : key,
-								"link" : key
+								"link" :  key
 							});
 						}
 						break;
