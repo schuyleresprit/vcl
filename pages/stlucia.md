@@ -17,6 +17,22 @@ permalink: /16
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Earl%20G%20Long_1.jpg?itok=kHHQvZu8">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/eglong">Earl G. Long</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Didacus_Jules_-_2019_%28cropped%29.jpg/220px-Didacus_Jules_-_2019_%28cropped%29.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
@@ -46,6 +62,38 @@ permalink: /16
      </div>
    </div>
  </div>
+ <div id="post-2" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://2.bp.blogspot.com/-n3znsYnnyfE/T33jJsnoW3I/AAAAAAAAA4Q/Rq-5iBFsGJc/s400/John+Robert+Lee.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/jrlee">John Robert Lee</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+  <div id="post-2" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kendel_Hippolyte_%28cropped%29.jpg/220px-Kendel_Hippolyte_%28cropped%29.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/khippolyte">Kendel Hippolyte</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -122,6 +170,22 @@ permalink: /16
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="/sadantes">Stephen A Dantes</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-3" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Arthur_Lewis_%28Nobel_photo%29.jpg/220px-Arthur_Lewis_%28Nobel_photo%29.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/walewis">W. Arthur Lewis</a></h4>
        </a>
      </div>
    </div>
