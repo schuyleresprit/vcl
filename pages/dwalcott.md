@@ -15,9 +15,11 @@ permalink: /dwalcott
             <div class="date right"><p class="right">1930-2017</p></div>
             <div class="dot"></div>
             <div class="left first">
+         <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Derek Walcott is from Saint Lucia.</p>
-                <a href="https://en.wikipedia.org/wiki/Derek_Walcott"_blank">Read more</a>
+          <div class="aclocation"> <p>Derek Walcott is from <a href="http://localhost:4000/16">Saint Lucia</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Derek_Walcott" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
