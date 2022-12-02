@@ -7,18 +7,18 @@ permalink: /mamis
 <div class="content">
     <h1>Martin Amis</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Martin_Amis_%28cropped%29.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">??</p></div>
+            <div class="date right"><p class="right">B. 1949</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">   <p>Martin Amis is from England.</a></p></div>
-              <div class="acreadmore">   <a href="#" target="_blank">Read more</a></div>
+              <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Martin_Amis" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
@@ -27,7 +27,7 @@ permalink: /mamis
             <div class="dot"></div>
             <div class="right">
                 <h1>La Enfermedad del Tiempo</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cloud10.todocoleccion.online/libros-segunda-mano-literatura/tc/2018/08/01/20/129655683.webp"></p>
                 <p>
                 Co-author: Guillermo Cabrera Infante <br/>
                 Language: Spanish<br>
@@ -38,8 +38,4 @@ permalink: /mamis
                 </p>
             </div>
         </div>
-
-
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
