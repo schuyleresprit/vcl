@@ -17,6 +17,22 @@ permalink: /16
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Didacus_Jules_-_2019_%28cropped%29.jpg/220px-Didacus_Jules_-_2019_%28cropped%29.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/djules">Didacus Jules</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://www.cavehill.uwi.edu/fhe/LLL/getattachment/4eabff8f-63f2-4948-93d6-808d64de4a44/Professor-Hazel-Simmons-McDonald.aspx">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
