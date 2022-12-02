@@ -12,7 +12,7 @@ permalink: /asegalas
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">B. 1969</p></div>
+            <div class="date right"><p class="right">1811-1893</p></div>
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
