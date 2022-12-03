@@ -7,7 +7,7 @@ permalink: /rdepestre
 <div class="content">
     <h1>René Depestre</h1>
     <div class="quote">
-        <div><img src=http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTiiM9j8IaUVFBGmr_Z2FKlNc6UIauO4Cje3agXlyDzp_ZgtqrX8wng7PovF8NvhsD58C_UxH_grWkJtqM"" class="logo"></div>
+        <div><img src="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTiiM9j8IaUVFBGmr_Z2FKlNc6UIauO4Cje3agXlyDzp_ZgtqrX8wng7PovF8NvhsD58C_UxH_grWkJtqM" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
