@@ -175,6 +175,22 @@ permalink: /8
         </div>
       </div>
     </div>
+    <div id="post-3" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="http://ile-en-ile.org/wp-content/uploads/2001/08/confiant.jpg">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rconfidant">Raphaël Confiant</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -226,7 +242,7 @@ permalink: /8
 <div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://ile-en-ile.org/wp-content/uploads/2001/08/confiant.jpg">
+          <img src="https://th.bing.com/th/id/R.2c0e5833f22437737c07c25c30e32cc0?rik=Ys8YcytprVXdIA&riu=http%3a%2f%2fwww.madinin-art.net%2fimages%2froger_parsemain.jpg&ehk=4aZBbixWUkKVji9xwWLMgDVe0Rw6x39zNbIn8BsnJ2U%3d&risl=&pid=ImgRaw&r=0">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -234,7 +250,7 @@ permalink: /8
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rconfidant">Raphaël Confiant</a></h4>
+            <h4><a href="/rparsemain">Roger Parsemain</a></h4>
           </a>
         </div>
       </div>
