@@ -17,6 +17,22 @@ permalink: /37
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://sevenstories-prod.s3.amazonaws.com/images/000001/608/PoncedeLeon_Juana-f_large-580ff3dfdf303f4cd4b7663a40ce05bf.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/jpdeleon">Juana Ponce de León</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-2" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://www.elnuevodia.com/resizer/QhEURZn7i4UivlJcDbFTy5DTlKw=/1200x1200/filters:quality(75):format(jpeg):focal(900x600:910x590)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/LGVSOO5QUBASVHM3T7HVGA6MJE.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
@@ -30,10 +46,10 @@ permalink: /37
      </div>
    </div>
  </div>
- <div id="post-2" class="vesti-col timeline-post">
+ <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.bocaslitfest.com/wp-content/uploads/2021/02/Michael-Cozier.jpg">
+       <img src="https://www.uprrp.edu/wp-content/uploads/2015/08/dr-garcia-goyco.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -41,7 +57,7 @@ permalink: /37
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mcozier">Michael Cozier</a></h4>
+         <h4><a href="/oggoyco">Osvaldo García Goyco</a></h4>
        </a>
      </div>
    </div>
