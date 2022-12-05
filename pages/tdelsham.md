@@ -15,9 +15,11 @@ permalink: /tdelsham
             <div class="date right"><p class="right"> B. 1946 </p></div>
             <div class="dot"></div>
             <div class="left first">
+        <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Tony Delsham is from Martinique.</p>
-                <a href="https://fr.wikipedia.org/wiki/Tony_Delsham"_blank">Read more</a>
+          <div class="aclocation">   <p>Tony Delsham is from <a href="http://localhost:4000/8">Martinique.</a></p></div>
+              <div class="acreadmore">   <a href="https://fr.wikipedia.org/wiki/Tony_Delsham" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
        <div class="block">
