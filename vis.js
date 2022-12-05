@@ -45,7 +45,7 @@ class CreateMap {
 
 	get_data(){
 		var self = this;
-		var datasets = ['authors','places','publications','languages','genres','continents'];
+		var datasets = ['authors','places','publications','languages','genres','continents','countries'];
 
 		datasets.forEach(function(d){ self.loading.push(d); });
 		datasets.forEach(function(d){
