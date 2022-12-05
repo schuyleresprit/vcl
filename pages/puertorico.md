@@ -30,7 +30,7 @@ permalink: /37
      </div>
    </div>
  </div>
-  <div id="post-1" class="vesti-col timeline-post">
+  <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://sevenstories-prod.s3.amazonaws.com/images/000001/608/PoncedeLeon_Juana-f_large-580ff3dfdf303f4cd4b7663a40ce05bf.jpg">
@@ -46,7 +46,7 @@ permalink: /37
      </div>
    </div>
  </div>
- <div id="post-2" class="vesti-col timeline-post">
+ <div id="post-3" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.elnuevodia.com/resizer/QhEURZn7i4UivlJcDbFTy5DTlKw=/1200x1200/filters:quality(75):format(jpeg):focal(900x600:910x590)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/LGVSOO5QUBASVHM3T7HVGA6MJE.jpg">
@@ -62,7 +62,7 @@ permalink: /37
      </div>
    </div>
  </div>
- <div id="post-3" class="vesti-col timeline-post">
+ <div id="post-4" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.uprrp.edu/wp-content/uploads/2015/08/dr-garcia-goyco.jpg">
