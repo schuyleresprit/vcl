@@ -1,13 +1,13 @@
 ---
 layout: defaultau
 title: "Edmond Lapompe-Paironne"
-permalink: /elapompepaironne
+permalink: /elpaironne
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
     <h1>Edmond Lapompe-Paironne</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://image-uniservice.linternaute.com/image/450/3/2030979425/7385469.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
