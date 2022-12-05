@@ -7,7 +7,7 @@ permalink: /cbustamante
 <div class="content">
     <h1>Cecilia Bustamante</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="http://2.bp.blogspot.com/_1cwQvzB5Ngc/TSIQ1GdB95I/AAAAAAAAAFQ/HCcDdMZB6ZU/s400/cecilia%2Bbustamante.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

@@ -17,7 +17,7 @@ permalink: /6
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Jose_de_la_Riva_Aguero_Sanchez_Boquete.JPG">
+          <img src="http://2.bp.blogspot.com/_1cwQvzB5Ngc/TSIQ1GdB95I/AAAAAAAAAFQ/HCcDdMZB6ZU/s400/cecilia%2Bbustamante.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -25,7 +25,7 @@ permalink: /6
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jdlraguero">Jose de la Riva Agüero</a></h4>
+            <h4><a href="/cbustamante">Cecilia Bustamante</a></h4>
           </a>
         </div>
       </div>
