@@ -17,6 +17,22 @@ permalink: /37
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/jarcollazo">José Antonio Ramos Collazo</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://sevenstories-prod.s3.amazonaws.com/images/000001/608/PoncedeLeon_Juana-f_large-580ff3dfdf303f4cd4b7663a40ce05bf.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
