@@ -41,7 +41,7 @@ permalink: /5
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/dlaferrière">Dany Laferrière</a></h4>
+         <h4><a href="/dlaferriere">Dany Laferrière</a></h4>
        </a>
      </div>
    </div>
