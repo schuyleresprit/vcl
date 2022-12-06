@@ -7,7 +7,7 @@ permalink: /lmoise
 <div class="content">
     <h1>Lenelle Moïse</h1>
     <div class="quote">
-        <div><img src="https://fac.umass.edu/ArticleMedia/Images/pre12Images/lenelle.jpg" class="logo"></div>
+        <div><img src="https://knightfoundation.org/wp-content/uploads/2019/06/elle1_3.jpg?w=800" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
