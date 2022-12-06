@@ -16,7 +16,7 @@ permalink: /ssmaharajh
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Shiva Shridath Maharajh is from India.</p>
+            <p>Shiva Shridath Maharajh is from Trinidad & Tobago.</p>
                 <a href="NA" target="_blank">Read more</a>
             </div>
         </div>

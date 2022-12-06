@@ -10,7 +10,6 @@ permalink: /40
           <img src="https://www.worldatlas.com/r/w960-q80/upload/37/d0/9d/in-01.jpg" >
     </div>
 </div>
-
 <!-- partial:index.partial.html -->
 <div class="container">
   <div class="timeline clearfix">
@@ -18,7 +17,7 @@ permalink: /40
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://cdn.britannica.com/50/166750-050-9242DD4E/Eden-Phillpotts.jpg">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Picture_of_Eden_Phillpotts.jpg/330px-Picture_of_Eden_Phillpotts.jpg">
          <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
