@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: " Francesca Momplaisir"
+title: ""
 permalink: /fmomplaisir
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
     <h1> Francesca Momplaisir</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://images.squarespace-cdn.com/content/v1/5da756336e99da3c1206e959/1571256170797-QXUUR25FX3UF6TL7PNDG/Francesca+Momplaisir_8503.jpg?format=750w" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
