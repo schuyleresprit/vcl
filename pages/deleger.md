@@ -7,7 +7,7 @@ permalink: /deleger
 <div class="content">
     <h1>Dimitry Elias Léger</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dimitry_Elias_Leger_in_New_York_City.jpg/330px-Dimitry_Elias_Leger_in_New_York_City.jpg" class="logo"></div>
+        <div><img src="https://i0.wp.com/twodropsofink.com/wp-content/uploads/2020/03/dimitry-.jpeg?resize=380%2C450&ssl=1" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
