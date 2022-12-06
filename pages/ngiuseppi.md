@@ -25,7 +25,7 @@ permalink: /ngiuseppi
             <div class="dot"></div>
             <div class="right">
                 <h1>Backfire: A Collection Of Short Stories From The Caribbean For Use In Secondary Schools</h1><hr>
-                <p><img src=https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1189612083l/1875986._SY475_.jpg"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1189612083l/1875986._SY475_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
