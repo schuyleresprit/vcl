@@ -89,7 +89,7 @@ permalink: /5
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/eagustave">Elsie Augustave</a></h4>
+         <h4><a href="/eaugustave">Elsie Augustave</a></h4>
        </a>
      </div>
    </div>
