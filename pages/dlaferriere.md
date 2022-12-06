@@ -7,7 +7,7 @@ permalink: /dlaferriere
 <div class="content">
     <h1>Dany Laferrière</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dany_Laferri%C3%A8re_-_Livre_sur_la_Place_2014_%28cropped%29.jpg/330px-Dany_Laferri%C3%A8re_-_Livre_sur_la_Place_2014_%28cropped%29.jpg" class="logo"></div>
+        <div><img src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/51eqwgSUY6hCNjYL8HpFtsGu5ii.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
