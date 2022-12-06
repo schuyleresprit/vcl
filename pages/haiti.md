@@ -97,7 +97,7 @@ permalink: /5
   <div id="post-6" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.miamibookfair.com/wp-content/uploads/2016/09/wainwright_kiki.jpg" width="50%" height="50%" >
+       <img src="https://images.squarespace-cdn.com/content/v1/5da756336e99da3c1206e959/1571256170797-QXUUR25FX3UF6TL7PNDG/Francesca+Momplaisir_8503.jpg?format=750w" width="50%" height="50%" >
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
