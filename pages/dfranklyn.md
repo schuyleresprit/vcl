@@ -7,7 +7,7 @@ permalink: /dfranklyn
 <div class="content">
     <h1>David Franklyn</h1>
     <div class="quote">
-        <div><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzkXYS1zG57V9O8iWteVwkYjLbeV-nthsWvqi7Xxi0CtWtIn2x" class="logo"></div>
+        <div><img src="" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -16,8 +16,8 @@ permalink: /dfranklyn
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>David Franklyn is from Grenada.</p>
-                <a href="https://en.wikipedia.org/wiki/Zetta_Elliott"_blank">Read more</a>
+            <p>David Franklyn is from Brazil.</p>
+                <a href=""_blank">Read more</a>
             </div>
         </div>
         <div class="block">
