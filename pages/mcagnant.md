@@ -7,7 +7,7 @@ permalink: /mcagnant
 <div class="content">
     <h1>Marie Célie Agnant</h1>
     <div class="quote">
-        <div><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqeuPAoCYO1BEqEoCxsCwfbUfdCWCy0DTPaoQNxKWa9_iDuUwa" class="logo"></div>
+        <div><img src="https://www.bibliothequedesameriques.com/sites/default/files/portrait-auteure-marie_celie_agnant-accueil.jpg?fid=1630" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -87,3 +87,9 @@ permalink: /mcagnant
                 Length: 76</p>
             </div>
         </div>
+ <div id="footer">
+        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
+    </div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
