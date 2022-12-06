@@ -398,6 +398,22 @@ permalink: /5
         </div>
       </div>
     </div>
+     <div id="post-25" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mrigaud">Milo Rigaud</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
     <div id="post-25" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -478,20 +494,37 @@ permalink: /5
                 </div>
               </div>
             </div>
-<div id="post-30" class="vesti-col timeline-post">
-                                                  <div class="vesti-content-wrapper">
-                                                      <div class="photo">
-                                                        <img src="https://www.ccny.cuny.edu/sites/default/files/styles/600px_wide/public/Prof-Dorsinville_14.jpg?itok=k_XUmUyG" width="70%">
-                                                        <div class="vesti-date-wrapper">
-                                                          <div class="vesti-date">
-                                                            </div>
-                                                          </div>
-                                                         </div>
-                                                          <div class="vesti-desc">
-                                                        <a class="desc-a" href="#">
-                                                          <h4><a href="/rdorsinville">Roger Dorsinville</a></h4>
-                                                        </a>
-                                                    </div>
-                                                  </div>
-                                                </div>                                     
+<div id="post-29" class="vesti-col timeline-post">
+              <div class="vesti-content-wrapper">
+                  <div class="photo">
+              <img src="https://ndbooks.imgix.net/Philoctete_Rene.jpg?auto=format&ch=Width,DPR&fit=crop&h=500&q=95&sat=-100&w=500" width="70%">
+                    <div class="vesti-date-wrapper">
+                      <div class="vesti-date">
+                        </div>
+                      </div>
+                     </div>
+                      <div class="vesti-desc">
+                    <a class="desc-a" href="#">
+                      <h4><a href="/rphiloctète">René Philoctète</a></h4>
+                    </a>
+                </div>
+              </div>
+            </div>
+<div id="post-29" class="vesti-col timeline-post">
+              <div class="vesti-content-wrapper">
+                  <div class="photo">
+            <img src="https://www.ccny.cuny.edu/sites/default/files/styles/600px_wide/public/Prof-Dorsinville_14.jpg?itok=k_XUmUyG" width="70%">
+                    <div class="vesti-date-wrapper">
+                      <div class="vesti-date">
+                        </div>
+                      </div>
+                     </div>
+                      <div class="vesti-desc">
+                    <a class="desc-a" href="#">
+                      <h4><a href="/rdorsinville">Roger Dorsinville</a></h4>
+                    </a>
+                </div>
+              </div>
+            </div>
+                        
 <!-- partial -->
