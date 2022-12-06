@@ -113,7 +113,7 @@ permalink: /5
   <div id="post-7" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://cdnsecakmi.kaltura.com/p/1332041/sp/133204100/thumbnail/entry_id/0_zx9c2he0/version/100021/width/412/height/248" width="70%" height="70%" >
+       <img src="https://www.miamibookfair.com/wp-content/uploads/2016/09/wainwright_kiki.jpg" width="70%" height="70%" >
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
