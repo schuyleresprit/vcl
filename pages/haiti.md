@@ -46,6 +46,22 @@ permalink: /5
      </div>
    </div>
  </div>
+ <div id="post-2" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://chqdaily.com/wp-content/uploads/2021/07/Legros_Geoges_Danielle_WritersCenter-photo-credit-Jennifer-Waddell-680x1024.jpg" width="50%" height="50%" >
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/dlgeorges">Danielle Legros Georges</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
   <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -154,6 +170,22 @@ permalink: /5
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="/fmomplaisir">Francesca Momplaisir</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-6" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Jean_Laposte_2.jpg" width="50%" height="50%" >
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/fetienne">Frankétienne</a></h4>
        </a>
      </div>
    </div>
@@ -394,6 +426,22 @@ permalink: /5
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/lmoise">Lenelle Moise</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+  <div id="post-19" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://s.yimg.com/uu/api/res/1.2/oxMzGu35l.aCuA05L2mKbg--~B/aD0xMDUwO3c9MTI5NDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/afp.com/a490a57b3178423ca57332fc0f192445e64aea93.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/lfmanigat">Leslie François Manigat</a></h4>
           </a>
         </div>
       </div>
