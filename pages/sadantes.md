@@ -53,9 +53,9 @@ permalink: /sadantes
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
                 <h1>The Alter Ego</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41tiBRrDSeL._SY346_.jpg"></p>
                 <p>
@@ -68,9 +68,9 @@ permalink: /sadantes
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2011</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="left">
                 <h1>The Love Doctor</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51SUf7hZHHL.jpg"></p>
                 <p>
@@ -188,8 +188,11 @@ permalink: /sadantes
                 </p>
             </div>
         </div>
-
-        </div>
-        </div>
-        <!-- partial -->
-          <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+        <div style="padding-bottom:100px;"></div>
+    </div>
+    <div id="footer">
+        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
+    </div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
