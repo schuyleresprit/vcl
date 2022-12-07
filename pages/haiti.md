@@ -161,6 +161,22 @@ permalink: /5
   <div id="post-6" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fernand_Hibbert.jpg/200px-Fernand_Hibbert.jpg" width="50%" height="50%" >
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/fhibbert">Fernand Hibbert</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-6" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://images.squarespace-cdn.com/content/v1/5da756336e99da3c1206e959/1571256170797-QXUUR25FX3UF6TL7PNDG/Francesca+Momplaisir_8503.jpg?format=750w" width="50%" height="50%" >
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
@@ -606,6 +622,22 @@ permalink: /5
             </div>
           </div>
         </div>
+<div id="post-28" class="vesti-col timeline-post">
+              <div class="vesti-content-wrapper">
+                <div class="photo">
+                  <img src="https://cdn.shopify.com/s/files/1/0077/0057/8375/files/APHOTO_480x480.jpg?v=1564782360" width="70%">
+                  <div class="vesti-date-wrapper">
+                    <div class="vesti-date">
+                    </div>
+                  </div>
+                </div>
+                <div class="vesti-desc">
+                  <a class="desc-a" href="#">
+                    <h4><a href="/pajeanty">Pierre Alex Jeanty</a></h4>
+                  </a>
+                </div>
+              </div>
+            </div>
 <div id="post-28" class="vesti-col timeline-post">
               <div class="vesti-content-wrapper">
                 <div class="photo">
