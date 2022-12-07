@@ -94,6 +94,22 @@ permalink: /5
      </div>
    </div>
  </div>
+  <div id="post-4" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/20190924SM130_%2848794857947%29_%28cropped%29.jpg" width="50%" height="50%" >
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/edanticat">Edwidge Danticat</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
   <div id="post-5" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -206,6 +222,22 @@ permalink: /5
      </div>
    </div>
  </div>
+ <div id="post-11" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://www.cavalcadeofauthors.org/wp-content/uploads/2019/05/zoboi-883x1024.jpg" width="70%" height="70%" >
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/izoboi">Ibi Zoboi</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
   <div id="post-11" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -250,6 +282,22 @@ permalink: /5
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="/jroumain">Jacques Roumain</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-13" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Portrait_Jacques_St%C3%A9phen_ALEXIS-Port-au-Prince%2C_1945.jpg" width="50%" height="50%" >
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/jsalexis">Jacques Stephen Alexis</a></h4>
        </a>
      </div>
    </div>
@@ -441,7 +489,7 @@ permalink: /5
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/maantoine">Max A.Antoine</a></h4>
+            <h4><a href="/maantoine">Max A. Antoine</a></h4>
           </a>
         </div>
       </div>
@@ -538,6 +586,22 @@ permalink: /5
                       <div class="vesti-desc">
                     <a class="desc-a" href="#">
                       <h4><a href="/rbaltidor">Raoul B. Altidor</a></h4>
+                    </a>
+                </div>
+              </div>
+            </div>
+<div id="post-29" class="vesti-col timeline-post">
+              <div class="vesti-content-wrapper">
+                  <div class="photo">
+              <img src="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTiiM9j8IaUVFBGmr_Z2FKlNc6UIauO4Cje3agXlyDzp_ZgtqrX8wng7PovF8NvhsD58C_UxH_grWkJtqM" width="70%">
+                    <div class="vesti-date-wrapper">
+                      <div class="vesti-date">
+                        </div>
+                      </div>
+                     </div>
+                      <div class="vesti-desc">
+                    <a class="desc-a" href="#">
+                      <h4><a href="/rdepestre">René Depestre</a></h4>
                     </a>
                 </div>
               </div>
