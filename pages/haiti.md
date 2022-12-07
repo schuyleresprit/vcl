@@ -385,6 +385,22 @@ permalink: /5
     <div id="post-15" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://jebcaeditions.org/uploads/3/4/5/7/34571231/published/jean-dany013_2.jpg?1511456078" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/jdjoachim">Jean Dany Joachim</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-15" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://th.bing.com/th/id/R.3c633caade52e2be3250f0c8b070bbc3?rik=Je5CLscOhPnpzQ&riu=http%3a%2f%2fphotos.geni.com%2fp13%2f2c%2f05%2ffe%2ffd%2f5344483ab9073712%2fjean_baptiste_joseph_vilaire_large.jpg&ehk=NrCxOqorCPhXJRROR2ej6xac1sEhNn97NsJDqWNFG%2f0%3d&risl=&pid=ImgRaw&r=0" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
@@ -714,6 +730,22 @@ permalink: /5
                       <div class="vesti-desc">
                     <a class="desc-a" href="#">
                       <h4><a href="/rdorsinville">Roger Dorsinville</a></h4>
+                    </a>
+                </div>
+              </div>
+            </div>
+<div id="post-29" class="vesti-col timeline-post">
+              <div class="vesti-content-wrapper">
+                  <div class="photo">
+            <img src="https://th.bing.com/th/id/R.5cc1ad7e4684386278953150270e4c74?rik=18fHGt2xyjvv7Q&riu=http%3a%2f%2fsite.prix-fetkann.fr%2fwp-content%2fuploads%2f2015%2f01%2fYanick-Lahens-10.jpg&ehk=Xo5OAxmfY1UffKE%2byQ%2b9oHXPuGRxPihFvFrAlbVJy7g%3d&risl=&pid=ImgRaw&r=0" width="70%">
+                    <div class="vesti-date-wrapper">
+                      <div class="vesti-date">
+                        </div>
+                      </div>
+                     </div>
+                      <div class="vesti-desc">
+                    <a class="desc-a" href="#">
+                      <h4><a href="/ylahens">Yanick Lahens</a></h4>
                     </a>
                 </div>
               </div>
