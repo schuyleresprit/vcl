@@ -15,9 +15,11 @@ permalink: /alazare
             <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Alick Lazare is from AUTHOR COUNTRY.</p>
-                <a href="WIKI LINK"_blank">Read more</a>
+          <div class="aclocation">  <p>Alick Lazare is from <a href="http://localhost:4000/10">Dominica.</a></p></div>
+                <div class="acreadmore"><a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">

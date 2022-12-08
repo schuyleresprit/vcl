@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Antonio Moreno"
-permalink: /amoreno 
+permalink: /amoreno
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -15,9 +15,11 @@ permalink: /amoreno
             <div class="date right"><p class="right">1887-1967</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Antonio Moreno is from Spain.</p>
-                <a href="https://en.wikipedia.org/wiki/Antonio_Moreno"_blank">Read more</a>
+          <div class="aclocation">   <p>Antonio Moreno is from <a href="http://localhost:4000/2">Spain.</a></p></div>
+              <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Antonio_Moreno" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
          <div class="block">
