@@ -15,9 +15,11 @@ permalink: /fjborbe
             <div class="date right"><p class="right">1922-2018 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Fernando José Barcena Orbe is from St. Martin.</p>
-                <a href="">Read more</a>
+          <div class="aclocation">  <p>Fernando José Barcena Orbe is from <a href="http://localhost:4000/50">St. Martin.</a></p></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /fjborbe
                 Length: 268<br/>                   </p>
             </div>
         </div>
- 
