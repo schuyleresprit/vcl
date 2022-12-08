@@ -15,9 +15,11 @@ permalink: /edanticat
             <div class="date right"><p class="right"> B. 1969 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Edwidge Danticat is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Edwidge_Danticat"_blank">Read more</a>
+          <div class="aclocation">  <p>Edwidge Danticat is from <a href="http://localhost:4000/5">Haiti.</a></p> </div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Edwidge_Danticat" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -484,5 +486,3 @@ permalink: /edanticat
         </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-
-
