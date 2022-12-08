@@ -7,7 +7,7 @@ permalink: /bonoakes
 <div class="content">
     <h1>Beverley Ormerod Noakes</h1>
     <div class="quote">
-        <div><img src="https://www.uwa.edu.au/news/-/media/Project/UWA/UWA/Newsroom/Card-image/2022/bev---Card-copy.jpg" class="logo"></div>
+        <div><img src="" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -16,7 +16,7 @@ permalink: /bonoakes
             <div class="dot"></div>
             <div class="left first">
                 <h1>Author Country</h1><hr>
-            <p>Beverley Ormerod Noakes is from St. Martin.</p>
+            <p>Beverley Ormerod Noakes is from Jamaica.</p>
                 <a href="">Read more</a>
             </div>
         </div>
