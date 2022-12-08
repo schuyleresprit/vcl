@@ -442,12 +442,11 @@ permalink: /14
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rdpalma">Ramón De Palma</a></h4>
+            <h4><a href="/rdepalma">Ramón De Palma</a></h4>
           </a>
         </div>
       </div>
     </div>
-     </div>
     <div id="post-28" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -464,7 +463,6 @@ permalink: /14
         </div>
       </div>
     </div>
-     </div>
     <div id="post-29" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -481,7 +479,6 @@ permalink: /14
         </div>
       </div>
     </div>
-     </div>
        <div id="post-30" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -498,7 +495,6 @@ permalink: /14
         </div>
       </div>
     </div>
-     </div>
     <div id="post-31" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -515,7 +511,6 @@ permalink: /14
         </div>
       </div>
     </div>
-     </div>
     <div id="post-32" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -532,7 +527,6 @@ permalink: /14
         </div>
       </div>
     </div>
-     </div>
      <div id="post-33" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -549,5 +543,4 @@ permalink: /14
         </div>
       </div>
     </div>
-     </div>
 <!-- partial -->
