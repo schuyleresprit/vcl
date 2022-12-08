@@ -434,6 +434,23 @@ permalink: /14
     <div id="post-27" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="http://4.bp.blogspot.com/-3o9SR3FmNfU/TuKytySQIOI/AAAAAAAABt8/_waQv5j03Hg/s1600/Ram%25C3%25B3ndePalma.jpg" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/rdpalma">Ramón De Palma</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     </div>
+    <div id="post-27" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalUJusXi7mknvgPMWjJlfwyggweuEkY9GnoIBx3zZb-6-ifSgaWLDIUdfQQG1MiXL7-0&usqp=CAU" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
