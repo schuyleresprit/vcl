@@ -15,9 +15,11 @@ permalink: /cloveira
             <div class="date right"><p class="right">1882-1928</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Carlos Loveira is from Cuba.</p>
-                <a href="https://en.wikipedia.org/wiki/Carlos_Loveira"_blank">Read more</a>
+        <div class="aclocation">     <p>Carlos Loveira is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Carlos_Loveira" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
          <div class="block">
@@ -48,4 +50,3 @@ permalink: /cloveira
                 Length: 486<br/>                   </p>
             </div>
         </div>
-      
