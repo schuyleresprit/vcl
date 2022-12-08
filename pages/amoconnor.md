@@ -7,7 +7,7 @@ permalink: /amoconnor
 <div class="content">
     <h1>Anthony Michael O'Connor</h1>
     <div class="quote">
-        <div><img src="https://m.media-amazon.com/images/I/61TtvhIeYLL.jpg" class="logo"></div>
+        <div><img src="" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -17,7 +17,7 @@ permalink: /amoconnor
             <div class="left first">
                 <h1>Author Country</h1><hr>
             <p>Anthony Michael O'Connor is from the United States.</p>
-                <a href="https://en.wikipedia.org/wiki/Elizabeth_Nunez">Read more</a>
+                <a href="">Read more</a>
             </div>
         </div>
         <div class="block">
