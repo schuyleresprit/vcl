@@ -15,9 +15,11 @@ permalink: /ghorne
             <div class="date right"><p class="right">B. 1949 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Gerald Horne is from the United States.</p>
-                <a href="https://es.wikipedia.org/wiki/Alfonso_Hern%C3%A1ndez-Cat%C3%A1"_blank">Read more</a>
+            <div class="aclocation"><p>Gerald Horne is from the <a href="http://localhost:4000/1">United States.</a></p></div>
+                <div class="acreadmore"> <a href="https://es.wikipedia.org/wiki/Alfonso_Hern%C3%A1ndez-Cat%C3%A1" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /ghorne
                 Length: 416<br/>                   </p>
             </div>
         </div>
-       
