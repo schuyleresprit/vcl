@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Asha Bromfield"
-permalink: /abromfield 
+permalink: /abromfield
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -15,9 +15,11 @@ permalink: /abromfield
             <div class="date right"><p class="right"> B. 1994 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Asha Bromfield is from Jamaica.</p>
-                <a href="#" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Asha Bromfield is from <a href="http://localhost:4000/4"> Jamaica.</a></p></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
