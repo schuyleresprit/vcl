@@ -15,9 +15,11 @@ permalink: /aparadis
             <div class="date right"><p class="right">1916-2007</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>André Paradis is from France.</p>
-                <a href="https://fr.wikipedia.org/wiki/André_Paradis_(écrivain)">Read more</a>
+          <div class="aclocation">  <p>André Paradis is from <a href="http://localhost:4000/17">France.</a></p> </div>
+              <div class="acreadmore">  <a href="https://fr.wikipedia.org/wiki/André_Paradis_(écrivain)" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /aparadis
                 Length: 8 <br/>                   </p>
             </div>
         </div>
- 
