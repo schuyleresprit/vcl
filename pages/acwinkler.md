@@ -7,7 +7,7 @@ permalink: /acwinkler
 <div class="content">
     <h1>Anthony C. Winkler</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/en/4/40/Anthony_C._Winkler.jpg"logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/en/4/40/Anthony_C._Winkler.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -15,9 +15,11 @@ permalink: /acwinkler
             <div class="date right"><p class="right">1942-2015</p></div>
             <div class="dot"></div>
             <div class="left first">
-                <h1>Author Country</h1><hr>
-            <p>Anthony C. Winkler is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/Anthony_C._Winkler"_blank">Read more</a>
+            <div class="author_country">
+                <h1>Author Country</h1>
+            <div class="aclocation"><p>Anthony C. Winkler is from <a href="http://localhost:4000/4">Jamaica.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Anthony_C._Winkler" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -90,4 +92,3 @@ permalink: /acwinkler
                 Length: 224<br/>                   </p>
             </div>
         </div>
-   
