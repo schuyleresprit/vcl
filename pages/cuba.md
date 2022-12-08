@@ -481,6 +481,7 @@ permalink: /14
         </div>
       </div>
     </div>
+     </div>
        <div id="post-30" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -497,6 +498,7 @@ permalink: /14
         </div>
       </div>
     </div>
+     </div>
     <div id="post-31" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -513,6 +515,7 @@ permalink: /14
         </div>
       </div>
     </div>
+     </div>
     <div id="post-32" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -529,6 +532,7 @@ permalink: /14
         </div>
       </div>
     </div>
+     </div>
      <div id="post-33" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
@@ -545,4 +549,5 @@ permalink: /14
         </div>
       </div>
     </div>
+     </div>
 <!-- partial -->
