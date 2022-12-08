@@ -15,9 +15,11 @@ permalink: /clrjames
             <div class="date right"><p class="right">1901 – 1989</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>C. L. R. James is from  Trinidad and Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/C._L._R._James"_blank">Read more</a>
+        <div class="aclocation">    <p>C. L. R. James is from <a href="http://localhost:4000/3"> Trinidad and Tobago.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/C._L._R._James" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
   	 <div class="block">
@@ -48,4 +50,3 @@ permalink: /clrjames
                 Length: 464  <br/>                   </p>
             </div>
         </div>
-       
