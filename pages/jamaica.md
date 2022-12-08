@@ -17,7 +17,7 @@ permalink: /4
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://www.shortstoryconference.org/sites/default/files/SS%20Conference%20-%202016%20-%20Photo%20of%20Alecia%20McKenzie.JPG" width="50%" height="50%">
+          <img src="https://www.babelio.com/users/AVT_Alecia-Mckenzie_6171.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
