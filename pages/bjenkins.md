@@ -15,9 +15,11 @@ permalink: /bjenkins
             <div class="date right"><p class="right"></p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Barbara Jenkins is from  Trinidad and Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/Barbara_Jenkins"_blank">Read more</a>
+            <div class="aclocation">   <p>Barbara Jenkins is from  <a href="http://localhost:4000/3">Trinidad and Tobago.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Barbara_Jenkins" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
   	 <div class="block">

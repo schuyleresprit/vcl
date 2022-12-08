@@ -15,9 +15,11 @@ permalink: /dfranklyn
             <div class="date right"><p class="right"></p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>David Franklyn is from Brazil.</p>
-                <a href=""_blank">Read more</a>
+          <div class="aclocation">   <p>David Franklyn is from <a href="http://localhost:4000/35">Brazil.</a></p></div>
+                <div class="acreadmore"><a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /dfranklyn
                 Length: <br/>                   </p>
             </div>
         </div>
-       
