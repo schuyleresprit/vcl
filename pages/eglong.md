@@ -15,9 +15,11 @@ permalink: /eglong
             <div class="date right"><p class="right">B. 1945</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Earl G Long is from St. Lucia.</p>
-                <a href=""_blank">Read more</a>
+          <div class="aclocation">   <p>Earl G Long is from <a href="http://localhost:4000/16">St. Lucia.</a></p> </div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /eglong
                 Length: 180<br/>                   </p>
             </div>
         </div>
-       
