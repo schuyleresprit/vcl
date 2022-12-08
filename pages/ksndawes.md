@@ -23,61 +23,61 @@ permalink: /ksndawes
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1966</p></div>
+            <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Terminus </h1><hr>
-                <p><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg"></p>
+                <h1>Progeny of Air</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51TLZ137plL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: University of the West Indies		 <br/>
-                Pub_location: Port of Spain, Trinidad & Tobago <br/>
-                Genre: Drama <br/>
-                Length: 17 <br/>                   </p>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, LDN, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 115<br/>                   </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1973</p></div>
+            <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Uncle Time</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609969946l/2621246._SX318_.jpg"></p>
+                <h1>Resisting The Anomie</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41TQH1pGMHL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: University of Pittsburgh Press	 <br/>
-                Pub_location: Pittsburgh, PA, United States <br/>
+                Publisher: Goose Lane<br/>
+                Pub_location: Fredericton, NB, Canada<br/>
                 Genre: Poetry Collection <br/>
-                Length: 53 <br/>                       </p>
+                Length: 112<br/>                       </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1982</p></div>
+            <div class="date left"><p class="left hide">1996</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Dreadwalk: Poems, 1970-78</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41KUKB4ztwL._SX316_BO1,204,203,200_.jpg"></p>
+                <h1>Jacko Jacobus</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/412sMKrqqWL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: New Beacon Books		 <br/>
-                Pub_location: London, England <br/>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, LDN, England <br/>
                 Genre: Poetry Collection <br/>
-                Length: 46 <br/>                </p>
+                Length: 159<br/>                </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right hide">1989</p></div>
+            <div class="date right"><p class="right hide">1996</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Strategies</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=_F_RAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72SicnPizvhMHNakD3fMEH6fRweX0bWJlxnq3TVKfO438p-H-hWgWpmy7uuv2S1AchveQ-Wp3BlgphkpvrsKxiDsqeXH5Pjizabsi3dT-qiNTpXaPd9M7hN50e-KSpOh0YAOwcP"></p>
+                <h1>Requiem</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41sg403dz1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Sandberry Press	 <br/>
-                Pub_location: Kingston, Jamaica <br/>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, LDN, England<br/>
                 Genre: Poetry Collection <br/>
-                Length: 55 <br/>                                </p>
+                Length: 48<br/>                                </p>
             </div>
         </div>
 
@@ -85,101 +85,101 @@ permalink: /ksndawes
             <div class="date left"><p class="left hide">2003</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>An Echo in the Bone</h1><hr>
-                <p><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg"></p>
+                <h1>A Place To Hide</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41aTiME3XVL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Alexander Street Press	 <br/>
-                Pub_location: Alexandria, VA, United States <br/>
-                Genre: Drama <br/>
-                Length: NA <br/>                     </p>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, LDN, England<br/>
+                Genre: Fiction<br/>
+                Length: 268<br/>                     </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right hide">2004</p></div>
+            <div class="date right"><p class="right hide">2005</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Dog</h1><hr>
-                <p><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg"></p>
+                <h1>Wisteria: Poems From The Swamp Country</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356141837l/1296288.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Alexander Street Press	 <br/>
-                Pub_location: Alexandria, VA, United States <br/>
-                Genre: Drama <br/>
-                Length: NA <br/>                  </p>
+                Publisher: Red Hen Press<br/>
+                Pub_location: Los Angeles, CA, United States <br/>
+                Genre: Poetry Collection<br/>
+                Length: 96<br/>                  </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Plays For Today</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51cDxljfmbL._SX314_BO1,204,203,200_.jpg"></p>
+                <h1>I Saw Your Face</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51BBCMSN5GL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Longman Inc.	 <br/>
-                Pub_location: Harlow, England <br/>
-                Genre: Fiction (Short Story Collection) <br/>
-                Length: 233 <br/>                   </p>
+                Publisher: Dial Books<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Poetry Collection<br/>
+                Length: 32<br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right hide">2008</p></div>
+            <div class="date right"><p class="right hide">2007</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>After-Image</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51WO3SRudhL._SX326_BO1,204,203,200_.jpg" ></p>
+                <h1>A Far Cry From Plymouth Rock: A Personal Narrative</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41DGV6HWJQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" ></p>
                 <p>
                 Language: English <br/>
-                Publisher: Peepal Tree Press		 <br/>
-                Pub_location: London, England <br/>
-                Genre: Poetry Collection <br/>
-                Length: 106 <br/>                  </p>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, London, England <br/>
+                Genre: Autobiography<br/>
+                Length: 160<br/>                  </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1966</p></div>
+            <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Terminus </h1><hr>
+                <h1>Hope's Hospice: And Other Poems</h1><hr>
                 <p><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: University of the West Indies		 <br/>
-                Pub_location: Port of Spain, Trinidad & Tobago <br/>
-                Genre: Drama <br/>
-                Length: 17 <br/>                   </p>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, LDN, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 72<br/>                   </p>
             </div>
         </div>
 
         <div class="block">
-            <div class="date right"><p class="right">1973</p></div>
+            <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Uncle Time</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609969946l/2621246._SX318_.jpg"></p>
+                <h1>The Last Enchantment</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9781845231170-us-300.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: University of Pittsburgh Press	 <br/>
-                Pub_location: Pittsburgh, PA, United States <br/>
-                Genre: Poetry Collection <br/>
-                Length: 53 <br/>                       </p>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, LDN, England<br/>
+                Genre: Fiction<br/>
+                Length: 448<br/>                       </p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1982</p></div>
+            <div class="date left"><p class="left hide">2010</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Dreadwalk: Poems, 1970-78</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41KUKB4ztwL._SX316_BO1,204,203,200_.jpg"></p>
+                <h1>Back Of Mount Peace</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41CeHdcgEdL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English <br/>
-                Publisher: New Beacon Books		 <br/>
-                Pub_location: London, England <br/>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, LDN, England <br/>
                 Genre: Poetry Collection <br/>
-                Length: 46 <br/>                </p>
+                Length: 96 <br/>                </p>
             </div>
         </div>
 
