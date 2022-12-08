@@ -321,22 +321,6 @@ permalink: /4
   <div id="post-19" class="vesti-col timeline-post">
   <div class="vesti-content-wrapper">
     <div class="photo">
-      <img src="https://pbs.twimg.com/profile_images/827325764911689728/c32NVJQN_400x400.jpg" width="50%" heigh="50%">
-      <div class="vesti-date-wrapper">
-   <div class="vesti-date">
-      </div>
-    </div>
-  </div>
-    <div class="vesti-desc">
-      <a class="desc-a" href="#">
-        <h4><a href="/ksndawes">Kwame Senu Neville Dawes</a></h4>
-      </a>
-    </div>
-  </div>
-</div>
-  <div id="post-19" class="vesti-col timeline-post">
-  <div class="vesti-content-wrapper">
-    <div class="photo">
       <img src="https://guardian.ng/wp-content/uploads/2018/04/Lindsay-Barrett-974x548.jpg" width="50%" heigh="50%">
       <div class="vesti-date-wrapper">
    <div class="vesti-date">
