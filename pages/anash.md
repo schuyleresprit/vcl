@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Anthony Nash"
-permalink: /anash 
+permalink: /anash
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -15,9 +15,11 @@ permalink: /anash
             <div class="date right"><p class="right">1945-1985</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Anthony Nash is from England.</p>
-                <a href=""_blank">Read more</a>
+          <div class="aclocation">  <p>Anthony Nash is from <a href="http://localhost:4000/11">England.</a></p></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
          <div class="block">
