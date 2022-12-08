@@ -144,7 +144,7 @@ permalink: /ksndawes
             <div class="dot"></div>
             <div class="right">
                 <h1>Hope's Hospice: And Other Poems</h1><hr>
-                <p><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41B33zHidRL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Peepal Tree Press<br/>
