@@ -15,9 +15,11 @@ permalink: /dlgeorges
             <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Danielle Legros Georges is from Haiti.</p>
-                <a href="https://en.wikipedia.org/wiki/Danielle_Legros_Georges"_blank">Read more</a>
+            <div class="aclocation"><p>Danielle Legros Georges is from <a href="http://localhost:4000/5">Haiti.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Danielle_Legros_Georges" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -64,5 +66,3 @@ permalink: /dlgeorges
         </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-
-
