@@ -15,9 +15,11 @@ permalink: /acesaire
             <div class="date right"><p class="right"> 1913 - 2008 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Aimé Césaire is from Martinique.</p>
-                <a href="https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire" target="_blank">Read more</a>
+          <div class="aclocation">  <p> Aimé Césaire is from <a href="http://localhost:4000/8">Martinique.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
