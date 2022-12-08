@@ -15,9 +15,11 @@ permalink: /jcnunez
             <div class="date right"><p class="right"> B. 1968 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Juan Carlos Nunez is from Chile.</p>
-                <a href="">Read more</a>
+            <div class="aclocation"><p>Juan Carlos Nunez is from <a href="http://localhost:4000/49">Chile.</a></p></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
