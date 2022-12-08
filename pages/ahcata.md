@@ -15,9 +15,11 @@ permalink: /ahcata
             <div class="date right"><p class="right">1885-1940</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Alfonso Hernández Catá is from Spain.</p>
-                <a href="https://es.wikipedia.org/wiki/Alfonso_Hern%C3%A1ndez-Cat%C3%A1"_blank">Read more</a>
+          <div class="aclocation">  <p>Alfonso Hernández Catá is from <a href="http://localhost:4000/2">Spain.</a></p></div>
+              <div class="acreadmore">   <a href="https://es.wikipedia.org/wiki/Alfonso_Hern%C3%A1ndez-Cat%C3%A1" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /ahcata
                 Length: 275<br/>                   </p>
             </div>
         </div>
-       
