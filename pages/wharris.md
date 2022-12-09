@@ -7,7 +7,7 @@ permalink: /wharris
 <div class="content">
     <h1>Wilson Harris</h1>
     <div class="quote">
-        <div><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg" class="logo"></div>
+        <div><img src="https://static01.nyt.com/images/2018/03/21/obituaries/21harris-print/harris-pic-articleLarge.jpg?quality=75&auto=webp&disable=upscale" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
