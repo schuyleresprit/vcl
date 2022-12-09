@@ -25,7 +25,7 @@ permalink: /mjaugustin
             <div class="dot"></div>
             <div class="right">
                 <h1>Le Macandal : Èpisode de L'Insurrection des Noirs à St. Domingue</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41xIr892z7L._SX327_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41c1ZwrFnNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Geo. Müller<br/>
