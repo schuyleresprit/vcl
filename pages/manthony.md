@@ -12,14 +12,12 @@ permalink: /manthony
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1930 </p></div>
+            <div class="date right"><p class="right"> B. 1932 </p></div>
             <div class="dot"></div>
             <div class="left first">
-            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"> <p>Michael Anthony is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Michael_Anthony_(author)" target="_blank">Read more</a> </div>
-            </div>
+            <p>Michael Anthony is from Trinidad.</p>
+                <a href="https://en.wikipedia.org/wiki/Michael_Anthony_(author)" target="_blank">Read more</a>
             </div>
         </div>
         <div class="block">
@@ -27,25 +25,12 @@ permalink: /manthony
             <div class="dot"></div>
             <div class="right">
                 <h1>Games Were Coming</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbidfXzDEtjSzP2mPGz4a_5B7A1vaF2HI9F9BADReWZjCNrTBb"></p>
                 <p>Language: English<br/>
                 Publisher: Heinemann<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 182</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1967</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Green Days by the River</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Heinemann<br/>
-                Pub_location:  London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 191</p>
             </div>
         </div>
         <div class="block">
@@ -67,7 +52,7 @@ permalink: /manthony
             <div class="dot"></div>
             <div class="left hide">
                 <h1>In the Heat of the Day</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4QMiX5oyQHvtcirdgN_oOG_lccZ52TwTqp__qk04rqEiyiseC"></p>
                 <p>Language: English<br/>
                 Publisher: Heinemann<br/>
                 Pub_location: Oxford, England<br/>
@@ -80,7 +65,7 @@ permalink: /manthony
             <div class="dot"></div>
             <div class="right hide">
                 <h1>High Tide of Intrigue</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=4rNfDVoufCoC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U2fS9VAz6yV0ZkMbJ2ZtPgssCxltg&w=1280"></p>
                 <p>Language: English<br/>
                 Publisher: Heinemann<br/>
                 Pub_location:  Oxford, England<br/>
@@ -93,7 +78,7 @@ permalink: /manthony
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Caribbean Folk Tales & Fantasies</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51AkkCSMWcL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -106,7 +91,7 @@ permalink: /manthony
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Chieftain's Carnival and Other Stories</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQ-eSMPUQ69dB2e0gwQRn-x4ELoZe_OH2DCd7DKgpYpzJLv-J"></p>
                 <p>Language: English<br/>
                 Publisher: Ian Randle Publishers<br/>
                 Pub_location: Kingston, Jamaica<br/>
@@ -119,7 +104,7 @@ permalink: /manthony
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Bright Road to El Dorado</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSL1ONIDwleFRVCPglhWv_S9SRt0JlZZTcXrFz_i-MtemvbrwZQ"></p>
                 <p>Language: English<br/>
                 Publisher: Ian Randle Publishers<br/>
                 Pub_location:  Kingston, Jamaica<br/>
@@ -132,7 +117,7 @@ permalink: /manthony
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Green Days by the River</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=fyB8IgLwDJQC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U3ZoYVwzyA85lAvlhvgs5D_YxW65Q&w=1280"></p>
                 <p>Language: English<br/>
                 Publisher: Heinemann<br/>
                 Pub_location: Port of Spain, Trinidad  Tobago<br/>
@@ -141,8 +126,3 @@ permalink: /manthony
             </div>
         </div>
         <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
