@@ -15,9 +15,11 @@ permalink: /aprince
             <div class="date right"><p class="right">B. 1945</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Althea Prince is from Antigua & Barbuda.</p>
-                <a href="https://en.wikipedia.org/wiki/Althea_Prince">Read more</a>
+            <div class="aclocation">  <p>Althea Prince is from <a href="http://localhost:4000/38">Antigua & Barbuda.</a></p> </div>
+                <div class="acreadmore"> <a href="https://en.wikipedia.org/wiki/Althea_Prince" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /aprince
                 Length: 226<br/>                   </p>
             </div>
         </div>
- 	 
