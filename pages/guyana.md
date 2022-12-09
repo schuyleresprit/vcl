@@ -110,7 +110,23 @@ permalink: /62
      </div>
    </div>
  </div>
-  <div id="post-1" class="vesti-col timeline-post">
+ <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://literature.britishcouncil.org/assets/Uploads/writers/_resampled/FillWyI2ODAiLCI2ODAiXQ/Nichols-Mike-Park.jpg" width="80%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/gnichols">Grace Nichols</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+<div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Harischandra%20Khemraj.jpg?itok=fFClJSKf" width="80%">
@@ -138,6 +154,22 @@ permalink: /62
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="/jshinebourne">Janice Shinebourne</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/lopersaud">Loknath Persaud</a></h4>
        </a>
      </div>
    </div>
@@ -241,6 +273,22 @@ permalink: /62
  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://th.bing.com/th/id/OIP.om29rLFamlQ093f09qN9BAHaLH?pid=ImgDet&rs=1">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/pmelville">Pauline Melville</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+ <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Peter%20Kempadoo.jpg?itok=FKZBpCK4">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
@@ -286,6 +334,22 @@ permalink: /62
      </div>
    </div>
  </div>
+<div id="post-2" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://media.poetryfoundation.org/uploads/media/cache/default/0001/02/ee827005551e09683e35f0a6b03a282cf0c5b12c.jpeg/2007745c75054463fa8d185e160fb06f">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/spersaud">Sasenarine Persaud</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
 <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
