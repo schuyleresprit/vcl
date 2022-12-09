@@ -113,7 +113,7 @@ permalink: /62
  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://guyanachronicle.com/wp-content/uploads/elementor/thumbs/janice-shinebourne-mxso279zl4y9s0bbei0nx84ix7ynua3zq9uzc2pdh0.gif" width="80%">
+       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Jan%20Lowe%20Shinebourne.jpg" width="80%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -121,7 +121,7 @@ permalink: /62
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jshinebourne">Jan Shinebourne</a></h4>
+         <h4><a href="/jshinebourne">Janice Shinebourne</a></h4>
        </a>
      </div>
    </div>
@@ -129,7 +129,7 @@ permalink: /62
  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://jamaicans.com/wp-content/uploads/Mahadai-Das.jpeg">
+       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Mahadai%20Das.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -169,7 +169,7 @@ permalink: /62
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mshewcharan">Narmala Shewcharan</a></h4>
+         <h4><a href="/nshewcharan">Narmala Shewcharan</a></h4>
        </a>
      </div>
    </div>
@@ -177,7 +177,7 @@ permalink: /62
  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://s1.stabroeknews.com/images/2020/01/AJ-Seymour.jpg">
+       <img src="http://guyanachronicle.com/wp-content/uploads/2014/09/Norman.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -193,7 +193,7 @@ permalink: /62
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://carisealand.org/wp-content/uploads/2015/11/Oonya-photo-by-Malaika-Brooks-Smith-Lowe-2.jpg">
+       <img src="https://scontent-sju1-1.xx.fbcdn.net/v/t1.6435-9/90242236_2931313790262745_4096025785238814720_n.jpg?stp=dst-jpg_p960x960&_nc_cat=110&ccb=1-7&_nc_sid=36a2c1&_nc_ohc=THCJkNgiQb4AX_h1jnr&_nc_ht=scontent-sju1-1.xx&oh=00_AfBASu7-D7Yh7yZAu6pTmAmWmCjsCFKwNjqFC7g11ZdcqA&oe=63AEC121">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -201,23 +201,7 @@ permalink: /62
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/okempadoo">Oonya Kempadoo</a></h4>
-       </a>
-     </div>
-   </div>
- </div>
-  <div id="post-1" class="vesti-col timeline-post">
-   <div class="vesti-content-wrapper">
-     <div class="photo">
-       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
-       <div class="vesti-date-wrapper">
-         <div class="vesti-date">
-         </div>
-       </div>
-     </div>
-     <div class="vesti-desc">
-       <a class="desc-a" href="#">
-         <h4><a href="/odathorne">Oscar Dathorne</a></h4>
+         <h4><a href="/ordathorne">O.R Dathorne</a></h4>
        </a>
      </div>
    </div>
@@ -225,7 +209,7 @@ permalink: /62
  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="http://www.indocaribbeanworld.com/archives/2019/september_4_2019/images/16_peter.jpg">
+       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Peter%20Kempadoo.jpg?itok=FKZBpCK4">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
