@@ -12,7 +12,7 @@ permalink: /ebenjamin
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right"></p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,13 +27,13 @@ permalink: /ebenjamin
             <div class="dot"></div>
             <div class="right">
                 <h1>Anglophone Identity as Cross-Cultural Transaction: A Study of Selected Caribbean Fiction From 1970</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/358/ErrolBenjamin_AB.pdf.jpg?sequence=4&isAllowed=y"></p>
                 <p>
                 Language: English<br>
-				Publisher: University of the West Indies<br>
-				Publisher Location: St. Augustine, Trinidad and Tobago<br>
-				Genre: Fiction (Short Story Collection)<br>
-				Length: 419
+		Publisher: University of the West Indies<br>
+		Publisher Location: St. Augustine, Trinidad and Tobago<br>
+		Genre: Fiction (Short Story Collection)<br>
+		Length: 419
                 </p>
             </div>
         </div>
