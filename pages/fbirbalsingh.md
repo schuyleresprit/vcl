@@ -7,7 +7,7 @@ permalink: /fbirbalsingh
 <div class="content">
     <h1>Frank Birbalsingh</h1>
     <div class="quote">
-        <div><img src="https://guyanachronicle.com/wp-content/uploads/elementor/thumbs/Frank-photo-mxstfng84nrp6xbgsmbjkwqo50h4zr39zrbfz5vcwg.jpg" class="logo"></div>
+        <div><img src="https://s1.stabroeknews.com/images/2016/03/20160313Frank-Birbalsingh-277x250.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
