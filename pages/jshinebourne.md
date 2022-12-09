@@ -18,7 +18,7 @@ permalink: /jshinebourne
             <div class="author_country">
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Janice Shinebourne is from <a href="http://localhost:4000/62">  Guyana.</a></p></div>
-            <div class="acreadmore">    <a href="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Jan%20Lowe%20Shinebourne.jpg" target="_blank">Read more</a></div>
+            <div class="acreadmore">    <a href="https://en.wikipedia.org/wiki/Jan_Shinebourne" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
