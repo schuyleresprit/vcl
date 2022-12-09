@@ -1,11 +1,11 @@
 ---
 layout: defaultau
-title: "Hesketh Bell"
-permalink: /hbell
+title: "Henry Hesketh Bell"
+permalink: /hhbell
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Hesketh Bell</h1>
+    <h1>Henry Hesketh Bell</h1>
     <div class="quote">
         <div><img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Portrait_of_Sir_Henry_Hesketh_Joudou_Bell.jpg" class="logo"></div>
     </div>
@@ -17,7 +17,7 @@ permalink: /hbell
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Hesketh Bell is from<a href="http://localhost:4000/17"> France.</a></p></div>
+            <div class="aclocation"><p>Henry Hesketh Bell is from<a href="http://localhost:4000/17"> France.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Henry_Hesketh_Bell" target="_blank">Read more</a></div>
             </div>
             </div>
@@ -33,7 +33,7 @@ permalink: /hbell
                 Publisher: Sampson Low, Marston & Company Limited<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: NA</p>
+                Length: 308</p>
             </div>
         </div>
         <div class="block">
