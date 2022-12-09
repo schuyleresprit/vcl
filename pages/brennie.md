@@ -15,9 +15,11 @@ permalink: /brennie
             <div class="date right"><p class="right">B. 1946</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Bukka Rennie is from Trinidad & Tobago.</p>
-                <a href="">Read more</a>
+          <div class="aclocation">  <p>Bukka Rennie is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p> </div>
+                <div class="acreadmore"><a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -48,4 +50,3 @@ permalink: /brennie
                 Length: 262<br/>                   </p>
             </div>
         </div>
- 
