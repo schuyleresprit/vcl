@@ -27,7 +27,7 @@ permalink: /kbaldeosingh
             <div class="dot"></div>
             <div class="right">
                 <h1>The Autobiography of Paras P</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5F3JI4SYbGdYCuj89yRxjW4QWrtXaR-VaK8GTIrYd9sm8G8-k"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Heinemann<br/>
@@ -41,7 +41,7 @@ permalink: /kbaldeosingh
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Virgin's Triangle</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41YC7RCN0ZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Heinemann<br/>
                 Pub_location: Oxford, England<br/>
@@ -49,35 +49,3 @@ permalink: /kbaldeosingh
                 Length: 219</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The New voices : a journal for the promotion of creative writing</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Caribbean Media Consultants<br/>
-                Pub_location: Port of Spain, Trinidad and Tobago<br/>
-                Genre: Non Fiction<br/>
-                Length: 87</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>The ten incarnations of Adam Avatar</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Peepal Tree Press<br/>
-                Pub_location: Leeds, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 389</p>
-            </div>
-        </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
