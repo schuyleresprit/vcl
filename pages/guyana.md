@@ -257,7 +257,7 @@ permalink: /62
     <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg">
+          <img src="https://static01.nyt.com/images/2018/03/21/obituaries/21harris-print/harris-pic-articleLarge.jpg?quality=75&auto=webp&disable=upscale">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
