@@ -7,7 +7,7 @@ permalink: /cdabydeen
 <div class="content">
     <h1>Cyril Dabydeen</h1>
     <div class="quote">
-        <div><img src="https://media.poetryfoundation.org/uploads/media/default/0001/21/0af5d3df22155f5fc24d536c4f7ba649982b43f7.jpg" class="logo"></div>
+        <div><img src="https://img.theepochtimes.com/assets/uploads/2015/09/dabydeen.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
