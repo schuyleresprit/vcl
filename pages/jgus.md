@@ -15,9 +15,11 @@ permalink: /AUTHORID
             <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>AUTHOR is from AUTHOR COUNTRY.</p>
-                <a href="WIKI LINK"_blank">Read more</a>
+          <div class="aclocation">  <p>AUTHOR is from AUTHOR COUNTRY.</p></div>
+              <div class="acreadmore">  <a href="WIKI LINK" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
