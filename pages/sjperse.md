@@ -15,9 +15,11 @@ permalink: /sjperse
             <div class="date right"><p class="right">1887-1975</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Saint-John Perse is from Guadeloupe.</p>
-                <a href="https://en.wikipedia.org/wiki/Saint-John_Perse">Read more</a>
+          <div class="aclocation">  <p>Saint-John Perse is from <a href="http://localhost:4000/29">Guadeloupe.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Saint-John_Perse">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -48,4 +50,3 @@ permalink: /sjperse
                 Length: 40<br/>                   </p>
             </div>
         </div>
- 
