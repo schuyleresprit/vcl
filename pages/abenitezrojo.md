@@ -37,6 +37,20 @@ permalink: /abenitezrojo
             </div>
         </div>
         <div class="block">
+            <div class="date left"><p class="left">1976</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Los Inquilinos Cuento Primera Edicion.1976</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51R05WhjcTL._SX373_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 68<br/>                   </p>
+            </div>
+        </div>
+        <div class="block">
             <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -92,13 +106,13 @@ permalink: /abenitezrojo
             <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Paso de Los Vientos</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51Jjqym93sL._SX324_BO1,204,203,200_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Editorial Casiopea<br/>
-                Pub_location: Barcelona, Spain<br/>
+                <h1>Sea of Lentils</h1><hr>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeb75NxVk8UbE71AbOknVWFrqup20XQsWLwlapVr5Aw09T3lKy"></p>
+                <p>Language: English<br/>
+                Publisher: Faber and Faber<br/>
+                Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 236</p>
+                Length: 216</p>
             </div>
         </div>
         <div class="block">
@@ -156,6 +170,3 @@ permalink: /abenitezrojo
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
