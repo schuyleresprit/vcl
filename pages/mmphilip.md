@@ -49,24 +49,3 @@ permalink: /mmphilip
                 Length: 260</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1854</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Emmanuel Appadocca: Or, Blighted Life</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61N4BoDUBKL.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Charles J. Skeet<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 336</p>
-            </div>
-        </div>
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
