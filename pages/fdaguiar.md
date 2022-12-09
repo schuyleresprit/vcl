@@ -7,7 +7,7 @@ permalink: /fdaguiar
 <div class="content">
     <h1>Fred D'Aguiar</h1>
     <div class="quote">
-        <div><img src="https://i.harperapps.com/authors/14934/x500.JPG" class="logo"></div>
+        <div><img src="https://vtx.vt.edu/content/dam/vtx_vt_edu/articles/2010/04/images/10276daguiar-jpg.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
