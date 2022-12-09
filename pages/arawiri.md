@@ -15,9 +15,11 @@ permalink: /arawiri
             <div class="date right"><p class="right">1954-2010</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Angèle Rawiri is from Gabon.</p>
-                <a href="https://en.wikipedia.org/wiki/Ang%C3%A8le_Rawiri">Read more</a>
+            <div class="aclocation"><p>Angèle Rawiri is from <a href="http://localhost:4000/52">Gabon.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Ang%C3%A8le_Rawiri">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /arawiri
                 Length: 232<br/>                   </p>
             </div>
         </div>
- 	 
