@@ -15,9 +15,11 @@ permalink: /bpaul
             <div class="date right"><p class="right">1887-1975</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Baptiste Paul is from France.</p>
-                <a href="">Read more</a>
+          <div class="aclocation">  <p>Baptiste Paul is from <a href="http://localhost:4000/17">France.</a></p></div>
+                <div class="acreadmore"><a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
