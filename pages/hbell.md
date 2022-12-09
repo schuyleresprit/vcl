@@ -49,35 +49,5 @@ permalink: /hbell
                 Length: 200</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1894</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>A Witch's Legacy; Second Edition</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41Ws4yhEsLL._AC_SY780_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Sampson Low, Marston & Company Limited<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 478</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1919</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Notes on Dominica, and hints to intending settlers;</h1><hr>
-                <p><img src="https://archive.org/services/img/notesondominicah0000bell/full/pct:200/0/default.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: W.I., Advocate<br/>
-                Pub_location: Bridgetown, Barbados<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 62</p>
-            </div>
-        </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
