@@ -15,9 +15,11 @@ permalink: /caparsons
             <div class="date right"><p class="right">1922 -1996</p></div>
             <div class="dot"></div>
             <div class="left first">
+              <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Captain Anthony Parsons is from England.</p>
-                <a href="https://en.wikipedia.org/wiki/Anthony_Parsons">Read more</a>
+          <div class="aclocation">  <p>Captain Anthony Parsons is from <a href="http://localhost:4000/11">England.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Anthony_Parsons">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
