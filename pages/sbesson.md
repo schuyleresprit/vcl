@@ -7,12 +7,12 @@ permalink: /sbesson
 <div class="content">
     <h1>Sherwyn Besson</h1>
     <div class="quote">
-        <div><img src="https://bbbookdataprod.blob.core.windows.net/authorimages/CT91650929/CT91650929.jpg" class="logo"></div>
+        <div><img src="https://gamma.creativecirclecdn.com/liherald/original/1325259268_5632.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> ?? </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,7 +27,7 @@ permalink: /sbesson
             <div class="dot"></div>
             <div class="right">
                 <h1>Rationed Freedoms</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/11BSBN8HNAL._BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Sherwyn Besson<br>
@@ -37,39 +37,3 @@ permalink: /sbesson
                 </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Stigma</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br>
-                Publisher: Authorhouse<br>
-                Publisher Location: Bloomington, IN United States<br>
-                Genre: Fiction<br>
-                Length: 358<br>
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">2018</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>With Slight Pepper</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545515549l/43015758._SY475_.jpg"></p>
-                <p>Language: English<br>
-                Publisher: BookBaby<br>
-                Publisher Location: Pennsauken Township, NJ, United States<br>
-                Genre: Fiction<br>
-                Length: 340<br></p>
-            </div>
-
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
