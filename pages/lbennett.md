@@ -31,9 +31,7 @@ permalink: /lbennett
                 Publisher: Gleanor Co<br/>
                 Publisher Location: Kingston, Jamaica<br/>
                 Genre: Fiction<br/>
-                Length: 68
-
-                </p>
+                Length: 68                </p>
             </div>
         </div>
         <div class="block">
@@ -41,15 +39,13 @@ permalink: /lbennett
             <div class="dot"></div>
             <div class="left">
                 <h1>Laugh With Louise: A Pot-pourri of Jamaican Folklore : Stories, Songs, Verses</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/en/8/8b/Louise_Bennett.jpg"></p>
+                <p><img src="https://culturacolectiva-cultura-colectiva-prod.cdn.arcpublishing.com/resizer/3z1Scp--bxhT2ivkoWt8h1pMWK8=/600x450/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/WQH2EOKEX5HP3ERI6UYUZQNBTY.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Lithographic Printers Limited<br/>
                 Publisher Location: Kingston, Jamaica<br/>
                 Genre: Fiction<br/>
-                Length: 54
-
-                </p>
+                Length: 54                </p>
             </div>
         </div>      
         <div class="block">
@@ -58,7 +54,6 @@ permalink: /lbennett
             <div class="right">
                 <h1>Jamaica Labrish: Jamaica Dialect Poems</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/813RoRWD98L.jpg"></p>
-                <p>
                 Language: English<br/>
                 Publisher: Sangster's Book Stores<br/>
                 Publisher Location: Kingston, Jamaica<br/>
