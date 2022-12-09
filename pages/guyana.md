@@ -14,7 +14,23 @@ permalink: /62
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
-      <div id="post-1" class="vesti-col timeline-post">
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://th.bing.com/th/id/OIP.yl-tXXO4A9HuiOYbW7jy-gAAAA?pid=ImgDet&rs=1" width="80%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/bgilroy">Beryl Gilroy</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://img.theepochtimes.com/assets/uploads/2015/09/dabydeen.jpg" width="80%">
@@ -30,7 +46,7 @@ permalink: /62
      </div>
    </div>
  </div>
-      <div id="post-1" class="vesti-col timeline-post">
+  <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://images.gr-assets.com/authors/1442517606p5/376637.jpg" width="80%">
@@ -46,7 +62,23 @@ permalink: /62
      </div>
    </div>
  </div>
-    <div id="post-1" class="vesti-col timeline-post">
+ <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Denise%20Harris.jpg?itok=bzhz5XTi" width="80%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/dharris">Denise Harris</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+<div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://s1.stabroeknews.com/images/2010/11/20101115mittelholzer-186x280.jpg" width="80%">
@@ -74,22 +106,6 @@ permalink: /62
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="/fbirbalsingh">Frank Birbalsingh</a></h4>
-       </a>
-     </div>
-   </div>
- </div>
-   <div id="post-1" class="vesti-col timeline-post">
-   <div class="vesti-content-wrapper">
-     <div class="photo">
-       <img src="https://vtx.vt.edu/content/dam/vtx_vt_edu/articles/2010/04/images/10276daguiar-jpg.jpg" width="80%">
-       <div class="vesti-date-wrapper">
-         <div class="vesti-date">
-         </div>
-       </div>
-     </div>
-     <div class="vesti-desc">
-       <a class="desc-a" href="#">
-         <h4><a href="/fdaguiar">Fred D'Aguiar </a></h4>
        </a>
      </div>
    </div>
