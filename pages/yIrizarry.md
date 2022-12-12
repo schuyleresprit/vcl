@@ -18,7 +18,7 @@ permalink: /yIrizarry
             <div class="author_country">
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Ylce Irizarry is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
-              <div class="acreadmore">  <a href="#"_blank">Read more</a></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
