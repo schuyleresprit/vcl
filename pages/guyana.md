@@ -23,6 +23,15 @@ permalink: /62
          </div>
        </div>
      </div>
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rwas20/2018/rwas20.v033.i02/02690055.2018.1431101/20180518/02690055.2018.1431101.fp.png_v03" width="80%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="/bgilroy">Beryl Gilroy</a></h4>
