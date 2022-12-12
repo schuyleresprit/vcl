@@ -12,7 +12,7 @@ permalink: /gbulin
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,7 +27,7 @@ permalink: /gbulin
             <div class="dot"></div>
             <div class="right">
                 <h1>Le Fils du Filaos</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41FVqhFrR4L._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Ibis Rouge<br/>
@@ -40,6 +40,3 @@ permalink: /gbulin
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
