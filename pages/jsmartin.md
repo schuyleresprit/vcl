@@ -15,9 +15,11 @@ permalink: /jsmartin
             <div class="date right"><p class="right"> 1954 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Janelle S Martin is from Martinique.</p>
-                <a href="https://en.wikipedia.org/wiki/Évelyne_Trouillot" target="_blank">Read more</a>
+          <div class="aclocation">  <p>Janelle S Martin is from <a href="http://localhost:4000/8">Martinique.</a></p> </div>
+              <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Évelyne_Trouillot" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
