@@ -22,7 +22,49 @@ permalink: /ebrodber
             </div>
             </div>
         </div>
-        <div class="block">
+       <div class="block">
+            <div class="date left"><p class="left">1999</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The People Of My Jamaican Village, 1817-1948</h1><hr>
+                <p><img src="IMAGE LINK"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Blackspace<br/>
+                Pub_location: St. Mary, Jamaica<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 32<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2000</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Alabaster-Baby Roman</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/317hMnWcKuL._SX318_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: German<br/>
+                Publisher: Lamuv<br/>
+                Pub_location: Gottingen, Germany<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 191<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2003</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Standing Tall: Affirmations Of The Jamaican Male : 24 Self-Portraits</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/419Qj0YnHjL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Sir Arthur Lewis Institute of Social and Economic Studies, University of the West Indies<br/>
+                Pub_location: Mona, Jamaica<br/>
+                Genre: Nonfiction Book<br/>
+                Length: 236<br/>                   </p>
+            </div>
+        </div>
+         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -37,6 +79,32 @@ permalink: /ebrodber
                 </p>
             </div>
         </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+       <div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Jane & Louisa Will Soon Come Home</h1><hr>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfnuDMlYivo_dgNJ6fFkHkC8MCPGSpc1WwZnTeFPVvoSlpdqWL"></p>
+                <p>
+                Language: English<br/>
+                Publisher: New Beacon Books Ltd<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 147<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Nothing's Mat</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51g2WUzHfrL._SX331_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: University of the West Indies Press<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 128<br/>                   </p>
+            </div>
+        </div>
+    </div>
