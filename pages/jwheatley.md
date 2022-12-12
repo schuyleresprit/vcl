@@ -15,9 +15,11 @@ permalink: /jwheatley
             <div class="date right"><p class="right">B. 1939</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Jennie Wheatley is from the British Virgin Islands.</p>
-                <a href="https://en.wikipedia.org/wiki/Jennie_Wheatley"_blank">Read more</a>
+          <div class="aclocation">  <p>Jennie Wheatley is from the <a href="http://localhost:4000/63">British Virgin Islands.</a></p> </div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Jennie_Wheatley" target="_blank">Read more</a> </div>
+            </div>
             </div>
         </div>
         <div class="block">
