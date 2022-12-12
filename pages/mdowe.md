@@ -15,9 +15,11 @@ permalink: /mdowe
             <div class="date right"><p class="right">B. </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Marion Dowe is from Dominica.</p>
-                <a href=""_blank">Read more</a>
+          <div class="aclocation">  <p>Marion Dowe is from <a href="http://localhost:4000/10">Dominica.</a></p></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -36,5 +38,3 @@ permalink: /mdowe
         </div>
   <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-
-
