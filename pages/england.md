@@ -14,10 +14,10 @@ permalink: /11
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
-  <div id="post-1" class="vesti-col timeline-post">
+   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://www.antiguanice.com/v2/clients/526-image1.jpg" width="80%">
+     <img src="https://www.antiguanice.com/v2/clients/526-image1.jpg" width="80%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -30,7 +30,7 @@ permalink: /11
      </div>
    </div>
  </div>
-  <div id="post-1" class="vesti-col timeline-post">
+ <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://vtx.vt.edu/content/dam/vtx_vt_edu/articles/2010/04/images/10276daguiar-jpg.jpg" width="80%">
@@ -42,6 +42,22 @@ permalink: /11
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="/fdaguiar">Fred D'Aguiar </a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="http://bin.sensegates.com/s/F/o/r/Foreign_and_India_Offices%2C_London%2C_1866_ILN.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/greatbritaincolonialoffice">Great Britain Colonial Office</a></h4>
        </a>
      </div>
    </div>
