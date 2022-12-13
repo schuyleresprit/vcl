@@ -7,12 +7,12 @@ permalink: /lcazal
 <div class="content">
     <h1>Louison Cazal</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://scontent.fdcf1-1.fna.fbcdn.net/v/t31.18172-8/11262081_610866125728993_8051641712721013822_o.jpg?stp=cp0_dst-jpg_e15_q65_s600x600&_nc_cat=102&ccb=1-7&_nc_sid=e007fa&_nc_ohc=Ipk_8bQM8KkAX9dtTC6&_nc_ht=scontent.fdcf1-1.fna&oh=00_AfAI-YOddPBWDDpDRvNpqq6880j8tLJLzO7oyAQdgqMWJg&oe=63BF5344" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
