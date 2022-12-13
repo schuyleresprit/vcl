@@ -7,7 +7,7 @@ permalink: /alowe
 <div class="content">
     <h1>Adam Lowe</h1>
     <div class="quote">
-        <div><img src="https://www.peepaltreepress.com/sites/default/files/styles/staff_large/public/adam.png?itok=E4dn0h_K" class="logo"></div>
+        <div><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Adam%20Lowe%20-%20Flip%20The%20Script%20Cohort%202021%20-%207.jpg?itok=PGelOyWT" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
