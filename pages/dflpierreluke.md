@@ -12,7 +12,7 @@ permalink: /dflpierreluke
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-             <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
+             <div class="date right"><p class="right"> B. 1966 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
