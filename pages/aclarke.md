@@ -34,11 +34,9 @@ permalink: /aclarke
                 Publisher Location: Dublin, Ireland<br/>
                 Genre: Drama<br/>
                 Length: 402
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1964</p></div>
             <div class="dot"></div>
@@ -51,11 +49,9 @@ permalink: /aclarke
                 Publisher Location: London, England<br/>
                 Genre: Autobiography<br/>
                 Length: 202
-
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1965</p></div>
             <div class="dot"></div>
@@ -68,11 +64,9 @@ permalink: /aclarke
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
                 Length: 183
-
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1973</p></div>
             <div class="dot"></div>
@@ -85,7 +79,6 @@ permalink: /aclarke
                 Publisher Location: Boston, MA, United States<br/>
                 Genre: Fiction<br/>
                 Length: 312
-
                 </p>
             </div>
         </div>
@@ -101,11 +94,9 @@ permalink: /aclarke
                 Publisher Location: Boston, MA, United States<br/>
                 Genre: Fiction<br/>
                 Length: 288
-
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1977</p></div>
             <div class="dot"></div>
@@ -118,11 +109,9 @@ permalink: /aclarke
                 Publisher Location: Don Mills, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 191
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1980</p></div>
             <div class="dot"></div>
@@ -135,12 +124,9 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 192
-
                  </p>
             </div>
         </div>
-
-
          <div class="block">
             <div class="date right"><p class="right hide">1988</p></div>
             <div class="dot"></div>
@@ -153,11 +139,9 @@ permalink: /aclarke
                 Publisher Location: Markham, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 224
-
                  </p>
             </div>
         </div>
-
          <div class="block">
             <div class="date left"><p class="left hide">1994</p></div>
             <div class="dot"></div>
@@ -170,12 +154,10 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON<br/>
                 Genre: Fiction<br/>
                 Length: 224
-
                  </p>
            </div>
         </div>
-
-                <div class="block">
+        <div class="block">
             <div class="date right"><p class="right hide">1996</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -187,11 +169,9 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 349
-
                  </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left"><p class="left hide">1999</p></div>
             <div class="dot"></div>
@@ -204,11 +184,9 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 243
-
                  </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date right"><p class="right hide">2000</p></div>
             <div class="dot"></div>
@@ -221,28 +199,24 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Autobiography<br/>
                 Length: 248
-
                  </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left"><p class="left hide">2002</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Polished Hoe</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzUw3KirsaNf6Ac8PfAxKMoIt9Nhtd3gJRBBMILiGZS2VQCe4Y"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Thomas Allen Publishers<br/>
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 462
-
                  </p>
            </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2007</p></div>
             <div class="dot"></div>
@@ -255,11 +229,9 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 182
-
                  </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left"><p class="left hide">2008</p></div>
             <div class="dot"></div>
@@ -272,11 +244,9 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 223
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date right"><p class="right hide">2009</p></div>
             <div class="dot"></div>
@@ -289,11 +259,9 @@ permalink: /aclarke
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
                 Length: 320
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left"><p class="left hide">2013</p></div>
             <div class="dot"></div>
@@ -306,11 +274,9 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 71
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date right"><p class="right hide">2020</p></div>
             <div class="dot"></div>
@@ -323,12 +289,9 @@ permalink: /aclarke
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 182
-
                 </p>
             </div>
         </div>
-
-
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
