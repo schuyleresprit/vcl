@@ -12,7 +12,7 @@ permalink: /jcasimir
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 19?? - 2022 </p></div>
+            <div class="date right"><p class="right"> 1938 - 2022 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -38,7 +38,6 @@ permalink: /jcasimir
                 </p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
