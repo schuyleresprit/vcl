@@ -18,7 +18,7 @@ permalink: /rconfidant
             <div class="author_country">
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p> Raphaël Confiant is from <a href="http://localhost:4000/8">Martinique.</a></p></div>
-                <div class="acreadmore"><a href="https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Confiant"_blank">Read more</a> </div>
+                <div class="acreadmore"><a href="https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Confiant" target="_blank">Read more</a> </div>
             </div>
             </div>
         </div>
