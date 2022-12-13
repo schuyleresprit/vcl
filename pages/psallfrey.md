@@ -37,7 +37,7 @@ permalink: /psallfrey
                 </p>
             </div>
         </div>
-         </div><div class="block">
+         <div class="block">
             <div class="date right"><p class="right">1980</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -51,7 +51,7 @@ permalink: /psallfrey
               </p>
             </div>
         </div>
-        </div><div class="block">
+        <div class="block">
             <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
             <div class="left">
