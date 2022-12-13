@@ -34,11 +34,9 @@ permalink: /mcollins
                 Publisher Location: London, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 93
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
@@ -50,29 +48,9 @@ permalink: /mcollins
                 Publisher: The Women's Press<br/>
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
-                Length: 256
-
-                </p>
+                Length: 256 </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1990</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Grenada: A Political History: 1950-1979</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br/>
-                Publisher: University of London Press<br/>
-                Publisher Location: London, England<br/>
-                Genre: Non Fiction<br/>
-                Length: 18
-
-                </p>
-            </div>
-        </div>
-
-
         <div class="block">
             <div class="date right"><p class="right hide">2011</p></div>
             <div class="dot"></div>
@@ -84,9 +62,7 @@ permalink: /mcollins
                 Publisher: Peepal Tree Press<br/>
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Fiction (Short Stories)<br/>
-                Length: 155
-
-                </p>
+                Length: 155    </p>
             </div>
         </div>
 </div>
