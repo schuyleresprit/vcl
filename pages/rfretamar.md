@@ -15,9 +15,11 @@ permalink: /rfretamar
             <div class="date right"><p class="right"> 1930-2019 </p></div>
             <div class="dot"></div>
             <div class="left first">
+              <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Roberto Fernández Retamar is from Cuba.</p>
-                <a href="https://es.wikipedia.org/wiki/Roberto_Fern%C3%A1ndez_Retamar"_blank">Read more</a>
+        <div class="aclocation">    <p>Roberto Fernández Retamar is from <a href="http://localhost:4000/14">Cuba.</a></p> </div>
+              <div class="acreadmore">   <a href="https://es.wikipedia.org/wiki/Roberto_Fern%C3%A1ndez_Retamar" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -121,5 +123,3 @@ permalink: /rfretamar
         </div>
       <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-
-
