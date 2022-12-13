@@ -7,7 +7,7 @@ permalink: /zcompagnie
 <div class="content">
     <h1>Zoukouyanyan Compagnie</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="http://escapadecarbet.wpenginepowered.com/wp-content/uploads/2016/03/logo-zoukou.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
