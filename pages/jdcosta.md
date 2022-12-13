@@ -22,52 +22,12 @@ permalink: /jdcosta
             </div>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1972</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Sprat Morrison</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br/>
-                Publisher: Longman Inc.<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 189</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1978</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Roger Mais: The hills were joyful together and Brother man (Critical studies of Caribbean writers)</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Longman Inc.<br/>
-                Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 74</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Voice in the Wind</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Longman Inc.<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 147</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1980</p></div>
+         <div class="block">
+            <div class="date right"><p class="right">1975</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Escape To Last Man Peak</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrfqzaBijoErltLnYaX4Y1kcv_xfJses68NOmCHDHnX6t-wleG"></p>
                 <p>Language: English<br/>
                 Publisher: Longman Inc.<br/>
                 Pub_location: London, England<br/>
@@ -76,55 +36,16 @@ permalink: /jdcosta
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
+            <div class="date left"><p class="left">1978</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Over Our Way</h1><hr>
-                <p><img src=""></p>
+                <h1>Voice in the Wind</h1><hr>
+                <p><img src="https://i.pinimg.com/originals/a9/7a/97/a97a973e9ce011734ceb776cf616fc51.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Longman Inc.<br/>
                 Pub_location: London, England<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 256</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1996</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Caesar and the Three Robbers</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Longman Inc.<br/>
-                Pub_location: London, England<br/>
-                Genre: Anthology<br/>
-                Length: 36</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1997</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Duppy Tales</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Longman Inc.<br/>
-                Pub_location: London, England<br/>
-                Genre: Anthology<br/>
-                Length: 44</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2014</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Caribbean Literary Discourse: Voice and Cultural Identity in the Anglophone Caribbean</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: University Alabama Press<br/>
-                Pub_location: Tuscaloosa, AL, United States<br/>
-                Genre: Nonfiction Book<br/>
-                Length: 294</p>
+                Genre: Fiction (Novel)<br/>
+                Length: 147</p>
             </div>
         </div>
         <div id="footer">
