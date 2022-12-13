@@ -45,16 +45,16 @@ permalink: /psallfrey
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4LIfx8yU34x6Z06G181PrR8ERmBk95kRN0Ub7dXjx&s"></p>
                 <p>Language: English<br>
                 Publisher: Research Online<br>
-                Publisher Location: Lübeck, Germany<//br>
-                Genre: Nonfiction</br>
-                Length: 6</br>
+                Publisher Location: Lübeck, Germany<br>
+                Genre: Nonfiction<br>
+                Length: 6<br>
               </p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1986</p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>Dum Mezi Orchidejemi</h1><hr>
                 <p><img src="https://www.databazeknih.cz/img/books/41_/41454/dum-mezi-orchidejemi-41454.jpg"></p>
                 <p>Language: Czech<br>
@@ -66,9 +66,9 @@ permalink: /psallfrey
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>It Falls Into Place</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51u-iZ7DwEL.jpg"></p>
                 <p>Language: English<br>
@@ -80,9 +80,9 @@ permalink: /psallfrey
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2014</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>Love For An Island: The Collected Poems Of Phyllis Shand Allfrey</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51KDQgjH42L._AC_SY780_.jpg"></p>
                 <p>Language: English<br>
