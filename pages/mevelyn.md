@@ -7,7 +7,7 @@ permalink: /mevelyn
 <div class="content">
     <h1>Marie Evelyn</h1>
     <div class="quote">
-        <div><img src="https://i0.wp.com/2.bp.blogspot.com/-mt73AREIaMA/V1rhK6byrcI/AAAAAAAADVg/hcZik5OmLAgif-ElQYb9mMaM5-IBlKtagCLcB/s1600/13335710_1035585969860272_7426307553638569245_n.jpg" class="logo"></div>
+        <div><img src="https://jennykane.co.uk/wp-content/uploads/2016/07/Marie-Gameson-photo-300x253.png" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -17,7 +17,7 @@ permalink: /mevelyn
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Marie Evelyn is from the <a href="http://localhost:4000/1"> United States. </a></p></div>
+            <div class="aclocation"><p>Marie Evelyn is from the <a href="http://localhost:4000/12">Barbados. </a></p></div>
             <div class="acreadmore">    <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
