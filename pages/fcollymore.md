@@ -37,7 +37,6 @@ permalink: /fcollymore
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1970</p></div>
             <div class="dot"></div>
@@ -67,7 +66,6 @@ permalink: /fcollymore
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1993</p></div>
             <div class="dot"></div>
@@ -82,24 +80,7 @@ permalink: /fcollymore
                 Length: 178 <br/>                  
                 </p>
             </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left hide">2005</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Notes for a Glossary of Words and Phrases of Barbadian Dialect</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/417v8odawoL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"  height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Barbados National Trust <br/>
-                Pub_location: Bridgetown, Barbados <br/>
-                Genre: Nonfiction Book <br/>
-                Length: 120 <br/>   
-                </p>
-            </div>
-        </div>
-
+    </div>
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
