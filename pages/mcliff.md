@@ -37,7 +37,6 @@ permalink: /mcliff
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1985</p></div>
             <div class="dot"></div>
@@ -53,7 +52,6 @@ permalink: /mcliff
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
@@ -66,12 +64,9 @@ permalink: /mcliff
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
                 Length: 211
-
-
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
@@ -84,12 +79,9 @@ permalink: /mcliff
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
                 Length: 160
-
-
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1993</p></div>
             <div class="dot"></div>
@@ -102,12 +94,9 @@ permalink: /mcliff
                 Publisher Location: San Francisco, CA, United States<br/>
                 Genre: Fiction<br/>
                 Length: 224
-
-
                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
@@ -120,12 +109,23 @@ permalink: /mcliff
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
                 Length: 167
-
-
                  </p>
             </div>
         </div>
-
+         <div class="block">
+            <div class="date left"><p class="left">1996</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Kein Himmel über Jamaika Roman</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51jIe+VUg7L._SX334_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: German<br/>
+                Publisher: Orlanda Frauenverlag<br/>
+                Pub_location: Berlin, Germany<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 260<br/>                   </p>
+            </div>
+        </div>
         <div class="block">
             <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
@@ -138,11 +138,23 @@ permalink: /mcliff
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
                 Length: 115
-
                  </p>
             </div>
         </div>
-
+         <div class="block">
+            <div class="date left"><p class="left">2000</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Kein Telefon Zum Himmel</h1><hr>
+                <p><img src="http://www.unionsverlag.com/dat/img/cover/3293201628.jpg"></p>
+                <p>
+                Language: German<br/>
+                Publisher: Unionsverlag<br/>
+                Pub_location: Zürich, Switzerland<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 253<br/>                   </p>
+            </div>
+        </div>
          <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
@@ -155,11 +167,9 @@ permalink: /mcliff
                 Publisher Location:  Minneapolis, MIN, United States<br/>
                 Genre: Fiction<br/>
                 Length: 248
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
@@ -172,11 +182,9 @@ permalink: /mcliff
                 Publisher Location: Minneapolis, MIN, United States<br/>
                 Genre: Fiction<br/>
                 Length: 248
-
                  </p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
