@@ -15,9 +15,11 @@ permalink: /zelliott
             <div class="date right"><p class="right">B. 1972</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Zetta Elliott is from Canada.</p>
-                <a href="https://en.wikipedia.org/wiki/Zetta_Elliott"_blank">Read more</a>
+          <div class="aclocation">  <p>Zetta Elliott is from <a href="http://localhost:4000/24">Canada.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Zetta_Elliott" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
