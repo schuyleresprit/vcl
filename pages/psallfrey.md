@@ -47,7 +47,8 @@ permalink: /psallfrey
                 Publisher: Research Online<br>
                 Publisher Location: Lübeck, Germany<//br>
                 Genre: Nonfiction</br>
-                Length: 6</br></p>
+                Length: 6</br>
+              </p>
             </div>
         </div>
         </div><div class="block">
@@ -60,7 +61,8 @@ permalink: /psallfrey
                 Publisher: Svoboda<br>
                 Publisher Location: Praha, Czech Republic<br>
                 Genre: Fiction<br>
-                Length: 179<br></p>
+                Length: 179<br>
+                </p>
             </div>
         </div>
         <div class="block">
@@ -73,7 +75,8 @@ permalink: /psallfrey
                 Publisher: Papillote Press<br>
                 Publisher Location: Trafalgar, Dominica<br>
                 Genre: Poetry Collection<br>
-                Length: 144<br></p>
+                Length: 144<br>
+               </p>
             </div>
         </div>
         <div class="block">
@@ -86,7 +89,8 @@ permalink: /psallfrey
                 Publisher: Papillote Press<br>
                 Publisher Location: Trafalgar, Dominica<br>
                 Genre: Poetry Collection<br>
-                Length: 104<br></p>
+                Length: 104<br>
+               </p>
             </div>
         </div>
 
