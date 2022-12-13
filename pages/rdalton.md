@@ -34,7 +34,6 @@ permalink: /rdalton
                 Publisher Location: Mexico City, Mexico<br/>
                 Genre: Essay<br/>
                 Length: 151
-
                 </p>
             </div>
         </div>
