@@ -15,9 +15,11 @@ permalink: /opadisa
             <div class="date right"><p class="right"> B. 1954 </p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p> Opal Palmer Adisa is from Jamaica.</p>
-                <a href="https://en.wikipedia.org/wiki/Opal_Palmer_Adisa" target="_blank">Read more</a>
+          <div class="aclocation">  <p> Opal Palmer Adisa is from <a href="http://localhost:4000/4">Jamaica.</a></p> </div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Opal_Palmer_Adisa" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -65,7 +67,7 @@ permalink: /opadisa
                 Publisher Location: Oxford, England<br/>
                 Genre: Fiction<br/>
                 Length: 256
-   
+
                 </p>
             </div>
         </div>
@@ -82,7 +84,7 @@ permalink: /opadisa
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 103
-    
+
                 </p>
             </div>
         </div>
@@ -99,7 +101,7 @@ permalink: /opadisa
                 Publisher Location:<br/>
                 Genre:<br/>
                 Length:
-    
+
                 </p>
             </div>
         </div>
@@ -120,7 +122,7 @@ permalink: /opadisa
                 </p>
             </div>
         </div>
-        
+
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
@@ -133,11 +135,11 @@ permalink: /opadisa
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 222
-    
+
                 </p>
             </div>
         </div>
-   
+
         <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
@@ -166,7 +168,7 @@ permalink: /opadisa
                 Publisher Location: Basseterre, St. Kitts<br/>
                 Genre: Fiction<br/>
                 Length: 27
-    
+
                 </p>
             </div>
         </div>
