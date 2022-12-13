@@ -27,16 +27,16 @@ permalink: /mejohn
             <div class="dot"></div>
             <div class="right">
                 <h1>Unburnable</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg"   height="50%" width = "50%"></p>
+                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtshL91pcb1gnXgaLDZhAaBzioYYfyolFlk4ZE7qVcStePqYWs"height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Amistad<br/>
                 Pub_location: New York, NY, United States <br/>
                 Genre: Fiction<br/>
-                Length: 304<br/>                
+                Length: 304<br/></p>                
             </div>
         </div>
 
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+        <div id="footer">
+        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
+
