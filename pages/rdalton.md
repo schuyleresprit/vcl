@@ -7,7 +7,7 @@ permalink: /rdalton
 <div class="content">
     <h1>Roque Dalton</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Roque_Dalton_%281969%29.jpg/220px-Roque_Dalton_%281969%29.jpg" class="logo"></div>
+        <div><img src="https://ca-times.brightspotcdn.com/dims4/default/e0d1190/2147483647/strip/true/crop/600x338+0+31/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdd%2Ffb%2F4e2c452432ac8c6e0bda3aa6d001%2Fla-xpm-photo-2013-may-29-la-et-jc-secrets-death-salvadoran-poet-roque-dalton-20130529" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
