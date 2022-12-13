@@ -12,7 +12,7 @@ permalink: /mchapman
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> B. 1796 </p></div>
+            <div class="date right"><p class="right"> 1796-1865 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
