@@ -15,9 +15,11 @@ permalink: /mwarnerlewis
             <div class="date right"><p class="right">B. 1943</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>Maureen Warner-Lewis is from Trinidad & Tobago.</p>
-                <a href="https://en.wikipedia.org/wiki/Maureen_Warner-Lewis"_blank">Read more</a>
+            <div class="aclocation"><p>Maureen Warner-Lewis is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Maureen_Warner-Lewis" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
@@ -34,4 +36,3 @@ permalink: /mwarnerlewis
                 Length: 88<br/>                   </p>
             </div>
         </div>
-	 
