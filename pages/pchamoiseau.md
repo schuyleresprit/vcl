@@ -34,11 +34,9 @@ permalink: /pchamoiseau
                 Publisher Location: Fort-de-France, Martinique<br/>
                 Genre: Non Fiction<br/>
                 Length: 190
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
@@ -50,21 +48,9 @@ permalink: /pchamoiseau
                 Publisher: Éditions Caribéennes<br/>
                 Publisher Location: Paris, France<br/>
                 Genre: Fiction<br/>
-                Length: 226
-
-                </p>
+                Length: 226</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1933</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Title</h1><hr>
-                <p><img src=""></p>
-                <p>Lorem ipsum...</p>
-            </div>
-        </div>
-
         <div class="block">
             <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
@@ -77,11 +63,9 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Fiction<br/>
                 Length: 190
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
@@ -94,11 +78,9 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Essay<br/>
                 Length: 128
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
@@ -111,11 +93,9 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Fiction<br/>
                 Length: 125
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
@@ -128,11 +108,9 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Autobiography/Memoir<br/>
                 Length: 279
-
                 </p>
             </div>
         </div>
-
           <div class="block">
             <div class="date right"><p class="right">1991</p></div>
             <div class="dot"></div>
@@ -145,11 +123,9 @@ permalink: /pchamoiseau
                 Publisher Location: Paris, France<br/>
                 Genre: Fiction<br/>
                 Length: 164
-
                 </p>
            </div>
         </div>
-
           <div class="block">
             <div class="date left"><p class="left">1997</p></div>
             <div class="dot"></div>
@@ -162,11 +138,9 @@ permalink: /pchamoiseau
                 Publisher Location: Lincoln, NE, United States<br/>
                 Genre: Fiction<br/>
                 Length: 101
-
                 </p>
            </div>
         </div>
-
           <div class="block">
             <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
@@ -182,7 +156,6 @@ permalink: /pchamoiseau
                 </p>
            </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
