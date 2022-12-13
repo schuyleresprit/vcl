@@ -15,9 +15,11 @@ permalink: /walewis
             <div class="date right"><p class="right">1915-1991</p></div>
             <div class="dot"></div>
             <div class="left first">
+            <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <p>W. Arthur Lewis is from St. Lucia.</p>
-                <a href="https://en.wikipedia.org/wiki/W._Arthur_Lewis"_blank">Read more</a>
+          <div class="aclocation">  <p>W. Arthur Lewis is from <a href="http://localhost:4000/16">St. Lucia.</a></p></div>
+                <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/W._Arthur_Lewis" target="_blank">Read more</a></div>
+            </div>
             </div>
         </div>
         <div class="block">
