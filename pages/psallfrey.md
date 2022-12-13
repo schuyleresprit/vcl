@@ -38,7 +38,7 @@ permalink: /psallfrey
             </div>
         </div>
          </div><div class="block">
-            <div class="date right"><p class="right hide">1980</p></div>
+            <div class="date right"><p class="right">1980</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>Hurricane David: The Skeleton of a Survival Tale</h1><hr>
@@ -52,7 +52,7 @@ permalink: /psallfrey
             </div>
         </div>
         </div><div class="block">
-            <div class="date right"><p class="right hide">1986</p></div>
+            <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>Dum Mezi Orchidejemi</h1><hr>
@@ -66,7 +66,7 @@ permalink: /psallfrey
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2012</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>It Falls Into Place</h1><hr>
@@ -80,7 +80,7 @@ permalink: /psallfrey
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>Love For An Island: The Collected Poems Of Phyllis Shand Allfrey</h1><hr>
