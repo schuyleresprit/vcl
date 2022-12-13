@@ -27,13 +27,13 @@ permalink: /mejohn
             <div class="dot"></div>
             <div class="right">
                 <h1>Unburnable</h1><hr>
-                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtshL91pcb1gnXgaLDZhAaBzioYYfyolFlk4ZE7qVcStePqYWs"height="50%" width = "50%"></p>
+                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtshL91pcb1gnXgaLDZhAaBzioYYfyolFlk4ZE7qVcStePqYWs"</p>
                 <p>
                 Language: English <br/>
                 Publisher: Amistad<br/>
                 Pub_location: New York, NY, United States <br/>
                 Genre: Fiction<br/>
-                Length: 304<br/></p>                
+                Length: 304</p>                
             </div>
         </div>
 
