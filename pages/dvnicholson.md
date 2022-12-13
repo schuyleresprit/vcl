@@ -27,7 +27,7 @@ permalink: /dvnicholson
             <div class="dot"></div>
             <div class="right">
                 <h1>The Story Of The Arawaks In Antigua & Barbuda And Barbuda</h1><hr>
-                <p><img src="https://nationalbookswap.com/pbs/l/53/8453/9780772518453.jpg" ></p>
+                <p><img src="https://books.google.dm/books/content?id=s5JsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73jVcuHkAm5Fg1KDU5mF5z8ecPY3sm7W-kP1NSUtp7jN359d7pf1Dulj5tA_GByqeVRKQ7OuARlzHDgE1eNdKaXSVAbncwuXOmYd9nhW5dMkH0o-B4r3PMtpz_lhFwpFDrsUf4b" ></p>
                 <p>
                 Language: English <br/>
                 Publisher: Desmond Nicholson<br/>
