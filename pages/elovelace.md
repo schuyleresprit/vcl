@@ -22,7 +22,7 @@ permalink: /elovelace
             </div>
             </div>
         <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1966</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>While Gods Are Falling</h1><hr>
