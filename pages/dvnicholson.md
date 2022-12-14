@@ -5,7 +5,7 @@ permalink: /dvnicholson
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Evan Jones</h1>
+    <h1>Desmond V Nicholson</h1>
     <div class="quote">
         <div><img src="https://www.antiguanice.com/v2/clients/526-image1.jpg" class="logo"></div>
     </div>
