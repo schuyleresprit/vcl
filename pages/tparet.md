@@ -28,7 +28,7 @@ permalink: /tparet
                 <h1>Dans La Mélange: Pensées, Conférences, Discours, Etc. (1916-1931)</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md30333753769.jpg"></p>
                 <p>
-                Language: English<br/>
+                Language: French<br/>
                 Publisher: Jouve & Cie<br/>
                 Pub_location: Paris, France<br/>
                 Genre: Nonfiction Book<br/>
