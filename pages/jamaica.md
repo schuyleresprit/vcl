@@ -478,6 +478,22 @@ permalink: /4
            </div>
          </div>
        </div>
+ <div id="post-28" class="vesti-col timeline-post">
+         <div class="vesti-content-wrapper">
+           <div class="photo">
+             <img src="http://idata.over-blog.com/0/57/55/67/Album-2/0086-photo-N.Roy.JPG" width="50%" height="50%">
+             <div class="vesti-date-wrapper">
+               <div class="vesti-date">
+               </div>
+             </div>
+           </div>
+           <div class="vesti-desc">
+             <a class="desc-a" href="#">
+               <h4><a href="/rnamba">Roy Namba</a></h4>
+             </a>
+           </div>
+         </div>
+       </div>
  <div id="post-29" class="vesti-col timeline-post">
              <div class="vesti-content-wrapper">
                <div class="photo">
