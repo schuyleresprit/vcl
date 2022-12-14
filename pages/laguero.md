@@ -19,7 +19,6 @@ permalink: /laguero
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Luis Aguero is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
               <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
-            </div>
        <div class="block">
             <div class="date left"><p class="left">1969</p></div>
             <div class="dot"></div>
