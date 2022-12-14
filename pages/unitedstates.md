@@ -127,7 +127,7 @@ permalink: /1
         </div>
       </div>
     </div>
-       <div id="post-7" class="vesti-col timeline-post">
+       <div id="post-8" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="60%">
@@ -143,7 +143,7 @@ permalink: /1
         </div>
       </div>
     </div>
-       <div id="post-8" class="vesti-col timeline-post">
+       <div id="post-9" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://images.squarespace-cdn.com/content/v1/58cee92703596ed4bf9db45e/1628193347401-MU9CBD960392F86PG3HL/Naima+Coster+author+portraits_8.jpg" width="60%">
@@ -159,7 +159,23 @@ permalink: /1
         </div>
       </div>
     </div>
-  <div id="post-9" class="vesti-col timeline-post">
+       <div id="post-10" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://images3.penguinrandomhouse.com/author/241542" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/njackson">Naomi Jackson</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+  <div id="post-11" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/Paule_Marshall.jpg" width="60%">
@@ -176,7 +192,7 @@ permalink: /1
    </div>
  </div>
 
-  <div id="post-10" class="vesti-col timeline-post">
+  <div id="post-12" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.cgas.udel.edu/IMAGES%20BIOS/BRAHAM_P.JPG?RenditionID=14" width="60%">
@@ -193,7 +209,7 @@ permalink: /1
    </div>
  </div>
 
- <div id="post-11" class="vesti-col timeline-post">
+ <div id="post-13" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://static.wixstatic.com/media/16aa54_d4c6423a128f41fdba8ed0093fb9fc2b~mv2.jpg/v1/fill/w_286,h_420,al_c,lg_1,q_80,enc_auto/Young%20Artist.jpg" width="60%">
@@ -209,7 +225,7 @@ permalink: /1
      </div>
    </div>
  </div>
-   <div id="post-12" class="vesti-col timeline-post">
+   <div id="post-14" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -226,7 +242,7 @@ permalink: /1
    </div>
  </div> 
 
- <div id="post-13" class="vesti-col timeline-post">
+ <div id="post-15" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/robert%20antoni.jpg">
@@ -243,7 +259,7 @@ permalink: /1
    </div>
  </div> 
 
-  <div id="post-14" class="vesti-col timeline-post">
+  <div id="post-16" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://orionmagazine.org/wp-content/uploads/2015/06/Ruben-Martinez.jpg" width="60%">
