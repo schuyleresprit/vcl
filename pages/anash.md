@@ -7,17 +7,17 @@ permalink: /anash
 <div class="content">
     <h1>Anthony Nash</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://m.media-amazon.com/images/I/71bjxQ7prcL.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">1945-1985</p></div>
+            <div class="date right"><p class="right">NA</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Anthony Nash is from <a href="http://localhost:4000/11">England.</a></p></div>
+          <div class="aclocation">  <p>Anthony Nash is from <a href="http://localhost:4000/3">Trinidad & Tobago.</a></p></div>
               <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
