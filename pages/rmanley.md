@@ -38,9 +38,9 @@ permalink: /rmanley
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">1996</p></div>
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Drumblair: Memories of a Jamaican Childhood</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51DX4NT3K2L._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -68,9 +68,9 @@ permalink: /rmanley
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2013</p></div>
+            <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Horses in Her Hair</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396777560l/17836441.jpg"></p>
                 <p>
