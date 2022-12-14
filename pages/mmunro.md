@@ -7,7 +7,7 @@ permalink: /mmunro
 <div class="content">
      <h1>Martin Munro</h1>
     <div class="quote">
-        <div><img src="https://images.squarespace-cdn.com/content/v1/5be9f0c785ede1ec2ee14ef2/1547837428273-QYC6M007LH8IIQWHW22X/Maika+Moulite+Headshot+-+smile+v2.jpg?format=500w" class="logo"></div>
+        <div><img src="" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
