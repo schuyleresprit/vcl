@@ -141,7 +141,6 @@ a {
   text-transform: uppercase;
 }
 .container-title {
-    margin-top: 65px;
     text-align: center;
     text-transform: uppercase;
 }
@@ -378,8 +377,8 @@ a {
   .timeline-post:nth-child(even) .vesti-date-wrapper {
     left: -97px;
   }
-  .timeline-post:nth-child(odd) .vesti-date-wrapper,
+/*  .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    width: 100%;
+    width: 100%;*/
   }
 }
