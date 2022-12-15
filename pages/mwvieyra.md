@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Myriam Warner-Vieyra"
-permalink: /mwarnervieyra
+permalink: /mwvieyra
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
