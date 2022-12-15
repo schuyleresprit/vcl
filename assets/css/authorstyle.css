@@ -57,7 +57,6 @@ body {
 }
 
 .content {
-  margin-top: -13px !important;
   position: relative;
   ont-family: "Roboto", "Montserrat", "Arial", sans-serif;
   width: 100%;
@@ -362,3 +361,44 @@ div.right p img, div.left p img {
     max-height: 400px;
 }
 }
+
+/****MEDIA****/
+
+@media screen and (min-width: 300px) {
+
+
+}
+
+@media screen and (min-width: 600px) {
+  .content h1 {
+      margin-top: 56px;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .content h1 {
+      margin-top: 42px;
+  }
+}
+
+@media screen and (min-width: 850px) {
+  .content h1 {
+      margin-top: 45px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .content h1 {
+      margin-top: 44px;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+
+  .content h1 {
+      margin-top: 44px;
+  }
+
+}
+
+/*********/
