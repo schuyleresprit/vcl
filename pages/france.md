@@ -94,5 +94,21 @@ permalink: /17
       </div>
     </div>
   </div>
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://www.etonnants-voyageurs.com/IMG/arton1748.jpg" width="80%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/ssbart">Simone Schwarz-Bart</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
 
 <!-- partial -->
