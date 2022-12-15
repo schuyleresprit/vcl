@@ -17,7 +17,7 @@ permalink: /mcollins
             <div class="left first">
              <div class="author_country">
                 <h1>Author Country</h1><hr>
-              <div class="aclocation"><p> Merle Collins is from <a href="http://localhost:4000/27">Grenada </a> (Born in Aruba).</p></div>
+              <div class="aclocation"><p> Merle Collins is from <a href="http://localhost:4000/aruba">Aruba </a> .</p></div>
                   <div class="acreadmore"> <a href="https://en.wikipedia.org/wiki/Merle_Collins" target="_blank">Read more</a></div>
             </div>
             </div>
