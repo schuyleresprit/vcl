@@ -277,7 +277,9 @@ li.nav-item.px-3 {
 		padding: 0px !important;
 	}
 	/*****/
-
+	.vesti-date-wrapper {
+	    width: 250px !important;
+	}
 }
 
 @media screen and (min-width: 1000px) {
@@ -314,7 +316,9 @@ li.nav-item.px-3 {
 		padding: 0px !important;
 	}
 	/*****/
-
+	.vesti-date-wrapper {
+	    width: 300px !important;
+	}
 }
 
 @media screen and (min-width: 1600px) {
@@ -351,6 +355,13 @@ li.nav-item.px-3 {
 		padding: 0px !important;
 	}
 	/*****/
+.container-title {
+	margin-top: 0px;
+
+}
+.vesti-date-wrapper {
+    width: 340px!important;
+}
 
 }
 
