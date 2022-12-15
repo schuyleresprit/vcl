@@ -17,7 +17,7 @@ permalink: /29
      <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://img.youtube.com/vi/WetSRtua2J0/0.jpg" width="80%">
+       <img src="https://i.ytimg.com/vi/WetSRtua2J0/mqdefault.jpg" width="80%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -25,12 +25,44 @@ permalink: /29
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/ambogat">Arlette Minatchy-Bogat</a></h4>
+         <h4><a href="/aminatchybogat">Arlette Minatchy-Bogat</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://www.bedetheque.com/media/Photos/Photo_42568.jpg" width="80%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/jmlemaire">Jean-Michel Lemaire</a></h4>
        </a>
      </div>
    </div>
  </div>
  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://static01.nyt.com/images/2020/05/17/books/review/17Torres-PRINT/Torres2-1-mediumSquareAt3X.jpg" width="80%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/mconde">Maryse Condé</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+<div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://repeatingislands.files.wordpress.com/2009/03/warner.jpg?w=768" width="80%">
@@ -45,8 +77,7 @@ permalink: /29
        </a>
      </div>
    </div>
- </div>
-   
+ </div> 
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
