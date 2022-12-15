@@ -47,7 +47,11 @@ div#map {
 
 .wordcloud {
     text-align: center;
-}
+		}
+
+.wordcloud img {
+		    width: 100%;
+		}
 
 a.navbar-brand {
 	padding-left: 1rem;
@@ -165,17 +169,39 @@ footer p:last-child {
 
 /**** MEDIA RULES****/
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 300px) {
+
+	/****navigation_menu****/
+	.navbar-expand-lg .navbar-collapse {
+			display: flex!important;
+			flex-basis: auto;
+	}
+	ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+			display: none;
+	}
+
+
+a.navbar-brand {
+	font-size: 85% !important;
+    padding-top: 13px;
+}
+/********/
 
 }
 
 @media screen and (min-width: 600px) {
+
+	/****navigation_menu****/
 	.navbar-expand-lg .navbar-collapse {
 			display: flex!important;
 			flex-basis: auto;
 	}
 
+	a.navbar-brand {
+		font-size: 100% !important;
+	}
 
+/*****/
 
 }
 
@@ -197,12 +223,12 @@ li.nav-item.px-3 {
 	}
 
 	ul.navbar-nav.me-auto.mb-2.mb-lg-0 li {
-	    display: inline-block;
+	    display: inline-block !important;
 	    float: left;
 	}
 
 	.navbar-nav {
-    display: inline-block;
+    display: inline-block !important;
 	}
 
 	button.navbar-toggler {
@@ -212,6 +238,7 @@ li.nav-item.px-3 {
 .container.px-5 {
     padding: 0px !important;
 }
+
 /****/
 
 }
@@ -290,7 +317,7 @@ li.nav-item.px-3 {
 
 }
 
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1600px) {
 
 	/****navigation_menu****/
 	a.navbar-brand {
