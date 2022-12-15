@@ -365,7 +365,9 @@ div.right p img, div.left p img {
 /****MEDIA****/
 
 @media screen and (min-width: 300px) {
-
+  .content h1 {
+      margin-top: 89px;
+  }
 
 }
 
