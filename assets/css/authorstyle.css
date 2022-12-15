@@ -68,7 +68,6 @@ body {
 
 }
 .content h1 {
-  margin: 0px;
   font-size: 58px;
   text-align: center;
   color: #fff;
@@ -366,9 +365,8 @@ div.right p img, div.left p img {
 
 @media screen and (min-width: 300px) {
   .content h1 {
-      margin-top: 89px;
+      margin-top: 60px;
   }
-
 }
 
 @media screen and (min-width: 600px) {
