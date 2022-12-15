@@ -617,7 +617,7 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mnphilip">M. NourbeSe Philip</a></h4>
+            <h4><a href="/mnphillip">M. NourbeSe Phillip</a></h4>
           </a>
         </div>
       </div>
@@ -778,6 +778,22 @@ permalink: /3
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/mpbartonromeo">Michelle Paula Barton-Romeo</a></h4> 
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-47" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/293154507_198397432516708_386178775158791160_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=uyjmfo_4KiwAX-4l1Xu&_nc_ht=scontent-mia3-2.xx&oh=00_AfA8MIS8rMn9LsLWeSxBPsJ7Un0edNEjC2_F0Q_LbNm5Yw&oe=639F3C8C">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mjames">Michaellee James</a></h4> 
           </a>
         </div>
       </div>
