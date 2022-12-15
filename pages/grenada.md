@@ -14,7 +14,7 @@ permalink: /27
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
-  <div id="post-1" class="vesti-col timeline-post">
+ <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://english.umd.edu/sites/default/files/styles/small_320px_w/public/2021-02/merle-collins-headshot_0.jpg?itok=3eAHknSv" width="60%">
