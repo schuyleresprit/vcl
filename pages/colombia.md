@@ -17,6 +17,22 @@ permalink: /66
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://manuelzapataolivella.co/wp-content/uploads/2020/09/BIOGRAFIA.png" width="50%" height="50%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/mzolivella">Manuel Zapata Olivella</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+ <div id="post-2" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="http://noti5.tv/wp-content/uploads/2019/07/umberto_valverde.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
