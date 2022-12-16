@@ -17,6 +17,22 @@ permalink: /43
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Wols.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="/fwols">Frits Wols</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-2" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT53k59B-iE9UidnRYAeI3a3h5kJhKxPM-gt-8gjtp8&s">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
