@@ -7,8 +7,7 @@ permalink: /jwheatley
 <div class="content">
     <h1>Jennie Wheatley</h1>
     <div class="quote">
-        <div><img src="https://scontent-mia3-1.xx.fbcdn.net/v/t1.18169-9/1622882_10152023722632945_160338285_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=x0rhIQFGivEAX_msla-&_nc_ht=scontent-mia3-1.xx&oh=00_AfCP5eb5Cntlee4LLHYt1NDHa3y4brZhLI-Af8q07UHUkA&oe=63C3EAD0" class="logo"></div>
-    </div>
+        <div><img src="https://images3.penguinrandomhouse.com/author/241542" class="logo"></div>    </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
