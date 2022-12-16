@@ -41,7 +41,7 @@ Language: English<br/>
             <div class="dot"></div>
             <div class="right">
                 <h1>A World Of Prose For CSEC</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51KX595J4RL.jpg"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtk5MNUkp8cufSWq0JKtjz8lfPnW1iZa3NXsCEqjjutD5CUGM8"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Heinemann<br/>
