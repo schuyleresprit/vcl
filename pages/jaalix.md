@@ -17,7 +17,7 @@ permalink: /jaalix
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-        <div class="aclocation">    <p>Juan Antonio Alix is from <a href="http://localhost:4000/9">the Dominican Republic.</a></p></div>
+        <div class="aclocation">    <p>Juan Antonio Alix is from the <a href="http://localhost:4000/9">Dominican Republic.</a></p></div>
                 <div class="acreadmore"><a href="NA" target="_blank">Read more</a></div>
             </div>
             </div>
