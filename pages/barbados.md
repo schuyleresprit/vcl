@@ -97,7 +97,7 @@ permalink: /12
 <div id="post-6" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/cherie-jones.jpg" width="50%" height="50%">
+          <img src="https://images.squarespace-cdn.com/content/v1/5b3f9a1a297114930ce6c8c1/1625504780487-ZBUVIGSZTJT6JPD4Q74D/Cherie+Jones.JPG" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -106,6 +106,22 @@ permalink: /12
         <div class="vesti-desc">
           <a class="desc-a" href="#">
             <h4><a href="/cjones"> Cherie Jones </a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+<div id="post-6" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://scontent-mia3-1.xx.fbcdn.net/v/t1.6435-9/160218353_3867913309898239_6663437266187881639_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=100&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=cjv_jsv1z18AX9aVHr5&_nc_ht=scontent-mia3-1.xx&oh=00_AfCTKcOYpa4W0Vtl0FB5Cl_yg0H8pRDGMy-npOT9H1ZYPw&oe=63C3F52B" width="50%" height="50%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/cwilson"> Cynthia Wilson</a></h4>
           </a>
         </div>
       </div>
