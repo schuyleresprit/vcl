@@ -40,7 +40,7 @@ permalink: /wgtrotman
             <div class="dot"></div>
             <div class="right">
                 <h1>Veterans Of The Psychic Wars</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41nDUd3xWCL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Red Moon Productions Ltd<br>
