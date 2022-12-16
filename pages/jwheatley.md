@@ -7,7 +7,7 @@ permalink: /jwheatley
 <div class="content">
     <h1>Jennie Wheatley</h1>
     <div class="quote">
-        <div><img src="https://images3.penguinrandomhouse.com/author/241542" class="logo"></div>    </div>
+        <div><img src="https://cdn.shopify.com/s/files/1/0560/8823/1993/products/jennie-passiton_576x.jpg?v=1651100740" class="logo"></div>    </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">

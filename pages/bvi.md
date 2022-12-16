@@ -11,14 +11,13 @@ permalink: /63
     </div>
 </div>
 <!-- partial:index.partial.html -->
-
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
    <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://scontent.fanu2-1.fna.fbcdn.net/v/t1.18169-9/1947816_10152023723012945_647878470_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=k9kia6NVo-YAX_jmf_S&_nc_ht=scontent.fanu2-1.fna&oh=00_AT_aDlGD7bfG4jPUmTZdq1wvUfohM9szqp9lgqIxv89bYw&oe=62EC716C" width="60%">
+       <img src="https://cdn.shopify.com/s/files/1/0560/8823/1993/products/jennie-passiton_576x.jpg?v=1651100740" width="60%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
