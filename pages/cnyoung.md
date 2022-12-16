@@ -1,3 +1,4 @@
+---
 layout: defaultau
 title: "Colville N Young"
 permalink: /cnyoung
