@@ -113,6 +113,22 @@ permalink: /1
       <div id="post-6" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://laurenwillig.com/wp-content/uploads/2018/10/Lauren-Willig-c-Amanda-Suanne-683x1024.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/lwillig">Lauren Willig</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+      <div id="post-6" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://alchetron.com/cdn/lloyd-king-puzzle-designer-545d95c4-2c1e-4137-8379-1f551fbfd5b-resize-750.jpeg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
