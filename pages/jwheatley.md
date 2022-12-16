@@ -37,9 +37,9 @@ permalink: /jwheatley
             </div>
         </div>
 	  <div class="block">
-            <div class="date left"><p class="left">1991</p></div>
+            <div class="date right"><p class="right">1991</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Pass It On!: A Treasury Of Virgin Island Tales</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51OaNn5JSwL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>          
