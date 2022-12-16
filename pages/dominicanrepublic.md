@@ -49,7 +49,7 @@ permalink: /9
      <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://photos.geni.com/p13/ab/5d/7d/5a/534448478c5c184f/juanantonioalix_large.jpg" width="70%">
+          <img src="https://scontent-sju1-1.xx.fbcdn.net/v/t31.18172-8/1529973_316126451919178_6789041727178229723_o.jpg?stp=cp0_dst-jpg_e15_p403x403_q65&_nc_cat=109&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=I71bbEhA23oAX9uQZm9&_nc_ht=scontent-sju1-1.xx&oh=00_AfDo9XsxhxnjQn_oBKLkj9a-EavlTP8mwiEEWkkb0r9okg&oe=63B1BEAB" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
