@@ -5,7 +5,7 @@ permalink: /ravmartinez
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>E. A. Tudorovskaya</h1>
+    <h1>Ramon Antonio Victoriano-Martinez</h1>
     <div class="quote">
         <div><img src="https://fhis.cms.arts.ubc.ca/wp-content/uploads/sites/29/2020/10/cropped-Arturo-profile-1.jpg" class="logo"></div>
     </div>
@@ -17,7 +17,7 @@ permalink: /ravmartinez
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Ramon Antonio Victoriano-Martinez is from <a href="http://localhost:4000/9">Dominican Republic.</a></p></div>
+          <div class="aclocation">  <p>Ramon Antonio Victoriano-Martinez is from <a href="http://localhost:4000/9">the Dominican Republic.</a></p></div>
               <div class="acreadmore">  <a href="#" target="_blank">Read more</a> </div>
             </div>
             </div>
