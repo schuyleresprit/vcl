@@ -14,26 +14,10 @@ permalink: /9
 <div class="container">
   <div class="timeline clearfix">
   <div class="vertical-line">
-  <div id="post-1" class="vesti-col timeline-post">
-   <div class="vesti-content-wrapper">
-     <div class="photo">
-       <img src="https://www.arts.gov/sites/default/files/images/Elizabeth-Acevedo-bio.jpg" width="70%">
-       <div class="vesti-date-wrapper">
-         <div class="vesti-date">
-         </div>
-       </div>
-     </div>
-     <div class="vesti-desc">
-       <a class="desc-a" href="#">
-         <h4><a href="/eacevedo">Elizabeth Acevedo</a></h4>
-       </a>
-     </div>
-   </div>
- </div>
-    <div id="post-2" class="vesti-col timeline-post">
+    <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://photos.geni.com/p6/4274/8495/53444836c06f1ed1/FabioFiallo_original.jpg" width="60%">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/FabioFiallo.jpg/330px-FabioFiallo.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -62,7 +46,7 @@ permalink: /9
         </div>
       </div>
     </div>
-      <div id="post-2" class="vesti-col timeline-post">
+      <div id="post-3" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://static01.nyt.com/images/2018/06/19/books/review/19DIAZ-image/merlin_61934657_8ddfb0bf-9268-4dec-9e32-bfd43ad6249c-superJumbo.jpg" width="80%">
@@ -78,7 +62,23 @@ permalink: /9
         </div>
       </div>
     </div>
-     <div id="post-2" class="vesti-col timeline-post">
+    <div id="post-4" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://fhis.cms.arts.ubc.ca/wp-content/uploads/sites/29/2020/10/cropped-Arturo-profile-1.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="/ravmartinez">Ramon Antonio Victoriano-Martinez</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-5" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vigil_Diaz.jpg" width="60%">
@@ -89,10 +89,10 @@ permalink: /9
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/ovdiaz">Otilio Vigil Díaz</a></h4>
+            <h4><a href="/vdiaz">Vigil Díaz</a></h4>
           </a>
         </div>
       </div>
     </div>
-    
+
 <!-- partial -->
