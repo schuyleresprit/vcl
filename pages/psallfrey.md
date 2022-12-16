@@ -7,7 +7,7 @@ permalink: /psallfrey
 <div class="content">
     <h1> Phyllis Shand Allfrey</h1>
     <div class="quote">
-        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQgj7t-tGc_7ex_vnJfh91EC3FZh1uXnvrFAKqd6DKpyBprbYXrMDfw681fa1S85r8YA&usqp=CAU" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Phyllis_Shand_Allfrey.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
