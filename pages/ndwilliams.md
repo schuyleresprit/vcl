@@ -47,8 +47,7 @@ permalink: /ndwilliams
                 Publisher: Peepal Tree Press<br/>
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Fiction<br/>
-                Length: 196</p>
-                </p>
+                Length: 196</br>
             </div>
         </div>
 
