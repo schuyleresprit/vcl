@@ -17,7 +17,7 @@ permalink: /66
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://manuelzapataolivella.co/wp-content/uploads/2020/09/BIOGRAFIA.png" width="50%" height="50%">
+          <img src="http://www.loc.gov/static/managed-content/uploads/sites/7/2015/08/Manuel-Zapata-Olivella.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
