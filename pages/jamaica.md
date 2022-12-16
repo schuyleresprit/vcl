@@ -62,22 +62,6 @@ permalink: /4
      </div>
    </div>
  </div>
- <div id="post-4" class="vesti-col timeline-post">
-    <div class="vesti-content-wrapper">
-      <div class="photo">
-        <img src="https://images.gr-assets.com/authors/1600976999p8/19300595.jpg" width="50%" height="50%">
-        <div class="vesti-date-wrapper">
-          <div class="vesti-date">
-          </div>
-        </div>
-      </div>
-      <div class="vesti-desc">
-        <a class="desc-a" href="#">
-          <h4><a href="/abromfield">Asha Bromfield</a></h4>
-        </a>
-      </div>
-    </div>
-  </div>
   <div id="post-5" class="vesti-col timeline-post">
     <div class="vesti-content-wrapper">
       <div class="photo">
