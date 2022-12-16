@@ -33,14 +33,13 @@ permalink: /cwilson
                 Publisher: House of Nehesi Publishers<br/>
                 Pub_location: Philipsburg, St. Maarten<br/>
                 Genre: Fiction <br/>
-                Length: 65<br/>
-                </p>
+                Length: 65<br/></p>
             </div>
         </div>
         <div class="block">
             <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Whispering Of The Trees</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51VDzFaMJoL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
