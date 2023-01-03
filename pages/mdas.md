@@ -23,35 +23,30 @@ permalink: /mdas
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1988</p></div>
+            <div class="date left"><p class="left">1977</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Bones</h1><hr>
-                <p><img src=""></p>
+                <h1>A Collection of Poems</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=PyNCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73jPjy3grpomJXzts0uEwMXKqY3f4FMH5u3PEp7Eei1ktMFFQB84iYIceLRQprNb-h6oSdmnZpIuoqOGtsxn_nMPfGR6OmUiqg5S2R1qqVj608tg20_ViobaovzU23ppLx7UaBN"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Peepal Tree Press Ltd.<br/>
-                Pub_location: Leeds, England<br/>
+                Publisher: Guyana National Service Pub. Centre<br/>
+                Pub_location: Georgetown, Guyana<br/>
                 Genre: Poetry Collection<br/>
-                Length: 64</p>
+                Length: 28</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2010</p></div>
+            <div class="date right"><p class="right">1977</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>A Leaf in His Ear: Selected Poems</h1><hr>
-                <p><img src=""></p>
+                <h1>I Want To Be A Poetess Of My People</h1><hr>
+                <p><img src="https://www.morayhousetrust.com/wp-content/uploads/2021/07/Mahadai-Part-One-Cover.png"></p>
                 <p>Language: English<br/>
-                Publisher: Peepal Tree Press Ltd.<br/>
-                Pub_location: Leeds, England<br/>
+                Publisher: Guyana National Service Pub. Centre<br/>
+                Pub_location: Georgetown, Guyana<br/>
                 Genre: Poetry Collection<br/>
-                Length: 128</p>
+                Length: 28</p>
             </div>
         </div>
         <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
