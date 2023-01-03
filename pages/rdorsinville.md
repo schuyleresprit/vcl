@@ -23,208 +23,36 @@ permalink: /rdorsinville
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1955</p></div>
+            <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Pour Célébrer la terre</h1><hr>
-                <p><img src=""></p>
+                <h1>Etincelles: Gerbe de Sang</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=yeNWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72RzWqbFpyiJOCgSGFFBFsJg6APSZqGi-x0mRF2b75QknQBNmls6NMzW_vtt8L3uhNUuEQteYmbnnc-SbXBJt4zLCYDqqqYcNYRXDVhZkkp6uaIYvVvUG1QjxG1_iAeCbRvdFwm"></p>
                 <p>
                 Language: French<br>
-                Publisher: Houghton Presses Libres<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Poetry<br>
-                Length: 120<br>
+                Publisher: Kraus International Publications<br>
+                Publisher Location: Nendeln, Liechtenstein<br>
+                Genre: Poetry Collection<br>
+                Length: 364<br>
                 </p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1962</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>Le Grand Devoir</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/30088785824.jpg"></p>
+                <h1>The Rule of Francois ("Papa Doc") Duvalier in Two Novels By Roger Dorsinville: Realism and Magic Realism in Haiti</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=HqFcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70YYGGDhqYW2k8g3BiugZb6xbjhJ6BSP3PEmA9le2XWTPgjjCgpjDru9d-BL05xBmuFo_d321qEyZhN0LGXBqHrOb1W_wJTAgnG1T1eqJdZhZ_u2trNcwgnqnAEwrjoBPc_d4ms"></p>
                 <p>
-                Language: French<br>
-                Publisher: Taller Gráfico CIES<br>
-                Publisher Location: Madrid, Spain<br>
-                Genre: Poetry<br>
-                Length: 16<br>
+                Language: English<br>
+                Publisher: Edwin Mellen Press<br>
+                Publisher Location: Lewiston, United States<br>
+                Genre: Fiction (Novel)<br>
+                Length: 311<br>
                 </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1973</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Kimby, ou, La loi de Niang</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br>
-                Publisher: Éditions Deschamps<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Fiction<br>
-                Length: 189<br></p>
-            </div>
-        </div><div class="block">
-            <div class="date right"><p class="right hide">1975</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>L'Afrique des rois</h1><hr>
-                <p><img src="https://www.soumbala.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/A/1/A18129_3.jpg"></p>
-                <p>Language: French<br>
-                Publisher: Éditions Deschamps<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Fiction<br>
-                Length: 119<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1975</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Un Homme en trois morceaux</h1><hr>
-                <p><img src="https://fr.shopping.rakuten.com/photo/874393222_L.jpg"></p>
-                <p>Language: French<br>
-                Publisher: Éditions Deschamps<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Fiction<br>
-                Length: 119<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1980</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Mourir pour Haïti, ou, Les croisés d'Esther</h1><hr>
-                <p><img src="https://leconservateurhaitien.com/lch.com/wp-content/uploads/2021/03/mourir-pour-haiti.jpg"></p>
-                <p>Language: French<br>
-                Publisher: l'Harmattan<br>
-                Publisher Location: Paris, France<br>
-                Genre: Fiction<br>
-                Length: 144<br></p>
-            </div>
-        </div>
-		<div class="block">
-            <div class="date left"><p class="left hide">1980</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Renaître à Dendé</h1><hr>
-                <p><img src="https://www.editions-harmattan.fr/catalogue/couv/2858021422r.jpg"></p>
-                <p>Language: French<br>
-                Publisher: l'Harmattan<br>
-                Publisher Location: Paris, France<br>
-                Genre: Fiction<br>
-                Length: 141</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1983</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>De Fatras Bâton à Toussaint Louverture</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br>
-                Publisher: Enal<br>
-                Publisher Location: Algiers, Nigeria<br>
-                Genre: Fiction<br>
-                Length: 103<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1986</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Marche arrière</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br>
-                Publisher: Haitian Book Centre<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Autobiography/Memoir<br>
-                Length: 243</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1987</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Accords perdus</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br>
-                Publisher: CIDIHCA<br>
-                Publisher Location: Montréal, Canada<br>
-                Genre: Fiction<br>
-                Length: 190<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1988</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Ils ont tué le vieux blanc</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/30140379893.jpg"></p>
-                <p>Language: French<br>
-                Publisher: Éditions Deschamps<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Fiction<br>
-                Length: 203</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1989</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Les Vèvès du Créateur</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/30140384128.jpg"></p>
-                <p>Language: French<br>
-                Publisher: Éditions Deschamps<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Fiction<br>
-                Length: 172<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1990</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Rites de passage (complete works, 11 volumes)</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br>
-                Publisher: Éditions Deschamps<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Fiction<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1991</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Une Haïtienne à New York</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/22838886596.jpg"></p>
-                <p>Language: French<br>
-                Publisher: Éditions des Antilles<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Fiction<br>
-                Length: 298<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1991</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Marche arrière II </h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br>
-                Publisher: Éditions des Antilles<br>
-                Publisher Location: Port-au-Prince, Haiti<br>
-                Genre: Fiction<br>
-                Length: 248</p>
-            </div>
-        </div>
-
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
+       <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
