@@ -23,22 +23,17 @@ permalink: /ndawes
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date left"><p class="left">1960</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Fugue and Other Writings: Selected Poetry, Short Stories, Autobiographical Prose, and Critical Writing</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51F020MRCnL._SX322_BO1,204,203,200_.jpg"></p>
+                <h1>The Last Enchantment</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51QP10597OL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br>
-                Publisher: Peepal Tree Press<br>
-                Publisher Location: Leeds, England<br>
-                Genre: Anthology<br>
-                Length: 372<br>
+                Publisher: MacGibbon & Kee<br>
+                Publisher Location: London, England<br>
+                Genre: Fiction (Novel)<br>
+                Length: 332<br>
                 </p>
             </div>
         </div>
-
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
