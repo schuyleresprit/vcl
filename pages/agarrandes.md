@@ -471,118 +471,199 @@ permalink: /agarrandés
                 Length: <br/>                   </p>
             </div>
         </div>
+ <div class="block">
+            <div class="date left"><p class="left">2011</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>La Lengua Impregnada: Fluencias Libres Sobre Erotismo Y Sexualidad En La Narrativa Cubana Contemporánea</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51mEWp+N5jL._SX373_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Instituto Cubano del Libro<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Essay<br/>
+                Length: 271<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Sexo De Cine Visitaciones Y Goces De Un Peregrino</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51EO-NTFXwL._SX373_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Ediciones ICAIC<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 260<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Cuentos De Amor Y Desamor</h1><hr>
+                <p><img src="https://www.isliada.org/static/images/2019/09/cuentos-jose-lezama-lima.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Gente Nueva<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 94<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Body Art</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English<br/>
+                Publisher: Editorial Letras Cubanas.<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
 <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>El Ojo Absorto: Notas Sobre El Cuerpo En El Cine</h1><hr>
+                <p><img src=""></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
+                Language: Spanish<br/>
+                Publisher: Ediciones ICAIC<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Essay<br/>
                 Length: <br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Las Nubes En El Agua</h1><hr>
+                <p><img src="https://www.ecured.cu/images/a/a9/Las_nubes_en_el_agua.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
+                Language: Spanish<br/>
+                Publisher: Bokeh<br/>
+                Pub_location: Leiden, Netherlands<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: <br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Capricho Habanero Corte Del Director</h1><hr>
+                <p><img src="https://letralia.com/wp-content/uploads/2019/02/capricho.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Spanish<br/>
+                Publisher: Editorial Ácana<br/>
+                Pub_location: Camaguey, Cuba<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 250<br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Fábulas : Impúdicas</h1><hr>
+                <p><img src=""></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
+                Language: Spanish<br/>
+                Publisher: Ediciones Loynaz<br/>
+                Pub_location: Pinar del Río, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
                 Length: <br/>                   </p>
             </div>
         </div>
       <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>La Reina Sobrecogida</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41Fe41Lb3pL.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Spanish<br/>
+                Publisher: Ediciones Holguín<br/>
+                Pub_location: Guayaquil, Ecuador<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 69<br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>El Espejo Roto : Morfologías Del Cuerpo Gay-Lesbiano/Queer En El Cine</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51q3D9mN+HL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Spanish<br/>
+                Publisher: Ediciones ICAIC<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Essay<br/>
+                Length: 238<br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Diálogos Con Los Muertos Y Otros Ensayos</h1><hr>
+                <p><img src="https://www.claustrofobias.com/wp-content/uploads/LIBRO-Dialogos-con-los-muertos.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Spanish<br/>
+                Publisher: Ediciones ICAIC<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Essay<br/>
+                Length: 191<br/>                   </p>
+            </div>
+        </div>
+    <div class="block">
+            <div class="date left"><p class="left">2016</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Demonios</h1><hr>
+                <p><img src="http://www.cubaliteraria.cu/wp-content/uploads/2021/08/demonios-alberto_garrandes.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Editorial Letras Cubanas<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 277<br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <h1>Mar De Invierno Y Otros Delirios</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41uLJVCWQXL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Spanish<br/>
+                Publisher: Ediciones La Luz<br/>
+                Pub_location: Holguín, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 251<br/>                   </p>
             </div>
         </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+       <div class="block">
+            <div class="date left"><p class="left">2018</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Señores De La Oscuridad : El Gótico En El Cine</h1><hr>
+                <p><img src="https://www.claustrofobias.com/wp-content/uploads/LIBRO-Senores-de-la-oscuridad.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Ediciones ICAIC<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Essay<br/>
+                Length: 224<br/>                   </p>
+            </div>
+        </div>
