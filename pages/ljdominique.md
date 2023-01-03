@@ -12,7 +12,7 @@ permalink: /ljdominique
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right"> B. 1972 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -23,22 +23,20 @@ permalink: /ljdominique
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Imoinda's Shade: Marriage and the African Woman in Eighteenth-Century British Literature, 1759-1800</h1><hr>
-                <p><img src=""></p>
+                <h1>The Woman of Colour: A Tale</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51Gz-e1LoXS._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Ohio State University Press<br/>
-                Pub_location:  Columbus, OH, United States<br/>
+                Publisher: Broadview Press<br/>
+                Pub_location:  Peterborough, Canada<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 320</p>
+                Length: 268</p>
             </div>
         </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
