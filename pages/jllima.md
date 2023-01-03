@@ -413,6 +413,20 @@ permalink: /jllima
                 Length: 203<br/>                   </p>
             </div>
         </div>
+        <div class="block">
+            <div class="date left"><p class="left">1988</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Muerte de Narciso. Antología Poética</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51I1M+ca5bL._SX352_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Ediciones Era<br/>
+                Pub_location: Mexico City, Mexico<br/>
+                Genre: Anthology<br/>
+                Length: 152<br/>                   </p>
+            </div>
+        </div>
        <div class="block">
             <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
