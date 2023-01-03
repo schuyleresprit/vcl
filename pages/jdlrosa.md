@@ -12,7 +12,7 @@ permalink: /jdlrosa
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -23,35 +23,17 @@ permalink: /jdlrosa
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>A Coconut's Life For Me</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51AYexUUnKL._SX198_BO1,204,203,200_QL40_ML2_.jpg"></p>
+                <h1>Captain Coconut</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51Kq3le9E-L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: GalaxieOneLimited<br/>
-                Pub_location: NA<br/>
-                Genre: Short Story<br/>
+                Publisher: Independently Published<br/>
+                Pub_location: Diego Martin, Trinidad & Tobago<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: 24</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">2012</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Coconut Dreams</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NOvzClLTL._AC_UL600_SR600,600_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: GalaxieOneLimited<br/>
-                Pub_location: NA<br/>
-                Genre: Short Story<br/>
-                Length: 24</p>
-            </div>
-        </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+       <div id="footer">
