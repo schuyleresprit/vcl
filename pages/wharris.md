@@ -27,7 +27,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="right">
                 <h1>Fetish</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English<br>
 				Publisher: Faber and Faber				
@@ -40,7 +40,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="left">
                 <h1>The Well and the Land</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: Faber and Faber<br>
 				Publisher Location: London, England<br>
@@ -106,7 +106,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="right">
                 <h1>Kanaima</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: Faber and Faber<br>
 				Publisher Location: London, England<br>
@@ -158,7 +158,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="left">
                 <h1>History, Fable and Myth in the Caribbean and Guianas</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: Greenwood Press<br>
 				Publisher Location: Westport, CT, United States<br>
@@ -184,7 +184,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="left">
                 <h1>The Age Of The Rainmakers</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: Faber and Faber<br>
 				Publisher Location: London, England<br>
@@ -223,7 +223,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="right">
                 <h1>Tradition: The Writer and Society : Critical Essays</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: New Beacon<br>
 				Publisher Location: London, England<br>
@@ -249,7 +249,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="right">
                 <h1>Fossil And Psyche</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: African and Afro-American Studies and Research Center, University of Texas at Austin<br>
 				Publisher Location: Austin, TX, United States<br>
@@ -275,7 +275,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="right">
                 <h1>Enigma Of Values: An Introduction</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: Danish<br>
 				Publisher: Dangaroo Press<br>
 				Publisher Location: Aarhus, Denmark<br>
@@ -315,7 +315,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="left">
                 <h1>The Tree Of The Sun</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: Faber and Faber<br>
 				Publisher Location: London, England<br>
@@ -341,7 +341,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="left">
                 <h1>Le Palais Du Paon</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: French<br>
 				Publisher: Editions des Autres<br>
 				Publisher Location: Paris, France<br>
@@ -446,7 +446,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="left">
                 <h1>The Radical Imagination: Lectures and Talks</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: Liège Language and Literature<br>
 				Publisher Location: Liège, Belgium<br>
@@ -472,7 +472,7 @@ permalink: /wharris
             <div class="dot"></div>
             <div class="left">
                 <h1>Resurrection at Sorrow Hill</h1><hr>
-                <p><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wilson-harris.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>
 				Publisher: Faber and Faber<br>
 				Publisher Location: London, England<br>
@@ -545,7 +545,3 @@ permalink: /wharris
 				Length: 100</p>
             </div>
         </div>
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
