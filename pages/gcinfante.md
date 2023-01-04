@@ -37,19 +37,6 @@ permalink: /gcinfante
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1980</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Arcadia Todas las Noches</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41gHLzthvEL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Seix Barral<br/>
-                Pub_location: Seix Barral, Spain<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 269</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -114,20 +101,7 @@ permalink: /gcinfante
                 Length: 451</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Havana para un Infante Difunto</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51l2L5r61aL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Seix Barral<br/>
-                Pub_location: Barcelona, Spain<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 715</p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -206,19 +180,6 @@ permalink: /gcinfante
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1985</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Infante's Inferno</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/31qPIWp0KNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Avon<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 410</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">1985</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -229,19 +190,6 @@ permalink: /gcinfante
                 Pub_location: Barcelona, Spain<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 329</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1985</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Three Trapped Tigers</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51XbaLS-TaL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Avon<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 470</p>
             </div>
         </div>
         <div class="block">
@@ -271,19 +219,6 @@ permalink: /gcinfante
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1986</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Holy Smoke</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/614WHGF80FL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Faber and Faber<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 197</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -296,72 +231,7 @@ permalink: /gcinfante
                 Length: 329</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">1986</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Exorcismos de Esti(l)o</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/511xSfppZiL._SX327_BO1,204,203,200_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: La Oveja Negra<br/>
-                Pub_location: Bogota, Colombia<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 304</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1987</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Arcadia Todas las Noches</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41gHLzthvEL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Editorial Retina<br/>
-                Pub_location: Bogota, Colombia<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 135</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1987</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51Utw6KivdS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: La Oveja Negra<br/>
-                Pub_location: Bogota, Colombia<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 146</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1987</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Exorcismos de Esti(l)o</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/511xSfppZiL._SX327_BO1,204,203,200_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: La Oveja Negra<br/>
-                Pub_location: Bogota, Colombia<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 253</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1987</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Un Oficio Del Siglo 20: G. Cain 1954-1960</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51KhB3VeAeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: La Oveja Negra<br/>
-                Pub_location: Bogota, Colombia<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 333</p>
-            </div>
-        </div>
-        <div class="block">
+      <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -387,85 +257,7 @@ permalink: /gcinfante
                 Length: 451</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1987</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Rauchzeichen</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/316TOsA4AlS._SX303_BO1,204,203,200_.jpg"></p>
-                <p>Language: German<br/>
-                Publisher: Insel Verlag<br/>
-                Pub_location: Frankfurt, Germany<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 413</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1988</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>View of Dawn in the Tropics</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/31zdEuBG2jL._BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Harper & Brothers<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 163</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1988</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41CwZAJcoTL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Diana Literaria<br/>
-                Pub_location: Mexico City, Mexico<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 182</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1988</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Vista do Amanhecer no Trópico</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41JdCBnX8NL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: Portugese<br/>
-                Publisher: Companhia das Letras<br/>
-                Pub_location: São Paulo, Brazil<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 171</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51Utw6KivdS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Diana Literaria<br/>
-                Pub_location: Mexico City, Mexico<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 182</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1989</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Havana para un Infante Difunto</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51WSia-xMML.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Plaza & Janés<br/>
-                Pub_location: Barcelona, Spain<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 507</p>
-            </div>
-        </div>
-        <div class="block">
+    <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -474,19 +266,6 @@ permalink: /gcinfante
                 <p>Language: Spanish<br/>
                 Publisher: Tanagra<br/>
                 Pub_location: Bogota, Spain<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 197</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Así en la Paz Como en la Guerra</h1><hr>
-                <p><img src="https://imag.lecturalia.com/img/libro/asi-en-la-paz-como-en-la-guerra-5063.jpg"></p>
-                <p>Language: Spanish<br/>
-                Publisher: La Oveja Negra<br/>
-                Pub_location: Bogota, Colombia<br/>
                 Genre: Fiction (Short Story Collection)<br/>
                 Length: 197</p>
             </div>
@@ -520,6 +299,3 @@ permalink: /gcinfante
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
