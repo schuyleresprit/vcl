@@ -23,35 +23,19 @@ permalink: /jrfeo
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Secretaries of the Moon: The Letters of Wallace Stevens and José Rodriguez Feo</h1><hr>
-                <p><img src="https://www.dukeupress.edu/Assets/Books/978-0-8223-0670-2_pr.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Duke University Press Books<br/>
-                Pub_location: Durham, NC, United States<br/>
-                Genre: Non-Fiction<br/>
-                Length: 212</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Mi Correspondencia con Lezama Lima</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51hoN4+tbqL.jpg"></p>
                 <p>Language: Spanish<br/>
-                Publisher: Era Editions<br/>
-                Pub_location: Mexico City, Mexico<br/>
-                Genre: Non-Fiction<br/>
-                Length: 184</p>
+                Publisher: Unión de Escritores y Artistas de Cuba<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: NonFiction Book<br/>
+                Length: 143</p>
             </div>
         </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
