@@ -36,13 +36,12 @@ permalink: /ejones
                 Length: 48 <br/>                   </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>Tales Of The Caribbean: The Beginning Of Things</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Evan_Jones.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394344372i/21061162.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Ginn and Company	 <br/>
@@ -56,7 +55,7 @@ permalink: /ejones
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Tales Of The Caribbean: Anansi Stories</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Evan_Jones.jpg"></p>
+                <p><img src="https://www.textbooknbeyond.com/images/Book_Supplemental_3/1556240147.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Wright Group <br/>
@@ -65,13 +64,12 @@ permalink: /ejones
                 Length: 48 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1994</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Skylarking</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Evan_Jones.jpg"></p>
+                <p><img src="https://wplrc.ecc.edu.jm/cgi-bin/koha/opac-image.pl?imagenumber=365"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Longman Inc. <br/>
@@ -80,7 +78,6 @@ permalink: /ejones
                 Length: 192 <br/>                                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1998</p></div>
             <div class="dot"></div>
@@ -95,7 +92,6 @@ permalink: /ejones
                 Length: 248 <br/>                     </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2005</p></div>
             <div class="dot"></div>
