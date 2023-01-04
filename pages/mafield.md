@@ -27,17 +27,12 @@ permalink: /mafield
             <div class="dot"></div>
             <div class="right">
                 <h1>Combustion of Pulverised Coal</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: The British Coal Utilisation Research Association<br>
                 Publisher Location: Leatherhead, England<br>
                 Genre: Nonfiction<br>
-                </p>
+                Length: 413</p>
             </div>
         </div>
-
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
