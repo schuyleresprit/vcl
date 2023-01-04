@@ -27,7 +27,7 @@ permalink: /mfarquharson
             <div class="dot"></div>
             <div class="right">
                 <h1>Fragments</h1><hr>
-                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Planters' Punch<br>
@@ -42,7 +42,7 @@ permalink: /mfarquharson
             <div class="dot"></div>
             <div class="right">
                 <h1>The Valley</h1><hr>
-                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Planters' Punch<br>
@@ -57,7 +57,7 @@ permalink: /mfarquharson
             <div class="dot"></div>
             <div class="right">
                 <h1>Alley Churchyard</h1><hr>
-                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Planters' Punch<br>
@@ -72,7 +72,7 @@ permalink: /mfarquharson
             <div class="dot"></div>
             <div class="right">
                 <h1>Song of a Bird</h1><hr>
-                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Planters' Punch<br>
