@@ -7,7 +7,7 @@ permalink: /jkincaid
 <div class="content">
     <h1>Jamaica Kincaid</h1>
     <div class="quote">
-        <div><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" class="logo"></div>
+        <div><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /jkincaid
             <div class="dot"></div>
             <div class="right">
                 <h1>Annie John</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg"   height="50%" width = "50%"></p>
+                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY2DOCqT12Dfz-Tg0nKrD_htandDGkrGEAidnF8KrpQhiwq1gw"   height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: The New Yorker <br/>
@@ -65,40 +65,11 @@ permalink: /jkincaid
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1984</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Annie John</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%" ></p>
-                <p>
-                Language: English <br/>
-                Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/>           
-                Genre: Fiction (Novel) <br/>
-                Length: 160 <br/>    </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1985</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>At The Bottom Of The River</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/en/9/90/JamacaKincaid_AnnieJohn.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Noonday Press <br/>
-                Pub_location: New York, NY, United States <br/>           
-                Genre: Fiction (Novel) <br/>
-                Length: 160 <br/>
-                </p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right hide">1985</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>På Flodens Botten</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496527394l/35294747.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Swedish <br/>
                 Publisher: Stenströms <br/>
@@ -123,36 +94,7 @@ permalink: /jkincaid
                 Length: 77 <br/>                 </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1985</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>På Flodens Botten</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: Swedish <br/>
-                Publisher: Stenströms <br/>
-                Pub_location: Stockholm, Sweden <br/>           
-                Genre: Fiction (Novel) <br/>
-                Translated: y <br/>
-                Length: 114 <br/>                 </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1986</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Annie John</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=7T4H0mob-NgC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE722r2H2wpiTHNW4tVDoJ6yhtUFpLFaSHHBe850zDlr8Hswu50wB421RoiCU5_CoAAMGwABvBvB0KamvedIoPOPXmtAO6GPfe2IaoJX31zOAbbs4lj7zpdcBasYeWcL9F03lUMlI" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: New American Library <br/>
-                Pub_location: New York, NY, United States <br/>           
-                Genre: Fiction (Novel) <br/>
-                Length: 160 <br/>                 </p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date right"><p class="right hide">1986</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -205,35 +147,6 @@ permalink: /jkincaid
                 <p>
                 Language: English <br/>
                 Publisher: Farrar, Straus and Giroux <br/>
-                Pub_location: New York, NY, United States <br/>           
-                Genre: Biography <br/>
-                Length: 81 <br/>                 </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1988</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Anna Delle Antille</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width="50%"></p>
-                <p>
-                Language: Swedish <br/>
-                Publisher: De Agostini S.p.A. <br/>
-                Pub_location: Stuttgart, Germany <br/>       Pub_location: Novara, Italy <br/>           
-                Genre: Fiction (Novel) <br/>
-                Translated: y <br/>
-                Length: 164 <br/>                 </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1989</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>A Small Place</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md22630850386.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Penguin Books <br/>
                 Pub_location: New York, NY, United States <br/>           
                 Genre: Biography <br/>
                 Length: 81 <br/>                 </p>
@@ -445,7 +358,7 @@ permalink: /jkincaid
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Annie, Gwen, Lilly, Pam And Tulip</h1><hr>
-                <p><img src="https://www.lyceumagency.com/wp-content/uploads/2020/10/Jamaica-Kincaid.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51D-W3phyDL._SY264_BO1,204,203,200_QL40_ML2_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Parkett Verlag AG  <br/>
