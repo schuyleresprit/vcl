@@ -6,7 +6,7 @@ permalink: /lking
 <div class="content">
     <h1>Lloyd King</h1>
     <div class="quote">
-        <div><img src="https://alchetron.com/cdn/lloyd-king-puzzle-designer-545d95c4-2c1e-4137-8379-1f551fbfd5b-resize-750.jpeg" class="logo"></div>
+        <div><img src="https://alchetron.com/cdn/lloyd-king-puzzle-designer-545d95c4-2c1e-4137-8379-1f551fbfd5b-resize-750.jpeg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -26,7 +26,7 @@ permalink: /lking
             <div class="dot"></div>
             <div class="right">
                 <h1>La mujer en la literatura caribeña : Sexta Conferencia de Hispanistas, 6th-8th abril 1983, University of the West Indies, St. Augustine, Trinidad</h1><hr>
-                <p><img src=""></div></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></div></p>
  			<p> Language: Spanish <br/>
                 Publisher: University of the West Indies, Dept. of French & Spanish Literature <br/>
                 Pub_location: St. Augustine, Trinidad & Tobago <br/>
@@ -40,7 +40,7 @@ permalink: /lking
             <div class="dot"></div>
             <div class="left">
                 <h1>Towards A Caribbean Literary Tradition</h1><hr>
-                <p><img src=""> </div></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"> </div></p>
               <p> Language: Spanish <br/>
                 Publisher: University of the West Indies <br/>
                 Pub_location: St. Augustine, Trinidad & Tobago <br/>
@@ -66,7 +66,7 @@ permalink: /lking
             <div class="dot"></div>
             <div class="left">
                 <h1>Reflections at New Credit</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                <p> Language: Spanish <br/>
                 Publisher: University of the West Indies Press <br/>
                 Pub_location: St. Augustine, Trinidad & Tobago <br/>
