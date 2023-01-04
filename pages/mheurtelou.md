@@ -27,7 +27,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right">
                 <h1>Anayiz Ap Aprann Ijyèn</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnlLY4HCb-oKfpF7f1EFFrMqK66900XjxFlwKAxVntv0oA6vA5"></p>
                 <p>
                 Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
@@ -53,7 +53,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Istwa Chat Ak Sourit</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTB9mdGzBU1oQffElTXnPd434t_bEKsPu1fhuLWT_5Q&s"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -66,7 +66,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Anayiz Gen Lapenn</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://educavision.com/assets/uploads/images/9781881839873.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -79,7 +79,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Anayiz Ap Aprann: Istwa Ayiti</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503298.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -92,7 +92,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Anayiz Pral Anvizit</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://educavision.com/assets/uploads/images/9781881839781.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -105,7 +105,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Twa Zanmi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://educavision.com/assets/uploads/images/CD014.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -171,7 +171,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Sezisman!: Pou Lafanmi Bonplezi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41mfuadq0ML._SX311_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -184,7 +184,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Reversals</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/311Z5DmofIL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Translation: y<br/>
                 Translator: John Nickroz<br/>
@@ -236,24 +236,11 @@ permalink: /mheurtelou
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Sezisman: Pou Lafami Bonplezi</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Haitian Creole<br/>
-                Publisher: Educa Vision<br/>
-                Pub_location: Coconut Creek, FL, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 238</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ensèk</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503189.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -266,7 +253,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Koulè</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503180.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -279,7 +266,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Fòm / Shapes</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/502832.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -292,7 +279,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Chat ak sourit : istwà</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51-QxaTjATL._AC_SY780_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -320,7 +307,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Istwa Tipoul</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://educavision.com/assets/uploads/images/9781626328464.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -333,7 +320,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Fos Lawouze</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51RrUtARUFL._SX314_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -368,19 +355,6 @@ permalink: /mheurtelou
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Anayiz Gen Lapenn</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Haitian Creole<br/>
-                Publisher: Educa Vision<br/>
-                Pub_location: Coconut Creek, FL, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 16</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -398,7 +372,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Mwen Pito Mango</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://kepkaa.com/wp-content/uploads/2017/01/145..jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -411,7 +385,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Pwezi Timoun</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472722240l/31816579._SY475_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -424,7 +398,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Mwen Pito Fwi</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503209.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -452,7 +426,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Sandra: Cinderella In Haiti</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://educavision.com/assets/uploads/images/9781584321767.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -465,7 +439,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Pitit Lyon</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349058987l/14955322.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -491,7 +465,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Diksyonè Kreyòl Vilsen</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41ASwjP-0zL._AC_SY350_QL15_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -505,7 +479,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Pozisyon = Position</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://educavision.com/assets/uploads/images/9781643821153.main.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -513,37 +487,12 @@ permalink: /mheurtelou
                 Length: 12</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">2010</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Istwa Chat Ak Sourit</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Educa Vision<br/>
-                Pub_location: Coconut Creek, FL, United States<br/>
-                Genre: Fiction<br/>
-                Length: 20</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Istwa Chat Ak Sourit</h1><hr>
-                <p><img src=""></p>
-                <p>Language: Haitian Creole<br/>
-                Publisher: Educa Vision<br/>
-                Pub_location: Coconut Creek, FL, United States<br/>
-                Genre: Fiction</p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Wi Ou Kapab: Istwa Ti Zwazo Jenn Nan</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/81FmtDFzdKL.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -555,7 +504,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Eske Nou Ka Antann Nou?</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51o5aEvlNRL._AC_SY780_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -569,7 +518,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ann Antann Nou</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51+FtCQQaIL._AC_SY350_QL15_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -583,7 +532,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Konte Sou Mwen</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51R9mtteUlL._AC_SY780_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -597,7 +546,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Alix Se Fawouchè</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51zHBRBGvVL._AC_SY780_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -611,7 +560,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Tankou Lakansyèl</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51ImLPIsjXL._AC_SY780_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -625,7 +574,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Vakans An Ayiti</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51ZA5m88ZJL._AC_SY780_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -639,7 +588,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Fanmi Mwen: Tankou Lakansyèl</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41jMa-TAlbL._SX336_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -653,7 +602,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Yon Vye Moso Chabon</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51l5GbBRqDL._SX330_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -667,7 +616,7 @@ permalink: /mheurtelou
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Mwen Reve / I Dream Too</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/418yYtMVLQL._AC_SY350_QL15_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
