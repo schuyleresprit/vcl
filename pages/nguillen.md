@@ -33,12 +33,9 @@ permalink: /nguillen
                 Publisher: Editorial Letras Cubanas<br/>
                 Publisher Location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 171
-
-                 </p>
+                Length: 171         </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1930</p></div>
             <div class="dot"></div>
@@ -50,9 +47,7 @@ permalink: /nguillen
                 Publisher: Imprenta y Papeleria de Rambla, Bouze y Ca.<br/>
                 Publisher Location: Havana, Cuba<br/>
                 Genre: Poem<br/>
-                Length: 12
-
-                 </p>
+                Length: 12</p>
             </div>
         </div>
         <div class="block">
@@ -66,12 +61,9 @@ permalink: /nguillen
                 Publisher: Talleres de Ucar, Garcia y Cia.<br/>
                 Publisher Location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 56
-
-                 </p>
+                Length: 56 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right hide"><p class="right hide">1937</p></div>
             <div class="dot hide"></div>
@@ -83,12 +75,9 @@ permalink: /nguillen
                 Publisher: Ediciones Españolas<br/>
                 Publisher Location: Valencia, Spain<br/>
                 Genre: Poem<br/>
-                Length: 39
-
-                 </p>
+                Length: 39 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left hide"><p class="left hide">1937</p></div>
             <div class="dot"></div>
@@ -100,12 +89,9 @@ permalink: /nguillen
                 Publisher: Editorial Masas<br/>
                 Publisher Location: Mexico City, Mexico<br/>
                 Genre: Poetry Collection<br/>
-                Length: 197
-
-                 </p>
+                Length: 197 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right hide"><p class="right hide">1948</p></div>
             <div class="dot"></div>
@@ -117,12 +103,9 @@ permalink: /nguillen
                 Publisher: Ayon Impresor<br/>
                 Publisher Location: Havana Cuba<br/>
                 Genre: Poem<br/>
-                Length: 10
-
-                 </p>
+                Length: 10 </p>
             </div>
         </div>
-
          <div class="block">
             <div class="date left hide"><p class="left hide">1952</p></div>
             <div class="dot"></div>
@@ -134,12 +117,9 @@ permalink: /nguillen
                 Publisher: Losada<br/>
                 Publisher Location: Buenos Aires, Argentina<br/>
                 Genre: Poetry Collection<br/>
-                Length: 240
-
-                 </p>
+                Length: 240</p>
             </div>
         </div>
-
          <div class="block">
             <div class="date right hide"><p class="right hide">1960</p></div>
             <div class="dot"></div>
@@ -151,13 +131,10 @@ permalink: /nguillen
                 Publisher: Southern Music Publishing Company<br/>
                 Publisher Location: San Antonio, TX, United States<br/>
                 Genre: Poem<br/>
-                Length: 7
-
-                 </p>
+                Length: 7</p>
            </div>
         </div>
-
-                <div class="block">
+         <div class="block">
             <div class="date left hide"><p class="left hide">1964</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -168,13 +145,10 @@ permalink: /nguillen
                 Publisher: Ediciones La Tertulia<br/>
                 Publisher: Location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 59
-
-                 </p>
+                Length: 59</p>
            </div>
         </div>
-
-                <div class="block">
+        <div class="block">
             <div class="date right hide" ><p class="right hide">1964</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -186,13 +160,10 @@ permalink: /nguillen
                 Publisher Location: Santa Clara, Cuba<br/>
                 Genre: Poetry Collection<br/>
                 Length: 192
-                Translator: José Antonio Portuondo
-
-                 </p>
+                Translator: José Antonio Portuondo</p>
            </div>
         </div>
-
-                <div class="block">
+        <div class="block">
             <div class="date left hide"><p class="left hide">1971</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -203,12 +174,9 @@ permalink: /nguillen
                 Publisher: Ediciones Unión<br/>
                 Publisher Location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length:82
-
-                 </p>
+                Length:82</p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date right hide"><p class="right hide">1972</p></div>
             <div class="dot"></div>
@@ -220,12 +188,9 @@ permalink: /nguillen
                 Publisher: Instituto Cubano del Libro<br/>
                 Publisher Location: Havana Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 1134
-
-                 </p>
+                Length: 1134</p>
            </div>
         </div>
-
         <div class="block">
             <div class="date left hide"><p class="left hide">1972</p></div>
             <div class="dot"></div>
@@ -237,13 +202,10 @@ permalink: /nguillen
                 Publisher: Unión de Escritores y Artistas de Cuba<br/>
                 Publisher Location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 87
-
-                 </p>
+                Length: 87 </p>
            </div>
         </div>
-
-                <div class="block">
+       <div class="block">
             <div class="date right hide"><p class="right hide">1972</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -254,12 +216,9 @@ permalink: /nguillen
                 Publisher: Unión de Escritores y Artistas de Cuba<br/>
                 Publisher Location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 87
-
-                 </p>
+                Length: 87</p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left hide"><p class="left hide">1977</p></div>
             <div class="dot"></div>
@@ -271,12 +230,9 @@ permalink: /nguillen
                 Publisher: Unión de Escritores y Artistas de Cuba<br/>
                 Publisher Location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 85
-
-                 </p>
+                Length: 85</p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date right hide"><p class="right hide">1982</p></div>
             <div class="dot"></div>
@@ -288,13 +244,10 @@ permalink: /nguillen
                 Publisher: Ediciones Unión<br/>
                 Publisher Location: Havana, Cuba<br/>
                 Genre: Poetry Collection<br/>
-                Length: 318
-
-                 </p>
+                Length: 318     </p>
            </div>
-        </div>
-
-                <div class="block">
+        </div>               
+        <div class="block">
             <div class="date left hide"><p class="left hide">2005</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -305,12 +258,9 @@ permalink: /nguillen
                 Publisher: Peepal Tree Press<br/>
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Poetry Collection<br/>
-                Length: 208
-
-                 </p>
+                Length: 208</p>
             </div>
         </div>
-
                 <div class="block">
             <div class="date right hide"><p class="right hide">2007</p></div>
             <div class="dot"></div>
@@ -323,12 +273,6 @@ permalink: /nguillen
                 Publisher Location: Fort-de-France, Martinique<br/>
                 Genre: Anthology<br/>
                 Length: 82
-                Translators: Langston Hughes, Jacques Romain
-
-                 </p>
+                Translators: Langston Hughes, Jacques Romain </p>
            </div>
         </div>
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
