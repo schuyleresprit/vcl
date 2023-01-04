@@ -23,15 +23,15 @@ permalink: /ikhan
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">1961</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1></h1><hr>
+                <h1>The Jumbie Bird</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/5169101312.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Ivan Obolensky Inc.<br/>
-                Pub_location: New York, United States<br/>
+                Publisher: Longman Inc.<br/>
+                Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 224</p>
             </div>
@@ -49,20 +49,7 @@ permalink: /ikhan
                 Length: 191</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1985</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The Jumbie Bird</h1><hr>
-                <p><img src="https://pictures.abebooks.com/isbn/9780582786196-us-300.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Longman Inc.<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 190</p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -107,5 +94,3 @@ permalink: /ikhan
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
