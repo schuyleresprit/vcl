@@ -22,30 +22,16 @@ permalink: /ikelly
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2009</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Point of order : poetry and prose</h1><hr>
-                <p><img src="https://www.ivorykelly.com/wp-content/uploads/2019/07/Point-of-Order_Book-Cover.jpg"></p>
+                <h1>Brackish Water: Stories</h1><hr>
+                <p><img src="https://thescholarship.ecu.edu/bitstream/handle/10342/3537/Kelly_ecu_0600M_10367.pdf.jpg?sequence=5&isAllowed=y"></p>
                 <p>
                 Language: English <br/>
-                Publisher: Ramos Publishing <br/>
-                Pub_location: Belize City, Belize <br/>
-                Genre: Anthology  <br/>
-                Length: 117 <br/>                   </p>
-            </div>
-        </div>
-         <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>Pengereng</h1><hr>
-                <p><img src="https://www.ivorykelly.com/wp-content/uploads/2019/07/Pengereng-book-cover.jpg"></p>
-               <p>
-                Language: English <br/>
-                Publisher: The Image Factory Art Foundation <br/>
-                Pub_location: Belize City, Belize <br/>
-                Genre: Fiction (Short Story Collection)  <br/>
-                Length: 79 <br/>                   </p>
+                Publisher: East Carolina University<br/>
+                Pub_location: Greenville, NC, United States<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 80<br/>                   </p>
             </div>
         </div>
