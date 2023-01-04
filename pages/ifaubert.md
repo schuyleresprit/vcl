@@ -12,7 +12,7 @@ permalink: /ifaubert
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">14 February 1882</p></div>
+            <div class="date right"><p class="right">1882 - 1969</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -22,34 +22,7 @@ permalink: /ifaubert
             </div>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Anthologie secrète : Poèmes et récits</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41B2iF6VweL._SX326_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: French<br/>
-                Publisher: Mémoire d'encrier<br/>
-                Pub_location: Quebec, Canada<br/>
-                Genre: Poetry Collection<br/>
-                Length: 222</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2007</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Coeur des îles</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=pJTzAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73D44EWsxw7vJKHjNayjJfU3GqXnGyx1wFeukwM8OKhtiZMpUkM5t3ol882jgMXlN25ct7NjKFIGdZb3ofN_7-aNnBVz_vAG1SYkCovOi2PRed5OehKpqz-gqgFaprzIzoPDVel"></p>
-                <p>Language: French<br/>
-                Publisher: Presses Nationales d'Haït<br/>
-                Pub_location: Port Au Prince, Haiti<br/>
-                Genre: Poetry Collection<br/>
-                Length: 93</p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -67,5 +40,3 @@ permalink: /ifaubert
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
