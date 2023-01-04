@@ -7,7 +7,7 @@ permalink: /hklonaris
 <div class="content">
     <h1>Helen Klonaris</h1>
     <div class="quote">
-        <div><img src="https://cdn.funcheap.com/wp-content/uploads/2017/07/cropped-img_89193.jpg" class="logo"></div>
+        <div><img src="https://cdn.funcheap.com/wp-content/uploads/2017/07/cropped-img_89193.jpg" height="50%" width = "50%"  class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
