@@ -26,8 +26,8 @@ permalink: /akellman
             <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>In Depths of Burning Light </h1><hr>
-                <p><img src=""></p>
+                <h1>In Depths of Burning Light</h1><hr>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Anthony Kellman <br/>
@@ -42,7 +42,7 @@ permalink: /akellman
             <div class="dot"></div>
             <div class="left">
                 <h1>The Broken Sun</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Anthony Kellman <br/>
@@ -172,7 +172,3 @@ permalink: /akellman
                 </p>
             </div>
         </div>
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
