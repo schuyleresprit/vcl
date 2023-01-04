@@ -12,7 +12,7 @@ permalink: /lemery
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,7 +27,7 @@ permalink: /lemery
             <div class="dot"></div>
             <div class="right">
                 <h1>The Fires of Pembroke</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/517u5n5A7oL._SX319_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: The Bermudian Publishing Company Limited<br/>
@@ -41,17 +41,15 @@ permalink: /lemery
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Nothin' But A Pond Dog</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/317R0GN7M2L._SX331_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: The Bermudian Publishing Company Limited<br/>
                 Pub_location: Pembroke, Bermuda<br/>
                 Genre: Fiction<br/>
-                Length: NA</p>
+                Length: 94</p>
             </div>
         </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
