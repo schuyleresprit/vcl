@@ -33,12 +33,9 @@ permalink: /okempadoo
                 Publisher:Dutton<br/>
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
-                Length: 169
-
-                </p>
+                Length: 169</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
@@ -50,9 +47,7 @@ permalink: /okempadoo
                 Publisher: Tusquets Editores S.A.<br/>
                 Publisher Location: Madrid, Spain<br/>
                 Genre: Fiction<br/>
-                Length: 224
-
-                 </p>
+                Length: 224</p>
             </div>
         </div>
         <div class="block">
@@ -66,12 +61,9 @@ permalink: /okempadoo
                 Publisher: Farrar, Straus and Giroux<br/>
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
-                Length: 215
-
-                 </p>
+                Length: 215 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
@@ -85,6 +77,3 @@ permalink: /okempadoo
                 Genre: Fiction<br/>
                 Length: 206 </p>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-</body>
