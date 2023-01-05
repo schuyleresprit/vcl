@@ -27,7 +27,7 @@ permalink: /jsmartin
             <div class="dot"></div>
             <div class="right">
                 <h1>Wandering Bodies: The Disruption Of Identities In Jamaica Kincaid's Lucy And Edwidge Danticat's The Farming Of Bones</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Wake Forest University<br/>
@@ -40,5 +40,3 @@ permalink: /jsmartin
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
