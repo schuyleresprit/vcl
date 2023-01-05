@@ -7,12 +7,12 @@ permalink: /deleger
 <div class="content">
     <h1>Dimitry Elias Léger</h1>
     <div class="quote">
-        <div><img src="https://i0.wp.com/twodropsofink.com/wp-content/uploads/2020/03/dimitry-.jpeg?resize=380%2C450&ssl=1" class="logo"></div>
+        <div><img src="https://i0.wp.com/twodropsofink.com/wp-content/uploads/2020/03/dimitry-.jpeg?resize=380%2C450&ssl=1" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1971 </p></div>
+            <div class="date right"><p class="right"> B. 1971 </p></div>
             <div class="dot"></div>
             <div class="left first">
               <div class="author_country">
@@ -27,7 +27,7 @@ permalink: /deleger
             <div class="dot"></div>
             <div class="right">
                 <h1>God Loves Haiti: A Novel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/416BGw25UvL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/416BGw25UvL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Amistad<br/>
@@ -36,9 +36,21 @@ permalink: /deleger
                 Length: 272</p>
             </div>
         </div>
+        <div class="block">
+            <div class="date left"><p class="left">2021</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>God Loves Haiti: Roman</h1><hr>
+                <p><img src="https://la1ere.francetvinfo.fr/image/v9bzKOrIqth-zN6pcX-LMWyLmOA/930x620/filters:format(webp)/outremer/2021/11/04/6183d2c73bfc1_blank-660-x-440-34-1820937.jpg" height="60%" width = "60%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Caraïbéditions<br/>
+                Pub_location: Le Lamentin, Martinique<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 262<br/>                   </p>
+            </div>
+        </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
