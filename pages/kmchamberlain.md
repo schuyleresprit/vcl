@@ -4,7 +4,7 @@ title: "Karen Mah-Chamberlain"
 permalink: /kmchamberlain
 ---
 <div class="content">
-    <h1>Julie K Lundgren</h1>
+    <h1>Karen Mah-Chamberlain</h1>
     <div class="quote">
         <div><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" class="logo"></div>
     </div>
@@ -26,7 +26,7 @@ permalink: /kmchamberlain
             <div class="dot"></div>
             <div class="right">
                 <h1>It Divide Up in Little Worlds: Dialogue and Discourse Analysis of Selected Novels by Samuel Selvon</h1><hr>
-                <p><img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/45304/KarenMah-Chamberlain_AB.pdf.jpg?sequence=3&isAllowed=y"></p>
+                <p><img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/45304/KarenMah-Chamberlain_AB.pdf.jpg?sequence=3&isAllowed=y" height="50%" width = "50%"></p>
  		<p> Language: English <br/>
                 Publisher: The University of the West Indies <br/>
                 Pub_location:St. Augustine, United States <br/>
