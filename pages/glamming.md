@@ -36,7 +36,6 @@ permalink: /glamming
                 Length: 312 <br/>                   </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1954</p></div>
             <div class="dot"></div>
@@ -65,7 +64,6 @@ permalink: /glamming
                 Length: 260 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1972</p></div>
             <div class="dot"></div>
@@ -80,7 +78,6 @@ permalink: /glamming
                 Length: 345 <br/>                                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1972</p></div>
             <div class="dot"></div>
@@ -95,7 +92,6 @@ permalink: /glamming
                 Length: 248 <br/>                     </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1974</p></div>
             <div class="dot"></div>
@@ -110,7 +106,6 @@ permalink: /glamming
                 Length: 286 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
@@ -153,7 +148,7 @@ permalink: /glamming
                 Length: 412 <br/>                   </p>
             </div>
         </div>
-               <div class="block">
+       <div class="block">
        <div class="date right"><p class="right hide">1981</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -479,5 +474,3 @@ permalink: /glamming
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
