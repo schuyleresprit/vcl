@@ -66,7 +66,7 @@ permalink: /elpaironne
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Touloulou au pays des perroquets</h1><hr>
+                <h1>Touloulou Au Pays Des Perroquets</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51XUCAGz5+L._SY344_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: L'Harmattan<br/>
@@ -79,7 +79,7 @@ permalink: /elpaironne
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Toulou au pays des grenouilles</h1><hr>
+                <h1>Toulou Au Pays Des Grenouilles</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Hs5TADiLL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: L'Harmattan<br/>
@@ -92,8 +92,8 @@ permalink: /elpaironne
             <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La musique des mots : état d'âme : poésie</h1><hr>
-                <p><img src="NA"></p>
+                <h1>La Musique Des Mots : Etat D'âme : Poésie</h1><hr>
+                <p><img src="https://www.edilivre.com/img600/9782414408092.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Édilivre<br/>
                 Pub_location: Saint-Denis, France<br/>
@@ -105,5 +105,3 @@ permalink: /elpaironne
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
