@@ -7,12 +7,12 @@ permalink: /gelawrence
 <div class="content">
     <h1>George E. Lawrence</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,7 +27,7 @@ permalink: /gelawrence
             <div class="dot"></div>
             <div class="right">
                 <h1>The Wesley Of The West Indies: A Brief Account Of The Romantic Beginnings If Methodism In The Beautiful Islands Of The Caribbean Sea And In The Countries Bordering The Mainland Of Central And South America</h1><hr>
-                <p><img src="NA"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: Enslish <br/>
                 Publisher: Advocate Printing and Publishing<br/>
@@ -40,5 +40,3 @@ permalink: /gelawrence
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
