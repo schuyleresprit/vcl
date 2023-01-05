@@ -12,7 +12,7 @@ permalink: /bmagnier
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right"> B. 1951 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,7 +27,7 @@ permalink: /bmagnier
             <div class="dot"></div>
             <div class="right">
                 <h1>Littératures des Caraibes</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://fr.shopping.rakuten.com/photo/1413186079_L.jpg"></p>
                 <p>
                 Language: French<br/>
                 Publisher: CLE International<br/>
@@ -41,7 +41,7 @@ permalink: /bmagnier
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Littératures du Cap-Vert, de Guinée-Bissao, de São Tomé et Principe</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.cultura.com/cdn-cgi/image/width=1024/media/pim/TITELIVE/81_9782914043366_1_75.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: CLE International<br/>
                 Pub_location: Paris, France<br/>
@@ -54,7 +54,7 @@ permalink: /bmagnier
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Poésie d'Afrique au sud du Sahara 1945 - 1995 anthologie</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/31mw91cq1ZL._AC_SY780_.jpg"></p>
                 <p>Language: German<br/>
                 Publisher: Arles Actes Sud<br/>
                 Pub_location: Paris, France<br/>
@@ -67,7 +67,7 @@ permalink: /bmagnier
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Afrique cent livres : bibliographie sélective</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41OEj0XVs6L._SX495_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Paris bibliothèques éditions<br/>
                 Pub_location: Paris, France<br/>
@@ -80,7 +80,7 @@ permalink: /bmagnier
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Renaissances africaines : écrire 50 ans d'indépendance</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/81oZGtaYd1L.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Bozarbooks<br/>
                 Pub_location: Paris, France<br/>
@@ -93,7 +93,7 @@ permalink: /bmagnier
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Sony Labou Tansi, toujours vivant! : dossier</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: CLE International<br/>
                 Pub_location: Paris, France<br/>
@@ -106,7 +106,7 @@ permalink: /bmagnier
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Sur Fanon</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/33/9c/77/7838771/1540-1/tsp20220420060331/Sur-fanon.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Mémoire d'encrier<br/>
                 Pub_location: Quebec, Canada<br/>
@@ -118,5 +118,3 @@ permalink: /bmagnier
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
