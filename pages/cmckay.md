@@ -7,7 +7,7 @@ permalink: /cmckay
 <div class="content">
     <h1>Claude McKay</h1>
     <div class="quote">
-        <div><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" class="logo"></div>
+        <div><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -58,7 +58,7 @@ permalink: /cmckay
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Domoi Y Garlem</h1><hr>
-                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Russian <br/>
                 Publisher: Zemlia i fabrika <br/>
@@ -74,7 +74,7 @@ permalink: /cmckay
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ritorno Ad Harlem</h1><hr>
-                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://tshop.r10s.jp/rakutenkobo-ebooks/cabinet/4954/2000012314954.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Italian <br/>
                 Publisher: Modernissima <br/>
@@ -89,7 +89,7 @@ permalink: /cmckay
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cock-Tail Negro</h1><hr>
-                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Ediciones Ulises <br/>
@@ -135,7 +135,7 @@ permalink: /cmckay
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Fond de banane</h1><hr>
-                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Les Éditions Rieder <br/>
@@ -161,142 +161,7 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1951</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Home To Harlem ... Complete And Unabridged</h1><hr>
-                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher:Avon Publishing Co., Inc. <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre:Fiction (Novel) <br/>
-                Length: 157 <br/>  
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1961</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Banana Bottom</h1><hr>
-                <p><img src="https://pictures.abebooks.com/isbn/9780156106504-uk-300.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Harcourt Brace Jovanovich <br/>
-                Pub_location: San Diego, CA, United States <br/>
-                Genre:Fiction (Novel) <br/>
-                Length: 315 <br/>          
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1965</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Home To Harlem</h1><hr>
-                <p><img src="https://d3525k1ryd2155.cloudfront.net/h/901/080/1182080901.0.m.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Pocket Books <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre:Fiction (Novel) <br/>
-                Length: 236 <br/>  
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left hide">1970</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Banana Bottom</h1><hr>
-                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Chatham Bookseller <br/>
-                Pub_location: Chatham, NJ, United States <br/>
-                Genre:Fiction (Novel) <br/>
-                Length: 317 <br/>          
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1973</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Home To Harlem</h1><hr>
-                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: The Chatham Bookseller <br/>
-                Pub_location: Chatham, NJ, United States <br/>
-                Genre:Fiction (Novel) <br/>
-                Length: 236 <br/>  
-                </p>
-            </div>
-        </div>
-     <div class="block">
-            <div class="date left"><p class="left hide">1973</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Banana Bottom</h1><hr>
-                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Harcourt Brace Jovanovich <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre:Fiction (Novel) <br/>
-                Length: 315 <br/>          
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">1987</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Home To Harlem</h1><hr>
-                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+854290293_140.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Northeastern University Press <br/>
-                Pub_location: Boston, MA, United States <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 340 <br/>  
-                </p>
-            </div>
-        </div>
-    <div class="block">
-            <div class="date left"><p class="left hide">2000</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Home To Harlem</h1><hr>
-                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+9729830956_140.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: X Press <br/>
-                Pub_location: London, England <br/>
-                Genre:Fiction (Novel) <br/>
-                Length: 236 <br/>          
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">2014</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Home To Harlem</h1><hr>
-                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+337682743_140.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Wildwood Publishing <br/>
-               Pub_location: London, England <br/>
-                Genre: Fiction (Novel) <br/>
-                Length: 236 <br/>  
-                </p>
-            </div>
-        </div>
-    <div class="block">
+       <div class="block">
             <div class="date left"><p class="left hide">2015</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -388,37 +253,7 @@ permalink: /cmckay
                 </p>
             </div>
         </div>
-    <div class="block">
-            <div class="date left"><p class="left hide">2021</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Harlem Shadows: Poems</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71EVJkltqyL.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Mint Editions <br/>
-                Pub_location: Berkeley, CA, United States <br/>
-                Genre: Poetry Collection <br/>
-                Length: 77 <br/>          
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right hide">2022</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Harlem Shadows: Poems</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625598077l/57800574.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Modern Library <br/>
-               Pub_location: New York, United States <br/>
-                Genre: Poetry Collection) <br/>
-                Length: 86 <br/>  
-                </p>
-            </div>
-        </div>
-    <div class="block">
+   <div class="block">
             <div class="date left"><p class="left hide">2022</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -434,5 +269,3 @@ permalink: /cmckay
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
