@@ -18,7 +18,7 @@ permalink: /dmackinnen
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Daniel MacKinnen is from <a href="http://localhost:4000/11">England.</a></p></div>
-              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Daniel_Mackinnon" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
@@ -27,18 +27,16 @@ permalink: /dmackinnen
             <div class="dot"></div>
             <div class="right">
                 <h1>A Tour Through the British West Indies in the Years 1802 and 1803 Giving a Particular Account of the Bahama Islands</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/31F5DrwRb9L._AC_SY780_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: J. White<br/>
                 Pub_location: London, England<br/>
                 Genre: Biography<br/>
-                Length: NA</p>
+                Length: 290</p>
             </div>
         </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
