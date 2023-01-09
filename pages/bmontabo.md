@@ -7,12 +7,12 @@ permalink: /bmontabo
 <div class="content">
     <h1>Bernard Montabo</h1>
     <div class="quote">
-        <div><img src="NA" class="logo"></div>
+        <div><img src="http://ile-en-ile.org/wp-content/uploads/2007/03/montabo.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -66,7 +66,7 @@ permalink: /bmontabo
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Vodún - Roman</h1><hr>
-                <p><img src="https://covers.archimed.fr/Cover/CG97M/MONO/oIe5KLEnvPr917clPO84TQ2/2844502245/MEDIUM?fallback=http%3a%2f%2fmediatheques.collectivitedemartinique.mq%2fui%2fskins%2fdefault%2fportal%2ffront%2fimages%2fGeneral%2fDocType%2fMONO_MEDIUM.png"></p>
+                <p><img src="https://m.media-amazon.com/images/I/517HX7W9H1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Ibis Rougee <br/>
                 Pub_location: Matoury, French Guiana<br/>
