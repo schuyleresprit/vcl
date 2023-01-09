@@ -36,35 +36,7 @@ permalink: /ahmendes
                 Length: 352</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">1970</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Pitch lake: A Study From Trinidad</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=2WUIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73mOooElMKt2JMIRvwxVZRODGMr5WIVR5uXa62R1Cy4exb9jDmFsZRTShnG_ke4jzwoxBglrKNQWAda3RMePXm4nTVsT_aOz9PJwLct7zve58kUXrHyseT7GCog3DBYugRlthST.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Kraus International Publications<br/>
-                Pub_location: Nendeln, Liechtenstein<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 352</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Pitch Lake: A Story From Trinidad</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=2WUIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73mOooElMKt2JMIRvwxVZRODGMr5WIVR5uXa62R1Cy4exb9jDmFsZRTShnG_ke4jzwoxBglrKNQWAda3RMePXm4nTVsT_aOz9PJwLct7zve58kUXrHyseT7GCog3DBYugRlthST.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: New Beacon Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 352</p>
-            </div>
-        </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
