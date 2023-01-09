@@ -7,7 +7,7 @@ permalink: /lmiano
 <div class="content">
     <h1>Léonora Miano</h1>
     <div class="quote">
-        <div><img src="https://img.lemde.fr/2017/04/25/0/0/4912/7360/664/0/75/0/33bbce2_29564-wp8kqa.07bob0rudi.jpg" class="logo"></div>
+        <div><img src="https://img.lemde.fr/2017/04/25/0/0/4912/7360/664/0/75/0/33bbce2_29564-wp8kqa.07bob0rudi.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /lmiano
             <div class="dot"></div>
             <div class="right">
                 <h1>Volcaniques: Une Anthologie Du Plaisir</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://memoiredencrier.com/wp-content/uploads/2014/12/image-livre-volcaniques-anthologie-d%C3%A9sir-leonora-miano-litterature-erotique-191x300.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Mémoire d'encrier<br/>
@@ -40,5 +40,3 @@ permalink: /lmiano
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
