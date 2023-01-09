@@ -37,7 +37,6 @@ permalink: /kmiller
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
@@ -53,8 +52,6 @@ permalink: /kmiller
                 </p>
             </div>
         </div>
-
-
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
@@ -84,8 +81,21 @@ permalink: /kmiller
                 Length: 256 <br/>
                 </p>
             </div>
+         <div class="block">
+            <div class="date left"><p class="left">2014</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Cartographer Tries To Map A Way To Zion</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51OcuCuQDkL._SX315_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Carcanet Press<br/>
+                Pub_location: Manchester, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 80<br/>                   </p>
+            </div>
         </div>
-
+        </div>
         <div class="block">
             <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
@@ -101,8 +111,6 @@ permalink: /kmiller
                 </p>
             </div>
         </div>
-
-
         <div class="block">
             <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
@@ -118,12 +126,9 @@ permalink: /kmiller
                 </p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
