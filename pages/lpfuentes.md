@@ -27,7 +27,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right">
                 <h1>Pasado Perfecto</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/31O0wCnTJRL._AC_SY780_.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Tusquets Editores S.A.<br/>
@@ -41,7 +41,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Vientos De Cuaresma</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/91lSxtNtZfL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -54,7 +54,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Havana Blue</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385659282l/19026004.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Bitter Lemon Press<br/>
                 Pub_location: London, England<br/>
@@ -67,7 +67,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Vents De Carême</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/b2/bf/16/1490866/1540-1/tsp20220608090052/Vents-de-Careme.jpg"></p>
                 <p>Language: Portuguese<br/>
                 Publisher: Métailié<br/>
                 Pub_location: Paris, France<br/>
@@ -80,7 +80,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Handel Der Gefühle</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.unionsverlag.com/dat/img/cover/3293003222.jpg"></p>
                 <p>Language: German<br/>
                 Publisher: Unionsverlag<br/>
                 Pub_location: Zürich, Switzerland<br/>
@@ -93,7 +93,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Um Passado Perfeito</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41WSFTxYV1L._AC_SY780_.jpg"></p>
                 <p>Language: Portuguese<br/>
                 Publisher: Asa Edições<br/>
                 Pub_location: Alfragide, Portugal<br/>
@@ -106,7 +106,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>El Viaje Mas Largo</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/81jlDFTbw6L.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Plaza Mayor<br/>
                 Pub_location: San Juan, Puerto Rico<br/>
@@ -145,7 +145,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Los Rostros De La Salsa</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://www.elsotano.com/imagenes_grandes/9786070/978607076622.JPG"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -158,7 +158,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Havana Red</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354903517l/710746.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Bitter Lemon Press<br/>
                 Pub_location: London, England<br/>
@@ -171,7 +171,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Maschere</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/416TEms8PCL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>Language: Italian<br/>
                 Publisher: Marco Tropea Editore<br/>
                 Pub_location: Milan, Italy<br/>
@@ -184,7 +184,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Faces Of Salsa: A Spoken History of the Music</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51EmGW9DvJL._AC_SY780_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Smithsonian Books<br/>
                 Pub_location: Washington, DC, United States<br/>
@@ -197,7 +197,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Trans W Hawanie</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://s.lubimyczytac.pl/upload/books/51000/51342/352x500.jpg"></p>
                 <p>Language: Polish<br/>
                 Publisher: Wydawnictwo Znak<br/>
                 Pub_location: Kraków, Poland<br/>
@@ -210,7 +210,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Paisaje De Otoño</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/81sD6jzzU-L.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -223,7 +223,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>L'Automne Á Cuba</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41RZWKKQ1GL._AC_SY780_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Métailié<br/>
                 Pub_location: Paris, France<br/>
@@ -312,7 +312,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Adiós Hemingway</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51mJyewrMgL._AC_SY780_.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Ácana<br/>
                 Pub_location: Camaguey, Cuba<br/>
@@ -320,26 +320,12 @@ permalink: /lpfuentes
                 Length: 286</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Adiós Hemingway</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: Spanish<br/>
-                Publisher: Editorial Norma<br/>
-                Pub_location: Bogotá, Colombia<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 329</p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>José María Heredia, La Patria Y La Vida</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.pinimg.com/originals/71/e2/88/71e2880d61957e78e5c34a2f6a799c4d.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -366,7 +352,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Le Almier Et L 'Étoile</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/6179XacHtJL.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Editions Métailié<br/>
                 Pub_location: Paris, France<br/>
@@ -422,7 +408,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>La Neblina Del Ayer</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/81lzEsKA7fL.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Círculo de Lectores<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -435,7 +421,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Der Nebel Von Gestern</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.unionsverlag.com/dat/img/cover/3293003885.jpg"></p>
                 <p>
                 Language: German<br/>
                 Translation: y<br/>
@@ -460,16 +446,13 @@ permalink: /lpfuentes
                 Length: 216</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">2004</p></div>
+         <div class="block">
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Adios Hemingway</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: French<br/>
-                Translation: y<br/>
-                Translator: René Solis<br/>
+                <p><img src="https://m.media-amazon.com/images/I/51mJyewrMgL._AC_SY780_.jpg"></p>
+                <p>Language: French<br/>
                 Publisher: Editions Métailié<br/>
                 Pub_location: Paris, France<br/>
                 Genre: Fiction (Novel)<br/>
@@ -496,7 +479,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Das Meer Der Illusionen</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.unionsverlag.com/dat/img/cover/3293003249.jpg"></p>
                 <p>
                 Language: German<br/>
                 Translation: y<br/>
@@ -602,7 +585,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Mirando Al Sol</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Sarita Cartonera<br/>
                 Pub_location: Lima, Peru<br/>
@@ -644,7 +627,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Herejes</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51Y1FiHy09L._AC_SY780_.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Tusquets Editores S.A.<br/>
@@ -718,7 +701,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Der Mann, Der Hunde Liebte: Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.unionsverlag.com/dat/img/cover/3293205798.jpg"></p>
                 <p>Language: German<br/>
                 Translation: y<br/>
                 Translator: Hans-Joachim Hartstein<br/>
@@ -923,7 +906,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Transparency of Time</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51u+2fsdKoL._AC_SY780_.jpg"></p>
                 <p>Language: English<br/>
                 Translation: y<br/>
                 Translation: Anna Kushner<br/>
@@ -938,7 +921,7 @@ permalink: /lpfuentes
             <div class="dot"></div>
             <div class="right hide">
                 <h1>L'uomo Che Amava I Cani</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/31zLwcx1IuL._BO1,204,203,200_.jpg"></p>
                 <p>Language: Italian<br/>
                 Translation: y<br/>
                 Translation: Eleonora Mogavero<br/>
