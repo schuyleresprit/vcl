@@ -124,7 +124,7 @@ permalink: /epspringer
             <div class="dot"></div>
             <div class="right">
                 <h1>Survivor: A Collection of Plays for Children and Young Adults</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/Front%20Cover%20-%20Survivor.jpg?itok=gYApzr3r" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tress Press<br/>
