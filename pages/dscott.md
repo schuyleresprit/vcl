@@ -27,7 +27,7 @@ permalink: /dscott
             <div class="dot"></div>
             <div class="right">
                 <h1>Terminus </h1><hr>
-                <p><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: University of the West Indies		 <br/>
@@ -36,7 +36,6 @@ permalink: /dscott
                 Length: 17 <br/>                   </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1973</p></div>
             <div class="dot"></div>
@@ -65,7 +64,6 @@ permalink: /dscott
                 Length: 46 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1989</p></div>
             <div class="dot"></div>
@@ -80,13 +78,12 @@ permalink: /dscott
                 Length: 55 <br/>                                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2003</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>An Echo in the Bone</h1><hr>
-                <p><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg"></p>
+                <p><img src="https://repeatingislands.files.wordpress.com/2014/03/1965051_10152337548590955_191262153_n.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Alexander Street Press	 <br/>
@@ -95,13 +92,12 @@ permalink: /dscott
                 Length: NA <br/>                     </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2004</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Dog</h1><hr>
-                <p><img src="https://3.bp.blogspot.com/-05FVZ-58sIs/W3YQqAW9zdI/AAAAAAAADmk/QZw0OK9eUekEDBuCEM6vcNTOdJ86qNNygCLcBGAs/s1600/dennis%2Bscott.jpg"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Alexander Street Press	 <br/>
@@ -110,7 +106,6 @@ permalink: /dscott
                 Length: NA <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
@@ -140,5 +135,3 @@ permalink: /dscott
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
