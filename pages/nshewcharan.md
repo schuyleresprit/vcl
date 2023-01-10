@@ -22,35 +22,7 @@ permalink: /nshewcharan
             </div>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1979</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>The Dream of Every Heart</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br/>
-                Publisher: Narmala Shewcharan<br/>
-                Pub_location: Georgetown, Guyana<br/>
-                Genre: Poetry Collection<br/>
-                Length: 8</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1980</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Beauty Lies Within and Other Poems</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br/>
-                Publisher: Narmala Shewcharan<br/>
-                Pub_location: Georgetown, Guyana<br/>
-                Genre: Poetry Collection<br/>
-                Length: 23</p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -63,12 +35,9 @@ permalink: /nshewcharan
                 Length: 238</p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
