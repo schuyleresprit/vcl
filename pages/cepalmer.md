@@ -1,11 +1,11 @@
 ---
 layout: defaultau
-title: "Everard C. Palmer"
-permalink: /epalmer
+title: "Cyril Everard Palmer"
+permalink: /cepalmer
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>Everard C. Palmer</h1>
+    <h1>Cyril Everard Palmer</h1>
     <div class="quote">
         <div><img src="https://i0.wp.com/nlj.gov.jm/wp-content/uploads/2017/04/everard_palmer.jpg?w=327&ssl=1" class="logo"></div>
     </div>
@@ -17,7 +17,7 @@ permalink: /epalmer
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Everard C. Palmer is from <a href="http://localhost:4000/4">Jamaica.</a></p></div>
+            <div class="aclocation"><p>Cyril Everard Palmer is from <a href="http://localhost:4000/4">Jamaica.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Cyril_Palmer" target="_blank">Read more</a></div>
             </div>
             </div>
@@ -27,7 +27,7 @@ permalink: /epalmer
             <div class="dot"></div>
             <div class="right">
                 <h1>The Adventures Of Jimmy Maxwell</h1><hr>
-                <p><img src="https://scontent.fanu2-1.fna.fbcdn.net/v/t31.18172-8/1265799_497195747039303_623467122_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e-oEodN-BcwAX8hi_iV&_nc_ht=scontent.fanu2-1.fna&oh=00_AT8cErhid6UGFMj86mWOkHJJT7Xa40gPoV3oEKhogtxzew&oe=62F65A69" ></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" ></p>
                 <p>
                 Language: English <br/>
                 Publisher: Ministry of Education Publications Branch		 <br/>
@@ -36,13 +36,12 @@ permalink: /epalmer
                 Length: 122 <br/>                   </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1963</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>A Taste Of Danger</h1><hr>
-                <p><img src="https://scontent.fanu2-1.fna.fbcdn.net/v/t31.18172-8/1265799_497195747039303_623467122_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e-oEodN-BcwAX8hi_iV&_nc_ht=scontent.fanu2-1.fna&oh=00_AT8cErhid6UGFMj86mWOkHJJT7Xa40gPoV3oEKhogtxzew&oe=62F65A69"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Kingston, Jamaica Ministry of Education Publications Branch	 <br/>
@@ -65,7 +64,6 @@ permalink: /epalmer
                 Length: NA <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1968</p></div>
             <div class="dot"></div>
@@ -80,7 +78,6 @@ permalink: /epalmer
                 Length: 168 <br/>                                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1970</p></div>
             <div class="dot"></div>
@@ -96,5 +93,3 @@ permalink: /epalmer
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
