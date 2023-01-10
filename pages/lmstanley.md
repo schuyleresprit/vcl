@@ -22,39 +22,12 @@ permalink: /lmstanley
             </div>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1996</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>La Saison des Abattis</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: French<br/>
-                Publisher: Ibis Rouge<br/>
-                Pub_location: Matoury, French Guiana<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 159</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2001</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Mélodie pour l'Orchidée</h1><hr>
-                <p><img src=""></p>
-                <p>Language: French<br/>
-                Publisher: Ibis Rouge<br/>
-                Pub_location: Matoury, French Guiana<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 172</p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Abel: Roman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41B99TZ3K2L._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Ibis Rouge<br/>
                 Pub_location: Matoury, French Guiana<br/>
@@ -66,5 +39,3 @@ permalink: /lmstanley
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
