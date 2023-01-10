@@ -34,11 +34,9 @@ permalink: /osenior
                 Publisher Location: London, England<br/>
                 Genre: Non fiction<br/>
                 Length: 176
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1985</p></div>
             <div class="dot"></div>
@@ -51,11 +49,9 @@ permalink: /osenior
                 Publisher Location: Kingston, Jamaica<br/>
                 Genre: Poetry Collection<br/>
                 Length: 86
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
@@ -68,11 +64,9 @@ permalink: /osenior
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
                 Length: 134
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
@@ -85,11 +79,9 @@ permalink: /osenior
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
                 Length: 152
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1992</p></div>
             <div class="dot"></div>
@@ -102,11 +94,9 @@ permalink: /osenior
                 Publisher Location: Bloomington, IN, United States<br/>
                 Genre: Non Fiction<br/>
                 Length: 210
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
@@ -119,11 +109,9 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 218
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
@@ -136,11 +124,9 @@ permalink: /osenior
                 Publisher Location: Kingston, Jamaica<br/>
                 Genre: Non Fiction<br/>
                 Length: 580
-
                 </p>
             </div>
         </div>
-
                 <div class="block">
             <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
@@ -153,11 +139,9 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Poetry Collection<br/>
                 Length: 139
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
@@ -170,11 +154,9 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Poetry Collection<br/>
                 Length: 100
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
@@ -187,11 +169,9 @@ permalink: /osenior
                 Publisher Location: Markham, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 384
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
@@ -204,11 +184,9 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 30
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
@@ -221,11 +199,9 @@ permalink: /osenior
                 Publisher Location: London, England<br/>
                 Genre: Fiction<br/>
                 Length: 190
-
                 </p>
            </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
@@ -238,12 +214,9 @@ permalink: /osenior
                 Publisher Location: Mona, Kingston, Jamaica<br/>
                 Genre: Non-Fiction<br/>
                 Length: 416
-
                 </p>
            </div>
         </div>
-
-
                 <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
@@ -256,11 +229,9 @@ permalink: /osenior
                 Publisher Location: Vancouver, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 40
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
@@ -273,11 +244,9 @@ permalink: /osenior
                 Publisher Location: Markham, ON, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 320
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date rightt"><p class="right">2019</p></div>
             <div class="dot"></div>
@@ -290,11 +259,9 @@ permalink: /osenior
                 Publisher Location: Vancouver, Canada<br/>
                 Genre: Fiction<br/>
                 Length: 580
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
@@ -307,11 +274,9 @@ permalink: /osenior
                 Publisher Location: Toronto, ON, Canada<br/>
                 Genre: Poetry Collection<br/>
                 Length: 110
-
                 </p>
            </div>
         </div>
-
                 <div class="block">
             <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
@@ -324,17 +289,12 @@ permalink: /osenior
                 Publisher Location: Manchester, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 456
-
                 </p>
            </div>
         </div>
-
-
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
