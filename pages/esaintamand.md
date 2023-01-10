@@ -27,7 +27,7 @@ permalink: /esaintamand
             <div class="dot"></div>
             <div class="right">
                 <h1>Essai D'explication De "Dialogue De Mes Lampes"</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Ateliers Fardin<br/>
@@ -41,7 +41,7 @@ permalink: /esaintamand
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Bon Dieu Rit</h1><hr>
-                <p><img src=""></p>
+                <p><img src="http://www.vers-les-iles.fr/images/im_Haiti/SaintAmand_E_1.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Les Editions du Soleil<br/>
                 Pub_location: Welland, Canada<br/>
@@ -54,7 +54,7 @@ permalink: /esaintamand
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Le Vent de Janvier</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=6_1HAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE724Px2PUA4xDQ5vSWpNT0zevICV0ah4Z5fRkRWNy2tWnEiawWVzFYqRj952EUUgYm91ykWa1KR-9UZ6e5xhdXxrLwl74dGnustzoCoaD-CF7vfs1er-gvD4DDY6Q3XdfJ-L39x-"></p>
                 <p>Language: French<br/>
                 Publisher: Edris Saint-Amand<br/>
                 Pub_location: Port-au-Prince<br/>
