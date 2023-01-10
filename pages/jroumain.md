@@ -38,7 +38,6 @@ permalink: /jroumain
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1972</p></div>
             <div class="dot"></div>
@@ -68,7 +67,6 @@ permalink: /jroumain
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1972</p></div>
             <div class="dot"></div>
@@ -84,73 +82,3 @@ permalink: /jroumain
                 </p>
             </div>
         </div>
-
-        <div class="block">
-            <div class="date left"><p class="left hide">1996</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Complete Narratives Of Francophone Caribbean Tales</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Jacquess_Roumain.jpeg"  height="50%" width = "50%">
-                </p>
-                <p>
-                Language: French (With an introduction in English.) <br/>
-                Publisher: E. Mellen Press<br/>
-                Pub_location: Lewiston, ID, United States <br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 175 <br/>        
-             </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right hide">1999</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Gouverneurs De La Rosée</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41iSfJNNUbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%"></p>
-                <p>
-                Language: French <br/>
-                Publisher:Educa Vision <br/>
-                Pub_location: Coconut Creek, FL, United States <br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 224 <br/>           
-                 </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date left"><p class="left hide">2014</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>La Montagne Ensorcelée</h1><hr>
-                <p><img src="https://kbimages1-a.akamaihd.net/6e527d49-7f67-45c9-8e7c-6d1866a465ed/353/569/90/False/la-montagne-ensorcelee-1.jpg"></p>
-                <p>
-                Language: French <br/>
-                Publisher:Éditions de la dodine <br/>
-                Pub_location: Jacmel, Haiti <br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 61 <br/>  
-                </p>
-            </div>
-        </div>
-
-        <div class="block">
-            <div class="date right"><p class="right hide">2017</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Masters Of The Dew</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ZHEdwX34L._SX313_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: English <br/>
-                Publisher:Caribbean Studies Press, an imprint of Educa Vision <br/>
-                Pub_location: Pompano Beach, FL, United States <br/>
-                Genre: Fiction (Novel)<br/>
-                Translation: y
-                Length: 170 <br/>  
-                </p>
-            </div>
-        </div>
-        </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
