@@ -27,7 +27,7 @@ permalink: /ephillpotts
             <div class="dot"></div>
             <div class="right">
                 <h1>The Obiman - DRS</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: HarperCollins<br/>
@@ -41,7 +41,7 @@ permalink: /ephillpotts
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Widecombe Fair</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492941340l/27098362.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Little, Brown, and Co.<br/>
                 Pub_location: Boston, MA, United States<br/>
@@ -50,24 +50,11 @@ permalink: /ephillpotts
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1916</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Widecombe Fair</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Thomas Nelson<br/>
-                Pub_location: Nashville, TN, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 468</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">1920</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Eden Phillpotts: Selected Poems</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Ernest Benn Ltd.<br/>
                 Pub_location: London, England<br/>
@@ -76,24 +63,11 @@ permalink: /ephillpotts
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1921</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Widecombe Fair</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: John Murray<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 350</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">1923</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Obi: A Murder Mystery and an Obeahman</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Flying Heron Books<br/>
                 Pub_location: Stuart, FL, United States<br/>
@@ -106,7 +80,7 @@ permalink: /ephillpotts
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cheat-The-Boys: A Story of the Devonshire Orchards</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md3237355977.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Tauchnitz<br/>
                 Pub_location: Leipzig, Germany<br/>
@@ -114,25 +88,12 @@ permalink: /ephillpotts
                 Length: 324</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date right"><p class="right">1926</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Widecombe Fair</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: John Murray<br/>
-                Pub_location: London, England<br/>
-                Genre: Poetry Collection<br/>
-                Length: 350</p>
-            </div>
-        </div>
-        <div class="block">
+       <div class="block">
             <div class="date left"><p class="left">1926</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Eden Phillpotts: Selected Poems</h1><hr>
-                <p><img src=""></p>
+                <h1>Eden Phillpotts</h1><hr>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Ernest Benn Ltd.<br/>
                 Pub_location: London, England<br/>
@@ -141,37 +102,11 @@ permalink: /ephillpotts
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1929</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Eden Phillpotts</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: George G. Harrap & Co. Ltd.<br/>
-                Pub_location: London, England<br/>
-                Genre: NA<br/>
-                Length: 254</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1934</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Widecombe Fair</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: John Murray<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 350</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">1936</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The White Camel</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51AP8J1PBTL._AC_SY780_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Country Life<br/>
                 Pub_location: London, England<br/>
@@ -179,48 +114,7 @@ permalink: /ephillpotts
                 Length: 165</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1947</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Widecombe Fair</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Eyre & Spottiswoode<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 397</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1983</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Widecombe Fair</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: A. Mott<br/>
-                Pub_location: London, England<br/>
-                Genre: Poetry Collection<br/>
-                Length: 350</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>McClelland & Goodchild</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Thomas Nelson<br/>
-                Pub_location: Toronto, ON, Canada<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 350</p>
-            </div>
-        </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
