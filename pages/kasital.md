@@ -12,7 +12,7 @@ permalink: /kasital
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,7 +27,7 @@ permalink: /kasital
             <div class="dot"></div>
             <div class="right">
                 <h1>Secrets We Kept</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ28KTljt49pLVZdbc50-jKP8OKTXwOzo3fk1LN5_QLT0Tca49F"></p>
                 <p>
                 Language: English<br/>
                 Publisher: W.W. Norton & Company<br/>
@@ -40,5 +40,3 @@ permalink: /kasital
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
