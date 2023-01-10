@@ -23,24 +23,11 @@ permalink: /jshinebourne
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Timepiece</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Peepal Tree Press<br/>
-                Pub_location: Leeds, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 186</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Last English Plantation</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51WzskDJf5L.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
@@ -48,48 +35,7 @@ permalink: /jshinebourne
                 Length: 184</p>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">2004</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The Godmother and Other Stories</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Peepal Tree Press<br/>
-                Pub_location: Leeds, England<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 112</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2010</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Chinese Women: A Novel</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Peepal Tree Press<br/>
-                Pub_location: Leeds, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 94</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The Last Ship</h1><hr>
-                <p><img src=""></p>
-                <p>Language: English<br/>
-                Publisher: Peepal Tree Press<br/>
-                Pub_location: Leeds, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 156</p>
-            </div>
-        </div>
         <div id="footer">
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
