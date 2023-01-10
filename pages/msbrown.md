@@ -12,7 +12,7 @@ permalink: /msbrown
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> NA </p></div>
+            <div class="date right"><p class="right">  </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,7 +27,7 @@ permalink: /msbrown
             <div class="dot"></div>
             <div class="right">
                 <h1></h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41c1ZwrFnNL.SR160,240_BG243,243,243.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41c1ZwrFnNL.SR160,240_BG243,243,243.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Bocas Lit Fest<br/>
@@ -40,5 +40,3 @@ permalink: /msbrown
         <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
