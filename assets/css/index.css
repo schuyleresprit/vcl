@@ -14,13 +14,8 @@ body {
 /****Background****/
 .background{
 background: url('../img/background-3.png');
-color: #000;
-opacity: 0.9;
 }
 
-.overlay{
-	background:rgba(255,255,255, 0.9);
-}
 .row {
     margin-bottom: -26px;
 }
@@ -128,10 +123,12 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 }
 
 .col-sm-10 {
-	padding-top: 0px;
+	padding-top: 15px;
 	padding-right: 0px;
 	padding-bottom: 0px;
 	margin-top: 70px;
+	background: #fff;
+	margin-bottom: 30px;
 
 }
 
