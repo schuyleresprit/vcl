@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Assessment"
-permalink: /assessment/
+permalink: /assessment
 ---
 
 __The Assignment__
