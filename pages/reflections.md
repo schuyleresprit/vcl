@@ -3,13 +3,14 @@ layout: pagedefault
 title: "Reflections"
 permalink: /reflections
 ---
-<div class="page_title"><h3>Project Reflections</h3></div>
-__Reflecting on Visualizing Caribbean Literature__
+<div class="page_title"><h1>Project Reflections</h1></div>
+Reflections by Interns on the Visualizing Caribbean Literature Project.
+
 
 
 ___Luam Stephenson___  
 --------
- The past year with Create Caribbean has been an extremely enriching experience for me. It is one I will never regret, but I also wish I did some things differently. I learnt about myself, about life, about the Caribbean and my island Dominica, and not only digital humanities but other subjects as well.
+<div align="justify">The past year with Create Caribbean has been an extremely enriching experience for me. It is one I will never regret, but I also wish I did some things differently. I learnt about myself, about life, about the Caribbean and my island Dominica, and not only digital humanities but other subjects as well.
 
 Being an intern at Create and a student of Dominica State College during the pandemic really taught me the importance of the most basic self care. I barely left my room over the span of a year and I had not seen how detrimental it was to me at the time. Not leaving my house meant gradually I stopped eating on time, getting fresh air, and talking to my friends often. Going into working with Create I had expected to be continuously working and to be fine doing so. When we started working on the Visual Caribbean Literature project, I expected to have a smooth continuous workflow. Some of the work was abit more difficult to do alone than I expected. Going outside is the one thing I wish I had done differently, I think if I had focused on figuring out a way I could do that, ultimately the troubles I faced with finding motivation would have not have been. 
 
@@ -23,7 +24,7 @@ I am excited to continue being an intern at Create Caribbean and to be a Create 
 
 ___Mckel Ferrol___  
 --------
-Working on the Digital Humanities project which was being issued by Create Caribbean was a very eventful and demanding experience. Trying to balance doing school work and working on the project was hard at first but after a while, I got accustomed and adapted to doing both. Another difficult task was trying to keep up with the deadline Dr. Esprit set for us. But with perseverance and putting enough hours into doing the work I was able to keep on track with the deadlines. 
+<div align="justify">Working on the Digital Humanities project which was being issued by Create Caribbean was a very eventful and demanding experience. Trying to balance doing school work and working on the project was hard at first but after a while, I got accustomed and adapted to doing both. Another difficult task was trying to keep up with the deadline Dr. Esprit set for us. But with perseverance and putting enough hours into doing the work I was able to keep on track with the deadlines. 
 
 Firstly, we had to enter books found by Caribbean authors via the internet into a management software called Zotero. Dr. Esprit separated the task between the interns from the 1800s to the present. I was given the years 1991-2000. Doing this was relatively easy as all I had to do was find books either on Amazon, Good reads, or Worldcat and enter them into Zotero. I found that using Worldcat was the easiest and most efficient way of finding books from a particular author. In this section of the intern project, I learned that you will have to keep track of all the books you and others have collected. I also learned that I need to have good communication with the other interns to see what they added and what they needed help with.
 
@@ -33,9 +34,12 @@ Finally, I was assigned to add some of the authors from the spreadsheet into a V
 
 
 
-___ ___  
+___Intern 3___  
 --------
-Initially, I had very little knowledge about Caribbean Literature. I only knew the basics seeing that I did literature in high school. In order to collect information for this project, lots of research, reading, data entry and fact checking had to be done. I had never done this type of research so it was a new experience. At times, this would be calming and at other times it would be frustrating. Doing this gave me skills such as data entry and collection skills and research skills. Some resources I used when working on the main project and my individual project were arcgis, zotero, worldcat, goodreads and amazon. 
+<div align="justify">Initially, I had very little knowledge about Caribbean Literature. I only knew the basics seeing that I did literature in high school. In order to collect information for this project, lots of research, reading, data entry and fact checking had to be done. I had never done this type of research so it was a new experience. At times, this would be calming and at other times it would be frustrating. Doing this gave me skills such as data entry and collection skills and research skills. Some resources I used when working on the main project and my individual project were arcgis, zotero, worldcat, goodreads and amazon. 
+
 I feel like these projects are exceptional and informative. I like the fact that it breaks down each book into different categories and presents them in a captivating manner. Additionally, this allows for individuals to be explorative and read works from the different Caribbean countries. The most satisfying part was watching everything come together perfectly at the end. 
+
 When working, I had no idea whether I was right or wrong. For the main project I was a part of the research team so my main focus was finding accurate information and entering it into the spreadsheet. For my main project, I had an idea of what I wanted to do and this ended up changing as I went along. I thought that it would be best to ensure that I had all Information then after this was completed I would work on the presentation. I believe that my project met the standards seeing that it provides the audience with information and presents as an aesthetic. 
+
 One thing someone would notice when reading my project is that I am not a tech savvy individual. Hence the reason I created a timeline and map which mostly includes research. If faced with another project, I would like to improve my time management. Additionally one thing I would set for myself next time is to step outside my comfort zone. This will allow me to become familiar with other tools and allow me to gain even more skills.
