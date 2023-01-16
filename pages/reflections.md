@@ -4,7 +4,7 @@ title: "Reflections"
 permalink: /reflections
 ---
 <div class="page_title"><h3>Project Reflections</h3></div>
-__Refllecting on Visualizing Caribbean Literature__
+__Reflecting on Visualizing Caribbean Literature__
 
 
 ___Luam Stephenson___  
