@@ -8,7 +8,7 @@ __Introducing Visualizing Caribbean Literature__
 
 ___Where we begin (by Dr. Schuyler Esprit)___
 
-The project began selfishly. For most of my career, I’ve been investigating literary culture in the Caribbean l. As a literary historian I’ve been thinking about a question posed by the late George Lamming to whom this project is dedicated. He asked “for whom do we write?” Working on this question for more than twenty years led me to some interesting corners of the Caribbean social experience - book clubs and book tube, festivals and book fairs, newspapers and magazines, calypso and radio, school and home and church.
+<div align="justify">The project began selfishly. For most of my career, I’ve been investigating literary culture in the Caribbean l. As a literary historian I’ve been thinking about a question posed by the late George Lamming to whom this project is dedicated. He asked “for whom do we write?” Working on this question for more than twenty years led me to some interesting corners of the Caribbean social experience - book clubs and book tube, festivals and book fairs, newspapers and magazines, calypso and radio, school and home and church.
 
 I posed this question to my students. I wanted their help in this investigation, asking them to reflect on their own coming of age and education, their reading practices and exposure to writing by Caribbean. What we learned together was unfortunately what I expected, that while they had read some interesting Caribbean writing during their school life, they had no idea about the history of and current global reach of literature from the region.
 
