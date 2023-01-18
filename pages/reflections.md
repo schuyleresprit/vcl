@@ -43,3 +43,20 @@ I feel like these projects are exceptional and informative. I like the fact that
 When working, I had no idea whether I was right or wrong. For the main project I was a part of the research team so my main focus was finding accurate information and entering it into the spreadsheet. For my main project, I had an idea of what I wanted to do and this ended up changing as I went along. I thought that it would be best to ensure that I had all Information then after this was completed I would work on the presentation. I believe that my project met the standards seeing that it provides the audience with information and presents as an aesthetic. 
 
 One thing someone would notice when reading my project is that I am not a tech savvy individual. Hence the reason I created a timeline and map which mostly includes research. If faced with another project, I would like to improve my time management. Additionally one thing I would set for myself next time is to step outside my comfort zone. This will allow me to become familiar with other tools and allow me to gain even more skills.
+
+  
+  
+___Élise Annaiel Valerie___  
+--------
+Throughout the duration of my stay as a Create Caribbean Intern I have always felt like I was learning and growing in one way or another. In the HIS115 classes, I was educated about what Digital Humanities was, the reasoning behind studying this field, and the tools used to perform this task. The coursework was separated into bite-sized pieces that were easy to digest and the exposure to the programs and applications being learnt ensured memorable lessons. At times when we felt overwhelmed as students, we were given breaks to step away from the lesson, talk about our problems and receive advice. These sessions enabled me to truly learn that life was not only about completing schoolwork and assignments but also taking care of ourselves. 
+
+The learning process did not stop outside of the classroom as I learnt valuable social skills from the staff and other interns at Create Caribbean. I felt heard and welcomed throughout my entire tenure. When times got rough, we stuck together as a team and powered through the obstacle. I felt empowered knowing that I was not alone. A time like this was when we began the cumbersome process of installing Wax and Jekyll. There were many bumps in the road and stressful moments but instead of giving up, we found solution after solution and completed not only the installation of the applications but the set-up process as well. 
+ 
+Another tedious process we endured was data cleaning of the VCL project. It felt like the spreadsheet would never end and that the project would be left remarkably incomplete. However, just like with our previous complications, we persevered and did our best. 
+While preparing for the symposium I got to see the role the different tools that we learnt played. These tools were used to shape projects; be it the main project or the individual projects that we, the interns created. During this time of crafting projects from mere ideas and forging reality, we shared tips and insight which help shape the end products. 
+
+Public speaking was one of my weak points but over time I found myself opening up and enjoying speaking to the people who had created such a welcoming learning environment for me. By the day of the presentations, though I had the usual buzz of anxiety that surrounds speaking, I felt confident that the work I had done was worthwhile and a mirror of my efforts. I felt comfortable speaking in front of everyone as I had deemed being around the people at Create Caribbean a safety zone; a place I was safe.
+
+Without a shadow of a doubt, this course has positively affected me in the long run. This is due to being educated on tools that I can use in the future to enhance the projects that I embark on. Moreover, I learnt more about the Caribbean’s people and our culture. I also learnt that anything is possible when I put my mind to it and believe in myself.
+
+I leave you with a few words by Daniel Boorstin, which embarking on this journey taught me, “Education is learning what you didn’t even know you didn’t know.”
