@@ -3,14 +3,13 @@ layout: pagedefault
 title: "Reflections"
 permalink: /reflections
 ---
-<div class="page_title"><h1>Project Reflections</h1></div>
+<div class="page_title"><h3>Project Reflections</h3></div>
 Reflections by Interns on the Visualizing Caribbean Literature Project.
 
 
 
-___Luam Stephenson___  
---------
-<div align="justify">The past year with Create Caribbean has been an extremely enriching experience for me. It is one I will never regret, but I also wish I did some things differently. I learnt about myself, about life, about the Caribbean and my island Dominica, and not only digital humanities but other subjects as well.
+__Luam Stephenson__  
+The past year with Create Caribbean has been an extremely enriching experience for me. It is one I will never regret, but I also wish I did some things differently. I learnt about myself, about life, about the Caribbean and my island Dominica, and not only digital humanities but other subjects as well.
 
 Being an intern at Create and a student of Dominica State College during the pandemic really taught me the importance of the most basic self care. I barely left my room over the span of a year and I had not seen how detrimental it was to me at the time. Not leaving my house meant gradually I stopped eating on time, getting fresh air, and talking to my friends often. Going into working with Create I had expected to be continuously working and to be fine doing so. When we started working on the Visual Caribbean Literature project, I expected to have a smooth continuous workflow. Some of the work was abit more difficult to do alone than I expected. Going outside is the one thing I wish I had done differently, I think if I had focused on figuring out a way I could do that, ultimately the troubles I faced with finding motivation would have not have been. 
 
@@ -22,9 +21,8 @@ I am excited to continue being an intern at Create Caribbean and to be a Create 
 
 
 
-___Mckel Ferrol___  
---------
-<div align="justify">Working on the Digital Humanities project which was being issued by Create Caribbean was a very eventful and demanding experience. Trying to balance doing school work and working on the project was hard at first but after a while, I got accustomed and adapted to doing both. Another difficult task was trying to keep up with the deadline Dr. Esprit set for us. But with perseverance and putting enough hours into doing the work I was able to keep on track with the deadlines. 
+__Mckel Ferrol__  
+Working on the Digital Humanities project which was being issued by Create Caribbean was a very eventful and demanding experience. Trying to balance doing school work and working on the project was hard at first but after a while, I got accustomed and adapted to doing both. Another difficult task was trying to keep up with the deadline Dr. Esprit set for us. But with perseverance and putting enough hours into doing the work I was able to keep on track with the deadlines. 
 
 Firstly, we had to enter books found by Caribbean authors via the internet into a management software called Zotero. Dr. Esprit separated the task between the interns from the 1800s to the present. I was given the years 1991-2000. Doing this was relatively easy as all I had to do was find books either on Amazon, Good reads, or Worldcat and enter them into Zotero. I found that using Worldcat was the easiest and most efficient way of finding books from a particular author. In this section of the intern project, I learned that you will have to keep track of all the books you and others have collected. I also learned that I need to have good communication with the other interns to see what they added and what they needed help with.
 

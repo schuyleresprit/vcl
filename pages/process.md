@@ -4,11 +4,12 @@ title: "Process"
 permalink: /process
 ---
 <div class="page_title"><h3>The Process</h3></div>
+
 __Introducing Visualizing Caribbean Literature__
 
 ___Where we begin (by Dr. Schuyler Esprit)___
 
-<div align="justify">The project began selfishly. For most of my career, I’ve been investigating literary culture in the Caribbean l. As a literary historian I’ve been thinking about a question posed by the late George Lamming to whom this project is dedicated. He asked “for whom do we write?” Working on this question for more than twenty years led me to some interesting corners of the Caribbean social experience - book clubs and book tube, festivals and book fairs, newspapers and magazines, calypso and radio, school and home and church.
+The project began selfishly. For most of my career, I’ve been investigating literary culture in the Caribbean. As a literary historian I’ve been thinking about a question posed by the late George Lamming to whom this project is dedicated. He asked “for whom do we write?” Working on this question for more than twenty years led me to some interesting corners of the Caribbean social experience - book clubs and book tube, festivals and book fairs, newspapers and magazines, calypso and radio, school and home and church.
 
 I posed this question to my students. I wanted their help in this investigation, asking them to reflect on their own coming of age and education, their reading practices and exposure to writing by Caribbean. What we learned together was unfortunately what I expected, that while they had read some interesting Caribbean writing during their school life, they had no idea about the history of and current global reach of literature from the region.
 
@@ -18,15 +19,14 @@ On a more human level, I wanted to share the joy and possibility that Caribbean 
 
 
 ___The Course___  
---------
+
  HIS115, Digital Humanities Research is the first digital humanities course offered at a Caribbean higher education institution. Now in its ninth year of being offered at Dominica State College, it is the foundational course for the internship’s academic curriculum. Digital Humanities Research is, as it suggests, a research course. This means it is reading and writing intensive. The course is generally organized into four units: The first  focuses on cultures of technology and how the digital has changed the way we live and think. The second is on the great debates in digital humanities as a field of study - why, how and where digital humanities better helps us understand the way we experience the world.
 
 The third unit is on digital tools and methods - the actual experimenting, building and playing with tools to assess how they can enhance our research and the fourth unit is a deep study of a topic in Caribbean studies for critical inquiry. In the past the course topic has been Dominica’s history, Caribbean climate, political movements of the region, among others. The rest of the course is devoted to bringing all the units together through collaboration and practical application.
 
 
-
 ___The Research___  
---------
+
 
 We had to formulate research questions that would critically explore the history of literature in the Caribbean and lead us to expected and unexpected findings.
 
@@ -84,7 +84,7 @@ Then we played. Once we amassed the big, not-so-smart data for the project, we c
 
 
 ___Research Goals___
--------
+
 
 Then we developed research goals to guide our process of investigation. These goals involved different categories.
 
@@ -118,7 +118,7 @@ We aggregated 3913 entries in Zotero before moving on to the next phase of proje
 
 
 ___Working Together___
---------
+
 
 We also had to make decisions about DH tools and methods. Our goal was to apply the experimental, collaborative and persistent spirit of Create Caribbean toward the best critical engagement with the data that we could.
 
@@ -132,7 +132,7 @@ Each of the teams would have a role to play in the final project, whether it was
 
 
 ___The Technology Process___
---------
+
 
 Visualizing Caribbean Literature is a static site with dynamic content. We were inspired by the code base of the In the Same Boats project, pioneered by Alex Gil and Kaiama L. Glover, two of the Co-PIs of the Caribbean Digital Scholarship Collective. We were also interested in the styling and presentation of the Mapping Marronage project by Dr. Annette Joseph-Gabriel, whose work also modifies the Same Boats code. We were warned that it was a complex code and would probably need the help of a paid professional to pull it off. But we wanted to try anyway. And we had success.
 
@@ -150,9 +150,8 @@ Dr. Gil suggested starting over with a Jekyll frame with bootstrap properties, d
 
 
 
-
 ___Digital Tools and Methods___
---------
+
 
 The following programming languages and techniques were used in the development of what we will present to you today.
 * Python
