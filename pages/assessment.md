@@ -3,8 +3,7 @@ layout: pagedefault
 title: "Assessment"
 permalink: /assessment
 ---
-
-__The Assignment__
+<div class="page_title"><h3>The Assignment </h3> </div>
 
 Create Caribbean interns enrolled in HIS115 for the academic year 2021-22 contributed to this project by working to develop a multimedia resource documenting Caribbean literary history, particularly with a searchable, annotated, and mapped timeline of Caribbean literature from 1800 – the present.
 
