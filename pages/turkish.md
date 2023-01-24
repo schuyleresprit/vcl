@@ -4,6 +4,15 @@ title: Turkish
 permalink: /Turkish
 ---
 
+<div class="individual_language">
+<div class="background">
+<div class="overlay">
+<div class="row">
+<div class="col-sm-1">
+</div>
+<div class="col-sm-10">
+<div class="page_title"><h3> Turkish</h3></div>
+
 <html>
 
 <body>
@@ -102,3 +111,10 @@ permalink: /Turkish
 	</script>
 </body>
 </html>
+</div>
+</div>
+<div class="col-sm-1">
+</div>
+</div>
+</div>
+</div>
