@@ -134,6 +134,14 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 
 }
 
+.individual_language {
+    margin: 30px 0;
+}
+
+.individual_language .col-sm-10 {
+    padding-bottom: 40px;
+}
+
 .languages #data-container, .authors #data-container, .genres #data-container {
     margin-bottom: 20px !important;
 }
