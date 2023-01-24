@@ -3,6 +3,9 @@ layout: default
 title: Arabic
 permalink: /arabic
 ---
+<div class="individual_language">
+<div class="page_title"><h3> Arabic</h3></div>
+
 Represented here are the authors who have written works in Arabic. Some of these may be texts translated into Arabic from other languages.
 
 <html>
@@ -89,3 +92,4 @@ Represented here are the authors who have written works in Arabic. Some of these
 	</script>
 </body>
 </html>
+</div>
