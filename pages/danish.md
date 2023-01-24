@@ -4,6 +4,15 @@ title: Danish
 permalink: /danish
 ---
 
+<div class="individual_language">
+<div class="background">
+<div class="overlay">
+<div class="row">
+<div class="col-sm-1">
+</div>
+<div class="col-sm-10">
+<div class="page_title"><h3> Danish</h3></div>
+
 Represented here are the authors who have written works in Arabic. Some of these may be texts translated into Arabic from other languages.
 
 <html>
@@ -90,3 +99,10 @@ Represented here are the authors who have written works in Arabic. Some of these
 	</script>
 </body>
 </html>
+</div>
+</div>
+<div class="col-sm-1">
+</div>
+</div>
+</div>
+</div>
