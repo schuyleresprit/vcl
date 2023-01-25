@@ -24,8 +24,6 @@ background: url('../img/background-3.png');
     margin-bottom: -26px;
 }
 /*********/
-
-
 h2 {
 	font-size: 3rem;
 }
@@ -152,6 +150,16 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 
 .mt-5 {
     margin-top: 0rem!important;
+}
+
+.countrypage .col-sm-10 #map {
+		height: 500px;
+		width: 100%;
+		margin: 0 auto;
+}
+
+.countrypage .col-sm-10 {
+    padding-bottom: 10px;
 }
 
  footer {
@@ -296,12 +304,6 @@ li.nav-item.px-3 {
 		font-size: 100% !important;
 	}
 
-	.countrypage .col-sm-10 #map {
-	    height: 500px;
-	    width: 1000px;
-	    margin: 0 auto;
-	}
-
 	li.nav-item.px-3 {
 		padding: 13px 10px 7px 10px !important;
 		font-size: 100%;
@@ -339,12 +341,6 @@ li.nav-item.px-3 {
 	/****navigation_menu****/
 	a.navbar-brand {
 		font-size: 100% !important;
-	}
-
-	.countrypage .col-sm-10 #map {
-	    height: 500px;
-	    width: 1000px;
-	    margin: 0 auto;
 	}
 
 	li.nav-item.px-3 {
