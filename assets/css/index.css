@@ -162,6 +162,16 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
     padding-bottom: 10px;
 }
 
+.publisherpage .col-sm-10 #map {
+		height: 500px;
+		width: 100%;
+		margin: 0 auto;
+}
+
+.publisherpage .col-sm-10 {
+    padding-bottom: 10px;
+}
+
  footer {
 
 	color: #216b4d;
