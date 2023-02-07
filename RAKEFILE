@@ -1,0 +1,16 @@
+desc 'Publishing the website via rsync'
+require 'colorize'
+task :prod do
+  puts 'First, let\'s build your site...'.blue
+  sh "bundle exec jekyll build"
+  puts "\n"
+  puts 'Now let\'s publish it, hold on a sec...'.blue
+# personal server setup
+  user = 'createca'
+  server = 'createcaribbean.org'
+  path = '/home/createca/public_html/vcl/'
+  sh "rsync -r -e \"ssh -p22\" _site/. #{user}@#{server}:#{path}"
+  puts "\n"
+  puts 'Bam! Your website is now published!'.green
+  puts "\n"
+end
