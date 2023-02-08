@@ -1,5 +1,5 @@
 title: Visualizing Caribbean Literature
-
+url: ""
 baseurl: "/vcl"
 author:
   name: Create Caribbean Research Institute
@@ -23,6 +23,7 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
+ - jekyll-relative-links
 
 # Google Analytics Tracking (optional)
 ga_tracking:

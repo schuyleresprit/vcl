@@ -16,3 +16,4 @@ end
 
 #gem "gem", "~> 0.0.1.alpha"
 gem "wdm", "~> 0.1.1"
+gem 'jekyll-relative-links'
