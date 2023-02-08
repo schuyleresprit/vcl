@@ -1,5 +1,4 @@
 title: Visualizing Caribbean Literature
-url: ""
 baseurl: "/vcl"
 author:
   name: Create Caribbean Research Institute
@@ -7,7 +6,7 @@ author:
   github: createcaribbean
   twitter: createcaribbean
 
-logo: 'assets/img/CreateLogo.png'
+logo: '/assets/img/CreateLogo.png'
 
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this

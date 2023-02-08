@@ -45,6 +45,13 @@
 			var temp = [];
 
 			$.getJSON(url, function (data) {
+				function loadData(url, onLoadCallback) {
+ 				window.fetch(jsonUrl).then((res) => {
+ 				return res.json()
+ 					}).then((data) => {
+ 				onLoadCallback(data)
+ 					});
+}
 				switch (dataType) {
 					case "genres":
 						for (key in data) {
