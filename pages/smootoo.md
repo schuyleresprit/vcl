@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Shani Mootoo"
-permalink: /smootoo
+permalink: /smootoo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
