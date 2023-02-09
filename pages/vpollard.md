@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Velma Pollard"
-permalink: /vpollard
+permalink: /vpollard/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
