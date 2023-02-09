@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Wayne Gerard Trotman"
-permalink: /wgtrotman
+permalink: /wgtrotman/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
