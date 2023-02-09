@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Manuel Zapata Olivella"
-permalink: /mzolivella
+permalink: /mzolivella/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
