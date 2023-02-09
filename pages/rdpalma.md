@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ramón De Palma"
-permalink: /rdepalma
+permalink: /rdepalma/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
