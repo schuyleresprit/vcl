@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Richard F. Patterson"
-permalink: /rfpatterson
+permalink: /rfpatterson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -31,7 +31,7 @@ permalink: /rfpatterson
                 Language: English<br/>
                 Publisher: Callaloo<br/>
                 Pub_location: London, England<br/>
-                Genre: 
+                Genre:
 <br/>
                 Length: 14<br/>                   </p>
             </div>
