@@ -17,7 +17,7 @@ permalink: /maasturias/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Miguel Ángel Asturias is from <a href="http://localhost:4000/15">Guatemala.</a></p></div>
+            <div class="aclocation"><p>Miguel Ángel Asturias is from <a href="{{ site.baseurl }}/15">Guatemala.</a></p></div>
               <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Miguel_%C3%81ngel_Asturias" target="_blank">Read more</a></div>
             </div>
             </div>

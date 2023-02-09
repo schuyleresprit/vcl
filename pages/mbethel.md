@@ -17,7 +17,7 @@ permalink: /mbethel/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation"> <p>Marion Bethel is from <a href="http://localhost:4000/19">The Bahamas</a></p></div>
+          <div class="aclocation"> <p>Marion Bethel is from <a href="{{ site.baseurl }}/19">The Bahamas</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Marion_Bethel" target="_blank">Read more</a></div>
             </div>
             </div>
