@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "R. L. C. Aarons"
-permalink: /rlcaarons
+permalink: /rlcaarons/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
