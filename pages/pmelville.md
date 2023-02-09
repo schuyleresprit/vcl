@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Pauline Melville"
-permalink: /pmelville
+permalink: /pmelville/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
