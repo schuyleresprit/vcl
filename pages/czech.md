@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Czech
-permalink: /czech/
+permalink: /Czech/
 ---
 
 <div class="individual_language">

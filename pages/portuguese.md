@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Portuguese
-permalink: /portuguese/
+permalink: /Portuguese/
 ---
 <html>
 

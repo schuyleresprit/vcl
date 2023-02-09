@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Italian
-permalink: /italian/
+permalink: /Italian/
 ---
 
 <html>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Greek
-permalink: /greek/
+permalink: /Greek/
 ---
 
 <div class="individual_language">

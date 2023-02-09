@@ -1,5 +1,5 @@
 ---
 layout: default
 title: German
-permalink: /german/
+permalink: /German/
 ---

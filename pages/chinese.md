@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chinese
-permalink: /chinese/
+permalink: /Chinese/
 ---
 
 <div class="individual_language">
