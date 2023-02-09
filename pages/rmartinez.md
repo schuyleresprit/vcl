@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Rubén Martínez"
-permalink: /rmartinez
+permalink: /rmartinez/
 ---
 <div class="content">
     <h1>Rubén Martínez</h1>
