@@ -15,7 +15,7 @@ Visualizing Caribbean Literature aims to contribute to and open the way for furt
 
 
 <div class="wordcloud">
-<img src='/assets/img/wordcloud.png'/>
+<img src='{{ site.baseurl }}/assets/img/wordcloud.png'/>
 </div>
 
 
