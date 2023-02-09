@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Desmond Hall"
-permalink: /dhall
+permalink: /dhall/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

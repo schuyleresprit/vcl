@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Bernard Magnier"
-permalink: /bmagnier
+permalink: /bmagnier/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

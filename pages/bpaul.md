@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Baptiste Paul"
-permalink: /bpaul
+permalink: /bpaul/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

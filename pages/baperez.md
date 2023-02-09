@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Brenda Alexander-Perez"
-permalink: /baperez
+permalink: /baperez/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

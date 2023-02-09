@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " C. B Carr"
-permalink: /cbcarr
+permalink: /cbcarr/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

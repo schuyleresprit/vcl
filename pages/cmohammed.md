@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Celeste Mohammed"
-permalink: /cmohammed
+permalink: /cmohammed/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

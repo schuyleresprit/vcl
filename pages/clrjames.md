@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "C. L. R. James"
-permalink: /clrjames
+permalink: /clrjames/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

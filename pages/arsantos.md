@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alaí Reyes-Santos"
-permalink: /arsantos
+permalink: /arsantos/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

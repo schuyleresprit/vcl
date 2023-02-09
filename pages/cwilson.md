@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cynthia Wilson"
-permalink: /cwilson
+permalink: /cwilson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

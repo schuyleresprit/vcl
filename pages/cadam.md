@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Claire Adam"
-permalink: /cadam
+permalink: /cadam/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

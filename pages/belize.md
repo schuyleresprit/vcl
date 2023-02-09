@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Belize"
-permalink: /33
+permalink: /33/
 ---
 <div class="container-0">
     <div class="container-title">

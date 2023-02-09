@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Donna Every"
-permalink: /devery
+permalink: /devery/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

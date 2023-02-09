@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Albert Maria Gomes"
-permalink: /amgomes
+permalink: /amgomes/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

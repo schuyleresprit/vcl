@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Arthur Lemiere Hendriks"
-permalink: /alhendriks
+permalink: /alhendriks/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

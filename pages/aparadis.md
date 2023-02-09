@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "André Paradis"
-permalink: /aparadis
+permalink: /aparadis/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

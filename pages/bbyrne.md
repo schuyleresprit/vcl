@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Bonifacio Byrne"
-permalink: /bbyrne
+permalink: /bbyrne/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

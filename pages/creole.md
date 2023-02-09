@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creole
-permalink: /creole
+permalink: /creole/
 ---
 <div class="individual_language">
 <div class="background">

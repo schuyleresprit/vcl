@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Dany Laferrière"
-permalink: /dlaferriere
+permalink: /dlaferriere/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

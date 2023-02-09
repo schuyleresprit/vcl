@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Bermuda"
-permalink: /51
+permalink: /51/
 ---
 <div class="container-0">
     <div class="container-title">

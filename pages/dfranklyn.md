@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "David Franklyn"
-permalink: /dfranklyn
+permalink: /dfranklyn/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

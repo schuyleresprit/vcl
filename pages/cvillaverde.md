@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cirilo Villaverde"
-permalink: /cvillaverde
+permalink: /cvillaverde/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

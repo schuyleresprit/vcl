@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Captain Anthony Parsons"
-permalink: /caparsons
+permalink: /caparsons/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

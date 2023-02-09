@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Chelsea Lugay"
-permalink: /chelseareflect
+permalink: /chelseareflect/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

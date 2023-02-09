@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Anonymous"
-permalink: /anonymous
+permalink: /anonymous/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Anais Segalas"
-permalink: /asegalas
+permalink: /asegalas/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

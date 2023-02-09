@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Colville N Young"
-permalink: /cnyoung
+permalink: /cnyoung/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

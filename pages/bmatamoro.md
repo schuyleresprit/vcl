@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Blas Matamoro"
-permalink: /bmatamoro
+permalink: /bmatamoro/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cyril V Briggs"
-permalink: /cvbriggs
+permalink: /cvbriggs/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

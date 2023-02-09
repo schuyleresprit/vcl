@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cola Debrot"
-permalink: /cdebrot
+permalink: /cdebrot/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

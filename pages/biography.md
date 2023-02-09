@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Biography
-permalink: /biography
+permalink: /biography/
 ---

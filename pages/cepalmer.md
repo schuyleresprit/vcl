@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cyril Everard Palmer"
-permalink: /cepalmer
+permalink: /cepalmer/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

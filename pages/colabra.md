@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Carilda Oliver Labra"
-permalink: /colabra
+permalink: /colabra/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
