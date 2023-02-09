@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Nailah Folami Imoja"
-permalink: /nfimoja
+permalink: /nfimoja/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
