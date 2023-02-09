@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Simon Schama"
-permalink: /sschama
+permalink: /sschama/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
