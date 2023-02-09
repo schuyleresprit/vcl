@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Poems
-permalink: /poems
+permalink: /poems/
 ---
