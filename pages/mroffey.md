@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Monique Roffey"
-permalink: /mroffey
+permalink: /mroffey/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
