@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marlene Nourbese Phillip"
-permalink: /mnphillip
+permalink: /mnphillip/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
