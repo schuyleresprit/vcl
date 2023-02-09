@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dutch
-permalink: /dutch/
+permalink: /Dutch/
 ---
 <div class="individual_language">
 <div class="background">
