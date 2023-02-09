@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "St. Lucia"
-permalink: /16
+permalink: /16/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -225,4 +225,3 @@ permalink: /16
 
 
 <!-- partial -->
-
