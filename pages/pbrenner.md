@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Philip Brenner"
-permalink: /pbrenner
+permalink: /pbrenner/
 ---
 <div class="content">
     <h1>Philip Brenner</h1>
