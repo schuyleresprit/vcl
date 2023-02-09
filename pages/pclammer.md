@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Paul Clammer"
-permalink: /pclammer
+permalink: /pclammer/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
