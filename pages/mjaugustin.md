@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marie-Joséphine Augustin"
-permalink: /mjaugustin
+permalink: /mjaugustin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
