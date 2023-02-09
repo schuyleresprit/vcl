@@ -17,7 +17,7 @@ permalink: /mfolmos/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Margarite Fernández Olmos is from the <a href="http://localhost:4000/1"> United States.</a></p></div>
+            <div class="aclocation"><p>Margarite Fernández Olmos is from the <a href="{{ site.baseurl }}/1"> United States.</a></p></div>
               <div class="acreadmore">  <a href="https://ht.wikipedia.org/wiki/Margarite_Fern%C3%A1ndez_Olmos" target="_blank">Read more</a></div>
             </div>
             </div>

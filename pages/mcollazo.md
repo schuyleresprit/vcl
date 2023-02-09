@@ -17,7 +17,7 @@ permalink: /mcollazo/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Miguel Collazo is from <a href="http://localhost:4000/14">Cuba.</a></p></div>
+            <div class="aclocation"><p>Miguel Collazo is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
                 <div class="acreadmore"><a href="https://es.wikipedia.org/wiki/Miguel_Collazo" target="_blank">Read more</a></div>
             </div>
             </div>

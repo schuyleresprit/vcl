@@ -17,7 +17,7 @@ permalink: /mfpintado/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation">      <p> Mylene Fernández Pintado is from <a href="http://localhost:4000/14"> Cuba.</a></p></div>
+            <div class="aclocation">      <p> Mylene Fernández Pintado is from <a href="{{ site.baseurl }}/14"> Cuba.</a></p></div>
                   <div class="acreadmore"><a href="https://es.wikipedia.org/wiki/Mylene_Fern%C3%A1ndez_Pintado" target="_blank">Read more</a></div>
             </div>
             </div>
