@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Timothée Paret"
-permalink: /tparet
+permalink: /tparet/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
