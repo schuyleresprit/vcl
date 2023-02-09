@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "René Maran"
-permalink: /rmaran
+permalink: /rmaran/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
