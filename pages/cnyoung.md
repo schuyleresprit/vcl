@@ -17,7 +17,7 @@ permalink: /cnyoung/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p> Colville N Young is from <a href="http://localhost:4000/33"> Belize.</a></p></div>
+          <div class="aclocation">  <p> Colville N Young is from <a href="{{ site.baseurl }}/33"> Belize.</a></p></div>
               <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Colville_Young" target="_blank">Read more</a> </div>
             </div>
             </div>
