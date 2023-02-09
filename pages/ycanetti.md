@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Yanitzia Canetti"
-permalink: /ycanetti
+permalink: /ycanetti/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
