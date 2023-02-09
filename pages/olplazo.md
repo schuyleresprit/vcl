@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Orlando Luis Pardo Lazo"
-permalink: /olplazo
+permalink: /olplazo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
