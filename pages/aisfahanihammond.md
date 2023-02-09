@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alexandra Isfahani-Hammond"
-permalink: /aisfahanihammond
+permalink: /aisfahanihammond/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

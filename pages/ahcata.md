@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alfonso Hernández Catá"
-permalink: /ahcata
+permalink: /ahcata/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

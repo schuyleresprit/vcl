@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Adisa Andwele"
-permalink: /aandwele
+permalink: /aandwele/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

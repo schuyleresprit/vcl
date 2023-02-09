@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Augustus C. Sinclair"
-permalink: /acsinclair
+permalink: /acsinclair/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

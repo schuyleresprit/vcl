@@ -24,12 +24,15 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-relative-links
+ 
 
 # Google Analytics Tracking (optional)
 ga_tracking:
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 permalink: pretty
+
+
 exclude:
   [
     "node_modules/",

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Anthony C. Winkler"
-permalink: /acwinkler
+permalink: /acwinkler/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

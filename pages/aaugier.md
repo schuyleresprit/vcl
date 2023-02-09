@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ángel Augier"
-permalink: /aaugier
+permalink: /aaugier/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

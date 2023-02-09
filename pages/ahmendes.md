@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alfred Hubert Mendes"
-permalink: /ahmendes
+permalink: /ahmendes/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

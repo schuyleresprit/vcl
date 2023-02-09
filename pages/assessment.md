@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Assessment"
-permalink: /assessment
+permalink: /assessment/
 ---
 <div class="page_title"><h3>The Assignment </h3> </div>
 

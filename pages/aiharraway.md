@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alicia Ikida Harraway"
-permalink: /aiharraway
+permalink: /aiharraway/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

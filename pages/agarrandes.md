@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alberto Garrandés"
-permalink: /agarrandés
+permalink: /agarrandés/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

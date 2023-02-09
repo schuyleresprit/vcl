@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Andrea Levy"
-permalink: /alevy
+permalink: /alevy/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "A. Halcrow"
-permalink: /ahalcrow
+permalink: /ahalcrow/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
