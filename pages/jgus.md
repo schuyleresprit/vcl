@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "AUTHOR NAME"
-permalink: /AUTHORID
+permalink: /jgus/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
