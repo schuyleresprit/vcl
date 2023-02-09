@@ -17,7 +17,7 @@ permalink: /cwilson/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation">   <p> Cynthia Wilson is from <a href="http://localhost:4000/12"> Barbados.</a></p></div>
+            <div class="aclocation">   <p> Cynthia Wilson is from <a href="{{ site.baseurl }}/12"> Barbados.</a></p></div>
                   <div class="acreadmore"> <a href="https://en.wikipedia.org/wiki/Cynthia_Wilson">Read more</a></div>
             </div>
             </div>
