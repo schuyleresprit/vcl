@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Fernando José Barcena Orbe"
-permalink: /fjborbe
+permalink: /fjborbe/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

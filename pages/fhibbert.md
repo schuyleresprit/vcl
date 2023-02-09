@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Fernand Hibbert"
-permalink: /fhibbert
+permalink: /fhibbert/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

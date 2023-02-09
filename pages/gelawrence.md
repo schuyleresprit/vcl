@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "George E. Lawrence"
-permalink: /gelawrence
+permalink: /gelawrence/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

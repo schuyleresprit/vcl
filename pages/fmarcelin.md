@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Frédéric Marcelin"
-permalink: /fmarcelin
+permalink: /fmarcelin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

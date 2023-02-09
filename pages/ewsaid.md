@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Edward W. Said"
-permalink: /ewsaid
+permalink: /ewsaid/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

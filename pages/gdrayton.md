@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Geoffrey Drayton"
-permalink: /gdrayton
+permalink: /gdrayton/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

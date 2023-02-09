@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Elizabeth Walcott-Hackshaw"
-permalink: /ewalcotthackshaw
+permalink: /ewalcotthackshaw/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

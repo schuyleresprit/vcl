@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Eden Phillpotts"
-permalink: /ephillpotts
+permalink: /ephillpotts/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

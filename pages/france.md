@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "France"
-permalink: /17
+permalink: /17/
 ---
 <div class="container-0">
     <div class="container-title">

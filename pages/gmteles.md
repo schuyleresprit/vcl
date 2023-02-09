@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Gilberto Mendonça Teles"
-permalink: /gmteles
+permalink: /gmteles/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

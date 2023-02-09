@@ -1,7 +1,7 @@
 ---
 layout: default
 title: French
-permalink: /french
+permalink: /french/
 ---
 
 <div class="individual_language">

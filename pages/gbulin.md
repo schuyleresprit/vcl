@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Gérard Bulin"
-permalink: /gbulin
+permalink: /gbulin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Elina Valovirta"
-permalink: /evalovirta
+permalink: /evalovirta/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

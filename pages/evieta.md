@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ezequiel Vieta"
-permalink: /evieta
+permalink: /evieta/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

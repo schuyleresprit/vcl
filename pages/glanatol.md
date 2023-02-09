@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Giselle Liza Anatol"
-permalink: /glanatol
+permalink: /glanatol/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

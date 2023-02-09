@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Genres"
-permalink: /Genres
+permalink: /Genres/
 ---
 <div class="page_title"><h3>Genres</h3></div>
 

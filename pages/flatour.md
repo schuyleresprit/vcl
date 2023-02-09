@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Francie Latour"
-permalink: /flatour
+permalink: /flatour/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

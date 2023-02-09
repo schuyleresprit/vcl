@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Georges Mauvois"
-permalink: /gmauvois
+permalink: /gmauvois/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -22,7 +22,7 @@ permalink: /gmauvois
             </div>
             </div>
         </div>
-        <div class="block"> 
+        <div class="block">
             <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
             <div class="right">

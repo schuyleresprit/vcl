@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Francis Carco"
-permalink: /fcarco
+permalink: /fcarco/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

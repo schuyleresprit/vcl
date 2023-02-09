@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Eintou Pearl Springer"
-permalink: /epspringer
+permalink: /epspringer/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

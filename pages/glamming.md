@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "George Lamming"
-permalink: /glamming
+permalink: /glamming/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

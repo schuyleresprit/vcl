@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Guillermo Cabrera Infante"
-permalink: /gcinfante
+permalink: /gcinfante/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Frits Wols"
-permalink: /fwols
+permalink: /fwols/
 ---
 <div class="content">
     <h1>Frits Wols</h1>
