@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "United States"
-permalink: /1
+permalink: /1/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -255,7 +255,7 @@ permalink: /1
        </a>
      </div>
    </div>
- </div> 
+ </div>
 
  <div id="post-14" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
@@ -272,7 +272,7 @@ permalink: /1
        </a>
      </div>
    </div>
- </div> 
+ </div>
 
   <div id="post-15" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
@@ -289,7 +289,7 @@ permalink: /1
        </a>
      </div>
    </div>
- </div> 
+ </div>
 
   <div id="post-16" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
@@ -306,7 +306,7 @@ permalink: /1
        </a>
      </div>
    </div>
- </div> 
+ </div>
 
 
 
