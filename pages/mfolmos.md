@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Margarite Fernández Olmos"
-permalink: /mfolmos
+permalink: /mfolmos/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
