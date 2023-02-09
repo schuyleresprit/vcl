@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Tami Charles"
-permalink: /tcharles
+permalink: /tcharles/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
