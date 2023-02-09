@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roxane Gay"
-permalink: /rgay
+permalink: /rgay/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
