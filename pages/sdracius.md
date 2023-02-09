@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Suzanne Dracius"
-permalink: /sdracius
+permalink: /sdracius/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
