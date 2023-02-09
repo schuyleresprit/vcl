@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Persephone Braham"
-permalink: /pbraham
+permalink: /pbraham/
 ---
 <div class="content">
     <h1>Persephone Braham</h1>
