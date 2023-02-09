@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Maude Heurtelou"
-permalink: /mheurtelou
+permalink: /mheurtelou/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
