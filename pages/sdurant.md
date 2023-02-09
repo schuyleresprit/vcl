@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Suzanne Durant"
-permalink: /sdurant
+permalink: /sdurant/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
