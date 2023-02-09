@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mark McWatt"
-permalink: /mmcwatt
+permalink: /mmcwatt/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
