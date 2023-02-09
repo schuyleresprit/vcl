@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Victor Stafford Reid"
-permalink: /vsreid
+permalink: /vsreid/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
