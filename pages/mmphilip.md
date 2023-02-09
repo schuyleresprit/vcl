@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Michel Maxwell Philip"
-permalink: /mmphilip
+permalink: /mmphilip/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
