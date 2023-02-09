@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Queen Macoomeh"
-permalink: /qmacoomeh
+permalink: /qmacoomeh/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

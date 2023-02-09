@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Peekash Press"
-permalink: /ppress
+permalink: /ppress/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Suriname"
-permalink: /43
+permalink: /43/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -46,5 +46,5 @@ permalink: /43
      </div>
    </div>
  </div>
-    
+
 <!-- partial -->

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Pompée Valentin Vastey"
-permalink: /pvalentinvastey
+permalink: /pvalentinvastey/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

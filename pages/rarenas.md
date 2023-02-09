@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Reinaldo Arenas"
-permalink: /rarenas
+permalink: /rarenas/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

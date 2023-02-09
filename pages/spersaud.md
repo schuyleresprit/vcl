@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Sasenarine Persaud"
-permalink: /spersaud
+permalink: /spersaud/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

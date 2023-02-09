@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roy Namba"
-permalink: /rnamba
+permalink: /rnamba/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

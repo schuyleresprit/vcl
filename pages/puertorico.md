@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Puerto Rico"
-permalink: /37
+permalink: /37/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -78,6 +78,6 @@ permalink: /37
      </div>
    </div>
  </div>
-    
-    
+
+
 <!-- partial -->

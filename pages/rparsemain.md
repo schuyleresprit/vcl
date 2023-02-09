@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roger Parsemain"
-permalink: /rparsemain
+permalink: /rparsemain/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

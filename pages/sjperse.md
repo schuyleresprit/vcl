@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Saint-John Perse"
-permalink: /sjperse
+permalink: /sjperse/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

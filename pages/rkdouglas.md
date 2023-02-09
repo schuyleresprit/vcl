@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Richardo Keens-Douglas"
-permalink: /rkdouglas
+permalink: /rkdouglas/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

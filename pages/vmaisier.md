@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Véronique Maisier"
-permalink: /vmaisier
+permalink: /vmaisier/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

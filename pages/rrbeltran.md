@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Rafael Rodríguez Beltrán"
-permalink: /rrbeltran
+permalink: /rrbeltran/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Renée Clémentine Lucien"
-permalink: /rclucien
+permalink: /rclucien/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

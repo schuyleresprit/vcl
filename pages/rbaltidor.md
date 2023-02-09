@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Raoul B. Altidor"
-permalink: /rbaltidor
+permalink: /rbaltidor/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

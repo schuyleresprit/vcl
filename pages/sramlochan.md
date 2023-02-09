@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Shivanee Ramlochan"
-permalink: /sramlochan
+permalink: /sramlochan/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

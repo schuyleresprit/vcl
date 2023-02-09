@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Vanessa Riley"
-permalink: /vriley
+permalink: /vriley/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

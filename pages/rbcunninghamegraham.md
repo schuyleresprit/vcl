@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "R.B Cunninghame-Graham"
-permalink: /rbcunninghamegraham
+permalink: /rbcunninghamegraham/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

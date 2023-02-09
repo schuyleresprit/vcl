@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "R. A. Pinder"
-permalink: /rapinder
+permalink: /rapinder/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

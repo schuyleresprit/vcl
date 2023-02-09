@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Sylvia Wynter"
-permalink: /swynter
+permalink: /swynter/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

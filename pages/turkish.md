@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Turkish
-permalink: /Turkish
+permalink: /Turkish/
 ---
 
 <div class="individual_language">

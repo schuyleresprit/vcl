@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Trinidad & Tobago"
-permalink: /3
+permalink: /3/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -641,7 +641,7 @@ permalink: /3
     <div id="post-39" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://globalvoices.org/wp-content/uploads/2020/12/Marina-Headshot-400x600.jpg" width="60%"> 
+          <img src="https://globalvoices.org/wp-content/uploads/2020/12/Marina-Headshot-400x600.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -777,7 +777,7 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mpbartonromeo">Michelle Paula Barton-Romeo</a></h4> 
+            <h4><a href="/mpbartonromeo">Michelle Paula Barton-Romeo</a></h4>
           </a>
         </div>
       </div>
@@ -793,7 +793,7 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mjames">Michaellee James</a></h4> 
+            <h4><a href="/mjames">Michaellee James</a></h4>
           </a>
         </div>
       </div>
@@ -809,7 +809,7 @@ permalink: /3
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mroffey">Monique Roffey</a></h4> 
+            <h4><a href="/mroffey">Monique Roffey</a></h4>
           </a>
         </div>
       </div>

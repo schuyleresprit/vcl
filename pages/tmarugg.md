@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Tip Marugg"
-permalink: /tmarugg
+permalink: /tmarugg/
 ---
 
 <!-- partial:index.partial.html -->

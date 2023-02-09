@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Rachel Afi Quinn"
-permalink: /raquinn
+permalink: /raquinn/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Raoul Pantin"
-permalink: /rpantin
+permalink: /rpantin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

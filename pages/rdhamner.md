@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Robert D Hamner"
-permalink: /rdhamner
+permalink: /rdhamner/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Velta J Clarke"
-permalink: /vjclarke
+permalink: /vjclarke/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

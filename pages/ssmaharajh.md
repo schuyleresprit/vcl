@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Shiva Shridath Maharajh"
-permalink: /ssmaharajh
+permalink: /ssmaharajh/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

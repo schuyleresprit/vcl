@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Umberto Valverde"
-permalink: /uvalverde
+permalink: /uvalverde/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

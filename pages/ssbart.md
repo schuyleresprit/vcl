@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Simone Schwarz-Bart"
-permalink: /ssbart
+permalink: /ssbart/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

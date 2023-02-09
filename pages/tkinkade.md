@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Thomas Kinkade"
-permalink: /tkinkade
+permalink: /tkinkade/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

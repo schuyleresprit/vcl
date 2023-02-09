@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Vigil Diaz"
-permalink: /vdiaz
+permalink: /vdiaz/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -49,4 +49,3 @@ permalink: /vdiaz
                 Length: 356<br/>                   </p>
             </div>
         </div>
-   

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roopnandan Singh"
-permalink: /rsingh
+permalink: /rsingh/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Process"
-permalink: /process
+permalink: /process/
 ---
 <div class="page_title"><h3>The Process</h3></div>
 

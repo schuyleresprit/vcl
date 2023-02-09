@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Stephen A. Dantes"
-permalink: /sadantes
+permalink: /sadantes/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -82,7 +82,7 @@ permalink: /sadantes
                 </p>
             </div>
         </div>
-        <div class="block">A	
+        <div class="block">A
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -192,4 +192,3 @@ permalink: /sadantes
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-

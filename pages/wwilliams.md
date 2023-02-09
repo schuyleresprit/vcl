@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Wallace Williams"
-permalink: /wwilliams
+permalink: /wwilliams/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

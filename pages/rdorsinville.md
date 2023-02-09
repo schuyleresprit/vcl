@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roger Dorsinville"
-permalink: /rdorsinville
+permalink: /rdorsinville/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

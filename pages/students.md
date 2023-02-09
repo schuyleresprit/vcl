@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: Student Projects
-permalink: /students
+permalink: /students/
 ---
 <div class="page_title"><h3>Student Projects</h3></div>
 

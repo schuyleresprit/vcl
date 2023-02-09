@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Rooplall Monar"
-permalink: /rmonar
+permalink: /rmonar/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

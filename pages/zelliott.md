@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Zetta Elliott"
-permalink: /zelliott
+permalink: /zelliott/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

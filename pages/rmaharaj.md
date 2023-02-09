@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Rabindranath Maharaj"
-permalink: /rmaharaj
+permalink: /rmaharaj/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

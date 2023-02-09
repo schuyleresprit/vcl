@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roberto Valero"
-permalink: /rvalero
+permalink: /rvalero/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

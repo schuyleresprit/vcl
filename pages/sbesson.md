@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Sherwyn Besson"
-permalink: /sbesson
+permalink: /sbesson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

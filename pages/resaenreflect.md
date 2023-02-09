@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Resaen Stoute"
-permalink: /resaenreflect
+permalink: /resaenreflect/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

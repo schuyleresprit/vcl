@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "William P Barron"
-permalink: /wbarron
+permalink: /wbarron/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

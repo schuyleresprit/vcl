@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Vanessa Spence"
-permalink: /vspence
+permalink: /vspence/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "William Loehfelm"
-permalink: /wloehfelm
+permalink: /wloehfelm/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

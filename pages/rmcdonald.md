@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Robert McDonald"
-permalink: /rmcdonald
+permalink: /rmcdonald/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

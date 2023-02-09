@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "St. Vincent and the Grenadines"
-permalink: /42
+permalink: /42/
 ---
 <div class="container-0">
     <div class="container-title">

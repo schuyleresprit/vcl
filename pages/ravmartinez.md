@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ramon Antonio Victoriano-Martinez"
-permalink: /ravmartinez
+permalink: /ravmartinez/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

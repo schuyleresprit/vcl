@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Phyllis Shand Allfrey"
-permalink: /psallfrey
+permalink: /psallfrey/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -93,7 +93,7 @@ permalink: /psallfrey
                </p>
             </div>
         </div>
- 
+
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
