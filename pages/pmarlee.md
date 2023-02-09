@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Paul Marlee "
-permalink: /pmarlee
+permalink: /pmarlee/
 ---
 <div class="content">
     <h1>Paul Marlee</h1>
