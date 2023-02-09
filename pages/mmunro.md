@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Martin Munro"
-permalink: /mmunro
+permalink: /mmunro/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
