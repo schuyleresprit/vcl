@@ -38,7 +38,7 @@
                 opacity: 1,
                 fillOpacity: 0.8
                 };
-            $.getJSON("data/countries.geojson", function (data) {
+            $.getJSON("{{ site.baseurl }}/data/countries.geojson", function (data) {
             var datalayer = L.geoJson(data, {
                 onEachFeature: function (feature, featureLayer) {
                     featureLayer.bindPopup(`<a href="/${feature.properties.ObjectId}">${feature.properties.Author_Country}</a>`);
