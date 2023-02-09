@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Arabic
-permalink: /arabic/
+permalink: /Arabic/
 ---
 <div class="individual_language">
 <div class="background">
