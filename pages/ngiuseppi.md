@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Neville Giuseppi"
-permalink: /ngiuseppi
+permalink: /ngiuseppi/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
