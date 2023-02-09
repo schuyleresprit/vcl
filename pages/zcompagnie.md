@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Zoukouyanyan Compagnie"
-permalink: /zcompagnie
+permalink: /zcompagnie/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
