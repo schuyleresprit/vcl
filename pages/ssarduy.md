@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Severo Sarduy"
-permalink: /ssarduy
+permalink: /ssarduy/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
