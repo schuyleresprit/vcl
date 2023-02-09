@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Sabrina Costanzo"
-permalink: /scostanzo
+permalink: /scostanzo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
