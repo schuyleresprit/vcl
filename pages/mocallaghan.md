@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marion O'Callaghan"
-permalink: /mocallaghan
+permalink: /mocallaghan/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
