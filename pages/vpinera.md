@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Virgilio Piñera"
-permalink: /vpinera
+permalink: /vpinera/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
