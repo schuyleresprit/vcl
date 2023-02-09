@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Manuel Fernández"
-permalink: /mfernandez
+permalink: /mfernandez/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
