@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Romanian
-permalink: /romanian/
+permalink: /Romanian/
 ---
