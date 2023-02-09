@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roderick Walcott"
-permalink: /rwalcott
+permalink: /rwalcott/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -37,4 +37,3 @@ permalink: /rwalcott
                 </p>
             </div>
         </div>
-        
