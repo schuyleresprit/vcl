@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Dominica"
-permalink: /10
+permalink: /10/
 ---
 <div class="container-0">
     <div class="container-title">

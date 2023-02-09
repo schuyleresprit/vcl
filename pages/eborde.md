@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Eulah Borde"
-permalink: /eborde
+permalink: /eborde/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

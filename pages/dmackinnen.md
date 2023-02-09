@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Daniel MacKinnen"
-permalink: /dmackinnen
+permalink: /dmackinnen/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Daniel Picouly"
-permalink: /dpicouly
+permalink: /dpicouly/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

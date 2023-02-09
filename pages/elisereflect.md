@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Élise Annaiel Valerie"
-permalink: /elisereflect
+permalink: /elisereflect/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

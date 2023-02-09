@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Derek Walcott"
-permalink: /dwalcott
+permalink: /dwalcott/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

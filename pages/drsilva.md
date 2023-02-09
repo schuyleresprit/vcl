@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Delfín Rodríguez Silva"
-permalink: /drsilva
+permalink: /drsilva/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

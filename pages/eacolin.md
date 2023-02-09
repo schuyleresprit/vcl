@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Emily A Colin"
-permalink: /eacolin
+permalink: /eacolin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

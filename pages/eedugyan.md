@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Esi Edugyan"
-permalink: /eedugyan
+permalink: /eedugyan/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
