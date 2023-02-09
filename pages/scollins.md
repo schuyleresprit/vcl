@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Sara Collins"
-permalink: /scollins
+permalink: /scollins/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
