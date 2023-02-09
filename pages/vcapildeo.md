@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Vahni Capildeo"
-permalink: /vcapildeo
+permalink: /vcapildeo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
