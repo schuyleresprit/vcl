@@ -17,7 +17,7 @@ permalink: /lncalvo/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Lino Novás Calvo is from <a href="http://localhost:4000/2"> Spain.</a></p></div>
+            <div class="aclocation"><p>Lino Novás Calvo is from <a href="{{ site.baseurl }}/2"> Spain.</a></p></div>
                 <div class="acreadmore"><a href="https://es.wikipedia.org/wiki/Lino_Nov%C3%A1s_Calvo" target="_blank">Read more</a></div>
             </div>
             </div>

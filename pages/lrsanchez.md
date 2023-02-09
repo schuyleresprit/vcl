@@ -17,7 +17,7 @@ permalink: /lrsanchez/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p> Luis Rafael Sánchez is from <a href="http://localhost:4000/37"> Puerto Rico.</a></p></div>
+          <div class="aclocation">  <p> Luis Rafael Sánchez is from <a href="{{ site.baseurl }}/37"> Puerto Rico.</a></p></div>
           <div class="acreadmore"> <a href="https://en.wikipedia.org/wiki/Luis_Rafael_S%C3%A1nchez" target="_blank">Read more</a></div>
             </div>
             </div>

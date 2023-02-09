@@ -17,7 +17,7 @@ permalink: /jsmartin/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Janelle S Martin is from <a href="http://localhost:4000/8">Martinique.</a></p> </div>
+          <div class="aclocation">  <p>Janelle S Martin is from <a href="{{ site.baseurl }}/8">Martinique.</a></p> </div>
               <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Évelyne_Trouillot" target="_blank">Read more</a></div>
             </div>
             </div>

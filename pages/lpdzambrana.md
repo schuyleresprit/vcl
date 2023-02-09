@@ -17,7 +17,7 @@ permalink: /lpdzambrana/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Luisa Pérez de Zambrana is from <a href="http://localhost:4000/62">Cuba.</a></p></div>
+          <div class="aclocation">  <p>Luisa Pérez de Zambrana is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Luisa_P%C3%A9rez_de_Zambrana" target="_blank">Read more</a></div>
             </div>
             </div>
