@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Robert Nazaire"
-permalink: /rnazaire
+permalink: /rnazaire/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
