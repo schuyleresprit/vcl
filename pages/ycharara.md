@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Youmna Charara"
-permalink: /ycharara
+permalink: /ycharara/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
