@@ -38,7 +38,7 @@
                 opacity: 1,
                 fillOpacity: 0.8
                 };
-            $.getJSON("data/publocation.geojson", function (data) {
+            $.getJSON("{{ site.baseurl }}/data/publocation.geojson", function (data) {
            var datalayer = L.geoJson(data, {
                onEachFeature: function (feature, featureLayer) {
                    featureLayer.bindPopup('Location: ' + feature.properties.Pub_Location + '<br>' + 'Publisher: ' + feature.properties.Publisher + '<br>' + 'Title: ' + feature.properties.Title__Item_ + '<br>' + 'Date: ' + feature.properties.Date + '<br>' + 'Author: ' + feature.properties.Author + '<br>' + 'Author Country: ' + feature.properties.Author_Country_1 + '<br>' + 'Language: ' + feature.properties.Language_1);

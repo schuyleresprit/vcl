@@ -17,7 +17,7 @@ permalink: /aalexandre/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">   <p>Alfred Alexandre is from <a href="{{ site.baseurl }}/12">Martinique.</a></p></div>
+          <div class="aclocation">   <p>Alfred Alexandre is from <a href="http://localhost:4000/8">Martinique.</a></p></div>
                   <div class="acreadmore"><a href="NA" target="_blank">Read more</a></div>
             </div>
             </div>
@@ -44,7 +44,7 @@ permalink: /aalexandre/
                 <p><img src="https://m.media-amazon.com/images/I/51c+OGGTfNL._SX319_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Mémoire d'encrier<br/>
-                Pub_location: Montréal, QC, Canada<br/
+                Pub_location: Montréal, QC, Canada<br>
                 Genre: Fiction (Novel)<br/>
                 Length: 125</p>
             </div>
