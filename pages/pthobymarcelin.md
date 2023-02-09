@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Philippe Thoby-Marcelin"
-permalink: /pthobymarcelin
+permalink: /pthobymarcelin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
