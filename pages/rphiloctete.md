@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "René Philoctète"
-permalink: /rphiloctete
+permalink: /rphiloctete/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
