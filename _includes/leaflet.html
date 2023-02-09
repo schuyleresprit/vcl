@@ -41,7 +41,7 @@
             $.getJSON("{{ site.baseurl }}/data/countries.geojson", function (data) {
             var datalayer = L.geoJson(data, {
                 onEachFeature: function (feature, featureLayer) {
-                    featureLayer.bindPopup(`<a href="/${feature.properties.ObjectId}">${feature.properties.Author_Country}</a>`);
+                    featureLayer.bindPopup(`<a href="{{ site. baseurl }}/${feature.properties.ObjectId}">${feature.properties.Author_Country}</a>`);
                         },
                 pointToLayer: function (feature, latlng) {
                     return L.circleMarker(latlng, geojsonMarkerOptions);
