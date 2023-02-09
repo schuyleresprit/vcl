@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "O.R Dathorne"
-permalink: /ordathorne
+permalink: /ordathorne/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
