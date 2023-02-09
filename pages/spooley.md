@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Sarah Pooley"
-permalink: /spooley
+permalink: /spooley/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -35,4 +35,3 @@ permalink: /spooley
                 Length: 80<br/>                   </p>
             </div>
         </div>
-     
