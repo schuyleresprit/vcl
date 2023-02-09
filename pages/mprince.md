@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mary Prince"
-permalink: /mprince
+permalink: /mprince/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
