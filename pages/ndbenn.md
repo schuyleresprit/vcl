@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Nicole Dennis-Benn"
-permalink: /ndbenn
+permalink: /ndbenn/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
