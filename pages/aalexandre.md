@@ -44,7 +44,7 @@ permalink: /aalexandre/
                 <p><img src="https://m.media-amazon.com/images/I/51c+OGGTfNL._SX319_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Mémoire d'encrier<br/>
-                Pub_location: Montréal, QC, Canada<br/
+                Pub_location: Montréal, QC, Canada<br>
                 Genre: Fiction (Novel)<br/>
                 Length: 125</p>
             </div>
