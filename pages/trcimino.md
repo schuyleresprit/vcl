@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "T. Rafael Cimino"
-permalink: /trcimino
+permalink: /trcimino/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
