@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Credits"
-permalink: /Credits
+permalink: /Credits/
 ---
 <div class="page_title"><h3>Credits</h3></div>
 

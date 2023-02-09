@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cecil Browne"
-permalink: /cbrowne
+permalink: /cbrowne/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

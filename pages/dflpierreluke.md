@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "D.F. Les Pierre-Luke"
-permalink: /dflpierreluke
+permalink: /dflpierreluke/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alecia McKenzie"
-permalink: /amckenzie
+permalink: /amckenzie/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

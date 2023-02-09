@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Beverley Ormerod Noakes"
-permalink: /bonoakes
+permalink: /bonoakes/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

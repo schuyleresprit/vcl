@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Bonaire"
-permalink: /32
+permalink: /32/
 ---
 <div class="container-0">
     <div class="container-title">

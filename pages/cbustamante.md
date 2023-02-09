@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cecilia Bustamante"
-permalink: /cbustamante
+permalink: /cbustamante/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

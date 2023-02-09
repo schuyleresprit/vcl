@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Angèle Rawiri"
-permalink: /arawiri
+permalink: /arawiri/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

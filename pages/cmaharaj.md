@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Clement Maharaj"
-permalink: /cmaharaj
+permalink: /cmaharaj/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

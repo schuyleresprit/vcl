@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Callie Browning"
-permalink: /cbrowning
+permalink: /cbrowning/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

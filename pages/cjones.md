@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cherie Jones"
-permalink: /cjones
+permalink: /cjones/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Christian Werleigh"
-permalink: /cwerleigh
+permalink: /cwerleigh/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

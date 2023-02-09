@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Clément Richer"
-permalink: /cricher
+permalink: /cricher/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

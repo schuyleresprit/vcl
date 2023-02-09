@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cynthia Noel"
-permalink: /cnoel
+permalink: /cnoel/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

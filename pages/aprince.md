@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Althea Prince"
-permalink: /aprince
+permalink: /aprince/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

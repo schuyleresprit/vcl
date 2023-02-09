@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Carlos Loveira"
-permalink: /cloveira
+permalink: /cloveira/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

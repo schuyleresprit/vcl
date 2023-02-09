@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cynric R. Williams"
-permalink: /crwilliams
+permalink: /crwilliams/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

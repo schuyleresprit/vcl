@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Curaçao"
-permalink: /44
+permalink: /44/
 ---
 
 <div class="container-0">

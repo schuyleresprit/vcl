@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Danielle Legros Georges"
-permalink: /dlgeorges
+permalink: /dlgeorges/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

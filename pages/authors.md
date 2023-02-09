@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Authors"
-permalink: /authors
+permalink: /authors/
 ---
 
 <div class="page_title"><h3> Authors</h3></div>

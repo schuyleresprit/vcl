@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Bukka Rennie"
-permalink: /brennie
+permalink: /brennie/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

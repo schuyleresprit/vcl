@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ciannon Smart"
-permalink: /csmart
+permalink: /csmart/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

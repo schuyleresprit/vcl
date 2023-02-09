@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Arlette Minatchy-Bogat"
-permalink: /aminatchybogat
+permalink: /aminatchybogat/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

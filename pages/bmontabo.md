@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Bernard Montabo"
-permalink: /bmontabo
+permalink: /bmontabo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

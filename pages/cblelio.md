@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Chiara Bettelli Lelio"
-permalink: /cblelio
+permalink: /cblelio/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

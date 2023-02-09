@@ -1,7 +1,7 @@
 ---
 layout: defaultco
 title: "Countries"
-permalink: /Countries
+permalink: /Countries/
 ---
 
 <div class="page_title"><h3> Countries</h3></div>

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Anisah Sankar"
-permalink: /asankar
+permalink: /asankar/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

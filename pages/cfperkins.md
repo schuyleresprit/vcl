@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Cyrus Francis Perkins"
-permalink: /cfperkins
+permalink: /cfperkins/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

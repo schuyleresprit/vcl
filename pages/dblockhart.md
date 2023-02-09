@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Darrell B Lockhart"
-permalink: /dblockhart
+permalink: /dblockhart/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

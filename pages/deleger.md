@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Dimitry Elias Léger"
-permalink: /deleger
+permalink: /deleger/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

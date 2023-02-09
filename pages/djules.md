@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Didacus Jules"
-permalink: /djules
+permalink: /djules/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

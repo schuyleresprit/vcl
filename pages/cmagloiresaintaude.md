@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Clément Magloire-Saint-Aude"
-permalink: /cmagloiresaintaude
+permalink: /cmagloiresaintaude/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

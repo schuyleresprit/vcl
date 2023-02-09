@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Barbara Applin"
-permalink: /bapplin
+permalink: /bapplin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

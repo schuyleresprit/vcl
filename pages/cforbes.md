@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Curdella Forbes"
-permalink: /cforbes
+permalink: /cforbes/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

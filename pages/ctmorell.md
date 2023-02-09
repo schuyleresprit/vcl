@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Claribel Terré Morell"
-permalink: /ctmorell
+permalink: /ctmorell/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
