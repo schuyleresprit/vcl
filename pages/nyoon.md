@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Nicola Yoon"
-permalink: /nyoon
+permalink: /nyoon/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
