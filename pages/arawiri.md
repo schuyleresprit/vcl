@@ -17,7 +17,7 @@ permalink: /arawiri/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Angèle Rawiri is from <a href="http://localhost:4000/52">Gabon.</a></p></div>
+            <div class="aclocation"><p>Angèle Rawiri is from <a href="{{ site.baseurl }}/52">Gabon.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Ang%C3%A8le_Rawiri">Read more</a></div>
             </div>
             </div>
