@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Shiva Naipaul"
-permalink: /shnaipaul
+permalink: /shnaipaul/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
