@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Zee Edgell"
-permalink: /zedgell
+permalink: /zedgell/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
