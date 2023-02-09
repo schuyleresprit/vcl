@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Walter Adolphe Roberts"
-permalink: /waroberts
+permalink: /waroberts/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
