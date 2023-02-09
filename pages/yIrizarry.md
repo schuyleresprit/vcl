@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ylce Irizarry"
-permalink: /yIrizarry
+permalink: /yIrizarry/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
