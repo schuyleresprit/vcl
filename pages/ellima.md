@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Eloísa Lezama Lima"
-permalink: /ellima
+permalink: /ellima/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

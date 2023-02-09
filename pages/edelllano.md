@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Eduardo Del Llano"
-permalink: /edelllano
+permalink: /edelllano/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

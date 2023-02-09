@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Edwidge Danticat"
-permalink: /edanticat
+permalink: /edanticat/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

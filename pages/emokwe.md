@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Edouard Mokwe"
-permalink: /emokwe
+permalink: /emokwe/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

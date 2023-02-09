@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Errol Benjamin"
-permalink: /ebenjamin
+permalink: /ebenjamin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

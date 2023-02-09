@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Dean R Baldwin"
-permalink: /drbaldwin
+permalink: /drbaldwin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

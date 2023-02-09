@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Earl G Long"
-permalink: /eglong
+permalink: /eglong/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

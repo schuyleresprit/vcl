@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Donald W. Bleznick"
-permalink: /dwbleznick
+permalink: /dwbleznick/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Eliseo Diego"
-permalink: /ediego
+permalink: /ediego/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

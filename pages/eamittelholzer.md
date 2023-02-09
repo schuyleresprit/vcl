@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Edgar Austin Mittelholzer"
-permalink: /eamittelholzer
+permalink: /eamittelholzer/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

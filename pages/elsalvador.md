@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "El Salvador"
-permalink: /30
+permalink: /30/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -30,5 +30,5 @@ permalink: /30
      </div>
    </div>
  </div>
-   
+
 <!-- partial -->

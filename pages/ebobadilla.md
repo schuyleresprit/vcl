@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Emilio Bobadilla"
-permalink: /ebobadilla
+permalink: /ebobadilla/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "E. A. Tudorovskaya"
-permalink: /eatudorovskaya
+permalink: /eatudorovskaya/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

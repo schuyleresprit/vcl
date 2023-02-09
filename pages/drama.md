@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Drama
-permalink: /drama
+permalink: /drama/
 ---

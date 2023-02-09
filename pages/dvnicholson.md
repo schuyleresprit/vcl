@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Desmond V Nicholson"
-permalink: /dvnicholson
+permalink: /dvnicholson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Earl Lovelace"
-permalink: /elovelace
+permalink: /elovelace/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

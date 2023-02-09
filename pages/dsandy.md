@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Derry Sandy"
-permalink: /dsandy
+permalink: /dsandy/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

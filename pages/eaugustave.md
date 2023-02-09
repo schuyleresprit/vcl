@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Elsie Augustave"
-permalink: /eaugustave
+permalink: /eaugustave/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
