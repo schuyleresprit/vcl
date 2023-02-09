@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Trevor Chadee"
-permalink: /tchadee
+permalink: /tchadee/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
