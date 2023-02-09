@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "René Depestre"
-permalink: /rdepestre
+permalink: /rdepestre/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
