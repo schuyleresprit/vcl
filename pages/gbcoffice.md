@@ -17,7 +17,7 @@ permalink: /gbcoffice/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Great Britain Colonial Office is in <a href="http://localhost:4000/62">England.</a></p></div>
+          <div class="aclocation">  <p>Great Britain Colonial Office is in <a href="{{ site.baseurl }}/11">England.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Colonial_Office" target="_blank">Read more</a></div>
             </div>
             </div>

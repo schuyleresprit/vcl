@@ -16,7 +16,7 @@ permalink: /ewhyte/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Eddie Whyte is from the <a href="http://localhost:4000/63">British Virgin Islands.</a></p> </div>
+          <div class="aclocation">  <p>Eddie Whyte is from the <a href="{{ site.baseurl }}/63">British Virgin Islands.</a></p> </div>
               <div class="acreadmore">  <a href="#" target="_blank">Read more</a> </div>
             </div>
             </div>

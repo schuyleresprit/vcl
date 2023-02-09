@@ -17,7 +17,7 @@ permalink: /htrouillot/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">   <p> Henock Trouillot is from <a href="http://localhost:4000/5"> Haiti.</a></p></div>
+          <div class="aclocation">   <p> Henock Trouillot is from <a href="{{ site.baseurl }}/5"> Haiti.</a></p></div>
               <div class="acreadmore">  <a href="https://fr.wikipedia.org/wiki/Henock_Trouillot" target="_blank">Read more</a></div>
             </div>
             </div>
