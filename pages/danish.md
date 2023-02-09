@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Danish
-permalink: /danish/
+permalink: /Danish/
 ---
 
 <div class="individual_language">
