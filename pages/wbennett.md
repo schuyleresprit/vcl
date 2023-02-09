@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Wycliffe Bennett"
-permalink: /wbennett
+permalink: /wbennett/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
