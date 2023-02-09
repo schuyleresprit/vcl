@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Sékou Touré"
-permalink: /stoure
+permalink: /stoure/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
