@@ -17,7 +17,7 @@ permalink: /grohlehr/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Gordon Rohlehr is from <a href="http://localhost:4000/62">Guyana.</a></p></div>
+          <div class="aclocation">  <p>Gordon Rohlehr is from <a href="{{ site.baseurl }}/62">Guyana.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Gordon_Rohlehr" target="_blank">Read more</a></div>
             </div>
             </div>
