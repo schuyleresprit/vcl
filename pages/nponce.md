@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Néstor Ponce"
-permalink: /nponce
+permalink: /nponce/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
