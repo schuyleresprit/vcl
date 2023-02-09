@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Tiphanie Yanique"
-permalink: /tyanique
+permalink: /tyanique/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
