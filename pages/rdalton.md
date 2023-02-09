@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roque Dalton"
-permalink: /rdalton
+permalink: /rdalton/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
