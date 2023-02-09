@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Seepersad Naipaul"
-permalink: /snaipaul
+permalink: /snaipaul/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
