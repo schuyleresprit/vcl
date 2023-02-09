@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Paul Keens-Douglas"
-permalink: /pkeensdouglas
+permalink: /pkeensdouglas/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -152,7 +152,7 @@ permalink: /pkeensdouglas
                 <p><img src="https://i.scdn.co/image/ab67616d0000b273525c78b15b7083a45bafa1d7"></p>
                 <p>Language: English<br/>
                 Publisher: Keensdee Productions<br/>
-                Pub_location: Port of Spain, Trinidad & Tobago<br/></p> 
+                Pub_location: Port of Spain, Trinidad & Tobago<br/></p>
 		</div>
         </div>
         <div class="block">
