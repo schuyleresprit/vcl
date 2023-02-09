@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Timothy Callender"
-permalink: /tcallender
+permalink: /tcallender/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
