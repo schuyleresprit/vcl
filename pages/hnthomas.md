@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Hubert Nigel Thomas"
-permalink: /hnthomas
+permalink: /hnthomas/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

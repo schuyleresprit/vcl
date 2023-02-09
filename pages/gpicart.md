@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Gina Picart"
-permalink: /gpicart
+permalink: /gpicart/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

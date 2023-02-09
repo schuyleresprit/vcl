@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Harold Ramoutar"
-permalink: /hramoutar
+permalink: /hramoutar/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

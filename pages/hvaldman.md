@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Hayim Valdman"
-permalink: /hvaldman
+permalink: /hvaldman/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

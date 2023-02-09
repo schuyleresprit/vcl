@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ifeona Fulani"
-permalink: /ifulani
+permalink: /ifulani/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

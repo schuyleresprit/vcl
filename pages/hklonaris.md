@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Helen Klonaris"
-permalink: /hklonaris
+permalink: /hklonaris/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Harischandra Khemraj"
-permalink: /hkhemraj
+permalink: /hkhemraj/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

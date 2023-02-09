@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ivory Kelly"
-permalink: /ikelly
+permalink: /ikelly/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

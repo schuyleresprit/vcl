@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Instructions"
-permalink: /Instructions
+permalink: /Instructions/
 ---
 
 Testing...

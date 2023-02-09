@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "India"
-permalink: /40
+permalink: /40/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -32,7 +32,3 @@ permalink: /40
  </div>   
 
 <!-- partial -->
-
-
-
-

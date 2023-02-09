@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Japanese
-permalink: /japanese
+permalink: /japanese/
 ---

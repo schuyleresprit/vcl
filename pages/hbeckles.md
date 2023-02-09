@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Hilary Beckles"
-permalink: /hbeckles
+permalink: /hbeckles/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
