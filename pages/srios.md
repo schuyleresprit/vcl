@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Soleida Rios"
-permalink: /srios
+permalink: /srios/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
