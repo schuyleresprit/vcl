@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Nancy Morejón"
-permalink: /nmorejon
+permalink: /nmorejon/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
