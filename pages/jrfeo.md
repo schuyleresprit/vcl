@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jose Rodriguez Feo"
-permalink: /jrfeo
+permalink: /jrfeo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

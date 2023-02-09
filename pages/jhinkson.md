@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Joy Hinkson"
-permalink: /jhinkson
+permalink: /jhinkson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

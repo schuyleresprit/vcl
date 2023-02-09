@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Katia D. Ulysse"
-permalink: /kdulysse
+permalink: /kdulysse/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

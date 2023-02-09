@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "John Hearne"
-permalink: /jhearne
+permalink: /jhearne/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

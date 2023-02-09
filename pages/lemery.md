@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Llewellyn Emery"
-permalink: /lemery
+permalink: /lemery/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

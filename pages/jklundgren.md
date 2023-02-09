@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Julie K Lundgren"
-permalink: /jklundgren
+permalink: /jklundgren/
 ---
 <div class="content">
     <h1>Julie K Lundgren</h1>

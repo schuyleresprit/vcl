@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Kevyn Alan Arthur"
-permalink: /kaarthur
+permalink: /kaarthur/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

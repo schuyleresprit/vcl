@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Laurie Campbell-Hewitt"
-permalink: /lcampbellhewitt
+permalink: /lcampbellhewitt/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

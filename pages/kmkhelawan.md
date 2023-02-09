@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Kia Marie Khelawan"
-permalink: /kmkhelawan
+permalink: /kmkhelawan/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Justin Lhérisson"
-permalink: /jlherisson
+permalink: /jlherisson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Krystal A Sital"
-permalink: /kasital
+permalink: /kasital/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

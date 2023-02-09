@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lindsay Barrett"
-permalink: /lbarrett
+permalink: /lbarrett/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

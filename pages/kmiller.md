@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Kei Miller"
-permalink: /kmiller
+permalink: /kmiller/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

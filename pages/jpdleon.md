@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Juana Ponce de Leon"
-permalink: /jpdleon
+permalink: /jpdleon/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

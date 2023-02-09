@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Joseph Husband"
-permalink: /jhusband
+permalink: /jhusband/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

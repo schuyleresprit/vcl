@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "John Robert Lee"
-permalink: /jrlee
+permalink: /jrlee/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

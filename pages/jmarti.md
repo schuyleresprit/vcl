@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jose Martí"
-permalink: /jmarti
+permalink: /jmarti/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

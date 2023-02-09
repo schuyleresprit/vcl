@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Julio Ortega"
-permalink: /jortega
+permalink: /jortega/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
