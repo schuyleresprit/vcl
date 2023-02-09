@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Matthew James Chapman "
-permalink: /mchapman
+permalink: /mchapman/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

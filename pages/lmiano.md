@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Léonora Miano"
-permalink: /lmiano
+permalink: /lmiano/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

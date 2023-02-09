@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marilyn Bobes León"
-permalink: /mbleón
+permalink: /mbleón/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

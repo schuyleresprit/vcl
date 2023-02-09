@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lucía López Coll"
-permalink: /llcoll
+permalink: /llcoll/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

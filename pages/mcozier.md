@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Michael Cozier"
-permalink: /mcozier
+permalink: /mcozier/
 ---
 
 <div class="content">

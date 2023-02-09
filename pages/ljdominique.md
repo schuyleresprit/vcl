@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lyndon J. Dominique"
-permalink: /ljdominique
+permalink: /ljdominique/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

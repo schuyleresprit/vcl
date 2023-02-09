@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marie Arnold"
-permalink: /marnold
+permalink: /marnold/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

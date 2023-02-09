@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lino Novás Calvo"
-permalink: /lncalvo
+permalink: /lncalvo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

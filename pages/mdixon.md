@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "McDonald Dixon"
-permalink: /mdixon
+permalink: /mdixon/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lakshmi Persaud"
-permalink: /lpersaud
+permalink: /lpersaud/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

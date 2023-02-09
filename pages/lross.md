@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Leone Ross"
-permalink: /lross
+permalink: /lross/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

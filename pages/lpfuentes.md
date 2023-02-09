@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Leonardo Padura Fuentes"
-permalink: /lpfuentes
+permalink: /lpfuentes/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

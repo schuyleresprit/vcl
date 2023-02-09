@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Michael Aubertin"
-permalink: /maubertin
+permalink: /maubertin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

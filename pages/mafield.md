@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Michael Anthony Field"
-permalink: /mafield
+permalink: /mafield/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

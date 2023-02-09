@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Miguel de Cervantes Saavedra"
-permalink: /mdcervantessaavedra
+permalink: /mdcervantessaavedra/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

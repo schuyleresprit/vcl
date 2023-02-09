@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lyne-Marie Stanley"
-permalink: /lmstanley
+permalink: /lmstanley/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

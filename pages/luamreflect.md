@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Luam Stephenson"
-permalink: /luamreflect
+permalink: /luamreflect/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

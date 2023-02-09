@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marie Vieux Chauvet "
-permalink: /mvchauvet
+permalink: /mvchauvet/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

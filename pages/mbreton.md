@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Marcela Breton"
-permalink: /mbreton
+permalink: /mbreton/
 ---
 <div class="content">
     <h1> Marcela Breton</h1>

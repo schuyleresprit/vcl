@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mahadai Das"
-permalink: /mdas
+permalink: /mdas/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

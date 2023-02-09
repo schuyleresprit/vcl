@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Merle Collins"
-permalink: /mcollins
+permalink: /mcollins/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

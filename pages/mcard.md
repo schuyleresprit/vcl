@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Maisy Card"
-permalink: /mcard
+permalink: /mcard/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
