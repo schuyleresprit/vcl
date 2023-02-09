@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Machel Montano"
-permalink: /mmontano
+permalink: /mmontano/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
