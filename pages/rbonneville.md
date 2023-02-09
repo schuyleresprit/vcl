@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "René Bonneville"
-permalink: /rbonneville
+permalink: /rbonneville/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
