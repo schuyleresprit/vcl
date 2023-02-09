@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Pamela Mordecai"
-permalink: /pmordecai
+permalink: /pmordecai/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
