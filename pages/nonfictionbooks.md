@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Nonfiction Books
-permalink: /nonfictionbooks
+permalink: /nonfictionbooks/
 ---
