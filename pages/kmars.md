@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Kettly Mars"
-permalink: /kmars
+permalink: /kmars/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

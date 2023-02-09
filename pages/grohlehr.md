@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Gordon Rohlehr"
-permalink: /grohlehr
+permalink: /grohlehr/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

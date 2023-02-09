@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Great Britain Colonial Office"
-permalink: /gbcoffice
+permalink: /gbcoffice/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

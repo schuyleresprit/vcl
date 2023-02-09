@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Guillermo Rosales"
-permalink: /grosales
+permalink: /grosales/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Philip Lindsay"
-permalink: /plindsay
+permalink: /plindsay/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

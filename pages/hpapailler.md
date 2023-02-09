@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Hubert Papailler"
-permalink: /hpapailler
+permalink: /hpapailler/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

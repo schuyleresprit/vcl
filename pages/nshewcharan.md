@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Narmala Shewcharan"
-permalink: /nshewcharan
+permalink: /nshewcharan/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Naomi Jackson"
-permalink: /njackson
+permalink: /njackson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

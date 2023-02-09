@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "N. C. Marks"
-permalink: /ncmarks
+permalink: /ncmarks/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

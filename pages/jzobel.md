@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Joseph Zobel"
-permalink: /jzobel
+permalink: /jzobel/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

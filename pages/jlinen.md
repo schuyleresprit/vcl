@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "James Linen"
-permalink: /jlinen
+permalink: /jlinen/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

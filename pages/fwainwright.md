@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Frantz Wainwright"
-permalink: /fwainwright
+permalink: /fwainwright/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

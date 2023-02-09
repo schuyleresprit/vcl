@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Joanne C. Hillhouse"
-permalink: /jchillhouse
+permalink: /jchillhouse/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

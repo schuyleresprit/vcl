@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Eddie Vega"
-permalink: /evega
+permalink: /evega/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

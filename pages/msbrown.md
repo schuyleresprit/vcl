@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marina Salandy-Brown"
-permalink: /msbrown
+permalink: /msbrown/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

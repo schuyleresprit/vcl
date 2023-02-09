@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jean-Michel Lemaire"
-permalink: /jmlemaire
+permalink: /jmlemaire/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Joanne Skerrett"
-permalink: /jskerrett
+permalink: /jskerrett/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

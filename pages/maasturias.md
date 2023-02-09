@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Miguel Ángel Asturias"
-permalink: /maasturias
+permalink: /maasturias/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

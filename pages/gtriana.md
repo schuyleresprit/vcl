@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Gladys Triana"
-permalink: /gtriana
+permalink: /gtriana/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

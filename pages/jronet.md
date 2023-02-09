@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jorge Ronet"
-permalink: /jronet
+permalink: /jronet/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

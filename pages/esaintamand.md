@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Edris Saint-Amand"
-permalink: /esaintamand
+permalink: /esaintamand/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Martha Blanchard"
-permalink: /mblanchard
+permalink: /mblanchard/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

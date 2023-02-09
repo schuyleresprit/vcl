@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Haiti"
-permalink: /5
+permalink: /5/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -814,5 +814,5 @@ permalink: /5
                 </div>
               </div>
             </div>
-                        
+
 <!-- partial -->

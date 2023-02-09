@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Juan Francisco Manzano"
-permalink: /jfmanzano
+permalink: /jfmanzano/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

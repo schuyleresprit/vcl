@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "John Morris"
-permalink: /jmorris
+permalink: /jmorris/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -49,4 +49,3 @@ permalink: /jmorris
                 Length: 304 <br/>                   </p>
             </div>
         </div>
-      

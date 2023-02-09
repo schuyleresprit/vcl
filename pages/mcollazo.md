@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Miguel Collazo"
-permalink: /mcollazo
+permalink: /mcollazo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

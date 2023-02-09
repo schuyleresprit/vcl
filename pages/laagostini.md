@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lisa Allen-Agostini"
-permalink: /laagostini
+permalink: /laagostini/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

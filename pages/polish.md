@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Polish
-permalink: /polish
+permalink: /polish/
 ---

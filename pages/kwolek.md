@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Katia Wolek"
-permalink: /kwolek
+permalink: /kwolek/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

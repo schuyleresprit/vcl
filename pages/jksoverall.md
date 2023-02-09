@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jivan Kaur Soverall"
-permalink: /jksoverall
+permalink: /jksoverall/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

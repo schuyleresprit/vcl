@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Elma Napier"
-permalink: /enapier
+permalink: /enapier/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

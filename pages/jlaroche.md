@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jacques Laroche "
-permalink: /jlaroche
+permalink: /jlaroche/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

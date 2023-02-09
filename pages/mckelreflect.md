@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mckel Ferrol"
-permalink: /mckelreflect
+permalink: /mckelreflect/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

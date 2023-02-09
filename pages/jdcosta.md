@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jean D'Costa"
-permalink: /jdcosta
+permalink: /jdcosta/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ismith Khan"
-permalink: /ikhan
+permalink: /ikhan/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

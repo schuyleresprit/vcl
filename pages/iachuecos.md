@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Isabel Abellán Chuecos"
-permalink: /iachuecos
+permalink: /iachuecos/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

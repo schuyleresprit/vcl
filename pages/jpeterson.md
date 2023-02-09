@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Josie Peterson"
-permalink: /jpeterson
+permalink: /jpeterson/
 ---
 <div class="content">
     <h1>Josie Peterson</h1>

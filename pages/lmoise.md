@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lenelle Moïse"
-permalink: /lmoise
+permalink: /lmoise/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

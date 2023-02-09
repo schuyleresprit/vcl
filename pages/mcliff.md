@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Michelle Cliff"
-permalink: /mcliff
+permalink: /mcliff/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

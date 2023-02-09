@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ira Lunan Ferguson"
-permalink: /ilferguson
+permalink: /ilferguson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

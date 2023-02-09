@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marie-Magdeleine Carbet"
-permalink: /mmcarbet
+permalink: /mmcarbet/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

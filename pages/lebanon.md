@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Lebanon"
-permalink: /65
+permalink: /65/
 ---
 <div class="container-0">
     <div class="container-title">

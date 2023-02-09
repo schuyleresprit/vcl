@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Ireland"
-permalink: /39
+permalink: /39/
 ---
 <div class="container-0">
     <div class="container-title">

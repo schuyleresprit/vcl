@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "French Guiana"
-permalink: /28
+permalink: /28/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -46,6 +46,6 @@ permalink: /28
      </div>
    </div>
    </div>
-   
-  
+
+
 <!-- partial -->

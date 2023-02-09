@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Osvaldo García Goyco"
-permalink: /oggoyco
+permalink: /oggoyco/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

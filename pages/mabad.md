@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mercedes Abad"
-permalink: /mabad
+permalink: /mabad/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

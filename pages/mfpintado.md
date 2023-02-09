@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mylene Fernández Pintado"
-permalink: /mfpintado
+permalink: /mfpintado/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

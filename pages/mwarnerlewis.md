@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Maureen Warner-Lewis"
-permalink: /mwarnerlewis
+permalink: /mwarnerlewis/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

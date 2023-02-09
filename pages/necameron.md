@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Norman Eustace Cameron"
-permalink: /necameron
+permalink: /necameron/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

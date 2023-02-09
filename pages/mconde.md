@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Maryse Condé"
-permalink: /mconde
+permalink: /mconde/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

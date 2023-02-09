@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Petreine Archer"
-permalink: /parcher
+permalink: /parcher/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

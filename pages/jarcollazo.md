@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "José Antonio Ramos Collazo"
-permalink: /jarcollazo
+permalink: /jarcollazo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

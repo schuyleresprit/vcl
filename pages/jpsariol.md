@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "José Prats Sariol"
-permalink: /jpsariol
+permalink: /jpsariol/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

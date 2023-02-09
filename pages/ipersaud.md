@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ingrid Persaud"
-permalink: /ipersaud
+permalink: /ipersaud/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

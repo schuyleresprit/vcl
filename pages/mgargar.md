@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Michelle Gargar"
-permalink: /mgargar
+permalink: /mgargar/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

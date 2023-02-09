@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Martin Amis"
-permalink: /mamis
+permalink: /mamis/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

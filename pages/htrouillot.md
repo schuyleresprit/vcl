@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Henock Trouillot"
-permalink: /htrouillot
+permalink: /htrouillot/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

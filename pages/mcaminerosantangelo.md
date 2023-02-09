@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marta Caminero-Santangelo"
-permalink: /mcaminerosantangelo
+permalink: /mcaminerosantangelo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

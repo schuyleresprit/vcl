@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jan J Dominique"
-permalink: /jjdominique
+permalink: /jjdominique/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

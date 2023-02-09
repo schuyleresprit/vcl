@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Kevin Baldeosingh"
-permalink: /kbaldeosingh
+permalink: /kbaldeosingh/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

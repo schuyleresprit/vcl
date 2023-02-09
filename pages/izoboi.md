@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ibi Zoboi"
-permalink: /izoboi
+permalink: /izoboi/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Frank A. Collymore"
-permalink: /fcollymore
+permalink: /fcollymore/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

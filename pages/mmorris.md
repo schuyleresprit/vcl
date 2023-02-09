@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mervyn Morris"
-permalink: /mmorris
+permalink: /mmorris/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

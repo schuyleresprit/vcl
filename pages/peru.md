@@ -1,7 +1,7 @@
 ---
 layout: defaultauco
 title: "Peru"
-permalink: /6
+permalink: /6/
 ---
 <div class="container-0">
     <div class="container-title">
@@ -30,5 +30,5 @@ permalink: /6
         </div>
       </div>
     </div>
-    
+
 <!-- partial -->

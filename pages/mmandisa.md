@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mosi Mandisa"
-permalink: /mmandisa
+permalink: /mmandisa/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

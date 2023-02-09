@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Juan Carlos Nunez"
-permalink: /jcnunez
+permalink: /jcnunez/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

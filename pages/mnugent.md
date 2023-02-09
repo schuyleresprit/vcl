@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Maria Nugent"
-permalink: /mnugent
+permalink: /mnugent/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

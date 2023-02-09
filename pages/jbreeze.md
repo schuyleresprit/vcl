@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jean Breeze"
-permalink: /jbreeze
+permalink: /jbreeze/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

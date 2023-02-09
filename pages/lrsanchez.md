@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Luis Rafael Sánchez"
-permalink: /lrsanchez
+permalink: /lrsanchez/
 ---
 
 <div class="content">

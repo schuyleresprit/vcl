@@ -1,7 +1,7 @@
 ---
 layout: pagedefault
 title: "Languages"
-permalink: /Languages
+permalink: /Languages/
 ---
 <div class="page_title"><h3> Languages</h3></div>
 

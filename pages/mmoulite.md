@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Maika Moulite"
-permalink: /mmoulite
+permalink: /mmoulite/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

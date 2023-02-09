@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jamaica Kincaid"
-permalink: /jkincaid
+permalink: /jkincaid/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

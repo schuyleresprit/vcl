@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: ""
-permalink: /fmomplaisir
+permalink: /fmomplaisir/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

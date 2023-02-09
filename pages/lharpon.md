@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Louise Harpon"
-permalink: /lharpon
+permalink: /lharpon/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

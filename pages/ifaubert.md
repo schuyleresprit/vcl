@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Ida Faubert"
-permalink: /ifaubert
+permalink: /ifaubert/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Louis-Philippe Dalembert"
-permalink: /lpdalembert
+permalink: /lpdalembert/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

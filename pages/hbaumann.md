@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Hans Baumann"
-permalink: /hbaumann
+permalink: /hbaumann/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

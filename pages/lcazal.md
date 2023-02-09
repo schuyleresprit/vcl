@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Louison Cazal"
-permalink: /lcazal
+permalink: /lcazal/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

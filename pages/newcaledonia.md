@@ -1,7 +1,7 @@
 ---
-layout: defaultauco 
+layout: defaultauco
 title: "New Caledonia"
-permalink: /26
+permalink: /26/
 ---
 <div class="container-0">
     <div class="container-title">

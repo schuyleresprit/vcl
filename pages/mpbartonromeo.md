@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Michelle Paula Barton-Romeo"
-permalink: /mpbartonromeo
+permalink: /mpbartonromeo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

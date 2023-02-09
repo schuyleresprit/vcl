@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Juan Marinello"
-permalink: /jmarinello
+permalink: /jmarinello/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

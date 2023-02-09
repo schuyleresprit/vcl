@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Gisèle Pineau"
-permalink: /gpineau
+permalink: /gpineau/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " J. Ashton Brathwaite"
-permalink: /jabrathwaite
+permalink: /jabrathwaite/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

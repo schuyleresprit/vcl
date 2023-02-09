@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Frank Etienne"
-permalink: /fetienne
+permalink: /fetienne/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

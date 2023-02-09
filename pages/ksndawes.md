@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Kwame Senu Neville Dawes"
-permalink: /ksndawes
+permalink: /ksndawes/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Gwyneth Harold"
-permalink: /gharold
+permalink: /gharold/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

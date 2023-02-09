@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Olive Lewin"
-permalink: /olewin
+permalink: /olewin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

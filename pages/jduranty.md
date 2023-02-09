@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jude Duranty"
-permalink: /jduranty
+permalink: /jduranty/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

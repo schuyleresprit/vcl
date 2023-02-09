@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marcel Nérée"
-permalink: /mnérée
+permalink: /mnérée/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

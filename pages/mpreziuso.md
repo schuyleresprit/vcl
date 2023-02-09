@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marika Preziuso"
-permalink: /mpreziuso
+permalink: /mpreziuso/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

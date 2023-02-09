@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Janice Shinebourne"
-permalink: /jshinebourne
+permalink: /jshinebourne/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

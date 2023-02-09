@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "José Lezama Lima"
-permalink: /jllima
+permalink: /jllima/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Kathleen Drayton"
-permalink: /kdrayton
+permalink: /kdrayton/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

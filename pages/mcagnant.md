@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marie Célie Agnant"
-permalink: /mcagnant
+permalink: /mcagnant/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

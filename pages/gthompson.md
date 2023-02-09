@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Gregory Thompson"
-permalink: /gthompson
+permalink: /gthompson/
 ---
 
 <div class="content">

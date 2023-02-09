@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Eddie Whyte"
-permalink: /ewhyte
+permalink: /ewhyte/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

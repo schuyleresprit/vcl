@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Maria Roberts-Squires"
-permalink: /mrsquires
+permalink: /mrsquires/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

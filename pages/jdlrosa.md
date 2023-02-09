@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jonathan De La Rosa"
-permalink: /jdlrosa
+permalink: /jdlrosa/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

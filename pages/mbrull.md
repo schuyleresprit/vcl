@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mariano Brull"
-permalink: /mbrull
+permalink: /mbrull/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

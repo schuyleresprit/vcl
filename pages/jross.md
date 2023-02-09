@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jacob Ross"
-permalink: /jross
+permalink: /jross/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

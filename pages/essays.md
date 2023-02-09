@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Essays
-permalink: /essays
+permalink: /essays/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Edmond Lapompe-Paironne"
-permalink: /elpaironne
+permalink: /elpaironne/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

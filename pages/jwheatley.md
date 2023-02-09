@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jennie Wheatley"
-permalink: /jwheatley
+permalink: /jwheatley/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -70,4 +70,3 @@ permalink: /jwheatley
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-

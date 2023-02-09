@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Lowell Joseph Ragatz"
-permalink: /ljragatz
+permalink: /ljragatz/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

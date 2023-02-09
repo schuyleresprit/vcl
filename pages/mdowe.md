@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marion Dowe"
-permalink: /mdowe
+permalink: /mdowe/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

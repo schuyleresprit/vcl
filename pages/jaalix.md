@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Juan Antonio Alix"
-permalink: /jaalix
+permalink: /jaalix/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

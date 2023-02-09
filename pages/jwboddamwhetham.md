@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " J.W. Boddam-Whetham"
-permalink: /jwboddamwhetham
+permalink: /jwboddamwhetham/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

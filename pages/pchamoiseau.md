@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Patrick Chamoiseau"
-permalink: /pchamoiseau
+permalink: /pchamoiseau/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Judy Stone"
-permalink: /jstone
+permalink: /jstone/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

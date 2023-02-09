@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Elizabeth Nunez"
-permalink: /enunez
+permalink: /enunez/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

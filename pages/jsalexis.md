@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jacques Stephen Alexis"
-permalink: /jsalexis
+permalink: /jsalexis/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

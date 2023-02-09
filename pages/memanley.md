@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mara Etienne-Manley"
-permalink: /memanley
+permalink: /memanley/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Luisa Pérez de Zambrana"
-permalink: /lpdzambrana
+permalink: /lpdzambrana/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

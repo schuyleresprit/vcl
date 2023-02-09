@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jake Hugh Reece Wilson"
-permalink: /jhrwilson
+permalink: /jhrwilson/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

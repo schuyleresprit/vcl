@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marion Bethel"
-permalink: /mbethel
+permalink: /mbethel/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

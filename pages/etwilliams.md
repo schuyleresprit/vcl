@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Edison T Williams"
-permalink: /etwilliams
+permalink: /etwilliams/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

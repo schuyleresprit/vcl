@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Evelyne Trouillot"
-permalink: /etrouillot
+permalink: /etrouillot/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

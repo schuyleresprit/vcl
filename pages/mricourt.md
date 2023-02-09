@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Milagros Ricourt"
-permalink: /mricourt
+permalink: /mricourt/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

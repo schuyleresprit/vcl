@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Fabio Murrieta Rodríguez"
-permalink: /fmrodriguez
+permalink: /fmrodriguez/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

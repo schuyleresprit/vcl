@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Jacques Roumain"
-permalink: /jroumain
+permalink: /jroumain/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

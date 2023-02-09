@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Loknath Persaud"
-permalink: /lopersaud
+permalink: /lopersaud/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

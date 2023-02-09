@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Max A. Antoine"
-permalink: /maantoine
+permalink: /maantoine/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

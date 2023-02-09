@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "John M Kirk"
-permalink: /jmkirk
+permalink: /jmkirk/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

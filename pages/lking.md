@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Lloyd King"
-permalink: /lking
+permalink: /lking/
 ---
 <div class="content">
     <h1>Lloyd King</h1>

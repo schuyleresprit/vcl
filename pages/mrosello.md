@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mireille Rosello"
-permalink: /mrosello
+permalink: /mrosello/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

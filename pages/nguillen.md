@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Nicolás Guillén"
-permalink: /nguillen
+permalink: /nguillen/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Harold Sonny Ladoo"
-permalink: /hsladoo
+permalink: /hsladoo/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

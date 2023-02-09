@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Margarita Suero-Duran"
-permalink: /msduran
+permalink: /msduran/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

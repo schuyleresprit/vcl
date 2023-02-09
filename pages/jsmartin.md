@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Janelle S Martin"
-permalink: /jsmartin
+permalink: /jsmartin/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

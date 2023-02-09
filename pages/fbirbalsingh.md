@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Frank Birbalsingh"
-permalink: /fbirbalsingh
+permalink: /fbirbalsingh/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

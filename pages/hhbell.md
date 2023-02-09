@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Henry Hesketh Bell"
-permalink: /hhbell
+permalink: /hhbell/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
