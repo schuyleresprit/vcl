@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Sir Alexander Bannerman"
-permalink: /sabannerman
+permalink: /sabannerman/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
