@@ -28,8 +28,8 @@ Represented here are the authors who have written works in Autobiography/Memoir.
 	<script>
 		let datasets = [
 			{
-				"type" : "Autobiographymemoir",
-				"url" : "{{ site.baseurl }}/data/Autobiographymemoir.json"
+				"type" : "memoir",
+				"url" : "{{ site.baseurl }}/data/memoir.json"
 			}
 		];
 		var dataLinks = [];
