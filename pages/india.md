@@ -25,7 +25,7 @@ permalink: /40/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/ephillpotts">Eden Phillpotts</a></h4>
+         <h4><a href="{{ site.baseurl }}/ephillpotts/">Eden Phillpotts</a></h4>
        </a>
      </div>
    </div>
