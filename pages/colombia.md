@@ -25,7 +25,7 @@ permalink: /66/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mzolivella">Manuel Zapata Olivella</a></h4>
+            <h4><a href="{{ site.baseurl }}/mzolivella/">Manuel Zapata Olivella</a></h4>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: /66/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/uvalverde">Umberto Valverde</a></h4>
+            <h4><a href="{{ site.baseurl }}/uvalverde/">Umberto Valverde</a></h4>
           </a>
         </div>
       </div>

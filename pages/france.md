@@ -25,7 +25,7 @@ permalink: /17/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/bmagnier">Bernard Magnier</a></h4>
+          <h4><a href="{{ site.baseurl }}/bmagnier/">Bernard Magnier</a></h4>
         </a>
       </div>
     </div>
@@ -41,7 +41,7 @@ permalink: /17/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/hbell">Hesketh Bell</a></h4>
+         <h4><a href="{{ site.baseurl }}/hbell/">Hesketh Bell</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /17/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/gbulin">Gérard Bulin</a></h4>
+         <h4><a href="{{ site.baseurl }}/gbulin/">Gérard Bulin</a></h4>
        </a>
      </div>
    </div>
@@ -73,7 +73,7 @@ permalink: /17/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jhusband">Joseph Husband</a></h4>
+         <h4><a href="{{ site.baseurl }}/jhusband/">Joseph Husband</a></h4>
        </a>
      </div>
    </div>
@@ -89,7 +89,7 @@ permalink: /17/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/mnérée">Marcel Nérée</a></h4>
+          <h4><a href="{{ site.baseurl }}/mnérée/">Marcel Nérée</a></h4>
         </a>
       </div>
     </div>
@@ -105,7 +105,7 @@ permalink: /17/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/ssbart">Simone Schwarz-Bart</a></h4>
+         <h4><a href="{{ site.baseurl }}/ssbart/">Simone Schwarz-Bart</a></h4>
        </a>
      </div>
    </div>

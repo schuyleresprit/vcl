@@ -25,7 +25,7 @@ permalink: /28/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/lmstanley">Lyne-Marie Stanley</a></h4>
+            <h4><a href="{{ site.baseurl }}/lmstanley/">Lyne-Marie Stanley</a></h4>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: /28/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/zcompagnie">Zoukouyanyan Compagnie</a></h4>
+         <h4><a href="{{ site.baseurl }}/zcompagnie/">Zoukouyanyan Compagnie</a></h4>
        </a>
      </div>
    </div>
