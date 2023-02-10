@@ -17,7 +17,7 @@ permalink: /mocallaghan/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Marion O'Callaghan is from <a href="http://localhost:4000/62">Trinidad & Tobago.</a></p></div>
+          <div class="aclocation">  <p>Marion O'Callaghan is from <a href="{{ site.baseurl }}/3">Trinidad & Tobago.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Marion_Patrick_Jones" target="_blank">Read more</a></div>
             </div>
             </div>

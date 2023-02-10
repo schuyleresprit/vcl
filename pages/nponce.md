@@ -17,7 +17,7 @@ permalink: /nponce/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Néstor Ponce is from <a href="http://localhost:4000/62">Argentina.</a></p></div>
+          <div class="aclocation">  <p>Néstor Ponce is from <a href="{{ site.baseurl }}/45">Argentina.</a></p></div>
               <div class="acreadmore">  <a href="https://fr.wikipedia.org/wiki/Ponce_N%C3%A9stor" target="_blank">Read more</a></div>
             </div>
             </div>

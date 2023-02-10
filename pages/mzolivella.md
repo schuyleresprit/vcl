@@ -17,7 +17,7 @@ permalink: /mzolivella/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Manuel Zapata Olivella is from <a href="http://localhost:4000/66"> Colombia.</a></p></div>
+          <div class="aclocation">  <p>Manuel Zapata Olivella is from <a href="{{ site.baseurl }}/66"> Colombia.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Manuel_Zapata_Olivella" target="_blank">Read more</a></div>
             </div>
             </div>

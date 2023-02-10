@@ -17,7 +17,7 @@ permalink: /mprince/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Mary Prince is from <a href="http://localhost:4000/62">Bermuda.</a></p></div>
+          <div class="aclocation">  <p>Mary Prince is from <a href="{{ site.baseurl }}/51">Bermuda.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Mary_Prince" target="_blank">Read more</a></div>
             </div>
             </div>
