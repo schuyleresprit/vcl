@@ -53,18 +53,15 @@ Represented here are the authors who have written works in English. Some of thes
 					case "english":
 						for (key in data) {
 							temp.push({
-								"flavorText" : key, ["Title"],
-								"subtitle" : key, ["Author"],
+								"flavorText" : data[key]["Title"],
+								"subtitle" : data[key]["Author"],
 								"link" : key,
 							});
 						}
-						break;
-					default:
-						break;
-				}
-			});
 			return temp;
 		}
+	});
+	
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
@@ -75,7 +72,7 @@ Represented here are the authors who have written works in English. Some of thes
 							<div class="card col-4">
 								<div class="card-body">
 									<h5 class="card-title">${element.data[i].flavorText}</h5>
-									<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
+									<h6 class="card-subtitle mb-2 text-muted">${element.data[i].subtitle}</h6>
 									<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
 								</div>
 							</div>
@@ -88,7 +85,7 @@ Represented here are the authors who have written works in English. Some of thes
 								<div class="card col-4">
 									<div class="card-body">
 										<h5 class="card-title">${element.data[i].flavorText}</h5>
-										<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
+										<h6 class="card-subtitle mb-2 text-muted">${element.data[i].subtitle}</h6>
 										<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
 									</div>
 								</div>
@@ -97,7 +94,7 @@ Represented here are the authors who have written works in English. Some of thes
 				}
 			});
 		}
-	</script>
+</script>
 </body>
 </html>
 </div>
