@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Autobiography/Memoir
-permalink: /Autobiographymemoir/
+permalink: /Autobiography/Memoir/
 ---
 
 
