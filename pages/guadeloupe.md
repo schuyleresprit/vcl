@@ -25,7 +25,7 @@ permalink: /29/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/aminatchybogat">Arlette Minatchy-Bogat</a></h4>
+         <h4><a href="{{ site.baseurl }}/aminatchybogat/">Arlette Minatchy-Bogat</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /29/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jmlemaire">Jean-Michel Lemaire</a></h4>
+         <h4><a href="{{ site.baseurl }}/jmlemaire/">Jean-Michel Lemaire</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /29/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mconde">Maryse Condé</a></h4>
+         <h4><a href="{{ site.baseurl }}/mconde/">Maryse Condé</a></h4>
        </a>
      </div>
    </div>
@@ -73,7 +73,7 @@ permalink: /29/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mwvieyra">Myriam Warner-Vieyra</a></h4>
+         <h4><a href="{{ site.baseurl }}/mwvieyra/">Myriam Warner-Vieyra</a></h4>
        </a>
      </div>
    </div>
@@ -89,7 +89,7 @@ permalink: /29/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/sjperse">Saint-John Perse</a></h4>
+         <h4><a href="{{ site.baseurl }}/sjperse/">Saint-John Perse</a></h4>
        </a>
      </div>
    </div>
