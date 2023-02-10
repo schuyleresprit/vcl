@@ -25,7 +25,7 @@ permalink: /33/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/cnyoung">Colville N Young</a></h4>
+         <h4><a href="{{ site.baseurl }}/cnyoung/">Colville N Young</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /33/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/ikelly">Ivory Kelly</a></h4>
+         <h4><a href="{{ site.baseurl }}/ikelly/">Ivory Kelly</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /33/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/zedgell">Zee Edgell</a></h4>
+         <h4><a href="{{ site.baseurl }}/zedgell/">Zee Edgell</a></h4>
        </a>
      </div>
    </div>
