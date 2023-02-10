@@ -17,7 +17,7 @@ permalink: /rbcunninghamegraham/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>R.B Cunninghame-Graham is from <a href="http://localhost:4000/11">England.</a></p> </div>
+          <div class="aclocation">  <p>R.B Cunninghame-Graham is from <a href="{{ site.baseurl }}/11">England.</a></p> </div>
               <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Cunninghame_Graham" target="_blank">Read more</a></div>
             </div>
             </div>

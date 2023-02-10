@@ -17,7 +17,7 @@ permalink: /pjosie/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p> Peter Josie is from <a href="http://localhost:4000/16">St. Lucia.</a></p></div>
+            <div class="aclocation"><p> Peter Josie is from <a href="{{ site.baseurl }}/16">St. Lucia.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Peter_Josie" target="_blank">Read more</a></div>
             </div>
         </div>
