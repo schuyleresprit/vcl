@@ -25,7 +25,7 @@ permalink: /65/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/hyared">Hyam Yared</a></h4>
+         <h4><a href="{{ site.baseurl }}/hyared/">Hyam Yared</a></h4>
        </a>
      </div>
    </div>
