@@ -19,7 +19,7 @@ Represented here are the authors who have written works in English. Some of thes
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
 		</div>
 		<div id="data-container" class="row">
 		</div>
@@ -53,7 +53,8 @@ Represented here are the authors who have written works in English. Some of thes
 					case "english":
 						for (key in data) {
 							temp.push({
-								"flavorText" : key,
+								"flavorText" : key, ["Title"],
+								"subtitle" : key, ["Author"],
 								"link" : key,
 							});
 						}
