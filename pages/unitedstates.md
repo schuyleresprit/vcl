@@ -25,7 +25,7 @@ permalink: /1/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/eacevedo">Elizabeth Acevedo</a></h4>
+         <h4><a href="{{ site.baseurl }}/eacevedo/">Elizabeth Acevedo</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/gthompson">Gregory Thompson</a></h4>
+            <h4><a href="{{ site.baseurl }}/gthompson/">Gregory Thompson</a></h4>
           </a>
         </div>
       </div>
@@ -57,7 +57,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jpeterson">Josie Peterson</a></h4>
+            <h4><a href="{{ site.baseurl }}/jpeterson/">Josie Peterson</a></h4>
           </a>
         </div>
       </div>
@@ -73,7 +73,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jalvarez">Julia Alvarez</a></h4>
+            <h4><a href="{{ site.baseurl }}/jalvarez/">Julia Alvarez</a></h4>
           </a>
         </div>
       </div>
@@ -89,7 +89,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jklundgren">Julie K. Lundgren </a></h4>
+            <h4><a href="{{ site.baseurl }}/jklundgren/">Julie K. Lundgren </a></h4>
           </a>
         </div>
       </div>
@@ -105,7 +105,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/kmchamberlain">Karen Mah-Chamberlain</a></h4>
+            <h4><a href="{{ site.baseurl }}/kmchamberlain/">Karen Mah-Chamberlain</a></h4>
           </a>
         </div>
       </div>
@@ -121,7 +121,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/lwillig">Lauren Willig</a></h4>
+            <h4><a href="{{ site.baseurl }}/lwillig/">Lauren Willig</a></h4>
           </a>
         </div>
       </div>
@@ -137,7 +137,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/lking">Lloyd King</a></h4>
+            <h4><a href="{{ site.baseurl }}/lking/">Lloyd King</a></h4>
           </a>
         </div>
       </div>
@@ -153,7 +153,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mbreton">Marcela Breton</a></h4>
+            <h4><a href="{{ site.baseurl }}/mbreton/">Marcela Breton</a></h4>
           </a>
         </div>
       </div>
@@ -169,7 +169,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/ncoster">Naima Coster</a></h4>
+            <h4><a href="{{ site.baseurl }}/ncoster/">Naima Coster</a></h4>
           </a>
         </div>
       </div>
@@ -185,7 +185,7 @@ permalink: /1/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/njackson">Naomi Jackson</a></h4>
+            <h4><a href="{{ site.baseurl }}/njackson/">Naomi Jackson</a></h4>
           </a>
         </div>
       </div>
@@ -201,7 +201,7 @@ permalink: /1/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/pmarshall">Paule Marshall</a></h4>
+         <h4><a href="{{ site.baseurl }}/pmarshall/">Paule Marshall</a></h4>
        </a>
      </div>
    </div>
@@ -218,7 +218,7 @@ permalink: /1/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/pbraham">Persephone Braham</a></h4>
+         <h4><a href="{{ site.baseurl }}/pbraham/">Persephone Braham</a></h4>
        </a>
      </div>
    </div>
@@ -235,7 +235,7 @@ permalink: /1/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/pbrenner">Philip Brenner</a></h4>
+         <h4><a href="{{ site.baseurl }}/pbrenner/">Philip Brenner</a></h4>
        </a>
      </div>
    </div>
@@ -251,7 +251,7 @@ permalink: /1/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/rlcaarons">R.L.C. Aarons</a></h4>
+         <h4><a href="{{ site.baseurl }}/rlcaarons/">R.L.C. Aarons</a></h4>
        </a>
      </div>
    </div>
@@ -268,7 +268,7 @@ permalink: /1/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/rantoni">Robert Antoni</a></h4>
+         <h4><a href="{{ site.baseurl }}/rantoni/">Robert Antoni</a></h4>
        </a>
      </div>
    </div>
@@ -285,7 +285,7 @@ permalink: /1/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/rmartinez">Rubén Martínez</a></h4>
+         <h4><a href="{{ site.baseurl }}/rmartinez/">Rubén Martínez</a></h4>
        </a>
      </div>
    </div>
@@ -302,7 +302,7 @@ permalink: /1/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/twilliams">Tyrone Williams</a></h4>
+         <h4><a href="{{ site.baseurl }}/twilliams/">Tyrone Williams</a></h4>
        </a>
      </div>
    </div>
