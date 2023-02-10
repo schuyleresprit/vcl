@@ -36,7 +36,6 @@ permalink: /acesaire/
                 Length: 311 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
@@ -64,7 +63,6 @@ permalink: /acesaire/
                 Length: 116 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1981</p></div>
             <div class="dot"></div>
@@ -93,7 +91,6 @@ permalink: /acesaire/
                 Length: 94 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1981</p></div>
             <div class="dot"></div>
@@ -153,7 +150,6 @@ permalink: /acesaire/
                 Length: 432                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1983</p></div>
             <div class="dot"></div>
@@ -181,7 +177,6 @@ permalink: /acesaire/
                 Length: 153                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1984</p></div>
             <div class="dot"></div>
@@ -211,7 +206,6 @@ permalink: /acesaire/
                 Length: 60 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1986</p></div>
             <div class="dot"></div>
@@ -241,7 +235,6 @@ permalink: /acesaire/
                 Length: 75 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1987</p></div>
             <div class="dot"></div>
@@ -270,7 +263,6 @@ permalink: /acesaire/
                 Length: 91 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1987</p></div>
             <div class="dot"></div>
@@ -300,7 +292,6 @@ permalink: /acesaire/
                 Length: 75 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1988</p></div>
             <div class="dot"></div>
@@ -328,7 +319,6 @@ permalink: /acesaire/
                 Length: 96 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1989</p></div>
             <div class="dot"></div>
@@ -357,7 +347,6 @@ permalink: /acesaire/
                 Length: 122 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1989</p></div>
             <div class="dot"></div>
@@ -413,7 +402,6 @@ permalink: /acesaire/
                 Length: 153 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1990</p></div>
             <div class="dot"></div>
@@ -442,7 +430,6 @@ permalink: /acesaire/
                 Length: 91 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2000</p></div>
             <div class="dot"></div>
@@ -473,7 +460,6 @@ permalink: /acesaire/
                 Length: 69 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2013</p></div>
             <div class="dot"></div>
@@ -504,7 +490,6 @@ permalink: /acesaire/
                 Length: 328 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2020</p></div>
             <div class="dot"></div>
@@ -521,5 +506,5 @@ permalink: /acesaire/
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
