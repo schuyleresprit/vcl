@@ -24,7 +24,7 @@ permalink: /41/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/cphillips">Caryl Phillips</a></h4>
+         <h4><a href="{{ site.baseurl }}/cphillips/">Caryl Phillips</a></h4>
        </a>
      </div>
    </div>
@@ -40,7 +40,7 @@ permalink: /41/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/cvbriggs">Cyril V Briggs</a></h4>
+         <h4><a href="{{ site.baseurl }}/cvbriggs/">Cyril V Briggs</a></h4>
        </a>
      </div>
    </div>
@@ -56,7 +56,7 @@ permalink: /41/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mmandisa">Mosi Mandisa</a></h4>
+         <h4><a href="{{ site.baseurl }}/mmandisa/">Mosi Mandisa</a></h4>
        </a>
      </div>
    </div>

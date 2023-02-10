@@ -25,7 +25,7 @@ permalink: /63/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/ewhyte">Eddie Whyte</a></h4>
+         <h4><a href="{{ site.baseurl }}/ewhyte/">Eddie Whyte</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /63/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jwheatley">Jennie Wheatley</a></h4>
+         <h4><a href="{{ site.baseurl }}/jwheatley/">Jennie Wheatley</a></h4>
        </a>
      </div>
    </div>

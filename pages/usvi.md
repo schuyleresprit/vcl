@@ -25,7 +25,7 @@ permalink: /64/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/wwilliams">Wallace Williams</a></h4>
+         <h4><a href="{{ site.baseurl }}/wwilliams/">Wallace Williams</a></h4>
        </a>
      </div>
    </div>

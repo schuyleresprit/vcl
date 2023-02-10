@@ -25,7 +25,7 @@ permalink: /9/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/ffiallo">Fabio Fiallo</a></h4>
+            <h4><a href="{{ site.baseurl }}/ffiallo/">Fabio Fiallo</a></h4>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: /9/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jaalix">Juan Antonio Alix</a></h4>
+            <h4><a href="{{ site.baseurl }}/jaalix/">Juan Antonio Alix</a></h4>
           </a>
         </div>
       </div>
@@ -57,7 +57,7 @@ permalink: /9/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jdiaz">Junot Díaz</a></h4>
+            <h4><a href="{{ site.baseurl }}/jdiaz/">Junot Díaz</a></h4>
           </a>
         </div>
       </div>
@@ -73,7 +73,7 @@ permalink: /9/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/ravmartinez">Ramon Antonio Victoriano-Martinez</a></h4>
+            <h4><a href="{{ site.baseurl }}/ravmartinez/">Ramon Antonio Victoriano-Martinez</a></h4>
           </a>
         </div>
       </div>
@@ -89,7 +89,7 @@ permalink: /9/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/vdiaz">Vigil Díaz</a></h4>
+            <h4><a href="{{ site.baseurl }}/vdiaz/">Vigil Díaz</a></h4>
           </a>
         </div>
       </div>

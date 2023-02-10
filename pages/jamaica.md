@@ -25,7 +25,7 @@ permalink: /4/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/amckenzie">Alecia McKenzie</a></h4>
+            <h4><a href="{{ site.baseurl }}/amckenzie/">Alecia McKenzie</a></h4>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: /4/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/aarthurs">Alexia Arthurs</a></h4>
+         <h4><a href="{{ site.baseurl }}/aarthurs/">Alexia Arthurs</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /4/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/astuart">Andrea Stuart</a></h4>
+         <h4><a href="{{ site.baseurl }}/astuart/">Andrea Stuart</a></h4>
        </a>
      </div>
    </div>
@@ -73,7 +73,7 @@ permalink: /4/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/acsinclair">Augustus C. Sinclair</a></h4>
+          <h4><a href="{{ site.baseurl }}/acsinclair/">Augustus C. Sinclair</a></h4>
         </a>
       </div>
     </div>
@@ -89,7 +89,7 @@ permalink: /4/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/blalla">Barbara Lalla</a></h4>
+          <h4><a href="{{ site.baseurl }}/blalla/">Barbara Lalla</a></h4>
         </a>
       </div>
     </div>
@@ -105,7 +105,7 @@ permalink: /4/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/ccraig">Christine Craig</a></h4>
+          <h4><a href="{{ site.baseurl }}/ccraig/">Christine Craig</a></h4>
         </a>
       </div>
     </div>
@@ -121,7 +121,7 @@ permalink: /4/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/cthompson">Claude Thompson</a></h4>
+          <h4><a href="{{ site.baseurl }}/cthompson/">Claude Thompson</a></h4>
         </a>
       </div>
     </div>
@@ -137,7 +137,7 @@ permalink: /4/
           </div>
           <div class="vesti-desc">
             <a class="desc-a" href="#">
-              <h4><a href="/crwilliams">Cynric R. Williams</a></h4>
+              <h4><a href="{{ site.baseurl }}/crwilliams/">Cynric R. Williams</a></h4>
             </a>
           </div>
         </div>
@@ -153,7 +153,7 @@ permalink: /4/
               </div>
               <div class="vesti-desc">
                 <a class="desc-a" href="#">
-                  <h4><a href="/dscott">Dennis Scott</a></h4>
+                  <h4><a href="{{ site.baseurl }}/dscott/">Dennis Scott</a></h4>
                 </a>
               </div>
             </div>
@@ -169,7 +169,7 @@ permalink: /4/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/eclarke">Edith Clarke</a></h4>
+          <h4><a href="{{ site.baseurl }}/eclarke/">Edith Clarke</a></h4>
         </a>
       </div>
     </div>
@@ -185,7 +185,7 @@ permalink: /4/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/ebaugh">Edward Baugh</a></h4>
+          <h4><a href="{{ site.baseurl }}/ebaugh/">Edward Baugh</a></h4>
         </a>
       </div>
     </div>
@@ -201,7 +201,7 @@ permalink: /4/
            </div>
            <div class="vesti-desc">
              <a class="desc-a" href="#">
-             <h4><a href="/ejones">Evan Jones</a></h4>
+             <h4><a href="{{ site.baseurl }}/ejones/">Evan Jones</a></h4>
              </a>
            </div>
          </div>
@@ -217,7 +217,7 @@ permalink: /4/
     </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/epalmer">Everard C. Palmer</a></h4>
+          <h4><a href="{{ site.baseurl }}/epalmer/">Everard C. Palmer</a></h4>
         </a>
       </div>
     </div>
@@ -233,7 +233,7 @@ permalink: /4/
     </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/gcampbell">George Campbell</a></h4>
+          <h4><a href="{{ site.baseurl }}/gcampbell/">George Campbell</a></h4>
         </a>
       </div>
     </div>
@@ -249,7 +249,7 @@ permalink: /4/
     </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/ilferguson">Ira Lunan Ferguson</a></h4>
+          <h4><a href="{{ site.baseurl }}/ilferguson/">Ira Lunan Ferguson</a></h4>
         </a>
       </div>
     </div>
@@ -265,7 +265,7 @@ permalink: /4/
         </div>
           <div class="vesti-desc">
             <a class="desc-a" href="#">
-              <h4><a href="/jbreeze">Jean Breeze</a></h4>
+              <h4><a href="{{ site.baseurl }}/jbreeze/">Jean Breeze</a></h4>
             </a>
           </div>
         </div>
@@ -281,7 +281,7 @@ permalink: /4/
                 </div>
                   <div class="vesti-desc">
                     <a class="desc-a" href="#">
-                      <h4><a href="/jdcosta">Jean D'Costa</a></h4>
+                      <h4><a href="{{ site.baseurl }}/jdcosta/">Jean D'Costa</a></h4>
                     </a>
                   </div>
                 </div>
@@ -297,7 +297,7 @@ permalink: /4/
     </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/jbent">Jennifer Bent</a></h4>
+          <h4><a href="{{ site.baseurl }}/jbent/">Jennifer Bent</a></h4>
         </a>
       </div>
     </div>
@@ -313,7 +313,7 @@ permalink: /4/
   </div>
     <div class="vesti-desc">
       <a class="desc-a" href="#">
-        <h4><a href="/lbarett">Lindsay Barett</a></h4>
+        <h4><a href="{{ site.baseurl }}/lbarett/">Lindsay Barett</a></h4>
       </a>
     </div>
   </div>
@@ -329,7 +329,7 @@ permalink: /4/
 </div>
   <div class="vesti-desc">
     <a class="desc-a" href="#">
-      <h4><a href="/mcard"> Maisy Card</a></h4>
+      <h4><a href="{{ site.baseurl }}/mcard/"> Maisy Card</a></h4>
     </a>
   </div>
 </div>
@@ -345,7 +345,7 @@ permalink: /4/
 </div>
 <div class="vesti-desc">
   <a class="desc-a" href="#">
-    <h4><a href="/mdouglas"> Marcia Douglas</a></h4>
+    <h4><a href="{{ site.baseurl }}/mdouglas/"> Marcia Douglas</a></h4>
   </a>
 </div>
 </div>
@@ -361,7 +361,7 @@ permalink: /4/
 </div>
 <div class="vesti-desc">
   <a class="desc-a" href="#">
-    <h4><a href="/mrsquires"> Maria Roberts-Squires</a></h4>
+    <h4><a href="{{ site.baseurl }}/mrsquires/"> Maria Roberts-Squires</a></h4>
   </a>
 </div>
 </div>
@@ -377,7 +377,7 @@ permalink: /4/
 </div>
 <div class="vesti-desc">
   <a class="desc-a" href="#">
-    <h4><a href="/mfarquharson">May Farquharson</a></h4>
+    <h4><a href="{{ site.baseurl }}/mfarquharson/">May Farquharson</a></h4>
   </a>
 </div>
 </div>
@@ -393,7 +393,7 @@ permalink: /4/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/mmorris">Mervyn Morris</a></h4>
+          <h4><a href="{{ site.baseurl }}/mmorris/">Mervyn Morris</a></h4>
         </a>
       </div>
     </div>
@@ -409,7 +409,7 @@ permalink: /4/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/msmith">Michael Smith</a></h4>
+          <h4><a href="{{ site.baseurl }}/msmith/">Michael Smith</a></h4>
         </a>
       </div>
     </div>
@@ -425,7 +425,7 @@ permalink: /4/
        </div>
        <div class="vesti-desc">
          <a class="desc-a" href="#">
-           <h4><a href="/mthelwell">Michael Thelwell</a></h4>
+           <h4><a href="{{ site.baseurl }}/mthelwell/">Michael Thelwell</a></h4>
          </a>
        </div>
      </div>
@@ -441,7 +441,7 @@ permalink: /4/
        </div>
        <div class="vesti-desc">
          <a class="desc-a" href="#">
-           <h4><a href="/pabrahams">Peter Abrahams</a></h4>
+           <h4><a href="{{ site.baseurl }}/pabrahams/">Peter Abrahams</a></h4>
          </a>
        </div>
      </div>
@@ -457,7 +457,7 @@ permalink: /4/
        </div>
        <div class="vesti-desc">
          <a class="desc-a" href="#">
-           <h4><a href="/parcher">Petrine Archer</a></h4>
+           <h4><a href="{{ site.baseurl }}/parcher/">Petrine Archer</a></h4>
          </a>
        </div>
      </div>
@@ -473,7 +473,7 @@ permalink: /4/
        </div>
        <div class="vesti-desc">
          <a class="desc-a" href="#">
-           <h4><a href="/rlcaarons">R. L. C. Aarons</a></h4>
+           <h4><a href="{{ site.baseurl }}/rlcaarons/">R. L. C. Aarons</a></h4>
          </a>
        </div>
      </div>
@@ -489,7 +489,7 @@ permalink: /4/
            </div>
            <div class="vesti-desc">
              <a class="desc-a" href="#">
-               <h4><a href="/rmanley">Rachel Manley</a></h4>
+               <h4><a href="{{ site.baseurl }}/rmanley/">Rachel Manley</a></h4>
              </a>
            </div>
          </div>
@@ -505,7 +505,7 @@ permalink: /4/
            </div>
            <div class="vesti-desc">
              <a class="desc-a" href="#">
-               <h4><a href="/rnamba">Roy Namba</a></h4>
+               <h4><a href="{{ site.baseurl }}/rnamba/">Roy Namba</a></h4>
              </a>
            </div>
          </div>
@@ -521,7 +521,7 @@ permalink: /4/
                </div>
                <div class="vesti-desc">
                  <a class="desc-a" href="#">
-                   <h4><a href="/scollins">Sara Collins</a></h4>
+                   <h4><a href="{{ site.baseurl }}/scollins/">Sara Collins</a></h4>
                  </a>
                </div>
              </div>
@@ -537,7 +537,7 @@ permalink: /4/
                </div>
                <div class="vesti-desc">
                  <a class="desc-a" href="#">
-                   <h4><a href="/swynter">Sylvia Wynter</a></h4>
+                   <h4><a href="{{ site.baseurl }}/swynter/">Sylvia Wynter</a></h4>
                  </a>
                </div>
              </div>
@@ -553,7 +553,7 @@ permalink: /4/
        </div>
        <div class="vesti-desc">
          <a class="desc-a" href="#">
-           <h4><a href="/vspence">Vanessa Spence</a></h4>
+           <h4><a href="{{ site.baseurl }}/vspence/">Vanessa Spence</a></h4>
          </a>
        </div>
      </div>
@@ -569,7 +569,7 @@ permalink: /4/
        </div>
        <div class="vesti-desc">
          <a class="desc-a" href="#">
-           <h4><a href="/vjclarke">Velta J Clarke</a></h4>
+           <h4><a href="{{ site.baseurl }}/vjclarke/">Velta J Clarke</a></h4>
          </a>
        </div>
      </div>
@@ -585,7 +585,7 @@ permalink: /4/
             </div>
             <div class="vesti-desc">
               <a class="desc-a" href="#">
-              <h4><a href="/vsreid">Victor Stafford Reid</a></h4>
+              <h4><a href="{{ site.baseurl }}/vsreid/">Victor Stafford Reid</a></h4>
               </a>
             </div>
           </div>
@@ -601,7 +601,7 @@ permalink: /4/
      </div>
        <div class="vesti-desc">
          <a class="desc-a" href="#">
-           <h4><a href="/wbennett">Wycliffe Bennett</a></h4>
+           <h4><a href="{{ site.baseurl }}/wbennett/">Wycliffe Bennett</a></h4>
          </a>
        </div>
      </div>
