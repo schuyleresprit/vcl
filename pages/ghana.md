@@ -25,7 +25,7 @@ permalink: /25/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mbusby">Margaret Busby</a></h4>
+            <h4><a href="{{ site.baseurl }}/mbusby/">Margaret Busby</a></h4>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: /25/
   </div>
     <div class="vesti-desc">
       <a class="desc-a" href="#">
-        <h4><a href="/ksndawes">Kwame Senu Neville Dawes</a></h4>
+        <h4><a href="{{ site.baseurl }}/ksndawes/">Kwame Senu Neville Dawes</a></h4>
       </a>
     </div>
   </div>
