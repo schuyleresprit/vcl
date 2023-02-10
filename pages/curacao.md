@@ -27,7 +27,7 @@ permalink: /44/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/tmarugg/">Tip Marugg</a></h4>
+         <h4><a href="{{ site.baseurl }}/tmarugg/">Tip Marugg</a></h4>
        </a>
      </div>
    </div>

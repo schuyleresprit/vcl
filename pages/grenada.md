@@ -25,7 +25,7 @@ permalink: /27/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mcollins">Merle Collins</a></h4>
+         <h4><a href="{{ site.baseurl }}/mcollins/">Merle Collins</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /27/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/gjohn">Gus John</a></h4>
+         <h4><a href="{{ site.baseurl }}/gjohn/">Gus John</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /27/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jross">Jacob Ross</a></h4>
+         <h4><a href="{{ site.baseurl }}/jross/">Jacob Ross</a></h4>
        </a>
      </div>
    </div>
@@ -73,7 +73,7 @@ permalink: /27/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/rkdouglas">Richardo Keens-Douglas</a></h4>
+         <h4><a href="{{ site.baseurl }}/rkdouglas/">Richardo Keens-Douglas</a></h4>
        </a>
      </div>
    </div>
