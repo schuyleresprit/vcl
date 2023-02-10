@@ -14,7 +14,7 @@ permalink: /Poetry Collection/
 <div class="col-sm-10">
 <div class="page_title"><h3> Poetry Collections</h3></div>
 
-Represented here are the authors who have written works in Essay. Some of these may be texts translated into Essay from other languages.
+Represented here are the authors who have written works in Poetry. Some of these may be texts translated into Poetry from other languages.
 
 <html>
 <body>
