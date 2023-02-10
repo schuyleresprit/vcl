@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Essay
-permalink: /essay/
+permalink: /Essay/
 ---
 
 <div class="individual_language">
@@ -19,7 +19,7 @@ Represented here are the authors who have written works in Essay. Some of these 
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
 		</div>
 		<div id="data-container" class="row">
 		</div>
