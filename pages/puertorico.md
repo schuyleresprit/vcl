@@ -25,7 +25,7 @@ permalink: /37/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jarcollazo">José Antonio Ramos Collazo</a></h4>
+         <h4><a href="{{ site.baseurl }}/jarcollazo/">José Antonio Ramos Collazo</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /37/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jpdeleon">Juana Ponce de León</a></h4>
+         <h4><a href="{{ site.baseurl }}/jpdeleon/">Juana Ponce de León</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /37/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/lrsanchez">Luis Rafael Sánchez</a></h4>
+         <h4><a href="{{ site.baseurl }}/lrsanchez/">Luis Rafael Sánchez</a></h4>
        </a>
      </div>
    </div>
@@ -73,7 +73,7 @@ permalink: /37/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/oggoyco">Osvaldo García Goyco</a></h4>
+         <h4><a href="{{ site.baseurl }}/oggoyco/">Osvaldo García Goyco</a></h4>
        </a>
      </div>
    </div>
