@@ -28,7 +28,7 @@ Represented here are the authors who have written works in Chinese. Some of thes
 		let datasets = [
 			{
 				"type" : "chinese",
-				"url" : "/data/chinese.json"
+				"url" : "{{ site.baseurl }}/data/chinese.json"
 			}
 		];
 		var dataLinks = [];
