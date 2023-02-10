@@ -25,7 +25,7 @@ permalink: /19/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/hklonaris">Helen Klonaris</a></h4>
+            <h4><a href="{{ site.baseurl }}/hklonaris/">Helen Klonaris</a></h4>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: /19/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mbethel">Marion Bethel</a></h4>
+         <h4><a href="{{ site.baseurl }}/mbethel/">Marion Bethel</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /19/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/rapinder">R. A Pinder</a></h4>
+         <h4><a href="{{ site.baseurl }}/rapinder/">R. A Pinder</a></h4>
        </a>
      </div>
    </div>
