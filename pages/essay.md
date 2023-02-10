@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Essay
-permalink: /essay/
+permalink: /Essay/
 ---
 
 <div class="individual_language">
