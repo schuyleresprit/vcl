@@ -75,7 +75,7 @@ Represented here are the authors who have written works in English. Some of thes
 								<div class="card-body">
 									<h5 class="card-title">${element.data[i].flavorText}</h5>
 									<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
-									<a href="/${element.data[i].link}" class="card-link">More</a>
+									<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
 								</div>
 							</div>
 						`);
@@ -88,7 +88,7 @@ Represented here are the authors who have written works in English. Some of thes
 									<div class="card-body">
 										<h5 class="card-title">${element.data[i].flavorText}</h5>
 										<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
-										<a href="/${element.data[i].link}" class="card-link">More</a>
+										<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
 									</div>
 								</div>
 							`);
