@@ -28,7 +28,7 @@ Represented here are the authors who have written works in English. Some of thes
 		let datasets = [
 			{
 				"type" : "english",
-				"url" : "/data/english.json"
+				"url" : "{{ site.baseurl }}/data/english.json"
 			}
 		];
 		var dataLinks = [];
