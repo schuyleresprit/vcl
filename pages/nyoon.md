@@ -28,8 +28,8 @@ permalink: /nyoon/
                 <h1>Du neben Mir Und Zwischen Uns Die Ganze Welt: Ungekürzte Lesung</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61UIcEALBWL._SX492_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: German<br/>
+                Publisher: Oetinger Media<br/>
                 Pub_location: Hamburg, Germany<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: <br/>                   </p>
@@ -42,8 +42,8 @@ permalink: /nyoon/
                 <h1>Ni Shi Wo Yi Qie De Yi Qie: Yu Ni Xiang Yu,Jiu Shi Wo Zui Zhi De De Mao Xian</h1><hr>
                 <p><img src=""></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: Chinese<br/>
+                Publisher: San cai wen hua gu fen you xian gong si<br/>
                 Pub_location: Taipei, Taiwan<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: <br/>                   </p>
@@ -56,8 +56,8 @@ permalink: /nyoon/
                 <h1>Everything, Everything</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRcpCSB1WQZTUZpr4ANW8TAMFOINSLmtfR9c1J84uD5o-NEXK-"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: English<br/>
+                Publisher: Audiolib<br/>
                 Pub_location: Paris, France<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: <br/>                   </p>
@@ -70,8 +70,8 @@ permalink: /nyoon/
                 <h1>O Sol Também eE Uma Estrela</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51+TQ0ybrmL._SX347_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: Portuguese<br/>
+                Publisher: Editorial Presença<br/>
                 Pub_location: Barcarena, Portugal<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 12<br/>                   </p>
@@ -84,8 +84,8 @@ permalink: /nyoon/
                 <h1>Ein Einziger Tag Für Die Liebe</h1><hr>
                 <p><img src="https://images.thalia.media/00/-/d2a46e0fecdc402594de9bef9b51262b/ein-einziger-tag-fuer-die-liebe-taschenbuch-nicola-yoon.jpeg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: German<br/>
+                Publisher: Oetinger Taschenbuch<br/>
                 Pub_location: Hamburg, Germany<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 384<br/>                   </p>
@@ -98,8 +98,8 @@ permalink: /nyoon/
                 <h1>Hamah Chiz, Hamah Chiz</h1><hr>
                 <p><img src="https://cdn3.bibliotek.boras.se/covers/200x300/57d6159e-13e4-4347-afbe-a9ed00782224/hamah-chiz-hamah-chiz"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: Persian (Farsi)<br/>
+                Publisher: Nashr-i Nūn<br/>
                 Pub_location: Tihrān, Iran<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 286<br/>                   </p>
@@ -112,8 +112,8 @@ permalink: /nyoon/
                 <h1>Khurshid Hanuz Yik Sitarah Ast</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502518349l/36005408.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: Persian (Farsi)<br/>
+                Publisher: Nashr-i Nūn<br/>
                 Pub_location: Tihrān, Iran<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: <br/>                   </p>
@@ -126,8 +126,8 @@ permalink: /nyoon/
                 <h1>Mon Etoile Solaire</h1><hr>
                 <p><img src="https://fr.web.img2.acsta.net/c_310_420/pictures/19/05/10/14/46/2443712.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: French<br/>
+                Publisher: Bayard Presse<br/>
                 Pub_location: Montrouge, France<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 430<br/>                   </p>
@@ -137,11 +137,25 @@ permalink: /nyoon/
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
             <div class="right">
+                <h1>Nap Is Csillag</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501067288i/35830743.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Gabo könyvkiadó<br/>
+                Pub_location: Budapest, Hungary<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 364<br/>                   </p>
+            </div>
+        </div>
+      <div class="block">
+            <div class="date left"><p class="left">2020</p></div>
+            <div class="dot"></div>
+            <div class="right">
                 <h1>Minden, Minden</h1><hr>
                 <p><img src="https://moly.hu/system/covers/normal/covers_445503.jpg?1497526672"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: English<br/>
+                Publisher: Gabo könyvkiadó<br/>
                 Pub_location: Budapest, Hungary<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 334<br/>                   </p>
@@ -154,8 +168,8 @@ permalink: /nyoon/
                 <h1>Todo, Todo</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51eOfCh9quL._SX324_BO1,204,203,200_.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: Spanish<br/>
+                Publisher: Planeta Publishing<br/>
                 Pub_location: Budapest, Hungary<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 352<br/>                   </p>
@@ -168,8 +182,8 @@ permalink: /nyoon/
                 <h1>Instructions For Dancing</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsWIm2d-6ygkbjCkZ1leexGjkeZqrmoXYNqD-lnK3A_QGxdtt0"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: English<br/>
+                Publisher: Penguin Books<br/>
                 Pub_location: Madrid, Spain<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 304<br/>                   </p>
@@ -182,8 +196,8 @@ permalink: /nyoon/
                 <h1>Dansen Voor Beginners</h1><hr>
                 <p><img src="https://media.s-bol.com/7WY4Z5vA6QQy/G5WwVl3/526x840.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: Dutch<br/>
+                Publisher: Em. Querido's Uitgeverij<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 304<br/>                   </p>
@@ -196,8 +210,8 @@ permalink: /nyoon/
                 <h1>Alles Wat Je Lief Is</h1><hr>
                 <p><img src="https://media.s-bol.com/9LjGP7K7gmw4/kZjGw95/530x840.jpg"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
+                Language: Dutch<br/>
+                Publisher: Uitgeverij Rainbow bv<br/>
                 Pub_location: Amsterdam, Netherlands<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 320<br/>                   </p>
