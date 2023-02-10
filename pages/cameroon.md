@@ -25,7 +25,7 @@ permalink: /47/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/lmiano">Léonora Miano</a></h4>
+            <h4><a href="{{ site.baseurl }}/lmiano/">Léonora Miano</a></h4>
           </a>
         </div>
       </div>
