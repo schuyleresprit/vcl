@@ -29,8 +29,8 @@ permalink: /djules/
                 <h1>At the Rainbow's Edge</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41SJC9YF30L._SX305_BO1,204,203,200_.jpg"></p>
                 <p>
-		    Co-Author: Joseph Tennyson                
-		    Language: English<br/>
+		        Co-Author: Joseph Tennyson                
+		        Language: English<br/>
                 Publisher: Ian Randle Publishers<br/>
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Nonfiction Book<br/>

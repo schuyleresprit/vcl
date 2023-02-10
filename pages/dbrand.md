@@ -33,7 +33,6 @@ permalink: /dbrand/
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1921</p></div>
             <div class="dot"></div>
@@ -43,7 +42,6 @@ permalink: /dbrand/
                 <p>Lorem ipsum...</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1933</p></div>
             <div class="dot"></div>
@@ -53,7 +51,6 @@ permalink: /dbrand/
                 <p>Lorem ipsum...</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1939</p></div>
             <div class="dot"></div>
@@ -63,7 +60,6 @@ permalink: /dbrand/
                 <p>Lorem ipsum...</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
             <div class="dot"></div>
@@ -73,7 +69,6 @@ permalink: /dbrand/
                 <p>Lorem ipsum...</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
             <div class="dot"></div>
@@ -83,7 +78,6 @@ permalink: /dbrand/
                 <p>Lorem ipsum...</p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">17 April 1955</p></div>
             <div class="dot"></div>
@@ -96,7 +90,6 @@ permalink: /dbrand/
         <div style="padding-bottom:100px;"></div>
     </div>
     <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
     </div>
 </div>
 <!-- partial -->
