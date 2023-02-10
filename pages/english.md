@@ -53,8 +53,8 @@ Represented here are the authors who have written works in English. Some of thes
 					case "english":
 						for (key in data) {
 							temp.push({
-								"flavorText" : key["Title"]
-							    "subtitle" : key["Author"]
+								"flavorText" : key,
+							    "subtitle" : key,
 								"link" : key,
 							});
 						}
