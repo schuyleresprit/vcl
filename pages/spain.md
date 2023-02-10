@@ -25,7 +25,7 @@ permalink: /2/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/ahcata">Alfonso Hernández Catá</a></h4>
+            <h4><a href="{{ site.baseurl }}/ahcata/">Alfonso Hernández Catá</a></h4>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: /2/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/amoreno">Antonio Moreno</a></h4>
+            <h4><a href="{{ site.baseurl }}/amoreno/">Antonio Moreno</a></h4>
           </a>
         </div>
       </div>
@@ -57,7 +57,7 @@ permalink: /2/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/iachuecos">Isabel Abellán Chuecos</a></h4>
+            <h4><a href="{{ site.baseurl }}/iachuecos/">Isabel Abellán Chuecos</a></h4>
           </a>
         </div>
       </div>
@@ -73,7 +73,7 @@ permalink: /2/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/lncalvo">Lino Novás Calvo</a></h4>
+            <h4><a href="{{ site.baseurl }}/lncalvo/">Lino Novás Calvo</a></h4>
           </a>
         </div>
       </div>
@@ -89,7 +89,7 @@ permalink: /2/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/lemery">Llewellyn Emery</a></h4>
+            <h4><a href="{{ site.baseurl }}/lemery/">Llewellyn Emery</a></h4>
           </a>
         </div>
       </div>
@@ -105,7 +105,7 @@ permalink: /2/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mabad">Mercedes Abad</a></h4>
+            <h4><a href="{{ site.baseurl }}/mabad/">Mercedes Abad</a></h4>
           </a>
         </div>
       </div>
@@ -121,7 +121,7 @@ permalink: /2/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mdcervantessaavedra">Miguel de Cervantes Saavedra</a></h4>
+            <h4><a href="{{ site.baseurl }}/mdcervantessaavedra/">Miguel de Cervantes Saavedra</a></h4>
           </a>
         </div>
       </div>
@@ -137,7 +137,7 @@ permalink: /2/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mrcaceres">Milagros Rodríguez Cáceres</a></h4>
+            <h4><a href="{{ site.baseurl }}/mrcaceres/">Milagros Rodríguez Cáceres</a></h4>
           </a>
         </div>
       </div>
