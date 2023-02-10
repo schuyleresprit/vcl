@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Roberto Fernández Retamar"
-permalink: /rfetamar/
+permalink: /rfretamar/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -17,7 +17,7 @@ permalink: /rfetamar/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-        <div class="aclocation">    <p>Roberto Fernández Retamar is from <a href="http://localhost:4000/14"> Cuba.</a></p> </div>
+        <div class="aclocation">    <p>Roberto Fernández Retamar is from <a href="{{ site.baseurl }}/14"> Cuba.</a></p> </div>
               <div class="acreadmore">  <a href="https://es.wikipedia.org/wiki/Roberto_Fern%C3%A1ndez_Retamar" target="_blank">Read more</a> </div>
             </div>
             </div>

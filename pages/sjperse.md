@@ -17,7 +17,7 @@ permalink: /sjperse/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Saint-John Perse is from <a href="http://localhost:4000/29">Guadeloupe.</a></p></div>
+          <div class="aclocation">  <p>Saint-John Perse is from <a href="{{ site.baseurl }}/29">Guadeloupe.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Saint-John_Perse">Read more</a></div>
             </div>
             </div>
