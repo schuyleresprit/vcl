@@ -1,14 +1,25 @@
 ---
 layout: default
 title: Fiction (Novel/Novella)
-permalink: /fictionnovel/
+permalink: /Fiction (Novel)/
 ---
+
+<div class="individual_language">
+<div class="background">
+<div class="overlay">
+<div class="row">
+<div class="col-sm-1">
+</div>
+<div class="col-sm-10">
+<div class="page_title"><h3> Fiction (Novel/Novella)</h3></div>
+
+Represented here are the authors who have written works in Fiction (Novel/Novella). Some of these may be texts translated into Fiction (Novel/Novella) from other languages.
 
 <html>
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
 		</div>
 		<div id="data-container" class="row">
 		</div>
@@ -17,7 +28,7 @@ permalink: /fictionnovel/
 		let datasets = [
 			{
 				"type" : "fictionnovel",
-				"url" : "/data/fictionnovel.json"
+				"url" : "{{ site.baseurl }}/data/fictionnovel.json"
 			}
 		];
 		var dataLinks = [];
@@ -39,11 +50,11 @@ permalink: /fictionnovel/
 			var temp = [];
 			$.getJSON(url, function (data) {
 				switch (dataType) {
-					case "fictionnovel":
+					case "english":
 						for (key in data) {
 							temp.push({
 								"flavorText" : key,
-								"link" : key
+								"link" : key,
 							});
 						}
 						break;
@@ -64,7 +75,7 @@ permalink: /fictionnovel/
 								<div class="card-body">
 									<h5 class="card-title">${element.data[i].flavorText}</h5>
 									<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
-									<a href="/${element.data[i].link}" class="card-link">More</a>
+									<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
 								</div>
 							</div>
 						`);
@@ -77,7 +88,7 @@ permalink: /fictionnovel/
 									<div class="card-body">
 										<h5 class="card-title">${element.data[i].flavorText}</h5>
 										<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
-										<a href="/${element.data[i].link}" class="card-link">More</a>
+										<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
 									</div>
 								</div>
 							`);
@@ -88,3 +99,10 @@ permalink: /fictionnovel/
 	</script>
 </body>
 </html>
+</div>
+</div>
+<div class="col-sm-1">
+</div>
+</div>
+</div>
+</div>
