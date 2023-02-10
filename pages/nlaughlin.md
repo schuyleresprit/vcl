@@ -17,7 +17,7 @@ permalink: /nlaughlin/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">   <p>Nicholas Laughlin is from <a href="http://localhost:4000/3">Trinidad and Tobago.</a></p></div>
+          <div class="aclocation">   <p>Nicholas Laughlin is from <a href="{{ site.baseurl }}/3">Trinidad and Tobago.</a></p></div>
               <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Nicholas_Laughlin" target="_blank">Read more</a></div>
             </div>
             </div>

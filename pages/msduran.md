@@ -17,7 +17,7 @@ permalink: /msduran/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Margarita Suero-Duran is from <a href="http://localhost:4000/62"> The United States.</a></p></div>
+          <div class="aclocation">  <p>Margarita Suero-Duran is from <a href="{{ site.baseurl }}/1"> The United States.</a></p></div>
               <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
