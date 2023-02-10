@@ -25,7 +25,7 @@ permalink: /24/
       </div>
       <div class="vesti-desc">
         <a class="desc-a" href="#">
-          <h4><a href="/abromfield">Asha Bromfield</a></h4>
+          <h4><a href="{{ site.baseurl }}/abromfield/">Asha Bromfield</a></h4>
         </a>
       </div>
     </div>
@@ -41,7 +41,7 @@ permalink: /24/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mcaminerosantangelo">Marta Caminero-Santangelo</a></h4>
+            <h4><a href="{{ site.baseurl }}/mcaminerosantangelo/">Marta Caminero-Santangelo</a></h4>
           </a>
         </div>
       </div>
@@ -57,7 +57,7 @@ permalink: /24/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/rnazaire">Robert Nazaire</a></h4>
+            <h4><a href="{{ site.baseurl }}/rnazaire/">Robert Nazaire</a></h4>
           </a>
         </div>
       </div>
@@ -73,7 +73,7 @@ permalink: /24/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/smckenzie">Stephanie McKenzie</a></h4>
+            <h4><a href="{{ site.baseurl }}/smckenzie/">Stephanie McKenzie</a></h4>
           </a>
         </div>
       </div>
