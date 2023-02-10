@@ -25,7 +25,7 @@ permalink: /7/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/abarrera">Alberto Barrera</a></h4>
+            <h4><a href="{{ site.baseurl }}/abarrera/">Alberto Barrera</a></h4>
           </a>
         </div>
       </div>
@@ -41,7 +41,7 @@ permalink: /7/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/aboadas">Aura Marina Boadas</a></h4>
+         <h4><a href="{{ site.baseurl }}/aboadas/">Aura Marina Boadas</a></h4>
        </a>
      </div>
    </div>
@@ -58,7 +58,7 @@ permalink: /7/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/ncodina">Norberto Codina</a></h4>
+         <h4><a href="{{ site.baseurl }}/ncodina/">Norberto Codina</a></h4>
        </a>
      </div>
    </div>
