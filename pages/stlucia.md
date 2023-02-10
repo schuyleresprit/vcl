@@ -25,7 +25,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/dwalcott">Derek Walcott</a></h4>
+         <h4><a href="{{ site.baseurl }}/dwalcott/">Derek Walcott</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/djules">Didacus Jules</a></h4>
+         <h4><a href="{{ site.baseurl }}/djules/">Didacus Jules</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/eglong">Earl G. Long</a></h4>
+         <h4><a href="{{ site.baseurl }}/eglong/">Earl G. Long</a></h4>
        </a>
      </div>
    </div>
@@ -73,7 +73,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/hmcdonald">Hazel Simmons-McDonald</a></h4>
+         <h4><a href="{{ site.baseurl }}/hmcdonald/">Hazel Simmons-McDonald</a></h4>
        </a>
      </div>
    </div>
@@ -89,7 +89,7 @@ permalink: /16/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/jrlee">John Robert Lee</a></h4>
+            <h4><a href="{{ site.baseurl }}/jrlee/">John Robert Lee</a></h4>
           </a>
         </div>
       </div>
@@ -105,7 +105,7 @@ permalink: /16/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/khippolyte">Kendel Hippolyte</a></h4>
+            <h4><a href="{{ site.baseurl }}/khippolyte/">Kendel Hippolyte</a></h4>
           </a>
         </div>
       </div>
@@ -121,7 +121,7 @@ permalink: /16/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/mblanchard">Martha Blanchard</a></h4>
+            <h4><a href="{{ site.baseurl }}/mblanchard/">Martha Blanchard</a></h4>
           </a>
         </div>
       </div>
@@ -137,7 +137,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/maubertin">Michael Aubertin</a></h4>
+         <h4><a href="{{ site.baseurl }}/maubertin/">Michael Aubertin</a></h4>
        </a>
      </div>
    </div>
@@ -153,7 +153,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/plouisy">Pearlette Louisy</a></h4>
+         <h4><a href="{{ site.baseurl }}/plouisy/">Pearlette Louisy</a></h4>
        </a>
      </div>
    </div>
@@ -169,7 +169,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/pjosie">Peter Josie</a></h4>
+         <h4><a href="{{ site.baseurl }}/pjosie/">Peter Josie</a></h4>
        </a>
      </div>
    </div>
@@ -185,7 +185,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/rwalcott">Roderick Walcott</a></h4>
+         <h4><a href="{{ site.baseurl }}/rwalcott/">Roderick Walcott</a></h4>
        </a>
      </div>
    </div>
@@ -201,7 +201,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/sadantes">Stephen A Dantes</a></h4>
+         <h4><a href="{{ site.baseurl }}/sadantes/">Stephen A Dantes</a></h4>
        </a>
      </div>
    </div>
@@ -217,7 +217,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/walewis">W. Arthur Lewis</a></h4>
+         <h4><a href="{{ site.baseurl }}/walewis/">W. Arthur Lewis</a></h4>
        </a>
      </div>
    </div>
