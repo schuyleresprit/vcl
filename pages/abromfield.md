@@ -33,7 +33,8 @@ permalink: /abromfield/
                 Publisher: St. Martin's Press	 <br/>
                 Pub_location: New York, NY, United States <br/>
                 Genre: Fiction (Novel) <br/>
-                Length: 400 <br/>                </p>
+                Length: 400 <br/>                
+                </p>
             </div>
         </div>
         </div>

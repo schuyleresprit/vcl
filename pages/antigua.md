@@ -25,7 +25,7 @@ permalink: /38/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/aprince">Althea Prince</a></h4>
+         <h4><a href="{{ site.baseurl }}/aprince/">Althea Prince</a></h4>
        </a>
      </div>
    </div>
@@ -41,7 +41,7 @@ permalink: /38/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jkincaid">Jamaica Kincaid</a></h4>
+         <h4><a href="{{ site.baseurl }}/jkincaid/">Jamaica Kincaid</a></h4>
        </a>
      </div>
    </div>
@@ -57,7 +57,7 @@ permalink: /38/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/jchillhouse">Joanne C. Hillhouse</a></h4>
+         <h4><a href="{{ site.baseurl }}/jchillhouse/">Joanne C. Hillhouse</a></h4>
        </a>
      </div>
    </div>
@@ -73,7 +73,7 @@ permalink: /38/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="/mejohn">Marie-Elena John</a></h4>
+         <h4><a href="{{ site.baseurl }}/mejohn/">Marie-Elena John</a></h4>
        </a>
      </div>
    </div>

@@ -25,7 +25,7 @@ permalink: /35/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="/gmteles">Gilberto Mendonça Teles</a></h4>
+            <h4><a href="{{ site.baseurl }}/gmteles/">Gilberto Mendonça Teles</a></h4>
           </a>
         </div>
       </div>

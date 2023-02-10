@@ -12,7 +12,11 @@ __Project Lead__
 Dr. Schuyler Esprit
 Director, Create Caribbean Research Institute
 
-__Research__
+__Research__  
+
+Jaelle Edmund 
+<br>
+Research Assistant, Create Caribbean Research Institute
 
 Elleen Commodore
 <br>
@@ -26,15 +30,15 @@ MFA student, Creative Writing, Columbia University
 
 __Technology__
 
-Josh Bazil
-<br>
-2017-2019 alum, Create Caribbean Research Institute
-
 Zamar Thomas
 <br>
 Programmer and Technology Specialist, Create Caribbean Research Institute
 <br>
 2014-2016 alum, Create Caribbean Research Institute
+
+Josh Bazil
+<br>
+2017-2019 alum, Create Caribbean Research Institute
 
 Alex Gil
 <br>
@@ -59,3 +63,7 @@ Programs Officer, Create Caribbean Research Institute
 Yuanne Stowe
 <br>
 Project Manager, CDSC, Create Caribbean Research Institute
+
+__Code__
+
+Author pages design code from <strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong>
