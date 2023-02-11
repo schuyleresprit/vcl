@@ -11,7 +11,7 @@ permalink: /English/
 <div class="col-sm-1">
 </div>
 <div class="col-sm-10">
-<div class="page_title"><h3> English</h3></div>
+<div class="page_title"><h3>English</h3></div>
 
 Represented here are the authors who have written works in English. Some of these may be texts translated into English from other languages.
 
@@ -19,13 +19,12 @@ Represented here are the authors who have written works in English. Some of thes
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
 		</div>
 		<div id="data-container" class="row">
 		</div>
 	</div>
 	<script>
-
 		$( document ).ready(function() {
 			//Set triggers
 			$('#search-box').on('input', function (event) {
@@ -34,14 +33,11 @@ Represented here are the authors who have written works in English. Some of thes
 			//Populate page
 			setTimeout(showCategory, 1000);
 		});
-
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
-
 			$.getJSON("{{ site.baseurl }}/data/english.json", function (data) {
 				let cards = [];
-
 				for (const [key, value] of Object.entries(data)) {
 					if (filter == "" && value.length > 0) {
 						for (i = 0; i < value.length; i++) {
@@ -68,7 +64,6 @@ Represented here are the authors who have written works in English. Some of thes
 						}
 					}
 				}
-
 				//Show Cards
 				for (i = 0; i < cards.length; i++) {
 					$('#data-container').append(`
@@ -82,8 +77,6 @@ Represented here are the authors who have written works in English. Some of thes
 						</div>
 					`);
 				}
-
-
 			});
 		}
 	</script>
@@ -93,6 +86,4 @@ Represented here are the authors who have written works in English. Some of thes
 </div>
 <div class="col-sm-1">
 </div>
-</div>
-</div>
-</div>
+
