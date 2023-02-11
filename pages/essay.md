@@ -25,7 +25,6 @@ Represented here are the authors who have written works in Essay. Some of these 
 		</div>
 	</div>
 	<script>
-
 		$( document ).ready(function() {
 			//Set triggers
 			$('#search-box').on('input', function (event) {
@@ -34,14 +33,11 @@ Represented here are the authors who have written works in Essay. Some of these 
 			//Populate page
 			setTimeout(showCategory, 1000);
 		});
-
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
-
 			$.getJSON("{{ site.baseurl }}/data/essay.json", function (data) {
 				let cards = [];
-
 				for (const [key, value] of Object.entries(data)) {
 					if (filter == "" && value.length > 0) {
 						for (i = 0; i < value.length; i++) {
@@ -68,7 +64,6 @@ Represented here are the authors who have written works in Essay. Some of these 
 						}
 					}
 				}
-
 				//Show Cards
 				for (i = 0; i < cards.length; i++) {
 					$('#data-container').append(`

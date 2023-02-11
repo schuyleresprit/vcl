@@ -3,3 +3,79 @@ layout: default
 title: Fiction (Short Story)
 permalink: /fictionshortstory/
 ---
+
+
+<html>
+<body>
+	<div class="container">
+		<div class="input-group mb-3">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
+		</div>
+		<div id="data-container" class="row">
+		</div>
+	</div>
+	<script>
+		$( document ).ready(function() {
+			//Set triggers
+			$('#search-box').on('input', function (event) {
+				showCategory(event.target.value);
+			})
+			//Populate page
+			setTimeout(showCategory, 1000);
+		});
+		function showCategory (filter = "") {
+			$('#data-container').html('');
+			filter = filter.trim();
+			$.getJSON("{{ site.baseurl }}/data/fictionshortstory.json", function (data) {
+				let cards = [];
+				for (const [key, value] of Object.entries(data)) {
+					if (filter == "" && value.length > 0) {
+						for (i = 0; i < value.length; i++) {
+							//Todo:
+							cards.push({
+								"flavorText" : value[i]["Title"],
+								"subtitle" : value[i]["Author"],
+								"translation" : (value[i]["Translation"] == "y" ? "Translation" : ""),
+								"link" : key,
+							});
+						}
+					} else {
+						for (i = 0; i < value.length; i++) {
+							//TODO: Search Translation
+							if (value[i]["Title"].toLowerCase().includes(filter.toLowerCase()) || value[i]["Author"].toLowerCase().includes(filter.toLowerCase())) {
+								//Todo:
+								cards.push({
+									"flavorText" : value[i]["Title"],
+									"subtitle" : value[i]["Author"],
+									"translation" : (value[i]["Translation"] == "y" ? "Translation" : ""),
+									"link" : key,
+								});
+							}
+						}
+					}
+				}
+				//Show Cards
+				for (i = 0; i < cards.length; i++) {
+					$('#data-container').append(`
+						<div class="card col-4">
+							<div class="card-body">
+								<h5 class="card-title">${cards[i].flavorText}</h5>
+								<h6 class="card-subtitle mb-2 text-muted">${cards[i].subtitle}</h6>
+								<h6 class="card-subtitle mb-2">${cards[i].translation}</h6>
+								<a href="{{ site.baseurl }}/${cards[i].link}" class="card-link">More</a>
+							</div>
+						</div>
+					`);
+				}
+			});
+		}
+	</script>
+</body>
+</html>
+</div>
+</div>
+<div class="col-sm-1">
+</div>
+</div>
+</div>
+</div>
