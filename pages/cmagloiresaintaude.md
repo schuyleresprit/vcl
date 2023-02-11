@@ -25,7 +25,7 @@ permalink: /cmagloiresaintaude/
         <div class="block">
             <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Dialogue de mes lampes</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51QNK0PSGHL._SX313_BO1,204,203,200_.jpg"></p>
                 <p>

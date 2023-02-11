@@ -25,7 +25,7 @@ permalink: /cwerleigh/
         <div class="block">
             <div class="date left"><p class="left">1927</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Défilée La Folle: Poème</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /cwerleigh/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1938</p></div>
+            <div class="date right"><p class="right">1938</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Le Palmiste Dans La Lumière, Poèmes</h1><hr>
                 <p><img src=""></p>
                 <p>

@@ -25,7 +25,7 @@ permalink: /cmohammed/
         <div class="block">
             <div class="date left"><p class="left">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>"London England"</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>

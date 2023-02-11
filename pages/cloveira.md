@@ -25,7 +25,7 @@ permalink: /cloveira/
          <div class="block">
             <div class="date left"><p class="left">1924</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La Ultima Lección</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ZPKkL+CwL._SX338_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /cloveira/
             </div>
         </div>
      <div class="block">
-            <div class="date left"><p class="left">1927</p></div>
+            <div class="date right"><p class="right">1927</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Juan Criollo: Novela</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/5141-wbGD-L._SX331_BO1,204,203,200_.jpg"></p>
                 <p>

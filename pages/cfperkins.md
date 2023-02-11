@@ -24,7 +24,7 @@ permalink: /cfperkins/
         <div class="block">
             <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Busha's Mistress, Or, Catherine The Fugitive: A Stirring Romance Of The Days Of Slavery In Jamaica</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/51ejMll6LpL.jpg"></p>
                 <p>

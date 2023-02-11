@@ -25,7 +25,7 @@ permalink: /bmontabo/
         <div class="block">
             <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Le Palais Des Jésuites: Roman</h1><hr>
                 <p><img src="https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/6/3/0/003525630.jpg"></p>
                 <p>Language: French<br/>

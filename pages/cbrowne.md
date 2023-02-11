@@ -25,7 +25,7 @@ permalink: /cbrowne/
         <div class="block">
             <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Moon Is Following Me: A Collection of Short Stories</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564595729l/8840431.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /cbrowne/
         <div class="block">
             <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Feather Your Tingaling</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Jamaica_Kincaid_-_At_the_Bottom_of_the_River.jpeg"></p>
                 <p>

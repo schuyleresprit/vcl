@@ -25,7 +25,7 @@ permalink: /ccraig/
         <div class="block">
             <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Emanuel and His Parrot</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51isbf6+NYL._SX258_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /ccraig/
         <div class="block">
             <div class="date right"><p class="right">1973</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>"Right On"</h1><hr>
                 <p><img src="https://japoetryarchive.nlj.gov.jm/wp-content/uploads/2022/03/Christine-craig-img.jpg"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /ccraig/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1982</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Everything but the Ring</h1><hr>
@@ -68,7 +68,7 @@ permalink: /ccraig/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1984</p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Quadrille For Tigers</h1><hr>
@@ -83,7 +83,7 @@ permalink: /ccraig/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1990</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Bird Gang</h1><hr>
@@ -98,7 +98,7 @@ permalink: /ccraig/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1993</p></div>
+            <div class="date right"><p class="right">1993</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Mint Tea and Other Stories</h1><hr>

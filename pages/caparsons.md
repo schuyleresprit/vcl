@@ -25,7 +25,7 @@ permalink: /caparsons/
         <div class="block">
             <div class="date left"><p class="left">1932</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Lost Safe - A Baffling Mystery With A Dramatic Conclusion</h1><hr>
                 <p><img src=""></p>
                 <p>

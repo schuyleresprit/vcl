@@ -25,7 +25,7 @@ permalink: /ctmorell/
         <div class="block">
             <div class="date left"><p class="left">1997</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Archivo de Guerra para Mujeres Decentes</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md16032889538.jpg"></p>
                 <p>

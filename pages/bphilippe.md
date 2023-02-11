@@ -25,7 +25,7 @@ permalink: /bphilippe/
         <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Sure, I'll Be Your Black Friend: Notes From The Other Side Of The Fist Bump</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41xIr892z7L._SX327_BO1,204,203,200_.jpg"></p>
                 <p>

@@ -25,7 +25,7 @@ permalink: /cwilson/
         <div class="block">
             <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Same Sea - Another Wave: A Collection Of Short Stories</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/516PDGC3ZTL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /cwilson/
         <div class="block">
             <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Whispering Of The Trees</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51VDzFaMJoL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>

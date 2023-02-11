@@ -25,7 +25,7 @@ permalink: /bapplin/
         <div class="block">
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Bluestone</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/81fNiiOZRDL._AC_UY218_.jpg"></p>
                 <p>

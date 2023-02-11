@@ -25,7 +25,7 @@ permalink: /brennie/
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Thunder Of My Name</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/514ef516+mL._SX337_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /brennie/
             </div>
         </div>
  	  <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Remembering and Understanding CLR James</h1><hr>
                 <p><img src="https://andrewbukkarennie.com/wp-content/uploads/2021/07/Untitled.png"></p>
                 <p>

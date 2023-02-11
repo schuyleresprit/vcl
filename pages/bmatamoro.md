@@ -25,7 +25,7 @@ permalink: /bmatamoro/
         <div class="block">
             <div class="date left"><p class="left">1973</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Hijos de ciego</h1><hr>
                 <p><img src="https://images.cdn1.buscalibre.com/fit-in/360x360/10/1e/101ea3056ed0dc79a8fb315434f43a22.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -89,9 +89,9 @@ permalink: /bmatamoro/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">2003</p></div>
+            <div class="date right"><p class="right">2003</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Puesto fronterizo : estudios sobre la novela familiar del escritor</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41jnw4NCjYL._SX310_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -102,9 +102,9 @@ permalink: /bmatamoro/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2006</p></div>
+            <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Lógica de la dispersión o De un saber melancólico</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41FtPwMZYGL._AC_SY780_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -115,9 +115,9 @@ permalink: /bmatamoro/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Cuerpo y poder : variaciones sobre las imposturas reales</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41uLqroTaoL._AC_SY780_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -128,9 +128,9 @@ permalink: /bmatamoro/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2014</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>El amor en literatura : de Eva a Colette.</h1><hr>
                 <p><img src="https://imagessl4.casadellibro.com/a/l/t7/14/9788415174714.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -141,9 +141,9 @@ permalink: /bmatamoro/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Alejo Carpentier Y La Música</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51MHof5grqL._AC_SY780_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>

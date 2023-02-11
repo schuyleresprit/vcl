@@ -25,7 +25,7 @@ permalink: /blalla/
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Language in exile : three hundred years of Jamaican Creole</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41sQorwhseL._SX327_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /blalla/
         <div class="block">
             <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Defining Jamaican Fiction : Marronage and the Discourse of Survival</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51MoCo0bV9L._SX330_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -51,7 +51,7 @@ permalink: /blalla/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1998</p></div>
+            <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Arch of Fire</h1><hr>
@@ -65,7 +65,7 @@ permalink: /blalla/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2001</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Flammendes Land Roman</h1><hr>
@@ -80,7 +80,7 @@ permalink: /blalla/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2005</p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Virtual Realism : Constraints on Validity in Textual Evidence of Caribbean History</h1><hr>
@@ -94,7 +94,7 @@ permalink: /blalla/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Postcolonialisms : Caribbean rereading of Medieval English Discourse</h1><hr>
@@ -122,7 +122,7 @@ permalink: /blalla/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right hide">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Grounds For Tenure</h1><hr>

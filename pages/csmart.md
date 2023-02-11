@@ -25,7 +25,7 @@ permalink: /csmart/
         <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Witches Steeped In Gold</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTtF-3Tn-z0zhKAthNaYCf5_R0mFwIM70dNzrNnWdeTmkIMYYH" height="50%" width = "50%"></p>
                 <p>

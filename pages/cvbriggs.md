@@ -25,7 +25,7 @@ permalink: /cvbriggs/
         <div class="block">
             <div class="date left"><p class="left">1920</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Crusader: "The Magazine Nearly Every Negro Reads"</h1><hr>
                 <p><img src=""></p>
                 <p>

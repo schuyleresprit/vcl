@@ -25,7 +25,7 @@ permalink: /bhambley/
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Crimson Angel: A Benjamin January Historical Mystery Set In New Orleans And Haiti</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/511tf-kFHsL._SY264_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>

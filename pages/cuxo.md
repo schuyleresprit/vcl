@@ -25,7 +25,7 @@ permalink: /cuxo/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The detective fiction of Leonardo Padura Fuentes</h1><hr>
                 <p><img src="https://0.academia-photos.com/attachment_thumbnails/33034878/mini_magick20190406-11324-xx0fft.png?1554606611"></p>
                 <p>
