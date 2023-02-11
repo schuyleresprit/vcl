@@ -25,7 +25,7 @@ permalink: /asegalas/
         <div class="block">
             <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Récits Des Antilles: Le Bois De La Soufriére : Suivis D'un Choix De Poémes</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=ozFmzgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE712feGfB8ZnMNWQXLY3YhzO_DMCSIBczXpsh9LQEEslt1WkrZwGIAEBRPKIf4H4YXDVshPjrWTXU40sPGg83piZN9-MgKP5PiPewHweqt_BkK8dkeKrg0cwYb5h6obAVwn52ms7"></p>
                 <p>

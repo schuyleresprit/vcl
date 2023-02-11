@@ -25,7 +25,7 @@ permalink: /anonymous/
         <div class="block">
             <div class="date left"><p class="left">1828</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Marly; or, A Planter's Life in Jamaica</h1><hr>
                 <p><img src="https://pictures.abebooks.com/isbn/9780333974025-uk.jpg"></p>
                 <p>

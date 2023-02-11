@@ -25,7 +25,7 @@ permalink: /amgomes/
         <div class="block">
             <div class="date left"><p class="left">1931</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Beacon</h1><hr>
                 <p><img src="IMAGE LINK"></p>
                 <p>

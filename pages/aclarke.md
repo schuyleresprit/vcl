@@ -25,7 +25,7 @@ permalink: /aclarke/
         <div class="block">
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Collected Plays</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71cegkHli4L.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /aclarke/
         <div class="block">
             <div class="date right"><p class="right">1964</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Survivors of the Crossing</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/517AWR6dNiL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -98,7 +98,7 @@ permalink: /aclarke/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1977</p></div>
+            <div class="date right"><p class="right">1977</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Prime Minister</h1><hr>
@@ -113,7 +113,7 @@ permalink: /aclarke/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1980</p></div>
+            <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Growing Up Stupid Under the Union Jack</h1><hr>
@@ -128,7 +128,7 @@ permalink: /aclarke/
             </div>
         </div>
          <div class="block">
-            <div class="date right"><p class="right hide">1988</p></div>
+            <div class="date right"><p class="right">1988</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Proud Empires</h1><hr>
@@ -143,7 +143,7 @@ permalink: /aclarke/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left hide">1994</p></div>
+            <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Passage Back Home: A Personal Reminiscence of Samuel Selvon</h1><hr>
@@ -158,7 +158,7 @@ permalink: /aclarke/
            </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1996</p></div>
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Austin Clarke Reader</h1><hr>
@@ -173,7 +173,7 @@ permalink: /aclarke/
            </div>
         </div>
                 <div class="block">
-            <div class="date left"><p class="left hide">1999</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Question</h1><hr>
@@ -188,7 +188,7 @@ permalink: /aclarke/
            </div>
         </div>
                 <div class="block">
-            <div class="date right"><p class="right hide">2000</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Pigs Tails 'N Breadfruit: Rituals Of Slave Food</h1><hr>
@@ -203,7 +203,7 @@ permalink: /aclarke/
            </div>
         </div>
                 <div class="block">
-            <div class="date left"><p class="left hide">2002</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Polished Hoe</h1><hr>
@@ -218,7 +218,7 @@ permalink: /aclarke/
            </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2007</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>There Are No Elders</h1><hr>
@@ -233,7 +233,7 @@ permalink: /aclarke/
            </div>
         </div>
                 <div class="block">
-            <div class="date left"><p class="left hide">2008</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1> In This City</h1><hr>
@@ -248,7 +248,7 @@ permalink: /aclarke/
            </div>
         </div>
                 <div class="block">
-            <div class="date right"><p class="right hide">2009</p></div>
+            <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>More</h1><hr>
@@ -263,7 +263,7 @@ permalink: /aclarke/
            </div>
         </div>
                 <div class="block">
-            <div class="date left"><p class="left hide">2013</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Where the Sun Shines Best</h1><hr>
@@ -278,7 +278,7 @@ permalink: /aclarke/
            </div>
         </div>
                 <div class="block">
-            <div class="date right"><p class="right hide">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>When He Was Free and Young and He Used To Wear Silks</h1><hr>

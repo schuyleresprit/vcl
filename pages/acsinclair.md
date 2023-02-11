@@ -25,7 +25,7 @@ permalink: /acsinclair/
         <div class="block">
             <div class="date left"><p class="left">1881</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Handbook Of Jamaica</h1><hr>
                 <p><img src="https://img.thriftbooks.com/api/images/m/436fdc72efa628696a0910b1c2753d108eceae08.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /acsinclair/
         <div class="block">
             <div class="date right"><p class="right">1886</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Jamaica Court at the Indian and Colonial Exhibition:  Handbook compiled for the Governors of the Jamaica Institute</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md22407444163.jpg"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /acsinclair/
             <div class="block">
                 <div class="date left"><p class="left">1888</p></div>
                 <div class="dot"></div>
-                <div class="right">
+                <div class="right hide">
                     <h1>Jamaica: Outlines of its Geography and History</h1><hr>
                     <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
                     <p>
@@ -66,7 +66,7 @@ permalink: /acsinclair/
             <div class="block">
                 <div class="date right"><p class="right">1889</p></div>
                 <div class="dot"></div>
-                <div class="left">
+                <div class="left hide">
                     <h1>Chronological History of Jamaica during the Government of His Excellency Sir Henry Wylie Norman</h1><hr>
                     <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
                     <p>

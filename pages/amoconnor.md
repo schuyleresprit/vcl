@@ -25,7 +25,7 @@ permalink: /amoconnor/
         <div class="block">
             <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>An Economic Geography Of East Africa</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41afE6Lgf5L._AC_SY780_.jpg"></p>
                 <p>

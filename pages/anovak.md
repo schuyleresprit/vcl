@@ -25,7 +25,7 @@ permalink: /anovak/
          <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>"A Marred Testament": Cultural Trauma And Narrative In Danticat's The Farming Of Bones</h1><hr>
                 <p><img src=""></p>
                 <p>

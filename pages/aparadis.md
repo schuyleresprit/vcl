@@ -25,7 +25,7 @@ permalink: /aparadis/
         <div class="block">
             <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>L'année Du Fromager: Roman : Suivi De L'Esclave : Nouvelle</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51RNAG5P5FL._SX294_BO1,204,203,200_.jpg"></p>
                 <p>

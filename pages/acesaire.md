@@ -25,7 +25,7 @@ permalink: /acesaire/
         <div class="block">
             <div class="date left"><p class="left">1962</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Toussaint Louverture: La Révolution Française et le Problème Colonial</h1><hr>
                 <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /acesaire/
         <div class="block">
             <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Toussaint Louverture: La Révolution Française et le Problème Colonial</h1><hr>
                 <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
                 <p>
@@ -78,7 +78,7 @@ permalink: /acesaire/
             </div>
         </div>
             <div class="block">
-            <div class="date left"><p class="left hide">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cadastre</h1><hr>
@@ -92,7 +92,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Some African Poems</h1><hr>
@@ -107,7 +107,7 @@ permalink: /acesaire/
             </div>
         </div>
            <div class="block">
-            <div class="date left"><p class="left hide">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Woman and the Knife</h1><hr>
@@ -122,7 +122,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1982</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Guide du Militant</h1><hr>
@@ -137,7 +137,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1983</p></div>
+            <div class="date left"><p class="left">1983</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Collected Poetry</h1><hr>
@@ -151,7 +151,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1983</p></div>
+            <div class="date right"><p class="right">1983</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Cahier d'un Retour au Pays Natal</h1><hr>
@@ -165,7 +165,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1984</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Tragédie Du Roi Christophe</h1><hr>
@@ -178,7 +178,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1984</p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Non-Vicious Circle: Twenty Poems Of Aimé Césaire</h1><hr>
@@ -193,7 +193,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1985</p></div>
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Lettre a Maurice Thorez</h1><hr>
@@ -207,7 +207,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1986</p></div>
+            <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Premiers Jalons Pour une Politique de la Culture</h1><hr>
@@ -221,7 +221,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1986</p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Tempest</h1><hr>
@@ -236,7 +236,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1987</p></div>
+            <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Une Tempête</h1><hr>
@@ -250,7 +250,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1987</p></div>
+            <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cadastre</h1><hr>
@@ -264,7 +264,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1987</p></div>
+            <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Gedichte</h1><hr>
@@ -278,7 +278,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1988</p></div>
+            <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Tempest</h1><hr>
@@ -293,7 +293,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1988</p></div>
+            <div class="date right"><p class="right">1988</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Une Saison Au Congo</h1><hr>
@@ -306,7 +306,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1989</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Ferrements</h1><hr>
@@ -320,7 +320,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Cadastre</h1><hr>
@@ -334,7 +334,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1989</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Et les Chiens Se Taisaient: Tragédie : Arrangement Théâtral</h1><hr>
@@ -348,7 +348,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Les Armes Miraculeuses</h1><hr>
@@ -362,7 +362,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1989</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Et les Chiens Se Taisaient: Tragédie : Arrangement Théâtral</h1><hr>
@@ -375,7 +375,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1990</p></div>
+            <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Lyric and Dramatic Poetry, 1946-82</h1><hr>
@@ -390,7 +390,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1990</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Tragédie Du Roi Christophe</h1><hr>
@@ -403,7 +403,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1990</p></div>
+            <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Cahier d'un Retour au Pays Natal</h1><hr>
@@ -417,7 +417,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">1997</p></div>
+            <div class="date left"><p class="left">1997</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Une Tempête</h1><hr>
@@ -431,7 +431,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2000</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Discourse on Colonialism</h1><hr>
@@ -446,7 +446,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">2002</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Tempest</h1><hr>
@@ -461,7 +461,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2013</p></div>
+            <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Notebook of a Return to the Native Land</h1><hr>
@@ -476,7 +476,7 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left hide">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Journal of a Homecoming</h1><hr>
@@ -491,7 +491,7 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Notebook of a Return to the Native Land</h1><hr>

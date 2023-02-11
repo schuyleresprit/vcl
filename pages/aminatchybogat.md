@@ -25,7 +25,7 @@ permalink: /aminatchybogat/
         <div class="block">
             <div class="date left"><p class="left"> 2001</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Terre D'Exil Et D'Adoption</h1><hr>
                 <p><img src="https://images.epagine.fr/989/9782844505989_1_75.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>

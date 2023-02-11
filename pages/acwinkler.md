@@ -25,7 +25,7 @@ permalink: /acwinkler/
         <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Lunatic</h1><hr>
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcF_chjcC5i3Jcy7I1cIVVpvmFTCUrM_vSJU-waffkgNEwh0dp"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /acwinkler/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1995</p></div>
+            <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Going Home To Teach</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkAe60aQPMW0xr846unPSxpG_RIYxXK5l1SUZ9oVbkK5BsDJYY"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /acwinkler/
        <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Dog War</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51h3kY-a4vL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -65,9 +65,9 @@ permalink: /acwinkler/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>God Carlos</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51hPmUTQ-XL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -81,7 +81,7 @@ permalink: /acwinkler/
 <div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Family Mansion</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/510uE5hjryL._SX338_BO1,204,203,200_.jpg"></p>
                 <p>
