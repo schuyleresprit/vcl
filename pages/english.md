@@ -15,14 +15,15 @@ permalink: /English/
 
 Represented here are the authors who have written works in English. Some of these may be texts translated into English from other languages.
 
-
-__Return to <a href="{% link pages/languages.md %}">Languages</a>__
 <html>
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
 		</div>
+		<div>
+        <h5>Return to <a href="{% link pages/languages.md %}">Languages</a></h5>
+        </div>
 		<div id="data-container" class="row">
 		</div>
 	</div>
