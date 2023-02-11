@@ -14,7 +14,7 @@ permalink: /Poetry Collection/
 <div class="col-sm-10">
 <div class="page_title"><h3> Poetry Collections</h3></div>
 
-Represented here are the authors who have written works in Poetry. Some of these may be texts translated into Poetry from other languages.
+Represented here are the the texts in the dataset representative of the genre or category 'Poetry'.
 
 <html>
 <body>
@@ -97,6 +97,4 @@ Represented here are the authors who have written works in Poetry. Some of these
 </div>
 <div class="col-sm-1">
 </div>
-</div>
-</div>
-</div>
+

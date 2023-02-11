@@ -14,7 +14,7 @@ permalink: /Autobiography/Memoir/
 <div class="col-sm-10">
 <div class="page_title"><h3> Autobiography/Memoir</h3></div>
 
-Represented here are the authors who have written works in Autobiography/Memoir. Some of these may be texts translated into Autobiography/Memoir from other languages.
+Represented here are the the texts in the dataset representative of the genre or category 'Autobiography/Memoir'.
 
 <html>
 <body>
@@ -97,6 +97,4 @@ Represented here are the authors who have written works in Autobiography/Memoir.
 </div>
 <div class="col-sm-1">
 </div>
-</div>
-</div>
-</div>
+

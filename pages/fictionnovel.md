@@ -13,7 +13,7 @@ permalink: /Fiction (Novel)/
 <div class="col-sm-10">
 <div class="page_title"><h3> Fiction (Novel/Novella)</h3></div>
 
-Represented here are the authors who have written works in Fiction (Novel/Novella). Some of these may be texts translated into Fiction (Novel/Novella) from other languages.
+Represented here are the the texts in the dataset representative of the genre or category 'Fiction (Novel/Novella)'.
 
 <html>
 <body>

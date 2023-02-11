@@ -14,7 +14,7 @@ permalink: /Anthology/
 <div class="col-sm-10">
 <div class="page_title"><h3> Anthology</h3></div>
 
-Represented here are the authors who have written works in Anthology. Some of these may be texts translated into Anthology from other languages.
+Represented here are the the texts in the dataset representative of the genre or category 'Anthology'.
 
 <html>
 <body>

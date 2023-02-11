@@ -13,8 +13,7 @@ permalink: /Poem/
 <div class="col-sm-10">
 <div class="page_title"><h3> Poem</h3></div>
 
-Represented here are the authors who have written works in Poem. Some of these may be texts translated into Poem from other languages.
-
+Represented here are the the texts in the dataset representative of the genre or category 'Poem'.
 <html>
 <body>
 	<div class="container">
@@ -96,6 +95,4 @@ Represented here are the authors who have written works in Poem. Some of these m
 </div>
 <div class="col-sm-1">
 </div>
-</div>
-</div>
-</div>
+

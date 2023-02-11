@@ -15,7 +15,7 @@ permalink: /Fiction (Short Story Collection)/
 <div class="col-sm-10">
 <div class="page_title"><h3> Fiction (Short Story Collection)</h3></div>
 
-Represented here are the authors who have written works in Fiction (Short Story Collection). Some of these may be texts translated into Fiction (Short Story Collection) from other languages.
+Represented here are the the texts in the dataset representative of the genre or category 'Fiction (Short Story Collection)'.
 
 <html>
 <body>
@@ -97,7 +97,4 @@ Represented here are the authors who have written works in Fiction (Short Story 
 </div>
 </div>
 <div class="col-sm-1">
-</div>
-</div>
-</div>
 </div>

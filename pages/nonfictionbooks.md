@@ -13,7 +13,7 @@ permalink: /Nonfiction/
 <div class="col-sm-10">
 <div class="page_title"><h3> Nonfiction</h3></div>
 
-Represented here are the authors who have written works in Nonfiction. Some of these may be texts translated into Nonfiction from other languages.
+Represented here are the the texts in the dataset representative of the genre or category 'Nonfiction'.
 
 <html>
 <body>
@@ -96,7 +96,5 @@ Represented here are the authors who have written works in Nonfiction. Some of t
 </div>
 <div class="col-sm-1">
 </div>
-</div>
-</div>
-</div>
+
 
