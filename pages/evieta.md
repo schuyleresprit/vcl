@@ -25,6 +25,20 @@ permalink: /evieta/
             <div class="date left"><p class="left">1954</p></div>
             <div class="dot"></div>
             <div class="right">
+                <h1>Aquelarre. Short Stories</h1><hr>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Manigua<br/>
+                Pub_location: Santiago de Cuba, Cuba<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 131<br/>                   </p>
+            </div>
+        </div>
+     <div class="block">
+            <div class="date left"><p class="left">1954</p></div>
+            <div class="dot"></div>
+            <div class="right">
                 <h1>Aquelarre, Por Ezequiel Vieta. Portada Y Viñeta De Horacio Maggi</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=Jh6oAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73zMX0LewH2eTPkrf00uQtYHhnrQAqHHBgn-PLu8JCZiHfKCW-KJXw_Glb_BWFjdDUG5vjKYWJ5liZ6IuaOd6lXslmgV3qYcjTcN7b73tbCN-HO_o7aSdcdWMJH9DcKlkfmqlfu"></p>
                 <p>

@@ -166,30 +166,16 @@ permalink: /srios/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
-                <h1>El Retrato Ovalado</h1><hr>
-                <p><img src="https://ginapicart.files.wordpress.com/2012/10/copy-of-copy-of-dsc06928.jpg" height="50%" width = "50%"></p>
+            <div class="left hide">
+                <h1>The Oval Portrait: Thirty-Seven Contemporary Cuban Women Writers And Artists : Originally Published As El Retrato Ovalado</h1><hr>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+3057609556_140.jpg?allowDefault=false&client=WorldcatOrgUI" height="50%" width = "50%"></p>
                 <p>Language: English<br/>
                 Publisher: Ediciones Unión<br/>
                 Pub_location: Havana, Cuba<br/>
-                Genre: Nonfiction<br/>
-                Translation: y<br/>
-                Length: 185</p>
-            </div>
-        </div>        
-        <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Antes Del Mediodía: Memoria Del Sueño</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41qgufjwWjL.jpg" height="50%" width = "50%"></p>
-                <p>Language: Spanish<br/>
-                Publisher: Ediciones Unión<br/>
-                Pub_location: Havana, Cuba<br/>
-                Genre: Fiction<br/>
-                Length: 246</p>
+                Genre: Anthology<br/>
+                Length: 202 </p>
             </div>
         </div>
         <div class="block">
