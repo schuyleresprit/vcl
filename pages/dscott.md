@@ -25,7 +25,7 @@ permalink: /dscott/
         <div class="block">
             <div class="date left"><p class="left">1966</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Terminus </h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /dscott/
         <div class="block">
             <div class="date right"><p class="right">1973</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Uncle Time</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609969946l/2621246._SX318_.jpg"></p>
                 <p>
@@ -51,7 +51,7 @@ permalink: /dscott/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1982</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Dreadwalk: Poems, 1970-78</h1><hr>
@@ -65,7 +65,7 @@ permalink: /dscott/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Strategies</h1><hr>
@@ -79,7 +79,7 @@ permalink: /dscott/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2003</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>An Echo in the Bone</h1><hr>
@@ -93,7 +93,7 @@ permalink: /dscott/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2004</p></div>
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Dog</h1><hr>
@@ -121,7 +121,7 @@ permalink: /dscott/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right hide">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>After-Image</h1><hr>
