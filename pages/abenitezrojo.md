@@ -155,9 +155,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Woman in Battle Dress</h1><hr>
                 <p><img src="https://i.pinimg.com/originals/2f/a9/ff/2fa9ffcc03eb2baf152b6b7fe7cf58e9.jpg"></p>
                 <p>Language: English <br/>
