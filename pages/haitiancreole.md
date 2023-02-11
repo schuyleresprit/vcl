@@ -13,8 +13,6 @@ Represented here are the authors who have written works in Haitian Creole. Some 
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
 		</div>
-		 <h5>Return to <a href="{% link pages/languages.md %}">Languages</a></h5>
-        </div>
 		<div id="data-container" class="row">
 		</div>
 	</div>
