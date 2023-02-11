@@ -1,7 +1,7 @@
 ---
 layout: default
-title: English
-permalink: /English/
+title: Vietnamese
+permalink: /Vietnamese/
 ---
 
 <div class="individual_language">
@@ -13,7 +13,7 @@ permalink: /English/
 <div class="col-sm-10">
 <div class="page_title"><h3>English</h3></div>
 
-Represented here are the authors who have written works in English. Some of these may be texts translated into English from other languages.
+Represented here are the authors who have written works in Vietnamese. Some of these may be texts translated into Vietnamese from other languages.
 
 
 __Return to <a href="{% link pages/languages.md %}">Languages</a>__
@@ -38,7 +38,7 @@ __Return to <a href="{% link pages/languages.md %}">Languages</a>__
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
-			$.getJSON("{{ site.baseurl }}/data/english.json", function (data) {
+			$.getJSON("{{ site.baseurl }}/data/vietnamese.json", function (data) {
 				let cards = [];
 				for (const [key, value] of Object.entries(data)) {
 					if (filter == "" && value.length > 0) {
