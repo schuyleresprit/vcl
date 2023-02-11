@@ -34,11 +34,9 @@ permalink: /opadisa/
                 Publisher Location: Oakland, CA, United States<br/>
                 Genre: Poetry Collection<br/>
                 Length: 103
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1992</p></div>
             <div class="dot"></div>
@@ -51,7 +49,6 @@ permalink: /opadisa/
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Fiction<br/>
                 Length: 258
-
                 </p>
             </div>
         </div>
@@ -67,11 +64,9 @@ permalink: /opadisa/
                 Publisher Location: Oxford, England<br/>
                 Genre: Fiction<br/>
                 Length: 256
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
@@ -84,11 +79,9 @@ permalink: /opadisa/
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 103
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
@@ -101,11 +94,9 @@ permalink: /opadisa/
                 Publisher Location:<br/>
                 Genre:<br/>
                 Length:
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
@@ -118,11 +109,9 @@ permalink: /opadisa/
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Fiction<br/>
                 Length: 258
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
@@ -135,11 +124,9 @@ permalink: /opadisa/
                 Publisher Location: Leeds, LDN, England<br/>
                 Genre: Poetry Collection<br/>
                 Length: 222
-
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
@@ -155,7 +142,6 @@ permalink: /opadisa/
                   </p>
             </div>
         </div>
-
             <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
@@ -168,9 +154,8 @@ permalink: /opadisa/
                 Publisher Location: Basseterre, St. Kitts<br/>
                 Genre: Fiction<br/>
                 Length: 27
-
                 </p>
             </div>
         </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
