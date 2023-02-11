@@ -75,9 +75,9 @@ permalink: /aminatchybogat/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Papa ! - t'ai-je vraiment pardonné?</h1><hr>
                 <p><img src="https://products-images.di-static.com/image/arlette-minatchy-bogat-papa/9782844504302-475x500-1.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
@@ -101,9 +101,9 @@ permalink: /aminatchybogat/
             </div>
         </div>
          <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Saomie la métisse - mi sud-africaine mi caribéenne</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71-8qPjQY8L.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>

@@ -25,7 +25,7 @@ permalink: /abenitezrojo/
         <div class="block">
             <div class="date left"><p class="left">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Heroica</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/1172917379.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1976</p></div>
+            <div class="date right"><p class="right">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Los Inquilinos Cuento Primera Edicion.1976</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51R05WhjcTL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -51,9 +51,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1984</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Estatuas Sepultadas y Otros Relatos</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41wL1-KlRKL._SY291_BO1,204,203,200_QL40_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -64,9 +64,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1997</p></div>
+            <div class="date right"><p class="right">1997</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Antología Personal</h1><hr>
                 <p><img src="http://ecx.images-amazon.com/images/I/31y-2o0F0ZL.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -77,9 +77,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1998</p></div>
+            <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>A View from The Mangrove</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/519VCXCQ4BL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>Language: English <br/>
@@ -90,9 +90,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
+            <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>El Mar de Las Lentejas</h1><hr>
                 <p><img src="https://covers.openlibrary.org/b/id/3710285-M.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -103,9 +103,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2000</p></div>
+            <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Sea of Lentils</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeb75NxVk8UbE71AbOknVWFrqup20XQsWLwlapVr5Aw09T3lKy"></p>
                 <p>Language: English<br/>
@@ -116,9 +116,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Mujer en Traje de Batalla</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348697215l/2487486.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -129,9 +129,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2006</p></div>
+            <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Femme en Costume de Bataille</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/1351866333.jpg"></p>
                 <p>Language: French<br/>
@@ -142,9 +142,9 @@ permalink: /abenitezrojo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2013</p></div>
+            <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Antonio Benítez Rojo : Del Mundo Cerrado al Caribe Infinito</h1><hr>
                 <p><img src="https://tse4.mm.bing.net/th?id=OIP.PsfFFk7EgDcCowfcf2te1gAAAA&pid=Api&P=0"></p>
                 <p>Language: Spanish<br/>

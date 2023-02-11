@@ -91,7 +91,7 @@
     },
     "Myriam J. A Chancy": {
         "Author": "Myriam J. A Chancy",
-        "author_id": "mjachancy",
+        "author_id": "mchancy",
         "author_country": "haiti"
     },
     "Michelle Cliff": {
@@ -121,7 +121,7 @@
     },
     "Jose Marti\u0301": {
         "Author": "Jose Marti\u0301",
-        "author_id": "jmarti\u0301",
+        "author_id": "jmarti",
         "author_country": "cuba"
     },
     "Jean Casimir": {
@@ -2635,7 +2635,7 @@
         "author_country": "guadeloupe"
     },
     "Mylene Pintado Fernandz": {
-        "Author": "Mylene Pintado Fernandz",
+        "Author": "Mylene Pintado Fernandez",
         "author_id": "mpfernandez",
         "author_country": "cuba"
     },

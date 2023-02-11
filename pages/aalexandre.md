@@ -25,7 +25,7 @@ permalink: /aalexandre/
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Drive: L'errance Ensorcelée</h1><hr>
                 <p><img src="https://www.librest.com/cache/img/livres/296/9782357200296.jpg"></p>
                 <p>

@@ -40,7 +40,7 @@ permalink: /cbrowning/
         <div class="block">
             <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>The Vanishing Girls</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51NqgBgRsXL.jpg"></p>
                 <p>

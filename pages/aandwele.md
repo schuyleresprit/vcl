@@ -25,7 +25,7 @@ permalink: /aandwele/
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Rhythm an' Roots: A Collection Of Poems</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51EPIsU9nJL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>

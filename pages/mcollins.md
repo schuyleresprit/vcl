@@ -25,7 +25,7 @@ permalink: /mcollins/
         <div class="block">
             <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Because the Dawn Breaks!</h1><hr><br/>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51yWbzYBoHL._SX363_BO1,204,203,200_.jpg"></p><br/>
                 <p>
@@ -40,7 +40,7 @@ permalink: /mcollins/
         <div class="block">
             <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Angel</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/5119XgTVqOL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -52,9 +52,9 @@ permalink: /mcollins/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Ladies are Upstairs</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51wXWnoI7vL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>

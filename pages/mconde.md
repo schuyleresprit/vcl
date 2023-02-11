@@ -25,7 +25,7 @@ permalink: /mconde/
         <div class="block">
             <div class="date left"><p class="left">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Hérémakhonon</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31Vve0vXNAL._SY346_.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /mconde/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1976</p></div>
+            <div class="date right"><p class="right">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Heremakhonon</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41uqElGcMBL._SX362_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /mconde/
        <div class="block">
             <div class="date left"><p class="left">1978</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La civilisation du bossale: Reflexions sur la littérature orale de la Guadeloupe et de la Martinique</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51+V2T+APAL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -65,9 +65,9 @@ permalink: /mconde/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1978</p></div>
+            <div class="date right"><p class="right">1978</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Cahier D'un Retour au Pays Natal, Césaire: Analyse Critique</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41EYhk65AwL._SX300_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -81,7 +81,7 @@ permalink: /mconde/
 <div class="block">
             <div class="date left"><p class="left">1979</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La Parole des Femmes: Essai sur des Romancières des Antilles de Langue Française</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41x5p-Z96cL._SX307_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -93,9 +93,9 @@ permalink: /mconde/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>A Season in Rihata</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+621390268_140.jpg"></p>
                 <p>
@@ -109,7 +109,7 @@ permalink: /mconde/
        <div class="block">
             <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Une Saison à Rihata</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41QJt-ozKSL._SX314_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -121,9 +121,9 @@ permalink: /mconde/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Rihata</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540133546l/42407044.jpg"></p>
                 <p>
@@ -137,7 +137,7 @@ permalink: /mconde/
       <div class="block">
             <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>De Open Plek Over Franstalige Literatuur uit de Antillen</h1><hr>
                 <p><img src="https://v112.nbc.bibliotheek.nl/thumbnail?width=320&uri=http%3A%2F%2Fdata.bibliotheek.nl%2Fggc%2Fppn%2F154068985&no-cover-image=false&token=45688e6d"></p>
                 <p>
@@ -149,9 +149,9 @@ permalink: /mconde/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1984</p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>De Aarden Wallen</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51h4d-Q+WYL._SX307_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -165,7 +165,7 @@ permalink: /mconde/
        <div class="block">
             <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Segu</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+889278477_140.jpg"></p>
                 <p>
@@ -177,9 +177,9 @@ permalink: /mconde/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1984</p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Les Murailles de Terre</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/516S97XQ04L._SX210_.jpg"></p>
                 <p>

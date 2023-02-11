@@ -25,7 +25,7 @@ permalink: /zedgell/
         <div class="block">
             <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Beka Lamb</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410755274l/2477123.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /zedgell/
         <div class="block">
             <div class="date right"><p class="right">1991</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>In Times Like These</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387703217l/848567.jpg"></p>
                 <p>
@@ -53,9 +53,9 @@ permalink: /zedgell/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1997</p></div>
+            <div class="date left"><p class="left">1997</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>The Festival of San Joaquin</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1178878714l/848568.jpg"></p>
                 <p>Language: English<br>
@@ -66,9 +66,9 @@ permalink: /zedgell/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2007</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Time and the River</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+632591849_140.jpg?SearchOrder=+-+OT,OS,TN,GO,FA"></p>
                 <p>Language: English<br>

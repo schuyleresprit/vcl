@@ -25,7 +25,7 @@ permalink: /mcliff/
         <div class="block">
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Claiming an Identity They Taught Me to Despise</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/4135LMJbq6L._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /mcliff/
         <div class="block">
             <div class="date right"><p class="right">1985</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Land of Look Behind and Claiming</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61JrI7XWL2L._SX321_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /mcliff/
         <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>No Telephone to Heaven</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/518oMeRPrhL._SX325_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -70,7 +70,7 @@ permalink: /mcliff/
         <div class="block">
             <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Bodies of Water</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/21SBXM7TK9L._BO1,204,203,200_.jpg"></p>
                 <p>
@@ -85,7 +85,7 @@ permalink: /mcliff/
         <div class="block">
             <div class="date left"><p class="left">1993</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Free Enterprise: A Novel of Mary Ellen Pleasant</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41tx32+Bk8L._SY344_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -100,7 +100,7 @@ permalink: /mcliff/
         <div class="block">
             <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Abeng</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/410z6kmtIkL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -115,7 +115,7 @@ permalink: /mcliff/
          <div class="block">
             <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Kein Himmel über Jamaika Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51jIe+VUg7L._SX334_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -127,9 +127,9 @@ permalink: /mcliff/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1998</p></div>
+            <div class="date right"><p class="right">1998</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Store of a Million Items</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51SRHCY764L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -144,7 +144,7 @@ permalink: /mcliff/
          <div class="block">
             <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Kein Telefon Zum Himmel</h1><hr>
                 <p><img src="http://www.unionsverlag.com/dat/img/cover/3293201628.jpg"></p>
                 <p>
@@ -156,9 +156,9 @@ permalink: /mcliff/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">2009</p></div>
+            <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Everything is Now: New and Collected Stories</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51e-zR53UqL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -173,7 +173,7 @@ permalink: /mcliff/
         <div class="block">
             <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Into the Interior</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41p0guEgGeL._SX314_BO1,204,203,200_.jpg"></p>
                 <p>
