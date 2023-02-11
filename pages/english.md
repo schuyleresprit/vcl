@@ -42,8 +42,6 @@ Represented here are the authors who have written works in English. Some of thes
 			$.getJSON("{{ site.baseurl }}/data/english.json", function (data) {
 				let cards = [];
 
-				console.log(data);
-
 				for (const [key, value] of Object.entries(data)) {
 					if (filter == "" && value.length > 0) {
 						for (i = 0; i < value.length; i++) {
@@ -85,38 +83,7 @@ Represented here are the authors who have written works in English. Some of thes
 					`);
 				}
 
-				/*
-				data.forEach(element => {
-					if ((filter == "") && element.length > 0) {
-						for (const [key, value] of Object.entries(element)) {
-							//console.log(`${key}: ${value}`);
 
-							for (i = 0; i < value.length; i++) {
-								//Todo:
-								cards.append({
-									"flavorText" : value[i]["Title"],
-									"subTitle" : value[i]["Author"],
-									"translation" : (value[i]["Translation"] == "y" ? "Translation" : ""),
-									"link" : key,
-								});
-							}
-						}
-					} else {
-						for (i = 0; i < element.data.length; i++) {
-							if (element.data[i].flavorText.toLowerCase().includes(filter.toLowerCase()))
-								$('#data-container').append(`
-									<div class="card col-4">
-										<div class="card-body">
-											<h5 class="card-title">${element.data[i].flavorText}</h5>
-											<h6 class="card-subtitle mb-2 text-muted">${element.data[i].subtitle}</h6>
-											<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
-										</div>
-									</div>
-								`);
-						}
-					}
-				});
-				*/
 			});
 		}
 	</script>
