@@ -24,7 +24,7 @@ permalink: /dhall/
         <div class="block">
             <div class="date left"><p class="left">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Your Corner Dark</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51OT6iuI3RL._SX320_BO1,204,203,200_.jpg"></p>
                 <p>

@@ -25,7 +25,7 @@ permalink: /dfranklyn/
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Children Of The Sea</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo8cT9Ix9EAGNXZjQ5AOSb2zdRPl3NzHKZmDjKKAkjx1PKrB8O"></p>
                 <p>

@@ -24,7 +24,7 @@ permalink: /dflpierreluke/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Through The Bedroom Window</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/417pyCnkOrL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /dflpierreluke/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2013</p></div>
+            <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>To Whom It May Concern: The Night Walker</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41KTg65X1+L._SY346_.jpg"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /dflpierreluke/
        <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>From Pillar To Post</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=HKoOMQ_y5vMC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U1gmjby9sC_MM8jH-p29IGq9anyTA&w=1280"></p>
                 <p>
@@ -64,9 +64,9 @@ permalink: /dflpierreluke/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
+            <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Bullard: Suspicious Finn</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx18Psb4pURjfOS1thTq1DgExATM3jJxoQSxSVv3IGq9ln4B1v"></p>
                 <p>

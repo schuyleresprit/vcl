@@ -23,9 +23,9 @@ permalink: /devery/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">2009</p></div>
+            <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>What Do You Have in Your House?: Surviving in Times of Financial Crisis </h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41BADdAVjAL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /devery/
         <div class="block">
             <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Promise Keeper </h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51XPr9MxVKL._SX351_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /devery/
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Arise and Shine - Journeying into the call and purposes of God</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/415Hco5bqiL.jpg"></p>
                 <p>
@@ -70,7 +70,7 @@ permalink: /devery/
         <div class="block">
             <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Merger Mogul</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ateWYKmWL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -83,7 +83,7 @@ permalink: /devery/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2013</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The High Road</h1><hr>
@@ -100,7 +100,7 @@ permalink: /devery/
         <div class="block">
             <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Price of Freedom </h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/518eBSOzrsL._SX310_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -115,7 +115,7 @@ permalink: /devery/
         <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>What now?</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51eHeQFyeML._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -130,7 +130,7 @@ permalink: /devery/
         <div class="block">
             <div class="date right"><p class="right">2016</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Free in the City (The Acreage Series Book 2)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51sk4LI2-2L.jpg"></p>
                 <p>
@@ -143,7 +143,7 @@ permalink: /devery/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Free at Last (The Acreage Series Book 3)</h1><hr>
@@ -160,7 +160,7 @@ permalink: /devery/
         <div class="block">
             <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Vaucluse</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51GQIqrE+ZL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -173,7 +173,7 @@ permalink: /devery/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Return to The Acreage</h1><hr>
@@ -190,7 +190,7 @@ permalink: /devery/
         <div class="block">
             <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Love Wins</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51jC6QCAodL._SY346_.jpg"></p>
                 <p>

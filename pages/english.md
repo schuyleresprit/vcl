@@ -19,7 +19,7 @@ Represented here are the authors who have written works in English. Some of thes
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
+			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
 		</div>
 		<div id="data-container" class="row">
 		</div>
@@ -53,8 +53,8 @@ Represented here are the authors who have written works in English. Some of thes
 					case "english":
 						for (key in data) {
 							temp.push({
-								"flavorText" : key,
-							    "subtitle" : key,
+								"flavorText" : data[key]["Title"],
+							    "subtitle" : data[key]["Author"],
 								"link" : key,
 							});
 						}
@@ -69,7 +69,7 @@ Represented here are the authors who have written works in English. Some of thes
 			$('#data-container').html('');
 			filter = filter.trim();
 			dataLinks.forEach(element => {
-				if ((filter == "Language") && element.data.length > 0) {
+				if ((filter == "") && element.data.length > 0) {
 					for (i = 0; i < element.data.length; i++) {
 						$('#data-container').append(`
 							<div class="card col-4">
