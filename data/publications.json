@@ -161,7 +161,7 @@
             "Translation": "n"
         }
     ],
-    "abenitezrogo": [
+    "abenitezrojo": [
         {
             "Author": "Antonio Benítez-Rojo",
             "Descriptor": "Translator: Anne Proenza",
@@ -292,19 +292,6 @@
             "Pubdate": "2000",
             "Publisher": "Faber and Faber",
             "Title": "Sea of Lentils",
-            "Translation": "n"
-        }
-    ],
-    "ableeker": [
-        {
-            "Author": "Amelia Bleeker",
-            "Descriptor": "Escribano, Pablo; Gonzales, Candice; Liberati, Cristina; Mawby, Briana",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "geneva_switzerland",
-            "Pubdate": "2021",
-            "Publisher": "International Organization for Migration",
-            "Title": "Advancing Gender Equality in Environmental Migration and Disaster Displacement in the Caribbean",
             "Translation": "n"
         }
     ],
@@ -1251,52 +1238,6 @@
             "Translation": "n"
         }
     ],
-    "acsinclair": [
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Contributors: Fyte, Laurence R.; Musson, Samuel Paynter; Roxburgh, Thomas Laurence; Ford, Joseph Charles; Finlay, Acheson Arundel Cameron; Cundall, Frank; Jamaica Information Service",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1881",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "The Handbook Of Jamaica",
-            "Translation": "n"
-        },
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1889",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "Chronological History of Jamaica during the Government of His Excellency Sir Henry Wylie Norman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1886",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "The Jamaica Court at the Indian and Colonial Exhibition: Handbook compiled for the Governors of the Jamaica Institute",
-            "Translation": "n"
-        },
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1888",
-            "Publisher": "De Cordova & Co.",
-            "Title": "Jamaica: Outlines of its Geography and History",
-            "Translation": "n"
-        }
-    ],
     "acummins": [
         {
             "Author": "Alvin Cummins",
@@ -1908,19 +1849,6 @@
             "Translation": "n"
         }
     ],
-    "ahalcrow": [
-        {
-            "Author": "A Halcrow",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1930",
-            "Publisher": "Planters' Punch",
-            "Title": "Timber-Laden",
-            "Translation": "y"
-        }
-    ],
     "ahcata": [
         {
             "Author": "Alfonso Hernández Catá",
@@ -2256,6 +2184,61 @@
             "Publisher": "W.W. Norton Company",
             "Title": "The Collected Poems Of Audre Lorde",
             "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "mineola_n.y_united¬†states",
+            "Pubdate": "1988",
+            "Publisher": "Dover Publications - Ixia Press",
+            "Title": "A Burst Of Light: And Other Essays",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1976",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Coal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1978",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Black Unicorn",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1982",
+            "Publisher": "Crossing Press Publisher",
+            "Title": "Zami: A New Spelling Of My Name: A Biomythography",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "bussum_netherlands",
+            "Pubdate": "1970",
+            "Publisher": "Paul Breman Limited",
+            "Title": "Cables To Rage",
+            "Translation": "n"
         }
     ],
     "alowe": [
@@ -2574,19 +2557,6 @@
             "Translation": "n"
         }
     ],
-    "amoconnor": [
-        {
-            "Author": "Anthony Michael O'Connor",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1966",
-            "Publisher": "Bell Publishing",
-            "Title": "An Economic Geography Of East Africa",
-            "Translation": "n"
-        }
-    ],
     "amoreno": [
         {
             "Author": "Antonio Moreno",
@@ -2609,20 +2579,7 @@
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2008",
             "Publisher": "Xlibris",
-            "Title": "Changind Shape",
-            "Translation": "n"
-        }
-    ],
-    "anovak": [
-        {
-            "Author": "Amy Novak",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "tuscon_az_united¬†states",
-            "Pubdate": "2006",
-            "Publisher": "University of Arizona",
-            "Title": "A Marred Testament: Cultural Trauma And Narrative In Danticat's The Farming Of Bones\"",
+            "Title": "Changing Shape",
             "Translation": "n"
         }
     ],
@@ -2954,195 +2911,6 @@
             "Translation": "n"
         }
     ],
-    "awlewis": [
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "gloucester_england",
-            "Pubdate": "2015",
-            "Publisher": "Palala Press",
-            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "1978",
-            "Publisher": "Allen & Unwin",
-            "Title": "Growth and Fluctuations, 1870-1913",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1970",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2003",
-            "Publisher": "Routledge",
-            "Title": "Overhead Costs",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1970",
-            "Publisher": "Routledge",
-            "Title": "Economic Survey",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "2009",
-            "Publisher": "Allen & Unwin",
-            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1955",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1983",
-            "Publisher": "Routledge",
-            "Title": "The Theory Of Economic Growth",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Selected Economic Writings Of W. Arthur Lewis",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Principles Of Economic Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        }
-    ],
     "baperez": [
         {
             "Author": "Brenda Alexander-Perez",
@@ -3187,7 +2955,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2002",
             "Publisher": "Macmillan Publishers",
-            "Title": "The toy town game",
+            "Title": "The Toy Town Game",
             "Translation": "n"
         },
         {
@@ -3209,7 +2977,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2001",
             "Publisher": "Macmillan Publishers",
-            "Title": "The twins",
+            "Title": "The Twins",
             "Translation": "n"
         }
     ],
@@ -4006,39 +3774,6 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "alabama_united_states",
-            "Pubdate": "1990",
-            "Publisher": "University of Alabama Press",
-            "Title": "Language in exile : three hundred years of Jamaican Creole",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "alabama_united_states",
-            "Pubdate": "1996",
-            "Publisher": "University of Alabama Press",
-            "Title": "Defining Jamaican fiction : marronage and the discourse of survival",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2008",
-            "Publisher": "The University of The West Indies Press",
-            "Title": "Postcolonialisms : Caribbean rereading of medieval English discourse",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "cave_hill_barbados",
@@ -4056,17 +3791,6 @@
             "Pubdate": "1998",
             "Publisher": "Kingston Publishers",
             "Title": "Arch of fire",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "2005",
-            "Publisher": "Society for Caribbean Linguistics",
-            "Title": "Virtual realism : constraints on validity in textual evidence of Caribbean history",
             "Translation": "n"
         },
         {
@@ -4090,85 +3814,6 @@
             "Publisher": "Verl.-Haus",
             "Title": "Flammendes Land Roman",
             "Translation": "y"
-        }
-    ],
-    "bmagnier": [
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1986",
-            "Publisher": "CLE International",
-            "Title": "Littératures des Caraibes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "quebec_canada",
-            "Pubdate": "2016",
-            "Publisher": "Mémoire d'encrier",
-            "Title": "Sur Fanon",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2015",
-            "Publisher": "CLE International",
-            "Title": "Sony Labou Tansi, toujours vivant! : dossier",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "German",
-            "Pub_id": "paris_france",
-            "Pubdate": "1995",
-            "Publisher": "Arles Actes Sud",
-            "Title": "Poésie d'Afrique au sud du Sahara 1945 - 1995 anthologie",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1993",
-            "Publisher": "CLE International",
-            "Title": "Littératures du Cap-Vert, de Guinée-Bissao, de São Tomé et Principe",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2009",
-            "Publisher": "Bozarbooks",
-            "Title": "Renaissances africaines : écrire 50 ans d'indépendance",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Paris bibliothèques éditions",
-            "Title": "Afrique cent livres : bibliographie sélective",
-            "Translation": "n"
         }
     ],
     "bmatamoro": [
@@ -6628,19 +6273,6 @@
             "Pubdate": "2019",
             "Publisher": "Oberon Books",
             "Title": "Plays One: Strange Fruit, Where There Is Darkness, The Shelter",
-            "Translation": "n"
-        }
-    ],
-    "cramos": [
-        {
-            "Author": "Collazo Ramos",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2009",
-            "Publisher": "University of Puerto Rico",
-            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
             "Translation": "n"
         }
     ],
@@ -9158,7 +8790,7 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
-            "Pub_id": "portland_or_united_states",
+            "Pub_id": "portland_or_united¬†states",
             "Pubdate": "2016",
             "Publisher": "YesYes Books",
             "Title": "Beastgirl & other origin myths",
@@ -9320,6 +8952,19 @@
             "Pubdate": "1960",
             "Publisher": "Doubleday",
             "Title": "Eltonsbrody",
+            "Translation": "n"
+        }
+    ],
+    "earichards": [
+        {
+            "Author": "Edward A Richards",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "st.thomas_virgin_islands",
+            "Pubdate": "1933",
+            "Publisher": "The Reflector, : Art Shop Press",
+            "Title": "Shadows: Selected Poems",
             "Translation": "n"
         }
     ],
@@ -17897,6 +17542,19 @@
             "Translation": "n"
         }
     ],
+    "jarcollazo": [
+        {
+            "Author": "Jose? Antonio Ramos Collazo",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "san_juan_puerto_rico",
+            "Pubdate": "2009",
+            "Publisher": "University of Puerto Rico",
+            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
+            "Translation": "n"
+        }
+    ],
     "jbaldwin": [
         {
             "Author": "James Baldwin",
@@ -23508,19 +23166,6 @@
             "Pubdate": "1999",
             "Publisher": "Tusquets Editores S.A.",
             "Title": "Cuentos Eróticos de Navidad",
-            "Translation": "n"
-        }
-    ],
-    "mafield": [
-        {
-            "Author": "Michael Anthony Field ",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "leatherhead_england",
-            "Pubdate": "1967",
-            "Publisher": "The British Coal Utilisation Research Association",
-            "Title": "Combustion of Pulverised Coal",
             "Translation": "n"
         }
     ],
@@ -30640,107 +30285,6 @@
             "Translation": "n"
         }
     ],
-    "rdepestre": [
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "1974",
-            "Publisher": "Leméac",
-            "Title": "Pour la Révolution, Pour la Poésie",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Haitian Creole",
-            "Pub_id": "nendeln_liechtenstein",
-            "Pubdate": "1970",
-            "Publisher": "Kraus International Publications",
-            "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "Haitian Creole",
-            "Pub_id": "nendeln_liechtenstein",
-            "Pubdate": "1970",
-            "Publisher": "Kraus International Publications",
-            "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "Haitian Creole",
-            "Pub_id": "nendeln_liechtenstein",
-            "Pubdate": "1970",
-            "Publisher": "Kraus International Publications",
-            "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1969",
-            "Publisher": "Biblioteca de Marcha",
-            "Title": "Por la Revolución, Por la Poesía",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "montevideo_uraguay",
-            "Pubdate": "1970",
-            "Publisher": "Biblioteca de Marcha",
-            "Title": "Por la Revolución, Por la Poesía",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "montevideo_uraguay",
-            "Pubdate": "1970",
-            "Publisher": "Biblioteca de Marcha",
-            "Title": "Por la Revolución, Por la Poesía",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "Akashic Books",
-            "Title": "Hadriana in All My Dreams",
-            "Translation": "y"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "French",
-            "Pub_id": "nendeln_liechtenstein",
-            "Pubdate": "1970",
-            "Publisher": "Kraus International Publications",
-            "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        }
-    ],
     "rdhamner": [
         {
             "Author": "Robert D. Hamner",
@@ -30787,6 +30331,107 @@
             "Publisher": "Edwin Mellen Press",
             "Title": "The Rule of Francois (\"Papa Doc\") Duvalier in Two Novels By Roger Dorsinville: Realism and Magic Realism in Haiti",
             "Translation": "y"
+        }
+    ],
+    "rdépestre": [
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "French",
+            "Pub_id": "montreãåal_qc_canada",
+            "Pubdate": "1974",
+            "Publisher": "Leméac",
+            "Title": "Pour la Révolution, Pour la Poésie",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Haitian Creole",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Haitian Creole",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Haitian Creole",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1969",
+            "Publisher": "Biblioteca de Marcha",
+            "Title": "Por la Revolución, Por la Poesía",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "montevideo_uraguay",
+            "Pubdate": "1970",
+            "Publisher": "Biblioteca de Marcha",
+            "Title": "Por la Revolución, Por la Poesía",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "montevideo_uraguay",
+            "Pubdate": "1970",
+            "Publisher": "Biblioteca de Marcha",
+            "Title": "Por la Revolución, Por la Poesía",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_united¬†states",
+            "Pubdate": "2017",
+            "Publisher": "Akashic Books",
+            "Title": "Hadriana in All My Dreams",
+            "Translation": "y"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
         }
     ],
     "rfpatterson": [
@@ -32237,7 +31882,7 @@
     "ssbart": [
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nBray, Barbara",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
@@ -32248,7 +31893,7 @@
         },
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nThe Bridge of Beyond",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "bristol_england",
@@ -36029,6 +35674,195 @@
             "Pubdate": "1960",
             "Publisher": "Longmans, Green and Co. in association with the Ministry of Education",
             "Title": "Sixty-Five",
+            "Translation": "n"
+        }
+    ],
+    "walewis": [
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "gloucester_england",
+            "Pubdate": "2015",
+            "Publisher": "Palala Press",
+            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "1978",
+            "Publisher": "Allen & Unwin",
+            "Title": "Growth and Fluctuations, 1870-1913",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1970",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2003",
+            "Publisher": "Routledge",
+            "Title": "Overhead Costs",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1970",
+            "Publisher": "Routledge",
+            "Title": "Economic Survey",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "2009",
+            "Publisher": "Allen & Unwin",
+            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1955",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1983",
+            "Publisher": "Routledge",
+            "Title": "The Theory Of Economic Growth",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "New York University Press",
+            "Title": "Selected Economic Writings Of W. Arthur Lewis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Principles Of Economic Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
             "Translation": "n"
         }
     ],

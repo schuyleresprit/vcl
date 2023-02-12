@@ -583,6 +583,50 @@
             "Publisher": "W.W. Norton Company",
             "Title": "The Collected Poems Of Audre Lorde",
             "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1976",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Coal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1976",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Coal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1978",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Black Unicorn",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1978",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Black Unicorn",
+            "Translation": "n"
         }
     ],
     "alowe": [
@@ -2341,7 +2385,7 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
-            "Pub_id": "portland_or_united_states",
+            "Pub_id": "portland_or_united¬†states",
             "Pubdate": "2016",
             "Publisher": "YesYes Books",
             "Title": "Beastgirl & other origin myths",
@@ -2352,10 +2396,34 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
-            "Pub_id": "portland_or_united_states",
+            "Pub_id": "portland_or_united¬†states",
             "Pubdate": "2016",
             "Publisher": "YesYes Books",
             "Title": "Beastgirl & other origin myths",
+            "Translation": "n"
+        }
+    ],
+    "earichards": [
+        {
+            "Author": "Edward A Richards",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "st.thomas_virgin_islands",
+            "Pubdate": "1933",
+            "Publisher": "The Reflector, : Art Shop Press",
+            "Title": "Shadows: Selected Poems",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward A Richards",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "st.thomas_virgin_islands",
+            "Pubdate": "1933",
+            "Publisher": "The Reflector, : Art Shop Press",
+            "Title": "Shadows: Selected Poems",
             "Translation": "n"
         }
     ],
@@ -2564,28 +2632,6 @@
         }
     ],
     "edanticat": [
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2011",
-            "Publisher": "Soho Press",
-            "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2011",
-            "Publisher": "Soho Press",
-            "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
-            "Translation": "n"
-        },
         {
             "Author": "Edwidge Danticat",
             "Descriptor": "",
@@ -8075,52 +8121,6 @@
             "Translation": "n"
         }
     ],
-    "rdepestre": [
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Haitian Creole",
-            "Pub_id": "nendeln_liechtenstein",
-            "Pubdate": "1970",
-            "Publisher": "Kraus International Publications",
-            "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Haitian Creole",
-            "Pub_id": "nendeln_liechtenstein",
-            "Pubdate": "1970",
-            "Publisher": "Kraus International Publications",
-            "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "French",
-            "Pub_id": "nendeln_liechtenstein",
-            "Pubdate": "1970",
-            "Publisher": "Kraus International Publications",
-            "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "French",
-            "Pub_id": "nendeln_liechtenstein",
-            "Pubdate": "1970",
-            "Publisher": "Kraus International Publications",
-            "Title": "Etincelles: Gerbe de Sang",
-            "Translation": "n"
-        }
-    ],
     "rdorsinville": [
         {
             "Author": "Roger Dorsinville",
@@ -8135,6 +8135,52 @@
         },
         {
             "Author": "Roger Dorsinville",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
+        }
+    ],
+    "rdépestre": [
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Haitian Creole",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Haitian Creole",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
+        },
+        {
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "French",

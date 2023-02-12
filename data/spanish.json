@@ -111,7 +111,7 @@
             "Translation": "n"
         }
     ],
-    "abenitezrogo": [
+    "abenitezrojo": [
         {
             "Author": "Antonio Benítez-Rojo",
             "Descriptor": "",
@@ -2361,30 +2361,6 @@
             "Translation": "y"
         }
     ],
-    "cramos": [
-        {
-            "Author": "Collazo Ramos",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2009",
-            "Publisher": "University of Puerto Rico",
-            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Collazo Ramos",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2009",
-            "Publisher": "University of Puerto Rico",
-            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
-            "Translation": "n"
-        }
-    ],
     "ctmorell": [
         {
             "Author": "Claribel Terré Morell",
@@ -2860,160 +2836,6 @@
         }
     ],
     "edanticat": [
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Lumen",
-            "Title": "¿Krik? ¡Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Lumen",
-            "Title": "¿Krik? ¡Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones del Bronce",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones del Bronce",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Círculo de lectores",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Círculo de lectores",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires",
-            "Pubdate": "1999",
-            "Publisher": "Grupo Editorial Norma",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires",
-            "Pubdate": "1999",
-            "Publisher": "Grupo Editorial Norma",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "El Cultivo de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "El Cultivo de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "IDB Cultural Center",
-            "Title": "Haiti: A Bi-Cultural Experience",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "IDB Cultural Center",
-            "Title": "Haiti: A Bi-Cultural Experience",
-            "Translation": "y"
-        },
         {
             "Author": "Edwidge Danticat",
             "Descriptor": "",
@@ -4606,6 +4428,30 @@
             "Pubdate": "2002",
             "Publisher": "Ember",
             "Title": "Antes De Ser Libre",
+            "Translation": "n"
+        }
+    ],
+    "jarcollazo": [
+        {
+            "Author": "Jose? Antonio Ramos Collazo",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "san_juan_puerto_rico",
+            "Pubdate": "2009",
+            "Publisher": "University of Puerto Rico",
+            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jose? Antonio Ramos Collazo",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "san_juan_puerto_rico",
+            "Pubdate": "2009",
+            "Publisher": "University of Puerto Rico",
+            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
             "Translation": "n"
         }
     ],
@@ -9825,9 +9671,9 @@
             "Translation": "n"
         }
     ],
-    "rdepestre": [
+    "rdépestre": [
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -9838,7 +9684,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -9849,7 +9695,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -9860,7 +9706,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -9871,7 +9717,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -9882,7 +9728,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",

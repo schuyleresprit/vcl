@@ -229,17 +229,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Danish",
-            "Pub_id": "copenhagen_denmark",
-            "Pubdate": "1999",
-            "Publisher": "Fremad",
-            "Title": "Livet er en Underlig Gave",
-            "Translation": "y"
-        },
-        {
             "Author": "Myriam J. A Chancy",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -888,50 +877,6 @@
             "Pubdate": "1986",
             "Publisher": "Agathon Press",
             "Title": "Op De Bodem Van De Rivier",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1999",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Land Voor de Levenden",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1996",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Krik? Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1995",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1998",
-            "Publisher": "Muntinga",
-            "Title": "Adem, Ogen, Herinnering",
             "Translation": "y"
         },
         {
@@ -2899,7 +2844,7 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
-            "Pub_id": "portland_or_united_states",
+            "Pub_id": "portland_or_united¬†states",
             "Pubdate": "2016",
             "Publisher": "YesYes Books",
             "Title": "Beastgirl & other origin myths",
@@ -7361,6 +7306,61 @@
             "Translation": "n"
         },
         {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "mineola_n.y_united¬†states",
+            "Pubdate": "1988",
+            "Publisher": "Dover Publications - Ixia Press",
+            "Title": "A Burst Of Light: And Other Essays",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1976",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Coal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1978",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Black Unicorn",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1982",
+            "Publisher": "Crossing Press Publisher",
+            "Title": "Zami: A New Spelling Of My Name: A Biomythography",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "bussum_netherlands",
+            "Pubdate": "1970",
+            "Publisher": "Paul Breman Limited",
+            "Title": "Cables To Rage",
+            "Translation": "n"
+        },
+        {
             "Author": "Robert McDonald",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -8050,7 +8050,7 @@
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2008",
             "Publisher": "Xlibris",
-            "Title": "Changind Shape",
+            "Title": "Changing Shape",
             "Translation": "n"
         },
         {
@@ -8628,39 +8628,6 @@
         {
             "Author": "Barbara Lalla",
             "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "alabama_united_states",
-            "Pubdate": "1990",
-            "Publisher": "University of Alabama Press",
-            "Title": "Language in exile : three hundred years of Jamaican Creole",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "alabama_united_states",
-            "Pubdate": "1996",
-            "Publisher": "University of Alabama Press",
-            "Title": "Defining Jamaican fiction : marronage and the discourse of survival",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2008",
-            "Publisher": "The University of The West Indies Press",
-            "Title": "Postcolonialisms : Caribbean rereading of medieval English discourse",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "cave_hill_barbados",
@@ -8678,17 +8645,6 @@
             "Pubdate": "1998",
             "Publisher": "Kingston Publishers",
             "Title": "Arch of fire",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "2005",
-            "Publisher": "Society for Caribbean Linguistics",
-            "Title": "Virtual realism : constraints on validity in textual evidence of Caribbean history",
             "Translation": "n"
         },
         {
@@ -8799,6 +8755,193 @@
             "Pubdate": "2006",
             "Publisher": "University of the West Indies Press",
             "Title": "Reflections at New Credit",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "gloucester_england",
+            "Pubdate": "2015",
+            "Publisher": "Palala Press",
+            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "1978",
+            "Publisher": "Allen & Unwin",
+            "Title": "Growth and Fluctuations, 1870-1913",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1970",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2003",
+            "Publisher": "Routledge",
+            "Title": "Overhead Costs",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1970",
+            "Publisher": "Routledge",
+            "Title": "Economic Survey",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "2009",
+            "Publisher": "Allen & Unwin",
+            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1955",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1983",
+            "Publisher": "Routledge",
+            "Title": "The Theory Of Economic Growth",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "New York University Press",
+            "Title": "Selected Economic Writings Of W. Arthur Lewis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Principles Of Economic Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
             "Translation": "n"
         },
         {
@@ -12619,50 +12762,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Contributors: Fyte, Laurence R.; Musson, Samuel Paynter; Roxburgh, Thomas Laurence; Ford, Joseph Charles; Finlay, Acheson Arundel Cameron; Cundall, Frank; Jamaica Information Service",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1881",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "The Handbook Of Jamaica",
-            "Translation": "n"
-        },
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1889",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "Chronological History of Jamaica during the Government of His Excellency Sir Henry Wylie Norman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1886",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "The Jamaica Court at the Indian and Colonial Exhibition: Handbook compiled for the Governors of the Jamaica Institute",
-            "Translation": "n"
-        },
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1888",
-            "Publisher": "De Cordova & Co.",
-            "Title": "Jamaica: Outlines of its Geography and History",
-            "Translation": "n"
-        },
-        {
             "Author": "Joseph Husband",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -12781,17 +12880,6 @@
             "Pubdate": "1977",
             "Publisher": "Ethiope Publishing Corporation",
             "Title": "Notes To Masks",
-            "Translation": "n"
-        },
-        {
-            "Author": "Michael Anthony Field ",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "leatherhead_england",
-            "Pubdate": "1967",
-            "Publisher": "The British Coal Utilisation Research Association",
-            "Title": "Combustion of Pulverised Coal",
             "Translation": "n"
         },
         {
@@ -17327,193 +17415,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1998",
-            "Publisher": "Penguin Books",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2004",
-            "Publisher": "Vintage Books",
-            "Title": "The Dew Breaker",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1996",
-            "Publisher": "Vintage Books",
-            "Title": "Krik? Krak!",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1994",
-            "Publisher": "Vintage Books",
-            "Title": "Breath, Eyes, Memory",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2020",
-            "Publisher": "Vintage Books",
-            "Title": "Everything Inside",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2014",
-            "Publisher": "Quercus",
-            "Title": "Claire of the Sea Light",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2020",
-            "Publisher": "Vintage Books",
-            "Title": "Everything Inside",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2020",
-            "Publisher": "Vintage Books",
-            "Title": "Everything Inside",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2000",
-            "Publisher": "Abacus",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1999",
-            "Publisher": "Abacus",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1998",
-            "Publisher": "Soho Press",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2011",
-            "Publisher": "Soho Press",
-            "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2014",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir 2: The Classics",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2011",
-            "Publisher": "Vintage Books",
-            "Title": "Create Dangerously: The Immigrant Artist at Work",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2011",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1998",
-            "Publisher": "Soho Press",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_ny_united_states",
-            "Pubdate": "2013",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir",
-            "Translation": "n"
-        },
-        {
             "Author": "Claire Adam",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -18295,7 +18196,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -18438,17 +18339,6 @@
             "Translation": "n"
         },
         {
-            "Author": "A Halcrow",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1930",
-            "Publisher": "Planters' Punch",
-            "Title": "Timber-Laden",
-            "Translation": "y"
-        },
-        {
             "Author": "Barbara Applin",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -18478,7 +18368,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2002",
             "Publisher": "Macmillan Publishers",
-            "Title": "The toy town game",
+            "Title": "The Toy Town Game",
             "Translation": "n"
         },
         {
@@ -18500,7 +18390,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2001",
             "Publisher": "Macmillan Publishers",
-            "Title": "The twins",
+            "Title": "The Twins",
             "Translation": "n"
         },
         {
@@ -18743,17 +18633,6 @@
             "Pubdate": "1944",
             "Publisher": "Printed by Printers Ltd.",
             "Title": "The Cow That Laughed - And Other Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Anthony Michael O'Connor",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1966",
-            "Publisher": "Bell Publishing",
-            "Title": "An Economic Geography Of East Africa",
             "Translation": "n"
         },
         {
@@ -20462,17 +20341,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Amy Novak",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "tuscon_az_united¬†states",
-            "Pubdate": "2006",
-            "Publisher": "University of Arizona",
-            "Title": "A Marred Testament: Cultural Trauma And Narrative In Danticat's The Farming Of Bones\"",
-            "Translation": "n"
-        },
-        {
             "Author": "Jean Casimir",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -21504,6 +21372,17 @@
             "Pubdate": "1993",
             "Publisher": "Heinemann",
             "Title": "The Roads Are Down",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward A Richards",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "st.thomas_virgin_islands",
+            "Pubdate": "1933",
+            "Publisher": "The Reflector, : Art Shop Press",
+            "Title": "Shadows: Selected Poems",
             "Translation": "n"
         },
         {
@@ -22662,17 +22541,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Amelia Bleeker",
-            "Descriptor": "Escribano, Pablo; Gonzales, Candice; Liberati, Cristina; Mawby, Briana",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "geneva_switzerland",
-            "Pubdate": "2021",
-            "Publisher": "International Organization for Migration",
-            "Title": "Advancing Gender Equality in Environmental Migration and Disaster Displacement in the Caribbean",
-            "Translation": "n"
-        },
-        {
             "Author": "Frank Birbalsingh",
             "Descriptor": "",
             "Genre": "Anthology",
@@ -23751,193 +23619,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "gloucester_england",
-            "Pubdate": "2015",
-            "Publisher": "Palala Press",
-            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "1978",
-            "Publisher": "Allen & Unwin",
-            "Title": "Growth and Fluctuations, 1870-1913",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1970",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2003",
-            "Publisher": "Routledge",
-            "Title": "Overhead Costs",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1970",
-            "Publisher": "Routledge",
-            "Title": "Economic Survey",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "2009",
-            "Publisher": "Allen & Unwin",
-            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1955",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1983",
-            "Publisher": "Routledge",
-            "Title": "The Theory Of Economic Growth",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Selected Economic Writings Of W. Arthur Lewis",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Principles Of Economic Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        },
-        {
             "Author": "John M Kirk",
             "Descriptor": "",
             "Genre": "Biography",
@@ -24434,7 +24115,7 @@
         },
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nBray, Barbara",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
@@ -24445,7 +24126,7 @@
         },
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nThe Bridge of Beyond",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "bristol_england",
@@ -24610,17 +24291,6 @@
             "Pubdate": "1986",
             "Publisher": "Kirjayhtymä",
             "Title": "Katoava Paratiisi",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Finnish",
-            "Pub_id": "jyvaãàskylaãà_finland",
-            "Pubdate": "2000",
-            "Publisher": "Gummerus",
-            "Title": "Veressä Viljava Maa",
             "Translation": "y"
         }
     ],
@@ -25812,72 +25482,6 @@
             "Publisher": "Asphalte Éditions",
             "Title": "Haïti Noir",
             "Translation": "y"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1986",
-            "Publisher": "CLE International",
-            "Title": "Littératures des Caraibes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "quebec_canada",
-            "Pubdate": "2016",
-            "Publisher": "Mémoire d'encrier",
-            "Title": "Sur Fanon",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2015",
-            "Publisher": "CLE International",
-            "Title": "Sony Labou Tansi, toujours vivant! : dossier",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1993",
-            "Publisher": "CLE International",
-            "Title": "Littératures du Cap-Vert, de Guinée-Bissao, de São Tomé et Principe",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2009",
-            "Publisher": "Bozarbooks",
-            "Title": "Renaissances africaines : écrire 50 ans d'indépendance",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Paris bibliothèques éditions",
-            "Title": "Afrique cent livres : bibliographie sélective",
-            "Translation": "n"
         },
         {
             "Author": "Christian Werleigh",
@@ -27464,105 +27068,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1996",
-            "Publisher": "Pygmalion",
-            "Title": "Krik? Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1998",
-            "Publisher": "Pocket Books",
-            "Title": "Krik? Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1997",
-            "Publisher": "Pocket Books",
-            "Title": "Le Cri de L'oiseau Rouge",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1995",
-            "Publisher": "Pygmalion",
-            "Title": "Le Cri de L'oiseau Rouge",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "montr√©al_canada",
-            "Pubdate": "2017",
-            "Publisher": "La Magnétothèque",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Éditions Grasset et Fasquelle",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2000",
-            "Publisher": "France Loisirs",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1999",
-            "Publisher": "Grasset",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2021",
-            "Publisher": "Asphalte Éditions",
-            "Title": "Haïti Noir",
-            "Translation": "y"
-        },
-        {
             "Author": "Severo Sarduy",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -27783,7 +27288,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "French",
@@ -27794,7 +27299,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "French",
@@ -28810,17 +28315,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "German",
-            "Pub_id": "paris_france",
-            "Pubdate": "1995",
-            "Publisher": "Arles Actes Sud",
-            "Title": "Poésie d'Afrique au sud du Sahara 1945 - 1995 anthologie",
-            "Translation": "n"
-        },
-        {
             "Author": "Michelle Cliff",
             "Descriptor": "Translator: Margarete Langfeld",
             "Genre": "Fiction (Novel)",
@@ -29390,39 +28884,6 @@
             "Pubdate": "1989",
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "Annie John",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "d√ºsseldorf_germany",
-            "Pubdate": "1996",
-            "Publisher": "Marion von Schröder Verlag",
-            "Title": "Atem, Augen, Erinnerungen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "m√ºnchen_germany",
-            "Pubdate": "1999",
-            "Publisher": "Claassen",
-            "Title": "Die Süße Saat Der Tränen: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "m√ºnchen_germany",
-            "Pubdate": "2000",
-            "Publisher": "Deutscher Taschenbuch-Verlag",
-            "Title": "Die Süße Saat Der Tränen: Roman",
             "Translation": "y"
         },
         {
@@ -30059,7 +29520,7 @@
             "Translation": ""
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "Haitian Creole",
@@ -30070,7 +29531,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "Haitian Creole",
@@ -30081,7 +29542,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "Haitian Creole",
@@ -30213,28 +29674,6 @@
             "Publisher": "Kinneret Zmora-Bitan Dvir",
             "Title": "Bayit Le-Mar Bizvaz",
             "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hebrew",
-            "Pub_id": "tel_aviv_israel",
-            "Pubdate": "2000",
-            "Publisher": "Kinneret",
-            "Title": "Ḳene Ha-Sukar Ha-Marim",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hebrew",
-            "Pub_id": "tel_aviv_israel",
-            "Pubdate": "2000",
-            "Publisher": "Kinneret",
-            "Title": "Kene Ha-sukar Ha-marim",
-            "Translation": "y"
         }
     ],
     "Hungarian": [
@@ -30280,17 +29719,6 @@
             "Pubdate": "1983",
             "Publisher": "Európa Editions",
             "Title": "A Nagy Folyo Kanyarulataban: Regeny",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hungarian",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2000",
-            "Publisher": "Európa",
-            "Title": "Vér Ès Cukornád",
             "Translation": "y"
         },
         {
@@ -30692,28 +30120,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "casale_monferrato_italy",
-            "Pubdate": "2000",
-            "Publisher": "Piemme",
-            "Title": "Amabelle Della Canna da Zucchero",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "casale_monferrato_italy",
-            "Pubdate": "1999",
-            "Publisher": "Piemme",
-            "Title": "Amabelle Della Canna da Zucchero",
-            "Translation": "y"
-        },
-        {
             "Author": "Patrick Chamoiseau",
             "Descriptor": "",
             "Genre": "Essay",
@@ -31055,17 +30461,6 @@
             "Publisher": "ティビーエス・ブリタニカ",
             "Title": "Kurai Kawa",
             "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Japanese",
-            "Pub_id": "",
-            "Pubdate": "2011",
-            "Publisher": "Sakuhinsha",
-            "Title": "Honegari no Toki",
-            "Translation": "y"
         }
     ],
     "Korean": [
@@ -31203,28 +30598,6 @@
             "Pubdate": "1984",
             "Publisher": "Tiden",
             "Title": "Segu Murer av Leire",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Norwegian",
-            "Pub_id": "oslo_norway",
-            "Pubdate": "2000",
-            "Publisher": "Pax Forlag",
-            "Title": "Pust, Blikk, Minne",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Norwegian",
-            "Pub_id": "oslo_norway",
-            "Pubdate": "1999",
-            "Publisher": "Pax Forlag",
-            "Title": "Ved Elven Massacre",
             "Translation": "y"
         }
     ],
@@ -31564,17 +30937,6 @@
         }
     ],
     "Spanish": [
-        {
-            "Author": "Collazo Ramos",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2009",
-            "Publisher": "University of Puerto Rico",
-            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
         {
             "Author": "Ezequiel Vieta",
             "Descriptor": "",
@@ -32090,6 +31452,17 @@
             "Pubdate": "1927",
             "Publisher": "Impr. de J.R. vda. García, sucesores",
             "Title": "Décimas",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jose? Antonio Ramos Collazo",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "san_juan_puerto_rico",
+            "Pubdate": "2009",
+            "Publisher": "University of Puerto Rico",
+            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
             "Translation": "n"
         },
         {
@@ -34931,83 +34304,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Lumen",
-            "Title": "¿Krik? ¡Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones del Bronce",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Círculo de lectores",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires",
-            "Pubdate": "1999",
-            "Publisher": "Grupo Editorial Norma",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "El Cultivo de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "IDB Cultural Center",
-            "Title": "Haiti: A Bi-Cultural Experience",
-            "Translation": "y"
-        },
-        {
             "Author": "Marika Preziuso",
             "Descriptor": "",
             "Genre": "Essay",
@@ -35426,7 +34722,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -35437,7 +34733,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -35448,7 +34744,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -37211,17 +36507,6 @@
             "Pubdate": "1988",
             "Publisher": "Stenström",
             "Title": "Antigua & Barbuda: En Liten Ö",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Swedish",
-            "Pub_id": "stockholm_sweden",
-            "Pubdate": "2020",
-            "Publisher": "Bokförlaget Tranan",
-            "Title": "Att Skörda Ben",
             "Translation": "y"
         }
     ],

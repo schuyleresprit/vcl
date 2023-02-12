@@ -6,7 +6,7 @@
     },
     "Walter Roberts": {
         "Author": "Walter Roberts",
-        "author_id": "waroberts",
+        "author_id": "wroberts",
         "author_country": "jamaica"
     },
     "Velma Pollard": {
@@ -46,7 +46,7 @@
     },
     "Erna Brodber": {
         "Author": "Erna Brodber",
-        "author_id": "ebrodber",
+        "author_id": "ebodber",
         "author_country": "jamaica"
     },
     "Phyllis Shand Allfrey": {
@@ -91,7 +91,7 @@
     },
     "Myriam J. A Chancy": {
         "Author": "Myriam J. A Chancy",
-        "author_id": "mchancy",
+        "author_id": "mjachancy",
         "author_country": "haiti"
     },
     "Michelle Cliff": {
@@ -121,7 +121,7 @@
     },
     "Jose Marti\u0301": {
         "Author": "Jose Marti\u0301",
-        "author_id": "jmarti",
+        "author_id": "jmarti\u0301",
         "author_country": "cuba"
     },
     "Jean Casimir": {
@@ -130,8 +130,8 @@
         "author_country": "haiti"
     },
     "Jean Bernab\u00e9": {
-        "Author": "Jean Bernabé",
-        "author_id": "jbernabé",
+        "Author": "Jean Bernab\u00e9",
+        "author_id": "jbernab\u00e9",
         "author_country": "martinique"
     },
     "Karen Lord": {
@@ -141,7 +141,7 @@
     },
     "Louise Bennett": {
         "Author": "Louise Bennett",
-        "author_id": "lbennett",
+        "author_id": "lbennet",
         "author_country": "jamaica"
     },
     "Jan J Dominique": {
@@ -389,11 +389,6 @@
         "author_id": "acummins",
         "author_country": "barbados"
     },
-    "Amelia Bleeker": {
-        "Author": "Amelia Bleeker",
-        "author_id": "ableeker",
-        "author_country": "united_states"
-    },
     "Andrea Stuart": {
         "Author": "Andrea Stuart",
         "author_id": "astuart",
@@ -416,17 +411,12 @@
     },
     "Antonio Ben\u00edtez-Rojo": {
         "Author": "Antonio Ben\u00edtez-Rojo",
-        "author_id": "abenitezrojo",
+        "author_id": "abenitezrogo",
         "author_country": "cuba"
     },
     "Asha Bromfield": {
         "Author": "Asha Bromfield",
         "author_id": "abromfield",
-        "author_country": "jamaica"
-    },
-    "Augustus C. Sinclair": {
-        "Author": "Augustus C. Sinclair",
-        "author_id": "acsinclair",
         "author_country": "jamaica"
     },
     "Barbara Applin": {
@@ -438,11 +428,6 @@
         "Author": "Barbara Lalla",
         "author_id": "blalla",
         "author_country": "jamaica"
-    },
-    "Bernard Magnier": {
-        "Author": "Bernard Magnier",
-        "author_id": "bmagnier",
-        "author_country": "france"
     },
     "Blas Matamoro": {
         "Author": "Blas Matamoro",
@@ -914,11 +899,6 @@
         "author_id": "jmkirk",
         "author_country": "united_states"
     },
-    "Michael Anthony Field": {
-        "Author": "Michael Anthony Field",
-        "author_id": "mafield",
-        "author_country": "trinidad_&_tobago"
-    },
     "John Jacob Thomas": {
         "Author": "John Jacob Thomas",
         "author_id": "jjthomas",
@@ -1019,11 +999,6 @@
         "author_id": "sbesson",
         "author_country": "trinidad_&_tobago"
     },
-    "A Halcrow": {
-        "Author": "A Halcrow",
-        "author_id": "ahalcrow",
-        "author_country": "england"
-    },
     "Albert Maria Gomes": {
         "Author": "Albert Maria Gomes",
         "author_id": "amgomes",
@@ -1072,11 +1047,6 @@
     "Alicia Ikida Harraway": {
         "Author": "Alicia Ikida Harraway",
         "author_id": "aiharraway",
-        "author_country": "united_states"
-    },
-    "Amy Novak": {
-        "Author": "Amy Novak",
-        "author_id": "anovak",
         "author_country": "united_states"
     },
     "Andrea Levy": {
@@ -2635,7 +2605,7 @@
         "author_country": "guadeloupe"
     },
     "Mylene Pintado Fernandz": {
-        "Author": "Mylene Pintado Fernandez",
+        "Author": "Mylene Pintado Fernandz",
         "author_id": "mpfernandez",
         "author_country": "cuba"
     },
