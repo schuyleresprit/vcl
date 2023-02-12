@@ -23,9 +23,9 @@ permalink: /mjames/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>I'm Thinking...</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51hDEVddAKL.jpg"></p>
                 <p>Language: English <br/>
@@ -36,9 +36,9 @@ permalink: /mjames/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Trees Grow Over Fences</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61oshzEzeyL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English <br/>
@@ -49,9 +49,9 @@ permalink: /mjames/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="leftt">2018</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Mine the Mirror: An Enthralling Collection of Children's Poems</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51qpNMFDptL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>Language: English <br/>

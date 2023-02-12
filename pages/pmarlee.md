@@ -24,7 +24,7 @@ permalink: /pmarlee/
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Guinea-Pig</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=xDJKAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71onR5VZ-3Re4cr6YZzylKGgxqSljF7QAHyBWXqLkMu3moAo2u9UQoTImhwno1-yEynv0mKj-IOmgFsbmcRTTh8LY1sM_4ft3alTfMqLU2bpxorZb0h0QNNDXDkEMWjzijv6lGD"></p>
             <p> Language: English <br/>

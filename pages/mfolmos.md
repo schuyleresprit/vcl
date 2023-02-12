@@ -23,9 +23,9 @@ permalink: /mfolmos/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Creole Religions of the Caribbean</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71F9gcGiyAL.jpg"></p>
                 <p>

@@ -25,7 +25,7 @@ permalink: /njackson/
         <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Star Side Of Bird Hill</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51MyBpCi2AL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English <br/>

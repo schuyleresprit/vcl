@@ -22,9 +22,9 @@ permalink: /pjosie/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2012</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Shattered Dreams: A Political Odyssey In Post-Independence</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/513xOXuUZTL._SY346_.jpg"></p>
                 <p>

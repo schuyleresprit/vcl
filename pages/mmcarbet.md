@@ -25,7 +25,7 @@ permalink: /mmcarbet/
         <div class="block">
             <div class="date left"><p class="left">1961</p>Éditions Francex</div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Écoute, Soleil-Dieu</h1><hr>
                 <p><img src="https://fr.shopping.rakuten.com/photo/ecoute-soleil-dieu-de-marie-magdeleine-carbet-1086250527_ML.jpg"></p>
                 <p>Language: French<br/>

@@ -25,7 +25,7 @@ permalink: /ncoster/
         <div class="block">
             <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Halsey Street</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/518kuAUwQoS._SX310_BO1,204,203,200_.jpg"></p>
                 <p>Language: English <br/>
@@ -38,7 +38,7 @@ permalink: /ncoster/
         <div class="block">
             <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>What's Mine And Yours</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614625050l/54424592._SY475_.jpg"></p>
                 <p>Language: English <br/>

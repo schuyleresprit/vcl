@@ -7,7 +7,7 @@ permalink: /Credits/
 <img src="{{ site.baseurl }}/assets/img/bannercredits.png"></div>
 <br>
 <br>
-<br>
+
 
 This project has truly been the embodiment of collaboration, DH pedagogy and project development at its best. The student interns in the 2020-22 and 2021-23 cohorts have been engaged, diligent and curious at every turn. Their individual projects can be viewed [here](https://commonsbox.createcaribbean.org).
 

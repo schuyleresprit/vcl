@@ -24,7 +24,7 @@ permalink: /plindsay/
         <div class="block">
             <div class="date left"><p class="left">1934</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Panama Is Burning</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265749354l/7714548.jpg"></p>
                 <p>

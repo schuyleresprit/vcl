@@ -25,7 +25,7 @@ permalink: /mwarnerlewis/
         <div class="block">
             <div class="date left"><p class="left">1977</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Notes To Masks</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=Zfw8AAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73k4VJmZaf1vAqxz0aydFo-jvE4nwW33biOPXfV-Gi7DdDu7RyEVKbIVWm-v5_IhQKBHQv7ksJks4_KFV89gCdbfaJJ42awG7e-l_M9imfju6TMv_l67PbGsM2wfXGfEkVZebJ4"></p>
                 <p>       

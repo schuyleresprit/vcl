@@ -23,9 +23,9 @@ permalink: /pkempadoo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1960</p></div>
+            <div class="date left"><p class="left">1960</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Guiana Boy</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa_jB2wM0-KgS4omDKMotYQ6ai2FZGPo9mkpWKreXxQGZidELt"></p>
                 <p>
@@ -37,7 +37,7 @@ permalink: /pkempadoo/
            </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2002</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Guyana Boy</h1><hr>

@@ -24,7 +24,7 @@ permalink: /opatterson/
         <div class="block">
             <div class="date left"><p class="left">1964</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Children Of Sisyphus</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51ddfH9616L._SX319_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /opatterson/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1967</p></div>
+            <div class="date right"><p class="right">1967</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>An Absence Of Ruins</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41EghVP4MXL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>

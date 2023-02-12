@@ -24,7 +24,7 @@ permalink: /mparker/
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Dans La Mélange: Pensées, Conférences, Discours, Etc. (1916-1931)</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md30333753769.jpg" height="50%" width = "50%"></p>
                 <p>

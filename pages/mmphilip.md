@@ -25,7 +25,7 @@ permalink: /mmphilip/
         <div class="block">
             <div class="date left"><p class="left">1845</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Emmanuel Appadocca; Or, Blighted life, Volume 1</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51ReMH5N43L.jpg"></p>
                 <p>

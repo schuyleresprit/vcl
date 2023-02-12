@@ -25,7 +25,7 @@ permalink: /ncmarks/
         <div class="block">
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>When Silence Speaks</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564595729l/8840431.jpg" height="50%" width = "50%"></p>
                 <p>

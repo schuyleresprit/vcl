@@ -25,7 +25,7 @@ permalink: /mgargar/
         <div class="block">
             <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Une Sprinteuse En Bout De Piste: Suivi De, Clarisse Et Son Gâché</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41XWRHNR9EL._SX299_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /mgargar/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>La Vérité Du Sang</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41kD+2k+SeL._SX313_BO1,204,203,200_.jpg"></p>
                 <p>

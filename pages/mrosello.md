@@ -24,7 +24,7 @@ permalink: /mrosello/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Edwidge Danticat's 'The Farming Of Bones': Traumatic Memories And The Translucent Narrator</h1><hr>
                 <p><img src=""></p>
                 <p>

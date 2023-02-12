@@ -24,7 +24,7 @@ permalink: /mprince/
    <div class="block">
             <div class="date left"><p class="left">1831</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Mary Prince. The History Of Mary Prince, A West Indian Slave. Related By Herself. With A Supplement By The Editor. To Which Is Added, The Narrative Of Asa-Asa, A Captured African.</h1><hr>
                 <p><img src="https://interactive.britishart.yale.edu/sites/default/files/styles/ycba_image_container/public/FoE_Prince_History%20of%20Mary%20Prince_0.jpg?itok=Y80U9oij"></p>
                 <p>

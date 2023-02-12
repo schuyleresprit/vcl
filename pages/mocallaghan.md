@@ -24,7 +24,7 @@ permalink: /mocallaghan/
         <div class="block">
             <div class="date left"><p class="left">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>J'ouvert Morning</h1><hr>
                 <p><img src="https://d3525k1ryd2155.cloudfront.net/h/668/598/280598668.0.m.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /mocallaghan/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1977</p></div>
+            <div class="date right"><p class="right">1977</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>South Rhodesia: The Effects Of A Conquest Society On Education, Culture And Information</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41MPvqKFozL.SR160,240_BG243,243,243.jpg"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /mocallaghan/
        <div class="block">
             <div class="date left"><p class="left">1977</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Namibia: The Effects of Apartheid on Culture and Education</h1><hr>
                 <p><img src="https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000028849&isbn=9789231014765&author=O%27Callaghan%2C+Marion&title=Namibia%3A+the+effects+of+apartheid+on+culture+and+education&year=1977&publisher=UNESCO&TypeOfDocument=UnescoPhysicalDocument&mat=BKS&ct=true&size=256&isPhysical=1&siteId=mainSite"></p>
                 <p>

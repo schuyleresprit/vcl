@@ -25,7 +25,7 @@ permalink: /msbrown/
         <div class="block">
             <div class="date left"><p class="left">1892</p>Children's Stories From The Bocas Lit Fest 2011</div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1></h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41c1ZwrFnNL.SR160,240_BG243,243,243.jpg" height="50%" width = "50%"></p>
                 <p>

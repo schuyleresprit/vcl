@@ -25,7 +25,7 @@ permalink: /msmith/
         <div class="block">
             <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>It A Come</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51FaLPMCs6L._SX343_BO1,204,203,200_.jpg"></p>
                 <p>

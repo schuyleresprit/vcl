@@ -24,7 +24,7 @@ permalink: /mlopez/
         <div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Más Que Islas Antología De Cuentistas Del Gran Caribe Hispano</h1><hr>
                 <p><img src="https://imagessl8.casadellibro.com/a/l/t7/78/9788494990878.jpg"></p>
                 <p>        

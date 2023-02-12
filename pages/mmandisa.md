@@ -25,7 +25,7 @@ permalink: /mmandisa/
         <div class="block">
             <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Deception is in the Perception</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/713S03RlIcL.jpg"></p>
                 <p>

@@ -24,7 +24,7 @@ permalink: /mdixon/
         <div class="block">
             <div class="date left"><p class="left">1973</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Pebbles: A Collection Of Twenty-Nine Poems</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /mdixon/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
+            <div class="date right"><p class="right">1980</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Poet Speaks: A Collection Of Poems</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /mdixon/
        <div class="block">
             <div class="date left"><p class="left">1993</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Poet Speaks: And Other Poems</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -64,9 +64,9 @@ permalink: /mdixon/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Season Of Mist</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51jAZuniR9L._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -80,7 +80,7 @@ permalink: /mdixon/
 <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Saints Of Little Paradise</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51CirZUvBmL._SX346_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -92,9 +92,9 @@ permalink: /mdixon/
             </div>
         </div>
    <div class="block">
-            <div class="date left"><p class="left">2022</p></div>
+            <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>A Scream In The Shadows</h1><hr>
                 <p><img src="https://scontent-sju1-1.xx.fbcdn.net/v/t39.30808-6/272837803_2468180783319465_988104704143932387_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=3za0cE9rwt8AX8an3rv&_nc_ht=scontent-sju1-1.xx&oh=00_AfAeZbf2oTZGppjYglCnUKTW2hGBuVJpq5qeHS74ai9_xA&oe=639E75D3"></p>
                 <p>

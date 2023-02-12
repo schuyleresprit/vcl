@@ -25,7 +25,7 @@ permalink: /mmorris/
         <div class="block">
             <div class="date left"><p class="left">1971</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Seven Jamaican poets : an anthology of recent poetry</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/415qUdnoFDL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>

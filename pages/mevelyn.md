@@ -25,7 +25,7 @@ permalink: /mevelyn/
         <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Turtle Run</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464705915i/28330185.jpg"></p>
                 <p>

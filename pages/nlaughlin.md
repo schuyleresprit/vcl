@@ -25,7 +25,7 @@ permalink: /nlaughlin/
         <div class="block">
             <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>So Many Islands Stories from the Caribbean, Mediterranean, Indian and Pacific Oceans</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/612kdNYsNLL.jpg"></p>
                 <p>

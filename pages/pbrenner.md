@@ -24,7 +24,7 @@ permalink: /pbrenner/
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Contemporary Cuba Reader: Reinventing the Revolution</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51mqDTRK+lL._SX348_BO1,204,203,200_.jpg"></p>
  			<p> Language: English <br/>

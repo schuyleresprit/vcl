@@ -24,7 +24,7 @@ permalink: /mpreziuso/
    <div class="block">
             <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Llevando El Velo Y Cruzando La Frontera: Geografías Imaginarias En The Farming Of Bones De Edwidge Danticat</h1><hr>
                 <p><img src="https://0.academia-photos.com/attachment_thumbnails/46443946/mini_magick20190209-8798-68s74g.png?1549770466"></p>
                 <p>

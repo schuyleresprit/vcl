@@ -25,7 +25,7 @@ permalink: /mdowe/
         <div class="block">
             <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Mamo!: A Personal Portrait</h1><hr>
                 <p><img src="IMAGE LINK"></p>
                 <p>

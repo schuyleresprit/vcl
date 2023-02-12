@@ -25,7 +25,7 @@ permalink: /parcher/
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>About Face</h1><hr>
                 <p><img src="https://archivalencounters.commons.gc.cuny.edu/files/2019/03/about-face-300x169.png"></p>
                 <p>

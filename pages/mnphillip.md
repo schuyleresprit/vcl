@@ -25,7 +25,7 @@ permalink: /mnphillip/
         <div class="block">
             <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Harriet's Daughter</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=HnNMO5c-RXAC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U21P_ze35-VIpuFyZ-qstYSNfhG9Q&w=1280"></p>
                 <p>
