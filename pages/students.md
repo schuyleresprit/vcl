@@ -3,7 +3,12 @@ layout: pagedefault
 title: Student Projects
 permalink: /students/
 ---
-<div class="page_title"><h3>Student Projects</h3></div>
+<div class="wordcloud">
+<img src="{{ site.baseurl }}/assets/img/bannerstudents.png"></div>
+<div>
+</div>
+
+
 
 The individual student projects completed under the theme Visualizing Caribbean Literature are as vast and diverse as the idea of Caribbean literature itself. The students' work reflects their attention to the complexity and variety of experiences and stories of Caribbean being -  in the past, present and future. Student projects have been organized into three broad categories and can be accessed via their respective links.  
 
