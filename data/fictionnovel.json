@@ -8475,52 +8475,6 @@
             "Translation": "n"
         }
     ],
-    "eaugustave": [
-        {
-            "Author": "Elsie Augustave",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_united¬†states",
-            "Pubdate": "2013",
-            "Publisher": "OpenLens",
-            "Title": "The Roving Tree",
-            "Translation": "y"
-        },
-        {
-            "Author": "Elsie Augustave",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_united¬†states",
-            "Pubdate": "2013",
-            "Publisher": "OpenLens",
-            "Title": "The Roving Tree",
-            "Translation": "y"
-        },
-        {
-            "Author": "Elsie Augustave",
-            "Descriptor": "Translator: Irène Assiba d' Almeida",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2018",
-            "Publisher": "L'Harmattan",
-            "Title": "Autour de L'enfant noir de Camara Laye : un monde à découvrir",
-            "Translation": "n"
-        },
-        {
-            "Author": "Elsie Augustave",
-            "Descriptor": "Translator: Irène Assiba d' Almeida",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2018",
-            "Publisher": "L'Harmattan",
-            "Title": "Autour de L'enfant noir de Camara Laye : un monde à découvrir",
-            "Translation": "n"
-        }
-    ],
     "ebodber": [
         {
             "Author": "Erna Brodber",
@@ -9582,74 +9536,6 @@
             "Pubdate": "2000",
             "Publisher": "Kinneret",
             "Title": "Kene Ha-sukar Ha-marim",
-            "Translation": "y"
-        }
-    ],
-    "eedugyan": [
-        {
-            "Author": "Esi Edugyan",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2020",
-            "Publisher": "Gallimard",
-            "Title": "Washington Black",
-            "Translation": "n"
-        },
-        {
-            "Author": "Esi Edugyan",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2020",
-            "Publisher": "Gallimard",
-            "Title": "Washington Black",
-            "Translation": "n"
-        },
-        {
-            "Author": "Esi Edugyan",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2011",
-            "Publisher": "Serpent's Tail",
-            "Title": "Half Blood Blues",
-            "Translation": "y"
-        },
-        {
-            "Author": "Esi Edugyan",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2011",
-            "Publisher": "Serpent's Tail",
-            "Title": "Half Blood Blues",
-            "Translation": "y"
-        },
-        {
-            "Author": "Esi Edugyan",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2005",
-            "Publisher": "Vintage Canada",
-            "Title": "The Second Life of Samuel Tyne",
-            "Translation": "y"
-        },
-        {
-            "Author": "Esi Edugyan",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2005",
-            "Publisher": "Vintage Canada",
-            "Title": "The Second Life of Samuel Tyne",
             "Translation": "y"
         }
     ],
@@ -12367,30 +12253,6 @@
             "Translation": "n"
         }
     ],
-    "ggarciia": [
-        {
-            "Author": "Gabriela Garciia",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "manhattan_ny_united_states",
-            "Pubdate": "2022",
-            "Publisher": "Flatiron Books",
-            "Title": "Of Women And Salt",
-            "Translation": "n"
-        },
-        {
-            "Author": "Gabriela Garciia",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "manhattan_ny_united_states",
-            "Pubdate": "2022",
-            "Publisher": "Flatiron Books",
-            "Title": "Of Women And Salt",
-            "Translation": "n"
-        }
-    ],
     "gguevara": [
         {
             "Author": "Glynis Guevara",
@@ -12680,74 +12542,6 @@
             "Pubdate": "1954",
             "Publisher": "McGraw Hill",
             "Title": "The Emigrants First Edition",
-            "Translation": "n"
-        }
-    ],
-    "glanatol": [
-        {
-            "Author": "Giselle Liza Anatol",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "2003",
-            "Publisher": "Greenwood",
-            "Title": "Reading Harry Potter : critical essays",
-            "Translation": "n"
-        },
-        {
-            "Author": "Giselle Liza Anatol",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "2003",
-            "Publisher": "Greenwood",
-            "Title": "Reading Harry Potter : critical essays",
-            "Translation": "n"
-        },
-        {
-            "Author": "Giselle Liza Anatol",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "basingstoke_england",
-            "Pubdate": "2011",
-            "Publisher": "Palgrave Macmillan",
-            "Title": "Perspectives on a pop culture phenomenon",
-            "Translation": "n"
-        },
-        {
-            "Author": "Giselle Liza Anatol",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "basingstoke_england",
-            "Pubdate": "2011",
-            "Publisher": "Palgrave Macmillan",
-            "Title": "Perspectives on a pop culture phenomenon",
-            "Translation": "n"
-        },
-        {
-            "Author": "Giselle Liza Anatol",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "basingstoke_england",
-            "Pubdate": "2011",
-            "Publisher": "Palgrave Macmillan",
-            "Title": "Bringing Light to Twilight : Perspectives on a Pop Culture Phenomenon",
-            "Translation": "n"
-        },
-        {
-            "Author": "Giselle Liza Anatol",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "basingstoke_england",
-            "Pubdate": "2011",
-            "Publisher": "Palgrave Macmillan",
-            "Title": "Bringing Light to Twilight : Perspectives on a Pop Culture Phenomenon",
             "Translation": "n"
         }
     ],

@@ -2425,54 +2425,6 @@
             "Translation": "n"
         }
     ],
-    "esgoldberg": [
-        {
-            "Author": "Elizabeth Swanson Goldberg",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_brunswick_nj_united¬†states",
-            "Pubdate": "2007",
-            "Publisher": "Rutgers University Press",
-            "Title": "Beyond Terror: Gender, Narrative, Human Rights",
-            "Translation": "n"
-        },
-        {
-            "Author": "Elizabeth Swanson Goldberg",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_brunswick_nj_united¬†states",
-            "Pubdate": "2007",
-            "Publisher": "Rutgers University Press",
-            "Title": "Beyond Terror: Gender, Narrative, Human Rights",
-            "Translation": "n"
-        }
-    ],
-    "evalovirta": [
-        {
-            "Author": "Elina Valovirta",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "2014",
-            "Publisher": "Editions Rodopi BV",
-            "Title": "Sexual Feelings: Reading Anglophone Caribbean Women's Writing Through Affect",
-            "Translation": "n"
-        },
-        {
-            "Author": "Elina Valovirta",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "2014",
-            "Publisher": "Editions Rodopi BV",
-            "Title": "Sexual Feelings: Reading Anglophone Caribbean Women's Writing Through Affect",
-            "Translation": "n"
-        }
-    ],
     "evieta": [
         {
             "Author": "Ezequiel Vieta",
@@ -2677,118 +2629,6 @@
             "Translation": "n"
         }
     ],
-    "fbirbalsingh": [
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "lexington_ma_united¬†states",
-            "Pubdate": "1999",
-            "Publisher": "Association of Caribbean Studies",
-            "Title": "Asians in the Caribbean : the making of a people",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "lexington_ma_united¬†states",
-            "Pubdate": "1999",
-            "Publisher": "Association of Caribbean Studies",
-            "Title": "Asians in the Caribbean : the making of a people",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_united¬†kingdom",
-            "Pubdate": "1988",
-            "Publisher": "Hansib",
-            "Title": "Indo-Westindian cricket",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_united¬†kingdom",
-            "Pubdate": "1988",
-            "Publisher": "Hansib",
-            "Title": "Indo-Westindian cricket",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "toronto_canada",
-            "Pubdate": "1989",
-            "Publisher": "TSAR",
-            "Title": "Indenture and exile : the Indo-Caribbean experience",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "toronto_canada",
-            "Pubdate": "1989",
-            "Publisher": "TSAR",
-            "Title": "Indenture and exile : the Indo-Caribbean experience",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "jaipur_india",
-            "Pubdate": "2005",
-            "Publisher": "Rawat Publications",
-            "Title": "Neil Bissoondath : Indo-Caribbean-Canadian diaspora",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "jaipur_india",
-            "Pubdate": "2005",
-            "Publisher": "Rawat Publications",
-            "Title": "Neil Bissoondath : Indo-Caribbean-Canadian diaspora",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2017",
-            "Publisher": "Hansib",
-            "Title": "West Indian history and literature",
-            "Translation": "n"
-        },
-        {
-            "Author": "Frank Birbalsingh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2017",
-            "Publisher": "Hansib",
-            "Title": "West Indian history and literature",
-            "Translation": "n"
-        }
-    ],
     "fjborbe": [
         {
             "Author": "Fernando José Barcena Orbe",
@@ -2810,30 +2650,6 @@
             "Pubdate": "2021",
             "Publisher": "Editorial Graó",
             "Title": "Retos Y Desafíos De La Formación Pedagógica En Las Sociedades Actuales: La Figura Del Docente",
-            "Translation": "n"
-        }
-    ],
-    "flatour": [
-        {
-            "Author": "Francie Latour",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1992",
-            "Publisher": "Harvard College",
-            "Title": "Subverting manichean allegory : soap, blackness and the articulation of racial difference in French advertisements for hygienic products, 1900-1930",
-            "Translation": "n"
-        },
-        {
-            "Author": "Francie Latour",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1992",
-            "Publisher": "Harvard College",
-            "Title": "Subverting manichean allegory : soap, blackness and the articulation of racial difference in French advertisements for hygienic products, 1900-1930",
             "Translation": "n"
         }
     ],
@@ -3024,7 +2840,7 @@
             "Pub_id": "miami_fl_united_states",
             "Pubdate": "2016",
             "Publisher": "Édition delince",
-            "Title": "VILOKAN: Teyat Total an 3 Tablo (Haitian Edition)",
+            "Title": "Vilokan: Teyat Total an 3 Tablo (Haitian Edition)",
             "Translation": "n"
         },
         {
@@ -3035,7 +2851,7 @@
             "Pub_id": "miami_fl_united_states",
             "Pubdate": "2016",
             "Publisher": "Édition delince",
-            "Title": "VILOKAN: Teyat Total an 3 Tablo (Haitian Edition)",
+            "Title": "Vilokan: Teyat Total an 3 Tablo (Haitian Edition)",
             "Translation": "n"
         }
     ],
@@ -3061,30 +2877,6 @@
             "Publisher": "Editorial Laertes",
             "Title": "Diablesas y Diosas: 14 Perversas para 14 Autores",
             "Translation": "y"
-        }
-    ],
-    "ghorne": [
-        {
-            "Author": "Gerald Horne",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2016",
-            "Publisher": "New York Monthly Review Press",
-            "Title": "Confronting Black Jacobins: The U.S., The Haitian Revolution, And The Origins Of The Dominican Republic",
-            "Translation": "n"
-        },
-        {
-            "Author": "Gerald Horne",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2016",
-            "Publisher": "New York Monthly Review Press",
-            "Title": "Confronting Black Jacobins: The U.S., The Haitian Revolution, And The Origins Of The Dominican Republic",
-            "Translation": "n"
         }
     ],
     "glamming": [
@@ -3221,54 +3013,6 @@
             "Translation": "n"
         }
     ],
-    "glanatol": [
-        {
-            "Author": "Giselle Liza Anatol",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_brunswick_nj_united¬†states",
-            "Pubdate": "2015",
-            "Publisher": "Rutgers University Press",
-            "Title": "The Things That Fly in the Night: Female Vampires in Literature of the Circum-Caribbean and African Diaspora",
-            "Translation": "n"
-        },
-        {
-            "Author": "Giselle Liza Anatol",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_brunswick_nj_united¬†states",
-            "Pubdate": "2015",
-            "Publisher": "Rutgers University Press",
-            "Title": "The Things That Fly in the Night: Female Vampires in Literature of the Circum-Caribbean and African Diaspora",
-            "Translation": "n"
-        }
-    ],
-    "gmteles": [
-        {
-            "Author": "Gilberto Mendonça Teles",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "frankfurt_md_spain",
-            "Pubdate": "2002",
-            "Publisher": "Iberoamericana Editorial Vervuert",
-            "Title": "Vanguardia Latino Americana: Historia, Crítica Y Documentos. Tomo II",
-            "Translation": "n"
-        },
-        {
-            "Author": "Gilberto Mendonça Teles",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "frankfurt_md_spain",
-            "Pubdate": "2002",
-            "Publisher": "Iberoamericana Editorial Vervuert",
-            "Title": "Vanguardia Latino Americana: Historia, Crítica Y Documentos. Tomo II",
-            "Translation": "n"
-        }
-    ],
     "gpicart": [
         {
             "Author": "Gina Picart",
@@ -3312,30 +3056,6 @@
             "Pubdate": "2017",
             "Publisher": "Editorial Letras Cubanas",
             "Title": "Havana Como Gemir De Violines",
-            "Translation": "n"
-        }
-    ],
-    "greatbritaincolonialoffice": [
-        {
-            "Author": "Great Britain Colonial Office",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1947",
-            "Publisher": "H.M. Stationery Office",
-            "Title": "Barbados",
-            "Translation": "n"
-        },
-        {
-            "Author": "Great Britain Colonial Office",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1947",
-            "Publisher": "H.M. Stationery Office",
-            "Title": "Barbados",
             "Translation": "n"
         }
     ],

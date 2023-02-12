@@ -399,8 +399,8 @@
         "author_id": "cwilson",
         "author_country": "barbados"
     },
-    "Cynthis Noel": {
-        "Author": "Cynthis Noel",
+    "Cynthia Noel": {
+        "Author": "Cynthia Noel",
         "author_id": "cnoel",
         "author_country": "canada"
     },
@@ -614,11 +614,6 @@
         "author_id": "epspringer",
         "author_country": "trinidad_&_tobago"
     },
-    "Elina Valovirta": {
-        "Author": "Elina Valovirta",
-        "author_id": "evalovirta",
-        "author_country": "finland"
-    },
     "Eliseo Diego": {
         "Author": "Eliseo Diego",
         "author_id": "ediego",
@@ -634,11 +629,6 @@
         "author_id": "enunez",
         "author_country": "trinidad_&_tobago"
     },
-    "Elizabeth Swanson Goldberg": {
-        "Author": "Elizabeth Swanson Goldberg",
-        "author_id": "esgoldberg",
-        "author_country": "united_states"
-    },
     "Elizabeth Walcott-Hackshaw": {
         "Author": "Elizabeth Walcott-Hackshaw",
         "author_id": "ewalcotthackshaw",
@@ -653,11 +643,6 @@
         "Author": "Eloi\u0301sa Lezama Lima",
         "author_id": "ellima",
         "author_country": "cuba"
-    },
-    "Elsie Augustave": {
-        "Author": "Elsie Augustave",
-        "author_id": "eaugustave",
-        "author_country": "haiti"
     },
     "Emilio Bobadilla": {
         "Author": "Emilio Bobadilla",
@@ -679,20 +664,10 @@
         "author_id": "ebodber",
         "author_country": "jamaica"
     },
-    "Errol Benjamin": {
-        "Author": "Errol Benjamin",
-        "author_id": "ebenjamin",
-        "author_country": "trinidad_&_tobago"
-    },
     "Errol John": {
         "Author": "Errol John",
         "author_id": "ejohn",
         "author_country": "trinidad_&_tobago"
-    },
-    "Esi Edugyan": {
-        "Author": "Esi Edugyan",
-        "author_id": "eedugyan",
-        "author_country": "ghana"
     },
     "Eulah Borde": {
         "Author": "Eulah Borde",
@@ -759,11 +734,6 @@
         "author_id": "facollymore",
         "author_country": "barbados"
     },
-    "Frank Birbalsingh": {
-        "Author": "Frank Birbalsingh",
-        "author_id": "fbirbalsingh",
-        "author_country": "Guyana"
-    },
     "Frank Janney": {
         "Author": "Frank Janney",
         "author_id": "fjanney",
@@ -771,7 +741,7 @@
     },
     "Frank\u00e9tienne": {
         "Author": "Frank\u00e9tienne",
-        "author_id": "franketienne",
+        "author_id": "frank\u00e9tienne",
         "author_country": "haiti"
     },
     "Frantz Wainwright": {
@@ -788,11 +758,6 @@
         "Author": "Frits Wols",
         "author_id": "fwols",
         "author_country": "suriname"
-    },
-    "Gabriela Garciia": {
-        "Author": "Gabriela Garciia",
-        "author_id": "ggarciia",
-        "author_country": "united_states"
     },
     "Ge\u0301rard Bulin": {
         "Author": "Ge\u0301rard Bulin",
@@ -814,11 +779,6 @@
         "author_id": "gcampbell",
         "author_country": "jamaica"
     },
-    "George E Lawrence": {
-        "Author": "George E Lawrence",
-        "author_id": "gelawrence",
-        "author_country": "united_states"
-    },
     "George Lamming": {
         "Author": "George Lamming",
         "author_id": "glamming",
@@ -834,16 +794,6 @@
         "author_id": "gsylvain",
         "author_country": "haiti"
     },
-    "Gerald Horne": {
-        "Author": "Gerald Horne",
-        "author_id": "ghorne",
-        "author_country": "united_states"
-    },
-    "Gilberto Mendon\u00e7a Teles": {
-        "Author": "Gilberto Mendon\u00e7a Teles",
-        "author_id": "gmteles",
-        "author_country": "brazil"
-    },
     "Gina Picart": {
         "Author": "Gina Picart",
         "author_id": "gpicart",
@@ -853,11 +803,6 @@
         "Author": "Gise\u0300le Pineau",
         "author_id": "gpineau",
         "author_country": "guadeloupe"
-    },
-    "Giselle Liza Anatol": {
-        "Author": "Giselle Liza Anatol",
-        "author_id": "glanatol",
-        "author_country": "trinidad_&_tobago"
     },
     "Glynis Guevara": {
         "Author": "Glynis Guevara",
@@ -873,11 +818,6 @@
         "Author": "Grace Nichols",
         "author_id": "gnichols",
         "author_country": "guyana"
-    },
-    "Great Britain Colonial Office": {
-        "Author": "Great Britain Colonial Office",
-        "author_id": "greatbritaincolonialoffice",
-        "author_country": "britain"
     },
     "Gregory Thompson": {
         "Author": "Gregory Thompson",

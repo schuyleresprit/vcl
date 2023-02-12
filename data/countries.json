@@ -9,11 +9,6 @@
         "Long": -79.2366720528138,
         "author_country": "Cuba"
     },
-    "Guyana": {
-        "Lat": 5.62382279034036,
-        "Long": -58.9747808781477,
-        "author_country": "Guyana"
-    },
     "antigua_&_barbuda": {
         "Lat": 18.0206757,
         "Long": -76.7435521,
@@ -53,11 +48,6 @@
         "Lat": -9.58890301712257,
         "Long": -51.6197890205486,
         "author_country": "brazil"
-    },
-    "britain": {
-        "Lat": 54.2379333607472,
-        "Long": -2.36966957036279,
-        "author_country": "britain"
     },
     "british_virgin_islands": {
         "Lat": 18.42692843,
@@ -118,11 +108,6 @@
         "Lat": 52.3814597201848,
         "Long": -0.676181762467007,
         "author_country": "england"
-    },
-    "finland": {
-        "Lat": 62.7777539652943,
-        "Long": 26.199539005192,
-        "author_country": "finland"
     },
     "france": {
         "Lat": 47.8249046208979,

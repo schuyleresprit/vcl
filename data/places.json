@@ -624,11 +624,6 @@
         "Long": -3.233537,
         "Pub_id": "edinburgh_scotland"
     },
-    "edmonton_canada": {
-        "Lat": 53.535411,
-        "Long": -113.507996,
-        "Pub_id": "edmonton_canada"
-    },
     "emeryville_ca_united¬†states": {
         "Lat": 37.831409,
         "Long": -122.286527,
@@ -678,11 +673,6 @@
         "Lat": 52.3418113,
         "Long": 14.5492402,
         "Pub_id": "frankfurt_germany"
-    },
-    "frankfurt_md_spain": {
-        "Lat": 42.568997,
-        "Long": -0.548393,
-        "Pub_id": "frankfurt_md_spain"
     },
     "franklin_center_pa_united_states": {
         "Lat": 39.846872,
@@ -888,11 +878,6 @@
         "Lat": 32.37112,
         "Long": -90.16466,
         "Pub_id": "jackson_united¬†states"
-    },
-    "jaipur_india": {
-        "Lat": 26.915458,
-        "Long": 75.818982,
-        "Pub_id": "jaipur_india"
     },
     "jerusalem_israel": {
         "Lat": 31.77331512,

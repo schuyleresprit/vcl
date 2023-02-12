@@ -1769,30 +1769,6 @@
             "Translation": "n"
         }
     ],
-    "eaugustave": [
-        {
-            "Author": "Elsie Augustave",
-            "Descriptor": "Translator: Irène Assiba d' Almeida",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2018",
-            "Publisher": "L'Harmattan",
-            "Title": "Autour de L'enfant noir de Camara Laye : un monde à découvrir",
-            "Translation": "n"
-        },
-        {
-            "Author": "Elsie Augustave",
-            "Descriptor": "Translator: Irène Assiba d' Almeida",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2018",
-            "Publisher": "L'Harmattan",
-            "Title": "Autour de L'enfant noir de Camara Laye : un monde à découvrir",
-            "Translation": "n"
-        }
-    ],
     "edanticat": [
         {
             "Author": "Edwidge Danticat",
@@ -1991,30 +1967,6 @@
             "Publisher": "Asphalte Éditions",
             "Title": "Haïti Noir",
             "Translation": "y"
-        }
-    ],
-    "eedugyan": [
-        {
-            "Author": "Esi Edugyan",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2020",
-            "Publisher": "Gallimard",
-            "Title": "Washington Black",
-            "Translation": "n"
-        },
-        {
-            "Author": "Esi Edugyan",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2020",
-            "Publisher": "Gallimard",
-            "Title": "Washington Black",
-            "Translation": "n"
         }
     ],
     "ejones": [
@@ -2614,7 +2566,7 @@
             "Pub_id": "miami_fl_united_states",
             "Pubdate": "2016",
             "Publisher": "Édition delince",
-            "Title": "VILOKAN: Teyat Total an 3 Tablo (Haitian Edition)",
+            "Title": "Vilokan: Teyat Total an 3 Tablo (Haitian Edition)",
             "Translation": "n"
         },
         {
@@ -2625,7 +2577,7 @@
             "Pub_id": "miami_fl_united_states",
             "Pubdate": "2016",
             "Publisher": "Édition delince",
-            "Title": "VILOKAN: Teyat Total an 3 Tablo (Haitian Edition)",
+            "Title": "Vilokan: Teyat Total an 3 Tablo (Haitian Edition)",
             "Translation": "n"
         }
     ],

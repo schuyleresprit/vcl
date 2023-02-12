@@ -83,8 +83,6 @@ Represented here are the authors who have written works in Hungarian. Some of th
 	</script>
 </body>
 </html>
-</div>
-</div>
-<div class="col-sm-1">
-</div>
+
+
 
