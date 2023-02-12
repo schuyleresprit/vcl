@@ -7,7 +7,9 @@ permalink: /
 <img src="{{ site.baseurl }}/assets/img/titlebanner.png"></div>
 <div>
 </div>
-  
+<br>
+<br>
+
   
 __Visualizing Caribbean Literature (VCL)__ is an interactive database of more than 3,000 literary works about the Caribbean experience or by writers identifying as Caribbean people. The database includes authors and titles that represents the diversity of the body of work that is Caribbean literature in language, genre, author country of origin and publication location and institution. The project also represents works in translation from the authors included in the visualizations. VCL is a student project, a capstone production of the Research, Technology and Community (RTC) Internship at Create Caribbean Research Institute. 
 

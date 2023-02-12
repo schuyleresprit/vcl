@@ -7,6 +7,8 @@ permalink: /genres/
 	<img src="{{ site.baseurl }}/assets/img/bannergenres.png"></div>
 <div>
 </div>
+<br>
+<br>
 
 Browse the genres represented in the data set, which will lead you to the relevant genre lists and author bibliographies.
 

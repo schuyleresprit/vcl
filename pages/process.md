@@ -7,6 +7,8 @@ permalink: /process/
 <img src="{{ site.baseurl }}/assets/img/bannerprocess.png"></div>
 <div>
 </div>
+<br>
+<br>
 
 
 __Where we Begin by Dr. Schuyler Esprit__
