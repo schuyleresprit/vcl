@@ -25,7 +25,7 @@ permalink: /eborde/
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Murderfest: Two Novellas Inspired by Bloodcurdling Events</h1><hr>
                 <p><img src=""></p>
                 <p>

@@ -24,7 +24,7 @@ permalink: /ewhyte/
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Soft Men Going To Bits: Vulnerable Masculinities In Austin Clarke's Fiction</h1><hr>
                 <p><img src="https://media.istockphoto.com/id/478720334/photo/blank-book-cover-isolated-on-white.jpg?s=612x612&w=0&k=20&c=l8Dch6pNaoKglTP-h-VetdAOoxHWZgOQsDgRNkO5CE4="></p>
                 <p>       

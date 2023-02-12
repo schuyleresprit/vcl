@@ -25,7 +25,7 @@ permalink: /elpaironne/
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Touloulou Au Pays Des Mantous</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41V8kAU+x6L._SX312_BO1,204,203,200_.jpg"></p>
                 <p>

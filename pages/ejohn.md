@@ -25,7 +25,7 @@ permalink: /ejohn/
         <div class="block">
             <div class="date left"><p class="left">1957</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Moon On A Rainbow Shawl</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394335233l/1879995.jpg"></p>
                 <p>

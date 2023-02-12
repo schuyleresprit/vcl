@@ -25,7 +25,7 @@ permalink: /ebaugh/
         <div class="block">
             <div class="date left"><p class="left">1979</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Language and literature in the Commonwealth Caribbean</h1><hr>
                 <p><img src="https://www.amacad.org/sites/default/files/person/headshots/Baugh_Headshot.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /ebaugh/
         <div class="block">
             <div class="date right"><p class="right">1988</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>A tale from the rainforest</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51wFdgLYdHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -51,7 +51,7 @@ permalink: /ebaugh/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1988</p></div>
+            <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>On becoming one's mother : Goodison in the context of feminist criticism</h1><hr>
@@ -65,7 +65,7 @@ permalink: /ebaugh/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Caribbean Poem</h1><hr>
@@ -79,7 +79,7 @@ permalink: /ebaugh/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2000</p></div>
+            <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>It was the Singing</h1><hr>
@@ -93,7 +93,7 @@ permalink: /ebaugh/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2006</p></div>
+            <div class="date right"><p class="right">2006</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Derek Walcott</h1><hr>
@@ -121,7 +121,7 @@ permalink: /ebaugh/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right hide">2013</p></div>
+            <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Black Sand : New and Selected Poems</h1><hr>

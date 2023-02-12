@@ -25,7 +25,7 @@ permalink: /edelllano/
         <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Kill The Ámpaya! The Best Latin American Baseball Fiction</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51pD5dJoXRL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>

@@ -25,7 +25,7 @@ permalink: /eedugyan/
         <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Washington Black</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/4/46/Washington_Black.png?20190221154800"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /eedugyan/
 		<div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Half-Blood Blues</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309737674l/11076123.jpg"></p>
                 <p>Language: English<br>
@@ -51,9 +51,9 @@ permalink: /eedugyan/
             </div>
         </div>
 		<div class="block">
-            <div class="date left"><p class="left hide">2005</p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1></h1>The Second Life of Samuel Tyne<hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/a/a5/The_Second_Life_of_Samuel_Tyne.jpg"></p>
                 <p>Language: English<br>
@@ -64,9 +64,9 @@ permalink: /eedugyan/
             </div>
         </div>
 		<div class="block">
-            <div class="date right"><p class="right hide">2022</p></div>
+            <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Out of the Sun: On Race and Storytelling</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624828280l/57285589.jpg"></p>
                 <p>Language: English<br>
@@ -77,9 +77,9 @@ permalink: /eedugyan/
             </div>
         </div>
 		<div class="block">
-            <div class="date left"><p class="left hide">2014</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Dreaming of Elsewhere: Observations on Home</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/81SMmA8FMqL._AC_UY218_.jpg"></p>
                 <p>Language: English<br>

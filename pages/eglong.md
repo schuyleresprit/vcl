@@ -25,7 +25,7 @@ permalink: /eglong/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Leaves in a River</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/510gSoA543L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>

@@ -25,7 +25,7 @@ permalink: /emokwe/
         <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Le Roman Antillais Contemporain: Une Écriture De L’enracinement Et De L’ouverture</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31dE+s7oaTL._SX344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>

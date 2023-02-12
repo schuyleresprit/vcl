@@ -25,7 +25,7 @@ permalink: /enapier/
         <div class="block">
             <div class="date left"><p class="left">1953</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Flying Fish Whispered</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51z4xgPMTbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>

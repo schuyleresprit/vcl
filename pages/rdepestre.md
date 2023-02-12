@@ -17,7 +17,7 @@ permalink: /rdepestre/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>René Depestre is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
+          <div class="aclocation">  <p>René Dépestre is from <a href="{{ site.baseurl }}/14">Haiti.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Depestre" target="_blank">Read more</a></div>
             </div>
             </div>

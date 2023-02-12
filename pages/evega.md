@@ -25,7 +25,7 @@ permalink: /evega/
         <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Noir Nation: International Crime Fiction No. 1</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51xbyqo7Z1L.jpg"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /evega/
         <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Noir Nation: International Crime Fiction No. 3: The India Issue </h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51eIrDS9scL.jpg"></p>
                 <p>
@@ -79,7 +79,7 @@ permalink: /evega/
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Noir Nation No. 4: The Canada Issue</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41KrcJOpmIL.jpg"></p>
                 <p>
@@ -106,7 +106,7 @@ permalink: /evega/
         <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Noir Nation: International Journal of Crime Fiction No. 6: The Jazz Issue</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41qpbPK7S1L._SX342_SY445_QL70_ML2_.jpg"></p>
                 <p>

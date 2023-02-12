@@ -25,7 +25,7 @@ permalink: /ephillpotts/
         <div class="block">
             <div class="date left"><p class="left">1893</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Obiman - DRS</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
@@ -50,9 +50,9 @@ permalink: /ephillpotts/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1920</p></div>
+            <div class="date left"><p class="left">1920</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Eden Phillpotts: Selected Poems</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br/>

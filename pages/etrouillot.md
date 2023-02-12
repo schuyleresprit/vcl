@@ -25,7 +25,7 @@ permalink: /etrouillot/
         <div class="block">
             <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La chambre interdite, short story collection</h1><hr>
                 <p><img src=""></p>
                 <p>Language: French<br/>
