@@ -25,7 +25,7 @@ permalink: /qmacoomeh/
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Tales From Icebox Land</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394348826l/21368525.jpg"></p>
                 <p>

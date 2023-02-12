@@ -25,7 +25,7 @@ permalink: /pthobymarcelin/
         <div class="block">
             <div class="date left"><p class="left">1932</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La Négresse Adolescente</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -81,7 +81,7 @@ permalink: /pthobymarcelin/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">1946</p></div>
+            <div class="date left"><p class="left">1946</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Bete De Musseau: Roman</h1><hr>
