@@ -25,7 +25,7 @@ permalink: /vspence/
         <div class="block">
             <div class="date left"><p class="left">1993</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Roads Are Down</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md22630856994.jpg"></p>
                 <p>

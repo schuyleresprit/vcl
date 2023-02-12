@@ -24,7 +24,7 @@ permalink: /rrobinson/
         <div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Portable Paradise</h1><hr>
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXmCqtfIAzEWriYKgfwP6xF4lPNT-GtBZC8zbsVxOB2tSHXHB"></p>
                 <p>

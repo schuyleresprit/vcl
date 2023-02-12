@@ -25,7 +25,7 @@ permalink: /rbonneville/
         <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La Vierge Cubaine</h1><hr>
                 <p><img src="https://static.ammareal.fr/280/B-648-309.jpg"></p>
                 <p>

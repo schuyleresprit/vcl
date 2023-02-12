@@ -25,7 +25,7 @@ permalink: /ssarduy/
         <div class="block">
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Gestes</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61BmG8iIXYL.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -52,9 +52,9 @@ permalink: /ssarduy/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1974</p></div>
+            <div class="date left"><p class="left">1974</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Big-Bang</h1><hr>
                 <p><img src="http://www.agenciabalcells.com/fileadmin/_processed_/csm_big_bang_073e32de3a.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>

@@ -25,7 +25,7 @@ permalink: /scostanzo/
         <div class="block">
             <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La Costruzione di un Giallo Sociale: Las Cuatro Estacionesdi Leonardo Padura Fuentes</h1><hr>
                 <p><img src="https://media-exp1.licdn.com/dms/image/C4D03AQE8nXmyu0ZF7w/profile-displayphoto-shrink_400_400/0/1644055672238?e=1674086400&v=beta&t=XohpqJwcwMSCrvPJ-Uls89kZQ7zTNrVIyaWRJR9YqX4"></p>
                 <p>

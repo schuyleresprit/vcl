@@ -25,7 +25,7 @@ permalink: /tchadee/
         <div class="block">
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Beautiful Rain</h1><hr>
                 <p><img src=""></p>
                 <p>

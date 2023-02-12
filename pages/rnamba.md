@@ -25,7 +25,7 @@ permalink: /rnamba/
         <div class="block">
             <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Black Albino</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267755902l/3073864.jpg"></p>
                 <p>

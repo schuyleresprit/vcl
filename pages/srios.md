@@ -25,7 +25,7 @@ permalink: /srios/
         <div class="block">
             <div class="date left"><p class="left">1977</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>De La Sierra</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -140,9 +140,9 @@ permalink: /srios/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>A Wa Nile, Poesias</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/91pRh0-JE2L.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -152,9 +152,9 @@ permalink: /srios/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Dirty Text</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531192131l/40714338.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br/>
@@ -166,9 +166,9 @@ permalink: /srios/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>El Retrato Ovalado</h1><hr>
                 <p><img src="https://ginapicart.files.wordpress.com/2012/10/copy-of-copy-of-dsc06928.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br/>
@@ -180,9 +180,9 @@ permalink: /srios/
             </div>
         </div>        
         <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Antes Del Mediodía: Memoria Del Sueño</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41qgufjwWjL.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -193,9 +193,9 @@ permalink: /srios/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Bocaciega</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586599148i/53122240._UY1200_SS1200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>

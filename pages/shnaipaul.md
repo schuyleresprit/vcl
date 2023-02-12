@@ -25,7 +25,7 @@ permalink: /shnaipaul/
          <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Chip-Chip Gatherers</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpjmMUa-x0BTQO2jbcdVx4iqvlXjVLTc295FV4CTTARCI1mGKh"></p>
                 <p>

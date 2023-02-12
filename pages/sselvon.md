@@ -25,7 +25,7 @@ permalink: /sselvon/
         <div class="block">
             <div class="date left"><p class="left">1956</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Lonely Londoners</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347763061i/612888.jpg"></p>
                 <p>Language: English<br/>

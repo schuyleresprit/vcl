@@ -25,7 +25,7 @@ permalink: /scollins/
         <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Confessions of Frannie Langton</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540391701l/40723753._SY475_.jpg"></p>
                 <p>

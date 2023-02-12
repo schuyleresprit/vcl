@@ -25,7 +25,7 @@ permalink: /vsreid/
         <div class="block">
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Leopard</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387496596l/2080872.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /vsreid/
         <div class="block">
             <div class="date right"><p class="right">1971</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Buildings In Jamaica</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md22147019378.jpg"></p>
                 <p>
@@ -53,9 +53,9 @@ permalink: /vsreid/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1965</p></div>
+            <div class="date left"><p class="left">1965</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Young Warriors</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387738112l/2896941.jpg"></p>
                 <p>Language: English<br>
@@ -65,9 +65,9 @@ permalink: /vsreid/
                 Length: 154<br></p>
             </div>
         </div><div class="block">
-            <div class="date right"><p class="right hide">1950</p></div>
+            <div class="date right"><p class="right">1950</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>New Day</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490907638l/2125844._SX318_.jpg"></p>
                 <p>Language: English<br>
@@ -78,9 +78,9 @@ permalink: /vsreid/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2008</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Leopard</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356454502l/14881568.jpg"></p>
                 <p>Language: English<br>
@@ -91,9 +91,9 @@ permalink: /vsreid/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1970</p></div>
+            <div class="date right"><p class="right">1970</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Buildings In Jamaica</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md22147019378.jpg"></p>
                 <p>Language: English<br>
@@ -104,9 +104,9 @@ permalink: /vsreid/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="right hide">1971</p></div>
+            <div class="date left"><p class="left">1971</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>The Young Warriors</h1><hr>
                 <p><img src="https://images.gr-assets.com/books/1387738112l/2896941.jpg"></p>
                 <p>Language: English<br>
@@ -116,9 +116,9 @@ permalink: /vsreid/
                 Length: 154<br></p>
             </div>
         </div> <div class="block">
-            <div class="date right"><p class="right hide">1960</p></div>
+            <div class="date right"><p class="right">1960</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Sixty-Five</h1><hr>
                 <p><img src="https://nlj.gov.jm/wp-content/uploads/2017/05/vic_reid-1080x1418.jpg"></p>
                 <p>Language: English<br>
@@ -129,9 +129,9 @@ permalink: /vsreid/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="right hide">1972</p></div>
+            <div class="date left"><p class="left">1972</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>New Day</h1><hr>
                 <p><img src="https://d3525k1ryd2155.cloudfront.net/f/906/230/9781845230906.OL.0.m.jpg"></p>
                 <p>Language: English<br>
@@ -142,9 +142,9 @@ permalink: /vsreid/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1988</p></div>
+            <div class="date right"><p class="right">1988</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Leopard</h1><hr>
                 <p><img src="https://www.harringtonbooks.co.uk/pictures/medium/51792.jpg?v=1556980873"></p>
                 <p>Language: English<br>
@@ -155,9 +155,9 @@ permalink: /vsreid/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="right hide">1978</p></div>
+            <div class="date left"><p class="left">1978</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>The Jamaicans</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630897759l/18657560._SY475_.jpg"></p>
                 <p>Language: English<br>

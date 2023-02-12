@@ -24,7 +24,7 @@ permalink: /stoure/
         <div class="block">
             <div class="date left"><p class="left">1972</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Black Scholar January 1972 Journal Of Black Studies And Research</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41MiQu6L-RL._SY373_BO1,204,203,200_.jpg"></p>
                 <p>

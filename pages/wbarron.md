@@ -25,7 +25,7 @@ permalink: /wbarron/
         <div class="block">
             <div class="date left"><p class="left">1927</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>One Haitian Night an Adventure of the Black Republic</h1><hr>
                 <p><img src=""></p>
                 <p>

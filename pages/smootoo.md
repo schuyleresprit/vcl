@@ -24,7 +24,7 @@ permalink: /smootoo/
         <div class="block">
             <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Out on Main Street: And Other Stories</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61TK7V57FVL._SX338_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /smootoo/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2002</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Predicament of Or</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41WA2B6MJ8L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /smootoo/
        <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>He Drown She in the Sea</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/510PDnwAiHL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -64,9 +64,9 @@ permalink: /smootoo/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
+            <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Valmiki's Daughter</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51AceVbTDmL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -80,7 +80,7 @@ permalink: /smootoo/
 <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Moving Forward Sideways Like A Crab</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41h4zjhqlCL._SX316_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -92,9 +92,9 @@ permalink: /smootoo/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Polar Vortex</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31vhFESj1uL._SX290_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -108,7 +108,7 @@ permalink: /smootoo/
        <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Cereus Blooms At Night</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347653025l/111653.jpg"></p>
                 <p>
@@ -120,9 +120,9 @@ permalink: /smootoo/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2022</p></div>
+            <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Cane Fire</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51pc+t-mVJL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>

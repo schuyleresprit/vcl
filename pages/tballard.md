@@ -25,7 +25,7 @@ permalink: /tballard/
         <div class="block">
             <div class="date left"><p class="left"></p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1></h1><hr>
                 <p><img src=""></p>
                 <p>

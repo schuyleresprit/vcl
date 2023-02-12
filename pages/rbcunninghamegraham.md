@@ -25,7 +25,7 @@ permalink: /rbcunninghamegraham/
         <div class="block">
             <div class="date left"><p class="left">1922</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Impressions of Jamaica</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Photo_of_R._B._Cunninghame_Graham.jpg"></p>
                 <p>

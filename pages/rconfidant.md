@@ -25,7 +25,7 @@ permalink: /rconfidant/
         <div class="block">
             <div class="date left"><p class="left">1995</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Les Maîtres de la Parole Créole</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41mbBi98csL._SX375_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /rconfidant/
         <div class="block">
             <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Adèle et la Pacotilleuse</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51EkDHyyJaL._SX210_.jpg"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /rconfidant/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Nègre Marron: Rècit</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=3T5lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70JR2dZZ8R6HdAawNzWk5fxBAI7Jvz7cvsnZMVh4CU_4US4l9qOeOTl23onQ95osIg9ml7CIgqtdOs9ISq-j6GPOsEd-JHNFY23160NXaSZqu_7lQbD5_6HvbVAwwfizFS3VFgQ"></p>
                 <p>
@@ -70,7 +70,7 @@ permalink: /rconfidant/
         <div class="block">
             <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>L'Hôtel du bon Plaisir</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/91TKeyRtm7L.jpg"></p>
                 <p>
@@ -85,7 +85,7 @@ permalink: /rconfidant/
         <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Le Bataillon Crèole: (Guerre De 1914-1918)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/518KdTEWT1L._SX338_BO1,204,203,200_.jpg"></p>
                 <p>

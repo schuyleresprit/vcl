@@ -25,7 +25,7 @@ permalink: /walewis/
         <div class="block">
             <div class="date left"><p class="left">1955</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Evolution Of The International Economic Order</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31Kiftbo74L._SX290_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /walewis/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1966</p></div>
+            <div class="date right"><p class="right">1966</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Racial Conflict And Economic Development</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/316MMPc3OFL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /walewis/
        <div class="block">
             <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Economic Survey</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41csFhoKzML._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -65,9 +65,9 @@ permalink: /walewis/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1978</p></div>
+            <div class="date right"><p class="right">1978</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Growth and Fluctuations, 1870-1913</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41dW8kJVRML.jpg"></p>
                 <p>
@@ -81,7 +81,7 @@ permalink: /walewis/
 	 <div class="block">
             <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Growth And Fluctuations 1870-1913 (Routledge Revivals)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41+vXr8LRNL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -93,9 +93,9 @@ permalink: /walewis/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1982</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Principles Of Economic Planning</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31L1bel+GLL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -109,7 +109,7 @@ permalink: /walewis/
        <div class="block">
             <div class="date left"><p class="left">1983</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Theory Of Economic Growth</h1><hr>
                 <p><img src="https://pictures.abebooks.com/isbn/9780043300541-us.jpg"></p>
                 <p>
@@ -121,9 +121,9 @@ permalink: /walewis/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1985</p></div>
+            <div class="date right"><p class="right">1985</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Politics In West Africa</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41N8wQO0vXL._AC_SY780_.jpg"></p>
                 <p>
@@ -137,7 +137,7 @@ permalink: /walewis/
       <div class="block">
             <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Overhead Costs</h1><hr>
                 <p><img src="https://images.routledge.com/common/jackets/crclarge/978041560/9780415606974.jpg"></p>
                 <p>
@@ -149,9 +149,9 @@ permalink: /walewis/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2003</p></div>
+            <div class="date right"><p class="right">2003</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Selected Economic Writings Of W. Arthur Lewis</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41Bcm63xftL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -165,7 +165,7 @@ permalink: /walewis/
        <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Tropical Development, 1880 1913: Studies In Economic Progress</h1><hr>
                 <p><img src="https://images.routledge.com/common/jackets/crclarge/978113886/9781138865167.jpg"></p>
                 <p>
@@ -177,9 +177,9 @@ permalink: /walewis/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
+            <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Monroe Doctrine Unveiled: And The Mexican Crisis</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41HY8IipAUL._SX382_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -193,7 +193,7 @@ permalink: /walewis/
    <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Development Planning</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51PK85qDnJL._AC_SY780_.jpg"></p>
                 <p>

@@ -25,7 +25,7 @@ permalink: /rdepestre/
         <div class="block">
             <div class="date left"><p class="left">1969</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Por la Revolución, Por la Poesía</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=apXrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70hv9zCZStg1i96UNX5BEnZZFdA20z_UNf8-KqFdyc7nf-o_Kwtg6lWE4S-tBoEGs4mrKl5KLVc4sAK5grlQVWFmpYOqbB-Ojis7G2q9A-h28x_MdlY-XWnb1WhsV9ItCiXqAyX"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /rdepestre/
             </div>
         </div>
 	  <div class="block">
-            <div class="date left"><p class="left">1969</p></div>
+            <div class="date right"><p class="right">1969</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Avec les Mêmes Mains</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md15373372867.jpg"></p>
                 <p>
@@ -54,7 +54,7 @@ permalink: /rdepestre/
        <div class="block">
             <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Etincelles: Gerbe de Sang</h1><hr>
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFYFwl84a6QBYxVSvmEYdZKPTPXGaPJ0JVGbXZgGk1&s"></p>
                 <p>
@@ -66,9 +66,9 @@ permalink: /rdepestre/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1974</p></div>
+            <div class="date right"><p class="right">1974</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Pour la Révolution, Pour la Poésie</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=dG0jAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72hHTov6tbeWvNj6kkJFutZnv6k8Oy1Qhcbu6AAxxQ759y5oupJ8Obp8wAjUuc6nofGCvVbUjabPFpm5eC_Ff8H-npNpKDZxRwh95eUc8gZFL9G0BKIlz8fpVGF6tfbV4jj5M11"></p>
                 <p>
@@ -82,7 +82,7 @@ permalink: /rdepestre/
        <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Hadriana in All My Dreams</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492925638l/33508902.jpg"></p>
                 <p>

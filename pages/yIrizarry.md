@@ -25,7 +25,7 @@ permalink: /yIrizarry/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Doubly Troubling Narratives</h1><hr>
                 <p><img src="https://www.tandfonline.com/action/showCoverImage?doi=10.1080/ycas20.v004.i02"></p>
                 <p>Language: Spanish<br/>

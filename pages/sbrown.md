@@ -25,7 +25,7 @@ permalink: /sbrown/
         <div class="block">
             <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Caribbean Poetry Now</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266822236i/1514534._UY630_SR1200,630_.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /sbrown/
         <div class="block">
             <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Voiceprint: An Anthology of Oral And Related Poetry from the Caribbean</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/8230498205.jpg"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /sbrown/
         <div class="block">
             <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Oxford Nook of Caribbean Short Stories</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61vVLXf7+wL.jpg"></p>
                 <p>

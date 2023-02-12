@@ -25,7 +25,7 @@ permalink: /twilliams/
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Masterplots II</h1><hr>
                 <p><img src="https://salempress.com/Media/SalemPress/books/african_american_lit.jpg"></p>
                 <p>Language: English <br/>

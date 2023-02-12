@@ -25,7 +25,7 @@ permalink: /sadantes/
         <div class="block">
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Silent Defeat Bitter Confrontation</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518911699l/38608401._SX318_.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /sadantes/
         <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Lucian Chronicles 1</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51BNtvCw-1L.jpg"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /sadantes/
         <div class="block">
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Alter Ego</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41tiBRrDSeL._SY346_.jpg"></p>
                 <p>
@@ -70,7 +70,7 @@ permalink: /sadantes/
         <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Love Doctor</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51SUf7hZHHL.jpg"></p>
                 <p>
@@ -85,7 +85,7 @@ permalink: /sadantes/
         <div class="block">A
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Hindsight</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51ZuJJZgvEL.jpg"></p>
                 <p>
@@ -100,7 +100,7 @@ permalink: /sadantes/
         <div class="block">
             <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Is It Love?: A Triangle Gone Square</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51nRFEdfCnL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -116,7 +116,7 @@ permalink: /sadantes/
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Soul Mates | Confessions of a Stoic </h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41GYH3HEGIL._SY346_.jpg"></p>
                 <p>
@@ -131,7 +131,7 @@ permalink: /sadantes/
         <div class="block">
             <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>All Black Everything</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31ktOzzbdtL._SY346_.jpg"></p>
                 <p>
@@ -144,7 +144,7 @@ permalink: /sadantes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2012</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Creole Chapbook 2012</h1><hr>
@@ -159,7 +159,7 @@ permalink: /sadantes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Exit Mic Still Hanging </h1><hr>
@@ -176,7 +176,7 @@ permalink: /sadantes/
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Letters To My Son</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51MED4ZM3AL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>

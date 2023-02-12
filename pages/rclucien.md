@@ -25,7 +25,7 @@ permalink: /rclucien/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Résistance et cubanité trois écrivains nés avec la révolution cubaine ; Eliseo Alberto, Leonardo Padura et Zoé Valdes trois écrivains nés avec la révolution cubaine ; Eliseo Alberto, Leonardo Padura et Zoé Valdes</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41kep9WDAOL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>

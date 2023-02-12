@@ -25,7 +25,7 @@ permalink: /smillar/
         <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Whale House and Other Stories</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51-f8+bNvVL._AC_SY780_.jpg" height="50%" width = "50%"></p>
                 <p>

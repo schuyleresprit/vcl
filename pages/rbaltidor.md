@@ -23,9 +23,9 @@ permalink: /rbaltidor/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1999</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Koulè Midi</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/711JAMZETGL._SX304_BO1,204,203,200_.gif"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /rbaltidor/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Simbad Avenue</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450744329l/28262678.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -50,9 +50,9 @@ permalink: /rbaltidor/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Ri Pwent Chemiz</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/510rjJ8bY0L._SY369_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -63,9 +63,9 @@ permalink: /rbaltidor/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Haiti And the American Military Occupation</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/91L4B7vtEFL.jpg"></p>
                 <p>Language: English<br/>

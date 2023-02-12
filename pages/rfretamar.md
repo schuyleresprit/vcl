@@ -25,7 +25,7 @@ permalink: /rfretamar/
         <div class="block">
             <div class="date left"><p class="left">1900</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Algunos Usos De Civilización Y Barbarie Y Otros Ensayos</h1><hr>
                 <p><img src="https://imagessl9.casadellibro.com/a/l/t7/09/mkt0006498309.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /rfretamar/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1959</p></div>
+            <div class="date right"><p class="right">1959</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Vuelta De La Antigua & Barbuda Esperanza</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51WtU+gs8iL._AC_SY780_.jpg"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /rfretamar/
        <div class="block">
             <div class="date left"><p class="left">1962</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Con Las Mismas Manos. Poesias,1949-1962</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/5146G8jUmML._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"></p>
                 <p>
@@ -65,9 +65,9 @@ permalink: /rfretamar/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1969</p></div>
+            <div class="date right"><p class="right">1969</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Avec les Mêmes Mains</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/31038071799.jpg"></p>
                 <p>
@@ -82,7 +82,7 @@ permalink: /rfretamar/
 <div class="block">
             <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Martí</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/10605471170.jpg"></p>
                 <p>
@@ -94,9 +94,9 @@ permalink: /rfretamar/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1970</p></div>
+            <div class="date right"><p class="right">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>L'Isola Recuperata</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51IIlo7oG5L._SY344_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -110,7 +110,7 @@ permalink: /rfretamar/
        <div class="block">
             <div class="date left"><p class="left">1974</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Caliban: Apuntes Sobre la Cultura en Nuestra America</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61LEfB48PIL._AC_SY780_.jpg"></p>
                 <p>

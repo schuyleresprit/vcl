@@ -25,7 +25,7 @@ permalink: /rparsemain/
         <div class="block">
             <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Il Chantait Des Boléros: Récits-Nouvelles</h1><hr>
                 <p><img src="https://products-images.di-static.com/image/roger-parsemain-il-chantait-des-boleros/9782844500656-475x500-1.webp"></p>
                 <p>

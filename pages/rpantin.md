@@ -25,7 +25,7 @@ permalink: /rpantin/
         <div class="block">
             <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Journey: A Volume Of Poetry</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41UYBYK6c0L._SX356_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /rpantin/
         <div class="block">
             <div class="date right"><p class="right">1974</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Bim; An Outline. Based On An Original Idea</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Bim_movie_poster.jpeg/220px-Bim_movie_poster.jpeg"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /rpantin/
         <div class="block">
             <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Trinidad Express Story</h1><hr>
                 <p><img src="https://bloximages.newyork1.vip.townnews.com/tv6tnt.com/content/tncms/assets/v3/editorial/2/d5/2d55f81f-355a-531d-8cd5-5b096ff2b3dc/58d018f829008.image.jpg?crop=478%2C478%2C0%2C81&resize=1200%2C1200&order=crop%2Cresize"></p>
                 <p>Language: English<br>
@@ -68,7 +68,7 @@ permalink: /rpantin/
         </div><div class="block">
             <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Days Of Wrath: The 1990 Coup In Trinidad & Tobago</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41Jwsxx5I7L._SX347_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>

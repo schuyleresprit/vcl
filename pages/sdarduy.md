@@ -25,7 +25,7 @@ permalink: /sdarduy/
         <div class="block">
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Gestes</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41EHxo3XoML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>

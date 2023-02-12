@@ -24,7 +24,7 @@ permalink: /sramlochan/
    <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Everyone Knows I Am A Haunting</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlv-eG9nG-JJuUFp0hCaNHoJpOpoFJ2n446xZo9KvLj2_nUDjx"></p>
                 <p>

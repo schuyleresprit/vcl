@@ -25,7 +25,7 @@ permalink: /sjperse/
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Collected Poems</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/21JS1lfwmyS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /sjperse/
             </div>
         </div>
  	  <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Song For An Equinox</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/21Ck4YCIkpL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>

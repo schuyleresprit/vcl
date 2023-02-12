@@ -25,7 +25,7 @@ permalink: /smckenzie/
         <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The 'Aesthetic Republic': A Review of Derek Walcott's O Starry, Starry Night</h1><hr>
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHowUgbYXQuWDSxS39N5TWw2Krbbrt2uyqfA&usqp=CAU"></p>
                 <p>

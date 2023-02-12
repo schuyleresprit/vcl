@@ -25,7 +25,7 @@ permalink: /vmaisier/
         <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Violence in Caribbean Literature: Stories of Stones and Blood</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41jhCa4Mc0L.jpg" height="50%" width = "50%"></p>
                 <p>

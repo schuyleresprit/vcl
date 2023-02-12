@@ -25,7 +25,7 @@ permalink: /rlcaarons/
         <div class="block">
             <div class="date left"><p class="left">1944</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Cow That Laughed - And Other Stories</h1><hr>
                 <p><img src="https://collections.carli.illinois.edu/digital/api/singleitem/image/uic_car/1341/default.jpg"></p>
                 <p>

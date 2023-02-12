@@ -25,7 +25,7 @@ permalink: /vjclarke/
         <div class="block">
             <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Native Landscapes: An Anthology of Caribbean Short Stories</h1><hr>
                 <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
                 <p>

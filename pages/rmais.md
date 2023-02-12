@@ -25,7 +25,7 @@ permalink: /rmais/
         <div class="block">
             <div class="date left"><p class="left">1979</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Brother Man</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41r1U3HZ9WL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br/>

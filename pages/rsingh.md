@@ -25,7 +25,7 @@ permalink: /rsingh/
         <div class="block">
             <div class="date left"><p class="left">1995</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Wild Maami</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /rsingh/
         <div class="block">
             <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Eve</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
@@ -53,9 +53,9 @@ permalink: /rsingh/
             </div>
         </div>
         </div><div class="block">
-            <div class="date right"><p class="right hide">2000</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Shadow in the Dark</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: English<br>

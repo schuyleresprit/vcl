@@ -24,7 +24,7 @@ permalink: /rmcdonald/
         <div class="block">
             <div class="date left"><p class="left">1930</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Dancing Dead</h1><hr>
                 <p><img src=""></p>
                 <p>

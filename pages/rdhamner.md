@@ -24,7 +24,7 @@ permalink: /rdhamner/
         <div class="block">
             <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Derek Walcott</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41NHMYYKG5L._SX299_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /rdhamner/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1993</p></div>
+            <div class="date right"><p class="right">1993</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Critical Perspectives On Derek Walcott</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41qNG01+rXL._SX328_BO1,204,203,200_.jpg"></p>
                 <p>
