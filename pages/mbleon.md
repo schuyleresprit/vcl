@@ -40,7 +40,7 @@ permalink: /mbleón/
             <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Alguien Tiene Que Llorar Otra Vez</h1></h1><hr>
+                <h1>Alguien Tiene Que Llorar Otra Vez</h1><hr>
                 <p><img src=""></p>
                 <p>Language: Spanish<br/>
                 Publisher: Casa de las Américas<br/>

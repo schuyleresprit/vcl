@@ -12,7 +12,7 @@ permalink: /Autobiography/Memoir/
 <div class="col-sm-1">
 </div>
 <div class="col-sm-10">
-<div class="page_title"><h3> Autobiography/Memoir</h3></div>
+<div class="page_title"><h3>Autobiography/Memoir</h3></div>
 
 Represented here are the the texts in the dataset representative of the genre or category 'Autobiography/Memoir'.
 
