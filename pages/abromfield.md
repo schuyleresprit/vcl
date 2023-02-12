@@ -12,7 +12,7 @@ permalink: /abromfield/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> B. 1994 </p></div>
+            <div class="date right"><p class="right">b. 1994</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -38,5 +38,5 @@ permalink: /abromfield/
             </div>
         </div>
         </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

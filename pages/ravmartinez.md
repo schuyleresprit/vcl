@@ -25,7 +25,7 @@ permalink: /ravmartinez/
         <div class="block">
             <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>"Rayano": Una Nueva Metafora Para Explicar La Dominicanidad</h1><hr>
                 <p><img src="https://i1.rgstatic.net/publication/210845794_Rayano_Una_nueva_metafora_para_explicar_la_dominicanidad/links/5d6acb3a299bf1808d5cbcc9/largepreview.png"></p>
                 <p>
@@ -36,3 +36,5 @@ permalink: /ravmartinez/
                 Length: 296 <br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

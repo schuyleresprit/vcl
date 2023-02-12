@@ -24,7 +24,7 @@ permalink: /eamittelholzer/
         <div class="block">
             <div class="date left"><p class="left">1940</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Corentyne Thunder</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrO3vkzNKgzWyTsGhXmws50v3VoURmQdw92iGHnstgjV-Uli3I" height="50%" width = "50%"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /eamittelholzer/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1950</p></div>
+            <div class="date right"><p class="right">1950</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>A Morning At The Office : A Novel</h1><hr>
                 <p><img src="https://archive.org/services/img/morningatofficen0000mitt" height="50%" width = "50%"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /eamittelholzer/
        <div class="block">
             <div class="date left"><p class="left">1950</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Morning In Trinidad</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdOZGPxUJQiQyLoNh036dYUel6GdEprsnCdXMcjtZtviRAEBSd" height="50%" width = "50%"></p>
                 <p>
@@ -66,7 +66,7 @@ permalink: /eamittelholzer/
        <div class="block">
             <div class="date left"><p class="left">1959</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Tinkling In The Twilight</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349308352l/16066092.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -78,9 +78,9 @@ permalink: /eamittelholzer/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">1960</p></div>
+            <div class="date right"><p class="right">1960</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Eltonsbrody</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/71UqbAsoMvL._AC_UY218_.jpg"></p>
                 <p>
@@ -94,7 +94,7 @@ permalink: /eamittelholzer/
        <div class="block">
             <div class="date left"><p class="left">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Kaywana Blood</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Qu-IK+iXL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -106,9 +106,9 @@ permalink: /eamittelholzer/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1976</p></div>
+            <div class="date right"><p class="right">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Sylvia</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41SUxhnKbmL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -122,7 +122,7 @@ permalink: /eamittelholzer/
        <div class="block">
             <div class="date left"><p class="left">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Children Of Kaywana</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41cN2WxtdJL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -134,9 +134,9 @@ permalink: /eamittelholzer/
             </div>
         </div>
       <div class="block">
-            <div class="date left"><p class="left">1976</p></div>
+            <div class="date right"><p class="right">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Kaywana Heritage</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379356887l/4646268.jpg"></p>
                 <p>
@@ -150,7 +150,7 @@ permalink: /eamittelholzer/
        <div class="block">
             <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>My Bone And My Flute</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJR8pkGJzv05u3cb4i2l9GVQtU9elpvV2DTwuSPku3wn0iQFeQ"></p>
                 <p>
@@ -162,9 +162,9 @@ permalink: /eamittelholzer/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
+            <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Life And Death Of Sylvia</h1><hr>
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQJ7cAuGkP2QexKNvJeXf8n-lgpi98FE9eQMgs-8j-tcbyqtR"></p>
                 <p>
@@ -175,3 +175,5 @@ permalink: /eamittelholzer/
                 Length: 318<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

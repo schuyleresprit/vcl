@@ -4,6 +4,8 @@ title: Turkish
 permalink: /Turkish/
 ---
 
+Represented here are the authors who have written works in Turkish. Some of these may be texts translated into Turkish from other languages.
+
 <div class="individual_language">
 <div class="background">
 <div class="overlay">
@@ -11,110 +13,74 @@ permalink: /Turkish/
 <div class="col-sm-1">
 </div>
 <div class="col-sm-10">
-<div class="page_title"><h3> Turkish</h3></div>
+<div class="page_title"><h3>Turkish</h3></div>
 
 <html>
 
 <body>
 	<div class="container">
 		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a language of publication">
-		</div>
-
+			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
 		<div id="data-container" class="row">
 		</div>
 	</div>
-
-	<script>
-		let datasets = [
-			{
-				"type" : "turkish",
-				"url" : "/data/turkish.json"
-			}
-		];
-
-		var dataLinks = [];
-
+<script>
 		$( document ).ready(function() {
-			for (i = 0; i < datasets.length; i++) {
-				dataLinks.push({
-					"type" : datasets[i].type,
-					"data" : siftData(datasets[i].url, datasets[i].type)
-				});
-			}
-
 			//Set triggers
 			$('#search-box').on('input', function (event) {
 				showCategory(event.target.value);
 			})
-
 			//Populate page
 			setTimeout(showCategory, 1000);
 		});
-
-		function siftData (url, dataType) {
-			var temp = [];
-
-			$.getJSON(url, function (data) {
-				switch (dataType) {
-					case "turkish":
-						for (key in data) {
-							temp.push({
-								"flavorText" : data[key]["Title"],
-								"subtitle" : data[key]["Title"],
-								"link" : data[key]["Pubdate"]
-							});
-						}
-						break;
-
-					default:
-						break;
-				}
-			});
-
-			return temp;
-		}
-
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
-
-			dataLinks.forEach(element => {
-				if ((filter == "") && element.data.length > 0) {
-					for (i = 0; i < element.data.length; i++) {
-						$('#data-container').append(`
-							<div class="card col-4">
-								<div class="card-body">
-									<h5 class="card-title">${element.data[i].flavorText}</h5>
-									<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
-									<a href="/${element.data[i].link}" class="card-link">More</a>
-								</div>
+			$.getJSON("{{ site.baseurl }}/data/turkish.json", function (data) {
+				let cards = [];
+				for (const [key, value] of Object.entries(data)) {
+					if (filter == "" && value.length > 0) {
+						for (i = 0; i < value.length; i++) {
+							//Todo:
+							cards.push({
+								"flavorText" : value[i]["Title"],
+								"subtitle" : value[i]["Author"],
+								"translation" : (value[i]["Translation"] == "y" ? "Translation" : ""),
+								"link" : key,
+							});
+						}
+					} else {
+						for (i = 0; i < value.length; i++) {
+							//TODO: Search Translation
+							if (value[i]["Title"].toLowerCase().includes(filter.toLowerCase()) || value[i]["Author"].toLowerCase().includes(filter.toLowerCase())) {
+								//Todo:
+								cards.push({
+									"flavorText" : value[i]["Title"],
+									"subtitle" : value[i]["Author"],
+									"translation" : (value[i]["Translation"] == "y" ? "Translation" : ""),
+									"link" : key,
+								});
+							}
+						}
+					}
+				}
+				//Show Cards
+				for (i = 0; i < cards.length; i++) {
+					$('#data-container').append(`
+						<div class="card col-4">
+							<div class="card-body">
+								<h5 class="card-title">${cards[i].flavorText}</h5>
+								<h6 class="card-subtitle mb-2 text-muted">${cards[i].subtitle}</h6>
+								<h6 class="card-subtitle mb-2">${cards[i].translation}</h6>
+								<a href="{{ site.baseurl }}/${cards[i].link}" class="card-link">More</a>
 							</div>
-						`);
-					}
-				} else {
-					for (i = 0; i < element.data.length; i++) {
-						if (element.data[i].flavorText.toLowerCase().includes(filter.toLowerCase()))
-							$('#data-container').append(`
-								<div class="card col-4">
-									<div class="card-body">
-										<h5 class="card-title">${element.data[i].flavorText}</h5>
-										<h6 class="card-subtitle mb-2 text-muted">${element.type}</h6>
-										<a href="/${element.data[i].link}" class="card-link">More</a>
-									</div>
-								</div>
-							`);
-					}
+						</div>
+					`);
 				}
 			});
 		}
 	</script>
 </body>
 </html>
-</div>
-</div>
 <div class="col-sm-1">
-</div>
-</div>
-</div>
 </div>

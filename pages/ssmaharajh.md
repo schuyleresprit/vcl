@@ -13,7 +13,7 @@ permalink: /ssmaharajh/
         <div style="padding-bottom:100px;"></div>
         <div class="block">
             <div class="date right"><p class="right">  </p></div>
-            <div class="dot"></div>
+            <div class="dot">b. Unknown</div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
@@ -25,7 +25,7 @@ permalink: /ssmaharajh/
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Beast of Venus: A Novel in Three Parts</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
@@ -36,7 +36,5 @@ permalink: /ssmaharajh/
                 Length: 297</p>
             </div>
         </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

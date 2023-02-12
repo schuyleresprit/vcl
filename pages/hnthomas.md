@@ -36,7 +36,6 @@ permalink: /hnthomas/
                 Length: 212 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1994</p></div>
             <div class="dot"></div>
@@ -51,7 +50,6 @@ permalink: /hnthomas/
                 Length: 219 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1995</p></div>
             <div class="dot"></div>
@@ -66,7 +64,6 @@ permalink: /hnthomas/
                 Length: 124 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1999</p></div>
             <div class="dot"></div>
@@ -81,7 +78,6 @@ permalink: /hnthomas/
                 Length: 83 <br/>    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2001</p></div>
             <div class="dot"></div>
@@ -97,7 +93,6 @@ permalink: /hnthomas/
                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2007</p></div>
             <div class="dot"></div>
@@ -112,7 +107,6 @@ permalink: /hnthomas/
                 Length: 304 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2010</p></div>
             <div class="dot"></div>
@@ -127,7 +121,6 @@ permalink: /hnthomas/
                 Length: 146 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2013</p></div>
             <div class="dot"></div>
@@ -143,7 +136,6 @@ permalink: /hnthomas/
                 Length: 223 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2014</p></div>
             <div class="dot"></div>
@@ -158,7 +150,6 @@ permalink: /hnthomas/
                 Length: 159 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2015</p></div>
             <div class="dot"></div>
@@ -173,7 +164,6 @@ permalink: /hnthomas/
                 Length: 297 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2016</p></div>
             <div class="dot"></div>
@@ -189,8 +179,6 @@ permalink: /hnthomas/
                 Length: 450 <br/>                 </p>
             </div>
         </div>
-
-
         <div class="block">
             <div class="date right"><p class="right hide">2018</p></div>
             <div class="dot"></div>
@@ -205,7 +193,6 @@ permalink: /hnthomas/
                 Length: 277 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2021</p></div>
             <div class="dot"></div>
@@ -220,7 +207,6 @@ permalink: /hnthomas/
                 Length: 330 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2021</p></div>
             <div class="dot"></div>
@@ -235,6 +221,5 @@ permalink: /hnthomas/
                 Length: 103 <br/>                 </p>
             </div>
         </div>
-
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

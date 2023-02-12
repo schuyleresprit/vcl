@@ -25,7 +25,7 @@ permalink: /waroberts/
         <div class="block">
             <div class="date left"><p class="left">1941</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Pomegranate</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md30849341841.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /waroberts/
 		<div class="block">
             <div class="date right"><p class="right">1944</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Book of the Navy</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51dQTnPr+bL._SX434_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
@@ -50,9 +50,9 @@ permalink: /waroberts/
             </div>
         </div>
 		<div class="block">
-            <div class="date left"><p class="left hide">1944</p></div>
+            <div class="date left"><p class="left">1944</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Royal Street, A Novel of Old New Orleans</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md1233902928.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -63,9 +63,9 @@ permalink: /waroberts/
             </div>
         </div>
 		<div class="block">
-            <div class="date right"><p class="right hide">1946</p></div>
+            <div class="date right"><p class="right">1946</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Lake Pontchartrain</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md30766302343.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -76,9 +76,9 @@ permalink: /waroberts/
             </div>
         </div>
 		<div class="block">
-            <div class="date left"><p class="left hide">1946</p></div>
+            <div class="date left"><p class="left">1946</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Brave Mardi Gras: A New Orleans Novel of the '60s</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/81SMmA8FMqL._AC_UY218_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -89,9 +89,9 @@ permalink: /waroberts/
             </div>
         </div>
 		<div class="block">
-            <div class="date right"><p class="right hide">1948</p></div>
+            <div class="date right"><p class="right">1948</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Lands of the Inner Sea: The West Indies and Bermuda</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31hYKA5ml4L._SX331_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -102,9 +102,9 @@ permalink: /waroberts/
             </div>
         </div>
 		<div class="block">
-            <div class="date left"><p class="left hide">1948</p></div>
+            <div class="date left"><p class="left">1948</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Creole Dusk: A New Orleans Novel of the '80s</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md31149570579.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -115,9 +115,9 @@ permalink: /waroberts/
             </div>
         </div>
 		<div class="block">
-            <div class="date right"><p class="right hide">1949</p></div>
+            <div class="date right"><p class="right">1949</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Single Star: A Novel of Cuba in the '90s</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/71PvNHpeTmL._AC_UY218_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -128,9 +128,9 @@ permalink: /waroberts/
             </div>
         </div>
 		<div class="block">
-            <div class="date left"><p class="left hide">1969</p></div>
+            <div class="date left"><p class="left">1969</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Caribbean</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41-+O8L7drL._SX329_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -141,9 +141,9 @@ permalink: /waroberts/
             </div>
         </div>
 		<div class="block">
-            <div class="date right"><p class="right hide">1969</p></div>
+            <div class="date right"><p class="right">1969</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The French in the West Indies</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md15097638696.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -154,3 +154,5 @@ permalink: /waroberts/
             </div>
         </div>
 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

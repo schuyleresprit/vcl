@@ -25,7 +25,7 @@ permalink: /rdepalma/
         <div class="block">
             <div class="date left"><p class="left">1928</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Cuentos Cubanos</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/518Nsb1FunL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -36,9 +36,5 @@ permalink: /rdepalma/
                 Length: 299</p>
             </div>
         </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

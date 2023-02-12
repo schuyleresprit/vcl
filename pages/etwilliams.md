@@ -23,9 +23,9 @@ permalink: /etwilliams/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2012</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Facing North: Tales From Bathsheba</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51z2kcw7JEL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -38,9 +38,9 @@ permalink: /etwilliams/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Prickett's Well: A Barbados Murder Mystery </h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Dbf6l9NGL.jpg"></p>
                 <p>
@@ -52,3 +52,5 @@ permalink: /etwilliams/
                 </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

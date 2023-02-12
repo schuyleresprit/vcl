@@ -23,7 +23,7 @@ permalink: /eclarke/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2002</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>My Mother Who Fathered Me: A Study of the Family in Three Selected Communities in Jamaica</h1><hr>
@@ -37,5 +37,5 @@ permalink: /eclarke/
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

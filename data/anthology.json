@@ -363,52 +363,6 @@
             "Translation": "n"
         }
     ],
-    "bmagnier": [
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "German",
-            "Pub_id": "paris_france",
-            "Pubdate": "1995",
-            "Publisher": "Arles Actes Sud",
-            "Title": "Poésie d'Afrique au sud du Sahara 1945 - 1995 anthologie",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "German",
-            "Pub_id": "paris_france",
-            "Pubdate": "1995",
-            "Publisher": "Arles Actes Sud",
-            "Title": "Poésie d'Afrique au sud du Sahara 1945 - 1995 anthologie",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1993",
-            "Publisher": "CLE International",
-            "Title": "Littératures du Cap-Vert, de Guinée-Bissao, de São Tomé et Principe",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1993",
-            "Publisher": "CLE International",
-            "Title": "Littératures du Cap-Vert, de Guinée-Bissao, de São Tomé et Principe",
-            "Translation": "n"
-        }
-    ],
     "cdabydeen": [
         {
             "Author": "Cyril Dabydeen",
@@ -577,52 +531,6 @@
             "Translation": "n"
         }
     ],
-    "dwilliams": [
-        {
-            "Author": "David Williams",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "portsmouth_united¬†states",
-            "Pubdate": "2005",
-            "Publisher": "Heinemann",
-            "Title": "A World Of Prose For CSEC",
-            "Translation": "y"
-        },
-        {
-            "Author": "David Williams",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "portsmouth_united¬†states",
-            "Pubdate": "2005",
-            "Publisher": "Heinemann",
-            "Title": "A World Of Prose For CSEC",
-            "Translation": "y"
-        },
-        {
-            "Author": "David Williams",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1994",
-            "Publisher": "Butterworth–Heinemann",
-            "Title": "A World Of Prose For CXC",
-            "Translation": "y"
-        },
-        {
-            "Author": "David Williams",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1994",
-            "Publisher": "Butterworth–Heinemann",
-            "Title": "A World Of Prose For CXC",
-            "Translation": "y"
-        }
-    ],
     "edelllano": [
         {
             "Author": "Eduardo Del Llano",
@@ -644,30 +552,6 @@
             "Pubdate": "2017",
             "Publisher": "Mandel Vilar Press",
             "Title": "Kill The Ámpaya! The Best Latin American Baseball Fiction",
-            "Translation": "n"
-        }
-    ],
-    "ekbrathwaite": [
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "cave_hill_barbados",
-            "Pubdate": "2011",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "cave_hill_barbados",
-            "Pubdate": "2011",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
             "Translation": "n"
         }
     ],
@@ -1148,6 +1032,30 @@
             "Pubdate": "2008",
             "Publisher": "Peepal Tree Press",
             "Title": "Caribbean Treasure: A Trove Of 18th-Century Barbadian Poetry And Prose: Vol. 1",
+            "Translation": "n"
+        }
+    ],
+    "kbrathwaite": [
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "English",
+            "Pub_id": "cave_hill_barbados",
+            "Pubdate": "2011",
+            "Publisher": "University of the West Indies Press",
+            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "English",
+            "Pub_id": "cave_hill_barbados",
+            "Pubdate": "2011",
+            "Publisher": "University of the West Indies Press",
+            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
             "Translation": "n"
         }
     ],

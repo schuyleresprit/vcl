@@ -12,7 +12,7 @@ permalink: /amckenzie/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> B. 1962 </p></div>
+            <div class="date right"><p class="right">b. 1962</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -25,7 +25,7 @@ permalink: /amckenzie/
          <div class="block">
             <div class="date left"><p class="left">1992</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Satellite City</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266826720l/4594966.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /amckenzie/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1995</p></div>
+            <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>When the rain stopped in Natland</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61X9i0ErSAL._SX398_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -51,9 +51,9 @@ permalink: /amckenzie/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Doctor's Orders</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51cxnBh6ZxL._SX324_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -64,9 +64,9 @@ permalink: /amckenzie/
                 Length: 107</p>
             </div>
              <div class="block">
-            <div class="date left"><p class="left">2011</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Sweetheart</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51t+pBpbA7L._SX326_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -80,7 +80,7 @@ permalink: /amckenzie/
         <div class="block">
                 <div class="date left"><p class="left">2020</p></div>
                 <div class="dot"></div>
-                <div class="right">
+                <div class="righ hide">
                     <h1>A Million Aunties</h1><hr>
                     <p><img src="https://images-na.ssl-images-amazon.com/images/I/51HuJ8DmQJS._SX316_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                     <p>
@@ -92,3 +92,5 @@ permalink: /amckenzie/
                 </div>
             </div>
        </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

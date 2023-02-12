@@ -24,7 +24,7 @@ permalink: /pbraham/
         <div class="block">
             <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Crimes Against the State, Crimes Against Persons: Detective Fiction in Cuba and Mexico</h1><hr>
                 <p><img src="https://www.upress.umn.edu/book-division/books/crimes-against-the-state-crimes-against-persons/@@images/image/mini"></p>
  			<p> Language: English <br/>
@@ -34,3 +34,5 @@ permalink: /pbraham/
                 Length: 192 <br/>                </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

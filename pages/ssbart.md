@@ -25,7 +25,7 @@ permalink: /ssbart/
         <div class="block">
             <div class="date left"><p class="left">1967</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Un Plat de Porc aux Bananes Vertes</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/516JI5K8KUL._SX301_BO1,204,203,200_.jpg"></p>
                 <p>Language: French <br/>
@@ -50,9 +50,9 @@ permalink: /ssbart/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">1987</p></div>
+            <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Ton Beau Capitaine</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388445816i/277129.jpg"></p>
                 <p>Language: French <br/>
@@ -63,9 +63,9 @@ permalink: /ssbart/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1988</p></div>
+            <div class="date right"><p class="right">1988</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Hommage à la Femme Noire</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/31nySw77XbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: French <br/>
@@ -76,9 +76,9 @@ permalink: /ssbart/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1989</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Your Handsome Captain</h1><hr>
                 <p><img src="https://www.jstor.org/page-scan-delivery/get-page-scan/2931301/0" height="50%" width = "50%"></p>
                 <p>Language: English <br/>
@@ -90,9 +90,9 @@ permalink: /ssbart/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1992</p></div>
+            <div class="date right"><p class="right">1992</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Pluie Et Vent Sur Télumée Miracle</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41BaGwnVXcL._SX301_BO1,204,203,200_.jpg"></p>
                 <p>Language: English <br/>
@@ -104,9 +104,9 @@ permalink: /ssbart/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1998</p></div>
+            <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Ti Jean l'Horizon</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51FAH0rcBrL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: French <br/>
@@ -117,9 +117,9 @@ permalink: /ssbart/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2002</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>In Praise of Black Women: Heroines of the slavery era</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51GC7G3T6HL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English <br/>
@@ -131,9 +131,9 @@ permalink: /ssbart/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Bridge Of Beyond</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362466564i/17262564.jpg"></p>
                 <p>Language: English <br/>
@@ -146,7 +146,5 @@ permalink: /ssbart/
         </div>
         <div style="padding-bottom:100px;"></div>
     </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

@@ -25,7 +25,7 @@ permalink: /mmontano/
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Boy Boy And The Magic Drum</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51cQ9V6D1dL._SY498_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,9 +36,6 @@ permalink: /mmontano/
                 Length: 17</p>
             </div>
         </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

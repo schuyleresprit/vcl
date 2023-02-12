@@ -25,7 +25,7 @@ permalink: /umarson/
         <div class="block">
             <div class="date left"><p class="left">1944</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Women's Institute Movement in Great Britain Eight Broadcasts Made by the British Broadcasting Corporation in 1943 With a Foreword by Sir Frank Stockdale, Comtroller for Development and Welfare in the West Indies</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
                 <p>Language: English <br/>
@@ -36,9 +36,9 @@ permalink: /umarson/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2011</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Selected poems</h1><hr>
                 <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781845231682.jpg?itok=IDevZzuU" height="50%" width = "50%"></p>
                 <p>Language: English <br/>
@@ -63,7 +63,5 @@ permalink: /umarson/
         </div>
         <div style="padding-bottom:100px;"></div>
     </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
+    <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

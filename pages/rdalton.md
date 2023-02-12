@@ -25,7 +25,7 @@ permalink: /rdalton/
         <div class="block">
             <div class="date left"><p class="left">1969</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>El Intelectual y la Sociedad</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=XJkWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73TJGU4GTTay6iZcY6ijKa4yTzUVjaiv6yYYh36beHk81l-ImBMGt-hRJfqmGxF3YfwX2pRv_yLR3ktHgMXd4TA2scERiUtuf1d7lNek0DX8l5WeOkc5JNuaAUKEwPTbvN1zJMu"></p>
                 <p>
@@ -37,8 +37,5 @@ permalink: /rdalton/
                 </p>
             </div>
         </div>
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
-</body>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

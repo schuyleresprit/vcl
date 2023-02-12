@@ -190,32 +190,6 @@
             "Translation": "n"
         }
     ],
-    "1881": [
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Contributors: Fyte, Laurence R.; Musson, Samuel Paynter; Roxburgh, Thomas Laurence; Ford, Joseph Charles; Finlay, Acheson Arundel Cameron; Cundall, Frank; Jamaica Information Service",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1881",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "The Handbook Of Jamaica",
-            "Translation": "n"
-        }
-    ],
-    "1886": [
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1886",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "The Jamaica Court at the Indian and Colonial Exhibition: Handbook compiled for the Governors of the Jamaica Institute",
-            "Translation": "n"
-        }
-    ],
     "1887": [
         {
             "Author": "Frédéric Marcelin",
@@ -250,30 +224,6 @@
             "Pubdate": "1888",
             "Publisher": "General Books",
             "Title": "The New South Investigated",
-            "Translation": "n"
-        },
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1888",
-            "Publisher": "De Cordova & Co.",
-            "Title": "Jamaica: Outlines of its Geography and History",
-            "Translation": "n"
-        }
-    ],
-    "1889": [
-        {
-            "Author": "Augustus C. Sinclair",
-            "Descriptor": "Co-Author: Laurence R. Fyfe",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1889",
-            "Publisher": "Kingston Government Printing Establishment",
-            "Title": "Chronological History of Jamaica during the Government of His Excellency Sir Henry Wylie Norman",
             "Translation": "n"
         }
     ],
@@ -360,17 +310,6 @@
             "Publisher": "Sampson Low, Marston & Company Limited",
             "Title": "Obeah, Witchcraft in the West Indies",
             "Translation": "n"
-        },
-        {
-            "Author": "D. Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "detroit_mi_united¬†states",
-            "Pubdate": "1893",
-            "Publisher": "Richmond & Backus Co.",
-            "Title": "Legal treatise on larceny of dogs",
-            "Translation": "n"
         }
     ],
     "1896": [
@@ -383,32 +322,6 @@
             "Pubdate": "1896",
             "Publisher": "Société anonyme de l'Imp",
             "Title": "Haïti et sa Banque nationale. Troisième partie",
-            "Translation": "n"
-        }
-    ],
-    "1897": [
-        {
-            "Author": "D. Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "detroit_mi_united¬†states",
-            "Pubdate": "1897",
-            "Publisher": "Collector Pub. Co",
-            "Title": "Circuit court commissioner's guide : law and practice : state of Michigan",
-            "Translation": "n"
-        }
-    ],
-    "1899": [
-        {
-            "Author": "D. Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "detroit_mi_united_states",
-            "Pubdate": "1899",
-            "Publisher": "Richmond & Backus",
-            "Title": "Compendium of evidence",
             "Translation": "n"
         }
     ],
@@ -496,19 +409,6 @@
             "Pubdate": "1906",
             "Publisher": "The Gleaner Company Ltd.",
             "Title": "Jamaicans in Colon and the Canal Zone",
-            "Translation": "n"
-        }
-    ],
-    "1908": [
-        {
-            "Author": "D. Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "washington_dc_united¬†states",
-            "Pubdate": "1908",
-            "Publisher": "New National Era Print",
-            "Title": "Citizenship, its rights and duties--woman suffrage : a lecture",
             "Translation": "n"
         }
     ],
@@ -1340,17 +1240,6 @@
             "Translation": "n"
         },
         {
-            "Author": "A Halcrow",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1930",
-            "Publisher": "Planters' Punch",
-            "Title": "Timber-Laden",
-            "Translation": "y"
-        },
-        {
             "Author": "Claude McKay",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -1640,6 +1529,17 @@
             "Pubdate": "1933",
             "Publisher": "Planters' Punch",
             "Title": "Behind the Scenes at the J.P.S",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edward A Richards",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "st.thomas_virgin_islands",
+            "Pubdate": "1933",
+            "Publisher": "The Reflector, : Art Shop Press",
+            "Title": "Shadows: Selected Poems",
             "Translation": "n"
         },
         {
@@ -3315,6 +3215,17 @@
             "Translation": "n"
         },
         {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1955",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
             "Author": "Henock Trouillot",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -3334,17 +3245,6 @@
             "Pubdate": "1955",
             "Publisher": "Bantam Books",
             "Title": "High Gear",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1955",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
             "Translation": "n"
         }
     ],
@@ -4367,6 +4267,17 @@
     ],
     "1964": [
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1964",
+            "Publisher": "Longman Inc.",
+            "Title": "Four Plays for Primary Schools",
+            "Translation": "n"
+        },
+        {
             "Author": "Orlando Patterson",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -4441,17 +4352,6 @@
             "Pubdate": "1964",
             "Publisher": "Oxford University Press",
             "Title": "Hurricane",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1964",
-            "Publisher": "Longman Inc.",
-            "Title": "Four Plays for Primary Schools",
             "Translation": "n"
         },
         {
@@ -4679,6 +4579,28 @@
             "Translation": "n"
         },
         {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
             "Author": "Wilson Harris",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -4753,17 +4675,6 @@
             "Pubdate": "1966",
             "Publisher": "Unión de Escritores y Artistas de Cuba",
             "Title": "El libro fantástico de Oaj ciencia ficción.",
-            "Translation": "n"
-        },
-        {
-            "Author": "Anthony Michael O'Connor",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1966",
-            "Publisher": "Bell Publishing",
-            "Title": "An Economic Geography Of East Africa",
             "Translation": "n"
         },
         {
@@ -4842,28 +4753,6 @@
             "Publisher": "Sangster's Book Stores",
             "Title": "Jamaica Labrish: Jamaica Dialect Poems",
             "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
         }
     ],
     "1967": [
@@ -4876,6 +4765,28 @@
             "Pubdate": "1967",
             "Publisher": "Instituto Cubano del Libro",
             "Title": "Cuentos Españoles",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1967",
+            "Publisher": "Oxford University Press",
+            "Title": "Rites of Passage",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1967",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
             "Translation": "n"
         },
         {
@@ -4956,28 +4867,6 @@
             "Translation": "n"
         },
         {
-            "Author": "E. A Tudorovskaya",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "santa_clara_cuba",
-            "Pubdate": "1967",
-            "Publisher": "Universidad Central de las Villas",
-            "Title": "Islas. Revista De La Universidad Central De Las Villas. Numero 25.Vol 9.Numero 2.Abril-Junio De 1967.Dedicada A La Revolucion De ctubre",
-            "Translation": "n"
-        },
-        {
-            "Author": "Michael Anthony Field ",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "leatherhead_england",
-            "Pubdate": "1967",
-            "Publisher": "The British Coal Utilisation Research Association",
-            "Title": "Combustion of Pulverised Coal",
-            "Translation": "n"
-        },
-        {
             "Author": "Henock Trouillot",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -5008,28 +4897,6 @@
             "Pubdate": "1967",
             "Publisher": "Oxford University Press",
             "Title": "Riot",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1967",
-            "Publisher": "Oxford University Press",
-            "Title": "Rites of Passage",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1967",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
             "Translation": "n"
         },
         {
@@ -5109,6 +4976,17 @@
             "Pubdate": "1968",
             "Publisher": "Impr. H. Deschamps",
             "Title": "Louis Etienne Lysius Félicité Salomon Jeune",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1968",
+            "Publisher": "Oxford University Press",
+            "Title": "Masks",
             "Translation": "n"
         },
         {
@@ -5200,17 +5078,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1968",
-            "Publisher": "Oxford University Press",
-            "Title": "Masks",
-            "Translation": "n"
-        },
-        {
             "Author": "José Lezama Lima",
             "Descriptor": "",
             "Genre": "Autobiography/ Memoir",
@@ -5278,6 +5145,39 @@
         }
     ],
     "1969": [
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1969",
+            "Publisher": "Oxford University Press",
+            "Title": "Islands",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1969",
+            "Publisher": "Oxford University Press",
+            "Title": "Masks",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1969",
+            "Publisher": "Oxford University Press",
+            "Title": "Islands",
+            "Translation": ""
+        },
         {
             "Author": "John Morris",
             "Descriptor": "",
@@ -5400,39 +5300,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1969",
-            "Publisher": "Oxford University Press",
-            "Title": "Islands",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1969",
-            "Publisher": "Oxford University Press",
-            "Title": "Masks",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1969",
-            "Publisher": "Oxford University Press",
-            "Title": "Islands",
-            "Translation": ""
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Drama",
@@ -5466,7 +5333,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -5545,6 +5412,28 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1970",
+            "Publisher": "Oxford University Press",
+            "Title": "Masks",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1970",
+            "Publisher": "New Beacon Books",
+            "Title": "Folk Culture of the Slaves in Jamaica",
+            "Translation": "n"
+        },
+        {
             "Author": "Cola Debrot",
             "Descriptor": "",
             "Genre": "Poem",
@@ -5575,6 +5464,39 @@
             "Pubdate": "1970",
             "Publisher": "Kraus International Publications",
             "Title": "Etincelles: Gerbe de Sang",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "bussum_netherlands",
+            "Pubdate": "1970",
+            "Publisher": "Paul Breman Limited",
+            "Title": "Cables To Rage",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1970",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1970",
+            "Publisher": "Routledge",
+            "Title": "Economic Survey",
             "Translation": "n"
         },
         {
@@ -5743,28 +5665,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1970",
-            "Publisher": "Oxford University Press",
-            "Title": "Masks",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1970",
-            "Publisher": "New Beacon Books",
-            "Title": "Folk Culture of the Slaves in Jamaica",
-            "Translation": "n"
-        },
-        {
             "Author": "Clément Magloire-Saint-Aude",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -5908,7 +5808,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "Haitian Creole",
@@ -5919,7 +5819,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "Haitian Creole",
@@ -5930,7 +5830,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poem",
             "Language": "Haitian Creole",
@@ -5941,7 +5841,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -5952,7 +5852,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "Spanish",
@@ -5963,7 +5863,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "French",
@@ -6015,28 +5915,6 @@
             "Pubdate": "1970",
             "Publisher": "MacGibbon & Kee Ltd",
             "Title": "The Plains of Caroni",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1970",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1970",
-            "Publisher": "Routledge",
-            "Title": "Economic Survey",
             "Translation": "n"
         },
         {
@@ -6095,6 +5973,39 @@
             "Publisher": "Union de Escritores y Artistas de Cuba",
             "Title": "Nicolas Guillen",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1971",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1971",
+            "Publisher": "Oxford University Press",
+            "Title": "Islands",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "ealing_england",
+            "Pubdate": "1971",
+            "Publisher": "Bogle-L'Ouverture Publications",
+            "Title": "I Must Be Given Words To Shape My Name",
+            "Translation": ""
         },
         {
             "Author": "George Lamming",
@@ -6249,39 +6160,6 @@
             "Publisher": "Hamish Hamilton",
             "Title": "Breaklight: An Anthology Of Caribbean Poetry",
             "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1971",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1971",
-            "Publisher": "Oxford University Press",
-            "Title": "Islands",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "ealing_england",
-            "Pubdate": "1971",
-            "Publisher": "Bogle-L'Ouverture Publications",
-            "Title": "I Must Be Given Words To Shape My Name",
-            "Translation": ""
         },
         {
             "Author": "José Lezama Lima",
@@ -6440,6 +6318,28 @@
     ],
     "1972": [
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1972",
+            "Publisher": "Oxford University Press",
+            "Title": "Masks",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1972",
+            "Publisher": "Bodley Head",
+            "Title": "Reluctant Neighbours",
+            "Translation": "n"
+        },
+        {
             "Author": "Sekou Toure",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -6525,28 +6425,6 @@
             "Pubdate": "1972",
             "Publisher": "Harvill Secker",
             "Title": "Corentyne Thunder",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1972",
-            "Publisher": "Oxford University Press",
-            "Title": "Masks",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Autobiography/ Memoir",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1972",
-            "Publisher": "Bodley Head",
-            "Title": "Reluctant Neighbours",
             "Translation": "n"
         },
         {
@@ -6739,17 +6617,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "1973",
-            "Publisher": "Centro Editor de América Latina",
-            "Title": "Hijos de ciego",
-            "Translation": "n"
-        },
-        {
             "Author": "Christine Craig",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -6781,17 +6648,6 @@
             "Publisher": "Deutsch",
             "Title": "Crick Crack, Monkey",
             "Translation": "y"
-        },
-        {
-            "Author": "D. Augustus Straker",
-            "Descriptor": "Original Publication Date: 1888",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "1973",
-            "Publisher": "Arno Press",
-            "Title": "The new South investigated, by D. Augustus Straker.",
-            "Translation": "n"
         },
         {
             "Author": "René Maran",
@@ -6826,6 +6682,50 @@
             "Pubdate": "1974",
             "Publisher": "Casa de las Americas",
             "Title": "El Compadre General Sol",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "cambridge_england",
+            "Pubdate": "1974",
+            "Publisher": "The American Academy of Arts and Sciences",
+            "Title": "The African Presence in Caribbean Literature",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1974",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Caribbean Man in Space and Time: A Bibliographical and Conceptual Approach",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1974",
+            "Publisher": "New Beacon Books",
+            "Title": "Folk Culture of the Slaves in Jamaica",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1974",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Contradictory Omens: Cultural Diversity and Integration in the Caribbean",
             "Translation": "n"
         },
         {
@@ -6917,50 +6817,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "cambridge_england",
-            "Pubdate": "1974",
-            "Publisher": "The American Academy of Arts and Sciences",
-            "Title": "The African Presence in Caribbean Literature",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1974",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Caribbean Man in Space and Time: A Bibliographical and Conceptual Approach",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1974",
-            "Publisher": "New Beacon Books",
-            "Title": "Folk Culture of the Slaves in Jamaica",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1974",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Contradictory Omens: Cultural Diversity and Integration in the Caribbean",
-            "Translation": "n"
-        },
-        {
             "Author": "Alick Lazare",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -6972,7 +6828,7 @@
             "Translation": "y"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
             "Language": "French",
@@ -7082,6 +6938,28 @@
             "Publisher": "Macmillan Publishers",
             "Title": "The Dominica Story: A History Of The Island",
             "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1975",
+            "Publisher": "Caldwell Press",
+            "Title": "Days & Nights",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1975",
+            "Publisher": "Oxford University Press",
+            "Title": "Other Exiles",
+            "Translation": "n"
         },
         {
             "Author": "Edris Saint-Amand",
@@ -7293,28 +7171,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1975",
-            "Publisher": "Caldwell Press",
-            "Title": "Days & Nights",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1975",
-            "Publisher": "Oxford University Press",
-            "Title": "Other Exiles",
-            "Translation": "n"
-        },
-        {
             "Author": "Jean D'Costa",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -7405,6 +7261,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "madison_wi_united¬†states",
+            "Pubdate": "1976",
+            "Publisher": "Cornell University, Africana Studies and Research Center",
+            "Title": "The Love Axe(l) Developing A Caribbean Aesthetic, 1962-1974",
+            "Translation": "n"
+        },
+        {
             "Author": "Michael Anthony",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -7490,6 +7357,17 @@
             "Pubdate": "1976",
             "Publisher": "Macmillan Publishers",
             "Title": "Arthur Small",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1976",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Coal",
             "Translation": "n"
         },
         {
@@ -7680,17 +7558,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "madison_wi_united¬†states",
-            "Pubdate": "1976",
-            "Publisher": "Cornell University, Africana Studies and Research Center",
-            "Title": "The Love Axe(l) Developing A Caribbean Aesthetic, 1962-1974",
-            "Translation": "n"
-        },
-        {
             "Author": "Miguel Collazo",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -7790,6 +7657,50 @@
             "Publisher": "Taylor & Francis",
             "Title": "Poems",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1977",
+            "Publisher": "API for the National Heritage Week",
+            "Title": "Nanny, Sam Sharpe and the Struggle for People's Liberation",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1977",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Contradictory Omens: Cultural Diversity and Integration in the Caribbean",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1977",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Our Ancestral Heritage",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1977",
+            "Publisher": "Casa de las Américas",
+            "Title": "Black + Blues",
+            "Translation": "y"
         },
         {
             "Author": "Cyril Dabydeen",
@@ -7946,50 +7857,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1977",
-            "Publisher": "API for the National Heritage Week",
-            "Title": "Nanny, Sam Sharpe and the Struggle for People's Liberation",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1977",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Contradictory Omens: Cultural Diversity and Integration in the Caribbean",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1977",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Our Ancestral Heritage",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1977",
-            "Publisher": "Casa de las Américas",
-            "Title": "Black + Blues",
-            "Translation": "y"
-        },
-        {
             "Author": "Soleida Rios",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -8099,6 +7966,28 @@
             "Pubdate": "1978",
             "Publisher": "Macmillan Publishers",
             "Title": "Arthur Small",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1978",
+            "Publisher": "W.W. Norton Company",
+            "Title": "Black Unicorn",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "1978",
+            "Publisher": "Allen & Unwin",
+            "Title": "Growth and Fluctuations, 1870-1913",
             "Translation": "n"
         },
         {
@@ -8245,17 +8134,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "1978",
-            "Publisher": "Allen & Unwin",
-            "Title": "Growth and Fluctuations, 1870-1913",
-            "Translation": "n"
-        },
-        {
             "Author": "Alejo Carpentier",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -8288,6 +8166,83 @@
             "Pubdate": "1979",
             "Publisher": "Lennox Honychurch",
             "Title": "Green Triangles And Other Poems",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1979",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Barbados Poetry 1661-1979: A Checklist",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1979",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Word Making Man: Poem for Nicolas Guillen in Xaymaca",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1979",
+            "Publisher": "Savacou Cooperative",
+            "Title": "New Poets from Jamaica: An Anthology",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1979",
+            "Publisher": "Clarendon Press",
+            "Title": "The Development of Creole Society in Jamaica, 1770-1820",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1979",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Soweto",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1979",
+            "Publisher": "Oxford University Press",
+            "Title": "Mother Poem",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Spanish",
+            "Pub_id": "mexico_d.f._mexico",
+            "Pubdate": "1979",
+            "Publisher": "Universidad Nacional Autónoma de México",
+            "Title": "La Criollización en las Antillas de Lengua Inglesa",
             "Translation": "y"
         },
         {
@@ -8387,17 +8342,6 @@
             "Pubdate": "1979",
             "Publisher": "Études caribéennes",
             "Title": "Quand La Neige Aura Fondu: Roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Baugh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jam_jamaica",
-            "Pubdate": "1979",
-            "Publisher": "West Indian Association for Commonwealth Literature and Language Studies",
-            "Title": "Language and literature in the Commonwealth Caribbean",
             "Translation": "n"
         },
         {
@@ -8574,83 +8518,6 @@
             "Pubdate": "1979",
             "Publisher": "L'Harmattan",
             "Title": "La Parole des Femmes: Essai sur des Romancières des Antilles de Langue Française",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1979",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Barbados Poetry 1661-1979: A Checklist",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1979",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Word Making Man: Poem for Nicolas Guillen in Xaymaca",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1979",
-            "Publisher": "Savacou Cooperative",
-            "Title": "New Poets from Jamaica: An Anthology",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1979",
-            "Publisher": "Clarendon Press",
-            "Title": "The Development of Creole Society in Jamaica, 1770-1820",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1979",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Soweto",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1979",
-            "Publisher": "Oxford University Press",
-            "Title": "Mother Poem",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "Spanish",
-            "Pub_id": "mexico_d.f._mexico",
-            "Pubdate": "1979",
-            "Publisher": "Universidad Nacional Autónoma de México",
-            "Title": "La Criollización en las Antillas de Lengua Inglesa",
             "Translation": "y"
         },
         {
@@ -9063,17 +8930,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "1980",
-            "Publisher": "Ediciones de la Torre",
-            "Title": "Saber y literatura : por una epistemología de la crítica literaria",
-            "Translation": "n"
-        },
-        {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -9282,6 +9138,39 @@
             "Pubdate": "1981",
             "Publisher": "Editorial Universo México",
             "Title": "Reina Rumba: Cella Cruz",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1981",
+            "Publisher": "Oxford University Press",
+            "Title": "The Arrivants: A New World Trilogy",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1981",
+            "Publisher": "New Beacon Books",
+            "Title": "Folk Culture of the Slaves in Jamaica",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1981",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
             "Translation": "n"
         },
         {
@@ -9868,39 +9757,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1981",
-            "Publisher": "Oxford University Press",
-            "Title": "The Arrivants: A New World Trilogy",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1981",
-            "Publisher": "New Beacon Books",
-            "Title": "Folk Culture of the Slaves in Jamaica",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1981",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Poem",
@@ -10068,6 +9924,61 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1982",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Nation Language Poetry (Savacou Working Paper)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1982",
+            "Publisher": "Oxford University Press",
+            "Title": "Sun Poem",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1982",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Gods of the Middle Passage",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1982",
+            "Publisher": "Oxford University Press",
+            "Title": "Mother Poem",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1982",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Kumina",
+            "Translation": ""
+        },
+        {
             "Author": "Jean Rhys",
             "Descriptor": "Hertel, Lisbeth",
             "Genre": "Fiction (Novel)",
@@ -10222,6 +10133,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1982",
+            "Publisher": "Crossing Press Publisher",
+            "Title": "Zami: A New Spelling Of My Name: A Biomythography",
+            "Translation": "n"
+        },
+        {
             "Author": "Caryl Phillips",
             "Descriptor": "",
             "Genre": "Drama",
@@ -10230,6 +10152,28 @@
             "Pubdate": "1982",
             "Publisher": "Amber Lane Press",
             "Title": "Where There is Darkness",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Principles Of Economic Planning",
             "Translation": "n"
         },
         {
@@ -10439,17 +10383,6 @@
             "Pubdate": "1982",
             "Publisher": "Waveland Press",
             "Title": "The Wine of Astonishment",
-            "Translation": "n"
-        },
-        {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "1982",
-            "Publisher": "Editorial Galerna",
-            "Title": "La ciudad del tango : tango histórico y sociedad",
             "Translation": "n"
         },
         {
@@ -10728,61 +10661,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1982",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Nation Language Poetry (Savacou Working Paper)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1982",
-            "Publisher": "Oxford University Press",
-            "Title": "Sun Poem",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1982",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Gods of the Middle Passage",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1982",
-            "Publisher": "Oxford University Press",
-            "Title": "Mother Poem",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1982",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Kumina",
-            "Translation": ""
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -10902,28 +10780,6 @@
             "Publisher": "Ediciones Unión",
             "Title": "Paginas Vueltas - Memorias",
             "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Principles Of Economic Planning",
-            "Translation": "n"
         }
     ],
     "1983": [
@@ -10948,6 +10804,28 @@
             "Publisher": "Dominica Institute for the Arts",
             "Title": "Cabrits And Prince Ruperts Bay",
             "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "harlow_england",
+            "Pubdate": "1983",
+            "Publisher": "Longman Inc.",
+            "Title": "Third World Poems",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1983",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
         },
         {
             "Author": "Desmond V Nicholson",
@@ -11036,6 +10914,17 @@
             "Publisher": "University of the West Indies, Dept. of French & Spanish Literature",
             "Title": "La mujer en la literatura caribeña : Sexta Conferencia de Hispanistas, 6th-8th abril 1983, University of the West Indies, St. Augustine, Trinidad",
             "Translation": "y"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1983",
+            "Publisher": "Routledge",
+            "Title": "The Theory Of Economic Growth",
+            "Translation": "n"
         },
         {
             "Author": "Cynthis Noel",
@@ -11423,28 +11312,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "harlow_england",
-            "Pubdate": "1983",
-            "Publisher": "Longman Inc.",
-            "Title": "Third World Poems",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1983",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -11564,17 +11431,6 @@
             "Publisher": "HarperCollins",
             "Title": "The New Island Readers",
             "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1983",
-            "Publisher": "Routledge",
-            "Title": "The Theory Of Economic Growth",
-            "Translation": "n"
         }
     ],
     "1984": [
@@ -11632,6 +11488,28 @@
             "Publisher": "Dominican National Cultural Council",
             "Title": "Our Island Culture",
             "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1984",
+            "Publisher": "New Beacon Books",
+            "Title": "History of the Voice: The Development of Nation Language in Anglophone Carribbean Poetry",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1984",
+            "Publisher": "New Beacon Books",
+            "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
+            "Translation": ""
         },
         {
             "Author": "Jean Rhys",
@@ -12206,28 +12084,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1984",
-            "Publisher": "New Beacon Books",
-            "Title": "History of the Voice: The Development of Nation Language in Anglophone Carribbean Poetry",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1984",
-            "Publisher": "New Beacon Books",
-            "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
-            "Translation": ""
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -12280,17 +12136,6 @@
             "Pubdate": "1984",
             "Publisher": "Unión de Escritores y Artistas de Cuba",
             "Title": "Estancias",
-            "Translation": "n"
-        },
-        {
-            "Author": "D. Augustus Straker",
-            "Descriptor": "Contributors: Daniel Alexander Payne Murray; Allen University.; Daniel Murray Pamphlet Collection (Library of Congress)",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "",
-            "Pubdate": "1984",
-            "Publisher": "Jas. P. Harrison & Co., Printers and Publishers",
-            "Title": "First annual address to the law graduates of Allen University, class '84",
             "Translation": "n"
         },
         {
@@ -12692,17 +12537,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Beverley Ormerod Noakes",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "portsmouth_nh_united_states",
-            "Pubdate": "1985",
-            "Publisher": "Heinemann",
-            "Title": "An Introduction To The French Caribbean Novel",
-            "Translation": "n"
-        },
-        {
             "Author": "Cyril Dabydeen",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -12733,6 +12567,28 @@
             "Pubdate": "1985",
             "Publisher": "Faber and Faber",
             "Title": "The Final Passage",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
             "Translation": "n"
         },
         {
@@ -13209,28 +13065,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
             "Author": "Alejo Carpentier",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -13296,6 +13130,39 @@
             "Pubdate": "1986",
             "Publisher": "Nelson Caribbean",
             "Title": "Caribbean Landmarks: Historic Events And Sites",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1986",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Jah Music",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "English",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1986",
+            "Publisher": "Casa de las Américas",
+            "Title": "Roots",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "leuven_belgium",
+            "Pubdate": "1986",
+            "Publisher": "Leuvense Schrijversaktie",
+            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
             "Translation": "y"
         },
         {
@@ -13373,17 +13240,6 @@
             "Pubdate": "1986",
             "Publisher": "Meulenhoff",
             "Title": "Bewolkt Bestaan",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1986",
-            "Publisher": "CLE International",
-            "Title": "Littératures des Caraibes",
             "Translation": "n"
         },
         {
@@ -13772,39 +13628,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1986",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Jah Music",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1986",
-            "Publisher": "Casa de las Américas",
-            "Title": "Roots",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "leuven_belgium",
-            "Pubdate": "1986",
-            "Publisher": "Leuvense Schrijversaktie",
-            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
-            "Translation": "y"
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Drama",
@@ -14035,6 +13858,28 @@
             "Pubdate": "1987",
             "Publisher": "Cultural, S.A.",
             "Title": "Dos Amores",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1987",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1987",
+            "Publisher": "Oxford University Press",
+            "Title": "X/Self",
             "Translation": "n"
         },
         {
@@ -14500,28 +14345,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1987",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1987",
-            "Publisher": "Oxford University Press",
-            "Title": "X/Self",
-            "Translation": "n"
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -14832,6 +14655,39 @@
             "Translation": "y"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "bremen_germany",
+            "Pubdate": "1988",
+            "Publisher": "Uebersee-Museum",
+            "Title": "The Arrivants a New World Trilogy",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1988",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Soweto",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1988",
+            "Publisher": "Oxford University Press",
+            "Title": "Mother Poem",
+            "Translation": ""
+        },
+        {
             "Author": "Edris Saint-Amand",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -14895,6 +14751,17 @@
             "Pubdate": "1988",
             "Publisher": "Third Eye",
             "Title": "To Monkey Jungle",
+            "Translation": "n"
+        },
+        {
+            "Author": "Audre Lorde",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "mineola_n.y_united¬†states",
+            "Pubdate": "1988",
+            "Publisher": "Dover Publications - Ixia Press",
+            "Title": "A Burst Of Light: And Other Essays",
             "Translation": "n"
         },
         {
@@ -14983,17 +14850,6 @@
             "Pubdate": "1988",
             "Publisher": "Sandberry Press",
             "Title": "A tale from the rainforest",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Baugh",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "1988",
-            "Publisher": "St. Augustine : Women and Development Studies, Institute of International Relations, University of the West Indies",
-            "Title": "On becoming one's mother : Goodison in the context of feminist criticism",
             "Translation": "n"
         },
         {
@@ -15171,39 +15027,6 @@
             "Publisher": "Mercure de France",
             "Title": "Pension Les Alizés: Pièce En Cinq Tableaux",
             "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "bremen_germany",
-            "Pubdate": "1988",
-            "Publisher": "Uebersee-Museum",
-            "Title": "The Arrivants a New World Trilogy",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1988",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Soweto",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1988",
-            "Publisher": "Oxford University Press",
-            "Title": "Mother Poem",
-            "Translation": ""
         },
         {
             "Author": "Miguel Collazo",
@@ -15505,6 +15328,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1989",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Sappho Sakyi's Meditations",
+            "Translation": "n"
+        },
+        {
             "Author": "Marion Dowe",
             "Descriptor": "",
             "Genre": "Biography",
@@ -15725,17 +15559,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Baugh",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "kingston_jam_jamaica",
-            "Pubdate": "1989",
-            "Publisher": "West Indian Association for Commonwealth Literature and Language Studies",
-            "Title": "The Caribbean poem",
-            "Translation": "n"
-        },
-        {
             "Author": "Sasenarine Persaud",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -15910,17 +15733,6 @@
             "Publisher": "Mercure de France",
             "Title": "Traversee de la Mangrove",
             "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1989",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Sappho Sakyi's Meditations",
-            "Translation": "n"
         },
         {
             "Author": "Soleida Rios",
@@ -16167,6 +15979,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1990",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Shar",
+            "Translation": "n"
+        },
+        {
             "Author": "George Lamming",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -16252,17 +16075,6 @@
             "Pubdate": "1990",
             "Publisher": "Peepal Tree Press",
             "Title": "Rhythm an' Roots: A Collection Of Poems",
-            "Translation": "n"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "alabama_united_states",
-            "Pubdate": "1990",
-            "Publisher": "University of Alabama Press",
-            "Title": "Language in exile : three hundred years of Jamaican Creole",
             "Translation": "n"
         },
         {
@@ -16660,17 +16472,6 @@
             "Publisher": "Editions Jasor",
             "Title": "Bouquet de Voix Pour Guy Tirolien",
             "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1990",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Shar",
-            "Translation": "n"
         },
         {
             "Author": "Aimé Césaire",
@@ -17536,7 +17337,7 @@
         },
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nThe Bridge of Beyond",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "bristol_england",
@@ -17581,6 +17382,50 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "madison_wi_united¬†states",
+            "Pubdate": "1993",
+            "Publisher": "University of Wisconsin Press",
+            "Title": "The Zea Mexican Diary, 7 Sept 1926-7 Sept 1986",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "ann_arbor_mi_united¬†states",
+            "Pubdate": "1993",
+            "Publisher": "University of Michigan Press",
+            "Title": "Roots",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1993",
+            "Publisher": "Evans brothers",
+            "Title": "Odale's Choice",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1993",
+            "Publisher": "Institute of Caribbean Studies",
+            "Title": "Three Caribbean Poets on Their Work",
+            "Translation": ""
+        },
+        {
             "Author": "Patricia Powell",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -17611,17 +17456,6 @@
             "Pubdate": "1993",
             "Publisher": "VLB éditeur",
             "Title": "Cette grenade dans la main du jeune Nègre est-elle une arme ou un fruit? : Roman",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1993",
-            "Publisher": "CLE International",
-            "Title": "Littératures du Cap-Vert, de Guinée-Bissao, de São Tomé et Principe",
             "Translation": "n"
         },
         {
@@ -17821,50 +17655,6 @@
             "Publisher": "Heinemann",
             "Title": "Mint Tea and Other Stories",
             "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "madison_wi_united¬†states",
-            "Pubdate": "1993",
-            "Publisher": "University of Wisconsin Press",
-            "Title": "The Zea Mexican Diary, 7 Sept 1926-7 Sept 1986",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "1993",
-            "Publisher": "University of Michigan Press",
-            "Title": "Roots",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1993",
-            "Publisher": "Evans brothers",
-            "Title": "Odale's Choice",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1993",
-            "Publisher": "Institute of Caribbean Studies",
-            "Title": "Three Caribbean Poets on Their Work",
-            "Translation": ""
         },
         {
             "Author": "Miguel Collazo",
@@ -18111,6 +17901,39 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1994",
+            "Publisher": "Longman Inc.",
+            "Title": "Dream Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "providence_ri_united¬†states",
+            "Pubdate": "1994",
+            "Publisher": "Lost Roads Publishers",
+            "Title": "Trench Town Rock",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1994",
+            "Publisher": "New Directions",
+            "Title": "Middle Passages",
+            "Translation": "n"
+        },
+        {
             "Author": "Patricia Powell",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -18353,39 +18176,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1994",
-            "Publisher": "Longman Inc.",
-            "Title": "Dream Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "providence_ri_united¬†states",
-            "Pubdate": "1994",
-            "Publisher": "Lost Roads Publishers",
-            "Title": "Trench Town Rock",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1994",
-            "Publisher": "New Directions",
-            "Title": "Middle Passages",
-            "Translation": "n"
-        },
-        {
             "Author": " Mark McWatt",
             "Descriptor": "Hazel Simmons-McDonald",
             "Genre": "Fiction (Short Story Collection)",
@@ -18416,17 +18206,6 @@
             "Pubdate": "1994",
             "Publisher": "Peepal Tree Press",
             "Title": "Cosmic Dance",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1994",
-            "Publisher": "Vintage Books",
-            "Title": "Breath, Eyes, Memory",
             "Translation": "n"
         },
         {
@@ -18472,17 +18251,6 @@
             "Publisher": "Educa Vision",
             "Title": "Lafami Bonplezi",
             "Translation": "n"
-        },
-        {
-            "Author": "David Williams",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1994",
-            "Publisher": "Butterworth–Heinemann",
-            "Title": "A World Of Prose For CXC",
-            "Translation": "y"
         },
         {
             "Author": "Evan Jones",
@@ -18630,6 +18398,28 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1995",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Black + Blues",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1995",
+            "Publisher": "New Beacon Books",
+            "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
+            "Translation": ""
+        },
+        {
             "Author": "George Lamming",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -18696,17 +18486,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "German",
-            "Pub_id": "paris_france",
-            "Pubdate": "1995",
-            "Publisher": "Arles Actes Sud",
-            "Title": "Poésie d'Afrique au sud du Sahara 1945 - 1995 anthologie",
-            "Translation": "n"
-        },
-        {
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -18737,17 +18516,6 @@
             "Pubdate": "1995",
             "Publisher": "Plume",
             "Title": "Rhythm & Revolt: Tales of the Antilles",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward W. Said",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1995",
-            "Publisher": "Casa de las Américas",
-            "Title": "Revista Casa De Las Americas Julio-Septiembre De 1995.Numero 200.Saludos En El 200.Carta Del Che A Haydee",
             "Translation": "n"
         },
         {
@@ -18883,50 +18651,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1995",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Black + Blues",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1995",
-            "Publisher": "New Beacon Books",
-            "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
-            "Translation": ""
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1995",
-            "Publisher": "Pygmalion",
-            "Title": "Le Cri de L'oiseau Rouge",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1995",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
             "Author": "Lindsay Barrett",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -19059,6 +18783,39 @@
             "Publisher": "Wayne State University Press",
             "Title": "Autobiografia de un Esclavo",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "hudson_ny_united_states",
+            "Pubdate": "1996",
+            "Publisher": "Bard College",
+            "Title": "Descending Gardens",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "hudson_ny_united_states",
+            "Pubdate": "1996",
+            "Publisher": "Bard College",
+            "Title": "Bird Rising",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "ann_arbor_mi_united¬†states",
+            "Pubdate": "1996",
+            "Publisher": "University of Michigan Press",
+            "Title": "Roots",
+            "Translation": ""
         },
         {
             "Author": "Dany Laferrière",
@@ -19248,17 +19005,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "alabama_united_states",
-            "Pubdate": "1996",
-            "Publisher": "University of Alabama Press",
-            "Title": "Defining Jamaican fiction : marronage and the discourse of survival",
-            "Translation": "n"
-        },
-        {
             "Author": "Lloyd King",
             "Descriptor": "Juan Francisco Manzano",
             "Genre": "Biography",
@@ -19413,39 +19159,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "hudson_ny_united_states",
-            "Pubdate": "1996",
-            "Publisher": "Bard College",
-            "Title": "Descending Gardens",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "hudson_ny_united_states",
-            "Pubdate": "1996",
-            "Publisher": "Bard College",
-            "Title": "Bird Rising",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "1996",
-            "Publisher": "University of Michigan Press",
-            "Title": "Roots",
-            "Translation": ""
-        },
-        {
             "Author": "Kevin Baldeosingh",
             "Descriptor": "",
             "Genre": "Autobiography/ Memoir",
@@ -19477,50 +19190,6 @@
             "Publisher": "Dutton",
             "Title": "How Anansi Captured the Tiger Stories",
             "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1996",
-            "Publisher": "Vintage Books",
-            "Title": "Krik? Krak!",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1996",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Krik? Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1996",
-            "Publisher": "Pygmalion",
-            "Title": "Krik? Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "d√ºsseldorf_germany",
-            "Pubdate": "1996",
-            "Publisher": "Marion von Schröder Verlag",
-            "Title": "Atem, Augen, Erinnerungen",
-            "Translation": "y"
         },
         {
             "Author": "Anthony Kellman",
@@ -19699,6 +19368,28 @@
             "Publisher": "HarperCollins",
             "Title": "Feeding the Ghosts",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1997",
+            "Publisher": "New Directions",
+            "Title": "Black + Blues",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1997",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": ""
         },
         {
             "Author": "Dany Laferrière",
@@ -19888,17 +19579,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "1997",
-            "Publisher": "Acento",
-            "Title": "El tango",
-            "Translation": "n"
-        },
-        {
             "Author": "Alberto Garrandés",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -19932,28 +19612,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "1997",
-            "Publisher": "New Directions",
-            "Title": "Black + Blues",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1997",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": ""
-        },
-        {
             "Author": "Kevin Baldeosingh",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -19985,17 +19643,6 @@
             "Publisher": "The Johns Hopkins University Press",
             "Title": "In History",
             "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1997",
-            "Publisher": "Pocket Books",
-            "Title": "Le Cri de L'oiseau Rouge",
-            "Translation": "y"
         },
         {
             "Author": "Patrick Chamoiseau",
@@ -20517,72 +20164,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1998",
-            "Publisher": "Penguin Books",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1998",
-            "Publisher": "Pocket Books",
-            "Title": "Krik? Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1998",
-            "Publisher": "Muntinga",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones del Bronce",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1998",
-            "Publisher": "Soho Press",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1998",
-            "Publisher": "Soho Press",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
             "Author": "Eloísa Lezama Lima",
             "Descriptor": "",
             "Genre": "Biography",
@@ -20792,6 +20373,17 @@
             "Publisher": "Vassallucci",
             "Title": "Savanne-Sagen",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "staten_island_ny_united_states",
+            "Pubdate": "1999",
+            "Publisher": "We Press",
+            "Title": "Conversations with Nathaniel Mackey",
+            "Translation": ""
         },
         {
             "Author": "Patricia Powell",
@@ -21157,17 +20749,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "staten_island_ny_united_states",
-            "Pubdate": "1999",
-            "Publisher": "We Press",
-            "Title": "Conversations with Nathaniel Mackey",
-            "Translation": ""
-        },
-        {
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Biography",
@@ -21177,116 +20758,6 @@
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "My Garden Book",
             "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Danish",
-            "Pub_id": "copenhagen_denmark",
-            "Pubdate": "1999",
-            "Publisher": "Fremad",
-            "Title": "Livet er en Underlig Gave",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1999",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Land Voor de Levenden",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Lumen",
-            "Title": "¿Krik? ¡Krak!",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Círculo de lectores",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1999",
-            "Publisher": "Abacus",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "m√ºnchen_germany",
-            "Pubdate": "1999",
-            "Publisher": "Claassen",
-            "Title": "Die Süße Saat Der Tränen: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "casale_monferrato_italy",
-            "Pubdate": "1999",
-            "Publisher": "Piemme",
-            "Title": "Amabelle Della Canna da Zucchero",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Norwegian",
-            "Pub_id": "oslo_norway",
-            "Pubdate": "1999",
-            "Publisher": "Pax Forlag",
-            "Title": "Ved Elven Massacre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires",
-            "Pubdate": "1999",
-            "Publisher": "Grupo Editorial Norma",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1999",
-            "Publisher": "Grasset",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
         },
         {
             "Author": "Patrick Chamoiseau",
@@ -21597,6 +21068,28 @@
             "Publisher": "Ediciones Episteme",
             "Title": "Juan Francisco Manzano, Esclavo Poeta En La Isla De Cuba",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "philipsburg_st.¬†maarten",
+            "Pubdate": "2000",
+            "Publisher": "House of Nehesi",
+            "Title": "Words Need Love Too",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "ann_arbor_mi_united¬†states",
+            "Pubdate": "2000",
+            "Publisher": "Bell & Howell Information and Learning Company",
+            "Title": "Black + Blues",
+            "Translation": ""
         },
         {
             "Author": "Dany Laferrière",
@@ -21984,28 +21477,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "philipsburg_st.¬†maarten",
-            "Pubdate": "2000",
-            "Publisher": "House of Nehesi",
-            "Title": "Words Need Love Too",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "2000",
-            "Publisher": "Bell & Howell Information and Learning Company",
-            "Title": "Black + Blues",
-            "Translation": ""
-        },
-        {
             "Author": "Miguel Collazo",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -22037,127 +21508,6 @@
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "Talk Stories",
             "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Norwegian",
-            "Pub_id": "oslo_norway",
-            "Pubdate": "2000",
-            "Publisher": "Pax Forlag",
-            "Title": "Pust, Blikk, Minne",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2000",
-            "Publisher": "Abacus",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "casale_monferrato_italy",
-            "Pubdate": "2000",
-            "Publisher": "Piemme",
-            "Title": "Amabelle Della Canna da Zucchero",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hebrew",
-            "Pub_id": "tel_aviv_israel",
-            "Pubdate": "2000",
-            "Publisher": "Kinneret",
-            "Title": "Ḳene Ha-Sukar Ha-Marim",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2000",
-            "Publisher": "France Loisirs",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "m√ºnchen_germany",
-            "Pubdate": "2000",
-            "Publisher": "Deutscher Taschenbuch-Verlag",
-            "Title": "Die Süße Saat Der Tränen: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "El Cultivo de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hungarian",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2000",
-            "Publisher": "Európa",
-            "Title": "Vér Ès Cukornád",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Finnish",
-            "Pub_id": "jyvaãàskylaãà_finland",
-            "Pubdate": "2000",
-            "Publisher": "Gummerus",
-            "Title": "Veressä Viljava Maa",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hebrew",
-            "Pub_id": "tel_aviv_israel",
-            "Pubdate": "2000",
-            "Publisher": "Kinneret",
-            "Title": "Kene Ha-sukar Ha-marim",
-            "Translation": "y"
         },
         {
             "Author": "Raoul Pantin",
@@ -22294,6 +21644,28 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2001",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2001",
+            "Publisher": "New Directions",
+            "Title": "Ancestors",
+            "Translation": "n"
+        },
+        {
             "Author": "Arlette Minatchy-Bogat",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -22358,17 +21730,6 @@
             "Publisher": "Éditions Grasset et Fasquelle",
             "Title": "La Récolte Douce des Larmes",
             "Translation": "y"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Paris bibliothèques éditions",
-            "Title": "Afrique cent livres : bibliographie sélective",
-            "Translation": "n"
         },
         {
             "Author": "Cyril Dabydeen",
@@ -22558,28 +21919,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2001",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2001",
-            "Publisher": "New Directions",
-            "Title": "Ancestors",
-            "Translation": "n"
-        },
-        {
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -22588,17 +21927,6 @@
             "Pubdate": "2001",
             "Publisher": "Éditions de l'Olivier",
             "Title": "Au Fond De La Rivière",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Éditions Grasset et Fasquelle",
-            "Title": "La Récolte Douce des Larmes",
             "Translation": "y"
         },
         {
@@ -22719,7 +22047,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2001",
             "Publisher": "Macmillan Publishers",
-            "Title": "The twins",
+            "Title": "The Twins",
             "Translation": "n"
         },
         {
@@ -22765,17 +22093,6 @@
             "Publisher": "Curbstone Books",
             "Title": "Maroon",
             "Translation": "y"
-        },
-        {
-            "Author": "Danielle Legros Georges",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "willimantic_united¬†states",
-            "Pubdate": "2001",
-            "Publisher": "Curbstone Books",
-            "Title": "Maroon",
-            "Translation": ""
         },
         {
             "Author": "Julia Alvarez",
@@ -22942,6 +22259,50 @@
             "Pubdate": "2002",
             "Publisher": "Wayne State University Press",
             "Title": "Looking Within/Mirar adentro: Selected Poems/Poemas escogidos, 1954-2000",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "norman_ok_united_states",
+            "Pubdate": "2002",
+            "Publisher": "University of Oklahoma",
+            "Title": "Retamar",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2002",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Magical Realism",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "leeeds_england",
+            "Pubdate": "2002",
+            "Publisher": "Peepal Tree Press",
+            "Title": "LX, The Love Axe/l",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "2002",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Golokwati 2000",
             "Translation": "n"
         },
         {
@@ -23198,17 +22559,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "2002",
-            "Publisher": "Espasa-Calpe",
-            "Title": "Rubén Darío",
-            "Translation": "n"
-        },
-        {
             "Author": "Alberto Garrandés",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -23286,50 +22636,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "norman_ok_united_states",
-            "Pubdate": "2002",
-            "Publisher": "University of Oklahoma",
-            "Title": "Retamar",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2002",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Magical Realism",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "leeeds_england",
-            "Pubdate": "2002",
-            "Publisher": "Peepal Tree Press",
-            "Title": "LX, The Love Axe/l",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2002",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Golokwati 2000",
-            "Translation": "n"
-        },
-        {
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -23339,17 +22645,6 @@
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "Mr. Potter",
             "Translation": "n"
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2002",
-            "Publisher": "Heinemann",
-            "Title": "Songs of Silence",
-            "Translation": "y"
         },
         {
             "Author": "Curdella Forbes",
@@ -23392,7 +22687,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2002",
             "Publisher": "Macmillan Publishers",
-            "Title": "The toy town game",
+            "Title": "The Toy Town Game",
             "Translation": "n"
         },
         {
@@ -23607,6 +22902,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "baltimore_md_united¬†states",
+            "Pubdate": "2003",
+            "Publisher": "Johns Hopkins University Press",
+            "Title": "Grease",
+            "Translation": "n"
+        },
+        {
             "Author": "Andrea Stuart",
             "Descriptor": "Original Publication Date: 2003",
             "Genre": "Biography",
@@ -23739,6 +23045,28 @@
             "Translation": "n"
         },
         {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2003",
+            "Publisher": "Routledge",
+            "Title": "Overhead Costs",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "New York University Press",
+            "Title": "Selected Economic Writings Of W. Arthur Lewis",
+            "Translation": "n"
+        },
+        {
             "Author": "Austin Clarke",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -23838,17 +23166,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "2003",
-            "Publisher": "Editorial Síntesis",
-            "Title": "Puesto fronterizo : estudios sobre la novela familiar del escritor",
-            "Translation": "n"
-        },
-        {
             "Author": "Alberto Garrandés",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -23882,17 +23199,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "baltimore_md_united¬†states",
-            "Pubdate": "2003",
-            "Publisher": "Johns Hopkins University Press",
-            "Title": "Grease",
-            "Translation": "n"
-        },
-        {
             "Author": "Clément Magloire-Saint-Aude",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -23923,17 +23229,6 @@
             "Pubdate": "2003",
             "Publisher": "Walker Books Ltd.",
             "Title": "Flying With Icarus And Other Stories",
-            "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2003",
-            "Publisher": "Hodder Education",
-            "Title": "Songs of Silence",
             "Translation": ""
         },
         {
@@ -23978,17 +23273,6 @@
             "Pubdate": "2003",
             "Publisher": "Keensdee Productions",
             "Title": "It' Not Easy: The Best Of Paul Keens-Douglas. Vol. 3",
-            "Translation": "n"
-        },
-        {
-            "Author": "D. Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "English",
-            "Pub_id": "chapel_hill_nc_united¬†states",
-            "Pubdate": "2003",
-            "Publisher": "Academic Affairs Library",
-            "Title": "Reflections on the life and times of Toussaint L'Overture : the Negro Haytien, Commander-in-Chief of the Army, ruler under the dominion of France, and author of the independence of Hayti",
             "Translation": "n"
         },
         {
@@ -24113,28 +23397,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2003",
-            "Publisher": "Routledge",
-            "Title": "Overhead Costs",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Selected Economic Writings Of W. Arthur Lewis",
-            "Translation": "n"
-        },
-        {
             "Author": "Alejo Carpentier",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -24212,6 +23474,28 @@
             "Publisher": "Centre d'études et de recherches caraïbéennes, université des Antilles et de la Guyane, cop.",
             "Title": "Un esclave-poète à Cuba au temps du péril noir",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "2004",
+            "Publisher": "Savacou Cooperative",
+            "Title": "Ark",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "cromer_england",
+            "Pubdate": "2004",
+            "Publisher": "Salt Publishing",
+            "Title": "Words Need Love Too",
+            "Translation": ""
         },
         {
             "Author": "Dany Laferrière",
@@ -24489,28 +23773,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2004",
-            "Publisher": "Savacou Cooperative",
-            "Title": "Ark",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "cromer_england",
-            "Pubdate": "2004",
-            "Publisher": "Salt Publishing",
-            "Title": "Words Need Love Too",
-            "Translation": ""
-        },
-        {
             "Author": "Soleida Rios",
             "Descriptor": "",
             "Genre": "Anthology",
@@ -24519,17 +23781,6 @@
             "Pubdate": "2004",
             "Publisher": "Ediciones Unión",
             "Title": "Fuga: Una Antología Personal",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2004",
-            "Publisher": "Vintage Books",
-            "Title": "The Dew Breaker",
             "Translation": "n"
         },
         {
@@ -24766,6 +24017,39 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "middletown_ct_united¬†states",
+            "Pubdate": "2005",
+            "Publisher": "Wesleyan University Press",
+            "Title": "Born To Slow Horses",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2005",
+            "Publisher": "New Beacon Books",
+            "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "2005",
+            "Publisher": "Ian Randle Publishers",
+            "Title": "The Development of Creole Society, 1770-1820",
+            "Translation": ""
+        },
+        {
             "Author": "Lyne-Marie Stanley",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -24942,17 +24226,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "st._augustine_trinidad_&¬†tobago",
-            "Pubdate": "2005",
-            "Publisher": "Society for Caribbean Linguistics",
-            "Title": "Virtual realism : constraints on validity in textual evidence of Caribbean history",
-            "Translation": "n"
-        },
-        {
             "Author": "Youmna Charara",
             "Descriptor": "Saint-Lambert, Jean-François de; Butini, Jean-François; Picquenard, Jean-Baptiste",
             "Genre": "Fiction (Short Story Collection)",
@@ -25041,39 +24314,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "middletown_ct_united¬†states",
-            "Pubdate": "2005",
-            "Publisher": "Wesleyan University Press",
-            "Title": "Born To Slow Horses",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2005",
-            "Publisher": "New Beacon Books",
-            "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2005",
-            "Publisher": "Ian Randle Publishers",
-            "Title": "The Development of Creole Society, 1770-1820",
-            "Translation": ""
-        },
-        {
             "Author": " Mark McWatt",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -25094,17 +24334,6 @@
             "Publisher": "National Geographic",
             "Title": "Among Flowers: A Walk In The Himalaya",
             "Translation": "n"
-        },
-        {
-            "Author": "David Williams",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "portsmouth_united¬†states",
-            "Pubdate": "2005",
-            "Publisher": "Heinemann",
-            "Title": "A World Of Prose For CSEC",
-            "Translation": "y"
         },
         {
             "Author": "Lindsay Barrett",
@@ -25392,6 +24621,17 @@
             "Pubdate": "2006",
             "Publisher": "Strapless/Kensington Books",
             "Title": "She Who Shops",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "2006",
+            "Publisher": "Ian Randle Publishers",
+            "Title": "The Development of Creole Society in Jamaica, 1770-1820",
             "Translation": "n"
         },
         {
@@ -25703,17 +24943,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "2006",
-            "Publisher": "Pozuelo de Alarcón",
-            "Title": "Lógica de la dispersión o De un saber melancólico",
-            "Translation": "n"
-        },
-        {
             "Author": "Ylce Irizarry",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -25722,17 +24951,6 @@
             "Pubdate": "2006",
             "Publisher": "Sage Publications",
             "Title": "Doubly Troubling Narratives",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2006",
-            "Publisher": "Ian Randle Publishers",
-            "Title": "The Development of Creole Society in Jamaica, 1770-1820",
             "Translation": "n"
         },
         {
@@ -25802,17 +25020,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Carlos Uxo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "manchester_england",
-            "Pubdate": "2006",
-            "Publisher": "Manchester Metropolitan University Press",
-            "Title": "The detective fiction of Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
             "Author": "Mireille Rosello",
             "Descriptor": "",
             "Genre": "Essay",
@@ -25832,17 +25039,6 @@
             "Pubdate": "2006",
             "Publisher": "L'Harmattan",
             "Title": "Résistance et cubanité trois écrivains nés avec la révolution cubaine ; Eliseo Alberto, Leonardo Padura et Zoé Valdes trois écrivains nés avec la révolution cubaine ; Eliseo Alberto, Leonardo Padura et Zoé Valdes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Amy Novak",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "tuscon_az_united¬†states",
-            "Pubdate": "2006",
-            "Publisher": "University of Arizona",
-            "Title": "A Marred Testament: Cultural Trauma And Narrative In Danticat's The Farming Of Bones\"",
             "Translation": "n"
         },
         {
@@ -25874,8 +25070,8 @@
             "Language": "English",
             "Pub_id": "new_orleans_la_united¬†states",
             "Pubdate": "2006",
-            "Publisher": "Peepal Tree Press ",
-            "Title": "Leaves in a River ",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Leaves in a River",
             "Translation": "n"
         },
         {
@@ -26000,6 +25196,17 @@
             "Publisher": "Iberoamericana Vervuert",
             "Title": "Autobiografía del Esclavo Poeta y Otros Escritos",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2007",
+            "Publisher": "New Directions",
+            "Title": "Dream Stories",
+            "Translation": ""
         },
         {
             "Author": "Antonio Moreno",
@@ -26286,17 +25493,6 @@
             "Publisher": "Picador",
             "Title": "A Writer's People: Ways of Looking and Feeling",
             "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2007",
-            "Publisher": "New Directions",
-            "Title": "Dream Stories",
-            "Translation": ""
         },
         {
             "Author": "Lyndon J. Dominique",
@@ -26638,7 +25834,7 @@
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2008",
             "Publisher": "Xlibris",
-            "Title": "Changind Shape",
+            "Title": "Changing Shape",
             "Translation": "n"
         },
         {
@@ -26662,17 +25858,6 @@
             "Publisher": "Wahlström & Widstrand",
             "Title": "Främlingar: Tre Engelska Liv",
             "Translation": "y"
-        },
-        {
-            "Author": "Barbara Lalla",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2008",
-            "Publisher": "The University of The West Indies Press",
-            "Title": "Postcolonialisms : Caribbean rereading of medieval English discourse",
-            "Translation": "n"
         },
         {
             "Author": "Austin Clarke",
@@ -27051,17 +26236,6 @@
     ],
     "2009": [
         {
-            "Author": "Collazo Ramos",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2009",
-            "Publisher": "University of Puerto Rico",
-            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
             "Author": "Marion Bethel",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -27114,6 +26288,17 @@
             "Pubdate": "2009",
             "Publisher": "Carcanet Press",
             "Title": "Continental Shelf",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jose? Antonio Ramos Collazo",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "san_juan_puerto_rico",
+            "Pubdate": "2009",
+            "Publisher": "University of Puerto Rico",
+            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
             "Translation": "n"
         },
         {
@@ -27191,17 +26376,6 @@
             "Pubdate": "2009",
             "Publisher": "McClelland & Stewart",
             "Title": "I Come Through: Stories",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2009",
-            "Publisher": "Bozarbooks",
-            "Title": "Renaissances africaines : écrire 50 ans d'indépendance",
             "Translation": "n"
         },
         {
@@ -27345,6 +26519,17 @@
             "Pubdate": "2009",
             "Publisher": "Createspace Independent Pub",
             "Title": "Along The Road",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "2009",
+            "Publisher": "Allen & Unwin",
+            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
             "Translation": "n"
         },
         {
@@ -27777,17 +26962,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "2009",
-            "Publisher": "Allen & Unwin",
-            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
-            "Translation": "n"
-        },
-        {
             "Author": "Joanne C. Hillhouse",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -27865,6 +27039,39 @@
             "Publisher": "Red Ediciones",
             "Title": "Zafira",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "caracas_venezuela",
+            "Pubdate": "2010",
+            "Publisher": "Katatay",
+            "Title": "La Unidad Submarina: Ensayos Caribeños",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "2010",
+            "Publisher": "Oxford University Press",
+            "Title": "The Arrivants: A New World Trilogy",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "middletown_ct_united¬†states",
+            "Pubdate": "2010",
+            "Publisher": "Wesleyan University Press",
+            "Title": "Elegguas",
+            "Translation": ""
         },
         {
             "Author": "Dany Laferrière",
@@ -28230,39 +27437,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "caracas_venezuela",
-            "Pubdate": "2010",
-            "Publisher": "Katatay",
-            "Title": "La Unidad Submarina: Ensayos Caribeños",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2010",
-            "Publisher": "Oxford University Press",
-            "Title": "The Arrivants: A New World Trilogy",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "middletown_ct_united¬†states",
-            "Pubdate": "2010",
-            "Publisher": "Wesleyan University Press",
-            "Title": "Elegguas",
-            "Translation": ""
-        },
-        {
             "Author": "Marika Preziuso",
             "Descriptor": "",
             "Genre": "Essay",
@@ -28282,17 +27456,6 @@
             "Pubdate": "2010",
             "Publisher": "AfricAgendA Publications Limited",
             "Title": "Wind of hope : the authorised biography of Dr. Goodluck Ebele Jonathan",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "2010",
-            "Publisher": "Editorial Verbum",
-            "Title": "Representaciones del personaje del negro en la literatura cubana : una perspectiva desde los estudios subalternos",
             "Translation": "n"
         },
         {
@@ -28471,6 +27634,50 @@
             "Pubdate": "2011",
             "Publisher": "World Classics",
             "Title": "Poemas",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "leeds_eng_england",
+            "Pubdate": "2011",
+            "Publisher": "Peepal Tree Press",
+            "Title": "LX: the Love Axe/l: Volume 2: Notes and Commentary",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2011",
+            "Publisher": "New Beacon Books",
+            "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "English",
+            "Pub_id": "cave_hill_barbados",
+            "Pubdate": "2011",
+            "Publisher": "University of the West Indies Press",
+            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "ann_arbor_mi_united¬†states",
+            "Pubdate": "2011",
+            "Publisher": "Proquest LLC",
+            "Title": "Black + Blues",
             "Translation": "n"
         },
         {
@@ -29024,50 +28231,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "leeds_eng_england",
-            "Pubdate": "2011",
-            "Publisher": "Peepal Tree Press",
-            "Title": "LX: the Love Axe/l: Volume 2: Notes and Commentary",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2011",
-            "Publisher": "New Beacon Books",
-            "Title": "History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "cave_hill_barbados",
-            "Pubdate": "2011",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Golokwati: A Tidaltectics History of Our Thymes. Volume 2",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "Proquest LLC",
-            "Title": "Black + Blues",
-            "Translation": "n"
-        },
-        {
             "Author": "Soleida Rios",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -29077,61 +28240,6 @@
             "Publisher": "Ediciones Unión",
             "Title": "Antes Del Mediodía: Memoria Del Sueño",
             "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2011",
-            "Publisher": "Soho Press",
-            "Title": "The Butterfly's Way: Voices From the Haitian Dyaspora in the United States",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2011",
-            "Publisher": "Vintage Books",
-            "Title": "Create Dangerously: The Immigrant Artist at Work",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2011",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Japanese",
-            "Pub_id": "",
-            "Pubdate": "2011",
-            "Publisher": "Sakuhinsha",
-            "Title": "Honegari no Toki",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "IDB Cultural Center",
-            "Title": "Haiti: A Bi-Cultural Experience",
-            "Translation": "y"
         },
         {
             "Author": "Liesel Daisley",
@@ -29774,17 +28882,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "2012",
-            "Publisher": "Fórcola Ediciones",
-            "Title": "Cuerpo y poder : variaciones sobre las imposturas reales",
-            "Translation": "n"
-        },
-        {
             "Author": "Alberto Garrandés",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -30161,6 +29258,17 @@
             "Translation": "y"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "montreãåal_qc_canada",
+            "Pubdate": "2013",
+            "Publisher": "Mémoire D'Encrier",
+            "Title": "Rêvhaïti",
+            "Translation": "y"
+        },
+        {
             "Author": "Dany Laferrière",
             "Descriptor": "",
             "Genre": "Fiction (Novella)",
@@ -30288,7 +29396,7 @@
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "2013",
-            "Publisher": "‎CreateSpace Independent Publishing Platform",
+            "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "The High Road",
             "Translation": "n"
         },
@@ -30480,17 +29588,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2013",
-            "Publisher": "Mémoire D'Encrier",
-            "Title": "Rêvhaïti",
-            "Translation": "y"
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Poem",
@@ -30521,17 +29618,6 @@
             "Pubdate": "2013",
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "See Now Then",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_ny_united_states",
-            "Pubdate": "2013",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir",
             "Translation": "n"
         },
         {
@@ -30822,7 +29908,7 @@
         },
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nBray, Barbara",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
@@ -31307,17 +30393,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "2014",
-            "Publisher": "Fórcola Ediciones",
-            "Title": "El amor en literatura : de Eva a Colette.",
-            "Translation": "n"
-        },
-        {
             "Author": "Alberto Garrandés",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -31437,28 +30512,6 @@
             "Publisher": "City Lights Booksellers & Publishers",
             "Title": "Haiti Glass",
             "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2014",
-            "Publisher": "Quercus",
-            "Title": "Claire of the Sea Light",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2014",
-            "Publisher": "Akashic Books",
-            "Title": "Haiti Noir 2: The Classics",
-            "Translation": "n"
         },
         {
             "Author": "Maude Heurtelou",
@@ -32068,17 +31121,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "2015",
-            "Publisher": "CLE International",
-            "Title": "Sony Labou Tansi, toujours vivant! : dossier",
-            "Translation": "n"
-        },
-        {
             "Author": "Sharon Millar",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -32209,6 +31251,39 @@
             "Publisher": "Yale University Press",
             "Title": "The Roar Of Morning",
             "Translation": "y"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "gloucester_england",
+            "Pubdate": "2015",
+            "Publisher": "Palala Press",
+            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
+            "Translation": "n"
         },
         {
             "Author": "Tiphanie Yanique",
@@ -32750,39 +31825,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "gloucester_england",
-            "Pubdate": "2015",
-            "Publisher": "Palala Press",
-            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "Arthur W. Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        },
-        {
             "Author": "Naomi Jackson",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -32829,6 +31871,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "leeds_eng_england",
+            "Pubdate": "2016",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Strange Fruit",
+            "Translation": "n"
+        },
+        {
             "Author": "Milagros Ricourt",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -32855,7 +31908,7 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
-            "Pub_id": "portland_or_united_states",
+            "Pub_id": "portland_or_united¬†states",
             "Pubdate": "2016",
             "Publisher": "YesYes Books",
             "Title": "Beastgirl & other origin myths",
@@ -32925,17 +31978,6 @@
             "Pubdate": "2016",
             "Publisher": "BnF-Publishing",
             "Title": "Le Passé : Impressions haïtiennes.",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "quebec_canada",
-            "Pubdate": "2016",
-            "Publisher": "Mémoire d'encrier",
-            "Title": "Sur Fanon",
             "Translation": "n"
         },
         {
@@ -33247,17 +32289,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "leeds_eng_england",
-            "Pubdate": "2016",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Strange Fruit",
-            "Translation": "n"
-        },
-        {
             "Author": "Shivanee Ramlochan",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -33500,6 +32531,61 @@
             "Publisher": "Forgotten Books",
             "Title": "Poems by a Slave in the Island of Cuba, Recently Liberated",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "middletown_ct_united¬†states",
+            "Pubdate": "2017",
+            "Publisher": "Wesleyan University Press",
+            "Title": "The Lazarus Poems",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2017",
+            "Publisher": "House of Nehesi",
+            "Title": "Liviticus",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "philipsburg_st.¬†maarten",
+            "Pubdate": "2017",
+            "Publisher": "House of Nehesi",
+            "Title": "Liviticus",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "plouneãåour_meãånez_france",
+            "Pubdate": "2017",
+            "Publisher": "Éditions Isabelle Sauvage",
+            "Title": "Negus",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2017",
+            "Publisher": "House of Nehesi Publishers",
+            "Title": "Liviticus",
+            "Translation": ""
         },
         {
             "Author": "Dany Laferrière",
@@ -33777,61 +32863,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "middletown_ct_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "Wesleyan University Press",
-            "Title": "The Lazarus Poems",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2017",
-            "Publisher": "House of Nehesi",
-            "Title": "Liviticus",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "philipsburg_st.¬†maarten",
-            "Pubdate": "2017",
-            "Publisher": "House of Nehesi",
-            "Title": "Liviticus",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "plouneãåour_meãånez_france",
-            "Pubdate": "2017",
-            "Publisher": "Éditions Isabelle Sauvage",
-            "Title": "Negus",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2017",
-            "Publisher": "House of Nehesi Publishers",
-            "Title": "Liviticus",
-            "Translation": ""
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -33887,17 +32918,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "montr√©al_canada",
-            "Pubdate": "2017",
-            "Publisher": "La Magnétothèque",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
             "Author": "Maude Heurtelou",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -33909,7 +32929,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Rene Depestre",
+            "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -34593,17 +33613,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Blas Matamoro",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "Spanish",
-            "Pub_id": "madrid_spain",
-            "Pubdate": "2018",
-            "Publisher": "Fórcola",
-            "Title": "Alejo Carpentier Y La Música",
-            "Translation": "n"
-        },
-        {
             "Author": "Alberto Garrandés",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -34766,17 +33775,6 @@
             "Pubdate": "2018",
             "Publisher": "Akashic Books",
             "Title": "Mouths Don't Speak",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "Contributors: Emilio José Gallardo Saborido; Jesús Gómez de Tejada; Damaris Puñales Alpízar; Patricia Calvo González; Ana Casado Fernández; Viktoria Kritikou; Par Kumaraswami; Rafael Pedemonte",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2018",
-            "Publisher": "Karolinum Press",
-            "Title": "Asedios al caimán letrado : literatura y poder en la Revolución cubana",
             "Translation": "n"
         },
         {
@@ -34978,6 +33976,17 @@
             "Publisher": "University Press of Mississippi",
             "Title": "In The Forests Of Freedom: The Fighting Maroons Of Dominica",
             "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2019",
+            "Publisher": "The Paris Review",
+            "Title": "Coral",
+            "Translation": "n"
         },
         {
             "Author": "Alexia Arthurs",
@@ -35266,17 +34275,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2019",
-            "Publisher": "The Paris Review",
-            "Title": "Coral",
-            "Translation": "n"
-        },
-        {
             "Author": "Soleida Rios",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -35395,17 +34393,6 @@
             "Pubdate": "2019",
             "Publisher": "Peepal Tree Press",
             "Title": "A Portable Paradise",
-            "Translation": "n"
-        },
-        {
-            "Author": "D. Augustus Straker",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "homebush_west_australia",
-            "Pubdate": "2019",
-            "Publisher": "Generic",
-            "Title": "A Trip to the Windward Islands or, Then and Now",
             "Translation": "n"
         },
         {
@@ -35607,17 +34594,6 @@
             "Publisher": "Liveright Publishing Corporation",
             "Title": "Patsy",
             "Translation": "y"
-        },
-        {
-            "Author": "Delfín Rodríguez-Silva",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "miami_fl_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "Ediciones Universal",
-            "Title": "Cronologia Martiana: LA Ruta Apostolica De Jose Marti 1853-1895",
-            "Translation": "n"
         },
         {
             "Author": "Fred D'Aguiar",
@@ -36016,50 +34992,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2020",
-            "Publisher": "Vintage Books",
-            "Title": "Everything Inside",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2020",
-            "Publisher": "Vintage Books",
-            "Title": "Everything Inside",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2020",
-            "Publisher": "Vintage Books",
-            "Title": "Everything Inside",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Swedish",
-            "Pub_id": "stockholm_sweden",
-            "Pubdate": "2020",
-            "Publisher": "Bokförlaget Tranan",
-            "Title": "Att Skörda Ben",
-            "Translation": "y"
-        },
-        {
             "Author": "Anthony Kellman",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -36379,6 +35311,28 @@
             "Publisher": "Wissenschaftlicher Verlag Berlin",
             "Title": "Wilde Kohlen",
             "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "middletown_ct_united¬†states",
+            "Pubdate": "2021",
+            "Publisher": "Wesleyan University Press",
+            "Title": "Elegguas",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "middletown_ct_united¬†states",
+            "Pubdate": "2021",
+            "Publisher": "Wesleyan University Press",
+            "Title": "Elegguas",
+            "Translation": ""
         },
         {
             "Author": "Dany Laferrière",
@@ -36722,28 +35676,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "middletown_ct_united¬†states",
-            "Pubdate": "2021",
-            "Publisher": "Wesleyan University Press",
-            "Title": "Elegguas",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "middletown_ct_united¬†states",
-            "Pubdate": "2021",
-            "Publisher": "Wesleyan University Press",
-            "Title": "Elegguas",
-            "Translation": ""
-        },
-        {
             "Author": "Jamaica Kincaid",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -36752,17 +35684,6 @@
             "Pubdate": "2021",
             "Publisher": "Kampa Verlag",
             "Title": "Mister Potter",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2021",
-            "Publisher": "Asphalte Éditions",
-            "Title": "Haïti Noir",
             "Translation": "y"
         },
         {
@@ -36851,17 +35772,6 @@
             "Pubdate": "2021",
             "Publisher": "Candlewick Press",
             "Title": "Freedom Soup",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "Editor: Claudio Canaparo",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2021",
-            "Publisher": "Peter Lang International Academic Publishers",
-            "Title": "El genero policial en Cuba; Novela policial revolucionaria, neopolicial y teleseries - Hispanic Studies: Culture and Ideas 84",
             "Translation": "n"
         },
         {
@@ -36997,17 +35907,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Amelia Bleeker",
-            "Descriptor": "Escribano, Pablo; Gonzales, Candice; Liberati, Cristina; Mawby, Briana",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "geneva_switzerland",
-            "Pubdate": "2021",
-            "Publisher": "International Organization for Migration",
-            "Title": "Advancing Gender Equality in Environmental Migration and Disaster Displacement in the Caribbean",
-            "Translation": "n"
-        },
-        {
             "Author": "Jan J Dominique",
             "Descriptor": "Donovan, Emma Page",
             "Genre": "Fiction (Short Story Collection)",
@@ -37139,17 +36038,6 @@
             "Pubdate": "2022",
             "Publisher": "New Beacon Books",
             "Title": "Education Across Borders: Immigration, Race, and Identity",
-            "Translation": "n"
-        },
-        {
-            "Author": "Celeste Mohammed",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2022",
-            "Publisher": "Books by Jacaranda Books Art Music Ltd",
-            "Title": "London England",
             "Translation": "n"
         },
         {

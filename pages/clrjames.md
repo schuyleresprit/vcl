@@ -25,7 +25,7 @@ permalink: /clrjames/
   	 <div class="block">
             <div class="date left"><p class="left">1936</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Minty Alley</h1><hr>
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6VvMz3SJaTfUlcYDMM8peBoN-Jr2lpSgqPlm523J_4xyBo5S"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /clrjames/
             </div>
         </div>
 	 <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Nhsw5xsVL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
@@ -50,3 +50,5 @@ permalink: /clrjames/
                 Length: 464  <br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

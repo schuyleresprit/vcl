@@ -24,7 +24,7 @@ permalink: /drsilva/
         <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Cronologia Martiana: LA Ruta Apostolica De Jose Marti 1853-1895</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ujHjwt9qL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -35,3 +35,5 @@ permalink: /drsilva/
                 Length: 368<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

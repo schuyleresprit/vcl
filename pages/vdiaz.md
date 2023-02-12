@@ -24,7 +24,7 @@ permalink: /vdiaz/
         <div class="block">
             <div class="date left"><p class="left">1921</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Galeras de Pafos</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /vdiaz/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1949</p></div>
+            <div class="date right"><p class="right">1949</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Del Sena al Ozama</h1><hr>
                 <p><img src="http://biblioteca.agn.gob.do/cgi-bin/koha/opac-image.pl?thumbnail=1&biblionumber=59675"></p>
                 <p>
@@ -49,3 +49,5 @@ permalink: /vdiaz/
                 Length: 356<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

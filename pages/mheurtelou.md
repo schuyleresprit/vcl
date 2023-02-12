@@ -25,7 +25,7 @@ permalink: /mheurtelou/
         <div class="block">
             <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Anayiz Ap Aprann Ijyèn</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnlLY4HCb-oKfpF7f1EFFrMqK66900XjxFlwKAxVntv0oA6vA5"></p>
                 <p>
@@ -236,9 +236,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1999</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Ensèk</h1><hr>
                 <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503189.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -249,11 +249,24 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
+            <div class="date right"><p class="right">1999</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Koulè</h1><hr>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503180.jpg"></p>
+                <p>Language: Haitian Creole<br/>
+                Publisher: Educa Vision<br/>
+                Pub_location: Coconut Creek, FL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 12</p>
+            </div>
+        </div>
+        <div class="block">
             <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Koulè</h1><hr>
-                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503180.jpg"></p>
+                <h1>Fòm / Shapes</h1><hr>
+                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/502832.jpg"></p>
                 <p>Language: Haitian Creole<br/>
                 Publisher: Educa Vision<br/>
                 Pub_location: Coconut Creek, FL, United States<br/>
@@ -265,19 +278,6 @@ permalink: /mheurtelou/
             <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Fòm / Shapes</h1><hr>
-                <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/502832.jpg"></p>
-                <p>Language: Haitian Creole<br/>
-                Publisher: Educa Vision<br/>
-                Pub_location: Coconut Creek, FL, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 12</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
                 <h1>Chat ak sourit : istwà</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51-QxaTjATL._AC_SY780_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -289,9 +289,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1999</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Telling Time: Aprann Le</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=Q8JxAAAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73j4tdFwfjcmt2NYTweLxTtImxTdO_7JyFm2Uc6jjc2fpEvxCA-91e9pkKuHIb2bUIjYmUJJrXq0_auCagdi8oGXWxSPAtOEwfba9fjI0C6ySohvqflp2WaY2p9zAvP3CZe3Kxu"></p>
                 <p>Language: Haitian Creole<br/>
@@ -355,9 +355,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2001</p></div>
+            <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Twa Zammi</h1><hr>
                 <p><img src=""></p>
                 <p>Language: Haitian Creole<br/>
@@ -368,9 +368,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Mwen Pito Mango</h1><hr>
                 <p><img src="https://kepkaa.com/wp-content/uploads/2017/01/145..jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -381,9 +381,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2001</p></div>
+            <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Pwezi Timoun</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472722240l/31816579._SY475_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -394,9 +394,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Mwen Pito Fwi</h1><hr>
                 <p><img src="http://www.worldlanguage.com/ProductMediumBoxShots/503209.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -408,9 +408,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2004</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Guide to Learning Haitian Creole</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=vYz_NUPIbC4C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70um_THp2eIJ_RTF-TAa697iVBF7WAFfMN_AaLy08Sm7Wfro5mXoBWoWOWAsI_a-MMZN_1a4Lu31s1ux2Ysj_UoK030_tcccl0SSNI1jVlHo_-uLhZC33XKmQuNCxZTI4qzn-IZ"></p>
                 <p>Language: English<br/>
@@ -422,9 +422,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2004</p></div>
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Sandra: Cinderella In Haiti</h1><hr>
                 <p><img src="https://educavision.com/assets/uploads/images/9781584321767.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -435,9 +435,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2004</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Pitit Lyon</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349058987l/14955322.jpg"></p>
                 <p>Language: English<br/>
@@ -448,9 +448,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Lafami Bonplezi</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51LiesDXnXL._SX318_BO1,204,203,200_.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -461,9 +461,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2009</p></div>
+            <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Diksyonè Kreyòl Vilsen</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ASwjP-0zL._AC_SY350_QL15_.jpg"></p>
                 <p>Language: English<br/>
@@ -475,9 +475,9 @@ permalink: /mheurtelou/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2009</p></div>
+            <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Pozisyon = Position</h1><hr>
                 <p><img src="https://educavision.com/assets/uploads/images/9781643821153.main.jpg"></p>
                 <p>Language: Haitian Creole<br/>
@@ -488,9 +488,9 @@ permalink: /mheurtelou/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2012</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Wi Ou Kapab: Istwa Ti Zwazo Jenn Nan</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/81FmtDFzdKL.jpg"></p>
                 <p>Language: English<br/>
@@ -1020,3 +1020,5 @@ permalink: /mheurtelou/
                 Length: 20</p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

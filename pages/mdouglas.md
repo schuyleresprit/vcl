@@ -25,7 +25,7 @@ permalink: /mdouglas/
         <div class="block">
             <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Marvellous Equations Of The Dread: A Novel In Bass Riddim</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51WWwJuA-dL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -37,8 +37,6 @@ permalink: /mdouglas/
                 </p>
             </div>
         </div>
-
-
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

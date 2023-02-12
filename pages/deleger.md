@@ -25,7 +25,7 @@ permalink: /deleger/
         <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>God Loves Haiti: A Novel</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/416BGw25UvL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /deleger/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>God Loves Haiti: Roman</h1><hr>
                 <p><img src="https://la1ere.francetvinfo.fr/image/v9bzKOrIqth-zN6pcX-LMWyLmOA/930x620/filters:format(webp)/outremer/2021/11/04/6183d2c73bfc1_blank-660-x-440-34-1820937.jpg" height="60%" width = "60%"></p>
                 <p>
@@ -50,6 +50,6 @@ permalink: /deleger/
                 Length: 262<br/>                   </p>
             </div>
         </div>
-        <div id="footer">
-    </div>
 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

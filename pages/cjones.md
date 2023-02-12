@@ -25,7 +25,7 @@ permalink: /cjones/
         <div class="block">
             <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Walking Side by Side Devotions for Pilgrims</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0H88KdP6OAhyfTTwo2-e3VJF8mePAxHr_HBpkehx5sES_M3eC"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /cjones/
         <div class="block">
             <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Burning Bush Women and Other Stories</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFo_KgBGDwyBysNGzEpM7XxGQJHqXm6GaJZeoWp3lOZgJAShaa"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /cjones/
         <div class="block">
             <div class="date leftt"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>How the One-Armed Sister Sweeps Her House: A Novel</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51qPLqBh+WL.jpg"></p>
                 <p>
@@ -70,7 +70,7 @@ permalink: /cjones/
         <div class="block">
             <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Et d'un seul bras, la soeur balaie sa maison</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41TH6WW1YeS.jpg"></p>
                 <p>
@@ -83,5 +83,5 @@ permalink: /cjones/
             </div>
         </div>
         </div>
-        <!-- partial -->
-          <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

@@ -25,7 +25,7 @@ permalink: /mmcwatt/
         <div class="block">
             <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A World Of Poetry For CXC</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181146613l/1118761._SY475_.jpg"></p>
                 <p>
@@ -37,7 +37,7 @@ permalink: /mmcwatt/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Suspended Sentences: Fictions Of Atonement</h1><hr>
@@ -52,9 +52,9 @@ permalink: /mmcwatt/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A World Of Poetry</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51DtsgkUkPL.jpg"></p>
                 <p>
@@ -66,9 +66,9 @@ permalink: /mmcwatt/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>A World Of Prose</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61T7duFg9BL.jpg"></p>
                 <p>
@@ -80,5 +80,5 @@ permalink: /mmcwatt/
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

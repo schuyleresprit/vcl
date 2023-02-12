@@ -24,7 +24,7 @@ permalink: /pmelville/
         <div class="block">
             <div class="date left"><p class="left">1991</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Shape-Shifter</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Lzza9PmSL._SX300_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /pmelville/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
+            <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Migration Of Ghosts</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41o3e9F2KTS._SX327_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /pmelville/
        <div class="block">
             <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Bugtalerens Fortælling</h1><hr>
                 <p><img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_599/https://kuriosa.dk/wp-content/uploads/2019/04/BKK_502829_m.jpg"></p>
                 <p>
@@ -64,9 +64,9 @@ permalink: /pmelville/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
+            <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Il Racconto Del Ventriloquo</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51HNRQ4DWHL._SX320_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -80,7 +80,7 @@ permalink: /pmelville/
 <div class="block">
             <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Savanne-Sagen</h1><hr>
                 <p><img src="https://media.s-bol.com/Y4776oKER69/550x833.jpg"></p>
                 <p>
@@ -92,9 +92,9 @@ permalink: /pmelville/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2000</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Biçim Değiştiren</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31P-zQFmA0L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -108,7 +108,7 @@ permalink: /pmelville/
        <div class="block">
             <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Mrs. Da Silvas Karneval Erzählungen</h1><hr>
                 <p><img src="https://pictures.abebooks.com/isbn/9783426195987-uk.jpg"></p>
                 <p>
@@ -134,9 +134,9 @@ permalink: /pmelville/
             </div>
         </div>
       <div class="block">
-            <div class="date left"><p class="left">2006</p></div>
+            <div class="date right"><p class="right">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Hayaletlerin Göçü</h1><hr>
                 <p><img src="https://img.kitapyurdu.com/v1/getImage/fn:147524/wh:true/wi:220"></p>
                 <p>
@@ -150,7 +150,7 @@ permalink: /pmelville/
        <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Le Jeu Des Transformations</h1><hr>
                 <p><img src="https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/0/9/5/9782881825590/tsp20120923093549/Le-jeu-des-transformations.jpg"></p>
                 <p>
@@ -162,9 +162,9 @@ permalink: /pmelville/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Le Conte Du Ventriloque: Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ZqSzlQXzL._SX301_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -178,7 +178,7 @@ permalink: /pmelville/
        <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Eating Air</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Wxevi1yrL._SX318_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -190,9 +190,9 @@ permalink: /pmelville/
             </div>
         </div>
    <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Master Of Chaos And Other Fables</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51MsiOlVrXL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -203,3 +203,5 @@ permalink: /pmelville/
                 Length: 209<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

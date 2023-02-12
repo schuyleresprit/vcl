@@ -25,7 +25,7 @@ permalink: /sdracius/
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Climb to the Sky</h1><hr>
                 <p><img src="https://ik.imagekit.io/uvapress/tr:h-300,w-200,c-at_max/4577.jpg"></p>
                 <p>
@@ -37,3 +37,5 @@ permalink: /sdracius/
                 Length: 208 <br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

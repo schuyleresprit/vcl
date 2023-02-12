@@ -23,9 +23,9 @@ permalink: /cdebrot/
             </div>
         </div>
   <div class="block">
-            <div class="date right"><p class="right">1935</p></div>
+            <div class="date left"><p class="left">1935</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Mijn Zuster De Negerin</h1><hr>
                 <p><img src="https://media.scholieren.net/media/29926/conversions/1325255881-header.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /cdebrot/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1945</p></div>
+            <div class="date right"><p class="right">1945</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Bekentenis in Toledo</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md22489018104.jpg"></p>
               <p>
@@ -51,9 +51,9 @@ permalink: /cdebrot/
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="right">1945</p></div>
+            <div class="date left"><p class="left">1945</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Navrante Zomer</h1><hr>
                 <p><img src="https://boek2.nl/51556-large_default/navrante--zomer.jpg"></p>
                 <p>
@@ -65,9 +65,9 @@ permalink: /cdebrot/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1945</p></div>
+            <div class="date right"><p class="right">1945</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Ars en Vita</h1><hr>
                 <p><img src="https://www.antiqbook.com/images/AB_images/p/p00060_2651,medium.1653057247.jpg"></p>
             <p>
@@ -79,9 +79,9 @@ permalink: /cdebrot/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1946</p></div>
+            <div class="date left"><p class="left">1946</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Bid Voor Camille Willocq </h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md31139496787.jpg"></p>
                <p>
@@ -93,9 +93,9 @@ permalink: /cdebrot/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1947</p></div>
+            <div class="date right"><p class="right">1947</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Het Existentialisme, Drie Voordrachten Met Discussie</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
             <p>
@@ -107,9 +107,9 @@ permalink: /cdebrot/
             </div>
         </div>
          <div class="block">
-            <div class="date right"><p class="right">1952</p></div>
+            <div class="date left"><p class="left">1952</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>De Afwezigen</h1><hr>
                 <p><img src="https://vanstarkenburg.com/storage/media/5276/de-afwezigen.jpeg"></p>
               <p>
@@ -121,9 +121,9 @@ permalink: /cdebrot/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">1955</p></div>
+            <div class="date right"><p class="right">1955</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Antilliaanse Cahiers</h1><hr>
                 <p><img src="https://www.dbnl.org/tekst/_ant003195501_01/_ant003195501_01_tpg.gif"></p>
             <p>
@@ -135,9 +135,9 @@ permalink: /cdebrot/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1963</p></div>
+            <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Dagboekbladen Uit Genève</h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/271/450/cms_visual_1544647.jpg_1611740542000_271x450.jpg"></p>
               <p>
@@ -149,9 +149,9 @@ permalink: /cdebrot/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1970</p></div>
+            <div class="date right"><p class="right">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Tussen De Grijze Lijnen En Andere Gedichten</h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/294/450/cms_visual_1727447.jpg_1641978976000_294x450.jpg"></p>
             <p>
@@ -163,9 +163,9 @@ permalink: /cdebrot/
             </div>
         </div>
           <div class="block">
-            <div class="date right"><p class="right">1982</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>De Vervolgden</h1><hr>
                 <p><img src="https://www.boekmeter.nl/images/cover/36000/36134.jpg"></p>
               <p>
@@ -177,9 +177,9 @@ permalink: /cdebrot/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1985</p></div>
+            <div class="date right"><p class="right">1985</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Heimwee (In Eigen Beheer)</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
             <p>
@@ -191,9 +191,9 @@ permalink: /cdebrot/
             </div>
         </div>
           <div class="block">
-            <div class="date right"><p class="right">1985</p></div>
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>Verzameld Werk 1. Over Antilliaanse Cultuur </h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/287/450/cms_visual_1225103.jpg_1568040443000_287x450.jpg"></p>
             <p>
@@ -205,9 +205,9 @@ permalink: /cdebrot/
             </div>
         </div>
      <div class="block">
-            <div class="date left"><p class="left">1985</p></div>
+            <div class="date right"><p class="right">1985</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Verzameld Werk 2. Gedichten</h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/286/450/cms_visual_1225102.jpg_1568040421000_286x450.jpg"></p>
             <p>
@@ -221,7 +221,7 @@ permalink: /cdebrot/
         <div class="block">
             <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Verzameld werk 3. Verhalen</h1><hr>
                 <p><img src="https://media.s-bol.com/mZR79W85gokO/526x840.jpg"></p>
                 <p>
@@ -235,7 +235,7 @@ permalink: /cdebrot/
        <div class="block">
             <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Verzameld Werk 4. Bewolkt Bestaan</h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/297/451/cms_visual_955925.jpg_1497431334000_297x451.jpg"></p>
             <p>
@@ -249,7 +249,7 @@ permalink: /cdebrot/
         <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Verzameld Werk 5. Over Literatuur</h1><hr>
                 <p><img src="https://media.s-bol.com/mZR79W85gokO/526x840.jpg"></p>
                 <p>
@@ -263,7 +263,7 @@ permalink: /cdebrot/
         <div class="block">
             <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Verzameld Werk 6. Dagboekbladen Uit Genève. Over Dans En Beeldende Kunst</h1><hr>
                 <p><img src="https://media.s-bol.com/70M94Dygm0r/532x840.jpg"></p>
             <p>
@@ -277,7 +277,7 @@ permalink: /cdebrot/
        <div class="block">
             <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Wie was Céline? Van Cuirassier Tot Clochard</h1><hr>
                 <p><img src="https://d3525k1ryd2155.cloudfront.net/h/005/231/1465231005.0.x.jpg"></p>
             <p>
@@ -289,5 +289,5 @@ permalink: /cdebrot/
             </div>
         </div>   
             </div>
-            <!-- partial -->
-            <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>       
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>    

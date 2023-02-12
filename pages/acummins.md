@@ -12,7 +12,7 @@ permalink: /acummins/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> B. 1940 </p></div>
+            <div class="date right"><p class="right">b. 1940</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -23,9 +23,9 @@ permalink: /acummins/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2008</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Royal Palms are Dying</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NT9O6tggL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -38,9 +38,9 @@ permalink: /acummins/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Yeshua a.k.a. Jesus the Nazarine</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/416k-uHfHyL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -53,9 +53,9 @@ permalink: /acummins/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>The Wind Also Listens</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51TAEhOkECL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -67,5 +67,5 @@ permalink: /acummins/
             </div>
         </div>
         </div>
-        <!-- partial -->
-          <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

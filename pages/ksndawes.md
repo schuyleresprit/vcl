@@ -36,7 +36,6 @@ permalink: /ksndawes/
                 Length: 115<br/>                   </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
@@ -65,7 +64,6 @@ permalink: /ksndawes/
                 Length: 159<br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1996</p></div>
             <div class="dot"></div>
@@ -80,7 +78,6 @@ permalink: /ksndawes/
                 Length: 48<br/>                                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2003</p></div>
             <div class="dot"></div>
@@ -95,7 +92,6 @@ permalink: /ksndawes/
                 Length: 268<br/>                     </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2005</p></div>
             <div class="dot"></div>
@@ -110,7 +106,6 @@ permalink: /ksndawes/
                 Length: 96<br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
@@ -153,7 +148,6 @@ permalink: /ksndawes/
                 Length: 72<br/>                   </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
@@ -182,7 +176,6 @@ permalink: /ksndawes/
                 Length: 96 <br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2011</p></div>
             <div class="dot"></div>
@@ -197,7 +190,6 @@ permalink: /ksndawes/
                 Length: 120<br/>                                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2011</p></div>
             <div class="dot"></div>
@@ -212,7 +204,6 @@ permalink: /ksndawes/
                 Length: 216<br/>                     </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2012</p></div>
             <div class="dot"></div>
@@ -227,7 +218,6 @@ permalink: /ksndawes/
                 Length: 372<br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
@@ -270,7 +260,6 @@ permalink: /ksndawes/
                 Length: 310<br/>                   </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right">2016</p></div>
             <div class="dot"></div>
@@ -299,7 +288,6 @@ permalink: /ksndawes/
                 Length: 232<br/>                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2018</p></div>
             <div class="dot"></div>
@@ -314,7 +302,6 @@ permalink: /ksndawes/
                 Length: 159<br/>                                </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2018</p></div>
             <div class="dot"></div>
@@ -329,7 +316,6 @@ permalink: /ksndawes/
                 Length: 128<br/>                     </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">2019</p></div>
             <div class="dot"></div>
@@ -344,7 +330,6 @@ permalink: /ksndawes/
                 Length: 206<br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
@@ -359,7 +344,6 @@ permalink: /ksndawes/
                 Length: 240<br/>                   </p>
             </div>
         </div>
-
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

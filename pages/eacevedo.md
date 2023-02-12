@@ -25,7 +25,7 @@ permalink: /eacevedo/
         <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Beastgirl & other origin myths</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475496429i/32337403._UY262_SS262_.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /eacevedo/
         <div class="block">
             <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Clap When You Land</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570558443l/52516332._SX0_SY0_.jpg"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /eacevedo/
         <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Poet X</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498766234l/33294200._SY475_.jpg"></p>
                 <p>
@@ -70,7 +70,7 @@ permalink: /eacevedo/
         <div class="block">
             <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Write yourself a lantern : a journal inspired by the Poet X</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/81JOVi+6QxL.jpg"></p>
                 <p>
@@ -85,7 +85,7 @@ permalink: /eacevedo/
         <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>With the Fire on High</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/81eO1uJkpuL.jpg"></p>
                 <p>
@@ -97,10 +97,6 @@ permalink: /eacevedo/
                 </p>
             </div>
         </div>
-        <div style="padding-bottom:100px;"></div>
-    </div>
-    <div id="footer">
-    </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

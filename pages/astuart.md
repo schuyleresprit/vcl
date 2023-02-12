@@ -12,7 +12,7 @@ permalink: /astuart/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> B. 1962 </p></div>
+            <div class="date right"><p class="right">b. 1962 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -25,7 +25,7 @@ permalink: /astuart/
         <div class="block">
             <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Showgirls</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41akj5z-vhL._SX332_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /astuart/
         <div class="block">
             <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Rose Of Martinique: A Life Of Napoleon's Josephine</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51tHaNBtQSL._SX308_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /astuart/
             <div class="block">
                 <div class="date left"><p class="left">2013</p></div>
                 <div class="dot"></div>
-                <div class="right">
+                <div class="right hide">
                     <h1>Sugar In The Blood: A Family's Story Of Slavery And Empire</h1><hr>
                     <p><img src="https://images-na.ssl-images-amazon.com/images/I/51inYEFQR6L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                     <p>
@@ -66,7 +66,7 @@ permalink: /astuart/
             <div class="block">
                 <div class="date right"><p class="right">2013</p></div>
                 <div class="dot"></div>
-                <div class="left">
+                <div class="left hide">
                     <h1>Josephine: The Rose Of Martinique</h1><hr>
                     <p><img src="https://images-na.ssl-images-amazon.com/images/P/0802142028.01._SX180_SCLZZZZZZZ_.jpg"></p>
                     <p>
@@ -76,3 +76,5 @@ permalink: /astuart/
                     Genre: Biography <br/>
                     Length: 480 <br/>                </p>
                 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

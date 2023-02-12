@@ -23,7 +23,7 @@
             "Translation": "n"
         }
     ],
-    "abenitezrogo": [
+    "abenitezrojo": [
         {
             "Author": "Antonio Benítez-Rojo",
             "Descriptor": "Translator: Anne Proenza",
@@ -1978,7 +1978,7 @@
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2008",
             "Publisher": "Xlibris",
-            "Title": "Changind Shape",
+            "Title": "Changing Shape",
             "Translation": "n"
         },
         {
@@ -1989,7 +1989,7 @@
             "Pub_id": "bloomington_in_united¬†states",
             "Pubdate": "2008",
             "Publisher": "Xlibris",
-            "Title": "Changind Shape",
+            "Title": "Changing Shape",
             "Translation": "n"
         }
     ],
@@ -2340,7 +2340,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2002",
             "Publisher": "Macmillan Publishers",
-            "Title": "The toy town game",
+            "Title": "The Toy Town Game",
             "Translation": "n"
         },
         {
@@ -2351,7 +2351,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2002",
             "Publisher": "Macmillan Publishers",
-            "Title": "The toy town game",
+            "Title": "The Toy Town Game",
             "Translation": "n"
         },
         {
@@ -2384,7 +2384,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2001",
             "Publisher": "Macmillan Publishers",
-            "Title": "The twins",
+            "Title": "The Twins",
             "Translation": "n"
         },
         {
@@ -2395,7 +2395,7 @@
             "Pub_id": "london_europe",
             "Pubdate": "2001",
             "Publisher": "Macmillan Publishers",
-            "Title": "The twins",
+            "Title": "The Twins",
             "Translation": "n"
         }
     ],
@@ -3769,30 +3769,6 @@
             "Translation": "y"
         }
     ],
-    "bmagnier": [
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1986",
-            "Publisher": "CLE International",
-            "Title": "Littératures des Caraibes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Bernard Magnier",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_france",
-            "Pubdate": "1986",
-            "Publisher": "CLE International",
-            "Title": "Littératures des Caraibes",
-            "Translation": "n"
-        }
-    ],
     "bmontabo": [
         {
             "Author": "Bernard Montabo",
@@ -4518,28 +4494,6 @@
             "Pubdate": "2012",
             "Publisher": "Peepal Tree Press",
             "Title": "Ghosts: A Memoir",
-            "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2003",
-            "Publisher": "Hodder Education",
-            "Title": "Songs of Silence",
-            "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2003",
-            "Publisher": "Hodder Education",
-            "Title": "Songs of Silence",
             "Translation": ""
         }
     ],
@@ -6283,30 +6237,6 @@
             "Translation": "y"
         }
     ],
-    "cramos": [
-        {
-            "Author": "Collazo Ramos",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2009",
-            "Publisher": "University of Puerto Rico",
-            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Collazo Ramos",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2009",
-            "Publisher": "University of Puerto Rico",
-            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
-            "Translation": "n"
-        }
-    ],
     "cricher": [
         {
             "Author": "Clément Richer",
@@ -6464,52 +6394,6 @@
             "Pubdate": "2000",
             "Publisher": "Planeta Publishing",
             "Title": "Cubana Confesión",
-            "Translation": "n"
-        }
-    ],
-    "cuxo": [
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "Editor: Claudio Canaparo",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2021",
-            "Publisher": "Peter Lang International Academic Publishers",
-            "Title": "El genero policial en Cuba; Novela policial revolucionaria, neopolicial y teleseries - Hispanic Studies: Culture and Ideas 84",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "Editor: Claudio Canaparo",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2021",
-            "Publisher": "Peter Lang International Academic Publishers",
-            "Title": "El genero policial en Cuba; Novela policial revolucionaria, neopolicial y teleseries - Hispanic Studies: Culture and Ideas 84",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "manchester_england",
-            "Pubdate": "2006",
-            "Publisher": "Manchester Metropolitan University Press",
-            "Title": "The detective fiction of Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "manchester_england",
-            "Pubdate": "2006",
-            "Publisher": "Manchester Metropolitan University Press",
-            "Title": "The detective fiction of Leonardo Padura Fuentes",
             "Translation": "n"
         }
     ],
@@ -6991,7 +6875,7 @@
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "2013",
-            "Publisher": "‎CreateSpace Independent Publishing Platform",
+            "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "The High Road",
             "Translation": "n"
         },
@@ -7002,7 +6886,7 @@
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "2013",
-            "Publisher": "‎CreateSpace Independent Publishing Platform",
+            "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "The High Road",
             "Translation": "n"
         },
@@ -9699,798 +9583,6 @@
             "Publisher": "Kinneret",
             "Title": "Kene Ha-sukar Ha-marim",
             "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Danish",
-            "Pub_id": "copenhagen_denmark",
-            "Pubdate": "1999",
-            "Publisher": "Fremad",
-            "Title": "Livet er en Underlig Gave",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Danish",
-            "Pub_id": "copenhagen_denmark",
-            "Pubdate": "1999",
-            "Publisher": "Fremad",
-            "Title": "Livet er en Underlig Gave",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1999",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Land Voor de Levenden",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1999",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Land Voor de Levenden",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1998",
-            "Publisher": "Penguin Books",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1998",
-            "Publisher": "Penguin Books",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2004",
-            "Publisher": "Vintage Books",
-            "Title": "The Dew Breaker",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2004",
-            "Publisher": "Vintage Books",
-            "Title": "The Dew Breaker",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1994",
-            "Publisher": "Vintage Books",
-            "Title": "Breath, Eyes, Memory",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1994",
-            "Publisher": "Vintage Books",
-            "Title": "Breath, Eyes, Memory",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1997",
-            "Publisher": "Pocket Books",
-            "Title": "Le Cri de L'oiseau Rouge",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1997",
-            "Publisher": "Pocket Books",
-            "Title": "Le Cri de L'oiseau Rouge",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1995",
-            "Publisher": "Pygmalion",
-            "Title": "Le Cri de L'oiseau Rouge",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1995",
-            "Publisher": "Pygmalion",
-            "Title": "Le Cri de L'oiseau Rouge",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1995",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1995",
-            "Publisher": "Wereldbibliotheek",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1998",
-            "Publisher": "Muntinga",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Dutch",
-            "Pub_id": "amsterdam_netherlands",
-            "Pubdate": "1998",
-            "Publisher": "Muntinga",
-            "Title": "Adem, Ogen, Herinnering",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "d√ºsseldorf_germany",
-            "Pubdate": "1996",
-            "Publisher": "Marion von Schröder Verlag",
-            "Title": "Atem, Augen, Erinnerungen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "d√ºsseldorf_germany",
-            "Pubdate": "1996",
-            "Publisher": "Marion von Schröder Verlag",
-            "Title": "Atem, Augen, Erinnerungen",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones del Bronce",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones del Bronce",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Círculo de lectores",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "1999",
-            "Publisher": "Círculo de lectores",
-            "Title": "Palabra, Ojos, Memoria",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Norwegian",
-            "Pub_id": "oslo_norway",
-            "Pubdate": "2000",
-            "Publisher": "Pax Forlag",
-            "Title": "Pust, Blikk, Minne",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Norwegian",
-            "Pub_id": "oslo_norway",
-            "Pubdate": "2000",
-            "Publisher": "Pax Forlag",
-            "Title": "Pust, Blikk, Minne",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2014",
-            "Publisher": "Quercus",
-            "Title": "Claire of the Sea Light",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2014",
-            "Publisher": "Quercus",
-            "Title": "Claire of the Sea Light",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2000",
-            "Publisher": "Abacus",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2000",
-            "Publisher": "Abacus",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1999",
-            "Publisher": "Abacus",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1999",
-            "Publisher": "Abacus",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1998",
-            "Publisher": "Soho Press",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1998",
-            "Publisher": "Soho Press",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "montr√©al_canada",
-            "Pubdate": "2017",
-            "Publisher": "La Magnétothèque",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "montr√©al_canada",
-            "Pubdate": "2017",
-            "Publisher": "La Magnétothèque",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "m√ºnchen_germany",
-            "Pubdate": "1999",
-            "Publisher": "Claassen",
-            "Title": "Die Süße Saat Der Tränen: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "m√ºnchen_germany",
-            "Pubdate": "1999",
-            "Publisher": "Claassen",
-            "Title": "Die Süße Saat Der Tränen: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "casale_monferrato_italy",
-            "Pubdate": "2000",
-            "Publisher": "Piemme",
-            "Title": "Amabelle Della Canna da Zucchero",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "casale_monferrato_italy",
-            "Pubdate": "2000",
-            "Publisher": "Piemme",
-            "Title": "Amabelle Della Canna da Zucchero",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "casale_monferrato_italy",
-            "Pubdate": "1999",
-            "Publisher": "Piemme",
-            "Title": "Amabelle Della Canna da Zucchero",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Italian",
-            "Pub_id": "casale_monferrato_italy",
-            "Pubdate": "1999",
-            "Publisher": "Piemme",
-            "Title": "Amabelle Della Canna da Zucchero",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Norwegian",
-            "Pub_id": "oslo_norway",
-            "Pubdate": "1999",
-            "Publisher": "Pax Forlag",
-            "Title": "Ved Elven Massacre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Norwegian",
-            "Pub_id": "oslo_norway",
-            "Pubdate": "1999",
-            "Publisher": "Pax Forlag",
-            "Title": "Ved Elven Massacre",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires",
-            "Pubdate": "1999",
-            "Publisher": "Grupo Editorial Norma",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires",
-            "Pubdate": "1999",
-            "Publisher": "Grupo Editorial Norma",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "Cosecha de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hebrew",
-            "Pub_id": "tel_aviv_israel",
-            "Pubdate": "2000",
-            "Publisher": "Kinneret",
-            "Title": "Ḳene Ha-Sukar Ha-Marim",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hebrew",
-            "Pub_id": "tel_aviv_israel",
-            "Pubdate": "2000",
-            "Publisher": "Kinneret",
-            "Title": "Ḳene Ha-Sukar Ha-Marim",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Éditions Grasset et Fasquelle",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2001",
-            "Publisher": "Éditions Grasset et Fasquelle",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2000",
-            "Publisher": "France Loisirs",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2000",
-            "Publisher": "France Loisirs",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "m√ºnchen_germany",
-            "Pubdate": "2000",
-            "Publisher": "Deutscher Taschenbuch-Verlag",
-            "Title": "Die Süße Saat Der Tränen: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "m√ºnchen_germany",
-            "Pubdate": "2000",
-            "Publisher": "Deutscher Taschenbuch-Verlag",
-            "Title": "Die Süße Saat Der Tränen: Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "El Cultivo de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "",
-            "Pubdate": "2000",
-            "Publisher": "Lumen",
-            "Title": "El Cultivo de Huesos",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1998",
-            "Publisher": "Soho Press",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1998",
-            "Publisher": "Soho Press",
-            "Title": "The Farming of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hungarian",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2000",
-            "Publisher": "Európa",
-            "Title": "Vér Ès Cukornád",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hungarian",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2000",
-            "Publisher": "Európa",
-            "Title": "Vér Ès Cukornád",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1999",
-            "Publisher": "Grasset",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1999",
-            "Publisher": "Grasset",
-            "Title": "La Récolte Douce des Larmes",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Japanese",
-            "Pub_id": "",
-            "Pubdate": "2011",
-            "Publisher": "Sakuhinsha",
-            "Title": "Honegari no Toki",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Japanese",
-            "Pub_id": "",
-            "Pubdate": "2011",
-            "Publisher": "Sakuhinsha",
-            "Title": "Honegari no Toki",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Swedish",
-            "Pub_id": "stockholm_sweden",
-            "Pubdate": "2020",
-            "Publisher": "Bokförlaget Tranan",
-            "Title": "Att Skörda Ben",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Swedish",
-            "Pub_id": "stockholm_sweden",
-            "Pubdate": "2020",
-            "Publisher": "Bokförlaget Tranan",
-            "Title": "Att Skörda Ben",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Finnish",
-            "Pub_id": "jyvaãàskylaãà_finland",
-            "Pubdate": "2000",
-            "Publisher": "Gummerus",
-            "Title": "Veressä Viljava Maa",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Finnish",
-            "Pub_id": "jyvaãàskylaãà_finland",
-            "Pubdate": "2000",
-            "Publisher": "Gummerus",
-            "Title": "Veressä Viljava Maa",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hebrew",
-            "Pub_id": "tel_aviv_israel",
-            "Pubdate": "2000",
-            "Publisher": "Kinneret",
-            "Title": "Kene Ha-sukar Ha-marim",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edwidge Danticat",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Hebrew",
-            "Pub_id": "tel_aviv_israel",
-            "Pubdate": "2000",
-            "Publisher": "Kinneret",
-            "Title": "Kene Ha-sukar Ha-marim",
-            "Translation": "y"
         }
     ],
     "eedugyan": [
@@ -10569,8 +9661,8 @@
             "Language": "English",
             "Pub_id": "new_orleans_la_united¬†states",
             "Pubdate": "2006",
-            "Publisher": "Peepal Tree Press ",
-            "Title": "Leaves in a River ",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Leaves in a River",
             "Translation": "n"
         },
         {
@@ -10580,8 +9672,8 @@
             "Language": "English",
             "Pub_id": "new_orleans_la_united¬†states",
             "Pubdate": "2006",
-            "Publisher": "Peepal Tree Press ",
-            "Title": "Leaves in a River ",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Leaves in a River",
             "Translation": "n"
         }
     ],
@@ -16368,6 +15460,30 @@
             "Pubdate": "1956",
             "Publisher": "The Clarion Newspaper",
             "Title": "“Hubert & Dora”, By “Jamsie”, Published In The Clarion Newspaper, Port Of Spain, Compiled By Lise Winer",
+            "Translation": "n"
+        }
+    ],
+    "jarcollazo": [
+        {
+            "Author": "Jose? Antonio Ramos Collazo",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "san_juan_puerto_rico",
+            "Pubdate": "2009",
+            "Publisher": "University of Puerto Rico",
+            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jose? Antonio Ramos Collazo",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "san_juan_puerto_rico",
+            "Pubdate": "2009",
+            "Publisher": "University of Puerto Rico",
+            "Title": "La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes",
             "Translation": "n"
         }
     ],
@@ -30483,30 +29599,6 @@
             "Translation": "n"
         }
     ],
-    "rdepestre": [
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "Akashic Books",
-            "Title": "Hadriana in All My Dreams",
-            "Translation": "y"
-        },
-        {
-            "Author": "Rene Depestre",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "brooklyn_ny_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "Akashic Books",
-            "Title": "Hadriana in All My Dreams",
-            "Translation": "y"
-        }
-    ],
     "rdorsinville": [
         {
             "Author": "Roger Dorsinville",
@@ -30528,6 +29620,30 @@
             "Pubdate": "2000",
             "Publisher": "Edwin Mellen Press",
             "Title": "The Rule of Francois (\"Papa Doc\") Duvalier in Two Novels By Roger Dorsinville: Realism and Magic Realism in Haiti",
+            "Translation": "y"
+        }
+    ],
+    "rdépestre": [
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_united¬†states",
+            "Pubdate": "2017",
+            "Publisher": "Akashic Books",
+            "Title": "Hadriana in All My Dreams",
+            "Translation": "y"
+        },
+        {
+            "Author": "René Dépestre",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "brooklyn_ny_united¬†states",
+            "Pubdate": "2017",
+            "Publisher": "Akashic Books",
+            "Title": "Hadriana in All My Dreams",
             "Translation": "y"
         }
     ],
@@ -31554,7 +30670,7 @@
     "ssbart": [
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nBray, Barbara",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
@@ -31565,7 +30681,7 @@
         },
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nBray, Barbara",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
@@ -31576,7 +30692,7 @@
         },
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nThe Bridge of Beyond",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "bristol_england",
@@ -31587,7 +30703,7 @@
         },
         {
             "Author": "Simone Schwarz-Bart",
-            "Descriptor": "",
+            "Descriptor": "1972\nThe Bridge of Beyond",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "bristol_england",

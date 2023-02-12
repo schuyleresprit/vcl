@@ -12,7 +12,7 @@ permalink: /awilentz/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">B. 1954</p></div>
+            <div class="date right"><p class="right">b. 1954</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -25,7 +25,7 @@ permalink: /awilentz/
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Farewell, Fred Voodoo: A Letter From Haiti</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41o9lK3l7ML._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,3 +36,5 @@ permalink: /awilentz/
                 Length: 352<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

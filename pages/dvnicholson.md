@@ -25,7 +25,7 @@ permalink: /dvnicholson/
         <div class="block">
             <div class="date left"><p class="left">1983</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Story Of The Arawaks In Antigua & Barbuda And Barbuda</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=s5JsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73jVcuHkAm5Fg1KDU5mF5z8ecPY3sm7W-kP1NSUtp7jN359d7pf1Dulj5tA_GByqeVRKQ7OuARlzHDgE1eNdKaXSVAbncwuXOmYd9nhW5dMkH0o-B4r3PMtpz_lhFwpFDrsUf4b" ></p>
                 <p>
@@ -37,5 +37,5 @@ permalink: /dvnicholson/
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

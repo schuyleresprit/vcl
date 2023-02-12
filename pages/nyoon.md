@@ -24,7 +24,7 @@ permalink: /nyoon/
         <div class="block">
             <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Du neben Mir Und Zwischen Uns Die Ganze Welt: Ungekürzte Lesung</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61UIcEALBWL._SX492_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /nyoon/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Ni Shi Wo Yi Qie De Yi Qie: Yu Ni Xiang Yu,Jiu Shi Wo Zui Zhi De De Mao Xian</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /nyoon/
        <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Everything, Everything</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRcpCSB1WQZTUZpr4ANW8TAMFOINSLmtfR9c1J84uD5o-NEXK-"></p>
                 <p>
@@ -64,9 +64,9 @@ permalink: /nyoon/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>O Sol Também eE Uma Estrela</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51+TQ0ybrmL._SX347_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -80,7 +80,7 @@ permalink: /nyoon/
 <div class="block">
             <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Ein Einziger Tag Für Die Liebe</h1><hr>
                 <p><img src="https://images.thalia.media/00/-/d2a46e0fecdc402594de9bef9b51262b/ein-einziger-tag-fuer-die-liebe-taschenbuch-nicola-yoon.jpeg"></p>
                 <p>
@@ -92,9 +92,9 @@ permalink: /nyoon/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Hamah Chiz, Hamah Chiz</h1><hr>
                 <p><img src="https://cdn3.bibliotek.boras.se/covers/200x300/57d6159e-13e4-4347-afbe-a9ed00782224/hamah-chiz-hamah-chiz"></p>
                 <p>
@@ -108,7 +108,7 @@ permalink: /nyoon/
        <div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Khurshid Hanuz Yik Sitarah Ast</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502518349l/36005408.jpg"></p>
                 <p>
@@ -120,9 +120,9 @@ permalink: /nyoon/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Mon Etoile Solaire</h1><hr>
                 <p><img src="https://fr.web.img2.acsta.net/c_310_420/pictures/19/05/10/14/46/2443712.jpg"></p>
                 <p>
@@ -136,7 +136,7 @@ permalink: /nyoon/
       <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Nap Is Csillag</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501067288i/35830743.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -148,9 +148,9 @@ permalink: /nyoon/
             </div>
         </div>
       <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Minden, Minden</h1><hr>
                 <p><img src="https://moly.hu/system/covers/normal/covers_445503.jpg?1497526672"></p>
                 <p>
@@ -164,7 +164,7 @@ permalink: /nyoon/
        <div class="block">
             <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Todo, Todo</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51eOfCh9quL._SX324_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -176,9 +176,9 @@ permalink: /nyoon/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Instructions For Dancing</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsWIm2d-6ygkbjCkZ1leexGjkeZqrmoXYNqD-lnK3A_QGxdtt0"></p>
                 <p>
@@ -192,7 +192,7 @@ permalink: /nyoon/
        <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Dansen Voor Beginners</h1><hr>
                 <p><img src="https://media.s-bol.com/7WY4Z5vA6QQy/G5WwVl3/526x840.jpg"></p>
                 <p>
@@ -204,9 +204,9 @@ permalink: /nyoon/
             </div>
         </div>
    <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Alles Wat Je Lief Is</h1><hr>
                 <p><img src="https://media.s-bol.com/9LjGP7K7gmw4/kZjGw95/530x840.jpg"></p>
                 <p>
@@ -217,3 +217,5 @@ permalink: /nyoon/
                 Length: 320<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

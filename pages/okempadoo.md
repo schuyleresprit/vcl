@@ -25,7 +25,7 @@ permalink: /okempadoo/
         <div class="block">
             <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Buxton spice</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51mNNCX+ojL._SX333_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /okempadoo/
         <div class="block">
             <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>El árbol de los sentidos</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51BeSoMlJ0L._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /okempadoo/
         <div class="block">
             <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Tide running</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51qtzZGNTWL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -67,7 +67,7 @@ permalink: /okempadoo/
         <div class="block">
             <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>All Decent Animals</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41XWTVNhPLL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -77,3 +77,5 @@ permalink: /okempadoo/
                 Genre: Fiction<br/>
                 Length: 206 </p>
 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

@@ -25,7 +25,7 @@ permalink: /ebrodber/
        <div class="block">
             <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The People Of My Jamaican Village, 1817-1948</h1><hr>
                 <p><img src="IMAGE LINK"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /ebrodber/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2000</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Alabaster-Baby Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/317hMnWcKuL._SX318_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -51,9 +51,9 @@ permalink: /ebrodber/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2003</p></div>
+            <div class="date right"><p class="right">2003</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Standing Tall: Affirmations Of The Jamaican Male : 24 Self-Portraits</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/419Qj0YnHjL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
@@ -65,9 +65,9 @@ permalink: /ebrodber/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The World Is a High Hill: Stories About Jamaican Women</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkQUC2GN3VoAB4iSB4vOrFs-hEcWCJkt7LKjTtiG2Dh6MeTo6A"></p>
                 <p>
@@ -82,7 +82,7 @@ permalink: /ebrodber/
        <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Jane & Louisa Will Soon Come Home</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfnuDMlYivo_dgNJ6fFkHkC8MCPGSpc1WwZnTeFPVvoSlpdqWL"></p>
                 <p>
@@ -94,9 +94,9 @@ permalink: /ebrodber/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Nothing's Mat</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51g2WUzHfrL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -108,3 +108,5 @@ permalink: /ebrodber/
             </div>
         </div>
     </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

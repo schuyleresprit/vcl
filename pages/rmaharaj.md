@@ -25,7 +25,7 @@ permalink: /rmaharaj/
         <div class="block">
             <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Writer and His Wife and Other Stories</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51K0CR5X6XL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"></p>
                 <p>
@@ -37,8 +37,5 @@ permalink: /rmaharaj/
                 </p>
             </div>
         </div>
-
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

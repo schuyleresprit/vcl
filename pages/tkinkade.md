@@ -25,7 +25,7 @@ permalink: /tkinkade/
         <div class="block">
             <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Spirit of America</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/6195NZA43JL._SY473_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -41,7 +41,7 @@ permalink: /tkinkade/
         <div class="block">
             <div class="date right"><p class="right">1998</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>With Wings Like Eagles: A Devotional </h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51YPA1VJJ6L.jpg"></p>
                 <p>
@@ -55,9 +55,9 @@ permalink: /tkinkade/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1999</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Village Christmas: Personal Family Memories and Holiday Traditions</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61MBDA6H0PL._SY387_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
@@ -68,8 +68,5 @@ permalink: /tkinkade/
                 Co-author: Calvin Miller<br>
                 </p>
             </div>
-
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

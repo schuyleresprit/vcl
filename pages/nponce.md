@@ -24,7 +24,7 @@ permalink: /nponce/
         <div class="block">
             <div class="date left"><p class="left">1997</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Néo-Baroque Cubain</h1><hr>
                 <p><img src="IMAGE LINK"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /nponce/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
+            <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Leonardo Padura</h1><hr>
                 <p><img src="https://products-images.di-static.com/image/nestor-ponce-memoria-y-ficcion-en-la-noevla-de-mi-vida-de-leonardo-padura/9791035816438-475x500-1.jpg"></p>
                 <p>
@@ -49,3 +49,5 @@ permalink: /nponce/
                 Length: 182<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

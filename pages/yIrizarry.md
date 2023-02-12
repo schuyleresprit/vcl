@@ -25,7 +25,7 @@ permalink: /yIrizarry/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Doubly Troubling Narratives</h1><hr>
                 <p><img src="https://www.tandfonline.com/action/showCoverImage?doi=10.1080/ycas20.v004.i02"></p>
                 <p>Language: Spanish<br/>
@@ -37,9 +37,5 @@ permalink: /yIrizarry/
         </div>
         <div style="padding-bottom:100px;"></div>
     </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

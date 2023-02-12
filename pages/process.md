@@ -3,11 +3,15 @@ layout: pagedefault
 title: "Process"
 permalink: /process/
 ---
-<div class="page_title"><h3>The Process</h3></div>
+<div class="wordcloud">
+<img src="{{ site.baseurl }}/assets/img/bannerprocess.png"></div>
+<div>
+</div>
+<br>
+<br>
 
-__Introducing Visualizing Caribbean Literature__
 
-___Where we begin (by Dr. Schuyler Esprit)___
+__Where we Begin by Dr. Schuyler Esprit__
 
 The project began selfishly. For most of my career, I’ve been investigating literary culture in the Caribbean. As a literary historian I’ve been thinking about a question posed by the late George Lamming to whom this project is dedicated. He asked “for whom do we write?” Working on this question for more than twenty years led me to some interesting corners of the Caribbean social experience - book clubs and book tube, festivals and book fairs, newspapers and magazines, calypso and radio, school and home and church.
 

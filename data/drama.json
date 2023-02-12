@@ -781,184 +781,6 @@
             "Translation": "n"
         }
     ],
-    "ekbrathwaite": [
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2001",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "2001",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1971",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1971",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1987",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1987",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1967",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1967",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1983",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1983",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1981",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1981",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1997",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1997",
-            "Publisher": "Evans Brothers",
-            "Title": "Odale's Choice",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1993",
-            "Publisher": "Evans brothers",
-            "Title": "Odale's Choice",
-            "Translation": ""
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1993",
-            "Publisher": "Evans brothers",
-            "Title": "Odale's Choice",
-            "Translation": ""
-        }
-    ],
     "elovelace": [
         {
             "Author": "Earl Lovelace",
@@ -1095,6 +917,184 @@
             "Publisher": "Createspace Independent Publishing Platform",
             "Title": "Evelyn Dunbar And Other Comedies: Five One-Woman Plays",
             "Translation": "n"
+        }
+    ],
+    "kbrathwaite": [
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2001",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2001",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1971",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1971",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1987",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1987",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1967",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1967",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1983",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1983",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1981",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1981",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1997",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1997",
+            "Publisher": "Evans Brothers",
+            "Title": "Odale's Choice",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1993",
+            "Publisher": "Evans brothers",
+            "Title": "Odale's Choice",
+            "Translation": ""
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Drama",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1993",
+            "Publisher": "Evans brothers",
+            "Title": "Odale's Choice",
+            "Translation": ""
         }
     ],
     "mconde": [

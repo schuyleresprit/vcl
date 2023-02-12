@@ -24,7 +24,7 @@ permalink: /rmartinez/
         <div class="block">
             <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Había Una Vez : Cuentos Tradicionales Latino Americanos</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/P/0061468959.01._SCLZZZZZZZ_SX500_.jpg"></p>
  			<p> Language: Spanish <br/>
@@ -34,3 +34,5 @@ permalink: /rmartinez/
                 Length: 935 <br/>                </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

@@ -46,6 +46,3 @@ permalink: /66/
         </div>
       </div>
     </div>
-
-
-<!-- partial -->

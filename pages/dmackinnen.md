@@ -25,7 +25,7 @@ permalink: /dmackinnen/
         <div class="block">
             <div class="date left"><p class="left">1804</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Tour Through the British West Indies in the Years 1802 and 1803 Giving a Particular Account of the Bahama Islands</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31F5DrwRb9L._AC_SY780_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -36,6 +36,6 @@ permalink: /dmackinnen/
                 Length: 290</p>
             </div>
         </div>
-        <div id="footer">
-    </div>
 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

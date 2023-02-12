@@ -25,7 +25,7 @@ permalink: /enunez/
         <div class="block">
             <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Beyond The Limbo Silence</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/5187chLHAEL._SX332_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /enunez/
        <div class="block">
             <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Discretion</h1><hr>
                 <p><img src="https://d1ldy8a769gy68.cloudfront.net/300/034/544/731/034544731X.jpg"></p>
                 <p>
@@ -51,9 +51,9 @@ permalink: /enunez/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2006</p></div>
+            <div class="date right"><p class="right">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Prospero's Daughter</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51xYJxBsquL.jpg"></p>
                 <p>
@@ -67,7 +67,7 @@ permalink: /enunez/
        <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Stories From Blue Latitudes: Caribbean Women Writers At Home And Abroad</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8xmZQp2dpojS5O5Ro0PkjQPPo1nK6qcN4nq8b-oawrH2oVze2"></p>
                 <p>
@@ -79,9 +79,9 @@ permalink: /enunez/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Not For Everyday Use: A Memoir</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ViZBHnUDL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
@@ -95,7 +95,7 @@ permalink: /enunez/
        <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Even In Paradise</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51JTEGBqj+L._SY344_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -107,9 +107,9 @@ permalink: /enunez/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2022</p></div>
+            <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Now Lila Knows</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41YwtwUci1L._SX316_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -120,3 +120,5 @@ permalink: /enunez/
                 Length: 256<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

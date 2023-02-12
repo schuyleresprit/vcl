@@ -25,7 +25,7 @@ permalink: /ejones/
         <div class="block">
             <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Tales Of The Caribbean: Witches And Duppies</h1><hr>
                 <p><img src="https://nationalbookswap.com/pbs/l/53/8453/9780772518453.jpg" ></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /ejones/
         <div class="block">
             <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Tales Of The Caribbean: The Beginning Of Things</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394344372i/21061162.jpg"></p>
                 <p>
@@ -51,7 +51,7 @@ permalink: /ejones/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1986</p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Tales Of The Caribbean: Anansi Stories</h1><hr>
@@ -65,7 +65,7 @@ permalink: /ejones/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1994</p></div>
+            <div class="date right"><p class="right">1994</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Skylarking</h1><hr>
@@ -79,7 +79,7 @@ permalink: /ejones/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1998</p></div>
+            <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Stone Haven</h1><hr>
@@ -93,7 +93,7 @@ permalink: /ejones/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Alonso And The Drug Baron</h1><hr>
@@ -107,5 +107,5 @@ permalink: /ejones/
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

@@ -25,7 +25,7 @@ permalink: /mzolivella/
         <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Changó, A New World Novel: Decolonizing The African Diaspora</h1><hr>
                 <p><img src="https://images.routledge.com/common/jackets/crclarge/978036775/9780367756543.jpg"></p>
                 <p>
@@ -37,7 +37,5 @@ permalink: /mzolivella/
                 </p>
             </div>
         </div>
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

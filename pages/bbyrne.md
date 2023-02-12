@@ -12,7 +12,7 @@ permalink: /bbyrne/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1861 - 1936 </p></div>
+            <div class="date right"><p class="right">1861 - 1936</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -25,7 +25,7 @@ permalink: /bbyrne/
         <div class="block">
             <div class="date left"><p class="left">1903</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Poemas</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/31ZWCpGloAL._SX352_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -36,6 +36,6 @@ permalink: /bbyrne/
                 Length: 56</p>
             </div>
           </div>
-        <div id="footer">
-    </div>
 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

@@ -25,7 +25,7 @@ permalink: /pvvastey/
         <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Notes à M. le baron de V. P. Malouet,... en réfutation du 4e volume de son ouvrage intitulé: Collection de Mémoires Sur Les Colonies, Et Particulièrement Sur Saint-Domingue, Etc.</h1><hr>
                 <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/6f/0c/99/10030191/1540-1/tsp20220817062658/Notes-a-M-le-baron-de-V-P-Malouet-en-refutation-du-4e-volume-de-son-ouvrage-intitule.jpg"></p>
                 <p>
@@ -74,12 +74,7 @@ permalink: /pvvastey/
                 Length: 29</p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

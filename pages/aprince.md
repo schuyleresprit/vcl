@@ -12,7 +12,7 @@ permalink: /aprince/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">B. 1945</p></div>
+            <div class="date right"><p class="right">b. 1945</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -25,7 +25,7 @@ permalink: /aprince/
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>In The Black: New African Canadian Literature</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmNFPp4YdCzKdOlccQt_v4UVbSKyo1OsKjPLHWDO1-AyXSUrK9"></p>
                 <p>
@@ -36,3 +36,5 @@ permalink: /aprince/
                 Length: 226<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

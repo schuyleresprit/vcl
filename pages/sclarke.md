@@ -25,7 +25,7 @@ permalink: /sclarke/
         <div class="block">
             <div class="date left"><p class="left">1973</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Sun Song</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /sclarke/
         <div class="block">
             <div class="date right"><p class="right">1978</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>New Planet: Anthology of Modern Caribbean Writing</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /sclarke/
         <div class="block">
             <div class="date left"><p class="left hide">1980</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Jah Music: The Evolution of the Popular Jamaican Son</h1><hr>
                 <p><img src="https://soundsoftheuniverse.com/img/QzZlR0xxN1ZvRFlzTnRIbW1ySDlUdz09/the-evolution-of-the-popular-jamaican-song-1983-by-sebastian-clarke-jah-music.jpg"></p>
                 <p>Language: English<br>
@@ -67,7 +67,7 @@ permalink: /sclarke/
         </div><div class="block">
             <div class="date right"><p class="right hide">1985</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Tones & Colours</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br>
@@ -80,7 +80,7 @@ permalink: /sclarke/
         <div class="block">
             <div class="date left"><p class="left hide">1987</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Colonial Legacy in Caribbean Literature</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br>
@@ -93,7 +93,7 @@ permalink: /sclarke/
         <div class="block">
             <div class="date right"><p class="right hide">1991</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The African Origin of the Major World Religions</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br>
@@ -106,7 +106,7 @@ permalink: /sclarke/
 		<div class="block">
             <div class="date left"><p class="left hide">1997</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Colonialism & the Destruction of the Mind: Psychosocial Issues of Race, Religion, & Sexuality in the Novels of Roy Heath </h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br>
@@ -119,7 +119,7 @@ permalink: /sclarke/
         <div class="block">
             <div class="date right"><p class="right hide">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Djehuty/Hermes: Foundational Philosopher In The Italian Renaissance</h1><hr>
                 <p><img src=""></p>
                 <p>Language: English<br>
@@ -129,12 +129,7 @@ permalink: /sclarke/
                 Length: 160<br></p>
             </div>
         </div>
-
         <div style="padding-bottom:100px;"></div>
     </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

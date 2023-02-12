@@ -25,7 +25,7 @@ permalink: /mdas/
         <div class="block">
             <div class="date left"><p class="left">1977</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Collection of Poems</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=PyNCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73jPjy3grpomJXzts0uEwMXKqY3f4FMH5u3PEp7Eei1ktMFFQB84iYIceLRQprNb-h6oSdmnZpIuoqOGtsxn_nMPfGR6OmUiqg5S2R1qqVj608tg20_ViobaovzU23ppLx7UaBN"></p>
                 <p>
@@ -49,4 +49,5 @@ permalink: /mdas/
                 Length: 28</p>
             </div>
         </div>
-        <div id="footer">
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

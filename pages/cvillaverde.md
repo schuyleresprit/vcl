@@ -25,7 +25,7 @@ permalink: /cvillaverde/
         <div class="block">
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>La joven de la flecha del oro</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=PpECAAAAYAAJ&pg=PA3&img=1&zoom=3&hl=en&sig=ACfU3U3aIDZdZRvEY2dBww7Q2qQS-x0skw&w=1025.jpg"></p>
                 <p>
@@ -62,8 +62,6 @@ permalink: /cvillaverde/
                 Length: 639</p>
             </div>
         </div>
-        <div id="footer">
-    </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

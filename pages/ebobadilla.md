@@ -25,7 +25,7 @@ permalink: /ebobadilla/
         <div class="block">
             <div class="date left"><p class="left">1902</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Vórtice : Poesías</h1><hr>
                 <p><img src="https://covers.openlibrary.org/b/olid/OL13510957M-M.jpg"></p>
                 <p>
@@ -52,7 +52,7 @@ permalink: /ebobadilla/
         <div class="block">
             <div class="date left"><p class="left">1921</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Rojeces De Marte (Sonetos)</h1><hr>
                 <p><img src="https://covers.openlibrary.org/b/olid/OL23337740M-M.jpg"></p>
                 <p>
@@ -79,7 +79,7 @@ permalink: /ebobadilla/
         <div class="block">
             <div class="date left"><p class="left">1962</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Seleccion de poemas</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41TU6TrSyXL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -106,7 +106,7 @@ permalink: /ebobadilla/
         <div class="block">
             <div class="date left"><p class="left">1964</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Critica y satira</h1><hr>
                 <p><img src="https://d3525k1ryd2155.cloudfront.net/h/844/137/1343137844.0.x.jpg"></p>
                 <p>
@@ -117,8 +117,6 @@ permalink: /ebobadilla/
                 Length: 371</p>
             </div>
         </div>
-        <div id="footer">
-    </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

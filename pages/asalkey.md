@@ -12,7 +12,7 @@ permalink: /asalkey/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1928 - 1995 </p></div>
+            <div class="date right"><p class="right">1928 - 1995</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -25,7 +25,7 @@ permalink: /asalkey/
         <div class="block">
             <div class="date left"><p class="left">1960</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>West Indian Stories</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41nQOzZzsvS._SX373_BO1,204,203,200_.jpg" width = "50%" height="50%"></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /asalkey/
         <div class="block">
             <div class="date right"><p class="right">1960</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Escape To An Autumn Pavement</h1><hr>
                 <p><img src="https://ichef.bbci.co.uk/images/ic/1200x675/p09mtk9t.jpg" width = "50%" height="50%"></p>
                 <p>
@@ -51,7 +51,7 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1964</p></div>
+            <div class="date left"><p class="left">1964</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Hurricane</h1><hr>
@@ -65,7 +65,7 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1965</p></div>
+            <div class="date right"><p class="right">1965</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Stories From The Caribbean: An Anthology</h1><hr>
@@ -79,7 +79,7 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1965</p></div>
+            <div class="date left"><p class="left">1965</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Earthquake</h1><hr>
@@ -93,7 +93,7 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1966</p></div>
+            <div class="date right"><p class="right">1966</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Drought</h1><hr>
@@ -107,7 +107,7 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1966</p></div>
+            <div class="date left"><p class="left">1966</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Shark Hunters</h1><hr>
@@ -122,9 +122,9 @@ permalink: /asalkey/
             </div>
         </div>
      <div class="block">
-            <div class="date left"><p class="left hide">1967</p></div>
+            <div class="date right"><p class="right">1967</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Riot</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=y4wRAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70c5i3SMH_QgE8D15RLuTTu_AGoZcyPTN6B5L2xA8OtPTYTr17HFMQtUBzgBY2g579Tr4xTxN49RBBWABzqVMkNCoWROGNs8H6by_JYs1wJheLRx5Dd8mB6cls2IcwEp0KAIsRZ"
                 width = "50%" height="50%" ></p>
@@ -137,9 +137,9 @@ permalink: /asalkey/
             </div>
         </div>
             <div class="block">
-            <div class="date right"><p class="right hide">1968</p></div>
+            <div class="date left"><p class="left">1968</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Late Emancipation Of Jerry Stover</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=_8NyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70H6OzXvztZucj02CX9dvL1pszwTnrmv-la-j9fbxMtLqwS56y3ji6jAYT1Uw77VItahPO3GV1D91uIk7WFRIQmUHc3Uvzf2YgJjP_6gxy6-mE7r_8C9FU4LsAk2fzhMqMxCINJ" width = "50%" height="50%" ></p>
                 <p>
@@ -151,9 +151,9 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1969</p></div>
+            <div class="date right"><p class="right">1969</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Jonah Simpson</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=eMI8AAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70D2SJ7l07SjHYTvHFyn2AVLphTzbJrsUM8emQxB9j3hUmlKAJP6ef6BYi1jYVrfcsnh3A0nK6R89zFGfSL_G7hBYlwmkyhIyoJZmzEWE2z7ULegowcSvY_t-W5_OfBM5KXUTVx"
                 width = "50%" height="50%" ></p>
@@ -166,9 +166,9 @@ permalink: /asalkey/
             </div>
         </div>
          <div class="block">
-            <div class="date right"><p class="right hide">1969</p></div>
+            <div class="date left"><p class="left">1969</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Adventures Of Catullus Kelly</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/414hG7PkOKL._SX331_BO1,204,203,200_.jpg" width = "50%" height="50%" ></p>
                 <p>
@@ -180,9 +180,9 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1970</p></div>
+            <div class="date right"><p class="right">1970</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Orkanen</h1><hr>
                 <p><img src="https://billeder.dba.dk/dba/4a91712a-abf2-4cd1-8c60-97e2417ba447.jpeg?class=S960X960" width = "50%" height="50%" ></p>
                 <p>
@@ -195,7 +195,7 @@ permalink: /asalkey/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left hide">1970</p></div>
+            <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Island: Stories From The West Indies</h1><hr>
@@ -210,7 +210,7 @@ permalink: /asalkey/
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="right hide">1971</p></div>
+            <div class="date right"><p class="right">1971</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Havana Journal</h1><hr>
@@ -224,9 +224,9 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1971</p></div>
+            <div class="date left"><p class="left">1971</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Breaklight: An Anthology Of Caribbean Poetry</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529623750l/2920271._SY475_.jpg" width = "50%" height="50%" ></p>
                 <p>
@@ -238,9 +238,9 @@ permalink: /asalkey/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1986</p></div>
+            <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Anancy And Andrew Salkey</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41omwjenR8L._AC_SY780_.jpg" width = "50%" height="50%" ></p>
                 <p>
@@ -250,3 +250,5 @@ permalink: /asalkey/
                 Length:221 <br/>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

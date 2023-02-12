@@ -10,9 +10,7 @@ author:
 logo: '/assets/img/CreateLogo.png'
 
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Visualizing Caribbean Literature is an interactive database of more than 3,000 literary works about the Caribbean experience or by writers identifying as Caribbean people. The database inlcudes authors and titles that represents the diversity of the body of work that is Caribbean literature. 
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

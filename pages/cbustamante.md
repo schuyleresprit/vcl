@@ -25,7 +25,7 @@ permalink: /cbustamante/
         <div class="block">
             <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>El Nombre de las Cosas Poesía</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=FCpCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73__bEyRLcZFaCzVKGiNrIAPbScqRZYUrxSvvG5UZZ3KWqhHmCArmWifIOVqJ8DCZBZi60jZ5D6-HzHVEuMMaoQzCDwbHf1HJQKjHz2Luc7HpCtFwA8AAmhQDVRmPjMNPReLGxl.jpg"></p>
                 <p>
@@ -36,6 +36,6 @@ permalink: /cbustamante/
                 Length: 78</p>
             </div>
         </div>
-        <div id="footer">
-    </div>
 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

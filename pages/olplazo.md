@@ -24,7 +24,7 @@ permalink: /olplazo/
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Cuba In Splinters: Eleven Stories From The New Cuba</h1><hr>
                 <p><img src="https://www.orbooks.com/wp-content/uploads/2014/02/CubaInSplinters_CVR_3D_021414smaller.jpg"></p>
                 <p>
@@ -35,3 +35,5 @@ permalink: /olplazo/
                 Length: 224<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

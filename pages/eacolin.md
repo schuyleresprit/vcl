@@ -25,7 +25,7 @@ permalink: /eacolin/
         <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Dream Keeper's Daughter</h1><hr>
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4wPTP0IvTUXcHJBg71p_sQODzVeQs9NxJNfMu4s0emx1Q80-"></p>
                 <p>
@@ -37,3 +37,5 @@ permalink: /eacolin/
                 </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

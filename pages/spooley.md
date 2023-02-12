@@ -24,7 +24,7 @@ permalink: /spooley/
         <div class="block">
             <div class="date left"><p class="left">1997</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Jump The World: Stories, Poems, and Things To Make And Do From Around The World</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31TV97G2MPL._BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -35,3 +35,5 @@ permalink: /spooley/
                 Length: 80<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

@@ -156,9 +156,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1998</p></div>
+            <div class="date right"><p class="right">1998</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>El hilo del ovillo</h1><hr>
                 <p><img src="https://www.ecured.cu/images/0/01/El_Hilo_del_Ovillo.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -169,9 +169,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Trastiendas: Entre Domingo y Lacay</h1><hr>
                 <p><img src="https://books.google.com/books/content?id=kZUfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72-vkN9JRjocdCCXiwXZYVVrxRLZPnDZ3ooHR2ys20puUbmopRRMBjOwAdeA2jWCpmNLuunroiSkkvRUcHR40XjibuTXrKc1vzOgRoD5Zix9TLCvU-mQMNzkSArsL6dSet8-H4n"></p>
                 <p>Language: Spanish<br/>
@@ -181,5 +181,5 @@ permalink: /mcollazo/
                 Length: 151</p>
             </div>
         </div>
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

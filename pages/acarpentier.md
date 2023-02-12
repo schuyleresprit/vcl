@@ -12,7 +12,7 @@ permalink: /acarpentier/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1904 - 1980 </p></div>
+            <div class="date right"><p class="right">1904 - 1980</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -66,7 +66,6 @@ permalink: /acarpentier/
                 Length: 150 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1958</p></div>
             <div class="dot"></div>
@@ -82,7 +81,6 @@ permalink: /acarpentier/
                 Length: 208 <br/>                 </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
@@ -98,7 +96,6 @@ permalink: /acarpentier/
                 Length: 351 <br/>                  </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date right"><p class="right hide">1970</p></div>
             <div class="dot"></div>
@@ -114,7 +111,6 @@ permalink: /acarpentier/
                 Length: 191 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1970</p></div>
             <div class="dot"></div>
@@ -143,7 +139,6 @@ permalink: /acarpentier/
                 Length: 155 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1973</p></div>
             <div class="dot"></div>
@@ -172,7 +167,6 @@ permalink: /acarpentier/
                 Length: 343 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1976</p></div>
             <div class="dot"></div>
@@ -203,7 +197,6 @@ permalink: /acarpentier/
                 Length: 391 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1979</p></div>
             <div class="dot"></div>
@@ -232,7 +225,6 @@ permalink: /acarpentier/
                 Length: 218 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1980</p></div>
             <div class="dot"></div>
@@ -261,7 +253,6 @@ permalink: /acarpentier/
                 Length: 94 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1982</p></div>
             <div class="dot"></div>
@@ -290,7 +281,6 @@ permalink: /acarpentier/
                 Length: 548 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1982</p></div>
             <div class="dot"></div>
@@ -319,7 +309,6 @@ permalink: /acarpentier/
                 Length: 548 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1986</p></div>
             <div class="dot"></div>
@@ -349,7 +338,6 @@ permalink: /acarpentier/
                 Length: 104 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1989</p></div>
             <div class="dot"></div>
@@ -380,7 +368,6 @@ permalink: /acarpentier/
                 Length: 121 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1989</p></div>
             <div class="dot"></div>
@@ -411,7 +398,6 @@ permalink: /acarpentier/
                 Length: 121 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1990</p></div>
             <div class="dot"></div>
@@ -442,7 +428,6 @@ permalink: /acarpentier/
                 Length: 121 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1990</p></div>
             <div class="dot"></div>
@@ -472,7 +457,6 @@ permalink: /acarpentier/
                 Length: 213 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1991</p></div>
             <div class="dot"></div>
@@ -502,7 +486,6 @@ permalink: /acarpentier/
                 Length: 338 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1992</p></div>
             <div class="dot"></div>
@@ -533,7 +516,6 @@ permalink: /acarpentier/
                 Length: 203 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1994</p></div>
             <div class="dot"></div>
@@ -562,7 +544,6 @@ permalink: /acarpentier/
                 Length: 135 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">1998</p></div>
             <div class="dot"></div>
@@ -592,7 +573,6 @@ permalink: /acarpentier/
                 Length: 312 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2001</p></div>
             <div class="dot"></div>
@@ -621,7 +601,6 @@ permalink: /acarpentier/
                 Length: 60 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2004</p></div>
             <div class="dot"></div>
@@ -650,7 +629,6 @@ permalink: /acarpentier/
                 Length: 227 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2004</p></div>
             <div class="dot"></div>
@@ -679,7 +657,6 @@ permalink: /acarpentier/
                 Length: 343 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2006</p></div>
             <div class="dot"></div>
@@ -710,7 +687,6 @@ permalink: /acarpentier/
                 Length: 420 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2009</p></div>
             <div class="dot"></div>
@@ -739,7 +715,6 @@ permalink: /acarpentier/
                 Length: 384 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2013</p></div>
             <div class="dot"></div>
@@ -770,7 +745,6 @@ permalink: /acarpentier/
                 Length: 283 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2014</p></div>
             <div class="dot"></div>
@@ -799,7 +773,6 @@ permalink: /acarpentier/
                 Length: 736 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2017</p></div>
             <div class="dot"></div>
@@ -829,7 +802,6 @@ permalink: /acarpentier/
                 Length: 301 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2018</p></div>
             <div class="dot"></div>
@@ -858,7 +830,6 @@ permalink: /acarpentier/
                 Length: 85 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2018</p></div>
             <div class="dot"></div>
@@ -888,7 +859,6 @@ permalink: /acarpentier/
                 Length: 168 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2020</p></div>
             <div class="dot"></div>
@@ -918,7 +888,6 @@ permalink: /acarpentier/
                 Length: 364 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2020</p></div>
             <div class="dot"></div>
@@ -947,7 +916,6 @@ permalink: /acarpentier/
                 Length: 352 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2021</p></div>
             <div class="dot"></div>
@@ -962,7 +930,6 @@ permalink: /acarpentier/
                 Length: 189 <br/>                      </p>
             </div>
         </div>
-
       <div class="block">
             <div class="date right"><p class="right hide">2021</p></div>
             <div class="dot"></div>
@@ -977,7 +944,6 @@ permalink: /acarpentier/
                 Length: 137 <br/>                    </p>
             </div>
         </div>
-
         <div class="block">
             <div class="date left"><p class="left hide">2021</p></div>
             <div class="dot"></div>
@@ -992,8 +958,6 @@ permalink: /acarpentier/
                 Length: 563 <br/>                      </p>
             </div>
         </div>
-
-
       <div class="block">
             <div class="date right"><p class="right hide">2021</p></div>
             <div class="dot"></div>
@@ -1008,8 +972,7 @@ permalink: /acarpentier/
                 Length: 306 <br/>                    </p>
             </div>
         </div>
-
-        <div class="block">
+       <div class="block">
             <div class="date left"><p class="left hide">2021</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -1024,5 +987,5 @@ permalink: /acarpentier/
             </div>
         </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

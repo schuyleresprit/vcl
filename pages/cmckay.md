@@ -26,7 +26,7 @@ permalink: /cmckay/
         <div class="block">
             <div class="date left"><p class="left">1922</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Harlem Shadows: Poems</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=RakIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73MXXKj1qgojKd0n9_ftrHwA5KePqEtYOF5Q7Mhk2uLIm4cInYKFi5SJ0ynJkLee7GQetzj-B4Odvu2dAJRCmS9acpI0NFCiUztTcla02R7TGHhgY3OBSGtjavZg9DtNr25IP7h" height="50%" width = "50%"></p>
                 <p>
@@ -41,7 +41,7 @@ permalink: /cmckay/
         <div class="block">
             <div class="date right"><p class="right">1928</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Home To Harlem</h1><hr>
                 <p><img src="https://sites.utexas.edu/ransomcentermagazine/files/2010/02/ps_3525_a2_01.tif_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -54,7 +54,7 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1929</p></div>
+            <div class="date left"><p class="left">1929</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Domoi Y Garlem</h1><hr>
@@ -70,7 +70,7 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1930</p></div>
+            <div class="date right"><p class="right">1930</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ritorno Ad Harlem</h1><hr>
@@ -85,7 +85,7 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1931</p></div>
+            <div class="date left"><p class="left">1931</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cock-Tail Negro</h1><hr>
@@ -100,7 +100,7 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1932</p></div>
+            <div class="date right"><p class="right">1932</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Quartier Noir</h1><hr>
@@ -116,7 +116,7 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1933</p></div>
+            <div class="date left"><p class="left">1933</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
@@ -131,7 +131,7 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1934</p></div>
+            <div class="date right"><p class="right">1934</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Fond de banane</h1><hr>
@@ -147,7 +147,7 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1937</p></div>
+            <div class="date left"><p class="left">1937</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Long Way From Home</h1><hr>
@@ -162,9 +162,9 @@ permalink: /cmckay/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left hide">2015</p></div>
+            <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Banjo: Une Histoire Sans Intrigue</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/4149pCDU2CL._SX340_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -178,9 +178,9 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Amiable With Big Teeth</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+3972118156_140.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -193,9 +193,9 @@ permalink: /cmckay/
             </div>
         </div>
      <div class="block">
-            <div class="date left"><p class="left hide">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Romantica Marsiglia</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41rBk5d187L.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -209,9 +209,9 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Romance In Marseille</h1><hr>
                 <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTfBhXDIWvwYXNjtE01jMOev3fG8uKgOJZoUqpYEf36-ZmAKZX" height="50%" width = "50%"></p>
                 <p>
@@ -224,9 +224,9 @@ permalink: /cmckay/
             </div>
         </div>
      <div class="block">
-            <div class="date left"><p class="left hide">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Harlem Shadows</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51X+M4j5gkS._SX346_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -239,9 +239,9 @@ permalink: /cmckay/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Songs Of Jamaica</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+0757858076_140.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -254,9 +254,9 @@ permalink: /cmckay/
             </div>
         </div>
    <div class="block">
-            <div class="date left"><p class="left hide">2022</p></div>
+            <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>If We Must Die: The Essential Claude Mckay</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/31HMJfoNUGL._SX348_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -269,3 +269,5 @@ permalink: /cmckay/
             </div>
         </div>
 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

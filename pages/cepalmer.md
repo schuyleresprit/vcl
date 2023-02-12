@@ -25,7 +25,7 @@ permalink: /cepalmer/
         <div class="block">
             <div class="date left"><p class="left">1962</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Adventures Of Jimmy Maxwell</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" ></p>
                 <p>
@@ -39,7 +39,7 @@ permalink: /cepalmer/
         <div class="block">
             <div class="date right"><p class="right">1963</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>A Taste Of Danger</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
@@ -51,7 +51,7 @@ permalink: /cepalmer/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1966</p></div>
+            <div class="date left"><p class="left">1966</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Cloud With The Silver Lining</h1><hr>
@@ -65,7 +65,7 @@ permalink: /cepalmer/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">1968</p></div>
+            <div class="date right"><p class="right">1968</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Big Doc Bitteroot</h1><hr>
@@ -79,7 +79,7 @@ permalink: /cepalmer/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1970</p></div>
+            <div class="date left"><p class="left">1970</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Sun Salutes You</h1><hr>
@@ -93,3 +93,5 @@ permalink: /cepalmer/
             </div>
         </div>
 </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

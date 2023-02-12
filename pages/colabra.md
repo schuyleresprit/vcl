@@ -25,7 +25,7 @@ permalink: /colabra/
         <div class="block">
             <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Sombra Sere Que No Dama: Antologia Poetica</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=QWTmAAAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73FC9gT1Y7H3-DPbrgapZG3JjnGqgoI6dzZg5H8h0cn2H4AjCN-K4Z327zBwElcc7VoYr5_6ePYa_-aMgLIvsMO3OPZdTFw8EUIe_RyJ7XJmzD-Ebc2y3P8RKZJ4Q4EfJHCyZfO"></p>
                 <p>
@@ -36,3 +36,5 @@ permalink: /colabra/
                 Length: 62<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

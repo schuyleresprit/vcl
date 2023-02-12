@@ -25,7 +25,7 @@ permalink: /rarenas/
         <div class="block">
             <div class="date left"><p class="left">1971</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Hallucinations: Being an Account of the Life and Adventures of Fray Servando</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=NAELAQAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71U4YxJQ3o5OXSER9Dghb0Eby88GRJ8Ix-s9HNAjyf6WnoPBeh0N235sc9EVqRCvYzLlYiCG-eVnmB8-qSXzaaGu4Qw2ULt4RF-f1LpbNBNLlPMRecCsLUgC6wgx-PJ67Nl40_S"></p>
                 <p>Language: English <br/>
@@ -1015,9 +1015,5 @@ permalink: /rarenas/
         </div>
         <div style="padding-bottom:100px;"></div>
     </div>
-    <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

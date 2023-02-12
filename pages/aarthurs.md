@@ -12,7 +12,7 @@ permalink: /aarthurs/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> </p></div>
+            <div class="date right"><p class="right">b. Unknown</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -25,7 +25,7 @@ permalink: /aarthurs/
         <div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>How To Love a Jamaican: Stories</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61s1oqcESuL.jpg"></p>
                 <p>
@@ -37,5 +37,5 @@ permalink: /aarthurs/
             </div>
         </div>
         </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

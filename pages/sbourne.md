@@ -23,9 +23,9 @@ permalink: /sbourne/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2014</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Josephine Against the Sea</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51YROnWWOFL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -38,9 +38,9 @@ permalink: /sbourne/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Senseisha: Memoirs of the Caribbean Woman</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/514DvIy8hsL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -53,9 +53,9 @@ permalink: /sbourne/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>My Fishy Stepmom</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51iH8SEolYL._SX316_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -68,9 +68,9 @@ permalink: /sbourne/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Allies: Real Talk About Showing Up, Screwing Up, And Trying Again</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51l2hRbJeYL._SX330_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -82,7 +82,5 @@ permalink: /sbourne/
                 </p>
             </div>
         </div>
-
-        </div>
-        <!-- partial -->
-          <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

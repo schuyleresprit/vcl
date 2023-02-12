@@ -25,7 +25,7 @@ permalink: /mthelwell/
         <div class="block">
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Harder They Come</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408639788l/23006483.jpg"></p>
                 <p>
@@ -38,9 +38,9 @@ permalink: /mthelwell/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Harder They Come</h1><hr>
                 <p><img src="https://images.gr-assets.com/authors/1382538956p8/474878.jpg"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /mthelwell/
         <div class="block">
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Nine Night Version: Excerpted By The Massachusetts Review From The Harder they Come</h1><hr>
                 <p><img src="https://images.gr-assets.com/authors/1382538956p8/474878.jpg"></p>
                 <p>
@@ -68,9 +68,9 @@ permalink: /mthelwell/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1984</p></div>
+            <div class="date right"><p class="right">1984</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Jamaica-Kid</h1><hr>
                 <p><img src="https://ia903400.us.archive.org/BookReader/BookReaderPreview.php?id=jamaicakidharder0000thel&subPrefix=jamaicakidharder0000thel&itemPath=/17/items/jamaicakidharder0000thel&server=ia903400.us.archive.org&page=leaf1&fail=preview&&scale=8&rotate=0"></p>
                 <p>
@@ -86,7 +86,7 @@ permalink: /mthelwell/
         <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Duties, Pleasures, and Conflicts:  Essays in Struggle</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348317924l/1137426.jpg"></p>
                 <p>
@@ -98,8 +98,5 @@ permalink: /mthelwell/
                 </p>
             </div>
         </div>
-
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>           
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

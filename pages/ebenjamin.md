@@ -25,7 +25,7 @@ permalink: /ebenjamin/
         <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Anglophone Identity as Cross-Cultural Transaction: A Study of Selected Caribbean Fiction From 1970</h1><hr>
                 <p><img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/358/ErrolBenjamin_AB.pdf.jpg?sequence=4&isAllowed=y"></p>
                 <p>
@@ -37,3 +37,5 @@ permalink: /ebenjamin/
                 </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

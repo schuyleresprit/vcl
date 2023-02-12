@@ -24,7 +24,7 @@ permalink: /mroffey/
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The White Woman On The Green Bicycle</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51nKQomDerL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -36,9 +36,9 @@ permalink: /mroffey/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2022</p></div>
+            <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>The Mermaid Of Black Conch</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/516qvKt7pXL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -49,3 +49,5 @@ permalink: /mroffey/
                 Length: 187<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

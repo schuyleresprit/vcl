@@ -25,7 +25,7 @@ permalink: /dbrand/
         <div class="block">
             <div class="date left"><p class="left">1963</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>In the Castle of my Skin</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-RXrPQp4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -36,7 +36,7 @@ permalink: /dbrand/
         <div class="block">
             <div class="date right"><p class="right">1921</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -45,7 +45,7 @@ permalink: /dbrand/
         <div class="block">
             <div class="date left"><p class="left">1933</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -54,7 +54,7 @@ permalink: /dbrand/
         <div class="block">
             <div class="date right"><p class="right">1939</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -63,7 +63,7 @@ permalink: /dbrand/
         <div class="block">
             <div class="date left"><p class="left">14 March 1879 - 17 April 1955</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -72,7 +72,7 @@ permalink: /dbrand/
         <div class="block">
             <div class="date right"><p class="right">14 March 1879 - 17 April 1955</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left ">
                 <h1>Title</h1><hr>
                 <p><img src=""></p>
                 <p>Lorem ipsum...</p>
@@ -89,8 +89,6 @@ permalink: /dbrand/
         </div>
         <div style="padding-bottom:100px;"></div>
     </div>
-    <div id="footer">
-    </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

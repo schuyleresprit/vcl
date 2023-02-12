@@ -25,7 +25,7 @@ permalink: /rantoni/
         <div class="block">
             <div class="date left"><p class="left">1992</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Divina Trace</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51ZL0hOuG-L._SX332_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /rantoni/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1996</p></div>
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Conjunctions: 27, The Archipelago</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/21A35JH77RL._BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /rantoni/
        <div class="block">
             <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Blessed is the fruit</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/5138QFYVYFL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -65,9 +65,9 @@ permalink: /rantoni/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2002</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Los Cuentos Eróticos de Mi Abuela</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41kpTB82nuL._AC_SY780_.jpg"></p>
                 <p>
@@ -81,7 +81,7 @@ permalink: /rantoni/
 <div class="block">
             <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Carnaval</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41POGHvZZ8L._SX316_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -93,9 +93,9 @@ permalink: /rantoni/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Trinidad Noir</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51GO3Lk5bPL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -109,7 +109,7 @@ permalink: /rantoni/
        <div class="block">
             <div class="date left"><p class="left">BOOK DATE</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>As Flies to Whatless Boys</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51aDBtxaeAL._SX338_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -120,3 +120,5 @@ permalink: /rantoni/
                 Length: 340<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

@@ -25,7 +25,7 @@ permalink: /wbarron/
         <div class="block">
             <div class="date left"><p class="left">1927</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>One Haitian Night an Adventure of the Black Republic</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -36,8 +36,5 @@ permalink: /wbarron/
                 </p>
             </div>
         </div>
-
-
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

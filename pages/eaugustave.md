@@ -25,7 +25,7 @@ permalink: /eaugustave/
         <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Roving Tree</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/91p72iWVTBL.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /eaugustave/
         <div class="block">
             <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Autour de L'enfant noir de Camara Laye : un monde à découvrir</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41Mud8TItGL._SX307_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -52,3 +52,5 @@ permalink: /eaugustave/
                 </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

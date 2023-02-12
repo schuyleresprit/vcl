@@ -25,7 +25,7 @@ permalink: /vriley/
         <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Bittersweet Bride</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51LTF3JPZEL._SY346_.jpg"></p>
                 <p>
@@ -40,7 +40,7 @@ permalink: /vriley/
         <div class="block">
             <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Bashful Bride</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51At9l0WKjL.jpg"></p>
                 <p>
@@ -55,7 +55,7 @@ permalink: /vriley/
         <div class="block">
             <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Butterfly Bride</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51OWmfJLsjL.jpg"></p>
                 <p>Language: English<br>
@@ -68,7 +68,7 @@ permalink: /vriley/
         </div><div class="block">
             <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>The Victorian Christmas Brides Collection</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41Jwsxx5I7L._SX347_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
@@ -81,7 +81,7 @@ permalink: /vriley/
         <div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Bewildered Bride</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51mgW5q3v6L.jpg"></p>
                 <p>Language: English<br>
@@ -94,7 +94,7 @@ permalink: /vriley/
         <div class="block">
             <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>A Duke, the Lady, and a Baby</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51Q5-HRAFzL._SX330_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
@@ -107,7 +107,7 @@ permalink: /vriley/
 	<div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Brides of London</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51+bQb2WqbS._SX331_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
@@ -120,7 +120,7 @@ permalink: /vriley/
             <div class="block">
             <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>An Earl, the Girl, and a Toddler</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51M13lnjwAL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
@@ -133,7 +133,7 @@ permalink: /vriley/
             <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Island Queen: A Novel</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51kay5bL-7L._SX329_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
@@ -146,7 +146,7 @@ permalink: /vriley/
             <div class="block">
             <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Sister Mother Warrior: A Novel</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51SGVXr3U-L._SX327_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
@@ -172,7 +172,7 @@ permalink: /vriley/
             <div class="block">
             <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="left hide">
                 <h1>Murder in Westminster: A Riveting Regency Historical Mystery </h1><hr>
                 <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51o3EXn0eRL.jpg"></p>
                 <p>Language: English<br>
@@ -182,10 +182,5 @@ permalink: /vriley/
                 Length: 338<br></p>
             </div>
         </div>
-
-        <div id="footer">
-        <p id="copyright">Made by&nbsp;<strong><a href="https://www.linkedin.com/in/nicolae-stefan-tudoran-b02291127/" target="_blank">StefanTudoran</a></strong></p>
-    </div>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

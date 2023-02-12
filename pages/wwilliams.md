@@ -24,7 +24,7 @@ permalink: /wwilliams/
         <div class="block">
             <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>A Wallace Williams, Biography</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -35,3 +35,5 @@ permalink: /wwilliams/
                 Length: <br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

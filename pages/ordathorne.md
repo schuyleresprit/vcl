@@ -23,9 +23,9 @@ permalink: /ordathorne/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1966</p></div>
+            <div class="date left"><p class="left">1966</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Caribbean Narrative: An Anthology of West Indian Writing</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548022079l/532794._SY475_.jpg"></p>
                 <p>Language: English<br/>
@@ -35,5 +35,5 @@ permalink: /ordathorne/
                 Length: 256</p>
     </div>
 </div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="assets/js/authorscript.js"></script>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

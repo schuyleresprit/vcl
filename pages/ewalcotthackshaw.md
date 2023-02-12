@@ -25,7 +25,7 @@ permalink: /ewalcotthackshaw/
         <div class="block">
             <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Reinterpreting the Haitian Revolution And Its Cultural Aftershocks</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvOQEKMUQ8z-sBM1W0-Kol-rR76tGSMnQzgnXnJ2m6PvRcOg-P"></p>
                 <p>
@@ -37,9 +37,9 @@ permalink: /ewalcotthackshaw/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Echoes of the Haitian Revolution, 1804-2004</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41oWMZtLUqL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -53,7 +53,7 @@ permalink: /ewalcotthackshaw/
        <div class="block">
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Border Crossings: A Trilingual Anthology of Caribbean Women Writers</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41R+EL3ED1L._SX331_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -65,9 +65,9 @@ permalink: /ewalcotthackshaw/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Mrs. B</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51VX3OOKquL._SX327_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -81,7 +81,7 @@ permalink: /ewalcotthackshaw/
 <div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Four Taxis Facing North: Short Stories</h1><hr>
                 <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781845233471.jpg?itok=RznOXGn8"></p>
                 <p>
@@ -93,9 +93,9 @@ permalink: /ewalcotthackshaw/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>La Saison des kites</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51isXvfko+L._SY344_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -107,9 +107,9 @@ permalink: /ewalcotthackshaw/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Aimé Césaire (Caribbean Biography)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ycuh9gw2L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -123,7 +123,7 @@ permalink: /ewalcotthackshaw/
        <div class="block">
             <div class="date left"><p class="left">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Stick No Bills (short stories)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41qAAQBPa8L._SX318_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -134,3 +134,5 @@ permalink: /ewalcotthackshaw/
                 Length: 160<br/>                   </p>
             </div>
         </div>
+  <!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
