@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Greek
-permalink: /Greek/
+title: Estonian
+permalink: /Estonian/
 ---
 
 <div class="individual_language">
@@ -11,9 +11,9 @@ permalink: /Greek/
 <div class="col-sm-1">
 </div>
 <div class="col-sm-10">
-<div class="page_title"><h3>Greek</h3></div>
+<div class="page_title"><h3>Estonian</h3></div>
 
-Represented here are the authors who have written works in Greek. Some of these may be texts translated into Greek from other languages.
+Represented here are the authors who have written works in Estonian. Some of these may be texts translated into Estonian from other languages.
 
 <html>
 <body>
@@ -37,7 +37,7 @@ Represented here are the authors who have written works in Greek. Some of these 
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
-			$.getJSON("{{ site.baseurl }}/data/greek.json", function (data) {
+			$.getJSON("{{ site.baseurl }}/data/estonian.json", function (data) {
 				let cards = [];
 				for (const [key, value] of Object.entries(data)) {
 					if (filter == "" && value.length > 0) {

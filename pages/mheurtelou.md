@@ -488,9 +488,9 @@ permalink: /mheurtelou/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2012</p></div>
+            <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Wi Ou Kapab: Istwa Ti Zwazo Jenn Nan</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/81FmtDFzdKL.jpg"></p>
                 <p>Language: English<br/>
