@@ -4495,28 +4495,6 @@
             "Publisher": "Peepal Tree Press",
             "Title": "Ghosts: A Memoir",
             "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2003",
-            "Publisher": "Hodder Education",
-            "Title": "Songs of Silence",
-            "Translation": ""
-        },
-        {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "2003",
-            "Publisher": "Hodder Education",
-            "Title": "Songs of Silence",
-            "Translation": ""
         }
     ],
     "cfperkins": [
@@ -6419,52 +6397,6 @@
             "Translation": "n"
         }
     ],
-    "cuxo": [
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "Editor: Claudio Canaparo",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2021",
-            "Publisher": "Peter Lang International Academic Publishers",
-            "Title": "El genero policial en Cuba; Novela policial revolucionaria, neopolicial y teleseries - Hispanic Studies: Culture and Ideas 84",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "Editor: Claudio Canaparo",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2021",
-            "Publisher": "Peter Lang International Academic Publishers",
-            "Title": "El genero policial en Cuba; Novela policial revolucionaria, neopolicial y teleseries - Hispanic Studies: Culture and Ideas 84",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "manchester_england",
-            "Pubdate": "2006",
-            "Publisher": "Manchester Metropolitan University Press",
-            "Title": "The detective fiction of Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Carlos Uxo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "manchester_england",
-            "Pubdate": "2006",
-            "Publisher": "Manchester Metropolitan University Press",
-            "Title": "The detective fiction of Leonardo Padura Fuentes",
-            "Translation": "n"
-        }
-    ],
     "cvillaverde": [
         {
             "Author": "Cirilo Villaverde",
@@ -6943,7 +6875,7 @@
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "2013",
-            "Publisher": "‎CreateSpace Independent Publishing Platform",
+            "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "The High Road",
             "Translation": "n"
         },
@@ -6954,7 +6886,7 @@
             "Language": "English",
             "Pub_id": "na_na",
             "Pubdate": "2013",
-            "Publisher": "‎CreateSpace Independent Publishing Platform",
+            "Publisher": "CreateSpace Independent Publishing Platform",
             "Title": "The High Road",
             "Translation": "n"
         },
@@ -9729,8 +9661,8 @@
             "Language": "English",
             "Pub_id": "new_orleans_la_united¬†states",
             "Pubdate": "2006",
-            "Publisher": "Peepal Tree Press ",
-            "Title": "Leaves in a River ",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Leaves in a River",
             "Translation": "n"
         },
         {
@@ -9740,8 +9672,8 @@
             "Language": "English",
             "Pub_id": "new_orleans_la_united¬†states",
             "Pubdate": "2006",
-            "Publisher": "Peepal Tree Press ",
-            "Title": "Leaves in a River ",
+            "Publisher": "Peepal Tree Press",
+            "Title": "Leaves in a River",
             "Translation": "n"
         }
     ],

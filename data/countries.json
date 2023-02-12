@@ -194,11 +194,6 @@
         "Long": -77.3192220134904,
         "author_country": "jamaica"
     },
-    "jerusalem": {
-        "Lat": 31.77331512,
-        "Long": 35.18679028,
-        "author_country": "jerusalem"
-    },
     "lebanon": {
         "Lat": 33.9202654117664,
         "Long": 35.888026075855,
@@ -233,11 +228,6 @@
         "Lat": 18.2213294459009,
         "Long": -66.4623392630918,
         "author_country": "puerto_rico"
-    },
-    "russia": {
-        "Lat": 61.9945734073292,
-        "Long": 96.6697054604756,
-        "author_country": "russia"
     },
     "spain": {
         "Lat": 41.2948556295683,

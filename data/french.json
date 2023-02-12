@@ -2041,52 +2041,6 @@
             "Translation": "y"
         }
     ],
-    "ekbrathwaite": [
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "leuven_belgium",
-            "Pubdate": "1986",
-            "Publisher": "Leuvense Schrijversaktie",
-            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "leuven_belgium",
-            "Pubdate": "1986",
-            "Publisher": "Leuvense Schrijversaktie",
-            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2013",
-            "Publisher": "Mémoire D'Encrier",
-            "Title": "Rêvhaïti",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2013",
-            "Publisher": "Mémoire D'Encrier",
-            "Title": "Rêvhaïti",
-            "Translation": "y"
-        }
-    ],
     "elovelace": [
         {
             "Author": "Earl Lovelace",
@@ -4244,6 +4198,52 @@
             "Pubdate": "2010",
             "Publisher": "Nouvelles Éditions latines",
             "Title": "Diab'-La: Roman Antillais",
+            "Translation": "y"
+        }
+    ],
+    "kbrathwaite": [
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "leuven_belgium",
+            "Pubdate": "1986",
+            "Publisher": "Leuvense Schrijversaktie",
+            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "leuven_belgium",
+            "Pubdate": "1986",
+            "Publisher": "Leuvense Schrijversaktie",
+            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "montreãåal_qc_canada",
+            "Pubdate": "2013",
+            "Publisher": "Mémoire D'Encrier",
+            "Title": "Rêvhaïti",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "montreãåal_qc_canada",
+            "Pubdate": "2013",
+            "Publisher": "Mémoire D'Encrier",
+            "Title": "Rêvhaïti",
             "Translation": "y"
         }
     ],

@@ -257,30 +257,6 @@
             "Translation": "y"
         }
     ],
-    "ekbrathwaite": [
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Autobiography/ Memoir",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1972",
-            "Publisher": "Bodley Head",
-            "Title": "Reluctant Neighbours",
-            "Translation": "n"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Autobiography/ Memoir",
-            "Language": "English",
-            "Pub_id": "london_england",
-            "Pubdate": "1972",
-            "Publisher": "Bodley Head",
-            "Title": "Reluctant Neighbours",
-            "Translation": "n"
-        }
-    ],
     "enunez": [
         {
             "Author": "Elizabeth Nunez",
@@ -634,6 +610,30 @@
             "Pubdate": "1996",
             "Publisher": "Heinemann",
             "Title": "The Autobiography of Paras P",
+            "Translation": "n"
+        }
+    ],
+    "kbrathwaite": [
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1972",
+            "Publisher": "Bodley Head",
+            "Title": "Reluctant Neighbours",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1972",
+            "Publisher": "Bodley Head",
+            "Title": "Reluctant Neighbours",
             "Translation": "n"
         }
     ],

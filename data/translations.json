@@ -474,6 +474,61 @@
             "Translation": "y"
         },
         {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Spanish",
+            "Pub_id": "caracas_venezuela",
+            "Pubdate": "2010",
+            "Publisher": "Katatay",
+            "Title": "La Unidad Submarina: Ensayos Caribeños",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "leuven_belgium",
+            "Pubdate": "1986",
+            "Publisher": "Leuvense Schrijversaktie",
+            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Spanish",
+            "Pub_id": "mexico_d.f._mexico",
+            "Pubdate": "1979",
+            "Publisher": "Universidad Nacional Autónoma de México",
+            "Title": "La Criollización en las Antillas de Lengua Inglesa",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1977",
+            "Publisher": "Casa de las Américas",
+            "Title": "Black + Blues",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kamau Brathwaite",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "montreãåal_qc_canada",
+            "Pubdate": "2013",
+            "Publisher": "Mémoire D'Encrier",
+            "Title": "Rêvhaïti",
+            "Translation": "y"
+        },
+        {
             "Author": "Milagros Ricourt",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -4632,61 +4687,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "caracas_venezuela",
-            "Pubdate": "2010",
-            "Publisher": "Katatay",
-            "Title": "La Unidad Submarina: Ensayos Caribeños",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "leuven_belgium",
-            "Pubdate": "1986",
-            "Publisher": "Leuvense Schrijversaktie",
-            "Title": "Le Detonateur de Visibilite: The Visibility Trigger",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "Spanish",
-            "Pub_id": "mexico_d.f._mexico",
-            "Pubdate": "1979",
-            "Publisher": "Universidad Nacional Autónoma de México",
-            "Title": "La Criollización en las Antillas de Lengua Inglesa",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1977",
-            "Publisher": "Casa de las Américas",
-            "Title": "Black + Blues",
-            "Translation": "y"
-        },
-        {
-            "Author": "Edward Kamau Brathwaite",
-            "Descriptor": "",
-            "Genre": "Poem",
-            "Language": "French",
-            "Pub_id": "montreãåal_qc_canada",
-            "Pubdate": "2013",
-            "Publisher": "Mémoire D'Encrier",
-            "Title": "Rêvhaïti",
-            "Translation": "y"
-        },
-        {
             "Author": "Aimé Césaire",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -5116,17 +5116,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Curdella Forbes",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2002",
-            "Publisher": "Heinemann",
-            "Title": "Songs of Silence",
-            "Translation": "y"
-        },
-        {
             "Author": "José Lezama Lima",
             "Descriptor": "",
             "Genre": "Poem",
@@ -5179,28 +5168,6 @@
             "Pubdate": "1999",
             "Publisher": "University of Virginia Press",
             "Title": "The Leopard Boy",
-            "Translation": "y"
-        },
-        {
-            "Author": "David Williams",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "portsmouth_united¬†states",
-            "Pubdate": "2005",
-            "Publisher": "Heinemann",
-            "Title": "A World Of Prose For CSEC",
-            "Translation": "y"
-        },
-        {
-            "Author": "David Williams",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "1994",
-            "Publisher": "Butterworth–Heinemann",
-            "Title": "A World Of Prose For CXC",
             "Translation": "y"
         },
         {
