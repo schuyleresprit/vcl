@@ -36,7 +36,7 @@ permalink: /cblelio/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right"></p>2005</div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>L'Avana: La Città Sensuale di Leonardo Padura Fuentes</h1><hr>
