@@ -201,7 +201,7 @@ permalink: /12/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="{{ site.baseurl }}/fcollymore/"> Frank A Collymore </a></h4>
+            <h4><a href="{{ site.baseurl }}/facollymore/"> Frank A Collymore </a></h4>
           </a>
         </div>
       </div>
