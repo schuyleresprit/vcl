@@ -33,8 +33,7 @@ permalink: /ycharara/
                 Publisher: L'Harmattan<br>
                 Publisher Location: Paris, France<br>
                 Genre: Non Fiction<br>
-                Length: 506<br>
-                </p>
+                Length: 506</p>
             </div>
         </div>
         <div class="block">
@@ -48,8 +47,7 @@ permalink: /ycharara/
                 Publisher: L'Harmattan<br>
                 Publisher Location: Paris, France<br>
                 Genre: Fiction<br>
-                Length: 354<br>
-                </p>
+                Length: 354</p>
             </div>
         </div>
   <!-- partial -->
