@@ -7,7 +7,7 @@ permalink: /acummins/
 <div class="content">
     <h1>Alvin Cummins</h1>
     <div class="quote">
-        <div><img src="https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/3240311/original/resize:248x186/crop:x0y233w879h659/hash:1467417187/1366235353_TonyKellman2b-bw-ttom.jpg?1467417187" class="logo"></div>
+        <div><img src="https://freshmilkbarbados.files.wordpress.com/2015/06/interviews_alvincummins_booksigning.jpg?w=1200" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
