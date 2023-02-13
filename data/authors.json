@@ -1,6 +1,6 @@
 {
-    "Á1ngel Augier": {
-        "Author": "Á1ngel Augier",
+    "Ángel Augier": {
+        "Author": "Ángel Augier",
         "author_id": "aaugier",
         "author_country": "cuba"
     },
@@ -21,7 +21,7 @@
     },
     "Aimé Césaire": {
         "Author": "Aimé Césaire",
-        "author_id": "acésaire",
+        "author_id": "acesaire",
         "author_country": "martinique"
     },
     "Alaí Reyes-Santos": {
@@ -101,7 +101,7 @@
     },
     "Anaïs Ségalas": {
         "Author": "Anaïs Ségalas",
-        "author_id": "aségalas",
+        "author_id": "asegalas",
         "author_country": "france"
     },
     "Andrea Levy": {
@@ -124,8 +124,8 @@
         "author_id": "asalkey",
         "author_country": "jamaica"
     },
-    "Ang\u00e8le Rawiri": {
-        "Author": "Ang\u00e8le Rawiri",
+    "Angèle Rawiri": {
+        "Author": "Angèle Rawiri",
         "author_id": "arawiri",
         "author_country": "gabon"
     },
@@ -364,11 +364,6 @@
         "author_id": "cdebrot",
         "author_country": "bonaire"
     },
-    "Collazo Ramos": {
-        "Author": "Collazo Ramos",
-        "author_id": "cramos",
-        "author_country": "puerto_rico"
-    },
     "Colville N Young": {
         "Author": "Colville N Young",
         "author_id": "cnyoung",
@@ -377,7 +372,7 @@
     "Constance Marshall": {
         "Author": "Constance Marshall",
         "author_id": "cmarshall",
-        "author_country": "united\u00ac\u2020states"
+        "author_country": "united¬†states"
     },
     "Curdella Forbes": {
         "Author": "Curdella Forbes",
@@ -439,9 +434,9 @@
         "author_id": "dlgeorges",
         "author_country": "haiti"
     },
-    "Dany Laferri\u00e8re": {
-        "Author": "Dany Laferri\u00e8re",
-        "author_id": "dlaferri\u00e8re",
+    "Dany Laferrière": {
+        "Author": "Dany Laferrière",
+        "author_id": "dlaferrière",
         "author_country": "haiti"
     },
     "Darrell B Lockhart": {
@@ -529,8 +524,8 @@
         "author_id": "devery",
         "author_country": "barbados"
     },
-    "évelyne Trouillot": {
-        "Author": "évelyne Trouillot",
+    "Évelyne Trouillot": {
+        "Author": "Évelyne Trouillot",
         "author_id": "etrouillot",
         "author_country": "haiti"
     },
@@ -996,7 +991,7 @@
     },
     "Jean Bernabé": {
         "Author": "Jean Bernabé",
-        "author_id": "jbernabé",
+        "author_id": "jbernabe",
         "author_country": "martinique"
     },
     "Jean Binta Breeze": {
@@ -1087,7 +1082,7 @@
     "Jonathan De La Rosa": {
         "Author": "Jonathan De La Rosa",
         "author_id": "jdlrosa",
-        "author_country": "united\u00ac\u2020states"
+        "author_country": "united¬†states"
     },
     "Jorge Ronet": {
         "Author": "Jorge Ronet",
@@ -1101,7 +1096,7 @@
     },
     "Jose Martí": {
         "Author": "Jose Martí",
-        "author_id": "jmartí",
+        "author_id": "jmarti",
         "author_country": "cuba"
     },
     "Jose Prats Sariol": {
@@ -1291,7 +1286,7 @@
     },
     "Lenelle Moïse": {
         "Author": "Lenelle Moïse",
-        "author_id": "lmoïse",
+        "author_id": "lmoise",
         "author_country": "haiti"
     },
     "Lennox Honychurch": {
@@ -1689,8 +1684,8 @@
         "author_id": "mpbartonromeo",
         "author_country": "trinidad_&_tobago"
     },
-    "Miguel Á1ngel Asturias": {
-        "Author": "Miguel Á1ngel Asturias",
+    "Miguel Ángel Asturias": {
+        "Author": "Miguel Ángel Asturias",
         "author_id": "maasturias",
         "author_country": "guatemala"
     },
@@ -1701,7 +1696,7 @@
     },
     "Miguel de Carrión": {
         "Author": "Miguel de Carrión",
-        "author_id": "mdcarrión",
+        "author_id": "mdcarrion",
         "author_country": "cuba"
     },
     "Milagros Ricourt": {
@@ -1776,7 +1771,7 @@
     },
     "Nancy Morejón": {
         "Author": "Nancy Morejón",
-        "author_id": "nmorejón",
+        "author_id": "nmorejon",
         "author_country": "cuba"
     },
     "Naomi Jackson": {
@@ -2392,7 +2387,7 @@
     "Walter Goodman": {
         "Author": "Walter Goodman",
         "author_id": "wgoodman",
-        "author_country": "united\u00ac\u2020states"
+        "author_country": "united¬†states"
     },
     "Walter Adolphe Roberts": {
         "Author": "Walter Adolphe Roberts",
