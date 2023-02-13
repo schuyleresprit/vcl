@@ -306,34 +306,6 @@ permalink: /glamming/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1> Physiology Of Reproduction</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" width = "50%" ></p>
-                <p>
-                Language: English <br/>
-                Publisher: Churchill Livingstone <br/>
-                Pub_location: Edinburgh, England <br/>
-                Genre: Nonfiction Book <br/>
-                Length: 842 <br/>                   </p>
-            </div>
-        </div>
-               <div class="block">
-                <div class="date right"><p class="right hide">1990</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Reproduction In The Male</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" height="50%" width = "50%" ></p>
-                <p>
-                Language: English <br/>
-                Publisher:Chapman & Hall <br/>
-                Pub_location: London, England <br/>
-                Genre: Nonfiction Book <br/>
-                Length: 966 <br/>                  </p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">1991</p></div>
             <div class="dot"></div>
             <div class="right hide">
