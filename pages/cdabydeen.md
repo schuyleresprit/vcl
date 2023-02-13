@@ -131,19 +131,6 @@ permalink: /cdabydeen/
             <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Wizard Swami</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41o4eXEC62L.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Peepal Tree Press<br/>
-                Pub_location: Leeds, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 145</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1989</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
                 <h1>Dark Swirl</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ynX2nIc5L._SX317_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -154,9 +141,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Coastland: New and Selected Poems, 1973-1989</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71JbN+s4gbL.jpg"></p>
                 <p>Language: English<br/>
@@ -167,9 +154,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1992</p></div>
+            <div class="date left"><p class="left">1992</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Jogging in Havana</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348322209l/4164343.jpg"></p>
                 <p>Language: English<br/>
@@ -180,9 +167,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1994</p></div>
+            <div class="date right"><p class="right">1994</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Sometimes Hard</h1><hr>
                 <p><img src="https://www.shenyunperformingarts.org/data/image/original/2015/02/05/f3a4ff4839c56a5f460c88cce3666a2b.jpg"></p>
                 <p>Language: English<br/>
@@ -193,9 +180,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1994</p></div>
+            <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Stoning the wind</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41MsEdZ1XIL._SX325_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -206,9 +193,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1995</p></div>
+            <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Berbice Crossing: And Other Stories</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41KY4ZQ7FKL.jpg"></p>
                 <p>Language: English<br/>
@@ -219,9 +206,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1995</p></div>
+            <div class="date left"><p class="left">1995</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Born in Amazonia</h1><hr>
                 <p><img src="https://pictures.abebooks.com/isbn/9780889625983-us.jpg"></p>
                 <p>Language: English<br/>
@@ -232,9 +219,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1996</p></div>
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Black Jesus and other stories</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51D3mnws5jL._SX334_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -245,9 +232,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1997</p></div>
+            <div class="date left"><p class="left">1997</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Discussing Columbus</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328766291l/3640568.jpg"></p>
                 <p>Language: English<br/>
@@ -258,9 +245,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1997</p></div>
+            <div class="date right"><p class="right">1997</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Goatsong</h1><hr>
                 <p><img src="https://www.shenyunperformingarts.org/data/image/original/2015/02/05/f3a4ff4839c56a5f460c88cce3666a2b.jpg"></p>
                 <p>Language: English<br/>
@@ -271,9 +258,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2000</p></div>
+            <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>My Brahmin days, and other stories</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-Bs9T7omL.jpg"></p>
                 <p>Language: English<br/>
@@ -285,9 +272,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>North of the Equator</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366276713l/4957840.jpg"></p>
                 <p>Language: English<br/>
@@ -298,9 +285,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Hemisphere of love</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347250958l/3089338.jpg"></p>
                 <p>Language: English<br/>
@@ -311,9 +298,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2004</p></div>
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Imaginary Origins</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41B27X4GV1L.jpg"></p>
                 <p>Language: English<br/>
@@ -324,9 +311,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2004</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Play A Song Somebody</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/517KANJQ64L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -337,9 +324,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Drums of My Flesh</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41B27X4GV1L.jpg"></p>
                 <p>Language: English<br/>
@@ -350,9 +337,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2008</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Uncharted heart</h1><hr>
                 <p><img src="http://www.borealispress.com/covers/848_04_9780888873521.cover.front.large.jpg"></p>
                 <p>Language: English<br/>
@@ -363,9 +350,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>God's Spider</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435187815l/25404401._SY475_.jpg"></p>
                 <p>Language: English<br/>
@@ -376,9 +363,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>My Undiscovered Country</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504939932i/36206291._UY630_SR1200,630_.jpg"></p>
                 <p>Language: English<br/>
