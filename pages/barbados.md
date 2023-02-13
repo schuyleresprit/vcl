@@ -65,7 +65,7 @@ permalink: /12/
 <div id="post-4" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="http://www.chattelhousebooks.biz/images/authors/AlvinCummins.jpg" width="70%" height="100%">
+          <img src="https://freshmilkbarbados.files.wordpress.com/2015/06/interviews_alvincummins_booksigning.jpg?w=1200" width="70%" height="100%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
