@@ -359,6 +359,11 @@
         "Long": 0.207034,
         "Pub_id": "cambridge_england"
     },
+    "cambridge_ma_united¬†states": {
+        "Lat": 42.3751,
+        "Long": -71.105616,
+        "Pub_id": "cambridge_ma_united¬†states"
+    },
     "cameron_nc_united¬†states": {
         "Lat": 35.326823,
         "Long": -79.255303,
@@ -604,11 +609,6 @@
         "Long": -98.16245,
         "Pub_id": "edinburg_tx_united_states"
     },
-    "edinburgh_england": {
-        "Lat": 52.4851862,
-        "Long": 1.7528734,
-        "Pub_id": "edinburgh_england"
-    },
     "edinburgh_scotland": {
         "Lat": 55.927625,
         "Long": -3.233537,
@@ -708,6 +708,11 @@
         "Lat": 55.860982499999984,
         "Long": -4.2488787,
         "Pub_id": "glasgow_scotland"
+    },
+    "gloucester_england": {
+        "Lat": 51.8653705,
+        "Long": -2.2458191999999997,
+        "Pub_id": "gloucester_england"
     },
     "gornji_milanovac_serbia": {
         "Lat": 44.111591,
