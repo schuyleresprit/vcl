@@ -88,7 +88,7 @@ permalink: /vpollard/
                 Language: English<br/>
                 Publisher: Caribbean Journal of Education<br/>
                 Pub_location: Kingston, Jamaica<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 15<br/>                   </p>
             </div>
         </div>

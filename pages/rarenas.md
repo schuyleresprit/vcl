@@ -363,7 +363,7 @@ permalink: /rarenas/
                 <p>Language: Spanish<br/>
                 Publisher: Kosmos<br/>
                 Pub_location: Mexico City, Mexico<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Traslation: y<br/>
                 Length: 264</p>
             </div>
@@ -603,7 +603,7 @@ permalink: /rarenas/
                 <p>Language: Spanish<br/>
                 Publisher: Editora Betânia<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 60</p>
             </div>
         </div>
@@ -616,7 +616,7 @@ permalink: /rarenas/
                 <p>Language: Spanish <br/>
                 Publisher: Editora Betânia<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 131</p>
             </div>
         </div>
@@ -710,7 +710,7 @@ permalink: /rarenas/
                 <p>Language: Spanish<br/>
                 Publisher: Tusquets Editores S.A.<br/>
                 Pub_location: Barcelona, Spain<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 343</p>
             </div>
         </div>
@@ -846,7 +846,7 @@ permalink: /rarenas/
                 <p>Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Traslation: y<br/>
                 Length: 208</p>
             </div>

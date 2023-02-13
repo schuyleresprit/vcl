@@ -59,7 +59,7 @@ permalink: /dflpierreluke/
                 Language: English<br/>
                 Publisher: Xlibris<br/>
                 Pub_location: Bloomington, IN, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 227<br/>                   </p>
             </div>
         </div>

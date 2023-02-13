@@ -32,7 +32,7 @@ permalink: /jbernabé/
                 Language: French <br/>
                 Publisher: Gallimard<br/>
                 Pub Location: Paris, France <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 127 <br/>
                 </p>
             </div>

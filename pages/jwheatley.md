@@ -59,7 +59,7 @@ permalink: /jwheatley/
 	    Language: English<br/>
                 Publisher: Createspace Independent Pub<br/>
                 Pub_location: Scotts Valley, CA, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 148<br/>                   </p>
             </div>
         </div>

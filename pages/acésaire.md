@@ -32,7 +32,7 @@ permalink: /acésaire/
                 Language: French <br/>
                 Publisher: Présence Africaine <br/>
                 Pub_location: Paris, France <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 311 <br/>                </p>
             </div>
         </div>
@@ -46,7 +46,7 @@ permalink: /acésaire/
                 Language: French <br/>
                 Publisher: Livre Club Diderot <br/>
                 Pub_location: Paris, France <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 345 <br/>                </p>
             </div>
         </div>
@@ -131,7 +131,7 @@ permalink: /acésaire/
                 Language: French <br/>
                 Publisher: Parti Progressiste Martiniquais <br/>
                 Pub_location: Fort-de-France, Martinique <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 88 <br/>   
                 </p>
             </div>
@@ -202,7 +202,7 @@ permalink: /acésaire/
                 Language: French <br/>
                 Publisher: Parti Progressite Martiniquais <br/>
                 Pub_location: Fort-de-France, Martinique <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 60 <br/>                 </p>
             </div>
         </div>
@@ -216,7 +216,7 @@ permalink: /acésaire/
                 Language: French <br/>
                 Publisher: Presence Africaine <br/>
                 Pub_location: Paris, France <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 42 <br/>                    </p>
             </div>
         </div>
@@ -371,7 +371,7 @@ permalink: /acésaire/
                 Language: French <br/>
                 Publisher: Présence Africaine <br/>
                 Pub_location: Paris, France <br/>
-                Genre: Nonfiction Book <br/>                 </p>
+                Genre: Nonfiction <br/>                 </p>
             </div>
         </div>
         <div class="block">
@@ -440,7 +440,7 @@ permalink: /acésaire/
                 Language: English <br/>
                 Publisher: Monthly Review Press <br/>
                 Pub_location: New York, NY, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Translation : y <br/>
                 Length: 96 <br/>                    </p>
             </div>

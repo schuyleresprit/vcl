@@ -129,7 +129,7 @@ permalink: /elovelace/
                 Language: English<br/>
                 Publisher: Lexicon Trinidad<br/>
                 Pub_location: San Juan, Trinidad & Tobago<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 235 <br/>                   </p>
             </div>
         </div>

@@ -32,7 +32,7 @@ permalink: /vmaisier/
                 Language: English<br/>
                 Publisher: Lexington Books<br/>
                 Pub_location: Lanham, MD, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 141</p>
             </div>
         </div>

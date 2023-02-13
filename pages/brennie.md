@@ -46,7 +46,7 @@ permalink: /brennie/
                 Language: English<br/>
                 Publisher: Sene Press LLC<br/>
                 Pub_location: Saint Louis, MO, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 262<br/>                   </p>
             </div>
         </div>

@@ -33,7 +33,7 @@ permalink: /mricourt/
 		    Language: English<br/>
                 Publisher: Rutgers University Press<br/>
                 Pub_location: New Brunswick, NJ, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 200  <br/>                   </p>
             </div>
         </div>

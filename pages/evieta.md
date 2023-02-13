@@ -115,7 +115,7 @@ permalink: /evieta/
                 Language:Spanish <br/>
                 Publisher: Editorial Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
-                Genre:Nonfiction Book <br/>
+                Genre:Nonfiction <br/>
                 Length: 163<br/>                   </p>
             </div>
         </div>
@@ -157,7 +157,7 @@ permalink: /evieta/
                 Language: Spanish<br/>
                 Publisher: Editorial Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 157<br/>                   </p>
             </div>
         </div>
@@ -171,7 +171,7 @@ permalink: /evieta/
                 Language: Spanish<br/>
                 Publisher: Union de Escritores y Artistas de Cuba<br/>
                 Pub_location: Havana, Cuba<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 272<br/>                   </p>
             </div>
         </div>

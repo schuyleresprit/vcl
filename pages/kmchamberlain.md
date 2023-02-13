@@ -30,7 +30,7 @@ permalink: /kmchamberlain/
  		<p> Language: English <br/>
                 Publisher: The University of the West Indies <br/>
                 Pub_location:St. Augustine, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 19 <br/>                </p>
             </div>
         </div>

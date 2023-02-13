@@ -563,7 +563,7 @@ permalink: /dwalcott/
                 Language: English<br/>
                 Publisher: Farrar, Straus and Giroux<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 256<br/>                   </p>
             </div>
         </div>
@@ -746,7 +746,7 @@ permalink: /dwalcott/
                 Language: English<br/>
                 Publisher: Rodopi<br/>
                 Pub_location: Amsterdam, Netherlands<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 607<br/>                   </p>
             </div>
         </div>

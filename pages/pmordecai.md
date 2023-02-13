@@ -32,7 +32,7 @@ permalink: /pmordecai/
                 Language: English<br/>
                 Publisher: HarperCollins<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 127<br/>                   </p>
             </div>
         </div>
@@ -60,7 +60,7 @@ permalink: /pmordecai/
                 Language: English<br/>
                 Publisher: Ginn and Company<br/>
                 Pub_location: Aylesbury, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 128<br/>                   </p>
             </div>
         </div>
@@ -298,7 +298,7 @@ permalink: /pmordecai/
                 Language: English<br/>
                 Publisher: Goose Lane Editions<br/>
                 Pub_location: Fredericton, NB, Canada<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 100<br/>                   </p>
             </div>
         </div>
@@ -312,7 +312,7 @@ permalink: /pmordecai/
                 Language: English<br/>
                 Publisher: Greenwood<br/>
                 Pub_location: Westport, CT, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 254<br/>                   </p>
             </div>
         </div>
@@ -368,7 +368,7 @@ permalink: /pmordecai/
                 Language: English<br/>
                 Publisher: Ginn and Company<br/>
                 Pub_location: Aylesbury, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 48<br/>                   </p>
             </div>
         </div>

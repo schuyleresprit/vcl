@@ -74,7 +74,7 @@ permalink: /mconde/
                 Language: French<br/>
                 Publisher: Hatier<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 79<br/>                   </p>
             </div>
         </div>
@@ -88,7 +88,7 @@ permalink: /mconde/
                 Language: French<br/>
                 Publisher: L'Harmattan<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 136<br/>                   </p>
             </div>
         </div>
@@ -144,7 +144,7 @@ permalink: /mconde/
                 Language: Dutch<br/>
                 Publisher: In de Knipscheer<br/>
                 Pub_location: Haarlem, Netherlands<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 158<br/>                   </p>
             </div>
         </div>

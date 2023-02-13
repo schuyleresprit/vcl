@@ -31,7 +31,7 @@ permalink: /umarson/
                 <p>Language: English <br/>
                 Publisher: Barbados Advocate Co.<br/>
                 Pub_location: Fontabelle, Barbados<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 76</p>
             </div>
         </div>

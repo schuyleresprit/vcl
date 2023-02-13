@@ -32,7 +32,7 @@ permalink: /ebrodber/
                 Language: English<br/>
                 Publisher: Blackspace<br/>
                 Pub_location: St. Mary, Jamaica<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 32<br/>                   </p>
             </div>
         </div>
@@ -60,7 +60,7 @@ permalink: /ebrodber/
                 Language: English<br/>
                 Publisher: Sir Arthur Lewis Institute of Social and Economic Studies, University of the West Indies<br/>
                 Pub_location: Mona, Jamaica<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 236<br/>                   </p>
             </div>
         </div>

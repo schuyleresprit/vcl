@@ -30,7 +30,7 @@ permalink: /jklundgren/
  		<p> Language: English <br/>
                 Publisher: Educa Vision <br/>
                 Pub_location: Coconut Creek, FL, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 24 <br/>                </p>
             </div>
         </div>

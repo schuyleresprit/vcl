@@ -32,7 +32,7 @@ permalink: /jhinkson/
                 Language: English<br/>
                 Publisher: New York Monthly Review Press<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 168 <br/>                   </p>
             </div>
         </div>

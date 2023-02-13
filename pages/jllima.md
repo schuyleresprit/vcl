@@ -45,7 +45,7 @@ permalink: /jllima/
                 Language: Spanish<br/>
                 Publisher: La Universidad Central "Marta Abreu" de Las Villas<br/>
                 Pub_location: Santa Clara, Cuba<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 410<br/>                   </p>
             </div>
         </div>
@@ -157,7 +157,7 @@ permalink: /jllima/
                 Language: Spanish<br/>
                 Publisher: Editorial Orbe<br/>
                 Pub_location: Santiago, Chile<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 329<br/>                   </p>
             </div>
         </div>

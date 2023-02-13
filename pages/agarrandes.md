@@ -229,7 +229,7 @@ permalink: /agarrandés/
                 Language: Spanish <br/>
                 Publisher: Editorial Plaza Mayor<br/>
                 Pub_location: San Juan, Puerto Rico <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 173<br/>                   </p>
             </div>
         </div>

@@ -45,7 +45,7 @@ permalink: /mocallaghan/
                 Language: English<br/>
                 Publisher: United Nations Educational, Scientific and Cultural Organization<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 293<br/>                   </p>
             </div>
         </div>
@@ -59,7 +59,7 @@ permalink: /mocallaghan/
                 Language: English<br/>
                 Publisher: Unesco<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 169<br/>                   </p>
             </div>
         </div>

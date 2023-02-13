@@ -110,7 +110,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Deutsch<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 320</p>
             </div>
         </div>
@@ -136,7 +136,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 308</p>
             </div>
         </div>
@@ -149,7 +149,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 240</p>
             </div>
         </div>
@@ -188,7 +188,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Alfred A. Knopf<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 320</p>
             </div>
         </div>        
@@ -227,7 +227,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Franklin Library<br/>
                 Pub_location: Franklin Center, PA, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 512</p>
             </div>
         </div>
@@ -266,7 +266,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 308</p>
             </div>
         </div>
@@ -320,7 +320,7 @@ permalink: /vsnaipaul/
                 <p>Language: Norwegian<br/>
                 Publisher: Gyldendal<br/>
                 Pub_location: Oslo, Norway<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 535</p>
                 Translation: y<br/>
             </div>
@@ -362,7 +362,7 @@ permalink: /vsnaipaul/
                 <p>Language: German<br/>
                 Publisher: Kiepenheuer & Witsch<br/>
                 Pub_location: Köln, Germany<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 706</p>
             </div>
@@ -404,7 +404,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 174</p>
             </div>
         </div>
@@ -417,7 +417,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 243</p>
             </div>
         </div>
@@ -430,7 +430,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 400</p>
             </div>
         </div>
@@ -456,7 +456,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 512</p>
             </div>
         </div>
@@ -510,7 +510,7 @@ permalink: /vsnaipaul/
                 <p>Language: French<br/>
                 Publisher: Albin Michel<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 700</p>
             </div>
@@ -552,7 +552,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 218</p>
             </div>
         </div>
@@ -565,7 +565,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 512</p>
             </div>
         </div>
@@ -578,7 +578,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 400</p>
             </div>
         </div>
@@ -604,7 +604,7 @@ permalink: /vsnaipaul/
                 <p>Language: German<br/>
                 Publisher: Kiepenheuer & Witsch<br/>
                 Pub_location: Köln, Germany<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 706</p>
             </div>
         </div>
@@ -631,7 +631,7 @@ permalink: /vsnaipaul/
                 <p>Language: French<br/>
                 Publisher: Albin Michel<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 327</p>
             </div>
@@ -659,7 +659,7 @@ permalink: /vsnaipaul/
                 <p>Language: Swedish<br/>
                 Publisher: Bra böcker<br/>
                 Pub_location: Höganäs, Sweden<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 531</p>
             </div>
@@ -729,7 +729,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 174</p>
             </div>
         </div>
@@ -755,7 +755,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 243</p>
             </div>
         </div>
@@ -846,7 +846,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 334</p>
             </div>
         </div>
@@ -887,7 +887,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 174</p>
             </div>
         </div>
@@ -954,7 +954,7 @@ permalink: /vsnaipaul/
                 <p>Language: Italian<br/>
                 Publisher: Rizzoli Libri<br/>
                 Pub_location: Milano, Italy<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 441</p>
             </div>
@@ -996,7 +996,7 @@ permalink: /vsnaipaul/
                 <p>Language: Spanish<br/>
                 Publisher: Lasser Press<br/>
                 Pub_location: Mexico City, Mexico<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 440</p>
             </div>
@@ -1024,7 +1024,7 @@ permalink: /vsnaipaul/
                 <p>Language: Finnish<br/>
                 Publisher: Otava Publishing<br/>
                 Pub_location: Helsingissä, Hki, Finland<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 264</p>
             </div>
@@ -1038,7 +1038,7 @@ permalink: /vsnaipaul/
                 <p>Language: Japanese<br/>
                 Publisher: TBS-Brittanica<br/>
                 Pub_location: TÅkyÅ, Japan<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 512</p>
             </div>
@@ -1052,7 +1052,7 @@ permalink: /vsnaipaul/
                 <p>Language: Finnish<br/>
                 Publisher: Otava Publishing<br/>
                 Pub_location: Helsingissä, Hki, Finland<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 461</p>
             </div>
@@ -1149,7 +1149,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 218</p>
             </div>
         </div>
@@ -1227,7 +1227,7 @@ permalink: /vsnaipaul/
                 <p>Language: Spanish<br/>
                 Publisher: Lasser Press Mexicana<br/>
                 Pub_location: Mexico City, Mexico<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 456</p>
             </div>
@@ -1268,7 +1268,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 308</p>
             </div>
         </div>
@@ -1294,7 +1294,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 400</p>
             </div>
         </div>
@@ -1319,7 +1319,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Deutsch<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 159</p>
             </div>
         </div>
@@ -1346,7 +1346,7 @@ permalink: /vsnaipaul/
                 <p>Language: German<br/>
                 Publisher: Fischer Taschenbuch<br/>
                 Pub_location: Frankfurt, Germany<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 706</p>
             </div>
@@ -1388,7 +1388,7 @@ permalink: /vsnaipaul/
                 <p>Language: Spanish<br/>
                 Publisher: Quarto<br/>
                 Pub_location: Barcelona, Spain<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 508</p>
             </div>
@@ -1537,7 +1537,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Alfred A. Knopf<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 159</p>
             </div>
         </div>
@@ -1591,7 +1591,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 334</p>
             </div>
         </div>
@@ -1604,7 +1604,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Alfred A. Knopf<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 512</p>
             </div>
         </div>
@@ -1617,7 +1617,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 512</p>
             </div>
         </div>
@@ -1643,7 +1643,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 159</p>
             </div>
         </div>   
@@ -1835,7 +1835,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 174</p>
             </div>
         </div>
@@ -1848,7 +1848,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 243</p>
             </div>
         </div>
@@ -1912,7 +1912,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 334</p>
             </div>
         </div>  
@@ -1925,7 +1925,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 159</p>
             </div>
         </div>
@@ -1978,7 +1978,7 @@ permalink: /vsnaipaul/
                 <p>Language: Swedish<br/>
                 Publisher: Wahlström & Widstrand<br/>
                 Pub_location: Stockholm, Sweden<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 221</p>
             </div>
@@ -2045,7 +2045,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Deutsch<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 334</p>
             </div>
         </div>
@@ -2071,7 +2071,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 512</p>
             </div>
         </div>
@@ -2097,7 +2097,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 334</p>
             </div>
         </div>
@@ -2110,7 +2110,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 308</p>
             </div>
         </div>
@@ -2123,7 +2123,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 400</p>
             </div>
         </div>
@@ -2192,7 +2192,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 174</p>
             </div>
         </div>
@@ -2327,7 +2327,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 218</p>
             </div>
         </div>
@@ -2340,7 +2340,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 243</p>
             </div>
         </div>  
@@ -2366,7 +2366,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 350</p>
             </div>
         </div>
@@ -2392,7 +2392,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 159</p>
             </div>
         </div>
@@ -2488,7 +2488,7 @@ permalink: /vsnaipaul/
                 <p>Language: French<br/>
                 Publisher: Bourgois<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 223</p>
             </div>
@@ -2502,7 +2502,7 @@ permalink: /vsnaipaul/
                 <p>Language: French<br/>
                 Publisher: Bourgois<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 346</p>
             </div>
@@ -2530,7 +2530,7 @@ permalink: /vsnaipaul/
                 <p>Language: French<br/>
                 Publisher: Christian Bourgois<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 426</p>
             </div>
@@ -2571,7 +2571,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 204</p>
             </div>
         </div>
@@ -2598,7 +2598,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Mondadori<br/>
                 Pub_location: Milano, Italy<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 380</p>
             </div>
@@ -2625,7 +2625,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Heinemann<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 624</p>
             </div>
         </div>
@@ -2638,7 +2638,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 308</p>
             </div>
         </div>
@@ -2651,7 +2651,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: New York review<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 7</p>
             </div>
         </div>
@@ -2678,7 +2678,7 @@ permalink: /vsnaipaul/
                 <p>Language: Norwegian<br/>
                 Publisher: Gyldendal<br/>
                 Pub_location: Oslo, Norway<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 317</p>
             </div>
@@ -2734,7 +2734,7 @@ permalink: /vsnaipaul/
                 <p>Language: German<br/>
                 Publisher: Kiepenheuer & Witsch<br/>
                 Pub_location: Köln, Germany<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 391</p>
             </div>
@@ -2761,7 +2761,7 @@ permalink: /vsnaipaul/
                 <p>Language: French<br/>
                 Publisher: Librairie Plon<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translation: y<br/>
                 Length: 665</p>
             </div>
@@ -2817,7 +2817,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, Unted States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 345</p>
             </div>
         </div>
@@ -2830,7 +2830,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Heinemann<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 624</p>
             </div>
         </div>
@@ -2857,7 +2857,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Penguin Books<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 350</p>
             </div>
         </div>
@@ -2884,7 +2884,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Brown and Company<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 432</p>
             </div>
         </div>
@@ -2897,7 +2897,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Picador<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 333</p>
             </div>
         </div>
@@ -2962,7 +2962,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Random House Digital, Inc.<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 131</p>
             </div>
         </div>
@@ -3014,7 +3014,7 @@ permalink: /vsnaipaul/
                 <p>Language: English<br/>
                 Publisher: Picador<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 193</p>
             </div>
         </div>

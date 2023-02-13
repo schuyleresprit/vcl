@@ -32,7 +32,7 @@ permalink: /astuart/
                 Language: English <br/>
                 Publisher: Jonathan Cape <br/>
                 Pub_location: London, England <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 242 <br/>                </p>
             </div>
         </div>

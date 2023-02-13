@@ -45,7 +45,7 @@ permalink: /nponce/
                 Language: French<br/>
                 Publisher: University of Rennes 2<br/>
                 Pub_location: Rennes, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 182<br/>                   </p>
             </div>
         </div>

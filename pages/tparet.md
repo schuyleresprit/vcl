@@ -31,7 +31,7 @@ permalink: /tparet/
                 Language: French<br/>
                 Publisher: Jouve & Cie<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: <br/>                   </p>
             </div>
         </div>

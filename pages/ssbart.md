@@ -71,7 +71,7 @@ permalink: /ssbart/
                 <p>Language: French <br/>
                 Publisher: Editions Consulaires<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 320</p>
             </div>
         </div>
@@ -125,7 +125,7 @@ permalink: /ssbart/
                 <p>Language: English <br/>
                 Publisher: University of Wisconsin Press<br/>
                 Pub_location: Madison, WI, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Translaton: y<br/>
                 Length: 256</p>
             </div>

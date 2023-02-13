@@ -45,7 +45,7 @@ permalink: /izoboi/
                 Language:English <br/>
                 Publisher: One Moore Book<br/>
                 Pub_location: Brooklyn, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 62<br/>                   </p>
             </div>
         </div>
@@ -115,7 +115,7 @@ permalink: /izoboi/
                 Language: English<br/>
                 Publisher: Balzer + Bray<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 64<br/>                   </p>
             </div>
         </div>

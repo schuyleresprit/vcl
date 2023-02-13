@@ -31,7 +31,7 @@ permalink: /mparker/
                 Language: English<br/>
                 Publisher: Walker and Company<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: <br/>                   </p>
             </div>
         </div>

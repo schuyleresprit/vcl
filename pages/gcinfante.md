@@ -279,7 +279,7 @@ permalink: /gcinfante/
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Laertes<br/>
                 Pub_location: Barcelona, Spain<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 191</p>
             </div>
         </div>

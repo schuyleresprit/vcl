@@ -219,7 +219,7 @@ permalink: /asalkey/
                 Language: English <br/>
                 Publisher: Penguin Books <br/>
                  Pub_location: Harmondsworth, England <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 315 <br/>                  </p>
             </div>
         </div>

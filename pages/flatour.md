@@ -32,7 +32,7 @@ permalink: /flatour/
                 Language: English<br/>
                 Publisher: Harvard College<br/>
                 Pub_location: Cambridge,MA, United States <br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 61</p>
             </div>
         </div>

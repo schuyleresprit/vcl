@@ -31,7 +31,7 @@ permalink: /aminatchybogat/
                 <p>Language: French <br/>
                 Publisher: Ibis Rouge<br/>
                 Pub_location: Petit-Bourg, Guadeloupe<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 190</p>
             </div>
         </div>

@@ -45,7 +45,7 @@ permalink: /epspringer/
                 Language: English<br/>
                 Publisher: Macdonald Orbis<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 43<br/>                   </p>
             </div>
         </div>

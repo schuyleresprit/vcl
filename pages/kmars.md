@@ -116,7 +116,7 @@ permalink: /kmars/
                 Language: French<br/>
                 Publisher: Magellan & Cie Édition<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 144<br/>                   </p>
             </div>
         </div>

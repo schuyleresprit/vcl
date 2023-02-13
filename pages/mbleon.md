@@ -32,7 +32,7 @@ permalink: /mbleón/
                 Language: Spanish<br/>
                 Publisher: Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 96</p>
             </div>
         </div>
@@ -110,7 +110,7 @@ permalink: /mbleón/
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Instituto Movilizador de Fondos Cooperativos C.L<br/>
                 Pub_location: Buenos Aires, Argentina<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 126</p>
               </div>
         </div>

@@ -131,7 +131,7 @@ permalink: /cjames/
                 Language: English<br/>
                 Publisher: Heineman<br/>
                 Pub_location: Portsmouth, United States<br/>
-                Genre: Nonfiction book<br/>
+                Genre: Nonfiction<br/>
                 Length: 134<br/>                   </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ permalink: /cjames/
                 Language: English<br/>
                 Publisher: Thornton Publishing : Books to Believe In<br/>
                 Pub_location: Parker, United States<br/>
-                Genre: Nonfiction book<br/>
+                Genre: Nonfiction<br/>
                 Length: 144<br/>                   </p>
             </div>
         </div>
@@ -201,7 +201,7 @@ permalink: /cjames/
                 Language: English<br/>
                 Publisher: Motivational Press<br/>
                 Pub_location: Carlsbad, CA, United States<br/>
-                Genre: Nonfiction book<br/>
+                Genre: Nonfiction<br/>
                 Length: 196<br/>                   </p>
             </div>
         </div>

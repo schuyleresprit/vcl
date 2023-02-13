@@ -215,7 +215,7 @@ permalink: /jalvarez/
                 Language: English <br/> 	
                 Publisher: Plume <br/>
                 Pub Location: New York, NY, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 275 <br/>
                 </p>
             </div>

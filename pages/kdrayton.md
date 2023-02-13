@@ -32,7 +32,7 @@ permalink: /kdrayton/
                 Language: English<br/>
                 Publisher: Cedar Press<br/>
                 Pub_location: Bridgetown, Barbados<br/>
-                Genre: Nonfiction book<br/>
+                Genre: Nonfiction<br/>
                 Length: 16</p>
             </div>
         </div>

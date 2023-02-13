@@ -31,7 +31,7 @@ permalink: /dhinds/
                 Language: English<br/>
                 Publisher: Heinemann<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 200<br/>                   </p>
             </div>
         </div>

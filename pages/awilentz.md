@@ -32,7 +32,7 @@ permalink: /awilentz/
                 Language: English<br/>
                 Publisher: Simon & Schuster<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 352<br/>                   </p>
             </div>
         </div>

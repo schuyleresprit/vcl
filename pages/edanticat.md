@@ -354,7 +354,7 @@ permalink: /edanticat/
                 Language: English<br/>
                 Publisher: Vintage Books<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 208<br/>                   </p>
             </div>
         </div>

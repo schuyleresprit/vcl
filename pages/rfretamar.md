@@ -32,7 +32,7 @@ permalink: /rfretamar/
                 Language: Spanish<br/>
                 Publisher: Editorial Contrapunto<br/>
                 Pub_location: Buenos Aires, Argentina<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 217<br/>                   </p>
             </div>
         </div>
@@ -103,7 +103,7 @@ permalink: /rfretamar/
                 Language: Italian<br/>
                 Publisher: Guanda<br/>
                 Pub_location: Milan, Italy<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 171<br/>                   </p>
             </div>
         </div>
@@ -117,7 +117,7 @@ permalink: /rfretamar/
                 Language: Spanish<br/>
                 Publisher: Editorial Diógenes<br/>
                 Pub_location: Mexico City, Mexico<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 108<br/>                   </p>
             </div>
         </div>

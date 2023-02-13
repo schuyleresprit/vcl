@@ -46,7 +46,7 @@ permalink: /mgargar/
                 Language: French<br/>
                 Publisher: Ibis Rouge<br/>
                 Pub_location: Matoury, French Guiana<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: <br/>                   </p>
             </div>
         </div>

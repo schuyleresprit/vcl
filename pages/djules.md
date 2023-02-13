@@ -33,7 +33,7 @@ permalink: /djules/
 		        Language: English<br/>
                 Publisher: Ian Randle Publishers<br/>
                 Pub_location: Kingston, Jamaica<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 408 <br/>                   </p>
             </div>
         </div>

@@ -32,7 +32,7 @@ permalink: /aisfahanihammond/
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 171 <br/>                   </p>
             </div>
         </div>

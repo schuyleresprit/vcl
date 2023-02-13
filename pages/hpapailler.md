@@ -32,7 +32,7 @@ permalink: /hpapailler/
                 Language: French<br/>
                 Publisher: Secretairerie d'Etat de la coordination et de l'information<br/>
                 Pub_location: Port-au-Prince, Haiti<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 8 <br/>                   </p>
             </div>
         </div>

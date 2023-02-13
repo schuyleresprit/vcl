@@ -532,7 +532,7 @@ permalink: /cphillips/
                 Language: English<br/>
                 Publisher: Alfred A. Knopf<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 235<br/>                   </p>
             </div>
         </div>
@@ -546,7 +546,7 @@ permalink: /cphillips/
                 Language: English<br/>
                 Publisher: Harvill Secker<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 320<br/>                   </p>
             </div>
         </div>

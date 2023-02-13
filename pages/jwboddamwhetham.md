@@ -32,7 +32,7 @@ permalink: /jwboddamwhetham/
                 Language: English<br/>
                 Publisher: Hurst and Blackett<br/>
                 Pub_location: London, England<br/>
-                Genre: NonFiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 380</p>
             </div>
         </div>

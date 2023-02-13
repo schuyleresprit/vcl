@@ -46,7 +46,7 @@ permalink: /rantoni/
                 Language: English<br/>
                 Publisher: Bard College<br/>
                 Pub_location: Annandale-On-Hudson, NY, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 360<br/>                   </p>
             </div>
         </div>

@@ -71,7 +71,7 @@ permalink: /gpicart/
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Oriente<br/>
                 Pub_location: Santiago de Cuba, Cuba<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 118</p>
             </div>
         </div>
@@ -227,7 +227,7 @@ permalink: /gpicart/
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Letras Cubanas<br/>
                 Pub_location: Havana, Cuba<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 203</p>
             </div>
         </div>

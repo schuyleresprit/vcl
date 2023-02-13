@@ -535,7 +535,7 @@ permalink: /jkincaid/
                 Language: English <br/>
                 Publisher:National Geographic<br/>
                 Pub_location: Washington, DC, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 191 <br/>                 </p>
             </div>
         </div>

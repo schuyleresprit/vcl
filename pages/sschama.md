@@ -31,7 +31,7 @@ permalink: /sschama/
                 Language: English<br/>
                 Publisher: Bloomsbury Publishing<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 496<br/>                   </p>
             </div>
         </div>

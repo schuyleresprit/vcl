@@ -32,7 +32,7 @@ permalink: /fjborbe/
                 Language: Spanish<br/>
                 Publisher: Editorial Graó<br/>
                 Pub_location: Barcelona, Spain<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 268<br/>                   </p>
             </div>
         </div>

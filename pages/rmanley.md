@@ -32,7 +32,7 @@ permalink: /rmanley/
                 Language: English<br>
                 Publisher: Vintage Books<br>
                 Publisher Location: Toronto, ON, Canada<br>
-                Genre: Nonfiction Book<br>
+                Genre: Nonfiction<br>
                 Length: 418<br>
                 </p>
             </div>

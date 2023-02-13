@@ -32,7 +32,7 @@ permalink: /cthompson/
                 Language: English <br/>
                 Publisher: The Herald Ltd. Printers		 <br/>
                 Pub_location: Kingston, Jamaica <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 78 <br/>                   </p>
             </div>
         </div>

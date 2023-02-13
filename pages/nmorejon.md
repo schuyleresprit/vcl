@@ -73,7 +73,7 @@ permalink: /nmorejon/
                 Language: English<br/>
                 Publisher: Ocean Press<br/>
                 Pub_location: North Melbourne, Australia<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 190<br/>                   </p>
             </div>
         </div>

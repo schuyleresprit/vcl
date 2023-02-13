@@ -31,7 +31,7 @@ permalink: /jrfeo/
                 <p>Language: Spanish<br/>
                 Publisher: Unión de Escritores y Artistas de Cuba<br/>
                 Pub_location: Havana, Cuba<br/>
-                Genre: NonFiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 143</p>
             </div>
         </div>

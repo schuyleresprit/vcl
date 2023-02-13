@@ -32,7 +32,7 @@ permalink: /mwarnerlewis/
 		    Language: English<br/>
                 Publisher: Ethiope Publishing Corporation<br/>
                 Pub_location: Benin City, Nigeria<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 88<br/>                   </p>
             </div>
         </div>

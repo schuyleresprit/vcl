@@ -46,7 +46,7 @@ permalink: /fcollymore/
                 Language: English <br/>
                 Publisher: Advocate Co <br/>
                 Pub_location: Pictou, Canada <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 127 <br/>                 
                    </p>
             </div>

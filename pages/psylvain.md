@@ -82,7 +82,7 @@ permalink: /psylvain/
                 <p>Language: English<br/>
                 Publisher: New Beacon Books<br/>
                 Pub_location: Boston, MA, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 144</p>
             </div>
         </div>

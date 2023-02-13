@@ -31,7 +31,7 @@ permalink: /jronet/
                 Language: Spanish<br/>
                 Publisher: Editorial Playor<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 126<br/>                   </p>
             </div>
         </div>
@@ -45,7 +45,7 @@ permalink: /jronet/
                 Language: Spanish<br/>
                 Publisher: Ediciones Universal<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 126<br/>                   </p>
             </div>
         </div>

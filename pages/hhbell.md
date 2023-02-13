@@ -45,7 +45,7 @@ permalink: /hhbell/
                 <p>Language: English<br/>
                 Publisher: Sampson Low, Marston & Company Limited<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 200</p>
             </div>
         </div>

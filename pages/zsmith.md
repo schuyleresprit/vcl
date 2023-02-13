@@ -46,7 +46,7 @@ permalink: /zsmith
                 Language: English<br/>
                 Publisher: Hamish Hamilton Canada<br/>
                 Pub_location: Toronto, ON, Canada<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 324<br/>                   </p>
             </div>
         </div>
@@ -105,7 +105,7 @@ permalink: /zsmith
                 Language: English<br/>
                 Publisher: Penguin<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 480<br/>                   </p>
             </div>
         </div>

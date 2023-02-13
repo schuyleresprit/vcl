@@ -32,7 +32,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Fondo de Cultura Economica. <br/>
                 Pub_location: Mexico City, Mexico <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 282 <br/>                </p>
             </div>
         </div>
@@ -121,7 +121,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Editorial Lumen <br/>
                 Pub_location: Buenos Aires, Argentina <br/>
-                Genre:Nonfiction Book <br/>
+                Genre:Nonfiction <br/>
                 Length: 60 <br/>                      </p>
             </div>
         </div>
@@ -207,7 +207,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Editorial Nuestra Cultura <br/>
                 Pub_location: Madrid, Spain <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 176 <br/>                      </p>
             </div>
         </div>
@@ -249,7 +249,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Editorial Bruguera <br/>
                 Pub_location: Barcelona, Spain <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 94 <br/>                    </p>
             </div>
         </div>
@@ -453,7 +453,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Siglo XXI de España Editores <br/>
                 Pub_location: Mexico City, Mexico <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 213 <br/>                    </p>
             </div>
         </div>
@@ -482,7 +482,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Siglo XXI de España Editores <br/>
                 Pub_location: Mexico City, Mexico <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 338 <br/>                    </p>
             </div>
         </div>
@@ -526,7 +526,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Siglo XXI de España Editores <br/>
                 Pub_location: Mexico City ,Mexico <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 111 <br/>                      </p>
             </div>
         </div>
@@ -554,7 +554,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Siglo XXI de España Editores <br/>
                 Pub_location: Mexico City ,Mexico <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 426 <br/>                      </p>
             </div>
         </div>
@@ -568,7 +568,7 @@ permalink: /acarpentier/
                 Language: English <br/>
                 Publisher: University Of Minnesota Press <br/>
                 Pub_location: Minneapolis, MN, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Translation: y
                 Length: 312 <br/>                    </p>
             </div>
@@ -639,7 +639,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher:Casa de las Américas <br/>
                 Pub_location: Havana, Cuba <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 166 <br/>                      </p>
             </div>
         </div>
@@ -812,7 +812,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Centre de Recherches Latino-Américaines <br/>
                 Pub_location: Havana, Cuba <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 189 <br/>                      </p>
             </div>
         </div>
@@ -855,7 +855,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Editorial Verbum <br/>
                 Pub_location: Madrid, Spain <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 168 <br/>                    </p>
             </div>
         </div>
@@ -926,7 +926,7 @@ permalink: /acarpentier/
                 Language: Spanish <br/>
                 Publisher: Editorial Cõ <br/>
                 Pub_location: Lutz, FL, United States <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 189 <br/>                      </p>
             </div>
         </div>

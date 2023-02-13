@@ -32,7 +32,7 @@ permalink: /ewilliams/
 		Language: English<br/>
                 Publisher: The Associates in Negro Folk Education<br/>
                 Pub_location: Washington, DC, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length:   544<br/>                   </p>
             </div>
         </div>
@@ -47,7 +47,7 @@ permalink: /ewilliams/
 		    Language: English<br/>
                 Publisher: Howard University<br/>
                 Pub_location: Washington, DC, United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 536-544 (9 pages)<br/>                   </p>
             </div>
         </div>
@@ -62,7 +62,7 @@ permalink: /ewilliams/
 		    Language: English<br/>
                 Publisher: University of North Carolina Press<br/>
                 Pub_location: Chapel Hill, NC United States<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 307<br/>                   </p>
             </div>
         </div>

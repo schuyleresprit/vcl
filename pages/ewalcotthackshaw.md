@@ -32,7 +32,7 @@ permalink: /ewalcotthackshaw/
                 Language: English<br/>
                 Publisher: University of the West Indies Press<br/>
                 Pub_location: Kingston, Jamaica<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 200<br/>                   </p>
             </div>
         </div>
@@ -46,7 +46,7 @@ permalink: /ewalcotthackshaw/
                 Language: English<br/>
                 Publisher: University of the West Indies Press<br/>
                 Pub_location: Kingston, Jamaica<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 206<br/>                   </p>
             </div>
         </div>
@@ -60,7 +60,7 @@ permalink: /ewalcotthackshaw/
                 Language: English<br/>
                 Publisher: University of the West Indies Press<br/>
                 Pub_location: Kingston, Jamaica<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 292<br/>                   </p>
             </div>
         </div>
@@ -102,7 +102,7 @@ permalink: /ewalcotthackshaw/
                 Language: French<br/>
                 Publisher: Zoe Publishing Ltd<br/>
                 Pub_location: London, England<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 240<br/>                   </p>
             </div>
         </div>
@@ -116,7 +116,7 @@ permalink: /ewalcotthackshaw/
                 Language: English<br/>
                 Publisher: University of the West Indies Press<br/>
                 Pub_location: Kingston, Jamaica<br/>
-                Genre: Nonfiction Book<br/>
+                Genre: Nonfiction<br/>
                 Length: 92<br/>                   </p>
             </div>
         </div>

@@ -32,7 +32,7 @@ permalink: /eclarke/
                 Language: English <br/>
                 Publisher: University Press of the West Indies			 <br/>
                 Pub_location: Kingston, Jamaica <br/>
-                Genre: Nonfiction Book <br/>
+                Genre: Nonfiction <br/>
                 Length: 266 <br/>                </p>
             </div>
         </div>
