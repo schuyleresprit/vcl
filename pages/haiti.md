@@ -649,7 +649,7 @@ permalink: /5/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="{{ site.baseurl }}/mchancy/">Myriam J.A Chancy</a></h4>
+            <h4><a href="{{ site.baseurl }}/mjachancy/">Myriam J.A Chancy</a></h4>
           </a>
         </div>
       </div>
