@@ -12,7 +12,7 @@ permalink: /rpantin/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> June 5, 1943 – January 15, 2015 </p></div>
+            <div class="date right"><p class="right">1943 – 2015</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">

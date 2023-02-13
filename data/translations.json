@@ -2553,6 +2553,17 @@
             "Translation": "y"
         },
         {
+            "Author": "Tip Marugg",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_haven_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Yale University Press",
+            "Title": "The Roar Of Morning",
+            "Translation": "y"
+        },
+        {
             "Author": "Lloyd King",
             "Descriptor": "",
             "Genre": "Anthology",
@@ -5762,17 +5773,6 @@
             "Pubdate": "1988",
             "Publisher": "Eridanos Press",
             "Title": "Cold Tales",
-            "Translation": "y"
-        },
-        {
-            "Author": " Miguel de Cervantes Saavedra",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2013",
-            "Publisher": "Aris & Phillips",
-            "Title": "Cervantes: The Complete Exemplary Novels",
             "Translation": "y"
         },
         {

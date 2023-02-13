@@ -12,7 +12,7 @@ permalink: /rnamba/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">25 April 1910 – 16 June 1961</p></div>
+            <div class="date right"><p class="right">1910 – 1961</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">

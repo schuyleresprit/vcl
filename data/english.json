@@ -16591,28 +16591,6 @@
         {
             "Author": "George Lamming",
             "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "edinburgh_england",
-            "Pubdate": "1990",
-            "Publisher": "Churchill Livingstone",
-            "Title": "Physiology Of Reproduction",
-            "Translation": "n"
-        },
-        {
-            "Author": "George Lamming",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "edinburgh_england",
-            "Pubdate": "1990",
-            "Publisher": "Churchill Livingstone",
-            "Title": "Physiology Of Reproduction",
-            "Translation": "n"
-        },
-        {
-            "Author": "George Lamming",
-            "Descriptor": "",
             "Genre": "Essay",
             "Language": "English",
             "Pub_id": "paramaribo_suriname",
@@ -16696,28 +16674,6 @@
             "Pubdate": "1954",
             "Publisher": "McGraw Hill",
             "Title": "The Emigrants First Edition",
-            "Translation": "n"
-        },
-        {
-            "Author": "George Lamming",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1990",
-            "Publisher": "Chapman & Hall",
-            "Title": "Reproduction In The Male",
-            "Translation": "n"
-        },
-        {
-            "Author": "George Lamming",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1990",
-            "Publisher": "Chapman & Hall",
-            "Title": "Reproduction In The Male",
             "Translation": "n"
         },
         {
@@ -29513,30 +29469,6 @@
             "Translation": "n"
         }
     ],
-    "mdcervantessaavedra": [
-        {
-            "Author": " Miguel de Cervantes Saavedra",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2013",
-            "Publisher": "Aris & Phillips",
-            "Title": "Cervantes: The Complete Exemplary Novels",
-            "Translation": "y"
-        },
-        {
-            "Author": " Miguel de Cervantes Saavedra",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "English",
-            "Pub_id": "oxford_england",
-            "Pubdate": "2013",
-            "Publisher": "Aris & Phillips",
-            "Title": "Cervantes: The Complete Exemplary Novels",
-            "Translation": "y"
-        }
-    ],
     "mdixon": [
         {
             "Author": "McDonald Dixon",
@@ -38755,6 +38687,28 @@
             "Publisher": "Yale University Press",
             "Title": "The Roar Of Morning",
             "Translation": "y"
+        },
+        {
+            "Author": "Tip Marugg",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_haven_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Yale University Press",
+            "Title": "The Roar Of Morning",
+            "Translation": "y"
+        },
+        {
+            "Author": "Tip Marugg",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_haven_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Yale University Press",
+            "Title": "The Roar Of Morning",
+            "Translation": "y"
         }
     ],
     "tmcwatt": [
@@ -42544,6 +42498,382 @@
             "Pubdate": "1960",
             "Publisher": "Longmans, Green and Co. in association with the Ministry of Education",
             "Title": "Sixty-Five",
+            "Translation": "n"
+        }
+    ],
+    "walewis": [
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "gloucester_england",
+            "Pubdate": "2015",
+            "Publisher": "Palala Press",
+            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "gloucester_england",
+            "Pubdate": "2015",
+            "Publisher": "Palala Press",
+            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "1978",
+            "Publisher": "Allen & Unwin",
+            "Title": "Growth and Fluctuations, 1870-1913",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "1978",
+            "Publisher": "Allen & Unwin",
+            "Title": "Growth and Fluctuations, 1870-1913",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1970",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1970",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2003",
+            "Publisher": "Routledge",
+            "Title": "Overhead Costs",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2003",
+            "Publisher": "Routledge",
+            "Title": "Overhead Costs",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1970",
+            "Publisher": "Routledge",
+            "Title": "Economic Survey",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1970",
+            "Publisher": "Routledge",
+            "Title": "Economic Survey",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "2009",
+            "Publisher": "Allen & Unwin",
+            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "crows_nest_australia",
+            "Pubdate": "2009",
+            "Publisher": "Allen & Unwin",
+            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1955",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "princeton_nj_united¬†states",
+            "Pubdate": "1955",
+            "Publisher": "Princeton University Press",
+            "Title": "The Evolution Of The International Economic Order",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1983",
+            "Publisher": "Routledge",
+            "Title": "The Theory Of Economic Growth",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1983",
+            "Publisher": "Routledge",
+            "Title": "The Theory Of Economic Growth",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "New York University Press",
+            "Title": "Selected Economic Writings Of W. Arthur Lewis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2003",
+            "Publisher": "New York University Press",
+            "Title": "Selected Economic Writings Of W. Arthur Lewis",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Principles Of Economic Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Routledge",
+            "Title": "Principles Of Economic Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "westport_ct_united¬†states",
+            "Pubdate": "1985",
+            "Publisher": "Greenwood Press",
+            "Title": "Politics In West Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "cambridge_ma_united¬†states",
+            "Pubdate": "1966",
+            "Publisher": "Harvard University Press",
+            "Title": "Racial Conflict And Economic Development",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
+            "Translation": "n"
+        },
+        {
+            "Author": "W. Arthur Lewis",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2015",
+            "Publisher": "Routledge",
+            "Title": "Development Planning",
             "Translation": "n"
         }
     ],

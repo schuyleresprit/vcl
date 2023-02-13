@@ -11,7 +11,7 @@ permalink: /pmarlee/
    <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> B. 1938 </p></div>
+            <div class="date right"><p class="right">b. 1938 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
