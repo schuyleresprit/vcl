@@ -37,7 +37,7 @@ permalink: /ycharara/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
+            <div class="date right"><p class="right hide">2005</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Fictions Coloniales du XVIIIe Siècle: Ziméo</h1><hr>
