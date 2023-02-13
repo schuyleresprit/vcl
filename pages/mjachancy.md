@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Myriam J.A Chancy "
-permalink: /mchancy/
+permalink: /mjachancy/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
