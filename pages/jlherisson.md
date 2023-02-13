@@ -12,7 +12,7 @@ permalink: /jlherisson/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-             <div class="date right"><p class="right"> 1873-1907 </p></div>
+             <div class="date right"><p class="right">1873-1907</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
