@@ -2049,6 +2049,46 @@ permalink: /vsnaipaul/
                 Length: 334</p>
             </div>
         </div>
+         <div class="block">
+            <div class="date right"><p class="right">1986</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>The Mimic Men</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51KiwF645tL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Penguin Books<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 174</p>
+            </div>
+        </div>
+         <div class="block">
+            <div class="date left"><p class="left">1986</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Une Virée Dans Le Sud</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/415K66651CL._SX315_BO1,204,203,200_.jpg"></p>
+                <p>Language: French<br/>
+                Publisher: Christian Bourgois<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Nonfiction<br/>
+                Translation: y<br/>
+                Length: 426</p>
+            </div>
+        </div>
+            <div class="block">
+            <div class="date right"><p class="right">1986</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>A Flag on the Island</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41N1GASZ2FL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Penguin Books<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 213</p>
+            </div>
+        </div>
         <div class="block">
             <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
@@ -2210,19 +2250,6 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1986</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>The Mimic Men</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51KiwF645tL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 174</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -2371,19 +2398,6 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1986</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>A Flag on the Island</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41N1GASZ2FL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Penguin Books<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 213</p>
-            </div>
-        </div>
-        <div class="block">
             <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -2519,20 +2533,6 @@ permalink: /vsnaipaul/
                 Genre: Fiction (Novel)<br/>
                 Translation: y<br/>
                 Length: 341</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Une Virée Dans Le Sud</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/415K66651CL._SX315_BO1,204,203,200_.jpg"></p>
-                <p>Language: French<br/>
-                Publisher: Christian Bourgois<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Nonfiction<br/>
-                Translation: y<br/>
-                Length: 426</p>
             </div>
         </div>
         <div class="block">
@@ -2849,6 +2849,19 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
+            <div class="date right"><p class="right">1990</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>A Way in the World</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320433055i/769513.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Picador<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 369</p>
+            </div>
+        </div>
+        <div class="block">
             <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -2901,7 +2914,7 @@ permalink: /vsnaipaul/
                 Length: 333</p>
             </div>
         </div>
-        <div class="block">
+         <div class="block">
             <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -3071,22 +3084,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>A Way in the World</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320433055i/769513.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Picador<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 369</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
                 <h1>Bend in the River</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NBklImHoL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -3097,9 +3097,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>A House for Mr. Biswas</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51OPIrpmL9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -3110,9 +3110,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>A Bend in the River</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NBklImHoL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -3123,9 +3123,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Enigma of Arrival</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51WF0izAP1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
