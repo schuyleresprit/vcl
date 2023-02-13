@@ -113,7 +113,7 @@ permalink: /12/
 <div id="post-6" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://scontent-mia3-1.xx.fbcdn.net/v/t1.6435-9/160218353_3867913309898239_6663437266187881639_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=100&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=cjv_jsv1z18AX9aVHr5&_nc_ht=scontent-mia3-1.xx&oh=00_AfCTKcOYpa4W0Vtl0FB5Cl_yg0H8pRDGMy-npOT9H1ZYPw&oe=63C3F52B" width="50%" height="50%">
+          <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_300/https://thecaribbeancamera.com/wp-content/uploads/2015/12/Cynthia-Wilson-300x146.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
