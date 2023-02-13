@@ -51,7 +51,7 @@ permalink: /ebrodber/
             </div>
         </div>
        <div class="block">
-            <div class="date leftt"><p class="leftt">2003</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Standing Tall: Affirmations Of The Jamaican Male : 24 Self-Portraits</h1><hr>
