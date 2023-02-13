@@ -27,7 +27,7 @@ permalink: /ebrodber/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The People Of My Jamaican Village, 1817-1948</h1><hr>
-                <p><img src="https://books.google.com/books/content?id=9VEg79KcuDgC&printsec=frontcover&img=1&zoom=5&edge=curl"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English<br/>
                 Publisher: Blackspace<br/>
