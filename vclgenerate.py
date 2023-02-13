@@ -48,7 +48,7 @@ KOREAN_JSON = os.getcwd() + '/data/korean.json'
 LATVIAN_JSON = os.getcwd() + '/data/latvian.json'
 NORWEGIAN_JSON = os.getcwd() + '/data/norwegian.json'
 PERSIAN_JSON = os.getcwd() + '/data/persian.json'
-PERSIANFARSI_JSON = os.getcwd() + '/data/persianfarsi.json'
+FARSI_JSON = os.getcwd() + '/data/farsi.json'
 POLISH_JSON = os.getcwd() + '/data/polish.json'
 ROMANIAN_JSON = os.getcwd() + '/data/romanian.json'
 RUSSIAN_JSON = os.getcwd() + '/data/russian.json'
@@ -150,7 +150,7 @@ def process_author_files(csv_path, csv_list, mapbox_username):
   latvian = {}
   norwegian = {}
   persian = {}
-  persianfarsi = {}
+  farsi = {}
   polish = {}
   romanian = {}
   russian = {}
@@ -484,7 +484,7 @@ def process_author_files(csv_path, csv_list, mapbox_username):
           if not row['Language'] in publications_by_language == ['Persian (Farsi)']:
             publications_by_language[row['Language']] = []
             if language_id == 'Persian (Farsi)':
-              persianfarsi.setdefault(author_id, []).append(author_publications)
+              farsi.setdefault(author_id, []).append(author_publications)
             row_index =+ 1
 #-------------------------------------------------------------------------------       
         for i in range (2):
@@ -636,14 +636,14 @@ def process_author_files(csv_path, csv_list, mapbox_username):
 
   csv_file.close()
 
-  return author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian, arabic, chinese, creole, czech, danish, estonian, finnish, frenchcreole, german, greek, greekmodern, hebrew, hungarian, japanese, korean, latvian, norwegian, persian, persianfarsi, polish, romanian, russian, serbian, slovenian, spanishfrench, slucreole, swedish, turkish, vietnamese, welsh, fictionnovel, fictionstory, fictionstorycoll, poem, poetrycoll, drama, memoir, anthology, nonfiction, essay
+  return author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian, arabic, chinese, creole, czech, danish, estonian, finnish, frenchcreole, german, greek, greekmodern, hebrew, hungarian, japanese, korean, latvian, norwegian, persian, farsi, polish, romanian, russian, serbian, slovenian, spanishfrench, slucreole, swedish, turkish, vietnamese, welsh, fictionnovel, fictionstory, fictionstorycoll, poem, poetrycoll, drama, memoir, anthology, nonfiction, essay
 
 
 # ---------------
 # Function calls
 # ---------------
 csv_list = get_csv_list(CSV_LOCATION)
-author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian, arabic, chinese, creole, czech, danish, estonian, finnish, frenchcreole, german, greek, greekmodern, hebrew, hungarian, japanese, korean, latvian, norwegian, persian, persianfarsi, polish, romanian, russian, serbian, slovenian, spanishfrench, slucreole, swedish, turkish, vietnamese, welsh, fictionnovel, fictionstory, fictionstorycoll, poem, poetrycoll, drama, memoir, anthology, nonfiction, essay = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
+author_ids, publications, places, countries, languages, genres, timeline, translations, english, french, spanish, dutch, portuguese, haitiancreole, italian, arabic, chinese, creole, czech, danish, estonian, finnish, frenchcreole, german, greek, greekmodern, hebrew, hungarian, japanese, korean, latvian, norwegian, persian, farsi, polish, romanian, russian, serbian, slovenian, spanishfrench, slucreole, swedish, turkish, vietnamese, welsh, fictionnovel, fictionstory, fictionstorycoll, poem, poetrycoll, drama, memoir, anthology, nonfiction, essay = process_author_files(CSV_LOCATION, csv_list, MAPBOX_USERNAME)
 
 with codecs.open(AUTHOR_ID_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(author_ids, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
@@ -781,8 +781,8 @@ with codecs.open(PERSIAN_JSON, 'w', 'utf8') as f:
   f.write(json.dumps(persian, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
   f.close()
 
-with codecs.open(PERSIANFARSI_JSON, 'w', 'utf8') as f:
-  f.write(json.dumps(persianfarsi, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+with codecs.open(FARSI_JSON, 'w', 'utf8') as f:
+  f.write(json.dumps(farsi, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
   f.close()
 
 with codecs.open(POLISH_JSON, 'w', 'utf8') as f:
