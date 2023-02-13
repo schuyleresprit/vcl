@@ -23,7 +23,22 @@ permalink: /ycharara/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date left"><p class="left">2004</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Roman et politique : approche sérielle et intertextuelle du roman des Lumières</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/P/2745310488.01.MZZZZZZZ.jpg"></p>
+                <p>
+                Language: French<br>
+                Publisher: L'Harmattan<br>
+                Publisher Location: Paris, France<br>
+                Genre: Non Fiction<br>
+                Length: 506<br>
+                </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Fictions Coloniales du XVIIIe Siècle: Ziméo</h1><hr>
