@@ -399,8 +399,8 @@
         "author_id": "cwilson",
         "author_country": "barbados"
     },
-    "Cynthia Noel": {
-        "Author": "Cynthia Noel",
+    "Cynthis Noel": {
+        "Author": "Cynthis Noel",
         "author_id": "cnoel",
         "author_country": "canada"
     },
@@ -874,11 +874,6 @@
         "author_id": "hklonaris",
         "author_country": "the_bahamas"
     },
-    "Henock Trouillot": {
-        "Author": "Henock Trouillot",
-        "author_id": "htrouillot",
-        "author_country": "haiti"
-    },
     "Henry Hesketh Bell": {
         "Author": "Henry Hesketh Bell",
         "author_id": "hhbell",
@@ -887,11 +882,6 @@
     "Herbert J. Reifer": {
         "Author": "Herbert J. Reifer",
         "author_id": "hjreifer",
-        "author_country": "barbados"
-    },
-    "Hilary Beckles": {
-        "Author": "Hilary Beckles",
-        "author_id": "hbeckles",
         "author_country": "barbados"
     },
     "Howard Pease": {
@@ -913,11 +903,6 @@
         "Author": "Hyam Yared",
         "author_id": "hyared",
         "author_country": "lebanon"
-    },
-    "Ian E Robertson": {
-        "Author": "Ian E Robertson",
-        "author_id": "ierobinson",
-        "author_country": "england"
     },
     "Ibi Zoboi": {
         "Author": "Ibi Zoboi",
@@ -974,11 +959,6 @@
         "author_id": "jross",
         "author_country": "grenada"
     },
-    "Jacques Laroche": {
-        "Author": "Jacques Laroche",
-        "author_id": "jlaroche",
-        "author_country": "haiti"
-    },
     "Jacques Roumain": {
         "Author": "Jacques Roumain",
         "author_id": "jroumain",
@@ -989,20 +969,10 @@
         "author_id": "jsalexis",
         "author_country": "haiti"
     },
-    "Jake Hugh Reece Wilson": {
-        "Author": "Jake Hugh Reece Wilson",
-        "author_id": "jhrwilson",
-        "author_country": "england"
-    },
     "Jamaica Kincaid": {
         "Author": "Jamaica Kincaid",
         "author_id": "jkincaid",
         "author_country": "antigua_&_barbuda"
-    },
-    "James Baldwin": {
-        "Author": "James Baldwin",
-        "author_id": "jbaldwin",
-        "author_country": "united_states"
     },
     "James Linen": {
         "Author": "James Linen",
@@ -1019,11 +989,6 @@
         "author_id": "jjdominique",
         "author_country": "haiti"
     },
-    "Janelle S Martin": {
-        "Author": "Janelle S Martin",
-        "author_id": "jsmartin",
-        "author_country": "united_states"
-    },
     "Janice Shinebourne": {
         "Author": "Janice Shinebourne",
         "author_id": "jshinebourne",
@@ -1034,15 +999,10 @@
         "author_id": "jbernab\u00e9",
         "author_country": "martinique"
     },
-    "Jean Breeze": {
-        "Author": "Jean Breeze",
+    "Jean Binta Breeze": {
+        "Author": "Jean Binta Breeze",
         "author_id": "jbreeze",
         "author_country": "jamaica"
-    },
-    "Jean Casimir": {
-        "Author": "Jean Casimir",
-        "author_id": "jcasimir",
-        "author_country": "haiti"
     },
     "Jean D'Costa": {
         "Author": "Jean D'Costa",
@@ -1108,16 +1068,6 @@
         "Author": "John J Figueroa",
         "author_id": "jjfigueroa",
         "author_country": "jamaica"
-    },
-    "John Jacob Thomas": {
-        "Author": "John Jacob Thomas",
-        "author_id": "jjthomas",
-        "author_country": "trinidad_&_tobago"
-    },
-    "John M Kirk": {
-        "Author": "John M Kirk",
-        "author_id": "jmkirk",
-        "author_country": "united_states"
     },
     "John Morris": {
         "Author": "John Morris",
@@ -1324,11 +1274,6 @@
         "author_id": "lgcarriles",
         "author_country": "united_states"
     },
-    "L\u00e9onora Miano": {
-        "Author": "L\u00e9onora Miano",
-        "author_id": "lmiano",
-        "author_country": "cameroon"
-    },
     "Lakshmi Persaud": {
         "Author": "Lakshmi Persaud",
         "author_id": "lpersaud",
@@ -1404,11 +1349,6 @@
         "author_id": "lking",
         "author_country": "united_states"
     },
-    "Loknath Persaud": {
-        "Author": "Loknath Persaud",
-        "author_id": "lopersaud",
-        "author_country": "guyana"
-    },
     "Lorna Goodison": {
         "Author": "Lorna Goodison",
         "author_id": "lgoodison",
@@ -1426,7 +1366,7 @@
     },
     "Louise Bennett": {
         "Author": "Louise Bennett",
-        "author_id": "lbennet",
+        "author_id": "lbennett",
         "author_country": "jamaica"
     },
     "Louise Harpon": {
@@ -1438,11 +1378,6 @@
         "Author": "Louison Cazal",
         "author_id": "lcazal",
         "author_country": "martinique"
-    },
-    "Lowell J Ragatz": {
-        "Author": "Lowell J Ragatz",
-        "author_id": "ljragatz",
-        "author_country": "united_states"
     },
     "Luci\u0301a Lo\u0301pez Coll": {
         "Author": "Luci\u0301a Lo\u0301pez Coll",
@@ -1499,11 +1434,6 @@
         "author_id": "mcard",
         "author_country": "jamaica"
     },
-    "Manuel Fern\u00e1ndez": {
-        "Author": "Manuel Fern\u00e1ndez",
-        "author_id": "mfernandez",
-        "author_country": "portugal"
-    },
     "Manuel Zapata Olivella": {
         "Author": "Manuel Zapata Olivella",
         "author_id": "mzolivella",
@@ -1524,11 +1454,6 @@
         "author_id": "mbreton",
         "author_country": "united_states"
     },
-    "Marcellus Taylor": {
-        "Author": "Marcellus Taylor",
-        "author_id": "mtaylor",
-        "author_country": "united_states"
-    },
     "Marcia Douglas": {
         "Author": "Marcia Douglas",
         "author_id": "mdouglas",
@@ -1542,11 +1467,6 @@
     "Margarita Suero-Duran": {
         "Author": "Margarita Suero-Duran",
         "author_id": "msueroduran",
-        "author_country": "united_states"
-    },
-    "Margarite Fern\u00e1ndez Olmos": {
-        "Author": "Margarite Fern\u00e1ndez Olmos",
-        "author_id": "mfolmos",
         "author_country": "united_states"
     },
     "Maria Nugent": {
@@ -1639,8 +1559,8 @@
         "author_id": "mmcwatt",
         "author_country": "guyana"
     },
-    "Marlene Nourbese Phillip": {
-        "Author": "Marlene Nourbese Phillip",
+    "M. Nourbese Phillip": {
+        "Author": "M. Nourbese Phillip",
         "author_id": "mnphillip",
         "author_country": "trinidad_&_tobago"
     },
@@ -1658,11 +1578,6 @@
         "Author": "Martin Amis",
         "author_id": "mamis",
         "author_country": "england"
-    },
-    "Martin Munro": {
-        "Author": "Martin Munro",
-        "author_id": "mmunro",
-        "author_country": "trinidad_&_tobago"
     },
     "Mary Prince": {
         "Author": "Mary Prince",
@@ -1702,7 +1617,7 @@
     "McDonald Dixon": {
         "Author": "McDonald Dixon",
         "author_id": "mdixon",
-        "author_country": "united_states"
+        "author_country": "st._lucia"
     },
     "Meiling Jin": {
         "Author": "Meiling Jin",
@@ -1753,11 +1668,6 @@
         "Author": "Michael Thelwell",
         "author_id": "mthelwell",
         "author_country": "jamaica"
-    },
-    "Michaellee James": {
-        "Author": "Michaellee James",
-        "author_id": "mjames",
-        "author_country": "united_states"
     },
     "Michel Maxwell Philip": {
         "Author": "Michel Maxwell Philip",
@@ -2019,11 +1929,6 @@
         "author_id": "ppress",
         "author_country": "united_states"
     },
-    "Persephone Braham": {
-        "Author": "Persephone Braham",
-        "author_id": "pbraham",
-        "author_country": "united_states"
-    },
     "Peter Abrahams": {
         "Author": "Peter Abrahams",
         "author_id": "pabrahams",
@@ -2043,11 +1948,6 @@
         "Author": "Petreine Archer",
         "author_id": "parcher",
         "author_country": "england"
-    },
-    "Philip Brenner": {
-        "Author": "Philip Brenner",
-        "author_id": "pbrenner",
-        "author_country": "cuba"
     },
     "Philip Lindsay": {
         "Author": "Philip Lindsay",
@@ -2104,11 +2004,6 @@
         "author_id": "rmaharaj",
         "author_country": "trinidad_&_tobago"
     },
-    "Rachel Afi Quinn": {
-        "Author": "Rachel Afi Quinn",
-        "author_id": "raquinn",
-        "author_country": "united_states"
-    },
     "Rachel Kirby": {
         "Author": "Rachel Kirby",
         "author_id": "rkirby",
@@ -2117,11 +2012,6 @@
     "Rachel Manley": {
         "Author": "Rachel Manley",
         "author_id": "rmanley",
-        "author_country": "england"
-    },
-    "Rafael Rodri\u0301guez Beltra\u0301n": {
-        "Author": "Rafael Rodri\u0301guez Beltra\u0301n",
-        "author_id": "rrbeltran",
         "author_country": "england"
     },
     "Ramo\u0301n De Palma": {
@@ -2187,11 +2077,6 @@
     "Robert Antoni": {
         "Author": "Robert Antoni",
         "author_id": "rantoni",
-        "author_country": "united_states"
-    },
-    "Robert D. Hamner": {
-        "Author": "Robert D. Hamner",
-        "author_id": "rdhamner",
         "author_country": "united_states"
     },
     "Robert L Ross": {
@@ -2314,11 +2199,6 @@
         "author_id": "snaipaul",
         "author_country": "trinidad_&_tobago"
     },
-    "Sekou Toure": {
-        "Author": "Sekou Toure",
-        "author_id": "stoure",
-        "author_country": "guinea"
-    },
     "Severo Sarduy": {
         "Author": "Severo Sarduy",
         "author_id": "ssarduy",
@@ -2368,11 +2248,6 @@
         "Author": "Soleida Rios",
         "author_id": "srios",
         "author_country": "cuba"
-    },
-    "Stephanie Mckenzie": {
-        "Author": "Stephanie Mckenzie",
-        "author_id": "smckenzie",
-        "author_country": "canada"
     },
     "Stephen A Dantes": {
         "Author": "Stephen A Dantes",
@@ -2524,9 +2399,9 @@
         "author_id": "wgoodman",
         "author_country": "united\u00ac\u2020states"
     },
-    "Walter Roberts": {
-        "Author": "Walter Roberts",
-        "author_id": "wroberts",
+    "Walter Adolphe Roberts": {
+        "Author": "Walter Adolphe Roberts",
+        "author_id": "waroberts",
         "author_country": "jamaica"
     },
     "Wayne Gerard Trotman": {

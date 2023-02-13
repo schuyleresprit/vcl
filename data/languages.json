@@ -44,7 +44,7 @@
             "Pubdate": "2017",
             "Publisher": "San cai wen hua gu fen you xian gong si",
             "Title": "Ni Shi Wo Yi Qie De Yi Qie: Yu Ni Xiang Yu,Jiu Shi Wo Zui Zhi De De Mao Xian",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "Creole": [
@@ -92,7 +92,7 @@
             "Pubdate": "1963",
             "Publisher": "SNKLU",
             "Title": "Generál Slunce",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "V.S. Naipaul",
@@ -127,7 +127,7 @@
             "Pubdate": "1999",
             "Publisher": "Kbh",
             "Title": "Bugtalerens Fortælling",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jean Rhys",
@@ -237,7 +237,7 @@
             "Pubdate": "2019",
             "Publisher": "Forlaget Rebel With a Cause",
             "Title": "Englenes Ensomhed",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Samuel Selvon",
@@ -261,7 +261,7 @@
             "Pubdate": "1999",
             "Publisher": "Vassallucci",
             "Title": "Savanne-Sagen",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Dany Laferrière",
@@ -888,7 +888,7 @@
             "Pubdate": "2021",
             "Publisher": "Em. Querido's Uitgeverij",
             "Title": "Dansen Voor Beginners",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Nicola Yoon",
@@ -899,7 +899,7 @@
             "Pubdate": "2015",
             "Publisher": "Uitgeverij Rainbow bv",
             "Title": "Alles Wat Je Lief Is",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Merle Hodge",
@@ -910,7 +910,7 @@
             "Pubdate": "1993",
             "Publisher": "Ambo ; NOVIB ; NCOS",
             "Title": "Allemaal Kapsones",
-            "Translation": ""
+            "Translation": "y"
         },
         {
             "Author": "Julia Alvarez",
@@ -1214,17 +1214,6 @@
         {
             "Author": "Velma Pollard",
             "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "oxfordshire_england",
-            "Pubdate": "1980",
-            "Publisher": "Taylor & Francis Online",
-            "Title": "Language In The Poetry Of Edward Brathwaite",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
             "Pub_id": "oxfordshire_england",
@@ -1302,17 +1291,6 @@
         {
             "Author": "Velma Pollard",
             "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1978",
-            "Publisher": "Caribbean Journal of Education",
-            "Title": "Code-switching In Jamaica Creole: Some Educational Implications",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
             "Genre": "Anthology",
             "Language": "English",
             "Pub_id": "oxfordshire_england",
@@ -1341,17 +1319,6 @@
             "Pubdate": "1977",
             "Publisher": "Taylor & Francis",
             "Title": "Poems",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1980",
-            "Publisher": "Collins",
-            "Title": "Nine West Indian poets : an anthology for the CXC English examination",
             "Translation": "n"
         },
         {
@@ -2276,17 +2243,6 @@
             "Pubdate": "1988",
             "Publisher": "Women and Development Studies, Institute of International Relations, University of the West Indies",
             "Title": "Gender In 'Summer lightning' And 'Talking Of trees'",
-            "Translation": "n"
-        },
-        {
-            "Author": "Mervyn Morris",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1987",
-            "Publisher": "Women and Development Studies, University of the West Indies",
-            "Title": "Gender In Some Performance Poems",
             "Translation": "n"
         },
         {
@@ -3984,61 +3940,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Robertson, Ian ;  Christie, Pauline;",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2006",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Exploring The Boundaries Of Caribbean Creole Languages",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Robertson, Ian ",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Education Issues in Creole and Creole-influenced Vernacular Contexts",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Linda Fields; Peter A Roberts",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2012",
-            "Publisher": "Ian Randle Publishers",
-            "Title": "Writing in English : a course book for Caribbean students",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Co-Author: Mark McWatt",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1994",
-            "Publisher": "Hodder Education",
-            "Title": "World of Poetry ",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2005",
-            "Publisher": "Heinemann Educational Books",
-            "Title": "A World of Prose Csec",
-            "Translation": "n"
-        },
-        {
             "Author": "Cecil Browne",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -5084,28 +4985,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Sekou Toure",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "san_francisco_ca_united¬†states",
-            "Pubdate": "1972",
-            "Publisher": "Black World Foundation",
-            "Title": "The Black Scholar January 1972 Journal Of Black Studies And Research",
-            "Translation": "n"
-        },
-        {
-            "Author": "Margarite Fernández Olmos",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Creole Religions of the Caribbean",
-            "Translation": "n"
-        },
-        {
             "Author": "Michelle Cliff",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -5213,17 +5092,6 @@
             "Pubdate": "1980",
             "Publisher": "Persephone Press",
             "Title": "Claiming an Identity They Taught Me to Despise",
-            "Translation": "n"
-        },
-        {
-            "Author": "Martin Munro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2006",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Reinterpreting The Haitian Revolution And It's Cultural Aftershocks",
             "Translation": "n"
         },
         {
@@ -6954,17 +6822,6 @@
             "Translation": "n"
         },
         {
-            "Author": "R. A. Pinder",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "University of Michigan",
-            "Title": "Adult Learners’ Understandings And Expectations Of Literacy And Their Impact On Participation In Adult Literacy Programs",
-            "Translation": "n"
-        },
-        {
             "Author": "Gwyneth Harold",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -6984,17 +6841,6 @@
             "Pubdate": "1995",
             "Publisher": "Plume",
             "Title": "Rhythm & Revolt: Tales of the Antilles",
-            "Translation": "n"
-        },
-        {
-            "Author": "Lowell J Ragatz",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "washington_dc_united¬†states",
-            "Pubdate": "1932",
-            "Publisher": "Government Printing Office, Washington",
-            "Title": "A Guide For The Study Of British Caribbean History, 1763-1834, Including The Abolition And Emancipation Movements",
             "Translation": "n"
         },
         {
@@ -7259,17 +7105,6 @@
             "Pubdate": "1996",
             "Publisher": "Bard College",
             "Title": "Conjunctions: 27, The Archipelago",
-            "Translation": "n"
-        },
-        {
-            "Author": "James Baldwin",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "boston_ma_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "Cengage Learning",
-            "Title": "An Anthology of Colonial and Postcolonial Short Fiction",
             "Translation": "n"
         },
         {
@@ -8469,7 +8304,7 @@
             "Pubdate": "2020",
             "Publisher": "Litera Media Group",
             "Title": "Dinti Albi",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -8491,7 +8326,7 @@
             "Pubdate": "2021",
             "Publisher": "Penguin",
             "Title": "NW",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -8502,7 +8337,7 @@
             "Pubdate": "2021",
             "Publisher": "Ernst Klett Sprachen GmbH",
             "Title": "The Embassy Of Cambodia",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -8810,17 +8645,6 @@
             "Pubdate": "2005",
             "Publisher": "Possibilities Unlimited",
             "Title": "Drops of wine : a stimulating second collection of peoms",
-            "Translation": "n"
-        },
-        {
-            "Author": "John Jacob Thomas",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "1869",
-            "Publisher": "The Chronicle Publishing Office",
-            "Title": "The Theory And Practice Of Creole Grammar",
             "Translation": "n"
         },
         {
@@ -9671,17 +9495,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Tip Marugg",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_haven_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Yale University Press",
-            "Title": "The Roar Of Morning",
-            "Translation": "y"
-        },
-        {
             "Author": "Michelle Paula Barton-Romeo",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -9767,193 +9580,6 @@
             "Pubdate": "2006",
             "Publisher": "University of the West Indies Press",
             "Title": "Reflections at New Credit",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "gloucester_england",
-            "Pubdate": "2015",
-            "Publisher": "Palala Press",
-            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "1978",
-            "Publisher": "Allen & Unwin",
-            "Title": "Growth and Fluctuations, 1870-1913",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1970",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2003",
-            "Publisher": "Routledge",
-            "Title": "Overhead Costs",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1970",
-            "Publisher": "Routledge",
-            "Title": "Economic Survey",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "2009",
-            "Publisher": "Allen & Unwin",
-            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1955",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1983",
-            "Publisher": "Routledge",
-            "Title": "The Theory Of Economic Growth",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Selected Economic Writings Of W. Arthur Lewis",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Principles Of Economic Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
             "Translation": "n"
         },
         {
@@ -10086,17 +9712,6 @@
             "Pubdate": "1970",
             "Publisher": "Oxford University Press",
             "Title": "Some Jamaican Folk Songs",
-            "Translation": "n"
-        },
-        {
-            "Author": "Michaellee James",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2017",
-            "Publisher": "Pegasus Books",
-            "Title": "Trees Grow Over Fences",
             "Translation": "n"
         },
         {
@@ -12135,17 +11750,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Janelle S Martin",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "winston_salem_nc_united_states",
-            "Pubdate": "2015",
-            "Publisher": "Wake Forest University",
-            "Title": "Wandering Bodies: The Disruption Of Identities In Jamaica Kincaid's Lucy And Edwidge Danticat's The Farming Of Bones",
-            "Translation": "n"
-        },
-        {
             "Author": "Peter Josie",
             "Descriptor": "",
             "Genre": "Autobiography/ Memoir",
@@ -12531,7 +12135,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -12542,7 +12146,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -12553,7 +12157,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -12564,7 +12168,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -12575,7 +12179,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -12586,7 +12190,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -12597,7 +12201,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -12608,7 +12212,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -12619,7 +12223,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
@@ -12630,7 +12234,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -12641,7 +12245,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Walter Roberts",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -13851,7 +13455,7 @@
             "Translation": "n"
         },
         {
-            "Author": " Matthew James Chapman ",
+            "Author": " Matthew James Chapman",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -13868,17 +13472,6 @@
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
             "Pubdate": "2021",
-            "Publisher": "Balzer + Bray",
-            "Title": "Where The Rhythm Takes You",
-            "Translation": "n"
-        },
-        {
-            "Author": "Sarah Dass",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2022",
             "Publisher": "Balzer + Bray",
             "Title": "Where The Rhythm Takes You",
             "Translation": "n"
@@ -16029,17 +15622,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Ian E Robertson",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Education Issues in Creole and Creole-Influenced Vernac",
-            "Translation": "n"
-        },
-        {
             "Author": "Ylce Irizarry",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -16169,28 +15751,6 @@
             "Pubdate": "1976",
             "Publisher": "Columbus Publishers",
             "Title": "J'ouvert Morning",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marion O'Callaghan",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "paris_france",
-            "Pubdate": "1977",
-            "Publisher": "United Nations Educational, Scientific and Cultural Organization",
-            "Title": "South Rhodesia: The Effects Of A Conquest Society On Education, Culture And Information",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marion O'Callaghan",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "paris_france",
-            "Pubdate": "1977",
-            "Publisher": "Unesco",
-            "Title": "Namibia: The Effects of Apartheid on Culture and Education",
             "Translation": "n"
         },
         {
@@ -16447,7 +16007,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "Mervyn Morris",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16458,7 +16018,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16469,7 +16029,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -16480,7 +16040,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -16488,17 +16048,6 @@
             "Pubdate": "1997",
             "Publisher": "Bloodaxe Books",
             "Title": "On the edge of an island",
-            "Translation": "n"
-        },
-        {
-            "Author": "Loknath Persaud",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "2004",
-            "Publisher": "Peepal Tree Press",
-            "Title": "The Conflicted Voyager: Desire And Fragmentation Of Self In Two Recent Works Of N.D. Williams",
             "Translation": "n"
         },
         {
@@ -16818,7 +16367,7 @@
             "Pubdate": "1950",
             "Publisher": "Monthly Review Press",
             "Title": "Discourse on Colonialism",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Aimé Césaire",
@@ -16892,18 +16441,7 @@
             "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "leeds_england",
-            "Pubdate": "2016",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Everyone Knows I Am A Haunting",
-            "Translation": "n"
-        },
-        {
-            "Author": "Shivanee Ramlochan",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2018",
+            "Pubdate": "2017",
             "Publisher": "Peepal Tree Press",
             "Title": "Everyone Knows I Am a Haunting",
             "Translation": "n"
@@ -17434,17 +16972,6 @@
             "Pubdate": "1982",
             "Publisher": "Anthony Kellman",
             "Title": "In Depths of Burning Light",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rachel Afi Quinn",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "champaign_il_united_states",
-            "Pubdate": "2021",
-            "Publisher": "University of Illinois Press",
-            "Title": "Being La Dominicana: Race And Identity In The Visual Culture Of Santo Domingo",
             "Translation": "n"
         },
         {
@@ -18050,28 +17577,6 @@
             "Pubdate": "2021",
             "Publisher": "Penguin Books",
             "Title": "Instructions For Dancing",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2016",
-            "Publisher": "Gabo könyvkiadó",
-            "Title": "Nap Is Csillag",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2015",
-            "Publisher": "Gabo könyvkiadó",
-            "Title": "Minden, Miinden",
             "Translation": "n"
         },
         {
@@ -19252,17 +18757,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Jake Hugh Reece Wilson",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "rhyl_wales",
-            "Pubdate": "2014",
-            "Publisher": "Jake Hugh Reece Wilson",
-            "Title": "An Arion On An Adventure",
-            "Translation": "n"
-        },
-        {
             "Author": "Karen Mah-Chamberlain",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -19958,28 +19452,6 @@
         {
             "Author": "Myriam J. A Chancy",
             "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "waterloo_canada",
-            "Pubdate": "2013",
-            "Publisher": "Wilfrid Laurier University Press",
-            "Title": "From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic",
-            "Translation": "n"
-        },
-        {
-            "Author": "Myriam J. A Chancy",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "urbana_il_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "University of Illinois Press",
-            "Title": "Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora",
-            "Translation": "n"
-        },
-        {
-            "Author": "Myriam J. A Chancy",
-            "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_england",
@@ -20009,17 +19481,6 @@
             "Publisher": "Mango Publishing",
             "Title": "Spirit Of Haiti",
             "Translation": "n"
-        },
-        {
-            "Author": "Jean Casimir",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "chapel_hill_nc_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "The University of North Carolina Press",
-            "Title": "The Haitians: A Decolonial History",
-            "Translation": "y"
         },
         {
             "Author": "Kia Marie Khelawan",
@@ -21056,14 +20517,14 @@
             "Translation": "n"
         },
         {
-            "Author": "Persephone Braham",
+            "Author": "M. Nourbese Phillip",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "minneapolis_mn_united¬†states",
-            "Pubdate": "2004",
-            "Publisher": "University of Minnesota Press",
-            "Title": "Crimes Against the State, Crimes Against Persons: Detective Fiction in Cuba and Mexico",
+            "Pub_id": "portsmouth_nh_united_states",
+            "Pubdate": "1988",
+            "Publisher": "Heinemann",
+            "Title": "Harriet's Daughter",
             "Translation": "n"
         },
         {
@@ -22464,17 +21925,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Stephanie Mckenzie",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2013",
-            "Publisher": "Jamaica Observer",
-            "Title": "The 'Aesthetic Republic': A Review of Derek Walcott's O Starry, Starry Night",
-            "Translation": "n"
-        },
-        {
             "Author": "Callie Browning",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -22497,17 +21947,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Marlene Nourbese Phillip",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "portsmouth_nh_united_states",
-            "Pubdate": "1988",
-            "Publisher": "Heinemann",
-            "Title": "Harriet's Daughter",
-            "Translation": "n"
-        },
-        {
             "Author": "Earl G Long",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -22516,17 +21955,6 @@
             "Pubdate": "2006",
             "Publisher": "Peepal Tree Press",
             "Title": "Leaves in a River",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Zellynne Jennings-Wray",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1983",
-            "Publisher": "HarperCollins",
-            "Title": "The New Island Readers",
             "Translation": "n"
         },
         {
@@ -22652,39 +22080,6 @@
         },
         {
             "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Peggy Campbell; Pamela Mordecai; Grace Walker Gordon",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "1986",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean Junior Reader",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Grace Walker Gordon",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "harlow_england",
-            "Pubdate": "1987",
-            "Publisher": "Longman Inc.",
-            "Title": "Sunsong",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Peggy Campbell; Grace Walker Gordon, Diane Browne",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "1986",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean Junior Reader",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
             "Descriptor": "",
             "Genre": "Anthology",
             "Language": "English",
@@ -22714,17 +22109,6 @@
             "Pubdate": "2022",
             "Publisher": "Mawenzi House Publishers Ltd",
             "Title": "De Book of Joseph",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Desmond Clarke; Val Biro",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "2008",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean infant reade. 3br",
             "Translation": "n"
         },
         {
@@ -22882,17 +22266,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Marcellus Taylor",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "University of Michigan Press",
-            "Title": "Accountability In The Context Of Bahamian Education: Country Case Study",
-            "Translation": "n"
-        },
-        {
             "Author": "Shani Mootoo",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -22992,28 +22365,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Robert D. Hamner",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "boulder_co_united¬†states",
-            "Pubdate": "1993",
-            "Publisher": "Lynne Rienner Publishers",
-            "Title": "Critical Perspectives On Derek Walcott",
-            "Translation": "n"
-        },
-        {
-            "Author": "Robert D. Hamner",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "English",
-            "Pub_id": "woodbridge_united¬†states",
-            "Pubdate": "1981",
-            "Publisher": "Twayne Publishers",
-            "Title": "Derek Walcott",
-            "Translation": "n"
-        },
-        {
             "Author": "Leonardo Padura Fuentes",
             "Descriptor": "Bush, Peter",
             "Genre": "Fiction (Novel)",
@@ -23091,28 +22442,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1991",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Blue",
-            "Translation": "n"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1997",
-            "Publisher": "Smithsonian Books",
-            "Title": "Faces Of Salsa: A Spoken History of the Music",
-            "Translation": "n"
-        },
-        {
             "Author": "Geoffrey Drayton",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -23132,17 +22461,6 @@
             "Pubdate": "1961",
             "Publisher": "Secker & Warburg",
             "Title": "Zohara",
-            "Translation": "n"
-        },
-        {
-            "Author": "John M Kirk",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "English",
-            "Pub_id": "gainesville_fl_united¬†states",
-            "Pubdate": "2001",
-            "Publisher": "University Press of Florida",
-            "Title": "Culture And The Cuban Revolution: Converstions In Havana",
             "Translation": "n"
         },
         {
@@ -23253,28 +22571,6 @@
             "Pubdate": "2015",
             "Publisher": "Penguin Books",
             "Title": "The Star Side Of Bird Hill",
-            "Translation": "n"
-        },
-        {
-            "Author": "Philip Brenner",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "lanham_md_united¬†states",
-            "Pubdate": "2008",
-            "Publisher": "Rowman and Littlefield",
-            "Title": "A Contemporary Cuba Reader: Reinventing the Revolution",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hilary Beckles",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "2016",
-            "Publisher": "University Press of the West Indies",
-            "Title": "The First Black Slave Society: Britain's \"Barbarity Time\" In Barbados, 1636-1876",
             "Translation": "n"
         },
         {
@@ -23698,6 +22994,30 @@
             "Translation": "y"
         }
     ],
+    "Farsi": [
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Farsi",
+            "Pub_id": "tihraãñn_iran",
+            "Pubdate": "2019",
+            "Publisher": "Nashr-i Nūn",
+            "Title": "Hamah Chiz, Hamah Chiz",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Farsi",
+            "Pub_id": "tihraãñn_iran",
+            "Pubdate": "2019",
+            "Publisher": "Nashr-i Nūn",
+            "Title": "Khurshid Hanuz Yik Sitarah Ast",
+            "Translation": "y"
+        }
+    ],
     "Finnish": [
         {
             "Author": "Edwidge Danticat",
@@ -23886,7 +23206,7 @@
             "Pubdate": "2006",
             "Publisher": "Editions Zoe",
             "Title": "Le Jeu Des Transformations",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Pauline Melville",
@@ -23897,7 +23217,7 @@
             "Pubdate": "2008",
             "Publisher": "Éditions Points",
             "Title": "Le Conte Du Ventriloque: Roman",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Clément Richer",
@@ -24018,17 +23338,6 @@
             "Pubdate": "2007",
             "Publisher": "Alexander Street Press",
             "Title": "Le Triomphe D'Eglantine",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jacques Laroche",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1968",
-            "Publisher": "Imprimerie Henri Deschamps",
-            "Title": "Leadership Et Religion",
             "Translation": "n"
         },
         {
@@ -25063,7 +24372,7 @@
             "Pubdate": "2021",
             "Publisher": "Memoire d'Encrier",
             "Title": "Anatomie De Ma Honte",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Hyam Yared",
@@ -25217,18 +24526,7 @@
             "Pubdate": "2016",
             "Publisher": "Gallimard",
             "Title": "De La Beauté",
-            "Translation": "n"
-        },
-        {
-            "Author": "Zadie Smith",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2003",
-            "Publisher": "Gallimard",
-            "Title": "Sourires De Loup",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Philippe Thoby-Marcelin",
@@ -25836,83 +25134,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Henock Trouillot",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1975",
-            "Publisher": "Éditions Fardin",
-            "Title": "Dimension Et Limites De Jacques Roumain",
-            "Translation": "n"
-        },
-        {
-            "Author": "Henock Trouillot",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1956",
-            "Publisher": "State Printing Office Port-au-Prince Haiti",
-            "Title": "L'intellectuel de couleur et les problèmes de la discrimination raciale",
-            "Translation": "n"
-        },
-        {
-            "Author": "Henock Trouillot",
-            "Descriptor": "Contributors: Catts Pressoir, Ernst Trouillot",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "mexico_city_mexico",
-            "Pubdate": "1953",
-            "Publisher": "Instituto panamericano de geografía e historia",
-            "Title": "Historiographie d'Haïti",
-            "Translation": "n"
-        },
-        {
-            "Author": "Henock Trouillot",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1955",
-            "Publisher": "Impr. de l'Etat",
-            "Title": "La condition des nègres domestiques à Saint-Domingue",
-            "Translation": "n"
-        },
-        {
-            "Author": "Henock Trouillot",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1965",
-            "Publisher": " Imprimerie de l'Etat",
-            "Title": "Economie et finances de Saint-Domingue",
-            "Translation": "n"
-        },
-        {
-            "Author": "Henock Trouillot",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1967",
-            "Publisher": "Les Editions des Antilles",
-            "Title": "La vengeance du Mapou, Theatre",
-            "Translation": "n"
-        },
-        {
-            "Author": "Henock Trouillot",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "French",
-            "Pub_id": "port_au_prince_haiti",
-            "Pubdate": "1974",
-            "Publisher": "Impr. centrale",
-            "Title": "Le Gouvernement du Roi Henri Christophe",
-            "Translation": "n"
-        },
-        {
             "Author": "V.S. Naipaul",
             "Descriptor": "",
             "Genre": "Nonfiction",
@@ -26098,17 +25319,6 @@
             "Publisher": "Gallimard",
             "Title": "Un Drapeau Sur l'île: Nouvelles",
             "Translation": "y"
-        },
-        {
-            "Author": "Léonora Miano",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "French",
-            "Pub_id": "montréal_canada",
-            "Pubdate": "2015",
-            "Publisher": "Mémoire d'encrier",
-            "Title": "Volcaniques: Une Anthologie Du Plaisir",
-            "Translation": "n"
         },
         {
             "Author": "Jean Dany Joachim",
@@ -26812,7 +26022,7 @@
             "Pubdate": "2019",
             "Publisher": "Bayard Presse",
             "Title": "Mon Etoile Solaire",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Raoul B. Altidor",
@@ -27461,7 +26671,7 @@
             "Pubdate": "1998",
             "Publisher": "Métailié",
             "Title": "L'Automne Á Cuba",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Alejo Carpentier",
@@ -27586,17 +26796,6 @@
             "Pubdate": "2002",
             "Publisher": "München Droemer",
             "Title": "Mrs. Da Silvas Karneval Erzählungen",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "German",
-            "Pub_id": "berlin_germany",
-            "Pubdate": "1990",
-            "Publisher": "De Gruyter",
-            "Title": "Caribbean Languages Lesser Known Varieties",
             "Translation": "y"
         },
         {
@@ -27608,7 +26807,7 @@
             "Pubdate": "1985",
             "Publisher": "Lamuv Verlag",
             "Title": "General Sonne: Roman Aus Haiti",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Kettly Mars",
@@ -28389,18 +27588,7 @@
             "Pubdate": "2015",
             "Publisher": "Oetinger Media",
             "Title": "Du neben Mir Und Zwischen Uns Die Ganze Welt: Ungekürzte Lesung",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "hamburg_germany",
-            "Pubdate": "2018",
-            "Publisher": "Oetinger Taschenbuch",
-            "Title": "Ein Einziger Tag Für Die Liebe",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Merle Hodge",
@@ -28411,7 +27599,7 @@
             "Pubdate": "2002",
             "Publisher": "München Omnibus",
             "Title": "Laetitias Langer Weg",
-            "Translation": ""
+            "Translation": "y"
         },
         {
             "Author": "Evan Jones",
@@ -28532,7 +27720,7 @@
             "Pubdate": "1991",
             "Publisher": "Unionsverlag",
             "Title": "Handel Der Gefühle",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -28543,7 +27731,7 @@
             "Pubdate": "2003",
             "Publisher": "Unionsverlag",
             "Title": "Der Nebel Von Gestern",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -29205,6 +28393,28 @@
             "Translation": "y"
         },
         {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hungarian",
+            "Pub_id": "budapest_hungary",
+            "Pubdate": "2016",
+            "Publisher": "Gabo könyvkiadó",
+            "Title": "Nap Is Csillag",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hungarian",
+            "Pub_id": "budapest_hungary",
+            "Pubdate": "2015",
+            "Publisher": "Gabo könyvkiadó",
+            "Title": "Minden, Miinden",
+            "Translation": "y"
+        },
+        {
             "Author": "Alejo Carpentier",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -29226,7 +28436,7 @@
             "Pubdate": "1997",
             "Publisher": "Giunti",
             "Title": "Il Racconto Del Ventriloquo",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Dany Laferrière",
@@ -29438,17 +28648,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "1970",
-            "Publisher": "Guanda",
-            "Title": "L'Isola Recuperata",
-            "Translation": "y"
-        },
-        {
             "Author": "Gina Picart",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -29622,7 +28821,7 @@
             "Pubdate": "1997",
             "Publisher": "Mondadori",
             "Title": "Lacey Dei Caraibi",
-            "Translation": ""
+            "Translation": "y"
         },
         {
             "Author": "Evan Jones",
@@ -29776,7 +28975,7 @@
             "Pubdate": "1997",
             "Publisher": "Marco Tropea Editore",
             "Title": "Maschere",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Roberto Fernández Retamar",
@@ -30108,30 +29307,6 @@
             "Translation": "y"
         }
     ],
-    "Persian (Farsi)": [
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Persian (Farsi)",
-            "Pub_id": "tihraãñn_iran",
-            "Pubdate": "2019",
-            "Publisher": "Nashr-i Nūn",
-            "Title": "Hamah Chiz, Hamah Chiz",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Persian (Farsi)",
-            "Pub_id": "tihraãñn_iran",
-            "Pubdate": "2019",
-            "Publisher": "Nashr-i Nūn",
-            "Title": "Khurshid Hanuz Yik Sitarah Ast",
-            "Translation": "n"
-        }
-    ],
     "Polish": [
         {
             "Author": "Jacques Stephen Alexis",
@@ -30142,7 +29317,7 @@
             "Pubdate": "1958",
             "Publisher": "Czytelnik",
             "Title": "General Slonce",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jean Rhys",
@@ -30164,7 +29339,7 @@
             "Pubdate": "2006",
             "Publisher": "Warszawskie Wydawnictwo Literackie MUZA",
             "Title": "Uwielbiam To Cialo...",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -30175,7 +29350,7 @@
             "Pubdate": "2017",
             "Publisher": "Wydawnictwo Znak",
             "Title": "Biale Zeby",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Caryl Phillips",
@@ -30219,7 +29394,7 @@
             "Pubdate": "1997",
             "Publisher": "Wydawnictwo Znak",
             "Title": "Trans W Hawanie",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "Portuguese": [
@@ -30276,7 +29451,7 @@
             "Pubdate": "2017",
             "Publisher": "Editorial Presença",
             "Title": "O Sol Também eE Uma Estrela",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Virgilio Piñera",
@@ -30320,7 +29495,7 @@
             "Pubdate": "1991",
             "Publisher": "Métailié",
             "Title": "Vents De Carême",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -30331,7 +29506,7 @@
             "Pubdate": "1991",
             "Publisher": "Asa Edições",
             "Title": "Um Passado Perfeito",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "Romanian": [
@@ -30836,7 +30011,7 @@
             "Pubdate": "1987",
             "Publisher": "Editora Taller",
             "Title": "Mi Compadre El General Sol",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jacques Stephen Alexis",
@@ -30847,7 +30022,7 @@
             "Pubdate": "1974",
             "Publisher": "Casa de las Americas",
             "Title": "El Compadre General Sol",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Roberto Valero",
@@ -31851,17 +31026,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Jose Prats Sariol",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "valencia_spain",
-            "Pubdate": "2021",
-            "Publisher": "Aduana Vieja",
-            "Title": "Obra Selecta: Ensayo Y Crítica Literaria",
-            "Translation": "n"
-        },
-        {
             "Author": "Jose Martí",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -32453,61 +31617,6 @@
             "Pubdate": "1990",
             "Publisher": "Editora Betânia",
             "Title": "Un Plebiscito a Fidel Castro",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1962",
-            "Publisher": "Ediciones Unión",
-            "Title": "Con Las Mismas Manos. Poesias,1949-1962",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "montevideo_uraguay",
-            "Pubdate": "1970",
-            "Publisher": "Biblioteca de Marcha",
-            "Title": "Martí",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1959",
-            "Publisher": "Úcar García y Compañía",
-            "Title": "Vuelta De La Antigua & Barbuda Esperanza",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "1900",
-            "Publisher": "Editorial Contrapunto",
-            "Title": "Algunos Usos De Civilización Y Barbarie Y Otros Ensayos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "mexico_city_mexico",
-            "Pubdate": "1974",
-            "Publisher": "Editorial Diógenes",
-            "Title": "Caliban: Apuntes Sobre la Cultura en Nuestra America",
             "Translation": "n"
         },
         {
@@ -33666,17 +32775,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Rafael Rodríguez Beltrán",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "2018",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "Carpentier Y El Minotauro De Bayreuth",
-            "Translation": "n"
-        },
-        {
             "Author": "José Lezama Lima",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -34040,17 +33138,6 @@
             "Translation": "n"
         },
         {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "aarhus_denmark",
-            "Pubdate": "2002",
-            "Publisher": "Aarhus Universitet: Matematisk Institut",
-            "Title": "La Figura del Mimo en Máscaras de Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
             "Author": "René Dépestre",
             "Descriptor": "",
             "Genre": "Essay",
@@ -34092,7 +33179,7 @@
             "Pubdate": "2015",
             "Publisher": "Planeta Publishing",
             "Title": "Todo, Todo",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Guillermo Rosales",
@@ -34147,149 +33234,6 @@
             "Pubdate": "2021",
             "Publisher": "Editorial Graó",
             "Title": "Retos Y Desafíos De La Formación Pedagógica En Las Sociedades Actuales: La Figura Del Docente",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1966",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "El Libro Fantástico de Oaj",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1996",
-            "Publisher": "Cuento de Luz",
-            "Title": "Dulces Delirios",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1984",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "Estancias",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1988",
-            "Publisher": "Unión de Escritores y Artistas",
-            "Title": "Onoloria y Otros Relatos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "2000",
-            "Publisher": "Ediciones Unión",
-            "Title": "Trastiendas: Entre Domingo y Lacay",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1991",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "La Gorrita del Papa",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones Unión",
-            "Title": "Estancias Brevarios Completos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Short Story",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1978",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "El Laurel del Patio Grande",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1998",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "El Hilo del Ovillo",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1993",
-            "Publisher": "Instituto Cubano del Libro",
-            "Title": "Estación Central",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1975",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "El Arco de Belén",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1968",
-            "Publisher": "Instituto del Libro",
-            "Title": "El Viaje",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "Frank, Eduardo",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1992",
-            "Publisher": "Ediciones Unión",
-            "Title": "El Viajante",
             "Translation": "n"
         },
         {
@@ -35170,7 +34114,7 @@
             "Pubdate": "2014",
             "Publisher": "Editorial Verbum",
             "Title": "Fiebre De Caballos",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -35181,17 +34125,6 @@
             "Pubdate": "2009",
             "Publisher": "Sarita Cartonera",
             "Title": "Mirando Al Sol",
-            "Translation": "n"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2002",
-            "Publisher": "Editorial Plaza Mayor",
-            "Title": "La Cultura Y La Revolución Cubana: Conversaciones En Havana",
             "Translation": "n"
         },
         {
@@ -35258,17 +34191,6 @@
             "Pubdate": "1969",
             "Publisher": "P.J. Oswald",
             "Title": "Avec les Mêmes Mains",
-            "Translation": "n"
-        },
-        {
-            "Author": "John M Kirk",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2002",
-            "Publisher": "Editorial Plaza Mayor",
-            "Title": "La cultura y la revolución cubana : conversaciones en La Habana",
             "Translation": "n"
         },
         {
@@ -35827,7 +34749,7 @@
             "Pubdate": "2006",
             "Publisher": "Ayrinti Yayinlari",
             "Title": "Hayaletlerin Göçü",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jean Rhys",

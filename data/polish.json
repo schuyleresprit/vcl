@@ -57,7 +57,7 @@
             "Pubdate": "1958",
             "Publisher": "Czytelnik",
             "Title": "General Slonce",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jacques Stephen Alexis",
@@ -68,7 +68,7 @@
             "Pubdate": "1958",
             "Publisher": "Czytelnik",
             "Title": "General Slonce",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "lpfuentes": [
@@ -103,7 +103,7 @@
             "Pubdate": "1997",
             "Publisher": "Wydawnictwo Znak",
             "Title": "Trans W Hawanie",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -114,7 +114,7 @@
             "Pubdate": "1997",
             "Publisher": "Wydawnictwo Znak",
             "Title": "Trans W Hawanie",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "tmcwatt": [
@@ -127,7 +127,7 @@
             "Pubdate": "2006",
             "Publisher": "Warszawskie Wydawnictwo Literackie MUZA",
             "Title": "Uwielbiam To Cialo...",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Tessa McWatt",
@@ -138,7 +138,7 @@
             "Pubdate": "2006",
             "Publisher": "Warszawskie Wydawnictwo Literackie MUZA",
             "Title": "Uwielbiam To Cialo...",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "vsnaipaul": [
@@ -175,7 +175,7 @@
             "Pubdate": "2017",
             "Publisher": "Wydawnictwo Znak",
             "Title": "Biale Zeby",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -186,7 +186,7 @@
             "Pubdate": "2017",
             "Publisher": "Wydawnictwo Znak",
             "Title": "Biale Zeby",
-            "Translation": "n"
+            "Translation": "y"
         }
     ]
 }

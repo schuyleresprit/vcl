@@ -759,7 +759,7 @@
             "Pubdate": "1997",
             "Publisher": "Marco Tropea Editore",
             "Title": "Maschere",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -770,7 +770,7 @@
             "Pubdate": "1997",
             "Publisher": "Marco Tropea Editore",
             "Title": "Maschere",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "mconde": [
@@ -807,7 +807,7 @@
             "Pubdate": "1997",
             "Publisher": "Mondadori",
             "Title": "Lacey Dei Caraibi",
-            "Translation": ""
+            "Translation": "y"
         },
         {
             "Author": "Merle Hodge",
@@ -818,7 +818,7 @@
             "Pubdate": "1997",
             "Publisher": "Mondadori",
             "Title": "Lacey Dei Caraibi",
-            "Translation": ""
+            "Translation": "y"
         }
     ],
     "mpfernandez": [
@@ -901,7 +901,7 @@
             "Pubdate": "1997",
             "Publisher": "Giunti",
             "Title": "Il Racconto Del Ventriloquo",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Pauline Melville",
@@ -912,7 +912,7 @@
             "Pubdate": "1997",
             "Publisher": "Giunti",
             "Title": "Il Racconto Del Ventriloquo",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "rfretamar": [
@@ -937,30 +937,6 @@
             "Publisher": "Guanda",
             "Title": "L'Isola Recuperata",
             "Translation": "n"
-        }
-    ],
-    "rretamar": [
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "1970",
-            "Publisher": "Guanda",
-            "Title": "L'Isola Recuperata",
-            "Translation": "y"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "1970",
-            "Publisher": "Guanda",
-            "Title": "L'Isola Recuperata",
-            "Translation": "y"
         }
     ],
     "scostanzo": [

@@ -5003,30 +5003,6 @@
             "Translation": "n"
         }
     ],
-    "jmkirk": [
-        {
-            "Author": "John M Kirk",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2002",
-            "Publisher": "Editorial Plaza Mayor",
-            "Title": "La cultura y la revolución cubana : conversaciones en La Habana",
-            "Translation": "n"
-        },
-        {
-            "Author": "John M Kirk",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2002",
-            "Publisher": "Editorial Plaza Mayor",
-            "Title": "La cultura y la revolución cubana : conversaciones en La Habana",
-            "Translation": "n"
-        }
-    ],
     "jortega": [
         {
             "Author": "Julio Ortega",
@@ -5048,30 +5024,6 @@
             "Pubdate": "1974",
             "Publisher": "Editorial Fundamentos",
             "Title": "Guillermo Cabrera Infante",
-            "Translation": "n"
-        }
-    ],
-    "jpsariol": [
-        {
-            "Author": "Jose Prats Sariol",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "valencia_spain",
-            "Pubdate": "2021",
-            "Publisher": "Aduana Vieja",
-            "Title": "Obra Selecta: Ensayo Y Crítica Literaria",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jose Prats Sariol",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "valencia_spain",
-            "Pubdate": "2021",
-            "Publisher": "Aduana Vieja",
-            "Title": "Obra Selecta: Ensayo Y Crítica Literaria",
             "Translation": "n"
         }
     ],
@@ -5377,7 +5329,7 @@
             "Pubdate": "1987",
             "Publisher": "Editora Taller",
             "Title": "Mi Compadre El General Sol",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jacques Stephen Alexis",
@@ -5388,7 +5340,7 @@
             "Pubdate": "1987",
             "Publisher": "Editora Taller",
             "Title": "Mi Compadre El General Sol",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jacques Stephen Alexis",
@@ -5399,7 +5351,7 @@
             "Pubdate": "1974",
             "Publisher": "Casa de las Americas",
             "Title": "El Compadre General Sol",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jacques Stephen Alexis",
@@ -5410,7 +5362,7 @@
             "Pubdate": "1974",
             "Publisher": "Casa de las Americas",
             "Title": "El Compadre General Sol",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "kbrathwaite": [
@@ -6231,7 +6183,7 @@
             "Pubdate": "2014",
             "Publisher": "Editorial Verbum",
             "Title": "Fiebre De Caballos",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -6242,7 +6194,7 @@
             "Pubdate": "2014",
             "Publisher": "Editorial Verbum",
             "Title": "Fiebre De Caballos",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -6264,28 +6216,6 @@
             "Pubdate": "2009",
             "Publisher": "Sarita Cartonera",
             "Title": "Mirando Al Sol",
-            "Translation": "n"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2002",
-            "Publisher": "Editorial Plaza Mayor",
-            "Title": "La Cultura Y La Revolución Cubana: Conversaciones En Havana",
-            "Translation": "n"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "san_juan_puerto_rico",
-            "Pubdate": "2002",
-            "Publisher": "Editorial Plaza Mayor",
-            "Title": "La Cultura Y La Revolución Cubana: Conversaciones En Havana",
             "Translation": "n"
         }
     ],
@@ -7401,292 +7331,6 @@
             "Publisher": "Instituto Cubano del Libro",
             "Title": "Estación Central",
             "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1966",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "El Libro Fantástico de Oaj",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1966",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "El Libro Fantástico de Oaj",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1996",
-            "Publisher": "Cuento de Luz",
-            "Title": "Dulces Delirios",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1996",
-            "Publisher": "Cuento de Luz",
-            "Title": "Dulces Delirios",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1984",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "Estancias",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1984",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "Estancias",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1988",
-            "Publisher": "Unión de Escritores y Artistas",
-            "Title": "Onoloria y Otros Relatos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1988",
-            "Publisher": "Unión de Escritores y Artistas",
-            "Title": "Onoloria y Otros Relatos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "2000",
-            "Publisher": "Ediciones Unión",
-            "Title": "Trastiendas: Entre Domingo y Lacay",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "2000",
-            "Publisher": "Ediciones Unión",
-            "Title": "Trastiendas: Entre Domingo y Lacay",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1991",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "La Gorrita del Papa",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1991",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "La Gorrita del Papa",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones Unión",
-            "Title": "Estancias Brevarios Completos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1998",
-            "Publisher": "Ediciones Unión",
-            "Title": "Estancias Brevarios Completos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Short Story",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1978",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "El Laurel del Patio Grande",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Short Story",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1978",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "El Laurel del Patio Grande",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1998",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "El Hilo del Ovillo",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1998",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "El Hilo del Ovillo",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1993",
-            "Publisher": "Instituto Cubano del Libro",
-            "Title": "Estación Central",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1993",
-            "Publisher": "Instituto Cubano del Libro",
-            "Title": "Estación Central",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1975",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "El Arco de Belén",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Short Story Collection)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1975",
-            "Publisher": "Unión de Escritores y Artistas de Cuba",
-            "Title": "El Arco de Belén",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1968",
-            "Publisher": "Instituto del Libro",
-            "Title": "El Viaje",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1968",
-            "Publisher": "Instituto del Libro",
-            "Title": "El Viaje",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "Frank, Eduardo",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1992",
-            "Publisher": "Ediciones Unión",
-            "Title": "El Viajante",
-            "Translation": "n"
-        },
-        {
-            "Author": "Miguel Collazo",
-            "Descriptor": "Frank, Eduardo",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1992",
-            "Publisher": "Ediciones Unión",
-            "Title": "El Viajante",
-            "Translation": "n"
         }
     ],
     "mconde": [
@@ -7756,30 +7400,6 @@
             "Pubdate": "1976",
             "Publisher": "Mercaderes",
             "Title": "El Milagro y la Esfinge",
-            "Translation": "n"
-        }
-    ],
-    "mfernandez": [
-        {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "aarhus_denmark",
-            "Pubdate": "2002",
-            "Publisher": "Aarhus Universitet: Matematisk Institut",
-            "Title": "La Figura del Mimo en Máscaras de Leonardo Padura Fuentes",
-            "Translation": "n"
-        },
-        {
-            "Author": "Manuel Fernández",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "aarhus_denmark",
-            "Pubdate": "2002",
-            "Publisher": "Aarhus Universitet: Matematisk Institut",
-            "Title": "La Figura del Mimo en Máscaras de Leonardo Padura Fuentes",
             "Translation": "n"
         }
     ],
@@ -8491,7 +8111,7 @@
             "Pubdate": "2015",
             "Publisher": "Planeta Publishing",
             "Title": "Todo, Todo",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Nicola Yoon",
@@ -8502,7 +8122,7 @@
             "Pubdate": "2015",
             "Publisher": "Planeta Publishing",
             "Title": "Todo, Todo",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "rantoni": [
@@ -9508,142 +9128,6 @@
             "Pubdate": "2010",
             "Publisher": "HarperCollins Espanol",
             "Title": "Había Una Vez : Cuentos Tradicionales Latino Americanos",
-            "Translation": "n"
-        }
-    ],
-    "rrbeltran": [
-        {
-            "Author": "Rafael Rodríguez Beltrán",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "2018",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "Carpentier Y El Minotauro De Bayreuth",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rafael Rodríguez Beltrán",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "2018",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "Carpentier Y El Minotauro De Bayreuth",
-            "Translation": "n"
-        }
-    ],
-    "rretamar": [
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1962",
-            "Publisher": "Ediciones Unión",
-            "Title": "Con Las Mismas Manos. Poesias,1949-1962",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1962",
-            "Publisher": "Ediciones Unión",
-            "Title": "Con Las Mismas Manos. Poesias,1949-1962",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "montevideo_uraguay",
-            "Pubdate": "1970",
-            "Publisher": "Biblioteca de Marcha",
-            "Title": "Martí",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "montevideo_uraguay",
-            "Pubdate": "1970",
-            "Publisher": "Biblioteca de Marcha",
-            "Title": "Martí",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1959",
-            "Publisher": "Úcar García y Compañía",
-            "Title": "Vuelta De La Antigua & Barbuda Esperanza",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1959",
-            "Publisher": "Úcar García y Compañía",
-            "Title": "Vuelta De La Antigua & Barbuda Esperanza",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "1900",
-            "Publisher": "Editorial Contrapunto",
-            "Title": "Algunos Usos De Civilización Y Barbarie Y Otros Ensayos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "Spanish",
-            "Pub_id": "buenos_aires_argentina",
-            "Pubdate": "1900",
-            "Publisher": "Editorial Contrapunto",
-            "Title": "Algunos Usos De Civilización Y Barbarie Y Otros Ensayos",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "mexico_city_mexico",
-            "Pubdate": "1974",
-            "Publisher": "Editorial Diógenes",
-            "Title": "Caliban: Apuntes Sobre la Cultura en Nuestra America",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "Spanish",
-            "Pub_id": "mexico_city_mexico",
-            "Pubdate": "1974",
-            "Publisher": "Editorial Diógenes",
-            "Title": "Caliban: Apuntes Sobre la Cultura en Nuestra America",
             "Translation": "n"
         }
     ],

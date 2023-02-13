@@ -881,7 +881,7 @@
             "Pubdate": "1985",
             "Publisher": "Lamuv Verlag",
             "Title": "General Sonne: Roman Aus Haiti",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Jacques Stephen Alexis",
@@ -892,7 +892,7 @@
             "Pubdate": "1985",
             "Publisher": "Lamuv Verlag",
             "Title": "General Sonne: Roman Aus Haiti",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "jzobel": [
@@ -1087,7 +1087,7 @@
             "Pubdate": "1991",
             "Publisher": "Unionsverlag",
             "Title": "Handel Der Gefühle",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -1098,7 +1098,7 @@
             "Pubdate": "1991",
             "Publisher": "Unionsverlag",
             "Title": "Handel Der Gefühle",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -1109,7 +1109,7 @@
             "Pubdate": "2003",
             "Publisher": "Unionsverlag",
             "Title": "Der Nebel Von Gestern",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -1120,7 +1120,7 @@
             "Pubdate": "2003",
             "Publisher": "Unionsverlag",
             "Title": "Der Nebel Von Gestern",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Leonardo Padura Fuentes",
@@ -1269,7 +1269,7 @@
             "Pubdate": "2002",
             "Publisher": "München Omnibus",
             "Title": "Laetitias Langer Weg",
-            "Translation": ""
+            "Translation": "y"
         },
         {
             "Author": "Merle Hodge",
@@ -1280,7 +1280,7 @@
             "Pubdate": "2002",
             "Publisher": "München Omnibus",
             "Title": "Laetitias Langer Weg",
-            "Translation": ""
+            "Translation": "y"
         }
     ],
     "nmorejón": [
@@ -1361,7 +1361,7 @@
             "Pubdate": "2015",
             "Publisher": "Oetinger Media",
             "Title": "Du neben Mir Und Zwischen Uns Die Ganze Welt: Ungekürzte Lesung",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Nicola Yoon",
@@ -1372,29 +1372,7 @@
             "Pubdate": "2015",
             "Publisher": "Oetinger Media",
             "Title": "Du neben Mir Und Zwischen Uns Die Ganze Welt: Ungekürzte Lesung",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "hamburg_germany",
-            "Pubdate": "2018",
-            "Publisher": "Oetinger Taschenbuch",
-            "Title": "Ein Einziger Tag Für Die Liebe",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "German",
-            "Pub_id": "hamburg_germany",
-            "Pubdate": "2018",
-            "Publisher": "Oetinger Taschenbuch",
-            "Title": "Ein Einziger Tag Für Die Liebe",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "pmelville": [
@@ -1407,7 +1385,7 @@
             "Pubdate": "2002",
             "Publisher": "München Droemer",
             "Title": "Mrs. Da Silvas Karneval Erzählungen",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Pauline Melville",
@@ -1418,7 +1396,7 @@
             "Pubdate": "2002",
             "Publisher": "München Droemer",
             "Title": "Mrs. Da Silvas Karneval Erzählungen",
-            "Translation": "n"
+            "Translation": "y"
         }
     ],
     "rarenas": [
@@ -1508,30 +1486,6 @@
             "Pubdate": "1987",
             "Publisher": "Edition día",
             "Title": "Wahnwitzige Welt Ein. Abenteuerroman",
-            "Translation": "y"
-        }
-    ],
-    "vpollard": [
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "German",
-            "Pub_id": "berlin_germany",
-            "Pubdate": "1990",
-            "Publisher": "De Gruyter",
-            "Title": "Caribbean Languages Lesser Known Varieties",
-            "Translation": "y"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "German",
-            "Pub_id": "berlin_germany",
-            "Pubdate": "1990",
-            "Publisher": "De Gruyter",
-            "Title": "Caribbean Languages Lesser Known Varieties",
             "Translation": "y"
         }
     ],

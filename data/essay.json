@@ -1211,30 +1211,6 @@
             "Translation": "n"
         }
     ],
-    "lopersaud": [
-        {
-            "Author": "Loknath Persaud",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "2004",
-            "Publisher": "Peepal Tree Press",
-            "Title": "The Conflicted Voyager: Desire And Fragmentation Of Self In Two Recent Works Of N.D. Williams",
-            "Translation": "n"
-        },
-        {
-            "Author": "Loknath Persaud",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "2004",
-            "Publisher": "Peepal Tree Press",
-            "Title": "The Conflicted Voyager: Desire And Fragmentation Of Self In Two Recent Works Of N.D. Williams",
-            "Translation": "n"
-        }
-    ],
     "mpreziuso": [
         {
             "Author": "Marika Preziuso",
@@ -1538,78 +1514,6 @@
             "Pubdate": "1970",
             "Publisher": "Biblioteca de Marcha",
             "Title": "Martí",
-            "Translation": "n"
-        }
-    ],
-    "rrbeltran": [
-        {
-            "Author": "Rafael Rodríguez Beltrán",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "2018",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "Carpentier Y El Minotauro De Bayreuth",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rafael Rodríguez Beltrán",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "2018",
-            "Publisher": "Editorial Letras Cubanas",
-            "Title": "Carpentier Y El Minotauro De Bayreuth",
-            "Translation": "n"
-        }
-    ],
-    "rretamar": [
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "1970",
-            "Publisher": "Guanda",
-            "Title": "L'Isola Recuperata",
-            "Translation": "y"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "1970",
-            "Publisher": "Guanda",
-            "Title": "L'Isola Recuperata",
-            "Translation": "y"
-        }
-    ],
-    "vpollard": [
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "oxfordshire_england",
-            "Pubdate": "1980",
-            "Publisher": "Taylor & Francis Online",
-            "Title": "Language In The Poetry Of Edward Brathwaite",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "oxfordshire_england",
-            "Pubdate": "1980",
-            "Publisher": "Taylor & Francis Online",
-            "Title": "Language In The Poetry Of Edward Brathwaite",
             "Translation": "n"
         }
     ],

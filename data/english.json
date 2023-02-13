@@ -459,7 +459,7 @@
             "Pubdate": "1950",
             "Publisher": "Monthly Review Press",
             "Title": "Discourse on Colonialism",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Aimé Césaire",
@@ -470,7 +470,7 @@
             "Pubdate": "1950",
             "Publisher": "Monthly Review Press",
             "Title": "Discourse on Colonialism",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Aimé Césaire",
@@ -17037,30 +17037,6 @@
             "Translation": "n"
         }
     ],
-    "hbeckles": [
-        {
-            "Author": "Hilary Beckles",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "2016",
-            "Publisher": "University Press of the West Indies",
-            "Title": "The First Black Slave Society: Britain's \"Barbarity Time\" In Barbados, 1636-1876",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hilary Beckles",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "2016",
-            "Publisher": "University Press of the West Indies",
-            "Title": "The First Black Slave Society: Britain's \"Barbarity Time\" In Barbados, 1636-1876",
-            "Translation": "n"
-        }
-    ],
     "hgdlisser": [
         {
             "Author": "H. G. De Lisser",
@@ -20225,116 +20201,6 @@
             "Publisher": "Ian Randle Publishers",
             "Title": "Silk Cotton And Other Trees",
             "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Robertson, Ian ;  Christie, Pauline;",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2006",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Exploring The Boundaries Of Caribbean Creole Languages",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Robertson, Ian ;  Christie, Pauline;",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2006",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Exploring The Boundaries Of Caribbean Creole Languages",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Robertson, Ian ",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Education Issues in Creole and Creole-influenced Vernacular Contexts",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Robertson, Ian ",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Education Issues in Creole and Creole-influenced Vernacular Contexts",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Linda Fields; Peter A Roberts",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2012",
-            "Publisher": "Ian Randle Publishers",
-            "Title": "Writing in English : a course book for Caribbean students",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Linda Fields; Peter A Roberts",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2012",
-            "Publisher": "Ian Randle Publishers",
-            "Title": "Writing in English : a course book for Caribbean students",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Co-Author: Mark McWatt",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1994",
-            "Publisher": "Hodder Education",
-            "Title": "World of Poetry ",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Co-Author: Mark McWatt",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1994",
-            "Publisher": "Hodder Education",
-            "Title": "World of Poetry ",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2005",
-            "Publisher": "Heinemann Educational Books",
-            "Title": "A World of Prose Csec",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2005",
-            "Publisher": "Heinemann Educational Books",
-            "Title": "A World of Prose Csec",
-            "Translation": "n"
         }
     ],
     "hvaldman": [
@@ -20358,30 +20224,6 @@
             "Pubdate": "2014",
             "Publisher": "Comics",
             "Title": "To The New World: The Kuriel Family In The Caribbean Islands",
-            "Translation": "n"
-        }
-    ],
-    "ierobinson": [
-        {
-            "Author": "Ian E Robertson",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Education Issues in Creole and Creole-Influenced Vernac",
-            "Translation": "n"
-        },
-        {
-            "Author": "Ian E Robertson",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "2014",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Education Issues in Creole and Creole-Influenced Vernac",
             "Translation": "n"
         }
     ],
@@ -21263,30 +21105,6 @@
             "Translation": "n"
         }
     ],
-    "jbaldwin": [
-        {
-            "Author": "James Baldwin",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "boston_ma_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "Cengage Learning",
-            "Title": "An Anthology of Colonial and Postcolonial Short Fiction",
-            "Translation": "n"
-        },
-        {
-            "Author": "James Baldwin",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "boston_ma_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "Cengage Learning",
-            "Title": "An Anthology of Colonial and Postcolonial Short Fiction",
-            "Translation": "n"
-        }
-    ],
     "jbent": [
         {
             "Author": "Jennifer Bent",
@@ -21335,7 +21153,7 @@
     ],
     "jbreeze": [
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "Mervyn Morris",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -21346,7 +21164,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "Mervyn Morris",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -21357,7 +21175,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -21368,7 +21186,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -21379,7 +21197,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -21390,7 +21208,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -21401,7 +21219,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -21412,7 +21230,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -21421,30 +21239,6 @@
             "Publisher": "Bloodaxe Books",
             "Title": "On the edge of an island",
             "Translation": "n"
-        }
-    ],
-    "jcasimir": [
-        {
-            "Author": "Jean Casimir",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "chapel_hill_nc_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "The University of North Carolina Press",
-            "Title": "The Haitians: A Decolonial History",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Casimir",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "chapel_hill_nc_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "The University of North Carolina Press",
-            "Title": "The Haitians: A Decolonial History",
-            "Translation": "y"
         }
     ],
     "jchillhouse": [
@@ -22057,30 +21851,6 @@
             "Translation": "n"
         }
     ],
-    "jhrwilson": [
-        {
-            "Author": "Jake Hugh Reece Wilson",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "rhyl_wales",
-            "Pubdate": "2014",
-            "Publisher": "Jake Hugh Reece Wilson",
-            "Title": "An Arion On An Adventure",
-            "Translation": "n"
-        },
-        {
-            "Author": "Jake Hugh Reece Wilson",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "rhyl_wales",
-            "Pubdate": "2014",
-            "Publisher": "Jake Hugh Reece Wilson",
-            "Title": "An Arion On An Adventure",
-            "Translation": "n"
-        }
-    ],
     "jhusband": [
         {
             "Author": "Joseph Husband",
@@ -22150,30 +21920,6 @@
             "Pubdate": "1962",
             "Publisher": "Tinling & Co.",
             "Title": "Love Leaps Here",
-            "Translation": "n"
-        }
-    ],
-    "jjthomas": [
-        {
-            "Author": "John Jacob Thomas",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "1869",
-            "Publisher": "The Chronicle Publishing Office",
-            "Title": "The Theory And Practice Of Creole Grammar",
-            "Translation": "n"
-        },
-        {
-            "Author": "John Jacob Thomas",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "1869",
-            "Publisher": "The Chronicle Publishing Office",
-            "Title": "The Theory And Practice Of Creole Grammar",
             "Translation": "n"
         }
     ],
@@ -22712,30 +22458,6 @@
             "Pubdate": "1958",
             "Publisher": "Universidad Central de Las Villas, Departamento de Relaciones Culturales",
             "Title": "Tratados En Havana",
-            "Translation": "n"
-        }
-    ],
-    "jmkirk": [
-        {
-            "Author": "John M Kirk",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "English",
-            "Pub_id": "gainesville_fl_united¬†states",
-            "Pubdate": "2001",
-            "Publisher": "University Press of Florida",
-            "Title": "Culture And The Cuban Revolution: Converstions In Havana",
-            "Translation": "n"
-        },
-        {
-            "Author": "John M Kirk",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "English",
-            "Pub_id": "gainesville_fl_united¬†states",
-            "Pubdate": "2001",
-            "Publisher": "University Press of Florida",
-            "Title": "Culture And The Cuban Revolution: Converstions In Havana",
             "Translation": "n"
         }
     ],
@@ -23392,30 +23114,6 @@
             "Pubdate": "2018",
             "Publisher": "Papillote Press",
             "Title": "Abraham's Treasure",
-            "Translation": "n"
-        }
-    ],
-    "jsmartin": [
-        {
-            "Author": "Janelle S Martin",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "winston_salem_nc_united_states",
-            "Pubdate": "2015",
-            "Publisher": "Wake Forest University",
-            "Title": "Wandering Bodies: The Disruption Of Identities In Jamaica Kincaid's Lucy And Edwidge Danticat's The Farming Of Bones",
-            "Translation": "n"
-        },
-        {
-            "Author": "Janelle S Martin",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "winston_salem_nc_united_states",
-            "Pubdate": "2015",
-            "Publisher": "Wake Forest University",
-            "Title": "Wandering Bodies: The Disruption Of Identities In Jamaica Kincaid's Lucy And Edwidge Danticat's The Farming Of Bones",
             "Translation": "n"
         }
     ],
@@ -27443,7 +27141,7 @@
             "Translation": "n"
         }
     ],
-    "lbennet": [
+    "lbennett": [
         {
             "Author": "Louise Bennett",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Louise_Bennett-Coverley",
@@ -28315,30 +28013,6 @@
             "Translation": "n"
         }
     ],
-    "ljragatz": [
-        {
-            "Author": "Lowell J Ragatz",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "washington_dc_united¬†states",
-            "Pubdate": "1932",
-            "Publisher": "Government Printing Office, Washington",
-            "Title": "A Guide For The Study Of British Caribbean History, 1763-1834, Including The Abolition And Emancipation Movements",
-            "Translation": "n"
-        },
-        {
-            "Author": "Lowell J Ragatz",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "washington_dc_united¬†states",
-            "Pubdate": "1932",
-            "Publisher": "Government Printing Office, Washington",
-            "Title": "A Guide For The Study Of British Caribbean History, 1763-1834, Including The Abolition And Emancipation Movements",
-            "Translation": "n"
-        }
-    ],
     "lking": [
         {
             "Author": "Lloyd King",
@@ -28429,30 +28103,6 @@
             "Publisher": "City Lights Booksellers & Publishers",
             "Title": "Haiti Glass",
             "Translation": "y"
-        }
-    ],
-    "lopersaud": [
-        {
-            "Author": "Loknath Persaud",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "2004",
-            "Publisher": "Peepal Tree Press",
-            "Title": "The Conflicted Voyager: Desire And Fragmentation Of Self In Two Recent Works Of N.D. Williams",
-            "Translation": "n"
-        },
-        {
-            "Author": "Loknath Persaud",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "port_of_spain_trinidad_&¬†tobago",
-            "Pubdate": "2004",
-            "Publisher": "Peepal Tree Press",
-            "Title": "The Conflicted Voyager: Desire And Fragmentation Of Self In Two Recent Works Of N.D. Williams",
-            "Translation": "n"
         }
     ],
     "lpdalembert": [
@@ -28657,50 +28307,6 @@
             "Publisher": "Farrar, Straus and Giroux",
             "Title": "The Man Who Loved Dogs",
             "Translation": "y"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1991",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Blue",
-            "Translation": "n"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "(london)_england",
-            "Pubdate": "1991",
-            "Publisher": "Bitter Lemon Press",
-            "Title": "Havana Blue",
-            "Translation": "n"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1997",
-            "Publisher": "Smithsonian Books",
-            "Title": "Faces Of Salsa: A Spoken History of the Music",
-            "Translation": "n"
-        },
-        {
-            "Author": "Leonardo Padura Fuentes",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "washington_d.c_united¬†states",
-            "Pubdate": "1997",
-            "Publisher": "Smithsonian Books",
-            "Title": "Faces Of Salsa: A Spoken History of the Music",
-            "Translation": "n"
         }
     ],
     "lross": [
@@ -30275,30 +29881,6 @@
             "Translation": "n"
         }
     ],
-    "mfolmos": [
-        {
-            "Author": "Margarite Fernández Olmos",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Creole Religions of the Caribbean",
-            "Translation": "n"
-        },
-        {
-            "Author": "Margarite Fernández Olmos",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united¬†states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Creole Religions of the Caribbean",
-            "Translation": "n"
-        }
-    ],
     "mheurtelou": [
         {
             "Author": "Maude Heurtelou",
@@ -30967,50 +30549,6 @@
         {
             "Author": "Myriam J. A Chancy",
             "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "waterloo_canada",
-            "Pubdate": "2013",
-            "Publisher": "Wilfrid Laurier University Press",
-            "Title": "From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic",
-            "Translation": "n"
-        },
-        {
-            "Author": "Myriam J. A Chancy",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "waterloo_canada",
-            "Pubdate": "2013",
-            "Publisher": "Wilfrid Laurier University Press",
-            "Title": "From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic",
-            "Translation": "n"
-        },
-        {
-            "Author": "Myriam J. A Chancy",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "urbana_il_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "University of Illinois Press",
-            "Title": "Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora",
-            "Translation": "n"
-        },
-        {
-            "Author": "Myriam J. A Chancy",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "urbana_il_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "University of Illinois Press",
-            "Title": "Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora",
-            "Translation": "n"
-        },
-        {
-            "Author": "Myriam J. A Chancy",
-            "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "leeds_england",
@@ -31076,28 +30614,6 @@
         }
     ],
     "mjames": [
-        {
-            "Author": "Michaellee James",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2017",
-            "Publisher": "Pegasus Books",
-            "Title": "Trees Grow Over Fences",
-            "Translation": "n"
-        },
-        {
-            "Author": "Michaellee James",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2017",
-            "Publisher": "Pegasus Books",
-            "Title": "Trees Grow Over Fences",
-            "Translation": "n"
-        },
         {
             "Author": "Marlon James",
             "Descriptor": "",
@@ -31255,7 +30771,7 @@
     ],
     "mjchapman": [
         {
-            "Author": " Matthew James Chapman ",
+            "Author": " Matthew James Chapman",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -31266,7 +30782,7 @@
             "Translation": "n"
         },
         {
-            "Author": " Matthew James Chapman ",
+            "Author": " Matthew James Chapman",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -31681,28 +31197,6 @@
             "Publisher": "Women and Development Studies, Institute of International Relations, University of the West Indies",
             "Title": "Gender In 'Summer lightning' And 'Talking Of trees'",
             "Translation": "n"
-        },
-        {
-            "Author": "Mervyn Morris",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1987",
-            "Publisher": "Women and Development Studies, University of the West Indies",
-            "Title": "Gender In Some Performance Poems",
-            "Translation": "n"
-        },
-        {
-            "Author": "Mervyn Morris",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1987",
-            "Publisher": "Women and Development Studies, University of the West Indies",
-            "Title": "Gender In Some Performance Poems",
-            "Translation": "n"
         }
     ],
     "mmoulite": [
@@ -31775,33 +31269,9 @@
             "Translation": "n"
         }
     ],
-    "mmunro": [
-        {
-            "Author": "Martin Munro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2006",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Reinterpreting The Haitian Revolution And It's Cultural Aftershocks",
-            "Translation": "n"
-        },
-        {
-            "Author": "Martin Munro",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2006",
-            "Publisher": "University of the West Indies Press",
-            "Title": "Reinterpreting The Haitian Revolution And It's Cultural Aftershocks",
-            "Translation": "n"
-        }
-    ],
     "mnphillip": [
         {
-            "Author": "Marlene Nourbese Phillip",
+            "Author": "M. Nourbese Phillip",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -31812,7 +31282,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Marlene Nourbese Phillip",
+            "Author": "M. Nourbese Phillip",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -31868,50 +31338,6 @@
             "Pubdate": "1976",
             "Publisher": "Columbus Publishers",
             "Title": "J'ouvert Morning",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marion O'Callaghan",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "paris_france",
-            "Pubdate": "1977",
-            "Publisher": "United Nations Educational, Scientific and Cultural Organization",
-            "Title": "South Rhodesia: The Effects Of A Conquest Society On Education, Culture And Information",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marion O'Callaghan",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "paris_france",
-            "Pubdate": "1977",
-            "Publisher": "United Nations Educational, Scientific and Cultural Organization",
-            "Title": "South Rhodesia: The Effects Of A Conquest Society On Education, Culture And Information",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marion O'Callaghan",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "paris_france",
-            "Pubdate": "1977",
-            "Publisher": "Unesco",
-            "Title": "Namibia: The Effects of Apartheid on Culture and Education",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marion O'Callaghan",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "paris_france",
-            "Pubdate": "1977",
-            "Publisher": "Unesco",
-            "Title": "Namibia: The Effects of Apartheid on Culture and Education",
             "Translation": "n"
         }
     ],
@@ -32264,30 +31690,6 @@
             "Pubdate": "2014",
             "Publisher": "Xlibris LLC",
             "Title": "Muñeca Dominicana, Caribeño Tesoro",
-            "Translation": "n"
-        }
-    ],
-    "mtaylor": [
-        {
-            "Author": "Marcellus Taylor",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "University of Michigan Press",
-            "Title": "Accountability In The Context Of Bahamian Education: Country Case Study",
-            "Translation": "n"
-        },
-        {
-            "Author": "Marcellus Taylor",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "2017",
-            "Publisher": "University of Michigan Press",
-            "Title": "Accountability In The Context Of Bahamian Education: Country Case Study",
             "Translation": "n"
         }
     ],
@@ -33232,50 +32634,6 @@
             "Pubdate": "2021",
             "Publisher": "Penguin Books",
             "Title": "Instructions For Dancing",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2016",
-            "Publisher": "Gabo könyvkiadó",
-            "Title": "Nap Is Csillag",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2016",
-            "Publisher": "Gabo könyvkiadó",
-            "Title": "Nap Is Csillag",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2015",
-            "Publisher": "Gabo könyvkiadó",
-            "Title": "Minden, Miinden",
-            "Translation": "n"
-        },
-        {
-            "Author": "Nicola Yoon",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "budapest_hungary",
-            "Pubdate": "2015",
-            "Publisher": "Gabo könyvkiadó",
-            "Title": "Minden, Miinden",
             "Translation": "n"
         },
         {
@@ -34467,54 +33825,6 @@
             "Translation": "n"
         }
     ],
-    "pbraham": [
-        {
-            "Author": "Persephone Braham",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "minneapolis_mn_united¬†states",
-            "Pubdate": "2004",
-            "Publisher": "University of Minnesota Press",
-            "Title": "Crimes Against the State, Crimes Against Persons: Detective Fiction in Cuba and Mexico",
-            "Translation": "n"
-        },
-        {
-            "Author": "Persephone Braham",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "minneapolis_mn_united¬†states",
-            "Pubdate": "2004",
-            "Publisher": "University of Minnesota Press",
-            "Title": "Crimes Against the State, Crimes Against Persons: Detective Fiction in Cuba and Mexico",
-            "Translation": "n"
-        }
-    ],
-    "pbrenner": [
-        {
-            "Author": "Philip Brenner",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "lanham_md_united¬†states",
-            "Pubdate": "2008",
-            "Publisher": "Rowman and Littlefield",
-            "Title": "A Contemporary Cuba Reader: Reinventing the Revolution",
-            "Translation": "n"
-        },
-        {
-            "Author": "Philip Brenner",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "lanham_md_united¬†states",
-            "Pubdate": "2008",
-            "Publisher": "Rowman and Littlefield",
-            "Title": "A Contemporary Cuba Reader: Reinventing the Revolution",
-            "Translation": "n"
-        }
-    ],
     "pchamoiseau": [
         {
             "Author": "Patrick Chamoiseau",
@@ -35372,28 +34682,6 @@
     "pmordecai": [
         {
             "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Zellynne Jennings-Wray",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1983",
-            "Publisher": "HarperCollins",
-            "Title": "The New Island Readers",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Zellynne Jennings-Wray",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1983",
-            "Publisher": "HarperCollins",
-            "Title": "The New Island Readers",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -35636,72 +34924,6 @@
         },
         {
             "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Peggy Campbell; Pamela Mordecai; Grace Walker Gordon",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "1986",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean Junior Reader",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Peggy Campbell; Pamela Mordecai; Grace Walker Gordon",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "1986",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean Junior Reader",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Grace Walker Gordon",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "harlow_england",
-            "Pubdate": "1987",
-            "Publisher": "Longman Inc.",
-            "Title": "Sunsong",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Grace Walker Gordon",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "harlow_england",
-            "Pubdate": "1987",
-            "Publisher": "Longman Inc.",
-            "Title": "Sunsong",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Peggy Campbell; Grace Walker Gordon, Diane Browne",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "1986",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean Junior Reader",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Peggy Campbell; Grace Walker Gordon, Diane Browne",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "1986",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean Junior Reader",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
             "Descriptor": "",
             "Genre": "Anthology",
             "Language": "English",
@@ -35764,28 +34986,6 @@
             "Pubdate": "2022",
             "Publisher": "Mawenzi House Publishers Ltd",
             "Title": "De Book of Joseph",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Desmond Clarke; Val Biro",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "2008",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean infant reade. 3br",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Desmond Clarke; Val Biro",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "aylesbury_england",
-            "Pubdate": "2008",
-            "Publisher": "Ginn and Company",
-            "Title": "New Caribbean infant reade. 3br",
             "Translation": "n"
         },
         {
@@ -36465,54 +35665,6 @@
             "Translation": "n"
         }
     ],
-    "rapinder": [
-        {
-            "Author": "R. A. Pinder",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "University of Michigan",
-            "Title": "Adult Learners’ Understandings And Expectations Of Literacy And Their Impact On Participation In Adult Literacy Programs",
-            "Translation": "n"
-        },
-        {
-            "Author": "R. A. Pinder",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "ann_arbor_mi_united¬†states",
-            "Pubdate": "2011",
-            "Publisher": "University of Michigan",
-            "Title": "Adult Learners’ Understandings And Expectations Of Literacy And Their Impact On Participation In Adult Literacy Programs",
-            "Translation": "n"
-        }
-    ],
-    "raquinn": [
-        {
-            "Author": "Rachel Afi Quinn",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "champaign_il_united_states",
-            "Pubdate": "2021",
-            "Publisher": "University of Illinois Press",
-            "Title": "Being La Dominicana: Race And Identity In The Visual Culture Of Santo Domingo",
-            "Translation": "n"
-        },
-        {
-            "Author": "Rachel Afi Quinn",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "champaign_il_united_states",
-            "Pubdate": "2021",
-            "Publisher": "University of Illinois Press",
-            "Title": "Being La Dominicana: Race And Identity In The Visual Culture Of Santo Domingo",
-            "Translation": "n"
-        }
-    ],
     "rarenas": [
         {
             "Author": "Reinaldo Arenas",
@@ -36934,52 +36086,6 @@
             "Pubdate": "1922",
             "Publisher": "Planter's Punch",
             "Title": "Impressions of Jamaica",
-            "Translation": "n"
-        }
-    ],
-    "rdhamner": [
-        {
-            "Author": "Robert D. Hamner",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "boulder_co_united¬†states",
-            "Pubdate": "1993",
-            "Publisher": "Lynne Rienner Publishers",
-            "Title": "Critical Perspectives On Derek Walcott",
-            "Translation": "n"
-        },
-        {
-            "Author": "Robert D. Hamner",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "boulder_co_united¬†states",
-            "Pubdate": "1993",
-            "Publisher": "Lynne Rienner Publishers",
-            "Title": "Critical Perspectives On Derek Walcott",
-            "Translation": "n"
-        },
-        {
-            "Author": "Robert D. Hamner",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "English",
-            "Pub_id": "woodbridge_united¬†states",
-            "Pubdate": "1981",
-            "Publisher": "Twayne Publishers",
-            "Title": "Derek Walcott",
-            "Translation": "n"
-        },
-        {
-            "Author": "Robert D. Hamner",
-            "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "English",
-            "Pub_id": "woodbridge_united¬†states",
-            "Pubdate": "1981",
-            "Publisher": "Twayne Publishers",
-            "Title": "Derek Walcott",
             "Translation": "n"
         }
     ],
@@ -38309,28 +37415,6 @@
             "Publisher": "Balzer + Bray",
             "Title": "Where The Rhythm Takes You",
             "Translation": "n"
-        },
-        {
-            "Author": "Sarah Dass",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2022",
-            "Publisher": "Balzer + Bray",
-            "Title": "Where The Rhythm Takes You",
-            "Translation": "n"
-        },
-        {
-            "Author": "Sarah Dass",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2022",
-            "Publisher": "Balzer + Bray",
-            "Title": "Where The Rhythm Takes You",
-            "Translation": "n"
         }
     ],
     "sdracius": [
@@ -38470,30 +37554,6 @@
             "Pubdate": "2014",
             "Publisher": "Princeton University Press",
             "Title": "Collected Poems",
-            "Translation": "n"
-        }
-    ],
-    "smckenzie": [
-        {
-            "Author": "Stephanie Mckenzie",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2013",
-            "Publisher": "Jamaica Observer",
-            "Title": "The 'Aesthetic Republic': A Review of Derek Walcott's O Starry, Starry Night",
-            "Translation": "n"
-        },
-        {
-            "Author": "Stephanie Mckenzie",
-            "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "2013",
-            "Publisher": "Jamaica Observer",
-            "Title": "The 'Aesthetic Republic': A Review of Derek Walcott's O Starry, Starry Night",
             "Translation": "n"
         }
     ],
@@ -38800,29 +37860,7 @@
             "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "leeds_england",
-            "Pubdate": "2016",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Everyone Knows I Am A Haunting",
-            "Translation": "n"
-        },
-        {
-            "Author": "Shivanee Ramlochan",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2016",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Everyone Knows I Am A Haunting",
-            "Translation": "n"
-        },
-        {
-            "Author": "Shivanee Ramlochan",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2018",
+            "Pubdate": "2017",
             "Publisher": "Peepal Tree Press",
             "Title": "Everyone Knows I Am a Haunting",
             "Translation": "n"
@@ -38833,7 +37871,7 @@
             "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "leeds_england",
-            "Pubdate": "2018",
+            "Pubdate": "2017",
             "Publisher": "Peepal Tree Press",
             "Title": "Everyone Knows I Am a Haunting",
             "Translation": "n"
@@ -39399,30 +38437,6 @@
             "Translation": "n"
         }
     ],
-    "stoure": [
-        {
-            "Author": "Sekou Toure",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "san_francisco_ca_united¬†states",
-            "Pubdate": "1972",
-            "Publisher": "Black World Foundation",
-            "Title": "The Black Scholar January 1972 Journal Of Black Studies And Research",
-            "Translation": "n"
-        },
-        {
-            "Author": "Sekou Toure",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "san_francisco_ca_united¬†states",
-            "Pubdate": "1972",
-            "Publisher": "Black World Foundation",
-            "Title": "The Black Scholar January 1972 Journal Of Black Studies And Research",
-            "Translation": "n"
-        }
-    ],
     "swynter": [
         {
             "Author": "Sylvia Wynter",
@@ -39720,28 +38734,6 @@
         }
     ],
     "tmarugg": [
-        {
-            "Author": "Tip Marugg",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_haven_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Yale University Press",
-            "Title": "The Roar Of Morning",
-            "Translation": "y"
-        },
-        {
-            "Author": "Tip Marugg",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_haven_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Yale University Press",
-            "Title": "The Roar Of Morning",
-            "Translation": "y"
-        },
         {
             "Author": "Tip Marugg",
             "Descriptor": "",
@@ -40271,28 +39263,6 @@
         {
             "Author": "Velma Pollard",
             "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "oxfordshire_england",
-            "Pubdate": "1980",
-            "Publisher": "Taylor & Francis Online",
-            "Title": "Language In The Poetry Of Edward Brathwaite",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "English",
-            "Pub_id": "oxfordshire_england",
-            "Pubdate": "1980",
-            "Publisher": "Taylor & Francis Online",
-            "Title": "Language In The Poetry Of Edward Brathwaite",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
             "Genre": "Poem",
             "Language": "English",
             "Pub_id": "oxfordshire_england",
@@ -40447,28 +39417,6 @@
         {
             "Author": "Velma Pollard",
             "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1978",
-            "Publisher": "Caribbean Journal of Education",
-            "Title": "Code-switching In Jamaica Creole: Some Educational Implications",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "kingston_jamaica",
-            "Pubdate": "1978",
-            "Publisher": "Caribbean Journal of Education",
-            "Title": "Code-switching In Jamaica Creole: Some Educational Implications",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
             "Genre": "Anthology",
             "Language": "English",
             "Pub_id": "oxfordshire_england",
@@ -40530,28 +39478,6 @@
             "Pubdate": "1977",
             "Publisher": "Taylor & Francis",
             "Title": "Poems",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1980",
-            "Publisher": "Collins",
-            "Title": "Nine West Indian poets : an anthology for the CXC English examination",
-            "Translation": "n"
-        },
-        {
-            "Author": "Velma Pollard",
-            "Descriptor": "",
-            "Genre": "Anthology",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1980",
-            "Publisher": "Collins",
-            "Title": "Nine West Indian poets : an anthology for the CXC English examination",
             "Translation": "n"
         },
         {
@@ -43621,379 +42547,247 @@
             "Translation": "n"
         }
     ],
-    "walewis": [
+    "waroberts": [
         {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "gloucester_england",
-            "Pubdate": "2015",
-            "Publisher": "Palala Press",
-            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "gloucester_england",
-            "Pubdate": "2015",
-            "Publisher": "Palala Press",
-            "Title": "The Monroe Doctrine Unveiled: And The Mexican Crisis",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "1978",
-            "Publisher": "Allen & Unwin",
-            "Title": "Growth and Fluctuations, 1870-1913",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "1978",
-            "Publisher": "Allen & Unwin",
-            "Title": "Growth and Fluctuations, 1870-1913",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1970",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1970",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2003",
-            "Publisher": "Routledge",
-            "Title": "Overhead Costs",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2003",
-            "Publisher": "Routledge",
-            "Title": "Overhead Costs",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1970",
-            "Publisher": "Routledge",
-            "Title": "Economic Survey",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1970",
-            "Publisher": "Routledge",
-            "Title": "Economic Survey",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "2009",
-            "Publisher": "Allen & Unwin",
-            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "crows_nest_australia",
-            "Pubdate": "2009",
-            "Publisher": "Allen & Unwin",
-            "Title": "Tropical Development, 1880 1913: Studies In Economic Progress",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Growth And Fluctuations 1870-1913 (Routledge Revivals)",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1955",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "princeton_nj_united¬†states",
-            "Pubdate": "1955",
-            "Publisher": "Princeton University Press",
-            "Title": "The Evolution Of The International Economic Order",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1983",
-            "Publisher": "Routledge",
-            "Title": "The Theory Of Economic Growth",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1983",
-            "Publisher": "Routledge",
-            "Title": "The Theory Of Economic Growth",
-            "Translation": "n"
-        },
-        {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Selected Economic Writings Of W. Arthur Lewis",
+            "Pubdate": "1948",
+            "Publisher": "Coward-McCann",
+            "Title": "Lands of the Inner Sea: The West Indies and Bermuda",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
             "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "2003",
-            "Publisher": "New York University Press",
-            "Title": "Selected Economic Writings Of W. Arthur Lewis",
+            "Pubdate": "1948",
+            "Publisher": "Coward-McCann",
+            "Title": "Lands of the Inner Sea: The West Indies and Bermuda",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Principles Of Economic Planning",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1946",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Lake Pontchartrain",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1982",
-            "Publisher": "Routledge",
-            "Title": "Principles Of Economic Planning",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1946",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Lake Pontchartrain",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
+            "Pub_id": "cooperstown_ny_united¬†states",
+            "Pubdate": "1944",
+            "Publisher": "Doubleday",
+            "Title": "The Book of the Navy",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
-            "Pub_id": "westport_ct_united¬†states",
-            "Pubdate": "1985",
-            "Publisher": "Greenwood Press",
-            "Title": "Politics In West Africa",
+            "Pub_id": "cooperstown_ny_united¬†states",
+            "Pubdate": "1944",
+            "Publisher": "Doubleday",
+            "Title": "The Book of the Navy",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1941",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "The Pomegranate",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
-            "Pub_id": "cambridge_ma_united¬†states",
-            "Pubdate": "1966",
-            "Publisher": "Harvard University Press",
-            "Title": "Racial Conflict And Economic Development",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1941",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "The Pomegranate",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
-            "Genre": "Nonfiction",
+            "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1948",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Creole Dusk: A New Orleans Novel of the '80s",
             "Translation": "n"
         },
         {
-            "Author": "W. Arthur Lewis",
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1948",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Creole Dusk: A New Orleans Novel of the '80s",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1944",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Royal Street, A Novel of Old New Orleans",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1944",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Royal Street, A Novel of Old New Orleans",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Routledge",
-            "Title": "Development Planning",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1969",
+            "Publisher": "Negro Universities Press",
+            "Title": "The Caribbean",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1969",
+            "Publisher": "Negro Universities Press",
+            "Title": "The Caribbean",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1969",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "The French in the West Indies",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1969",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "The French in the West Indies",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1946",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Lake Pontchartrain",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1946",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Lake Pontchartrain",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1946",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Brave Mardi Gras: A New Orleans Novel of the '60s",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1946",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "Brave Mardi Gras: A New Orleans Novel of the '60s",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1949",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "The Single Star: A Novel of Cuba in the '90s",
+            "Translation": "n"
+        },
+        {
+            "Author": "Walter Adolphe Roberts",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "indianapolis_in_united¬†states",
+            "Pubdate": "1949",
+            "Publisher": "The Bobbs-Merrill Company",
+            "Title": "The Single Star: A Novel of Cuba in the '90s",
             "Translation": "n"
         }
     ],
@@ -44977,250 +43771,6 @@
             "Translation": "n"
         }
     ],
-    "wroberts": [
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1948",
-            "Publisher": "Coward-McCann",
-            "Title": "Lands of the Inner Sea: The West Indies and Bermuda",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1948",
-            "Publisher": "Coward-McCann",
-            "Title": "Lands of the Inner Sea: The West Indies and Bermuda",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1946",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Lake Pontchartrain",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1946",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Lake Pontchartrain",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cooperstown_ny_united¬†states",
-            "Pubdate": "1944",
-            "Publisher": "Doubleday",
-            "Title": "The Book of the Navy",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "cooperstown_ny_united¬†states",
-            "Pubdate": "1944",
-            "Publisher": "Doubleday",
-            "Title": "The Book of the Navy",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1941",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "The Pomegranate",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1941",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "The Pomegranate",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1948",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Creole Dusk: A New Orleans Novel of the '80s",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1948",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Creole Dusk: A New Orleans Novel of the '80s",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1944",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Royal Street, A Novel of Old New Orleans",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1944",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Royal Street, A Novel of Old New Orleans",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1969",
-            "Publisher": "Negro Universities Press",
-            "Title": "The Caribbean",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "new_york_ny_united_states",
-            "Pubdate": "1969",
-            "Publisher": "Negro Universities Press",
-            "Title": "The Caribbean",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1969",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "The French in the West Indies",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1969",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "The French in the West Indies",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1946",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Lake Pontchartrain",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1946",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Lake Pontchartrain",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1946",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Brave Mardi Gras: A New Orleans Novel of the '60s",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1946",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "Brave Mardi Gras: A New Orleans Novel of the '60s",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1949",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "The Single Star: A Novel of Cuba in the '90s",
-            "Translation": "n"
-        },
-        {
-            "Author": "Walter Roberts",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "indianapolis_in_united¬†states",
-            "Pubdate": "1949",
-            "Publisher": "The Bobbs-Merrill Company",
-            "Title": "The Single Star: A Novel of Cuba in the '90s",
-            "Translation": "n"
-        }
-    ],
     "wtvollmann": [
         {
             "Author": "William T Vollmann",
@@ -46191,7 +44741,7 @@
             "Pubdate": "2020",
             "Publisher": "Litera Media Group",
             "Title": "Dinti Albi",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -46202,7 +44752,7 @@
             "Pubdate": "2020",
             "Publisher": "Litera Media Group",
             "Title": "Dinti Albi",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -46235,7 +44785,7 @@
             "Pubdate": "2021",
             "Publisher": "Penguin",
             "Title": "NW",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -46246,7 +44796,7 @@
             "Pubdate": "2021",
             "Publisher": "Penguin",
             "Title": "NW",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -46257,7 +44807,7 @@
             "Pubdate": "2021",
             "Publisher": "Ernst Klett Sprachen GmbH",
             "Title": "The Embassy Of Cambodia",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",
@@ -46268,7 +44818,7 @@
             "Pubdate": "2021",
             "Publisher": "Ernst Klett Sprachen GmbH",
             "Title": "The Embassy Of Cambodia",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Zadie Smith",

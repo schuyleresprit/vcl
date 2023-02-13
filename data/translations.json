@@ -190,6 +190,17 @@
         {
             "Author": "Pauline Melville",
             "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "2002",
+            "Publisher": "München Droemer",
+            "Title": "Mrs. Da Silvas Karneval Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Pauline Melville",
+            "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "French",
             "Pub_id": "carouge_geneve_switzerland",
@@ -210,14 +221,124 @@
             "Translation": "y"
         },
         {
-            "Author": "Velma Pollard",
+            "Author": "Pauline Melville",
             "Descriptor": "",
-            "Genre": "Nonfiction",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "erlandson_denmark",
+            "Pubdate": "1999",
+            "Publisher": "Kbh",
+            "Title": "Bugtalerens Fortælling",
+            "Translation": "y"
+        },
+        {
+            "Author": "Pauline Melville",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "1997",
+            "Publisher": "Giunti",
+            "Title": "Il Racconto Del Ventriloquo",
+            "Translation": "y"
+        },
+        {
+            "Author": "Pauline Melville",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "2006",
+            "Publisher": "Ayrinti Yayinlari",
+            "Title": "Hayaletlerin Göçü",
+            "Translation": "y"
+        },
+        {
+            "Author": "Pauline Melville",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Vassallucci",
+            "Title": "Savanne-Sagen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Pauline Melville",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "French",
+            "Pub_id": "carouge_geneve_switzerland",
+            "Pubdate": "2006",
+            "Publisher": "Editions Zoe",
+            "Title": "Le Jeu Des Transformations",
+            "Translation": "y"
+        },
+        {
+            "Author": "Pauline Melville",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2008",
+            "Publisher": "Éditions Points",
+            "Title": "Le Conte Du Ventriloque: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jacques Stephen Alexis",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "santo_domingo_dominican_republic",
+            "Pubdate": "1987",
+            "Publisher": "Editora Taller",
+            "Title": "Mi Compadre El General Sol",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jacques Stephen Alexis",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
             "Language": "German",
-            "Pub_id": "berlin_germany",
-            "Pubdate": "1990",
-            "Publisher": "De Gruyter",
-            "Title": "Caribbean Languages Lesser Known Varieties",
+            "Pub_id": "bornheim_germany",
+            "Pubdate": "1985",
+            "Publisher": "Lamuv Verlag",
+            "Title": "General Sonne: Roman Aus Haiti",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jacques Stephen Alexis",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1974",
+            "Publisher": "Casa de las Americas",
+            "Title": "El Compadre General Sol",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jacques Stephen Alexis",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "warszawa_poland",
+            "Pubdate": "1958",
+            "Publisher": "Czytelnik",
+            "Title": "General Slonce",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jacques Stephen Alexis",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Czech",
+            "Pub_id": "praha_czech_republic",
+            "Pubdate": "1963",
+            "Publisher": "SNKLU",
+            "Title": "Generál Slunce",
             "Translation": "y"
         },
         {
@@ -1860,6 +1981,28 @@
             "Translation": "y"
         },
         {
+            "Author": "Tessa McWatt",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "warszawa_poland",
+            "Pubdate": "2006",
+            "Publisher": "Warszawskie Wydawnictwo Literackie MUZA",
+            "Title": "Uwielbiam To Cialo...",
+            "Translation": "y"
+        },
+        {
+            "Author": "Tessa McWatt",
+            "Descriptor": "Translator: Savoie-Bernard, Chloé",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "quebec_canada",
+            "Pubdate": "2021",
+            "Publisher": "Memoire d'Encrier",
+            "Title": "Anatomie De Ma Honte",
+            "Translation": "y"
+        },
+        {
             "Author": "Pierre Marcelin",
             "Descriptor": "Co-Author: Philippe Thoby-Marcelin",
             "Genre": "Fiction (Novel)",
@@ -1945,6 +2088,61 @@
             "Pubdate": "1992",
             "Publisher": "Lamuv-Verlag",
             "Title": "Boy-Sandwich Ein Roman Zwischen Jamaika Und London",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "bucuresti_romania",
+            "Pubdate": "2020",
+            "Publisher": "Litera Media Group",
+            "Title": "Dinti Albi",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2021",
+            "Publisher": "Penguin",
+            "Title": "NW",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "stuttgart_germany",
+            "Pubdate": "2021",
+            "Publisher": "Ernst Klett Sprachen GmbH",
+            "Title": "The Embassy Of Cambodia",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "Translator: Philippe Aronson",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2016",
+            "Publisher": "Gallimard",
+            "Title": "De La Beauté",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "2017",
+            "Publisher": "Wydawnictwo Znak",
+            "Title": "Biale Zeby",
             "Translation": "y"
         },
         {
@@ -2352,17 +2550,6 @@
             "Pubdate": "2001",
             "Publisher": "Verl.-Haus",
             "Title": "Flammendes Land Roman",
-            "Translation": "y"
-        },
-        {
-            "Author": "Tip Marugg",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "new_haven_ldn_england",
-            "Pubdate": "2015",
-            "Publisher": "Yale University Press",
-            "Title": "The Roar Of Morning",
             "Translation": "y"
         },
         {
@@ -2902,17 +3089,6 @@
             "Pubdate": "1982",
             "Publisher": "Európa Editions",
             "Title": "Itatál Keserű Búval Regény",
-            "Translation": "y"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Essay",
-            "Language": "Italian",
-            "Pub_id": "milan_italy",
-            "Pubdate": "1970",
-            "Publisher": "Guanda",
-            "Title": "L'Isola Recuperata",
             "Translation": "y"
         },
         {
@@ -4713,6 +4889,17 @@
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
+            "Pub_id": "new_york_ny_united¬†states",
+            "Pubdate": "1950",
+            "Publisher": "Monthly Review Press",
+            "Title": "Discourse on Colonialism",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
             "Pub_id": "charlottesville_va_united¬†states",
             "Pubdate": "1990",
             "Publisher": "University Press of Virginia",
@@ -5171,6 +5358,127 @@
             "Translation": "y"
         },
         {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hungarian",
+            "Pub_id": "budapest_hungary",
+            "Pubdate": "2016",
+            "Publisher": "Gabo könyvkiadó",
+            "Title": "Nap Is Csillag",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Hungarian",
+            "Pub_id": "budapest_hungary",
+            "Pubdate": "2015",
+            "Publisher": "Gabo könyvkiadó",
+            "Title": "Minden, Miinden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Chinese",
+            "Pub_id": "taipei_taiwan",
+            "Pubdate": "2017",
+            "Publisher": "San cai wen hua gu fen you xian gong si",
+            "Title": "Ni Shi Wo Yi Qie De Yi Qie: Yu Ni Xiang Yu,Jiu Shi Wo Zui Zhi De De Mao Xian",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Farsi",
+            "Pub_id": "tihraãñn_iran",
+            "Pubdate": "2019",
+            "Publisher": "Nashr-i Nūn",
+            "Title": "Hamah Chiz, Hamah Chiz",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Farsi",
+            "Pub_id": "tihraãñn_iran",
+            "Pubdate": "2019",
+            "Publisher": "Nashr-i Nūn",
+            "Title": "Khurshid Hanuz Yik Sitarah Ast",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "madrid_spain",
+            "Pubdate": "2015",
+            "Publisher": "Planeta Publishing",
+            "Title": "Todo, Todo",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "2015",
+            "Publisher": "Oetinger Media",
+            "Title": "Du neben Mir Und Zwischen Uns Die Ganze Welt: Ungekürzte Lesung",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "barcarena_portugal",
+            "Pubdate": "2017",
+            "Publisher": "Editorial Presença",
+            "Title": "O Sol Também eE Uma Estrela",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_ams_netherlands",
+            "Pubdate": "2021",
+            "Publisher": "Em. Querido's Uitgeverij",
+            "Title": "Dansen Voor Beginners",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2015",
+            "Publisher": "Uitgeverij Rainbow bv",
+            "Title": "Alles Wat Je Lief Is",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "montrouge_france",
+            "Pubdate": "2019",
+            "Publisher": "Bayard Presse",
+            "Title": "Mon Etoile Solaire",
+            "Translation": "y"
+        },
+        {
             "Author": "Miguel Ángel Asturias",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -5205,6 +5513,17 @@
         },
         {
             "Author": "Merle Hodge",
+            "Descriptor": "Translator: Barbara Müller",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "2002",
+            "Publisher": "München Omnibus",
+            "Title": "Laetitias Langer Weg",
+            "Translation": "y"
+        },
+        {
+            "Author": "Merle Hodge",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
@@ -5212,6 +5531,28 @@
             "Pubdate": "1998",
             "Publisher": "Farrar Straus Giroux",
             "Title": "For the Life Of Laetitia",
+            "Translation": "y"
+        },
+        {
+            "Author": "Merle Hodge",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "baarn_netherlands",
+            "Pubdate": "1993",
+            "Publisher": "Ambo ; NOVIB ; NCOS",
+            "Title": "Allemaal Kapsones",
+            "Translation": "y"
+        },
+        {
+            "Author": "Merle Hodge",
+            "Descriptor": "Translator: Chiara Arnone",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1997",
+            "Publisher": "Mondadori",
+            "Title": "Lacey Dei Caraibi",
             "Translation": "y"
         },
         {
@@ -5315,6 +5656,17 @@
         },
         {
             "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Forlaget Rebel With a Cause",
+            "Title": "Englenes Ensomhed",
+            "Translation": "y"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
             "Descriptor": "Translator: Mónica María del Valle, Idáragga Del Valle and María Luísa Valencia Duarte",
             "Genre": "Fiction (Novel)",
             "Language": "Spanish",
@@ -5322,17 +5674,6 @@
             "Pubdate": "2005",
             "Publisher": "LaSirén Press",
             "Title": "Loas. Spanish translation of Loneliness of Angels (A Novel)",
-            "Translation": "y"
-        },
-        {
-            "Author": "Jean Casimir",
-            "Descriptor": "",
-            "Genre": "Nonfiction",
-            "Language": "English",
-            "Pub_id": "chapel_hill_nc_united¬†states",
-            "Pubdate": "2020",
-            "Publisher": "The University of North Carolina Press",
-            "Title": "The Haitians: A Decolonial History",
             "Translation": "y"
         },
         {
@@ -6043,11 +6384,99 @@
             "Author": "Leonardo Padura Fuentes",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1997",
+            "Publisher": "Marco Tropea Editore",
+            "Title": "Maschere",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Spanish",
+            "Pub_id": "madrid_esp_spain",
+            "Pubdate": "2014",
+            "Publisher": "Editorial Verbum",
+            "Title": "Fiebre De Caballos",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1991",
+            "Publisher": "Métailié",
+            "Title": "Vents De Carême",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "1991",
+            "Publisher": "Unionsverlag",
+            "Title": "Handel Der Gefühle",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2003",
+            "Publisher": "Unionsverlag",
+            "Title": "Der Nebel Von Gestern",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "alfragide_portugal",
+            "Pubdate": "1991",
+            "Publisher": "Asa Edições",
+            "Title": "Um Passado Perfeito",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
             "Language": "Polish",
             "Pub_id": "krakow_poland",
             "Pubdate": "2009",
             "Publisher": "Wydawnitwo Znak",
             "Title": "Wichura W Hawanie",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "1997",
+            "Publisher": "Wydawnictwo Znak",
+            "Title": "Trans W Hawanie",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1998",
+            "Publisher": "Métailié",
+            "Title": "L'Automne Á Cuba",
             "Translation": "y"
         },
         {

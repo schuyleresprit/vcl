@@ -359,11 +359,6 @@
         "Long": 0.207034,
         "Pub_id": "cambridge_england"
     },
-    "cambridge_ma_united¬†states": {
-        "Lat": 42.3751,
-        "Long": -71.105616,
-        "Pub_id": "cambridge_ma_united¬†states"
-    },
     "cameron_nc_united¬†states": {
         "Lat": 35.326823,
         "Long": -79.255303,
@@ -418,11 +413,6 @@
         "Lat": 13.334598,
         "Long": -59.613294,
         "Pub_id": "cave_hill_barbados"
-    },
-    "champaign_il_united_states": {
-        "Lat": 40.116484,
-        "Long": -88.243093,
-        "Pub_id": "champaign_il_united_states"
     },
     "chapel_hill_nc_united¬†states": {
         "Lat": 35.862465,
@@ -694,11 +684,6 @@
         "Long": -73.583583,
         "Pub_id": "freeport_ny_united¬†states"
     },
-    "gainesville_fl_united¬†states": {
-        "Lat": 29.651968,
-        "Long": -82.324985,
-        "Pub_id": "gainesville_fl_united¬†states"
-    },
     "galisteo_spain": {
         "Lat": 39.975984,
         "Long": -6.267751,
@@ -723,11 +708,6 @@
         "Lat": 55.860982499999984,
         "Long": -4.2488787,
         "Pub_id": "glasgow_scotland"
-    },
-    "gloucester_england": {
-        "Lat": 51.8653705,
-        "Long": -2.2458191999999997,
-        "Pub_id": "gloucester_england"
     },
     "gornji_milanovac_serbia": {
         "Lat": 44.111591,
@@ -1719,11 +1699,6 @@
         "Long": -1.68002,
         "Pub_id": "rennes_france"
     },
-    "rhyl_wales": {
-        "Lat": 53.320743,
-        "Long": -3.490726,
-        "Pub_id": "rhyl_wales"
-    },
     "richmond_londonland": {
         "Lat": 37.538509,
         "Long": -77.43428,
@@ -2214,11 +2189,6 @@
         "Long": -77.036543,
         "Pub_id": "washington_dc_united¬†states"
     },
-    "waterloo_canada": {
-        "Lat": 43.46527,
-        "Long": -80.522296,
-        "Pub_id": "waterloo_canada"
-    },
     "welland_canada": {
         "Lat": 42.99712,
         "Long": -79.22497,
@@ -2273,11 +2243,6 @@
         "Lat": 42.317099,
         "Long": -83.035343,
         "Pub_id": "windsor_canada"
-    },
-    "winston_salem_nc_united_states": {
-        "Lat": 36.099813,
-        "Long": -80.244052,
-        "Pub_id": "winston_salem_nc_united_states"
     },
     "woodbridge_united¬†states": {
         "Lat": 38.658172,

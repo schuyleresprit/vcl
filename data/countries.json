@@ -54,11 +54,6 @@
         "Long": -64.62317233,
         "author_country": "british_virgin_islands"
     },
-    "cameroon": {
-        "Lat": 4.80651220617253,
-        "Long": 12.2137541551234,
-        "author_country": "cameroon"
-    },
     "canada": {
         "Lat": 55.5859012851966,
         "Long": -105.750595856519,
@@ -144,11 +139,6 @@
         "Long": -90.3900017126126,
         "author_country": "guatemala"
     },
-    "guinea": {
-        "Lat": 10.7855460398783,
-        "Long": -11.0298621655307,
-        "author_country": "guinea"
-    },
     "guyana": {
         "Lat": 5.62382279034036,
         "Long": -58.9747808781477,
@@ -203,11 +193,6 @@
         "Lat": -10.1510925136244,
         "Long": -75.3111319559783,
         "author_country": "peru"
-    },
-    "portugal": {
-        "Lat": 39.6009946583093,
-        "Long": -8.56273059638958,
-        "author_country": "portugal"
     },
     "puerto_rico": {
         "Lat": 18.2213294459009,

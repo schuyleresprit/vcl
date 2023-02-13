@@ -145,7 +145,7 @@
             "Pubdate": "1950",
             "Publisher": "Monthly Review Press",
             "Title": "Discourse on Colonialism",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Aimé Césaire",
@@ -156,7 +156,7 @@
             "Pubdate": "1950",
             "Publisher": "Monthly Review Press",
             "Title": "Discourse on Colonialism",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Aimé Césaire",
@@ -3445,28 +3445,6 @@
             "Publisher": "Ian Randle Publishers",
             "Title": "Silk Cotton And Other Trees",
             "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Co-Author: Mark McWatt",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1994",
-            "Publisher": "Hodder Education",
-            "Title": "World of Poetry ",
-            "Translation": "n"
-        },
-        {
-            "Author": "Hazel Simmons-McDonald",
-            "Descriptor": "Co-Author: Mark McWatt",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1994",
-            "Publisher": "Hodder Education",
-            "Title": "World of Poetry ",
-            "Translation": "n"
         }
     ],
     "hyared": [
@@ -3613,7 +3591,7 @@
     ],
     "jbreeze": [
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "Mervyn Morris",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -3624,7 +3602,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "Mervyn Morris",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -3635,7 +3613,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -3646,7 +3624,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -3657,7 +3635,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -3668,7 +3646,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Jean Breeze",
+            "Author": "Jean Binta Breeze",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -5617,7 +5595,7 @@
             "Translation": "n"
         }
     ],
-    "lbennet": [
+    "lbennett": [
         {
             "Author": "Louise Bennett",
             "Descriptor": "Wikipedia Entry: https://en.wikipedia.org/wiki/Louise_Bennett-Coverley",
@@ -6347,7 +6325,7 @@
     ],
     "mjchapman": [
         {
-            "Author": " Matthew James Chapman ",
+            "Author": " Matthew James Chapman",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -6358,7 +6336,7 @@
             "Translation": "n"
         },
         {
-            "Author": " Matthew James Chapman ",
+            "Author": " Matthew James Chapman",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -6594,28 +6572,6 @@
             "Pubdate": "1988",
             "Publisher": "Women and Development Studies, Institute of International Relations, University of the West Indies",
             "Title": "Gender In 'Summer lightning' And 'Talking Of trees'",
-            "Translation": "n"
-        },
-        {
-            "Author": "Mervyn Morris",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1987",
-            "Publisher": "Women and Development Studies, University of the West Indies",
-            "Title": "Gender In Some Performance Poems",
-            "Translation": "n"
-        },
-        {
-            "Author": "Mervyn Morris",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "mona_jamaica",
-            "Pubdate": "1987",
-            "Publisher": "Women and Development Studies, University of the West Indies",
-            "Title": "Gender In Some Performance Poems",
             "Translation": "n"
         }
     ],
@@ -7852,28 +7808,6 @@
         },
         {
             "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Grace Walker Gordon",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "harlow_england",
-            "Pubdate": "1987",
-            "Publisher": "Longman Inc.",
-            "Title": "Sunsong",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
-            "Descriptor": "Co-authors: Grace Walker Gordon",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "harlow_england",
-            "Pubdate": "1987",
-            "Publisher": "Longman Inc.",
-            "Title": "Sunsong",
-            "Translation": "n"
-        },
-        {
-            "Author": "Pamela Mordecai",
             "Descriptor": "",
             "Genre": "Poetry Collection",
             "Language": "English",
@@ -8214,30 +8148,6 @@
             "Pubdate": "1970",
             "Publisher": "Repro-graphic Consultants",
             "Title": "Journey: A Volume Of Poetry",
-            "Translation": "n"
-        }
-    ],
-    "rretamar": [
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1962",
-            "Publisher": "Ediciones Unión",
-            "Title": "Con Las Mismas Manos. Poesias,1949-1962",
-            "Translation": "n"
-        },
-        {
-            "Author": "Roberto Fernández Retamar",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "Spanish",
-            "Pub_id": "havana_cuba",
-            "Pubdate": "1962",
-            "Publisher": "Ediciones Unión",
-            "Title": "Con Las Mismas Manos. Poesias,1949-1962",
             "Translation": "n"
         }
     ],
@@ -8632,29 +8542,7 @@
             "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "leeds_england",
-            "Pubdate": "2016",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Everyone Knows I Am A Haunting",
-            "Translation": "n"
-        },
-        {
-            "Author": "Shivanee Ramlochan",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2016",
-            "Publisher": "Peepal Tree Press",
-            "Title": "Everyone Knows I Am A Haunting",
-            "Translation": "n"
-        },
-        {
-            "Author": "Shivanee Ramlochan",
-            "Descriptor": "",
-            "Genre": "Poetry Collection",
-            "Language": "English",
-            "Pub_id": "leeds_england",
-            "Pubdate": "2018",
+            "Pubdate": "2017",
             "Publisher": "Peepal Tree Press",
             "Title": "Everyone Knows I Am a Haunting",
             "Translation": "n"
@@ -8665,7 +8553,7 @@
             "Genre": "Poetry Collection",
             "Language": "English",
             "Pub_id": "leeds_england",
-            "Pubdate": "2018",
+            "Pubdate": "2017",
             "Publisher": "Peepal Tree Press",
             "Title": "Everyone Knows I Am a Haunting",
             "Translation": "n"
