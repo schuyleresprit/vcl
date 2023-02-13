@@ -12,7 +12,7 @@ permalink: /waroberts/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1886 - 1962 </p></div>
+            <div class="date right"><p class="right">1886 - 1962</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">

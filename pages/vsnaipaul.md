@@ -12,7 +12,7 @@ permalink: /vsnaipaul/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> 1932 - 2018 </p></div>
+            <div class="date right"><p class="right">1932 - 2018</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -25,7 +25,7 @@ permalink: /vsnaipaul/
         <div class="block">
             <div class="date left"><p class="left">1958</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Suffrage of Elvira</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387734382i/5860.jpg"></p>
                 <p>
@@ -76,7 +76,7 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="left">1964</p></div>
+            <div class="date left"><p class="left">1964</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Mystic Masseur</h1><hr>

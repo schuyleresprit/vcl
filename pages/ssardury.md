@@ -12,7 +12,7 @@ permalink: /ssardury/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">February 25, 1937 – June 8, 1993</p></div>
+            <div class="date right"><p class="right">1937 – 1993</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
