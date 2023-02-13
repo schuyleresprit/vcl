@@ -272,9 +272,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>North of the Equator</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366276713l/4957840.jpg"></p>
                 <p>Language: English<br/>
@@ -285,9 +285,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Hemisphere of love</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347250958l/3089338.jpg"></p>
                 <p>Language: English<br/>
@@ -298,9 +298,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2004</p></div>
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Imaginary Origins</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41B27X4GV1L.jpg"></p>
                 <p>Language: English<br/>
@@ -311,9 +311,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2004</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Play A Song Somebody</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/517KANJQ64L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -324,9 +324,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Drums of My Flesh</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41B27X4GV1L.jpg"></p>
                 <p>Language: English<br/>
@@ -337,9 +337,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2008</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Uncharted heart</h1><hr>
                 <p><img src="http://www.borealispress.com/covers/848_04_9780888873521.cover.front.large.jpg"></p>
                 <p>Language: English<br/>
@@ -350,9 +350,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>God's Spider</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435187815l/25404401._SY475_.jpg"></p>
                 <p>Language: English<br/>
@@ -363,9 +363,9 @@ permalink: /cdabydeen/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>My Undiscovered Country</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504939932i/36206291._UY630_SR1200,630_.jpg"></p>
                 <p>Language: English<br/>
