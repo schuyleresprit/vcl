@@ -7,7 +7,7 @@ permalink: /cbrowning/
 <div class="content">
     <h1>Callie Browning</h1>
     <div class="quote">
-        <div><img src="https://scontent-sju1-1.xx.fbcdn.net/v/t1.6435-9/175193694_3884625418317449_2593790092314828875_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a26aad&_nc_ohc=joxnfOmFkEkAX8LEPxP&_nc_ht=scontent-sju1-1.xx&oh=00_AT8NeouOlQhqwpGjGYcKgIvmT_0aat2LwMKSytsyCBJ4nQ&oe=62FC4977" class="logo"></div>
+        <div><img src="https://booksprout.co/cdn/uploads/pen-name/originals/CallieBro-1607272207.JPG" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

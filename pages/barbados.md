@@ -81,7 +81,7 @@ permalink: /12/
  <div id="post-5" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="50%" height="40%">
+          <img src="https://booksprout.co/cdn/uploads/pen-name/originals/CallieBro-1607272207.JPG" width="50%" height="40%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
