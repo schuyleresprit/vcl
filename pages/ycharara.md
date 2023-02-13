@@ -37,9 +37,9 @@ permalink: /ycharara/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right hide">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Fictions Coloniales du XVIIIe Siècle: Ziméo</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/31%2BuAbKEnJL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
