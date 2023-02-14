@@ -83,7 +83,7 @@ permalink: /amckenzie/
                 <div class="dot"></div>
                 <div class="righ hide">
                     <h1>A Million Aunties</h1><hr>
-                    <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593463855i/54326747.jpg"></p>
+                    <p><img src=""></p>
                     <p>
                     Language: English <br/>
                     Publisher: Akashic Books<br/>
