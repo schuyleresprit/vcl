@@ -57,7 +57,7 @@ permalink: /ccraig/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Everything but the Ring</h1><hr>
-                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Christine%20Craig.jpg?itok=TMos-1WX"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English <br/>
                 Publisher: Bureau of Women's Affairs<br/>
