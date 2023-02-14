@@ -7,7 +7,7 @@ permalink: /amckenzie/
 <div class="content">
     <h1>Alecia McKenzie</h1>
     <div class="quote">
-        <div><img src="http://www.shortstoryconference.org/sites/default/files/SS%20Conference%20-%202016%20-%20Photo%20of%20Alecia%20McKenzie.JPG" height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/McKenzie%20at%20book%20launch2.jpg?itok=Hy6lKkCR" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -85,12 +85,11 @@ permalink: /amckenzie/
                     <p><img src="https://images-na.ssl-images-amazon.com/images/I/51HuJ8DmQJS._SX316_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                     <p>
                     Language: English <br/>
-                    Publisher: Akashic Books		 <br/>
+                    Publisher: Akashic Books<br/>
                     Pub_location: Brooklyn, NY, United States <br/>
                     Genre: Fiction (Novel) <br/>
                     Length: 102</p>
                 </div>
             </div>
-       </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
