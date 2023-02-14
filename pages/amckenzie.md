@@ -63,6 +63,7 @@ permalink: /amckenzie/
                 Genre: Fiction (Short Story Collection) <br/>
                 Length: 107</p>
             </div>
+        </div>
              <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
