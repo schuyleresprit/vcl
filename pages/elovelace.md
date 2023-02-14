@@ -22,7 +22,7 @@ permalink: /elovelace/
             </div>
             </div>
         <div class="block">
-            <div class="date left"><p class="left">1966</p></div>
+            <div class="date left"><p class="left">1965</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>While Gods Are Falling</h1><hr>
@@ -32,7 +32,7 @@ permalink: /elovelace/
                 Publisher: Regnery Co.<br/>
                 Pub_location: Chicago, IL, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 260<br/>                   </p>
+                Length: 254<br/>                   </p>
             </div>
         </div>
        <div class="block">
@@ -46,7 +46,7 @@ permalink: /elovelace/
                 Publisher: Harper Collins<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 188 <br/>                   </p>
+                Length: 234 <br/>                   </p>
             </div>
         </div>
        <div class="block">
@@ -78,7 +78,7 @@ permalink: /elovelace/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">1985</p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Wine of Astonishment</h1><hr>
