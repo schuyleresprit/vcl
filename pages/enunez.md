@@ -7,7 +7,7 @@ permalink: /enunez/
 <div class="content">
     <h1>Elizabeth Nunez</h1>
     <div class="quote">
-        <div><img src="https://m.media-amazon.com/images/I/61TtvhIeYLL.jpg" class="logo"></div>
+        <div><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx4iXRwDtFN85MujnFKs2BS3gkS2YKH4w_AJjWOIBT-9DhjjKz" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
