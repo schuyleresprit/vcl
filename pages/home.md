@@ -1,6 +1,6 @@
 ---
 layout: pagedefault
-permalink: /
+permalink: /home/
 ---
 
 <div class="wordcloud">

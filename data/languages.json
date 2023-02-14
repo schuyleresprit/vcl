@@ -16715,7 +16715,7 @@
             "Descriptor": "",
             "Genre": "Nonfiction",
             "Language": "English",
-            "Pub_id": "(london)_england",
+            "Pub_id": "london_england",
             "Pubdate": "1893",
             "Publisher": "Sampson Low, Marston & Company Limited",
             "Title": "Obeah, Witchcraft in the West Indies",
@@ -34671,7 +34671,7 @@
     ],
     "St. Lucian French Creole": [
         {
-            "Author": "Cynthis Noel",
+            "Author": "Cynthia Noel",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "St. Lucian French Creole",

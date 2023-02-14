@@ -5001,7 +5001,7 @@
     ],
     "cnoel": [
         {
-            "Author": "Cynthis Noel",
+            "Author": "Cynthia Noel",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "St. Lucian French Creole",
@@ -5012,7 +5012,7 @@
             "Translation": "n"
         },
         {
-            "Author": "Cynthis Noel",
+            "Author": "Cynthia Noel",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "St. Lucian French Creole",
@@ -8475,6 +8475,52 @@
             "Translation": "n"
         }
     ],
+    "eborde": [
+        {
+            "Author": "Eulah Borde",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "sana_cruz_trinidad_&¬†tobago",
+            "Pubdate": "2014",
+            "Publisher": "Possibilities Unlimited",
+            "Title": "Murderfest: Two Novellas Inspired by Bloodcurdling Events",
+            "Translation": "n"
+        },
+        {
+            "Author": "Eulah Borde",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "sana_cruz_trinidad_&¬†tobago",
+            "Pubdate": "2014",
+            "Publisher": "Possibilities Unlimited",
+            "Title": "Murderfest: Two Novellas Inspired by Bloodcurdling Events",
+            "Translation": "n"
+        },
+        {
+            "Author": "Eulah Borde",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "sana_cruz_trinidad_&¬†tobago",
+            "Pubdate": "2012",
+            "Publisher": "Possibilities Unlimited",
+            "Title": "Murder on Christmas Eve : an early 20 C tragi-comedy set in a village in Trinidad, West Indies",
+            "Translation": "n"
+        },
+        {
+            "Author": "Eulah Borde",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "sana_cruz_trinidad_&¬†tobago",
+            "Pubdate": "2012",
+            "Publisher": "Possibilities Unlimited",
+            "Title": "Murder on Christmas Eve : an early 20 C tragi-comedy set in a village in Trinidad, West Indies",
+            "Translation": "n"
+        }
+    ],
     "ebrodber": [
         {
             "Author": "Erna Brodber",
@@ -8562,52 +8608,6 @@
             "Pubdate": "2014",
             "Publisher": "University of the West Indies Press",
             "Title": "Nothing's Mat",
-            "Translation": "n"
-        }
-    ],
-    "eborde": [
-        {
-            "Author": "Eulah Borde",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "sana_cruz_trinidad_&¬†tobago",
-            "Pubdate": "2014",
-            "Publisher": "Possibilities Unlimited",
-            "Title": "Murderfest: Two Novellas Inspired by Bloodcurdling Events",
-            "Translation": "n"
-        },
-        {
-            "Author": "Eulah Borde",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "sana_cruz_trinidad_&¬†tobago",
-            "Pubdate": "2014",
-            "Publisher": "Possibilities Unlimited",
-            "Title": "Murderfest: Two Novellas Inspired by Bloodcurdling Events",
-            "Translation": "n"
-        },
-        {
-            "Author": "Eulah Borde",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "sana_cruz_trinidad_&¬†tobago",
-            "Pubdate": "2012",
-            "Publisher": "Possibilities Unlimited",
-            "Title": "Murder on Christmas Eve : an early 20 C tragi-comedy set in a village in Trinidad, West Indies",
-            "Translation": "n"
-        },
-        {
-            "Author": "Eulah Borde",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "sana_cruz_trinidad_&¬†tobago",
-            "Pubdate": "2012",
-            "Publisher": "Possibilities Unlimited",
-            "Title": "Murder on Christmas Eve : an early 20 C tragi-comedy set in a village in Trinidad, West Indies",
             "Translation": "n"
         }
     ],
@@ -22857,7 +22857,7 @@
             "Translation": "y"
         }
     ],
-    "mdcarrión": [
+    "mdcarrion": [
         {
             "Author": " Miguel de Carrión",
             "Descriptor": "",

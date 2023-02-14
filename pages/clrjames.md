@@ -37,9 +37,24 @@ permalink: /clrjames/
             </div>
         </div>
 	 <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
             <div class="left hide">
+                <h1>Beyond a Boundary</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/0/02/Beyond_a_Boundary.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Hutchinson Publishing<br/>
+                Pub_location: London, England<br/>
+                Genre: Autobiography/Memoir<br/>
+                Length: 291  <br/>                   </p>
+            </div>
+        </div>
+ </div>
+  	 <div class="block">
+            <div class="date left"><p class="left">2017</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
                 <h1>Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Nhsw5xsVL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
@@ -47,7 +62,7 @@ permalink: /clrjames/
                 Publisher: Éditions Amsterdam<br/>
                 Pub_location: Paris, France<br/>
                 Genre: Biography<br/>
-                Length: 464  <br/>                   </p>
+                Length: 416<br/>                   </p>
             </div>
         </div>
   <!-- partial -->
