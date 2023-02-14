@@ -78,7 +78,7 @@ permalink: /elovelace/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Wine of Astonishment</h1><hr>
