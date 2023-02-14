@@ -89,7 +89,8 @@ permalink: /amckenzie/
                     Publisher: Akashic Books<br/>
                     Pub_location: Brooklyn, NY, United States <br/>
                     Genre: Fiction (Novel) <br/>
-                    Length: 102</p>
+                    Length: 102 <br/>
+                    </p>
                 </div>
             </div>
   <!-- partial -->
