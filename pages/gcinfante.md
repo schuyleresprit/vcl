@@ -37,9 +37,9 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
+            <div class="date right"><p class="right">1980</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Havana Para un Infante Difunto</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51l2L5r61aL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -50,9 +50,9 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1980</p></div>
+            <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Orbis Oscillantis</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ATWR7PGYL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: French<br/>
@@ -63,9 +63,9 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
+            <div class="date right"><p class="right">1980</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Three Trapped Tigers</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41USOi12HJL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -76,9 +76,9 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>View of Dawn in the Tropics</h1><hr>
                 <p><img src="https://neglectedbooks.com/images/viewofdawn.jpg"></p>
                 <p>Language: English<br/>
@@ -89,9 +89,9 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Tres Tristes Tigres</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456403834l/29337416._SY475_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -180,9 +180,9 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1985</p></div>
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Puro Humo</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41HWBB6VSiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -219,9 +219,9 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
+            <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Así en la Paz Como en la Guerra</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9trBB3GqHhAUgBkPcMqudAWheoniYI8Ik0EQ9nfpzoLuQS9KZ"></p>
                 <p>Language: Spanish<br/>
@@ -234,7 +234,21 @@ permalink: /gcinfante/
       <div class="block">
             <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
+                <h1>Rauchzeichen</h1><hr>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0oVBOjfqm7J78I79GvkFE4D5gESqDpBu7iywgRNJ-&usqp=CAE&s" height="50%" width = "50%"></p>
+                <p>
+                Language: German<br/>
+                Publisher: Insel Verlag<br/>
+                Pub_location: Frankfurt, Germany<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 413<br/>                   </p>
+            </div>
+        </div>
+    <div class="block">
+            <div class="date right"><p class="right">1987</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
                 <h1>Vista del Amanecer en el Trópico</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41JdCBnX8NL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -245,10 +259,10 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1987</p></div>
+            <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="left hide">
-                <h1>Tres Tristes Tigres</h1><hr>
+            <div class="right hide">
+                <h1>Trois Tristes Tigre</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51XbaLS-TaL._SX306_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
                 Publisher: Diputación Provincial<br/>
@@ -258,9 +272,9 @@ permalink: /gcinfante/
             </div>
         </div>
     <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>La Próxima Luna: Historias de Horror</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51U6U7F8OQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -271,9 +285,23 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
+                <h1>Drei Traurige Tiger Roman</h1><hr>
+                <p><img src="https://media.suhrkamp.de/mediadelivery/rendition/3a57c1070c2a46a2ae0463669c80db5b/-S400/drei-traurige-tiger_9783518382141_cover.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language:German <br/>
+                Publisher: Suhrkamp Verlag<br/>
+                Pub_location: Frankfurt, Germany<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 535<br/>                   </p>
+            </div>
+        </div>
+	<div class="block">
+            <div class="date right"><p class="right">1989</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
                 <h1>Diablesas y Diosas: 14 Perversas para 14 Autores</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51UIMKICqGL._SX315_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -284,9 +312,9 @@ permalink: /gcinfante/
             </div>
         </div>
         <div class="block">
-            <div class="date rightt"><p class="right">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Nymphe Inconstante</h1><hr>
                 <p><img src="https://www.arthaud.fr/media/cache/couverture_medium/flammarion_img/Couvertures/9782081486966.jpg"></p>
                 <p>Language: French<br/>
