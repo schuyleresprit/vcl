@@ -11,7 +11,7 @@ permalink: /
 <div class="col-sm-10">
 <h1> Welcome to <br> Visualising Caribbean Literature</h1>
 <div class="button">
-<a href="{{ site.baseurl }}/home/"> ENTER HERE </a>
+<a href="{{ site.baseurl }}/home/"> ENTER</a>
 </div>
 </div>
 
@@ -57,9 +57,9 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
     color: #fff;
     background: #198754;
     text-decoration: none;
-    padding: 15px 30px;
+    padding: 25px 63px;
     border-radius: 19px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .button {
