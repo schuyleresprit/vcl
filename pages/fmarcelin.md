@@ -73,7 +73,7 @@ permalink: /fmarcelin/
                 Language: French<br/>
                 Publisher: Société anonyme de l'Imp<br/>
                 Pub_location: Paris, France<br/>
-                Genre: Non Fiction<br/>
+                Genre: Biography<br/>
                 Length: 314</p>
             </div>
         </div>
@@ -86,7 +86,7 @@ permalink: /fmarcelin/
                 <p>Language: French<br/>
                 Publisher: Editions Fardin<br/>
                 Pub_location: Port au Prince, Haiti<br/>
-                Genre: Fiction <br/>
+                Genre: Biography<br/>
                 Length: 199</p>
             </div>
         </div>
@@ -100,7 +100,7 @@ permalink: /fmarcelin/
                 Language: French<br/>
                 Publisher: Editions Fardin<br/>
                 Pub_location: Port au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: 323</p>
             </div>
         </div>
@@ -140,8 +140,8 @@ permalink: /fmarcelin/
                 Language: French<br/>
                 Publisher: C3 Editions<br/>
                 Pub_location: Port au Prince, Haiti<br/>
-                Genre: Non Fiction<br/>
-                Length: 113</p>
+                Genre: Biography<br/>
+                Length: 144</p>
             </div>
         </div>
         <div class="block">
