@@ -79,19 +79,18 @@ permalink: /amckenzie/
             </div>
         </div>
         <div class="block">
-                <div class="date left"><p class="left">2020</p></div>
-                <div class="dot"></div>
-                <div class="righ hide">
-                    <h1>A Million Aunties</h1><hr>
-                    <p><img src=""></p>
-                    <p>
-                    Language: English <br/>
-                    Publisher: Akashic Books<br/>
-                    Pub_location: Brooklyn, NY, United States <br/>
-                    Genre: Fiction (Novel) <br/>
-                    Length: 102 <br/>
-                    </p>
-                </div>
+            <div class="date left"><p class="left">2020</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>A Million Aunties</h1><hr>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjE8bfg0E0HzqA73ovoR68rLIBNBb9o4-E2jymfkOFWFp6aZzJ" height="50%" width = "50%"></p>
+                <p>
+                Language: English <br/>
+                Publisher: Akashic Books <br/>
+                Pub_location: Brooklyn, NY, United States <br/>
+                Genre: Fiction <br/>
+                Length: 102</p>
             </div>
+        </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
