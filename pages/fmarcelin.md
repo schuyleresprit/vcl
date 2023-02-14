@@ -52,7 +52,7 @@ permalink: /fmarcelin/
         <div class="block">
             <div class="date left"><p class="left">1896</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Haïti et sa Banque Nationale. Troisième Partie</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41uiWVq+vcL._SX331_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -64,9 +64,9 @@ permalink: /fmarcelin/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1909</p></div>
+            <div class="date right"><p class="right">1909</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Le Général Nord Alexis</h1><hr>
                 <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/95/15/99/10032533/1507-1/tsp20220909072530/General-Nord-Alexis.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -78,9 +78,9 @@ permalink: /fmarcelin/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1974</p></div>
+            <div class="date left"><p class="left">1974</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Vengeance de Mama: Roman Haitian</h1><hr>
                 <p><img src="https://i.ebayimg.com/images/g/ktcAAOSwEwhcPKs5/s-l1600.jpg" height="50%" width = "50%"></p>
                 <p>Language: French<br/>
@@ -91,9 +91,9 @@ permalink: /fmarcelin/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1976</p></div>
+            <div class="date right"><p class="right">1976</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Thémistocle - Épaminondas Labasterre : Petit Récit Haitien</h1><hr>
                 <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/5b/a5/6c/7120219/1545-0/tsp20190209222535/Themistocle-Epaminondas-Labasterre.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -105,9 +105,9 @@ permalink: /fmarcelin/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1984</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Autour de Deux Romans</h1><hr>
                 <p><img src="https://static2.cyberlibris.com/books_upload/300pix/9782728835485.jpg" height="50%" width = "50%"></p>
                 <p>Language: French<br/>
@@ -133,7 +133,7 @@ permalink: /fmarcelin/
         <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>Choses Haïtiennes : Politique et Littérature</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41s7Q3m7ryL.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -160,7 +160,7 @@ permalink: /fmarcelin/
         <div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="righ hidet">
                 <h1>Une Evolution Nécessaire</h1><hr>
                 <p><img src="https://media.mediatheques.fr/res/medias/album/400p/369/637369.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -172,9 +172,9 @@ permalink: /fmarcelin/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>La Banque Nationale D'Haïti : Une Page D'Histoire</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41dasYYMIDL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
                 <p>
