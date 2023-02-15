@@ -12,13 +12,13 @@ permalink: /jarcollazo/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-             <div class="date right"><p class="right">1898</p></div>
+             <div class="date right"><p class="right">unknown</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>José Antonio Ramos Collazo is from <a href="{{ site.baseurl }}/37">Puerto Rico.</a></p></div>
-              <div class="acreadmore">  <a href="https://ca.wikipedia.org/wiki/Shivanee_Ramlochan" target="_blank">Read more</a></div>
+              <div class="acreadmore">  <a href="" target="_blank">Read more</a></div>
             </div>
             </div>
    <div class="block">
