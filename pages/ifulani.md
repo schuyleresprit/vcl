@@ -27,7 +27,7 @@ permalink: /ifulani/
             <div class="dot"></div>
             <div class="right">
                 <h1>Ten Days In Jamaica</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51EhMf9RtVL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
