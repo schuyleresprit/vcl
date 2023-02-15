@@ -19,7 +19,6 @@ The project is a searchable resource that includes database searching, mapping a
 <div class="col-sm-8">
 <video width="100%" controls loop autoplay muted style="pointer-events: none;">
   <source src="{{ site.baseurl }}/assets/img/step1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 </div>
 <div class="col-sm-4">
@@ -36,7 +35,6 @@ To navigate the various visualizations on the site, click the menu icon in the t
 <div class="col-sm-8">
 <video width="100%" controls loop autoplay muted style="pointer-events: none;">
   <source src="{{ site.baseurl }}/assets/img/step2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 </div>
 </div>
@@ -47,7 +45,6 @@ To navigate the various visualizations on the site, click the menu icon in the t
 <div class="col-sm-8">
 <video width="100%" controls loop autoplay muted style="pointer-events: none;">
   <source src="{{ site.baseurl }}/assets/img/step3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 </div>
 <div class="col-sm-4">
