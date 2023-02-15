@@ -27,7 +27,7 @@ permalink: /alazare/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Dominican Short Stories</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English<br/>
                 Publisher: Arts Council of Dominica, Writers Workshop<br/>
@@ -69,7 +69,7 @@ permalink: /alazare/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Nature Island Verses</h1><hr>
-                <p><img src="https://scontent-sju1-1.xx.fbcdn.net/v/t1.18169-9/11781897_1647173385497590_5923832056623861579_n.png?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=Vrz2qWlptMYAX81MFvh&_nc_oc=AQnssTlzZGPiENl96TGjOdatE1eHSTFS_pvfhcOt4IC_Y_yFtoRRHy7DG_L5wySgIHk&_nc_ht=scontent-sju1-1.xx&oh=00_AfBNQgF_7oEryvcSXLYCtYm2-WppOc99-70qbvTADY2IiA&oe=63AF1252"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348118505i/2722175.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Writer's Showcase<br/>
@@ -83,7 +83,7 @@ permalink: /alazare/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Pharcel: Runaway Slave</h1><hr>
-                <p><img src="https://scontent-sju1-1.xx.fbcdn.net/v/t1.18169-9/11800144_1647173312164264_888016772055172571_n.png?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=BvKfxpAIk7EAX_lnu0A&_nc_ht=scontent-sju1-1.xx&oh=00_AfBTknYWjS-DSgqnbS2hYYGuwmRAC_UUvjLuhwSzS7PDNA&oe=63AF3518"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348401556i/2722174.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: iUniverse<br/>
@@ -97,7 +97,7 @@ permalink: /alazare/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Kalinago Blood</h1><hr>
-                <p><img src="https://scontent-sju1-1.xx.fbcdn.net/v/t1.18169-9/11081366_1602804419934487_420709274490424056_n.png?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=cuF6mZq-Hv0AX-_ITEI&_nc_ht=scontent-sju1-1.xx&oh=00_AfBpUoS4m60TR8Pia8irnrtQK9WbwNxLcsWEyEwPsudXXQ&oe=63AF28A1"></p>
+                <p><img src="https://m.media-amazon.com/images/I/510C2Lgi5xL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Abbott Press<br/>
