@@ -36,21 +36,21 @@ permalink: /elovelace/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">1968</p></div>
+            <div class="date right"><p class="right">1979</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Schoolmaster</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174831898l/443539.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Harper Collins<br/>
+                Publisher: Heinemann<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 234 <br/>                   </p>
+                Length: 224 <br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date left"><p class="left">1979</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Dragon Can't Dance</h1><hr>
@@ -60,17 +60,18 @@ permalink: /elovelace/
                 Publisher: Longman Inc.<br/>
                 Pub_location: New York, NY, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 240 <br/>                   </p>
+                Length: 264 <br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">1984</p></div>
+            <div class="date right"><p class="right">1979</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>De Dans van de Draak: Roman</h1><hr>
                 <p><img src=""></p>
                 <p>
                 Language: Dutch<br/>
+	    Translation: Yes<br/>
                 Publisher: In de Knipscheer<br/>
                 Pub_location: Haarlem, NH, Netherlands<br/>
                 Genre: Fiction (Novel)<br/>
@@ -78,77 +79,22 @@ permalink: /elovelace/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">1982</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The Wine of Astonishment</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387712956l/204984.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Heinemann<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 146 <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date right"><p class="right">1997</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Salt</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386921525l/204980.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Persea Books<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 272 <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
+            <div class="date left"><p class="left">1979</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Danse du Dragon</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/519PESP8TRL.jpg"></p>
                 <p>
                 Language: French<br/>
+	    Translation: Yes<br/>
                 Publisher: Le Serpent à plumes<br/>
                 Pub_location: Paris, France<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 318<br/>                   </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Growing in the Dark</h1><hr>
-                <p><img src="https://pics.cdn.librarything.com/picsizes/f9/40/f9409bc9bc1f802654a4d736f51443641506f41_v5.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Lexicon Trinidad<br/>
-                Pub_location: San Juan, Trinidad & Tobago<br/>
-                Genre: Nonfiction<br/>
-                Length: 235 <br/>                   </p>
-            </div>
-        </div>
-      <div class="block">
-            <div class="date left"><p class="left">2004</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>My Name Is Village</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br/>
-                Publisher: Alexander Street Press<br/>
-                Pub_location: Alexandria, VA, United States<br/>
-                Genre: Drama<br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date right"><p class="right">2008</p></div>
+ <div class="block">
+            <div class="date right"><p class="right">1979</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Il Drago Non Balla</h1><hr>
@@ -161,8 +107,8 @@ permalink: /elovelace/
                 Length: 248 <br/>                   </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">2009</p></div>
+<div class="block">
+            <div class="date left"><p class="left">1979</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Doragon Wa Odorenai</h1><hr>
@@ -176,35 +122,35 @@ permalink: /elovelace/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2012</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Is Just a Movie</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=diZrUEqg4g0C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71WCt0wQlab4ZZiO5dThODpMk2lbm8n0m2amhDp7yLaJncHuo3UMn0g5GHteCL7sdU-cW5TB9xWJeVnOqZIpTPgLI59vpw8D-Sp0ewrgGTQIBJ2Nn4hJBac8JE9yPNmDe-a81pT"></p>
+                <h1>The Wine of Astonishment</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387712956l/204984.jpg"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Haymarket Books<br/>
-                Pub_location: Chicago, IL, United States<br/>
+                Publisher: Heinemann<br/>
+                Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: https://books.google.dm/books/content?id=diZrUEqg4g0C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71WCt0wQlab4ZZiO5dThODpMk2lbm8n0m2amhDp7yLaJncHuo3UMn0g5GHteCL7sdU-cW5TB9xWJeVnOqZIpTPgLI59vpw8D-Sp0ewrgGTQIBJ2Nn4hJBac8JE9yPNmDe-a81pT<br/>                   </p>
-            </div>
-        </div>
-   <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Trinidad Noir: The Classics</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51GO3Lk5bPL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Akashic Books<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 256 <br/>                   </p>
+                Length: 146 <br/>                   </p>
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="left">1996</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Salt</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386921525l/204980.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Persea Books<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 272 <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Le Sel</h1><hr>
@@ -217,5 +163,61 @@ permalink: /elovelace/
                 Length: 368 <br/>                   </p>
             </div>
         </div>
-  <!-- partial -->
+    <div class="block">
+            <div class="date left"><p class="left">2003</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Growing in the Dark</h1><hr>
+                <p><img src="https://pics.cdn.librarything.com/picsizes/f9/40/f9409bc9bc1f802654a4d736f51443641506f41_v5.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Lexicon Trinidad<br/>
+                Pub_location: San Juan, Trinidad & Tobago<br/>
+                Genre: Nonfiction<br/>
+                Length: 235 <br/>                   </p>
+            </div>
+        </div>
+      <div class="block">
+            <div class="date right"><p class="right">2004</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>My Name Is Village</h1><hr>
+                <p><img src=""></p>
+                <p>
+                Language: English<br/>
+                Publisher: Alexander Street Press<br/>
+                Pub_location: Alexandria, VA, United States<br/>
+                Genre: Drama<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2011</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Is Just a Movie</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=diZrUEqg4g0C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71WCt0wQlab4ZZiO5dThODpMk2lbm8n0m2amhDp7yLaJncHuo3UMn0g5GHteCL7sdU-cW5TB9xWJeVnOqZIpTPgLI59vpw8D-Sp0ewrgGTQIBJ2Nn4hJBac8JE9yPNmDe-a81pT"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Haymarket Books<br/>
+                Pub_location: Chicago, IL, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: https://books.google.dm/books/content?id=diZrUEqg4g0C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71WCt0wQlab4ZZiO5dThODpMk2lbm8n0m2amhDp7yLaJncHuo3UMn0g5GHteCL7sdU-cW5TB9xWJeVnOqZIpTPgLI59vpw8D-Sp0ewrgGTQIBJ2Nn4hJBac8JE9yPNmDe-a81pT<br/>                   </p>
+            </div>
+        </div>
+   <div class="block">
+            <div class="date right"><p class="right">2017</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Trinidad Noir: The Classics</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51GO3Lk5bPL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Akashic Books<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 256 <br/>                   </p>
+            </div>
+        </div>
+      <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
