@@ -33,6 +33,7 @@ Represented here are the the texts in the dataset representative of the genre or
 			//Populate page
 			setTimeout(showCategory, 1000);
 		});
+
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
