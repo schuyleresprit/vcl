@@ -1,0 +1,3370 @@
+[
+  {
+    "flavorText": "\u00c1ngel Augier",
+    "id": "aaugier",
+    "type": "author"
+  },
+  {
+    "flavorText": "Adam Lowe",
+    "id": "alowe",
+    "type": "author"
+  },
+  {
+    "flavorText": "Adisa Andwele",
+    "id": "aandwele",
+    "type": "author"
+  },
+  {
+    "flavorText": "Adriana Tous",
+    "id": "atous",
+    "type": "author"
+  },
+  {
+    "flavorText": "Aime\u0301 Ce\u0301saire",
+    "id": "acesaire",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alai\u0301 Reyes-Santos",
+    "id": "arsantos",
+    "type": "author"
+  },
+  {
+    "flavorText": "Albert Maria Gomes",
+    "id": "amgomes",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alberto Garrande\u0301s",
+    "id": "agarrande\u0301s",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alecia McKenzie",
+    "id": "amckenzie",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alejo Carpentier",
+    "id": "acarpentier",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alexandra Isfahani-Hammond",
+    "id": "aisfahanihammond",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alexia Arthurs",
+    "id": "aarthurs",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alfonso Herna\u0301ndez Cata\u0301",
+    "id": "ahcata",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alfred Alexandre",
+    "id": "aalexandre",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alfred Hubert Mendes",
+    "id": "ahmendes",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alicia Ikida Harraway",
+    "id": "aiharraway",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alick Lazare",
+    "id": "alazare",
+    "type": "author"
+  },
+  {
+    "flavorText": "Althea Prince",
+    "id": "aprince",
+    "type": "author"
+  },
+  {
+    "flavorText": "Alvin Cummins",
+    "id": "acummins",
+    "type": "author"
+  },
+  {
+    "flavorText": "Amy Wilentz",
+    "id": "awilentz",
+    "type": "author"
+  },
+  {
+    "flavorText": "Anai\u0308s Se\u0301galas",
+    "id": "asegalas",
+    "type": "author"
+  },
+  {
+    "flavorText": "Andrea Levy",
+    "id": "alevy",
+    "type": "author"
+  },
+  {
+    "flavorText": "Andrea Stuart",
+    "id": "astuart",
+    "type": "author"
+  },
+  {
+    "flavorText": "Andre\u0301 Paradis",
+    "id": "aparadis",
+    "type": "author"
+  },
+  {
+    "flavorText": "Andrew Salkey",
+    "id": "asalkey",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ang\u00e8le Rawiri",
+    "id": "arawiri",
+    "type": "author"
+  },
+  {
+    "flavorText": "Anisah Sankar",
+    "id": "asankar",
+    "type": "author"
+  },
+  {
+    "flavorText": "Anthony C. Winkler",
+    "id": "acwinkler",
+    "type": "author"
+  },
+  {
+    "flavorText": "Anthony Kellman",
+    "id": "akellman",
+    "type": "author"
+  },
+  {
+    "flavorText": "Anthony Nash",
+    "id": "anash",
+    "type": "author"
+  },
+  {
+    "flavorText": "Antonio Ben\u00edtez-Rojo",
+    "id": "abenitezrojo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Antonio Moreno",
+    "id": "amoreno",
+    "type": "author"
+  },
+  {
+    "flavorText": "Arlette Minatchy-Bogat",
+    "id": "aminatchybogat",
+    "type": "author"
+  },
+  {
+    "flavorText": "Arthur Lemiere Hendriks",
+    "id": "alhendriks",
+    "type": "author"
+  },
+  {
+    "flavorText": "Arthur W. Lewis",
+    "id": "awlewis",
+    "type": "author"
+  },
+  {
+    "flavorText": "Asha Bromfield",
+    "id": "abromfield",
+    "type": "author"
+  },
+  {
+    "flavorText": "Audre Lorde",
+    "id": "alorde",
+    "type": "author"
+  },
+  {
+    "flavorText": "Austin Clarke",
+    "id": "aclarke",
+    "type": "author"
+  },
+  {
+    "flavorText": "Baptiste Paul",
+    "id": "bpaul",
+    "type": "author"
+  },
+  {
+    "flavorText": "Barbara Applin",
+    "id": "bapplin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Barbara Hambly",
+    "id": "bhambley",
+    "type": "author"
+  },
+  {
+    "flavorText": "Barbara Jenkins",
+    "id": "bjenkins",
+    "type": "author"
+  },
+  {
+    "flavorText": "Barbara Lalla",
+    "id": "blalla",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ben Philippe",
+    "id": "bphilippe",
+    "type": "author"
+  },
+  {
+    "flavorText": "Bernard Montabo",
+    "id": "bmontabo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Beryl Gilroy",
+    "id": "bgilroy",
+    "type": "author"
+  },
+  {
+    "flavorText": "Bonifacio Byrne",
+    "id": "bbyrne",
+    "type": "author"
+  },
+  {
+    "flavorText": "Brenda Alexander-Perez",
+    "id": "baperez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Bukka Rennie",
+    "id": "brennie",
+    "type": "author"
+  },
+  {
+    "flavorText": "C. L. R. James",
+    "id": "clrjames",
+    "type": "author"
+  },
+  {
+    "flavorText": "Callie Browning",
+    "id": "cbrowning",
+    "type": "author"
+  },
+  {
+    "flavorText": "Captain Anthony Parsons",
+    "id": "caparsons",
+    "type": "author"
+  },
+  {
+    "flavorText": "Carilda Oliver Labra",
+    "id": "colabra",
+    "type": "author"
+  },
+  {
+    "flavorText": "Carlos Loveira",
+    "id": "cloveira",
+    "type": "author"
+  },
+  {
+    "flavorText": "Carlos Moore",
+    "id": "cmoore",
+    "type": "author"
+  },
+  {
+    "flavorText": "Caryl Phillips",
+    "id": "cphillips",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cecil Browne",
+    "id": "cbrowne",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cecilia Bustamante",
+    "id": "cbustamante",
+    "type": "author"
+  },
+  {
+    "flavorText": "Celeste Mohammed",
+    "id": "cmohammed",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cherie Jones",
+    "id": "cjones",
+    "type": "author"
+  },
+  {
+    "flavorText": "Chiara Bettelli Lelio",
+    "id": "cblelio",
+    "type": "author"
+  },
+  {
+    "flavorText": "Christian Werleigh",
+    "id": "cwerleigh",
+    "type": "author"
+  },
+  {
+    "flavorText": "Christine Craig",
+    "id": "ccraig",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ciannon Smart",
+    "id": "csmart",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cirilo Villaverde",
+    "id": "cvillaverde",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cl\u00e9ment Magloire-Saint-Aude",
+    "id": "cmagloiresaintaude",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cl\u00e9ment Richer",
+    "id": "cricher",
+    "type": "author"
+  },
+  {
+    "flavorText": "Claire Adam",
+    "id": "cadam",
+    "type": "author"
+  },
+  {
+    "flavorText": "Claribel Terr\u00e9 Morell",
+    "id": "ctmorell",
+    "type": "author"
+  },
+  {
+    "flavorText": "Claude McKay",
+    "id": "cmckay",
+    "type": "author"
+  },
+  {
+    "flavorText": "Claude Thompson",
+    "id": "cthompson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Clement Maharaj",
+    "id": "cmaharaj",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cola Debrot",
+    "id": "cdebrot",
+    "type": "author"
+  },
+  {
+    "flavorText": "Colville N Young",
+    "id": "cnyoung",
+    "type": "author"
+  },
+  {
+    "flavorText": "Constance Marshall",
+    "id": "cmarshall",
+    "type": "author"
+  },
+  {
+    "flavorText": "Curdella Forbes",
+    "id": "cforbes",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cynric R. Williams",
+    "id": "crwilliams",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cynthia James",
+    "id": "cjames",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cynthia Wilson",
+    "id": "cwilson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cynthia Noel",
+    "id": "cnoel",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cyril Dabydeen",
+    "id": "cdabydeen",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cyril V Briggs",
+    "id": "cvbriggs",
+    "type": "author"
+  },
+  {
+    "flavorText": "Cyrus Francis Perkins",
+    "id": "cfperkins",
+    "type": "author"
+  },
+  {
+    "flavorText": "D.F. Les Pierre-Luke",
+    "id": "dflpierreluke",
+    "type": "author"
+  },
+  {
+    "flavorText": "Daniel MacKinnen",
+    "id": "dmackinnen",
+    "type": "author"
+  },
+  {
+    "flavorText": "Daniel Picouly",
+    "id": "dpicouly",
+    "type": "author"
+  },
+  {
+    "flavorText": "Danielle Legros Georges",
+    "id": "dlgeorges",
+    "type": "author"
+  },
+  {
+    "flavorText": "Dany Laferri\u00e8re",
+    "id": "dlaferri\u00e8re",
+    "type": "author"
+  },
+  {
+    "flavorText": "Darrell B Lockhart",
+    "id": "dblockhart",
+    "type": "author"
+  },
+  {
+    "flavorText": "David Augustus Straker",
+    "id": "dastraker",
+    "type": "author"
+  },
+  {
+    "flavorText": "David Dabydeen",
+    "id": "ddabydeen",
+    "type": "author"
+  },
+  {
+    "flavorText": "David Franklyn",
+    "id": "dfranklyn",
+    "type": "author"
+  },
+  {
+    "flavorText": "De Lisser H. G.",
+    "id": "hgdlisser",
+    "type": "author"
+  },
+  {
+    "flavorText": "Dean R Baldwin",
+    "id": "drbadwin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Denise Harris",
+    "id": "dharris",
+    "type": "author"
+  },
+  {
+    "flavorText": "Dennis Scott",
+    "id": "dscott",
+    "type": "author"
+  },
+  {
+    "flavorText": "Derek Walcott",
+    "id": "dwalcott",
+    "type": "author"
+  },
+  {
+    "flavorText": "Derry Sandy",
+    "id": "dsandy",
+    "type": "author"
+  },
+  {
+    "flavorText": "Desmond Hall",
+    "id": "dhall",
+    "type": "author"
+  },
+  {
+    "flavorText": "Desmond V Nicholson",
+    "id": "dvnicholson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Didacus Jules",
+    "id": "djules",
+    "type": "author"
+  },
+  {
+    "flavorText": "Dimitry Elias L\u00e9ger",
+    "id": "deleger",
+    "type": "author"
+  },
+  {
+    "flavorText": "Dionne Brand",
+    "id": "dbrand",
+    "type": "author"
+  },
+  {
+    "flavorText": "Donald Hinds",
+    "id": "dhinds",
+    "type": "author"
+  },
+  {
+    "flavorText": "Donna Every",
+    "id": "devery",
+    "type": "author"
+  },
+  {
+    "flavorText": "E\u0301velyne Trouillot",
+    "id": "etrouillot",
+    "type": "author"
+  },
+  {
+    "flavorText": "Earl G Long",
+    "id": "eglong",
+    "type": "author"
+  },
+  {
+    "flavorText": "Earl Lovelace",
+    "id": "elovelace",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eddie Vega",
+    "id": "evega",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eddie Whyte",
+    "id": "ewhyte",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eden Phillpotts",
+    "id": "ephillpotts",
+    "type": "author"
+  },
+  {
+    "flavorText": "Edgar Austin Mittelholzer",
+    "id": "eamittelholzer",
+    "type": "author"
+  },
+  {
+    "flavorText": "Edison T Williams",
+    "id": "etwilliams",
+    "type": "author"
+  },
+  {
+    "flavorText": "Edith Clarke",
+    "id": "eclarke",
+    "type": "author"
+  },
+  {
+    "flavorText": "Edmond Lapompe-Paironne",
+    "id": "elpaironne",
+    "type": "author"
+  },
+  {
+    "flavorText": "Edouard Mokwe",
+    "id": "emokwe",
+    "type": "author"
+  },
+  {
+    "flavorText": "Edris Saint-Amand",
+    "id": "esamand",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eduardo Del Llano",
+    "id": "edelllano",
+    "type": "author"
+  },
+  {
+    "flavorText": "Edward Baugh",
+    "id": "ebaugh",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kamau Brathwaite",
+    "id": "kbrathwaite",
+    "type": "author"
+  },
+  {
+    "flavorText": "Edwidge Danticat",
+    "id": "edanticat",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eintou Pearl Springer",
+    "id": "epspringer",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eliseo Diego",
+    "id": "ediego",
+    "type": "author"
+  },
+  {
+    "flavorText": "Elizabeth Acevedo",
+    "id": "eacevedo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Elizabeth Nunez",
+    "id": "enunez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Elizabeth Walcott-Hackshaw",
+    "id": "ewalcotthackshaw",
+    "type": "author"
+  },
+  {
+    "flavorText": "Elma Napier",
+    "id": "enapier",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eloi\u0301sa Lezama Lima",
+    "id": "ellima",
+    "type": "author"
+  },
+  {
+    "flavorText": "Emilio Bobadilla",
+    "id": "ebobadilla",
+    "type": "author"
+  },
+  {
+    "flavorText": "Emily A Colin",
+    "id": "eacolin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eric Eustace Williams",
+    "id": "eewilliams",
+    "type": "author"
+  },
+  {
+    "flavorText": "Erna Brodber",
+    "id": "ebrodber",
+    "type": "author"
+  },
+  {
+    "flavorText": "Errol John",
+    "id": "ejohn",
+    "type": "author"
+  },
+  {
+    "flavorText": "Eulah Borde",
+    "id": "eborde",
+    "type": "author"
+  },
+  {
+    "flavorText": "Evan Jones",
+    "id": "ejones",
+    "type": "author"
+  },
+  {
+    "flavorText": "Everard C. Palmer",
+    "id": "ecpalmer",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ezequiel Vieta",
+    "id": "evieta",
+    "type": "author"
+  },
+  {
+    "flavorText": "Fabio Fiallo",
+    "id": "ffiallo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Fabio Murrieta Rodri\u0301guez",
+    "id": "fmrodriguez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Fernand Hibbert",
+    "id": "fhibbert",
+    "type": "author"
+  },
+  {
+    "flavorText": "Fernando Jos\u00e9 Barcena Orbe",
+    "id": "fjborbe",
+    "type": "author"
+  },
+  {
+    "flavorText": "Fr\u00e9d\u00e9ric Marcelin",
+    "id": "fmarcelin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Francesca Momplaisir",
+    "id": "fmomplaisir",
+    "type": "author"
+  },
+  {
+    "flavorText": "Francie Latour",
+    "id": "flatour",
+    "type": "author"
+  },
+  {
+    "flavorText": "Francis Carco",
+    "id": "fcarco",
+    "type": "author"
+  },
+  {
+    "flavorText": "Frank A. Collymore",
+    "id": "facollymore",
+    "type": "author"
+  },
+  {
+    "flavorText": "Frank Janney",
+    "id": "fjanney",
+    "type": "author"
+  },
+  {
+    "flavorText": "Frank\u00e9tienne",
+    "id": "frank\u00e9tienne",
+    "type": "author"
+  },
+  {
+    "flavorText": "Frantz Wainwright",
+    "id": "fwainwright",
+    "type": "author"
+  },
+  {
+    "flavorText": "Fred D'Aguiar",
+    "id": "fdaguiar",
+    "type": "author"
+  },
+  {
+    "flavorText": "Frits Wols",
+    "id": "fwols",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ge\u0301rard Bulin",
+    "id": "gbulin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Geoffrey Drayton",
+    "id": "gdayton",
+    "type": "author"
+  },
+  {
+    "flavorText": "Geoffrey Philp",
+    "id": "gphilip",
+    "type": "author"
+  },
+  {
+    "flavorText": "George Campbell",
+    "id": "gcampbell",
+    "type": "author"
+  },
+  {
+    "flavorText": "George Lamming",
+    "id": "glamming",
+    "type": "author"
+  },
+  {
+    "flavorText": "Georges Mauvois",
+    "id": "gmauvois",
+    "type": "author"
+  },
+  {
+    "flavorText": "Georges Sylvain",
+    "id": "gsylvain",
+    "type": "author"
+  },
+  {
+    "flavorText": "Gina Picart",
+    "id": "gpicart",
+    "type": "author"
+  },
+  {
+    "flavorText": "Gise\u0300le Pineau",
+    "id": "gpineau",
+    "type": "author"
+  },
+  {
+    "flavorText": "Glynis Guevara",
+    "id": "gguevara",
+    "type": "author"
+  },
+  {
+    "flavorText": "Gordon Rohlehr",
+    "id": "grohlehr",
+    "type": "author"
+  },
+  {
+    "flavorText": "Grace Nichols",
+    "id": "gnichols",
+    "type": "author"
+  },
+  {
+    "flavorText": "Gregory Thompson",
+    "id": "gthompson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Guillermo Cabrera Infante",
+    "id": "gcinfante",
+    "type": "author"
+  },
+  {
+    "flavorText": "Guillermo Rosales",
+    "id": "grosales",
+    "type": "author"
+  },
+  {
+    "flavorText": "Gus John",
+    "id": "gjohn",
+    "type": "author"
+  },
+  {
+    "flavorText": "Gwyneth Harold",
+    "id": "gharold",
+    "type": "author"
+  },
+  {
+    "flavorText": "Harischandra Khemraj",
+    "id": "hkhemraj",
+    "type": "author"
+  },
+  {
+    "flavorText": "Harold Ramoutar",
+    "id": "hramoutar",
+    "type": "author"
+  },
+  {
+    "flavorText": "Harold Sonny Ladoo",
+    "id": "hsladoo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Hayim Valdman",
+    "id": "hvaldman",
+    "type": "author"
+  },
+  {
+    "flavorText": "Hazel Simmons-McDonald",
+    "id": "hsmcdonald",
+    "type": "author"
+  },
+  {
+    "flavorText": "Helen Klonaris",
+    "id": "hklonaris",
+    "type": "author"
+  },
+  {
+    "flavorText": "Henry Hesketh Bell",
+    "id": "hhbell",
+    "type": "author"
+  },
+  {
+    "flavorText": "Herbert J. Reifer",
+    "id": "hjreifer",
+    "type": "author"
+  },
+  {
+    "flavorText": "Howard Pease",
+    "id": "hpease",
+    "type": "author"
+  },
+  {
+    "flavorText": "Hubert Nigel Thomas",
+    "id": "hnthomas",
+    "type": "author"
+  },
+  {
+    "flavorText": "Hubert Papailler",
+    "id": "hpapailler",
+    "type": "author"
+  },
+  {
+    "flavorText": "Hyam Yared",
+    "id": "hyared",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ibi Zoboi",
+    "id": "izoboi",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ida Faubert",
+    "id": "ifaubert",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ifeona Fulani",
+    "id": "ifulani",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ingrid Persaud",
+    "id": "ipersaud",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ira Lunan Ferguson",
+    "id": "ilferguson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Isabel Abella\u0301n Chuecos",
+    "id": "iachuecos",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ismith Khan",
+    "id": "ikhan",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ivory Kelly",
+    "id": "ikelly",
+    "type": "author"
+  },
+  {
+    "flavorText": "J. Ashton Brathwaite",
+    "id": "jabrathwaite",
+    "type": "author"
+  },
+  {
+    "flavorText": "J.W. Boddam-Whetham",
+    "id": "jwboddamwhetham",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jacob Ross",
+    "id": "jross",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jacques Roumain",
+    "id": "jroumain",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jacques Stephen Alexis",
+    "id": "jsalexis",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jamaica Kincaid",
+    "id": "jkincaid",
+    "type": "author"
+  },
+  {
+    "flavorText": "James Linen",
+    "id": "jlinen",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jamsie",
+    "id": "jamsie",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jan J Dominique",
+    "id": "jjdominique",
+    "type": "author"
+  },
+  {
+    "flavorText": "Janice Shinebourne",
+    "id": "jshinebourne",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jean Bernab\u00e9",
+    "id": "jbernabe",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jean Binta Breeze",
+    "id": "jbreeze",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jean D'Costa",
+    "id": "jdcosta",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jean Dany Joachim",
+    "id": "jdjoachim",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jean Goulbourne",
+    "id": "jgoulbourne",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jean Rhys",
+    "id": "jrhys",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jean-Joseph Vilaire",
+    "id": "jjvilaire",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jean-Michel Lemaire",
+    "id": "jmlemaire",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jennie Wheatley",
+    "id": "jwheatley",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jennifer Bent",
+    "id": "jbent",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jivan Kaur Soverall",
+    "id": "jksoverall",
+    "type": "author"
+  },
+  {
+    "flavorText": "Joanne C. Hillhouse",
+    "id": "jchillhouse",
+    "type": "author"
+  },
+  {
+    "flavorText": "Joanne Skerrett",
+    "id": "jskerrett",
+    "type": "author"
+  },
+  {
+    "flavorText": "John Hearne",
+    "id": "jhearne",
+    "type": "author"
+  },
+  {
+    "flavorText": "John J Figueroa",
+    "id": "jjfigueroa",
+    "type": "author"
+  },
+  {
+    "flavorText": "John Morris",
+    "id": "jmorris",
+    "type": "author"
+  },
+  {
+    "flavorText": "John Robert Lee",
+    "id": "jrlee",
+    "type": "author"
+  },
+  {
+    "flavorText": "John W. Boddam-Whetham",
+    "id": "jwboddamwhetham",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jonathan De La Rosa",
+    "id": "jdlrosa",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jorge Ronet",
+    "id": "jronet",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jos\u00e9 Lezama Lima",
+    "id": "jllima",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jose Marti\u0301",
+    "id": "jmarti",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jose Prats Sariol",
+    "id": "jpsariol",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jose Rodriguez Feo",
+    "id": "jrfeo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Joseph Husband",
+    "id": "jhusband",
+    "type": "author"
+  },
+  {
+    "flavorText": "Joseph Zobel",
+    "id": "jzobel",
+    "type": "author"
+  },
+  {
+    "flavorText": "Josie Peterson",
+    "id": "jpeterson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Joy Hinkson",
+    "id": "jhinkson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Juan Antonio Alix",
+    "id": "jaalix",
+    "type": "author"
+  },
+  {
+    "flavorText": "Juan Carlos Nunez",
+    "id": "jcnunez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Juan Francisco Manzano",
+    "id": "jfmanzano",
+    "type": "author"
+  },
+  {
+    "flavorText": "Juana Ponce de Leo\u0301n",
+    "id": "jpdeleon",
+    "type": "author"
+  },
+  {
+    "flavorText": "Jude Duranty",
+    "id": "jduranty",
+    "type": "author"
+  },
+  {
+    "flavorText": "Judith Rossell",
+    "id": "jrossell",
+    "type": "author"
+  },
+  {
+    "flavorText": "Judy Stone",
+    "id": "jstone",
+    "type": "author"
+  },
+  {
+    "flavorText": "Julia Alvarez",
+    "id": "jalvarez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Julie K Lundgren",
+    "id": "jklundgren",
+    "type": "author"
+  },
+  {
+    "flavorText": "Julio Ortega",
+    "id": "jortega",
+    "type": "author"
+  },
+  {
+    "flavorText": "Junot Diaz",
+    "id": "jdiaz",
+    "type": "author"
+  },
+  {
+    "flavorText": "Justin Lhe\u0301risson",
+    "id": "jlherisson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kamalo Deen",
+    "id": "kdeen",
+    "type": "author"
+  },
+  {
+    "flavorText": "Karen Lord",
+    "id": "klord",
+    "type": "author"
+  },
+  {
+    "flavorText": "Karen Mah-Chamberlain",
+    "id": "kmahchamberlain",
+    "type": "author"
+  },
+  {
+    "flavorText": "Karl Craig",
+    "id": "kcraig",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kathleen Drayton",
+    "id": "kdrayton",
+    "type": "author"
+  },
+  {
+    "flavorText": "Katia D. Ulysse",
+    "id": "kdulysse",
+    "type": "author"
+  },
+  {
+    "flavorText": "Katia Wolek",
+    "id": "kwolek",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kei Miller",
+    "id": "kmiller",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kendel Hippolyte",
+    "id": "khippolyte",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kettly Mars",
+    "id": "kmars",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kevin Baldeosingh",
+    "id": "kbaldeosingh",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kevyn Alan Arthur",
+    "id": "kaarthur",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kia Marie Khelawan",
+    "id": "kmkhelawan",
+    "type": "author"
+  },
+  {
+    "flavorText": "Krystal A Sital",
+    "id": "kasital",
+    "type": "author"
+  },
+  {
+    "flavorText": "Kwame Senu Neville Dawes",
+    "id": "ksndawes",
+    "type": "author"
+  },
+  {
+    "flavorText": "L\u00e1zaro G\u00f3mez Carriles",
+    "id": "lgcarriles",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lakshmi Persaud",
+    "id": "lpersaud",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lauren Willig",
+    "id": "lwillig",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lawrence Scott",
+    "id": "lscott",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lenelle Moi\u0308se",
+    "id": "lmoise",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lennox Honychurch",
+    "id": "lhonychurch",
+    "type": "author"
+  },
+  {
+    "flavorText": "Leonardo Padura Fuentes",
+    "id": "lpfuentes",
+    "type": "author"
+  },
+  {
+    "flavorText": "Leone Ross",
+    "id": "lross",
+    "type": "author"
+  },
+  {
+    "flavorText": "Leslie Francois Manigat",
+    "id": "lfmanigat",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lewis Henry",
+    "id": "lhenry",
+    "type": "author"
+  },
+  {
+    "flavorText": "Liesel Daisley",
+    "id": "ldaisley",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lindsay Barrett",
+    "id": "lbarrett",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lino Nova\u0301s Calvo",
+    "id": "lncalvo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lisa Allen-Agostini",
+    "id": "laagostini",
+    "type": "author"
+  },
+  {
+    "flavorText": "Llewellyn Emery",
+    "id": "lemery",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lloyd King",
+    "id": "lking",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lorna Goodison",
+    "id": "lgoodison",
+    "type": "author"
+  },
+  {
+    "flavorText": "Los Carpinteros",
+    "id": "lcarpinteros",
+    "type": "author"
+  },
+  {
+    "flavorText": "Louis-Philippe Dalembert",
+    "id": "lpdalembert",
+    "type": "author"
+  },
+  {
+    "flavorText": "Louise Bennett",
+    "id": "lbennett",
+    "type": "author"
+  },
+  {
+    "flavorText": "Louise Harpon",
+    "id": "lharpon",
+    "type": "author"
+  },
+  {
+    "flavorText": "Louison Cazal",
+    "id": "lcazal",
+    "type": "author"
+  },
+  {
+    "flavorText": "Luci\u0301a Lo\u0301pez Coll",
+    "id": "llcoll",
+    "type": "author"
+  },
+  {
+    "flavorText": "Luis Aguero",
+    "id": "laguero",
+    "type": "author"
+  },
+  {
+    "flavorText": "Luis Rafael S\u00e1nchez",
+    "id": "lrsanchez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Luisa Pe\u0301rez de Zambrana",
+    "id": "lpdezambrana",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lyndon J. Dominique",
+    "id": "ljdominique",
+    "type": "author"
+  },
+  {
+    "flavorText": "Lyne-Marie Stanley",
+    "id": "lmstanley",
+    "type": "author"
+  },
+  {
+    "flavorText": "Machel Montano",
+    "id": "mmontano",
+    "type": "author"
+  },
+  {
+    "flavorText": "Magdalena Lo\u0301pez",
+    "id": "mlopez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mahadai Das",
+    "id": "msdas",
+    "type": "author"
+  },
+  {
+    "flavorText": "Maika Moulite",
+    "id": "mmoulite",
+    "type": "author"
+  },
+  {
+    "flavorText": "Maisy Card",
+    "id": "mcard",
+    "type": "author"
+  },
+  {
+    "flavorText": "Manuel Zapata Olivella",
+    "id": "mzolivella",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mara Etienne-Manley",
+    "id": "memanley",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marcel Ne\u0301re\u0301e",
+    "id": "mne\u0301re\u0301e",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marcela Breton",
+    "id": "mbreton",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marcia Douglas",
+    "id": "mdouglas",
+    "type": "author"
+  },
+  {
+    "flavorText": "Margaret Busby",
+    "id": "mbusby",
+    "type": "author"
+  },
+  {
+    "flavorText": "Margarita Suero-Duran",
+    "id": "msueroduran",
+    "type": "author"
+  },
+  {
+    "flavorText": "Maria Nugent",
+    "id": "mnugent",
+    "type": "author"
+  },
+  {
+    "flavorText": "Maria Roberts-Squires",
+    "id": "mrsquires",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mariano Brull",
+    "id": "mbrull",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mariano Rodri\u0301guez",
+    "id": "mrodriguez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marie Arnold",
+    "id": "marnold",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marie C\u00e9lie Agnant",
+    "id": "mcagnant",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marie Evelyn",
+    "id": "mevelyn",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marie Vieux-Chauvet",
+    "id": "mvchauvet",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marie-Elena John",
+    "id": "mejohn",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marie-Jose\u0301phine Augustin",
+    "id": "mjaugustin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marie-Magdeleine Carbet",
+    "id": "mmcarbet",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marika Preziuso",
+    "id": "mpreziuso",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marilyn Bobes Leo\u0301n",
+    "id": "mbleo\u0301n",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marina Salandy-Brown",
+    "id": "msbrown",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marion Bethel",
+    "id": "mbethel",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marion Dowe",
+    "id": "mdowe",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marion O'Callaghan",
+    "id": "mocallaghan",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mark McWatt",
+    "id": "mmcwatt",
+    "type": "author"
+  },
+  {
+    "flavorText": "M. Nourbese Phillip",
+    "id": "mnphillip",
+    "type": "author"
+  },
+  {
+    "flavorText": "Marlon James",
+    "id": "mjames",
+    "type": "author"
+  },
+  {
+    "flavorText": "Martha Blanchard",
+    "id": "mblanchard",
+    "type": "author"
+  },
+  {
+    "flavorText": "Martin Amis",
+    "id": "mamis",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mary Prince",
+    "id": "mprince",
+    "type": "author"
+  },
+  {
+    "flavorText": "Maryse Cond\u00e9",
+    "id": "mconde",
+    "type": "author"
+  },
+  {
+    "flavorText": "Matthew James Chapman",
+    "id": "mjchapman",
+    "type": "author"
+  },
+  {
+    "flavorText": "Maude Heurtelou",
+    "id": "mheurtelou",
+    "type": "author"
+  },
+  {
+    "flavorText": "Maureen Warner-Lewis",
+    "id": "mwlewis",
+    "type": "author"
+  },
+  {
+    "flavorText": "Max A Antoine",
+    "id": "maantoine",
+    "type": "author"
+  },
+  {
+    "flavorText": "May Farquharson",
+    "id": "mfarquharson",
+    "type": "author"
+  },
+  {
+    "flavorText": "McDonald Dixon",
+    "id": "mdixon",
+    "type": "author"
+  },
+  {
+    "flavorText": "Meiling Jin",
+    "id": "mjin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mercedes Abad",
+    "id": "mabad",
+    "type": "author"
+  },
+  {
+    "flavorText": "Merle Collins",
+    "id": "mcollins",
+    "type": "author"
+  },
+  {
+    "flavorText": "Merle Hodge",
+    "id": "mhodge",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mervyn Morris",
+    "id": "mmorris",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michael Anthony",
+    "id": "manthony",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michael Aubertin",
+    "id": "maubertin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michael Cozier",
+    "id": "mcozier",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michael Smith",
+    "id": "msmith",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michael Thelwell",
+    "id": "mthelwell",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michel Maxwell Philip",
+    "id": "mmphilip",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michelle Cliff",
+    "id": "mcliff",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michelle Gargar",
+    "id": "mgargar",
+    "type": "author"
+  },
+  {
+    "flavorText": "Michelle Paula Barton-Romeo",
+    "id": "mpbartonromeo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Miguel \u00c1ngel Asturias",
+    "id": "maasturias",
+    "type": "author"
+  },
+  {
+    "flavorText": "Miguel Collazo",
+    "id": "mcollazo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Miguel de Carri\u00f3n",
+    "id": "mdcarrion",
+    "type": "author"
+  },
+  {
+    "flavorText": "Milagros Ricourt",
+    "id": "mricourt",
+    "type": "author"
+  },
+  {
+    "flavorText": "Milagros Rodr\u00edguez C\u00e1ceres",
+    "id": "mrc\u00e1ceres",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mireille Rosello",
+    "id": "mrosello",
+    "type": "author"
+  },
+  {
+    "flavorText": "Monique Roffey",
+    "id": "mroffey",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mosi Mandisa",
+    "id": "mmandisa",
+    "type": "author"
+  },
+  {
+    "flavorText": "Mylene Pintado Fernandz",
+    "id": "mpfernandez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Myriam J. A Chancy",
+    "id": "mjachancy",
+    "type": "author"
+  },
+  {
+    "flavorText": "Myriam Warner-Vieyra",
+    "id": "mwvieyra",
+    "type": "author"
+  },
+  {
+    "flavorText": "N. C. Marks",
+    "id": "ncmarks",
+    "type": "author"
+  },
+  {
+    "flavorText": "N. D. Williams",
+    "id": "ndwilliams",
+    "type": "author"
+  },
+  {
+    "flavorText": "Nailah Folami Imoja",
+    "id": "nfimoja",
+    "type": "author"
+  },
+  {
+    "flavorText": "Naima Coster",
+    "id": "ncoster",
+    "type": "author"
+  },
+  {
+    "flavorText": "Nalo Hopkinson",
+    "id": "nhopkinson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Namba Roy",
+    "id": "nroy",
+    "type": "author"
+  },
+  {
+    "flavorText": "Nancy Morej\u00f3n",
+    "id": "nmorejon",
+    "type": "author"
+  },
+  {
+    "flavorText": "Naomi Jackson",
+    "id": "njackson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Narmala Shewcharan",
+    "id": "nshewcharan",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ne\u0301stor Ponce",
+    "id": "nponce",
+    "type": "author"
+  },
+  {
+    "flavorText": "Neville Dawes",
+    "id": "ndawes",
+    "type": "author"
+  },
+  {
+    "flavorText": "Neville Giuseppi",
+    "id": "ngiuseppi",
+    "type": "author"
+  },
+  {
+    "flavorText": "Nicholas Laughlin",
+    "id": "nlaughlin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Nicol\u00e1s Guill\u00e9n",
+    "id": "ngullien",
+    "type": "author"
+  },
+  {
+    "flavorText": "Nicola Yoon",
+    "id": "nyoon",
+    "type": "author"
+  },
+  {
+    "flavorText": "Nicole Deniss-Benn",
+    "id": "ndennisbenn",
+    "type": "author"
+  },
+  {
+    "flavorText": "Nicole Roberts",
+    "id": "nroberts",
+    "type": "author"
+  },
+  {
+    "flavorText": "Norman Eustace Cameron",
+    "id": "necameron",
+    "type": "author"
+  },
+  {
+    "flavorText": "O.R Dathorne",
+    "id": "ordathorne",
+    "type": "author"
+  },
+  {
+    "flavorText": "Olive Lewin",
+    "id": "olewin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Olive Senior",
+    "id": "osenior",
+    "type": "author"
+  },
+  {
+    "flavorText": "Oonya Kempadoo",
+    "id": "okempadoo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Opal Palmer Adisa",
+    "id": "opalmeradisa",
+    "type": "author"
+  },
+  {
+    "flavorText": "Orlando Luis Pardo Lazo",
+    "id": "olplazo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Orlando Patterson",
+    "id": "opatterson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Osvaldo Garc\u00eda Goyco",
+    "id": "oggoyco",
+    "type": "author"
+  },
+  {
+    "flavorText": "Pamela Mordecai",
+    "id": "pmordecai",
+    "type": "author"
+  },
+  {
+    "flavorText": "Patricia Powell",
+    "id": "ppowell",
+    "type": "author"
+  },
+  {
+    "flavorText": "Patrick Chamoiseau",
+    "id": "pchamoiseau",
+    "type": "author"
+  },
+  {
+    "flavorText": "Patrick Sylvain",
+    "id": "psylvain",
+    "type": "author"
+  },
+  {
+    "flavorText": "Paul Keens-Douglas",
+    "id": "pkeensdouglas",
+    "type": "author"
+  },
+  {
+    "flavorText": "Paul Marlee",
+    "id": "pmarlee",
+    "type": "author"
+  },
+  {
+    "flavorText": "Paule Marshall",
+    "id": "pmarshall",
+    "type": "author"
+  },
+  {
+    "flavorText": "Paulette Ramsay",
+    "id": "pramsay",
+    "type": "author"
+  },
+  {
+    "flavorText": "Pauline Melville",
+    "id": "pmelville",
+    "type": "author"
+  },
+  {
+    "flavorText": "Peekash Press",
+    "id": "ppress",
+    "type": "author"
+  },
+  {
+    "flavorText": "Peter Abrahams",
+    "id": "pabrahams",
+    "type": "author"
+  },
+  {
+    "flavorText": "Peter Josie",
+    "id": "pjosie",
+    "type": "author"
+  },
+  {
+    "flavorText": "Peter Kempadoo",
+    "id": "pkempadoo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Petreine Archer",
+    "id": "parcher",
+    "type": "author"
+  },
+  {
+    "flavorText": "Philip Lindsay",
+    "id": "plindsay",
+    "type": "author"
+  },
+  {
+    "flavorText": "Philippe Thoby-Marcelin",
+    "id": "ptmarcelin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Phyllis Shand Allfrey",
+    "id": "psallfrey",
+    "type": "author"
+  },
+  {
+    "flavorText": "Pierre Alex Jeanty",
+    "id": "pajeanty",
+    "type": "author"
+  },
+  {
+    "flavorText": "Pierre Marcelin",
+    "id": "pmarcelin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Pomp\u00e9e Valentin Vastey",
+    "id": "pvvastey",
+    "type": "author"
+  },
+  {
+    "flavorText": "Queen Macoomeh",
+    "id": "qmacoomeh",
+    "type": "author"
+  },
+  {
+    "flavorText": "R. A. Pinder",
+    "id": "rapinder",
+    "type": "author"
+  },
+  {
+    "flavorText": "R. L. C. Aarons",
+    "id": "rlcaarons",
+    "type": "author"
+  },
+  {
+    "flavorText": "R.B Cunnighame-Graham",
+    "id": "rbcunninghamegraham",
+    "type": "author"
+  },
+  {
+    "flavorText": "Rabindranath Maharaj",
+    "id": "rmaharaj",
+    "type": "author"
+  },
+  {
+    "flavorText": "Rachel Kirby",
+    "id": "rkirby",
+    "type": "author"
+  },
+  {
+    "flavorText": "Rachel Manley",
+    "id": "rmanley",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ramo\u0301n De Palma",
+    "id": "rdepalma",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ramon Antonio Victoriano-Martinez",
+    "id": "ravmartinez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Raoul B. Altidor",
+    "id": "rbaltidor",
+    "type": "author"
+  },
+  {
+    "flavorText": "Raoul Pantin",
+    "id": "rpantin",
+    "type": "author"
+  },
+  {
+    "flavorText": "Raphae\u0308l Confiant",
+    "id": "rconfiant",
+    "type": "author"
+  },
+  {
+    "flavorText": "Reinaldo Arenas",
+    "id": "rarenas",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ren\u00e9 Maran",
+    "id": "rmaran",
+    "type": "author"
+  },
+  {
+    "flavorText": "Rene Depestre",
+    "id": "rdepestre",
+    "type": "author"
+  },
+  {
+    "flavorText": "Rene\u0301 Bonneville",
+    "id": "rbonneville",
+    "type": "author"
+  },
+  {
+    "flavorText": "Rene\u0301 Philocte\u0300te",
+    "id": "rphilocte\u0300te",
+    "type": "author"
+  },
+  {
+    "flavorText": "Richard F. Patterson",
+    "id": "rfpatterson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Richardo Keens-Douglas",
+    "id": "rkdouglas",
+    "type": "author"
+  },
+  {
+    "flavorText": "Robert Antoni",
+    "id": "rantoni",
+    "type": "author"
+  },
+  {
+    "flavorText": "Robert L Ross",
+    "id": "rlross",
+    "type": "author"
+  },
+  {
+    "flavorText": "Robert McDonald",
+    "id": "rmcdonald",
+    "type": "author"
+  },
+  {
+    "flavorText": "Robert Nazaire",
+    "id": "rnazaire",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roberto Fern\u00e1ndez Retamar",
+    "id": "rfretamar",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roberto Valero",
+    "id": "rvalero",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roderick Walcott",
+    "id": "rwalcott",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roger Dorsinville",
+    "id": "rdorsinville",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roger Mais",
+    "id": "rmais",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roger Parsemain",
+    "id": "rparsemain",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roger Robinson",
+    "id": "rrobinson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Rooplall Monar",
+    "id": "rmonar",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roopnandan Singh",
+    "id": "rsingh",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roque Dalton",
+    "id": "rdalton",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roy A Galt",
+    "id": "ragalt",
+    "type": "author"
+  },
+  {
+    "flavorText": "Roy Namba",
+    "id": "rnamba",
+    "type": "author"
+  },
+  {
+    "flavorText": "Rueben Marti\u0301nez",
+    "id": "rmarti\u0301nez",
+    "type": "author"
+  },
+  {
+    "flavorText": "Sabrina Costanzo",
+    "id": "scostanzo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Saint-John Perse",
+    "id": "sjperse",
+    "type": "author"
+  },
+  {
+    "flavorText": "Samuel Selvon",
+    "id": "sselvon",
+    "type": "author"
+  },
+  {
+    "flavorText": "Sara Collins",
+    "id": "scollins",
+    "type": "author"
+  },
+  {
+    "flavorText": "Sarah Dass",
+    "id": "sdass",
+    "type": "author"
+  },
+  {
+    "flavorText": "Sarah Pooley",
+    "id": "spooley",
+    "type": "author"
+  },
+  {
+    "flavorText": "Sasenarine Persaud",
+    "id": "spersaud",
+    "type": "author"
+  },
+  {
+    "flavorText": "Seepersad Naipaul",
+    "id": "snaipaul",
+    "type": "author"
+  },
+  {
+    "flavorText": "Severo Sarduy",
+    "id": "ssarduy",
+    "type": "author"
+  },
+  {
+    "flavorText": "Shakirah Bourne",
+    "id": "sbourne",
+    "type": "author"
+  },
+  {
+    "flavorText": "Shani Mootoo",
+    "id": "smootoo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Sherwyn Besson",
+    "id": "sbesson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Shiva Naipaul",
+    "id": "shnaipaul",
+    "type": "author"
+  },
+  {
+    "flavorText": "Shiva Shridath Maharajh",
+    "id": "ssmaharajh",
+    "type": "author"
+  },
+  {
+    "flavorText": "Shivanee Ramlochan",
+    "id": "sramlochan",
+    "type": "author"
+  },
+  {
+    "flavorText": "Simon Schama",
+    "id": "sschama",
+    "type": "author"
+  },
+  {
+    "flavorText": "Simone Schwarz-Bart",
+    "id": "ssbart",
+    "type": "author"
+  },
+  {
+    "flavorText": "Soleida Rios",
+    "id": "srios",
+    "type": "author"
+  },
+  {
+    "flavorText": "Stephen A Dantes",
+    "id": "sadantes",
+    "type": "author"
+  },
+  {
+    "flavorText": "Stewart Brown",
+    "id": "sbrown",
+    "type": "author"
+  },
+  {
+    "flavorText": "Suzanne Dracius",
+    "id": "sdracius",
+    "type": "author"
+  },
+  {
+    "flavorText": "Suzanne Durant",
+    "id": "sdurant",
+    "type": "author"
+  },
+  {
+    "flavorText": "Sylvia Wynter",
+    "id": "swynter",
+    "type": "author"
+  },
+  {
+    "flavorText": "Tami Charles",
+    "id": "tcharles",
+    "type": "author"
+  },
+  {
+    "flavorText": "Tessa McWatt",
+    "id": "tmcwatt",
+    "type": "author"
+  },
+  {
+    "flavorText": "Timoth\u00e9e Paret",
+    "id": "tparet",
+    "type": "author"
+  },
+  {
+    "flavorText": "Timothy Callender",
+    "id": "tcallender",
+    "type": "author"
+  },
+  {
+    "flavorText": "Tip Marugg",
+    "id": "tmarugg",
+    "type": "author"
+  },
+  {
+    "flavorText": "Tiphanie Yanique",
+    "id": "tyanique",
+    "type": "author"
+  },
+  {
+    "flavorText": "Tony Delsham",
+    "id": "tdelsham",
+    "type": "author"
+  },
+  {
+    "flavorText": "Trevor Chadee",
+    "id": "tchadee",
+    "type": "author"
+  },
+  {
+    "flavorText": "Trevor D Rhone",
+    "id": "tdrhone",
+    "type": "author"
+  },
+  {
+    "flavorText": "Tyrone Williams",
+    "id": "twilliams",
+    "type": "author"
+  },
+  {
+    "flavorText": "Umberto Valverde",
+    "id": "uvalverde",
+    "type": "author"
+  },
+  {
+    "flavorText": "Una Marson",
+    "id": "umarson",
+    "type": "author"
+  },
+  {
+    "flavorText": "Undine Giuseppi",
+    "id": "ugiuseppi",
+    "type": "author"
+  },
+  {
+    "flavorText": "V.S. Naipaul",
+    "id": "vsnaipaul",
+    "type": "author"
+  },
+  {
+    "flavorText": "V\u00e9ronique Maisier",
+    "id": "vmaisier",
+    "type": "author"
+  },
+  {
+    "flavorText": "Vahni Capildeo",
+    "id": "vcapildeo",
+    "type": "author"
+  },
+  {
+    "flavorText": "Vanessa Riley",
+    "id": "vriley",
+    "type": "author"
+  },
+  {
+    "flavorText": "Vanessa Spence",
+    "id": "vspence",
+    "type": "author"
+  },
+  {
+    "flavorText": "Velma Pollard",
+    "id": "vpollard",
+    "type": "author"
+  },
+  {
+    "flavorText": "Velta J Clarke",
+    "id": "vjclarke",
+    "type": "author"
+  },
+  {
+    "flavorText": "Victor Stafford Reid",
+    "id": "vsreid",
+    "type": "author"
+  },
+  {
+    "flavorText": "Vigil Diaz",
+    "id": "vdiaz",
+    "type": "author"
+  },
+  {
+    "flavorText": "Virgilio Pin\u0303era",
+    "id": "vpinera",
+    "type": "author"
+  },
+  {
+    "flavorText": "Wallace Williams",
+    "id": "wwilliams",
+    "type": "author"
+  },
+  {
+    "flavorText": "Walter Goodman",
+    "id": "wgoodman",
+    "type": "author"
+  },
+  {
+    "flavorText": "Walter Adolphe Roberts",
+    "id": "waroberts",
+    "type": "author"
+  },
+  {
+    "flavorText": "Wayne Gerard Trotman",
+    "id": "wgtrotman",
+    "type": "author"
+  },
+  {
+    "flavorText": "William Loehfelm",
+    "id": "wloehfelm",
+    "type": "author"
+  },
+  {
+    "flavorText": "William P Barron",
+    "id": "wpbarron",
+    "type": "author"
+  },
+  {
+    "flavorText": "William T Vollmann",
+    "id": "wtvollmann",
+    "type": "author"
+  },
+  {
+    "flavorText": "Wycliffe Bennett",
+    "id": "wbennett",
+    "type": "author"
+  },
+  {
+    "flavorText": "Yanick Lahens",
+    "id": "ylahens",
+    "type": "author"
+  },
+  {
+    "flavorText": "Yanitzia Canetti",
+    "id": "ycanetti",
+    "type": "author"
+  },
+  {
+    "flavorText": "Ylce Irizarry",
+    "id": "yIrizarry",
+    "type": "author"
+  },
+  {
+    "flavorText": "Youmna Charara",
+    "id": "ycharara",
+    "type": "author"
+  },
+  {
+    "flavorText": "Zadie Smith",
+    "id": "zsmith",
+    "type": "author"
+  },
+  {
+    "flavorText": "Zee Edgell",
+    "id": "zedgell",
+    "type": "author"
+  },
+  {
+    "flavorText": "Zetta Elliott",
+    "id": "zelliott",
+    "type": "author"
+  },
+  {
+    "flavorText": "Zoukouyanyan Compagnie",
+    "id": "zcompagnie",
+    "type": "author"
+  },
+  {
+    "flavorText": "Teor\u00eda De La Cr\u00edtica Y El Ensayo En Hispanoam\u00e9rica",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Teor\u00eda De La Cr\u00edtica Y El Ensayo En Hispanoam\u00e9rica",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Ezequiel Vieta Y El Bosque Cifrado",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Ezequiel Vieta Y El Bosque Cifrado",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Poe\u0301tica Del Li\u0301mite : Sobre La Cuenti\u0301stica De Virgilio Pin\u0303era",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Poe\u0301tica Del Li\u0301mite : Sobre La Cuenti\u0301stica De Virgilio Pin\u0303era",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Tres Cuentistas Cubanos Ensayo",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Tres Cuentistas Cubanos Ensayo",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Silencio Y Destino : Anatomi\u0301a De Una Novela Li\u0301rica",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Silencio Y Destino : Anatomi\u0301a De Una Novela Li\u0301rica",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Los Dientes Del Drago\u0301n",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Los Dientes Del Drago\u0301n",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Silencio Y Destino : Arquetipos Culturales Y Representacio\u0301n Simbo\u0301lica En Jardi\u0301n De Dulce Mari\u0301a Loynaz",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Silencio Y Destino : Arquetipos Culturales Y Representacio\u0301n Simbo\u0301lica En Jardi\u0301n De Dulce Mari\u0301a Loynaz",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Presunciones",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Presunciones",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Mirada Critica",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Mirada Critica",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Concierto De Las Fa\u0301bulas : Discursos, Historia E Imaginacio\u0301n En La Narrativa Cubana De Los An\u0303os Sesenta",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Concierto De Las Fa\u0301bulas : Discursos, Historia E Imaginacio\u0301n En La Narrativa Cubana De Los An\u0303os Sesenta",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Rapunzel: Y Otras Historias",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Rapunzel: Y Otras Historias",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Lengua Impregnada: Fluencias Libres Sobre Erotismo Y Sexualidad En La Narrativa Cubana Contempor\u00e1nea",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Lengua Impregnada: Fluencias Libres Sobre Erotismo Y Sexualidad En La Narrativa Cubana Contempor\u00e1nea",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Ojo Absorto: Notas Sobre El Cuerpo En El Cine",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Ojo Absorto: Notas Sobre El Cuerpo En El Cine",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Espejo : Morfolog\u00edas Del Cuerpo Gay-Lesbiano, Queer En El Cine",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Espejo : Morfolog\u00edas Del Cuerpo Gay-Lesbiano, Queer En El Cine",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Espejo Roto : Morfologi\u0301as Del Cuerpo Gay-Lesbiano/Queer En El Cine",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Espejo Roto : Morfologi\u0301as Del Cuerpo Gay-Lesbiano/Queer En El Cine",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Dia\u0301logos Con Los Muertos Y Otros Ensayos",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Dia\u0301logos Con Los Muertos Y Otros Ensayos",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Sen\u0303ores De La Oscuridad : El Go\u0301tico En El Cine",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Sen\u0303ores De La Oscuridad : El Go\u0301tico En El Cine",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Ars en Vita",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Ars en Vita",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Het existentialisme, Drie voordrachten met discussie",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Het existentialisme, Drie voordrachten met discussie",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Antilliaanse cahiers",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Antilliaanse cahiers",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Dagboekbladen uit Gen\u00e8ve",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Dagboekbladen uit Gen\u00e8ve",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Verzameld werk 1. Over Antilliaanse cultuur ",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Verzameld werk 1. Over Antilliaanse cultuur ",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Verzameld werk 6. Dagboekbladen uit Gen\u00e8ve. Over dans en beeldende kunst",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Verzameld werk 6. Dagboekbladen uit Gen\u00e8ve. Over dans en beeldende kunst",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Wie was C\u00e9line? Van cuirassier tot clochard",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Wie was C\u00e9line? Van cuirassier tot clochard",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Over Literatuur",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Over Literatuur",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Creative And Cultural Identity In The Work Of Anson Gonzalez: A Study Of Proseleela, Chela Quest, And Crossroads Of Dream As Spiritual And Literary Autobiography : A Paper",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Creative And Cultural Identity In The Work Of Anson Gonzalez: A Study Of Proseleela, Chela Quest, And Crossroads Of Dream As Spiritual And Literary Autobiography : A Paper",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Reflections on Sam Selvon",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Reflections on Sam Selvon",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Kenneth Mackenzie",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Kenneth Mackenzie",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Selima Hill And Venus Khoury-Ghata",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Selima Hill And Venus Khoury-Ghata",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Surrealism In Greece And Young Greek Poets",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Surrealism In Greece And Young Greek Poets",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Nikos Stangos And Katerina Anghelaki-Rooke",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Nikos Stangos And Katerina Anghelaki-Rooke",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Monetarism In Practice",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Monetarism In Practice",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Soft Men Going To Bits: Vulnerable Masculinities In Austin Clarke's Fiction",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Soft Men Going To Bits: Vulnerable Masculinities In Austin Clarke's Fiction",
+    "type": "essay"
+  },
+  {
+    "flavorText": "The Role Of Intellectual Workers In Processes Of Social Transformation In Thirld World Countries",
+    "type": "essay"
+  },
+  {
+    "flavorText": "The Role Of Intellectual Workers In Processes Of Social Transformation In Thirld World Countries",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Bridges Of Sound An Approach To Edward Brathwaite's Jah",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Bridges Of Sound An Approach To Edward Brathwaite's Jah",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Articulating A Caribbean Aesthetic: The Revolution Of Self-Perception",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Articulating A Caribbean Aesthetic: The Revolution Of Self-Perception",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Bridge Of Sound: An Approch To Edward Brathwaite's \"Jah\"",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Bridge Of Sound: An Approch To Edward Brathwaite's \"Jah\"",
+    "type": "essay"
+  },
+  {
+    "flavorText": "In History",
+    "type": "essay"
+  },
+  {
+    "flavorText": "In History",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Algunos Tratados En Havana",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Algunos Tratados En Havana",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Carta",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Carta",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Coloquio Con Juan Ram\u00f3n Jim\u00e9nez",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Coloquio Con Juan Ram\u00f3n Jim\u00e9nez",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Cantidad Hechizada",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Cantidad Hechizada",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Las Eras Imaginarias: Ensayos",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Las Eras Imaginarias: Ensayos",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Imagen Y Posibilidad",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Imagen Y Posibilidad",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Die Amerikanische Ausdruckswelt",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Die Amerikanische Ausdruckswelt",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Dignidad De La Poes\u00eda",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Dignidad De La Poes\u00eda",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Fragmentos Irradiadores",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Fragmentos Irradiadores",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Expresi\u00f3n Americana : Y Otros Ensayos",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Expresi\u00f3n Americana : Y Otros Ensayos",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Tratados En Havana",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Tratados En Havana",
+    "type": "essay"
+  },
+  {
+    "flavorText": "The African Presence in Caribbean Literature",
+    "type": "essay"
+  },
+  {
+    "flavorText": "The African Presence in Caribbean Literature",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Nation Language Poetry (Savacou Working Paper)",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Nation Language Poetry (Savacou Working Paper)",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Unidad Submarina: Ensayos Caribe\u00f1os",
+    "type": "essay"
+  },
+  {
+    "flavorText": "La Unidad Submarina: Ensayos Caribe\u00f1os",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Roots",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Roots",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Statu Quo En Haiti? D'un Duvalier \u00c0 L'autre: L'itine\u0301raire D'un Fascisme De Sous-De\u0301veloppement",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Statu Quo En Haiti? D'un Duvalier \u00c0 L'autre: L'itine\u0301raire D'un Fascisme De Sous-De\u0301veloppement",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Llevando El Velo Y Cruzando La Frontera: Geograf\u00edas Imaginarias En The Farming Of Bones De Edwidge Danticat",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Llevando El Velo Y Cruzando La Frontera: Geograf\u00edas Imaginarias En The Farming Of Bones De Edwidge Danticat",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Edwidge Danticat's 'The Farming Of Bones': Traumatic Memories And The Translucent Narrator",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Edwidge Danticat's 'The Farming Of Bones': Traumatic Memories And The Translucent Narrator",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Rogelio Marti\u0301nez Fure\u0301 : \u00bfJuglar O Griot?.Ensayo.",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Rogelio Marti\u0301nez Fure\u0301 : \u00bfJuglar O Griot?.Ensayo.",
+    "type": "essay"
+  },
+  {
+    "flavorText": "18th International Conference On Parallel Processing.",
+    "type": "essay"
+  },
+  {
+    "flavorText": "18th International Conference On Parallel Processing.",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Martinique vue du ciel",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Martinique vue du ciel",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Textual Pleasures and Violent Memories in Edwidge Danticat Farming of the Bones",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Textual Pleasures and Violent Memories in Edwidge Danticat Farming of the Bones",
+    "type": "essay"
+  },
+  {
+    "flavorText": "\"Rayano\": Una Nueva Metafora Para Explicar La Dominicanidad",
+    "type": "essay"
+  },
+  {
+    "flavorText": "\"Rayano\": Una Nueva Metafora Para Explicar La Dominicanidad",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Intelectual y la Sociedad",
+    "type": "essay"
+  },
+  {
+    "flavorText": "El Intelectual y la Sociedad",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Pour la R\u00e9volution, Pour la Po\u00e9sie",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Pour la R\u00e9volution, Pour la Po\u00e9sie",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Por la Revoluci\u00f3n, Por la Poes\u00eda",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Por la Revoluci\u00f3n, Por la Poes\u00eda",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Por la Revoluci\u00f3n, Por la Poes\u00eda",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Por la Revoluci\u00f3n, Por la Poes\u00eda",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Por la Revoluci\u00f3n, Por la Poes\u00eda",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Por la Revoluci\u00f3n, Por la Poes\u00eda",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Mart\u00ed",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Mart\u00ed",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Commonwealth: Essays and Studies. Vol. 6, n\u00b0 1, Automn 1983",
+    "type": "essay"
+  },
+  {
+    "flavorText": "Commonwealth: Essays and Studies. Vol. 6, n\u00b0 1, Automn 1983",
+    "type": "essay"
+  },
+  {
+    "flavorText": "",
+    "type": "country"
+  },
+  {
+    "flavorText": "Cuba",
+    "type": "country"
+  },
+  {
+    "flavorText": "antigua_&_barbuda",
+    "type": "country"
+  },
+  {
+    "flavorText": "argentina",
+    "type": "country"
+  },
+  {
+    "flavorText": "australia",
+    "type": "country"
+  },
+  {
+    "flavorText": "barbados",
+    "type": "country"
+  },
+  {
+    "flavorText": "belize",
+    "type": "country"
+  },
+  {
+    "flavorText": "bermuda",
+    "type": "country"
+  },
+  {
+    "flavorText": "bonaire",
+    "type": "country"
+  },
+  {
+    "flavorText": "brazil",
+    "type": "country"
+  },
+  {
+    "flavorText": "british_virgin_islands",
+    "type": "country"
+  },
+  {
+    "flavorText": "canada",
+    "type": "country"
+  },
+  {
+    "flavorText": "chile",
+    "type": "country"
+  },
+  {
+    "flavorText": "colombia",
+    "type": "country"
+  },
+  {
+    "flavorText": "columbia",
+    "type": "country"
+  },
+  {
+    "flavorText": "cuba",
+    "type": "country"
+  },
+  {
+    "flavorText": "cura\u00e7ao",
+    "type": "country"
+  },
+  {
+    "flavorText": "dominica",
+    "type": "country"
+  },
+  {
+    "flavorText": "dominican_republic",
+    "type": "country"
+  },
+  {
+    "flavorText": "el_salvador",
+    "type": "country"
+  },
+  {
+    "flavorText": "england",
+    "type": "country"
+  },
+  {
+    "flavorText": "france",
+    "type": "country"
+  },
+  {
+    "flavorText": "french_guiana",
+    "type": "country"
+  },
+  {
+    "flavorText": "gabon",
+    "type": "country"
+  },
+  {
+    "flavorText": "ghana",
+    "type": "country"
+  },
+  {
+    "flavorText": "grenada",
+    "type": "country"
+  },
+  {
+    "flavorText": "guadeloupe",
+    "type": "country"
+  },
+  {
+    "flavorText": "guatemala",
+    "type": "country"
+  },
+  {
+    "flavorText": "guyana",
+    "type": "country"
+  },
+  {
+    "flavorText": "haiti",
+    "type": "country"
+  },
+  {
+    "flavorText": "india",
+    "type": "country"
+  },
+  {
+    "flavorText": "ireland",
+    "type": "country"
+  },
+  {
+    "flavorText": "italy",
+    "type": "country"
+  },
+  {
+    "flavorText": "jamaica",
+    "type": "country"
+  },
+  {
+    "flavorText": "lebanon",
+    "type": "country"
+  },
+  {
+    "flavorText": "martinique",
+    "type": "country"
+  },
+  {
+    "flavorText": "new_caledonia",
+    "type": "country"
+  },
+  {
+    "flavorText": "nigeria",
+    "type": "country"
+  },
+  {
+    "flavorText": "peru",
+    "type": "country"
+  },
+  {
+    "flavorText": "puerto_rico",
+    "type": "country"
+  },
+  {
+    "flavorText": "spain",
+    "type": "country"
+  },
+  {
+    "flavorText": "st._kitts_&_nevis",
+    "type": "country"
+  },
+  {
+    "flavorText": "st._lucia",
+    "type": "country"
+  },
+  {
+    "flavorText": "st._martin",
+    "type": "country"
+  },
+  {
+    "flavorText": "st._vincent",
+    "type": "country"
+  },
+  {
+    "flavorText": "st._vincent_&_the_grenadines",
+    "type": "country"
+  },
+  {
+    "flavorText": "st.lucia",
+    "type": "country"
+  },
+  {
+    "flavorText": "suriname",
+    "type": "country"
+  },
+  {
+    "flavorText": "the_bahamas",
+    "type": "country"
+  },
+  {
+    "flavorText": "trinidad_&_tobago",
+    "type": "country"
+  },
+  {
+    "flavorText": "ukraine",
+    "type": "country"
+  },
+  {
+    "flavorText": "united_states",
+    "type": "country"
+  },
+  {
+    "flavorText": "united\u00ac\u2020states",
+    "type": "country"
+  },
+  {
+    "flavorText": "virgin_islands",
+    "type": "country"
+  },
+  {
+    "flavorText": "Arabic",
+    "type": "language"
+  },
+  {
+    "flavorText": "Chinese",
+    "type": "language"
+  },
+  {
+    "flavorText": "Creole",
+    "type": "language"
+  },
+  {
+    "flavorText": "Czech",
+    "type": "language"
+  },
+  {
+    "flavorText": "Danish",
+    "type": "language"
+  },
+  {
+    "flavorText": "Dutch",
+    "type": "language"
+  },
+  {
+    "flavorText": "English",
+    "type": "language"
+  },
+  {
+    "flavorText": "Estonian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Farsi",
+    "type": "language"
+  },
+  {
+    "flavorText": "Finnish",
+    "type": "language"
+  },
+  {
+    "flavorText": "French",
+    "type": "language"
+  },
+  {
+    "flavorText": "French Creole",
+    "type": "language"
+  },
+  {
+    "flavorText": "German",
+    "type": "language"
+  },
+  {
+    "flavorText": "Greek",
+    "type": "language"
+  },
+  {
+    "flavorText": "Greek, Modern",
+    "type": "language"
+  },
+  {
+    "flavorText": "Haitian Creole",
+    "type": "language"
+  },
+  {
+    "flavorText": "Hebrew",
+    "type": "language"
+  },
+  {
+    "flavorText": "Hungarian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Italian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Japanese",
+    "type": "language"
+  },
+  {
+    "flavorText": "Korean",
+    "type": "language"
+  },
+  {
+    "flavorText": "Latvian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Norwegian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Persian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Polish",
+    "type": "language"
+  },
+  {
+    "flavorText": "Portuguese",
+    "type": "language"
+  },
+  {
+    "flavorText": "Romanian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Russian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Serbian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Slovenian",
+    "type": "language"
+  },
+  {
+    "flavorText": "Spanish",
+    "type": "language"
+  },
+  {
+    "flavorText": "Spanish & French",
+    "type": "language"
+  },
+  {
+    "flavorText": "St. Lucian French Creole",
+    "type": "language"
+  },
+  {
+    "flavorText": "Swedish",
+    "type": "language"
+  },
+  {
+    "flavorText": "Turkish",
+    "type": "language"
+  },
+  {
+    "flavorText": "Vietnamese",
+    "type": "language"
+  },
+  {
+    "flavorText": "Welsh",
+    "type": "language"
+  }
+]
