@@ -7,7 +7,7 @@ permalink: /alazare/
 <div class="content">
     <h1>Alick Lazare</h1>
     <div class="quote">
-        <div><img src="https://scontent-sju1-1.xx.fbcdn.net/v/t31.18172-8/1396945_1430587837156147_930008041_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=FU-G25S9LpAAX82IqoQ&_nc_oc=AQn2ADhnbVPTqjFwPBowgjLaKl7TUHdYHaKqyHAGMyV1sbIwj_eDfAqqAHVj5Hu2EFE&_nc_ht=scontent-sju1-1.xx&oh=00_AfDuejc2vRneKe6_FBJyhWUO77oaNLKgHZ25JLNjXzD9PQ&oe=63AF1977" class="logo"></div>
+        <div><img src="https://images-na.ssl-images-amazon.com/images/I/81zqB4lkIpL._SY600_.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
