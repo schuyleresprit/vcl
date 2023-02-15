@@ -30,22 +30,6 @@ permalink: /1/
      </div>
    </div>
  </div>
- <div id="post-1" class="vesti-col timeline-post">
-      <div class="vesti-content-wrapper">
-        <div class="photo">
-          <img src="https://comment.org/wp-content/uploads/2021/12/Gregory-Thompson.jpg" width="70%">
-          <div class="vesti-date-wrapper">
-            <div class="vesti-date">
-            </div>
-          </div>
-        </div>
-        <div class="vesti-desc">
-          <a class="desc-a" href="#">
-            <h4><a href="{{ site.baseurl }}/gthompson/">Gregory Thompson</a></h4>
-          </a>
-        </div>
-      </div>
-    </div>
 <div id="post-2" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
