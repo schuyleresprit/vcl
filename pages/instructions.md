@@ -65,7 +65,7 @@ The __Countries__ page represents the countries of birth or heritage identified 
 </div>
 <div class="col-sm-8">
 <video width="100%" controls loop autoplay muted style="pointer-events: none;">
-  
+  <source src="{{ site.baseurl }}/assets/img/step4.mp4" type="video/mp4">
 </video>
 </div>
 </div>
@@ -75,7 +75,7 @@ The __Countries__ page represents the countries of birth or heritage identified 
 <div class="row">
 <div class="col-sm-8">
 <video width="100%" controls loop autoplay muted style="pointer-events: none;">
-  
+  <source src="{{ site.baseurl }}/assets/img/step5.mp4" type="video/mp4">
 </video>
 </div>
 <div class="col-sm-4">
@@ -92,41 +92,30 @@ For now, the __Publishers__ page is a browsable map of select publishers that pr
 
 To explore __Languages__, return to the slide-in menu to the Languages page. Scroll to browse the list or use the search box to identify a specific language. The Languages list represent both original language texts and texts in translation for each language in the dataset.
 
-</div>
-<div class="col-sm-8">
-<video width="100%" controls loop autoplay muted style="pointer-events: none;">
-  
-</video>
-</div>
-</div>
-</div>
-
- <div class="instructions">
-<div class="row">
-<div class="col-sm-8">
-<video width="100%" controls loop autoplay muted style="pointer-events: none;">
-  
-</video>
-</div>
-<div class="col-sm-4">
-
+<br><br>
 To view texts for a specific language, click on the More button to view a list of texts identified by Title, Author, and with a note on whether the text is in translation and a link to the author's individal page.
 
 </div>
+<div class="col-sm-8">
+<video width="100%" controls loop autoplay muted style="pointer-events: none;">
+  <source src="{{ site.baseurl }}/assets/img/step6.mp4" type="video/mp4">
+</video>
+</div>
 </div>
 </div>
 
+
   <div class="instructions">
 <div class="row">
+<div class="col-sm-8">
+<video width="100%" controls loop autoplay muted style="pointer-events: none;">
+  <source src="{{ site.baseurl }}/assets/img/step7.mp4" type="video/mp4">
+</video>
+</div>
 <div class="col-sm-4">
 
  To explore __Genres__, return to the slide-in menu to the Languages page. Scroll to browse the list or use the search box to identify a specific language. The Languages list represent both original language texts and texts in translation for each language in the dataset.
 
-</div>
-<div class="col-sm-8">
-<video width="100%" controls loop autoplay muted style="pointer-events: none;">
-  
-</video>
 </div>
 </div>
 </div>
