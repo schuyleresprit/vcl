@@ -401,7 +401,7 @@ permalink: /3/
      <div id="post-24" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://scontent.fdcf1-1.fna.fbcdn.net/v/t39.30808-6/291980872_503429235119409_2784615760273993991_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZA1v8fKvRGYAX9iNMZa&_nc_ht=scontent.fdcf1-1.fna&oh=00_AfBNuHcY9LFhXpJGTpvbduPRmmgX3Cl5ti2qbnfF18by2w&oe=638EA9B3" width= "70%">
+          <img src="https://mediaarts.humber.ca/assets/images/school-for-writers/news/glynis-guevara.jpg" width= "70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
