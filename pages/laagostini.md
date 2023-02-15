@@ -38,6 +38,20 @@ permalink: /laagostini/
             </div>
         </div>
         <div class="block">
+            <div class="date right"><p class="right">2018</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Home, Home</h1><hr>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_xu43nahyLzvjWG6V3_DWwZCarBrjEEH2wFuBFw7Af0wiVty" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Papillote Press	<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Short Story)	<br/>
+                Length: 160<br/>                   </p>
+            </div>
+        </div>
+      <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="right hide">
