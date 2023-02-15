@@ -33,7 +33,7 @@ permalink: /vpollard/
                 Publisher: Taylor & Francis<br/>
                 Pub_location: Oxfordshire, England<br/>
                 Genre: Fiction (Short Story Collection)<br/>
-                Length: <br/>                   </p>
+                Length: 1<br/>                   </p>
             </div>
         </div>
        <div class="block">
@@ -47,7 +47,7 @@ permalink: /vpollard/
                 Publisher: Taylor & Francis<br/>
                 Pub_location: Oxfordshire, England<br/>
                 Genre: Fiction (Short Story Collection)<br/>
-                Length: <br/>                   </p>
+                Length: 2<br/>                   </p>
             </div>
         </div>
        <div class="block">
@@ -61,7 +61,7 @@ permalink: /vpollard/
                 Publisher: Taylor & Francis<br/>
                 Pub_location: Oxfordshire, England<br/>
                 Genre: Poetry Collection<br/>
-                Length: <br/>                   </p>
+                Length: 3<br/>                   </p>
             </div>
         </div>
        <div class="block">
@@ -75,21 +75,7 @@ permalink: /vpollard/
                 Publisher: Taylor & Francis<br/>
                 Pub_location: Oxfordshire, England<br/>
                 Genre: Poem<br/>
-                Length: 3<br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date left"><p class="left">1978</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Code-switching In Jamaica Creole: Some Educational Implications</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Caribbean Journal of Education<br/>
-                Pub_location: Kingston, Jamaica<br/>
-                Genre: Nonfiction<br/>
-                Length: 15<br/>                   </p>
+                Length: 2<br/>                   </p>
             </div>
         </div>
        <div class="block">
@@ -107,20 +93,6 @@ permalink: /vpollard/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Language In The Poetry Of Edward Brathwaite</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Taylor & Francis Online<br/>
-                Pub_location: Oxfordshire, England<br/>
-                Genre: Essay<br/>
-                Length: 12<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
             <div class="date right"><p class="right">1980</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -134,27 +106,12 @@ permalink: /vpollard/
                 Length: 134<br/>                   </p>
             </div>
         </div>
-      <div class="block">
-            <div class="date left"><p class="left">1980</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Nine West Indian poets : an anthology for the CXC English examination</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41XIJ35HEcL._AC_SY780_.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Collins<br/>
-                Pub_location: London, England<br/>
-                Genre: Anthology<br/>
-                Length: 95<br/>                   </p>
-            </div>
-        </div>
         <div class="block">
             <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Social History Of Dread Talk</h1><hr>
-                <p><img src="![image](https://user-images.githubusercontent.com/94931129/175392539-6589a53b-3324-4060-8858-065cc80be6bc.png)
-"></p>
+                <p><img src="![image](https://user-images.githubusercontent.com/94931129/175392539-6589a53b-3324-4060-8858-065cc80be6bc.png)"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Taylor & Francis<br/>
@@ -197,7 +154,11 @@ permalink: /vpollard/
             <div class="right hide">
                 <h1>Crown Point & Other Poems</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/31EYGTBNNHL.jpg"></p>
-                <p>Lorem ipsum...</p>
+                <p> Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Publisher Location: Leeds, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 84</p>
             </div>
         </div>
         <div class="block">
