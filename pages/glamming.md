@@ -181,8 +181,7 @@ permalink: /glamming/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Emigrants</h1><hr>
-                <p><img src="" height="50%" width = "50%" ></p>
-                <p>
+                <p><img src="" height="50%" width = "50%" ><p>
                 Language: English <br/>
                 Publisher: Allison & Busby <br/>
                 Pub_location: London, England <br/>
@@ -196,7 +195,6 @@ permalink: /glamming/
             <div class="right hide">
                 <h1>The Pleasures Of Exile</h1><hr>
                 <p><img src="" width = "50%" ></p>
-                <p>
                 Language: English <br/>
                 Publisher: University Microfilms International <br/>
                 Pub_location: Ann Arbor, MI, United States <br/>
@@ -209,8 +207,7 @@ permalink: /glamming/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Pleasures Of Exile</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" height="50%" width = "50%" ></p>
-                <p>
+                <p><img src="" height="50%" width = "50%" ></p>
                 Language: English <br/>
                 Publisher: Allison & Busby <br/>
                 Pub_location: London, England <br/>
