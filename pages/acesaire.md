@@ -450,7 +450,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Notebook of a Return to the Native Land</h1><hr>
-                <p><img src="http://h-france.net/fffh/wp-content/uploads/2019/12/image002.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41e3OqC7rxL._AC_UF1000,1000_QL80_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Wesleyan University Press <br/>
