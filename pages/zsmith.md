@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Zadie Smith"
-permalink: /zsmith
+permalink: /zsmith/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
