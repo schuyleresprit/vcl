@@ -22,24 +22,10 @@ permalink: /pmordecai/
             </div>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">1983</p></div>
+      <div class="block">
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The New Island Readers</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English<br/>
-                Publisher: HarperCollins<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Nonfiction<br/>
-                Length: 127<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date right"><p class="right">1985</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
                 <h1>Jamaica Woman: An Anthology of Poems</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/31146003178.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -50,21 +36,7 @@ permalink: /pmordecai/
                 Length: 110<br/>                   </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>New Caribbean Junior Reader</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=OjJNZ3nvIXMC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE738lypDKEOSNApMrmWNueTjQ1i696xvCZwItlw7Ntvga5eBjM6cB9YvU8oxhEOqFr9_8NeMXrpjkiZcuSUcuHyVSaVYkE3tQY5jE7ZT9dX6CwbZ8p-XvVfo6Xu9hREOQFXpoys1" height="50%" width = "50%"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Ginn and Company<br/>
-                Pub_location: Aylesbury, England<br/>
-                Genre: Nonfiction<br/>
-                Length: 128<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
+      <div class="block">
             <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -190,24 +162,10 @@ permalink: /pmordecai/
                 Length: 11<br/>                   </p>
             </div>
         </div>
-   <div class="block">
-            <div class="date left"><p class="left">1987</p></div>
+  <div class="block">
+            <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Sunsong</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfb8lk-lUVN6vaRAzykBue8ieLz33LTQ6eTzEhqymbL6vdKWpU" height="50%" width = "50%"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Longman Inc.<br/>
-                Pub_location: Harlow, England<br/>
-                Genre: Poetry Collection<br/>
-                Length: 184<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date right"><p class="right">1988</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
                 <h1>Journey Poem</h1><hr>
                 <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
                 <p>
@@ -219,9 +177,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Her True-True Name: An Anthology of Women's Writing From the Caribbean</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41A3KYW4HYL._SX304_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -233,9 +191,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">1991</p></div>
+            <div class="date left"><p class="left">1991</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Don't Ever Wake a Snake</h1><hr>
                 <p><img src="https://pamelamordecai.com/wp-content/uploads/2014/12/Dont-Ever-Wake-a-Snake.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -247,9 +205,9 @@ permalink: /pmordecai/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">1995</p></div>
+            <div class="date right"><p class="right">1995</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>De Man : a dramatic poem</h1><hr>
                 <p><img src="https://pamelamordecai.com/wp-content/uploads/2014/12/de-Man.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -261,9 +219,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">1995</p></div>
+            <div class="date left"><p class="left">1995</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Ezra's Goldfish and other storypoems</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51SwenMvPaL._SY498_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -275,9 +233,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2000</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Costume Parade</h1><hr>
                 <p><img src="https://pamelamordecai.com/wp-content/uploads/2014/12/The-Costume-Parade-234x300.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -289,9 +247,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2001</p></div>
+            <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Certifiable</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41cZLFqDjhL._AC_SY780_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -303,9 +261,9 @@ permalink: /pmordecai/
             </div>
         </div>
       <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Culture and customs of Jamaica</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51c+Vc1I5WL._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -317,9 +275,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The True Blue of Islands</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41d6Cmx8AcL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -331,9 +289,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Calling cards : new poetry from Caribbean/Canadian women</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51RLfyel-CL.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -345,9 +303,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2006</p></div>
+            <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Pink Icing</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51vn9DFaZXL.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -359,9 +317,9 @@ permalink: /pmordecai/
             </div>
         </div>  
         <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>New Caribbean infant reade. 3br</h1><hr>
                 <p><img src="https://booksmartja.com/wp-content/uploads/2020/08/IMG_20201127_0005.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -373,9 +331,9 @@ permalink: /pmordecai/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2009</p></div>
+            <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Rohan Goes to Big School</h1><hr>
                 <p><img src="https://pictures.abebooks.com/isbn/9780199158638-uk.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -384,20 +342,6 @@ permalink: /pmordecai/
                 Pub_location: London, England<br/>
                 Genre: Fiction (Short Story Collection)<br/>
                 Length: 32<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Subversive sonnets : poems</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51PRYAQeA+L._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English<br/>
-                Publisher: TSAR<br/>
-                Pub_location: Toronto, ON, Canada<br/>
-                Genre: Poetry Collection<br/>
-                Length: 82<br/>                   </p>
             </div>
         </div>
       <div class="block">

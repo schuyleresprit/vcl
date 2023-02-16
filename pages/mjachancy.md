@@ -22,49 +22,76 @@ permalink: /mjachancy/
             </div>
             </div>
         </div>
-        <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+  <div class="block">
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
             <div class="right">
+                <h1>Spirit Of Haiti</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/21TKWaqWmpL._BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Mango Publishing<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 294<br/>       </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">2005</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Loas. Spanish translation of Loneliness of Angels (A Novel)</h1><hr>
+                <p><img src="https://myriamchancy.com/wp-content/uploads/2020/10/hgfdsa-768x1024.png" height="50%" width = "50%"></p>
+                <p>
+                Language: Spanish<br/>
+	    Translators: Mónica María del Valle; Idáragga Del Valle & María Luísa Valencia Duarte
+                Publisher: LaSirén Press<br/>
+                Pub_location: Bogóta, Colombia<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 372<br/>         </p>
+            </div>
+        </div>
+   <div class="block">
+            <div class="date left"><p class="left">2010</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Loneliness Of Angels</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51ujChhn2JL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 372<br/>            </p>
+            </div>
+        </div>
+     <div class="block">
+            <div class="date right"><p class="right">2011</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
                 <h1>The Scorpion's Claw</h1><hr>
                 <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781900715911_0.jpg?itok=7bpc37FE"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
-                Publisher Location: Leeds, LDN, England<br/>
+                Publisher Location: Leeds, England<br/>
                 Genre: Fiction<br/>
-                Length: 188
-                </p>
+                Length: 188</p>
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
-            <div class="dot"></div>
-            <div class="left">
-                <h1>From Sugar to Revolution: Women's Visions of Haiti, Cuba, and the Dominican Republic</h1><hr>
-                <p><img src="https://myriamchancy.com/wp-content/uploads/2020/09/26B5ED10-10F8-490E-8C0E-E50D12035F01-2-745x1024.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Wilfrid Laurier University Press<br/>
-                Publisher Location: Waterloo, Canada<br/>
-                Genre: Non Fiction<br/>
-                Length: 358
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Autochthonomies: Transnationalism, Testimony, And Transmission In The African Diaspora</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51-BlhqmQbL._SX331_BO1,204,203,200_.jpg"></p>
+                <h1>Englenes Ensomhed</h1><hr>
+                <p><img src="https://rebelwithacause.dk/wp-content/uploads/2018/04/Englenes-ensomhed.png"></p>
                 <p>
-                Language: English<br/>
-                Publisher: University of Illinois Press<br/>
-                Publisher Location: Urbana, IL, United States<br/>
-                Genre: Non Fiction<br/>
-                Length: 246
-                </p>
+                Language: Danish<br/>
+	    Translation: Yes
+                Publisher: Forlaget Rebel With a Cause<br/>
+                Publisher Location: Copenhagen, Denmark<br/>
+                Genre: Fiction (Novel)	<br/>
+                Length: 384</p>
             </div>
         </div>
         <div class="block">
@@ -78,12 +105,8 @@ permalink: /mjachancy/
                 Publisher: HarperCollins<br/>
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
-                Length: 320
-                </p>
+                Length: 320</p>
             </div>
         </div>
-        <div style="padding-bottom:100px;"></div>
-    </div>
-</div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
