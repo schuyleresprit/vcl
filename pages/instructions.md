@@ -38,58 +38,33 @@ For any author, click on __More__ to view the author's biography and bibliograph
 </div>
 
  <div class="instructions">
-The __Countries__ page represents the countries of birth or heritage identified for all the authors included in the data set. To explore, return to the slide-in menu and click on the Countries link. You can pan and zoom the map to find specific countries of interest. To learn more about the authors from each country, click on dot, then click on the country name in the pop-up to reveal that country's page which includes a map and an interactive list of authors who identify that country as home by birth or heritage.
+<p>The __Countries__ page represents the countries of birth or heritage identified for all the authors included in the data set. To explore, return to the slide-in menu and click on the Countries link. You can pan and zoom the map to find specific countries of interest. To learn more about the authors from each country, click on dot, then click on the country name in the pop-up to reveal that country's page which includes a map and an interactive list of authors who identify that country as home by birth or heritage.</p>
 <video width="100%" height="100%" controls>
   <source src="{{ site.baseurl }}/assets/img/step4.mp4" type="video/mp4">
 </video>
 </div>
 
  <div class="instructions">
-<div class="row">
-<div class="col-sm-8">
+ <p>For now, the __Publishers__ page is a browsable map of select publishers that provides a sense of how widely Caribbean writing has been published around the world. To explore select publishers and titles, pan and zoom the map, then click on any dot to reveal the information for a specific literary work. </p>
 <video width="100%" height="100%" controls>
   <source src="{{ site.baseurl }}/assets/img/step5.mp4" type="video/mp4">
 </video>
 </div>
-<div class="col-sm-4">
-
-For now, the __Publishers__ page is a browsable map of select publishers that provides a sense of how widely Caribbean writing has been published around the world. To explore select publishers and titles, pan and zoom the map, then click on any dot to reveal the information for a specific literary work.
-
-</div>
-</div>
-</div>
 
 <div class="instructions">
-<div class="row">
-<div class="col-sm-4">
-
-To explore __Languages__, return to the slide-in menu to the Languages page. Scroll to browse the list or use the search box to identify a specific language. The Languages list represent both original language texts and texts in translation for each language in the dataset.
-
+<p>To explore __Languages__, return to the slide-in menu to the Languages page. Scroll to browse the list or use the search box to identify a specific language. The Languages list represent both original language texts and texts in translation for each language in the dataset.
 <br><br>
-To view texts for a specific language, click on the More button to view a list of texts identified by Title, Author, and with a note on whether the text is in translation and a link to the author's individal page.
-
-</div>
-<div class="col-sm-8">
+To view texts for a specific language, click on the More button to view a list of texts identified by Title, Author, and with a note on whether the text is in translation and a link to the author's individal page.</p>
 <video width="100%" height="100%" controls>
   <source src="{{ site.baseurl }}/assets/img/step6.mp4" type="video/mp4">
 </video>
 </div>
-</div>
-</div>
 
 
   <div class="instructions">
-<div class="row">
-<div class="col-sm-8">
+<p>  To explore __Genres__, return to the slide-in menu to the Languages page. </p>
 <video width="100%" height="100%" controls>
   <source src="{{ site.baseurl }}/assets/img/step7.mp4" type="video/mp4">
 </video>
-</div>
-<div class="col-sm-4">
-
- To explore __Genres__, return to the slide-in menu to the Languages page. 
-
-</div>
-</div>
 </div>
 
