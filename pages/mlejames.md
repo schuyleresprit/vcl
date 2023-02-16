@@ -36,9 +36,9 @@ permalink: /mlejames/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Mine the Mirror: An Enthralling Collection of Children's Poems</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51+BXBUj9vL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -50,9 +50,9 @@ permalink: /mlejames/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>TREES GROW OVER FENCES</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51gwvHLjB+L._SX260_.jpg"></p>
                 <p>Language: English<br/>
