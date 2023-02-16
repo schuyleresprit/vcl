@@ -140,6 +140,7 @@ permalink: /vsnaipaul/
                 Length: 302</p>
             </div>
         </div>
+        <div class="block">
         <div class="date right"><p class="right">1980</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -192,9 +193,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Overcrowded Barracoon and Other Articles</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51uwPUNVoHL._SX347_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -205,9 +206,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>A Bend in the River</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NBklImHoL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -218,9 +219,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Meine Tante Goldzahn Erzählungen</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51mXPjvJEFL._SX345_BO1,204,203,200_.jpg"></p>
                 <p>Language: German<br/>
@@ -232,9 +233,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
    <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>`Ikul Ba-Nahar</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: Hebrew<br/>
@@ -246,9 +247,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Migel Sŭt'ŭrit'ŭ</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403189899i/49741.jpg"></p>
                 <p>Language: Korean<br/>
@@ -260,9 +261,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Blant de Troende: en Islamsk Reise</h1><hr>
                 <p><img src="https://dj4fsg3e1je59.cloudfront.net/9788205303294/img/0"></p>
                 <p>Language: Norwegian<br/>
@@ -274,9 +275,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Joki Tekee Mutkan</h1><hr>
                 <p><img src="https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/media.onki.fi/4/0/9/saha/kirjasampo/0_14590911821447334.jpg?itok=qR8jnGXT"></p>
                 <p>Language: Finnish<br/>
@@ -288,9 +289,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Ein Haus für Mr. Biswas</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/516R5X6K27L._SX312_BO1,204,203,200_.jpg"></p>
                 <p>Language: German<br/>
@@ -302,9 +303,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Eine Islamische Reise: Unter Den Gläubigen</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/21Iqy9ZTAML._BO1,204,203,200_.jpg"></p>
                 <p>Language: German<br/>
@@ -316,9 +317,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Onder De Gelovigen: Een Reis Door De Islam</h1><hr>
                 <p><img src="https://d3525k1ryd2155.cloudfront.net/h/693/142/1164142693.0.b.jpg"></p>
                 <p>Language: Dutch<br/>
@@ -330,9 +331,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Een Bocht In De Rivier</h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/562/900/cms_visual_1657584.jpg_1630310117000_562x900.jpg"></p>
                 <p>Language: Dutch<br/>
@@ -344,9 +345,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>India: A Wounded Civilization</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51y162kWhvL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -357,9 +358,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Middle Passage: Impressions of Five Societies - British, French And Dutch - In the West Indies and South America</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41wgrPCn4YL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -370,9 +371,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Loss of El Dorado</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51diWdmSMQL._SX298_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -383,9 +384,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-	<div class="date left"><p class="left">1981</p></div>
+	<div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">            
+            <div class="left hide">            
                 <h1>The Mimic Men</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51KiwF645tL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -396,9 +397,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Among the Believers</h1><hr>
                 <p><img src="https://www.bookstellyouwhy.com/pictures/29332.jpg?v=1353161453"></p>
                 <p>Language: English<br/>
@@ -409,9 +410,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                <h1>En Un Estado Libre</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41sJLrdaFCL._SX318_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -423,9 +424,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Mr Stone and the Knights Companion</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41PK0F82N8L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: French<br/>
@@ -437,9 +438,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1981</p></div>
+            <div class="date right"><p class="right">1981</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Crépuscule Sur l'Islam: Voyage Au Pays Des Croyants</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51HSLtHqtKL._SX317_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
@@ -451,9 +452,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1981</p></div>
+            <div class="date left"><p class="left">1981</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>U Slobodnoj Drzavi</h1><hr>
                 <p><img src="https://www.betterreading.com.au/wp-content/uploads/2014/08/9780330524803-674x1024.jpg.webp"></p>
                 <p>Language: Serbian<br/>
@@ -519,9 +520,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1982</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Dum Pro Pana Biswase</h1><hr>
                 <p><img src="https://www.databazeknih.cz/img/books/78_/78010/bmid_dum-pro-pana-biswase-ECx-78010.jpg"></p>
                 <p>Language: Czech<br/>
@@ -533,9 +534,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1982</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>A La Courbe Du Fleuve: Roman</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NBklImHoL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
@@ -547,9 +548,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1982</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Guerillas Roman</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/518ftJbwiLL._SX321_BO1,204,203,200_.jpg"></p>
                 <p>Language: German<br/>
@@ -561,9 +562,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1982</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Bland De Rättrogna: En Islamisk Resa</h1><hr>
                 <p><img src="https://varldslitteratur.se/sites/varldslitteratur.se/files/styles/thumbnail_bok_mellan/public/bok/2015/206201230_b9d5277a-6bbb-4f8a-9014-ced35d88bc43.jpg?itok=5eJUbsRr"></p>
                 <p>Language: Swedish<br/>
@@ -575,9 +576,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1982</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Blandt De Rettroende: En Islamisk Rejse</h1><hr>
                 <p><img src="https://varldslitteratur.se/sites/varldslitteratur.se/files/styles/thumbnail_bok_mellan/public/bok/2015/206201230_b9d5277a-6bbb-4f8a-9014-ced35d88bc43.jpg?itok=5eJUbsRr"></p>
                 <p>Language: Danish<br/>
@@ -589,9 +590,9 @@ permalink: /vsnaipaul/
             </div>
         </div>     
         <div class="block">
-            <div class="date right"><p class="right">1982</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>De Terugkeer Van Eva Perón En Andere Essays</h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/280/450/cms_visual_319969.jpg_1435205660000_280x450.jpg"></p>
                 <p>Language: Dutch<br/>
@@ -603,9 +604,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1982</p></div>
+            <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>De Mimitators</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51KiwF645tL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Dutch<br/>
@@ -1245,9 +1246,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
+            <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Rehov Migel: Me-Anglit Ayalah Rahav</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403189899i/49741.jpg"></p>
                 <p>Language: Hebrew<br/>
@@ -1259,9 +1260,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1986</p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>På Väg Mot Mitten: Två Berättelser</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462110945i/30067684.jpg"></p>
                 <p>Language: Swedish<br/>
@@ -1273,9 +1274,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1986</p></div>
+            <div class="date right"><p class="right">1986</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Wahlkampf Auf Karibisch Oder: Eine Hand Wäscht Die Andere</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41cRCvkUHFL._SX301_BO1,204,203,200_.jpg"></p>
                 <p>Language: German<br/>
@@ -1287,9 +1288,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
     <div class="block">
-            <div class="date right"><p class="right">1986</p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Enigma of Arrival</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/EnigmaOfArrival.jpg"></p>
                 <p>Language: English<br/>
@@ -1313,9 +1314,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1987</p></div>
+            <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Der Elva Krummer Seg</h1><hr>
                 <p><img src="https://www.bokkilden.no/servlet/VisBildeServlet?produktId=118001&width=576"></p>
                 <p>Language: Norwegian<br/>
@@ -1327,9 +1328,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1987</p></div>
+            <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Der Mystische Masseur</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/415K66651CL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: German<br/>
@@ -1341,9 +1342,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1987</p></div>
+            <div class="date left"><p class="left">1987</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Ankomstens Gåta: En Roman I Fem Avsnitt</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/415K66651CL._SX315_BO1,204,203,200_.jpg"></p>
                 <p>Language: Swedish<br/>
@@ -1355,9 +1356,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1987</p></div>
+            <div class="date right"><p class="right">1987</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Stemmen In Elvira</h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/376/600/cms_visual_1145216.jpg_1551800976000_376x600.jpg"></p>
                 <p>Language: Dutch<br/>
@@ -1495,9 +1496,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Guerillas: Roman</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/518ftJbwiLL._SX321_BO1,204,203,200_.jpg"></p>
                 <p>Language: German<br/>
@@ -1509,9 +1510,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1989</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>L'Inde Brisée</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51m4VhGbGYL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: French<br/>
@@ -1523,9 +1524,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>L'illusion Des Ténèbres: Une Expérience De l'Inde</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41g6eVd-GuL._SY484_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
@@ -1537,9 +1538,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1989</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                <h1>Une Virée Dans Le Sud</h1><hr>
                 <p><img src="https://www.babelio.com/couv/CVT_Une-viree-dans-le-Sud_3666.jpg"></p>
                 <p>Language: French<br/>
@@ -1551,9 +1552,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Het Diepe Zuiden</h1><hr>
                 <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/566/900/cms_visual_1157148.jpg_1553853798000_566x900.jpg"></p>
                 <p>Language: Dutch<br/>
@@ -1565,9 +1566,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1989</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>A Turn in the South</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51LmqqkX37L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -1578,9 +1579,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1989</p></div>
+            <div class="date right"><p class="right">1989</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                <h1>Nel Sud</h1><hr>
                 <p><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg"></p>
                 <p>Language: English<br/>
@@ -1592,9 +1593,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1990</p></div>
+            <div class="date left"><p class="left">1990</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>India: A Million Mutinies Now</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51S1aI1N2NL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -1743,9 +1744,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Guerrillas</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391084393i/253835.jpg"></p>
                 <p>Language: English<br/>
@@ -1836,9 +1837,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
       <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Writer and the World: Essays</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/510Tc+bUfdL._SY344_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -1849,9 +1850,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2004</p></div>
+            <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Literary Occasions: Essays</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51N4d7aioWL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -1862,9 +1863,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2004</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Magic Seeds</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924115i/5851.jpg"></p>
                 <p>Language: English<br/>
@@ -1875,9 +1876,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>A Writer's People: Ways of Looking and Feeling</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41U05N+5uGL._SY344_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -1888,9 +1889,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2010</p></div>
+            <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Masque of Africa: Glimpses of African Belief</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51IBG6XmW1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -1901,9 +1902,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">2011</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>A Way in the World</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320433055i/769513.jpg"></p>
                 <p>Language: English<br/>
@@ -1914,9 +1915,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Bend in the River</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51NBklImHoL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -1927,9 +1928,9 @@ permalink: /vsnaipaul/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>A House for Mr. Biswas</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51OPIrpmL9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
