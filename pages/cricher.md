@@ -7,7 +7,7 @@ permalink: /cricher/
 <div class="content">
      <h1>Clément Richer</h1>
     <div class="quote">
-        <div><img src="https://dux7id0k7hacn.cloudfront.net/as/assets-mem-com/cmi/0/4/1/4/8064140/20181129_132449605_0_orig.jpg/-/dr-clement-richer-montreal-qc-obituary.jpg?maxheight=650" class="logo"></div>
+        <div><img src="https://montraykreyol.org/sites/default/files/styles/medium/public/gfg.jpg?itok=sD-OBmi1" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
