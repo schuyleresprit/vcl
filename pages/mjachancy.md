@@ -33,7 +33,7 @@ permalink: /mjachancy/
                 Publisher: Mango Publishing<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 294<br/>                   </p>
+                Length: 294<br/>       </p>
             </div>
         </div>
        <div class="block">
@@ -48,7 +48,7 @@ permalink: /mjachancy/
                 Publisher: LaSirén Press<br/>
                 Pub_location: Bogóta, Colombia<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 372<br/>                   </p>
+                Length: 372<br/>         </p>
             </div>
         </div>
    <div class="block">
@@ -62,7 +62,7 @@ permalink: /mjachancy/
                 Publisher: Peepal Tree Press<br/>
                 Pub_location: Leeds, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 372<br/>                   </p>
+                Length: 372<br/>            </p>
             </div>
         </div>
      <div class="block">
@@ -76,8 +76,7 @@ permalink: /mjachancy/
                 Publisher: Peepal Tree Press<br/>
                 Publisher Location: Leeds, England<br/>
                 Genre: Fiction<br/>
-                Length: 188
-                </p>
+                Length: 188</p>
             </div>
         </div>
         <div class="block">
@@ -92,8 +91,7 @@ permalink: /mjachancy/
                 Publisher: Forlaget Rebel With a Cause<br/>
                 Publisher Location: Copenhagen, Denmark<br/>
                 Genre: Fiction (Novel)	<br/>
-                Length: 384
-                </p>
+                Length: 384</p>
             </div>
         </div>
         <div class="block">
@@ -107,8 +105,7 @@ permalink: /mjachancy/
                 Publisher: HarperCollins<br/>
                 Publisher Location: New York, United States<br/>
                 Genre: Fiction<br/>
-                Length: 320
-                </p>
+                Length: 320</p>
             </div>
         </div>
   <!-- partial -->
