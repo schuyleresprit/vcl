@@ -4,7 +4,8 @@ title: Anthology
 permalink: /Anthology/
 ---
 
-
+<html>
+<body>
 <div class="individual_language">
 <div class="background">
 <div class="overlay">
@@ -13,18 +14,14 @@ permalink: /Anthology/
 </div>
 <div class="col-sm-10">
 <div class="page_title"><h3> Anthology</h3></div>
-
 Represented here are the the texts in the dataset representative of the genre or category 'Anthology'.
-
-<html>
-<body>
-	<div class="container">
-		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
-		</div>
-		<div id="data-container" class="row">
-		</div>
-	</div>
+<div class="container">
+<div class="input-group mb-3">
+<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
+</div>
+<div id="data-container" class="row">
+</div>
+</div>
 	
 <html>
 <body>
