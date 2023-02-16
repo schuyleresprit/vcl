@@ -20,7 +20,7 @@ permalink: /vpollard/
           <div class="aclocation">  <p> Velma Pollard is from <a href="{{ site.baseurl }}/4"> Jamaica.</a></p></div>
                 <div class="acreadmore"> <a href="https://en.wikipedia.org/wiki/Velma_Pollard" target="_blank">Read more</a> </div>
             </div>
-            </div>
+            </div>x
         </div>
         <div class="block">
             <div class="date left"><p class="left">1977</p></div>
@@ -79,9 +79,9 @@ permalink: /vpollard/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">1980</p></div>
+            <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Dust A Tribute To The Folk</h1><hr>
                 <p><img src="https://www.jstor.org/page-scan-delivery/get-page-scan/40653399/0"></p>
                 <p>
@@ -107,9 +107,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1982</p></div>
+            <div class="date left"><p class="left">1982</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Social History Of Dread Talk</h1><hr>
                 <p><img src="![image](https://user-images.githubusercontent.com/94931129/175392539-6589a53b-3324-4060-8858-065cc80be6bc.png)"></p>
                 <p>
@@ -121,9 +121,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1985</p></div>
+            <div class="date right"><p class="right">1985</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Anansesem: A Collection Of Caribbean Folk Tales, Legends And Poems For Juniors</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/513e6JdTJOL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"></p>
                 <p>
@@ -135,9 +135,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1988</p></div>
+            <div class="date left"><p class="left">1988</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Karl And Other Stories</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328036698i/3380259._UY400_SS400_.jpg"></p>
                 <p>
@@ -149,9 +149,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1988</p></div>
+            <div class="date right"><p class="right">1988</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Crown Point & Other Poems</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/31EYGTBNNHL.jpg"></p>
                 <p> Language: English<br/>
@@ -162,9 +162,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1989</p></div>
+            <div class="date left"><p class="left">1989</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Considering Woman</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ok+6Dn13L.jpg"></p>
                 <p>
@@ -176,9 +176,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1992</p></div>
+            <div class="date right"><p class="right">1992</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Shame trees don't grow here : but poincianas bloom</h1><hr>
                 <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9780948833489_0.jpg?itok=_6FwQk7S"></p>
                 <p>
@@ -190,9 +190,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1994</p></div>
+            <div class="date left"><p class="left">1994</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Homestretch</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267969458i/3380258._UY630_SR1200,630_.jpg"></p>
                 <p>
@@ -204,9 +204,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2003</p></div>
+            <div class="date right"><p class="right">2003</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>From Jamaican Creole To Standard English: A Handbook For Teachers</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/915MJJ5YWOL.jpg"></p>
                 <p>
@@ -218,9 +218,9 @@ permalink: /vpollard/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2008</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Leaving Traces</h1><hr>
                 <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9781845230210_0.jpg?itok=YbFCVRJj"></p>
                 <p>

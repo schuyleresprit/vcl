@@ -65,7 +65,7 @@ permalink: /vriley/
                 Length: 299<br></p>
             </div>
         </div>
-        </div><div class="block">
+        <div class="block">
             <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">

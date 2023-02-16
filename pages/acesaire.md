@@ -27,7 +27,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Toussaint Louverture: La Révolution Française et le Problème Colonial</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
+                <p><img src="http://mediatheques.collectivitedemartinique.mq/Ils/digitalCollection/DigitalCollectionThumbnailHandler.ashx?documentId=275113&size=MEDIUM&fallback=http%3a%2f%2fmediatheques.collectivitedemartinique.mq%2fui%2fskins%2fdefault%2fportal%2ffront%2fimages%2fGeneral%2fDocType%2fMONO_MEDIUM.png" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Présence Africaine <br/>
@@ -41,7 +41,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Toussaint Louverture: La Révolution Française et le Problème Colonial</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41mmqZE-k0S._SX322_BO1,204,203,200_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Livre Club Diderot <br/>
@@ -55,7 +55,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Une Saison Au Congo</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://covers.openlibrary.org/b/id/9788906-L.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Éditions du Seuil <br/>
@@ -111,7 +111,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Woman and the Knife</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://www.bromer.com/pictures/medium/27286.jpg?v=1667508415" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Red Ozier Press <br/>
@@ -126,7 +126,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Guide du Militant</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Parti Progressiste Martiniquais <br/>
@@ -182,7 +182,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Non-Vicious Circle: Twenty Poems Of Aimé Césaire</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51WOD48ggwL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Stanford University Press <br/>
@@ -211,7 +211,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Premiers Jalons Pour une Politique de la Culture</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpgpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Presence Africaine <br/>
@@ -446,26 +446,11 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left">2002</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>A Tempest</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
-                <p>
-                Language: English <br/>
-                Publisher: Theatre Communications Group <br/>
-                Pub_location: New York, NY, United States <br/>
-                Genre: Drama <br/>
-                Translation : y <br/>
-                Length: 69 <br/>                 </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
                 <h1>Notebook of a Return to the Native Land</h1><hr>
-                <p><img src="http://h-france.net/fffh/wp-content/uploads/2019/12/image002.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41e3OqC7rxL._AC_UF1000,1000_QL80_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Wesleyan University Press <br/>
@@ -476,11 +461,11 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Journal of a Homecoming</h1><hr>
-                <p><img src="https://lawdevelopmentconflict.com/wp-content/uploads/2020/03/6e8d15413cf7da49abd88353d0da87bcddc042ef.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/71W882KorkL._AC_UF1000,1000_QL80_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Duke University Press Books <br/>
@@ -491,9 +476,9 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Notebook of a Return to the Native Land</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41B11THfrpL.jpg" width = "50%" height="50%"></p>
                 <p>
