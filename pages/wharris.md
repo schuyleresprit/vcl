@@ -390,7 +390,7 @@ permalink: /wharris/
             </div>
         </div>
 		<div class="block">
-            <div class="date left"><p class=left">1985</p></div>
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Guyana Quartet: Palace of the Peacock, The Far Journey of Oudin,The Whole Armour, The Secret Ladder</h1><hr>
