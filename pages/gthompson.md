@@ -7,7 +7,7 @@ permalink: /gthompson/
 <div class="content">
     <h1>Gregory Thompson</h1>
     <div class="quote">
-        <div><img src="https://comment.org/wp-content/uploads/2021/12/Gregory-Thompson.jpg" class="logo"></div>
+        <div><img src="https://bocas.wpenginepowered.com/wp-content/uploads/2021/02/0010_Gregory-Thompson.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
