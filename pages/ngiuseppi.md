@@ -5,7 +5,7 @@ permalink: /ngiuseppi/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1>David Franklyn</h1>
+    <h1>Neville Giuseppi</h1>
     <div class="quote">
         <div><img src="https://arimacirc.files.wordpress.com/2017/04/neville-crop-1-redo-3.jpg" class="logo"></div>
     </div>
