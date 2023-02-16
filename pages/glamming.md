@@ -125,7 +125,7 @@ permalink: /glamming/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Of Age And Danger</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" height="50%" width = "50%" ></p>
+                <p><img src="" height="50%" width = "50%" ></p>
                 <p>
                 Language: English <br/>
                 Publisher: Allison & Busby <br/>
@@ -153,7 +153,7 @@ permalink: /glamming/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>In The Castle Of My Skin</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" height="50%" width = "50%" ></p>
+                <p><img src="" height="50%" width = "50%" ></p>
                 <p>
                 Language: English <br/>
                 Publisher: Longman Inc. <br/>
@@ -181,7 +181,7 @@ permalink: /glamming/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Emigrants</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" height="50%" width = "50%" ></p>
+                <p><img src="" height="50%" width = "50%" ></p>
                 <p>
                 Language: English <br/>
                 Publisher: Allison & Busby <br/>
@@ -195,7 +195,7 @@ permalink: /glamming/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Pleasures Of Exile</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394344154l/1375983.jpg" width = "50%" ></p>
+                <p><img src="" width = "50%" ></p>
                 <p>
                 Language: English <br/>
                 Publisher: University Microfilms International <br/>
@@ -238,7 +238,7 @@ permalink: /glamming/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>In The Castle Of My Skin / With A Critical Introduction By David Williams</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" height="50%" width = "50%" ></p>
+                <p><img src="" height="50%" width = "50%" ></p>
                 <p>
                 Language: English <br/>
                 Publisher: Longman Inc. <br/>
@@ -266,7 +266,7 @@ permalink: /glamming/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Role Of Intellectual Workers In Processes Of Social Transformation In Thirld World Countries</h1><hr>
-                <p><img src="https://gisbarbados.gov.bb/wp-content/uploads/2022/06/George-Lamming_edit.jpg" height="50%" width = "50%" ></p>
+                <p><img src="" height="50%" width = "50%" ></p>
                 <p>
                 Language: English <br/>
                 Publisher: Organisatie van Patriottische Intellektuelen in Suriname (ORPIS) <br/>
