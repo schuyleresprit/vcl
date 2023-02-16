@@ -58,7 +58,7 @@ permalink: /glanatol/
                 Publisher: Rutgers University Press<br/>
                 Pub_location: New Brunswick, NJ, United States <br/>
                 Genre: Fiction <br/>
-                Length: 313 <br/>
+                Length: 313 </p>
          </div>
     </div>
 </div>
