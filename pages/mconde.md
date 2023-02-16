@@ -54,7 +54,7 @@ permalink: /mconde/
             <div class="date left"><p class="left">1978</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>La civilisation du bossale: Reflexions sur la littérature orale de la Guadeloupe et de la Martinique</h1><hr>
+                <h1>La Civilisation du Bossale: Reflexions Sur La Littérature Orale de la Guadeloupe et de la Martinique</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51+V2T+APAL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: French<br/>
@@ -188,6 +188,411 @@ permalink: /mconde/
                 Pub_location: Paris, France<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 487<br/>                   </p>
+            </div>
+        </div>
+ <div class="block">
+            <div class="date left"><p class="left">1984</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Segu die Mauern aus Lehm</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51HgIttFJgL.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: German<br/>
+                Publisher: Kiepenheuer und Witsch<br/>
+                Pub_location: Köln, Germany<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 692<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">1984</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Le Muraglie di Terra</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/91avXB3bfaL.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: Italian<br/>
+                Publisher: Lavoro<br/>
+                Pub_location: Roma, Italy<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 573<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">1984</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Segu Murer av Leire</h1><hr>
+                <p><img src="https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2012092108080_C1/full/0,200/0/native.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: Norwegian<br/>
+                Publisher: Tiden<br/>
+                Pub_location: Oslo, Norway<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 539<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">1984</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Segu: Zidovje Iz Blata : Roman</h1><hr>
+                <p><img src="https://www.bolha.com/image-w920x690/romani-leposlovje/marysa-conde-segu-zidovje-blata-slika-21191712.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: Slovenian<br/>
+                Publisher: Pomurska zalozba<br/>
+                Pub_location: Murska Sobota, Slovenia<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 638<br/>                   </p>
+            </div>
+        </div><div class="block">
+            <div class="date left"><p class="left">1985</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Children of Segu</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51FGBHvwuzL._SX341_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Ballantine Books<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 462<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1985</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Pays Mele: Suivi de Nanna-ya</h1><hr>
+                <p><img src="https://www.ttschoolpal.com/wp-content/uploads/2020/06/Pays-MeleSuivi-de-Nanna-ya.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Hatier<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 123<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">1985</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>De Verkruimelde Aarde</h1><hr>
+                <p><img src="https://www.bruna.nl/images/active/carrousel/fullsize/9789062652877_back.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: Dutch<br/>
+                Publisher: Muntinga<br/>
+                Pub_location: Amsterdam, Netherlands<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 550<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1985</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Ségou: la Terre en Miettes</h1><hr>
+                <p><img src="https://www.babelio.com/couv/CVT_Segou-tome-2--La-Terre-en-miettes_331.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Éditions Robert Laffont<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 432<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1985</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>La Terre en Miettes</h1><hr>
+                <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/1d/8c/15/1412125/1507-1/tsp20230106095016/Segou-tome-2-La-terre-en-miettes.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: France Loisirs<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 426<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1986</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Tituba de Zwarte Heks van Salem</h1><hr>
+                <p><img src="https://media.s-bol.com/JN0WnExBw2xK/745x1200.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: Dutch<br/>
+                Publisher: In de Knipscheer<br/>
+                Pub_location: Amsterdam, Netherlands<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 246<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1986</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Moi, Tituba, Sorcière Noire de Salem</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/81b7otzJmtL._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Mercure de France<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 277<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1986</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>La Bruja de Salem</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/30433218892.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: Spanish<br/>
+                Publisher: Ediciones B<br/>
+                Pub_location: Barcelona, Spain<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 199<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1986</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Ich, Tituba, die Schwarze Hexe von Salem Roman</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md22846910796.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: German<br/>
+                Publisher: München Knaur<br/>
+                Pub_location: München, Germany<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 283<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1987</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>La Vie Scélérate. Roman</h1><hr>
+                <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/0c/7c/13/1276940/1507-1/tsp20191113144603/La-vie-scelerate.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Seghers<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 333<br/>                   </p>
+            </div>
+        </div>      
+<div class="block">
+            <div class="date left"><p class="left">1988</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Pension Les Alizés: Pièce En Cinq Tableaux</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9782715215474-uk.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Mercure de France<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Drama<br/>
+                Length: 144<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1989</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Crossing the Mangrove</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81XNMAmwMgL.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Penguin Books<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 192<br/>                   </p>
+            </div>
+        </div>      
+ <div class="block">
+            <div class="date left"><p class="left">1989</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Traversee de la Mangrove</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/914bJ0ke3nL.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Mercure de France<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 272<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">1989</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Tod auf Guadeloupe</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/30462923768.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: German<br/>
+                Publisher: Neues Leben<br/>
+                Pub_location: Berlin Verl, Germany<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 31<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">1989</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Victor et les Barricades</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/6180xihST9L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Bayard Presse<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 107<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1990</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Bouquet de Voix Pour Guy Tirolien</h1><hr>
+                <p><img src="http://mediatheques.collectivitedemartinique.mq/Ils/digitalCollection/DigitalCollectionThumbnailHandler.ashx?documentId=202810&size=MEDIUM&fallback=http%3a%2f%2fmediatheques.collectivitedemartinique.mq%2fui%2fskins%2fdefault%2fportal%2ffront%2fimages%2fGeneral%2fDocType%2fMONO_MEDIUM.png" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Editions Jasor<br/>
+                Pub_location: Pointe-À-Pitre, Guadeloupe<br/>
+                Genre: Nonfiction<br/>
+                Length: 222<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1991</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Haïti Chérie</h1><hr>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpX-CHdYiC-j-AReQ4tMO41Ln1TO4iRP5qQCCHzE8Uk1sWGL5FIeacYAY7lZvKFxpxnM&usqp=CAU" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Gyldendal<br/>
+                Pub_location: Oslo, Norway<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 69<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1995</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Windward Heights</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/A1Seekj2dML._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Soho Press<br/>
+                Pub_location: Manhattan, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 384<br/>                   </p>
+            </div>
+        </div>   
+<div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>      
+ <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>BOOK NAME</h1><hr>
+                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p>
+                Language: <br/>
+                Publisher: <br/>
+                Pub_location: <br/>
+                Genre: <br/>
+                Length: <br/>                   </p>
             </div>
         </div>
   <!-- partial -->
