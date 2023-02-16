@@ -793,7 +793,7 @@ permalink: /3/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="{{ site.baseurl }}/mlejames/">Michaellee James</a></h4>
+            <h4><a href="{{ site.baseurl }}/mjames/">Michaellee James</a></h4>
           </a>
         </div>
       </div>
@@ -817,7 +817,7 @@ permalink: /3/
     <div id="post-49" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="60%">
+          <img src="https://arimacirc.files.wordpress.com/2017/04/neville-crop-1-redo-3.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
