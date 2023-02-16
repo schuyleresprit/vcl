@@ -49,9 +49,9 @@ To navigate the various visualizations on the site, click the menu icon in the t
 </div>
 <div class="col-sm-4">
 
-To explore the __Authors__ database, nagivate to the Authors page. You can scroll down the page to browse the authors included in this project. Each author card includes the name, country of birth or heritage and a link to the indivdual author's information page.
+To explore the  <a href="{{ site.baseurl }}/authors/">Authors</a> database, nagivate to the Authors page. You can scroll down the page to browse the authors included in this project. Each author card includes the name, country of birth or heritage and a link to the indivdual author's information page.
 <br> <br>
-For any author, click on __More__ to view the author's biography and bibliography.  
+For any author, click on more to view the author's biography and bibliography.  
 </div>
 </div>
 </div>
@@ -60,7 +60,7 @@ For any author, click on __More__ to view the author's biography and bibliograph
 <div class="row">
 <div class="col-sm-4">
 
-The __Countries__ page represents the countries of birth or heritage identified for all the authors included in the data set. To explore, return to the slide-in menu and click on the Countries link. You can pan and zoom the map to find specific countries of interest. To learn more about the authors from each country, click on dot, then click on the country name in the pop-up to reveal that country's page which includes a map and an interactive list of authors who identify that country as home by birth or heritage.
+The <a href="{{ site.baseurl }}/countries/">Countries</a> page represents the countries of birth or heritage identified for all the authors included in the data set. To explore, return to the slide-in menu and click on the Countries link. You can pan and zoom the map to find specific countries of interest. To learn more about the authors from each country, click on dot, then click on the country name in the pop-up to reveal that country's page which includes a map and an interactive list of authors who identify that country as home by birth or heritage.
 
 </div>
 <div class="col-sm-8">
@@ -80,7 +80,7 @@ The __Countries__ page represents the countries of birth or heritage identified 
 </div>
 <div class="col-sm-4">
 
-For now, the __Publishers__ page is a browsable map of select publishers that provides a sense of how widely Caribbean writing has been published around the world. To explore select publishers and titles, pan and zoom the map, then click on any dot to reveal the information for a specific literary work.
+For now, the <a href="{{ site.baseurl }}/publishers/">Publishers</a> page is a browsable map of select publishers that provides a sense of how widely Caribbean writing has been published around the world. To explore select publishers and titles, pan and zoom the map, then click on any dot to reveal the information for a specific literary work.
 
 </div>
 </div>
@@ -90,7 +90,7 @@ For now, the __Publishers__ page is a browsable map of select publishers that pr
 <div class="row">
 <div class="col-sm-4">
 
-To explore __Languages__, return to the slide-in menu to the Languages page. Scroll to browse the list or use the search box to identify a specific language. The Languages list represent both original language texts and texts in translation for each language in the dataset.
+To explore <a href="{{ site.baseurl }}/languages/">Languages</a>, return to the slide-in menu to the Languages page. Scroll to browse the list or use the search box to identify a specific language. The Languages list represent both original language texts and texts in translation for each language in the dataset.
 
 <br><br>
 To view texts for a specific language, click on the More button to view a list of texts identified by Title, Author, and with a note on whether the text is in translation and a link to the author's individal page.
@@ -114,7 +114,7 @@ To view texts for a specific language, click on the More button to view a list o
 </div>
 <div class="col-sm-4">
 
- To explore __Genres__, return to the slide-in menu to the Languages page. 
+ To explore <a href="{{ site.baseurl }}/genres/">Genres</a>, return to the slide-in menu to the Languages page. 
 
 </div>
 </div>
