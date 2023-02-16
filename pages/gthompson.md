@@ -74,9 +74,9 @@ permalink: /gthompson/
                 Pub_location: Scotts Valley, CA, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 28 <br/>                </p>
-               </div>
-       		   </div>
-<div class="block">
+         </div>
+    </div>
+    <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -114,9 +114,9 @@ permalink: /gthompson/
                 Pub_location: Scotts Valley, CA, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 28 <br/>                </p>
-     </div>
- </div>
- <div class="block">
+           </div>
+       </div>
+    <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
             <div class="left">
