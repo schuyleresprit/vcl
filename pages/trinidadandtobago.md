@@ -785,7 +785,7 @@ permalink: /3/
     <div id="post-47" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/293154507_198397432516708_386178775158791160_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=uyjmfo_4KiwAX-4l1Xu&_nc_ht=scontent-mia3-2.xx&oh=00_AfA8MIS8rMn9LsLWeSxBPsJ7Un0edNEjC2_F0Q_LbNm5Yw&oe=639F3C8C">
+          <img src="https://www.michaelleejames.com/site/wp-content/uploads/2017/04/michaellee-james-lawyer-300x300.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
