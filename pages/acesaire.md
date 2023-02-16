@@ -446,9 +446,9 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Notebook of a Return to the Native Land</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41e3OqC7rxL._AC_UF1000,1000_QL80_.jpg" width = "50%" height="50%"></p>
                 <p>
@@ -461,9 +461,9 @@ permalink: /acesaire/
             </div>
         </div>
           <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Journal of a Homecoming</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/71W882KorkL._AC_UF1000,1000_QL80_.jpg" width = "50%" height="50%"></p>
                 <p>
@@ -476,9 +476,9 @@ permalink: /acesaire/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Notebook of a Return to the Native Land</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41B11THfrpL.jpg" width = "50%" height="50%"></p>
                 <p>
