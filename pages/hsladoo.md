@@ -18,7 +18,7 @@ permalink: /hsladoo/
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Harold Sonny Ladoo is from<a href="{{ site.baseurl }}/3"> Trinidad and Tobago.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Évelyne_Trouillot" target="_blank">Read more</a></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
@@ -62,8 +62,6 @@ permalink: /hsladoo/
                 Length: 159</p>
             </div>
         </div>
-        <div id="footer">
-    </div>
-</div>
+        </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
