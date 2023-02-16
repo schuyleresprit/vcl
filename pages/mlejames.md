@@ -12,7 +12,7 @@ permalink: /mlejames/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">b. 1932</p></div>
+            <div class="date right"><p class="right">b. Unknown</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -23,43 +23,43 @@ permalink: /mlejames/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1963</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Games Were Coming</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbidfXzDEtjSzP2mPGz4a_5B7A1vaF2HI9F9BADReWZjCNrTBb"></p>
+                <h1>I’M THINKING…</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51hDEVddAKL._SY346_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Heinemann<br/>
+                Publisher: AuthorHouse UK<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 182</p>
+                Length: 191</p>
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1967</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Michael Anthony's Tales for Young and Old</h1><hr>
-                <p><img src=""></p>
-                <p>
-                Language: English<br/>
-                Publisher: Stockwell<br/>
-                Pub_location: North Devon, England<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 184</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1996</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>In the Heat of the Day</h1><hr>
-                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4QMiX5oyQHvtcirdgN_oOG_lccZ52TwTqp__qk04rqEiyiseC"></p>
+                <h1>Mine the Mirror: An Enthralling Collection of Children's Poems</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51+BXBUj9vL._SX311_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: AuthorHouse UK<br/>
+                Pub_location: London, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 82</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2021</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>TREES GROW OVER FENCES</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51gwvHLjB+L._SX260_.jpg"></p>
                 <p>Language: English<br/>
-                Publisher: Heinemann<br/>
-                Pub_location: Oxford, England<br/>
+                Publisher:  ‎Pegasusbooks<br/>
+                Pub_location: New York, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 269</p>
+                Length: 138</p>
             </div>
         </div>
   <!-- partial -->
