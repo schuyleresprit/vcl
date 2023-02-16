@@ -17,6 +17,38 @@ permalink: /24/
  <div id="post-1" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://montraykreyol.org/sites/default/files/styles/medium/public/gfg.jpg?itok=sD-OBmi1" width="50%" height="50%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="{{ site.baseurl }}/cricher/">Clément Richer</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-1" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="50%" height="50%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="{{ site.baseurl }}/cnoel/">Cynthia Noel</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+     <div id="post-1" class="vesti-col timeline-post"> , , Sarah Pooley, Véronique Maisier, Zetta Elliott
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://medias.franceantilles.fr/api/v1/images/view/62ba152e5e3922649b26ed4e/width_1000/image.jpg" width="50%" height="50%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
