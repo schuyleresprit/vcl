@@ -15,60 +15,33 @@ The project is a searchable resource that includes database searching, mapping a
 **Now let's explore...**
 
 <div class="instructions">
-<div class="row">
-<div class="col-sm-8">
+<p>You can read through the background, process, student projects and reflections and collaborative experience by using the main navigation menu at the top of the page.</p>
 <video width="100%" height="100%" controls>
   <source src="{{ site.baseurl }}/assets/img/step1.mp4" type="video/mp4">
 </video>
 </div>
-<div class="col-sm-4">
-You can read through the background, process, student projects and reflections and collaborative experience by using the main navigation menu at the top of the page.  
-</div>
-</div>
-</div>
 
 <div class="instructions">
-<div class="row">
-<div class="col-sm-4">
-To navigate the various visualizations on the site, click the menu icon in the top left of the page to reveal a slide-in vertical menu. 
-</div>
-<div class="col-sm-8">
+<p> To navigate the various visualizations on the site, click the menu icon in the top left of the page to reveal a slide-in vertical menu. </p>
 <video width="100%" height="100%" controls>
   <source src="{{ site.baseurl }}/assets/img/step2.mp4" type="video/mp4">
 </video>
 </div>
-</div>
-</div>
 
 <div class="instructions">
-<div class="row">
-<div class="col-sm-8">
+<p> To explore the __Authors__ database, nagivate to the Authors page. You can scroll down the page to browse the authors included in this project. Each author card includes the name, country of birth or heritage and a link to the indivdual author's information page.
+<br> <br>
+For any author, click on __More__ to view the author's biography and bibliography.  </p>
 <video width="100%" height="100%" controls>
   <source src="{{ site.baseurl }}/assets/img/step3.mp4" type="video/mp4">
 </video>
 </div>
-<div class="col-sm-4">
-
-To explore the __Authors__ database, nagivate to the Authors page. You can scroll down the page to browse the authors included in this project. Each author card includes the name, country of birth or heritage and a link to the indivdual author's information page.
-<br> <br>
-For any author, click on __More__ to view the author's biography and bibliography.  
-</div>
-</div>
-</div>
 
  <div class="instructions">
-<div class="row">
-<div class="col-sm-4">
-
 The __Countries__ page represents the countries of birth or heritage identified for all the authors included in the data set. To explore, return to the slide-in menu and click on the Countries link. You can pan and zoom the map to find specific countries of interest. To learn more about the authors from each country, click on dot, then click on the country name in the pop-up to reveal that country's page which includes a map and an interactive list of authors who identify that country as home by birth or heritage.
-
-</div>
-<div class="col-sm-8">
 <video width="100%" height="100%" controls>
   <source src="{{ site.baseurl }}/assets/img/step4.mp4" type="video/mp4">
 </video>
-</div>
-</div>
 </div>
 
  <div class="instructions">
