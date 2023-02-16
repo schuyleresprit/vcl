@@ -114,7 +114,7 @@ To view texts for a specific language, click on the More button to view a list o
 </div>
 <div class="col-sm-4">
 
- To explore __Genres__, return to the slide-in menu to the Languages page. Scroll to browse the list or use the search box to identify a specific language. The Languages list represent both original language texts and texts in translation for each language in the dataset.
+ To explore __Genres__, return to the slide-in menu to the Languages page. 
 
 </div>
 </div>
