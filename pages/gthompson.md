@@ -74,9 +74,9 @@ permalink: /gthompson/
                 Pub_location: Scotts Valley, CA, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 28 <br/>                </p>
-               </div>
-       		   </div>
-<div class="block">
+         </div>
+    </div>
+    <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -87,8 +87,8 @@ permalink: /gthompson/
                 Pub_location: Scotts Valley, CA, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 15 <br/>                </p>
-               </div>
-       		   </div>
+         </div>
+    </div>
     <div class="block">
             <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
@@ -101,8 +101,8 @@ permalink: /gthompson/
                 Pub_location: Scotts Valley, CA, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 32 <br/>                </p>
-               </div>
-       		   </div>
+         </div>
+     </div>
      <div class="block">
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
@@ -114,9 +114,9 @@ permalink: /gthompson/
                 Pub_location: Scotts Valley, CA, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 28 <br/>                </p>
-               </div>
-       		   </div>
- <div class="block">
+           </div>
+       </div>
+    <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -129,6 +129,7 @@ permalink: /gthompson/
                 Genre: Fiction (Novel) <br/>
                 Length: 34 <br/>                </p>
                </div>
-       		   </div>
+        </div>
+</div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
