@@ -27,7 +27,7 @@ permalink: /sclarke/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Sun Song</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/41G-3t9Za0L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Paul Breman Ltd<br>
@@ -42,7 +42,7 @@ permalink: /sclarke/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>New Planet: Anthology of Modern Caribbean Writing</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://ufdcimages.uflib.ufl.edu/AA/00/03/04/77/00001/PR9215-N48_dj.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Karnak House, Caribbean Cultural International<br>
@@ -69,7 +69,7 @@ permalink: /sclarke/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Tones & Colours</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://cdn10.bigcommerce.com/s-e2q5po/products/4748/images/8702/9780907015086__27389.1496342452.386.513.jpg?c=2"></p>
                 <p>Language: English<br>
                 Publisher: Karnak House, Caribbean Cultural International<br>
                 Publisher Location: London, England<br>
@@ -82,7 +82,7 @@ permalink: /sclarke/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Colonial Legacy in Caribbean Literature</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51iI0Jrzi1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Karnak House, Caribbean Cultural International<br>
                 Publisher Location: London, England<br>
@@ -95,7 +95,7 @@ permalink: /sclarke/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The African Origin of the Major World Religions</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/51flum40HNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Karnak House, Caribbean Cultural International<br>
                 Publisher Location: London, England<br>
@@ -103,12 +103,12 @@ permalink: /sclarke/
                 Length: 120<br></p>
             </div>
         </div>
-		<div class="block">
+            <div class="block">
             <div class="date left"><p class="left hide">1997</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Colonialism & the Destruction of the Mind: Psychosocial Issues of Race, Religion, & Sexuality in the Novels of Roy Heath </h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://books.google.dm/books/content?id=CEusAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73AO-0PkV8sEUZzZZPi061bdMpzBxkaUhFQ0UK27fYVxgfgGtf_c5Wjj34AvVp4B-bue6Z5Vpet077Jv2stU8LgKxviK_i-lesgNTM9ubJTIEmAob1HambSTM2w5-XzU0f3g-lE"></p>
                 <p>Language: English<br>
                 Publisher: Karnak House, Caribbean Cultural International<br>
                 Publisher Location: London, England<br>
@@ -121,7 +121,7 @@ permalink: /sclarke/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Djehuty/Hermes: Foundational Philosopher In The Italian Renaissance</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://m.media-amazon.com/images/I/513FQntSJrL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Karnak House, Caribbean Cultural International<br>
                 Publisher Location: London, England<br>
