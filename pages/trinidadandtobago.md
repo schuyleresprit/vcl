@@ -657,7 +657,7 @@ permalink: /3/
      <div id="post-40" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Marion_Patrick_Jones_2016_%28cropped%29.jpg/220px-Marion_Patrick_Jones_2016_%28cropped%29.jpg" >
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
