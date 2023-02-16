@@ -132,9 +132,10 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 
 }
 
-.instructions {
-    padding-bottom: 45px;
-}
+
+    .instructions {
+		padding: 30px 0 60px 0;
+	}
 
 .internreflection {
     padding: 15px 0;
