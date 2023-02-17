@@ -17,7 +17,7 @@ permalink: /srios/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-            <div class="aclocation"><p>Soleida Rios is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
+            <div class="aclocation"><p>Soleida Rios is from <a href="{{ site.baseurl }}/14/">Cuba.</a></p></div>
                 <div class="acreadmore"><a href="" target="_blank">Read more</a></div>
             </div>
             </div>
@@ -25,7 +25,7 @@ permalink: /srios/
         <div class="block">
             <div class="date left"><p class="left">1977</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>De La Sierra</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -140,9 +140,9 @@ permalink: /srios/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>A Wa Nile, Poesias</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/91pRh0-JE2L.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -152,9 +152,9 @@ permalink: /srios/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Dirty Text</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531192131l/40714338.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br/>
@@ -191,6 +191,5 @@ permalink: /srios/
                 Length: 78</p>
             </div>
         </div>
-        <div style="padding-bottom:100px;"></div>
-    </div>
-</div>
+     <!-- partial -->
+  +<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
