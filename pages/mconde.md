@@ -498,101 +498,101 @@ permalink: /mconde/
             </div>
         </div>   
 <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <h1>Carta al Ciudadano 6.000 Millones</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41Covin+NvL._AC_SY780_.jpg" height="50%" width = "50%"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: Spanish<br/>
+                Publisher: Ediciones B<br/>
+                Pub_location: Barcelona, Spain<br/>
+                Genre: Nonfiction<br/>
+                Length: 140<br/>                   </p>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">BOOK DATE</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <h1>The Belle Créole</h1><hr>
+                <p><img src="https://ik.imagekit.io/uvapress/5336.jpg" height="50%" width = "50%"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br/>
+                Publisher: University of Virginia Press<br/>
+                Pub_location: Charlottesville, VA, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 212<br/>                   </p>
             </div>
         </div>      
  <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">2010</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <h1>Waiting for the Waters to Rise</h1><hr>
+                <p><img src="https://media.npr.org/assets/img/2021/08/02/81tkh-h-ecl_custom-d2fc14214c1930e2cf8a9610db782b94f9b00759-s1100-c50.jpg" height="50%" width = "50%"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br/>
+                Publisher: World Editions<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 282<br/>                   </p>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">BOOK DATE</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <h1>The Wondrous and Tragic Life of Ivan and Ivana</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51DsmR-uVML.jpg" height="50%" width = "50%"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br/>
+                Publisher: World Editions<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 266<br/>                   </p>
             </div>
         </div>       
 <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">Unknown</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <h1>Guadeloupe</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: French<br/>
+                Publisher: Richer Publishing Ltd<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 126<br/>                   </p>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">BOOK DATE</p></div>
+            <div class="date right"><p class="right">Unknown</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <h1>We Are Your Sisters: Black Women in the Nineteenth Century</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br/>
+                Publisher: W. W. Norton<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Nonfiction<br/>
+                Length: 535<br/>                   </p>
             </div>
         </div>       
 <div class="block">
-            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="date left"><p class="left">Unknown</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>BOOK NAME</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <h1>Women in Nigeria Today</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
                 <p>
-                Language: <br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: <br/>
-                Length: <br/>                   </p>
+                Language: English<br/>
+                Publisher: Zed Books<br/>
+                Pub_location: London, England<br/>
+                Genre: Nonfiction<br/>
+                Length: 257<br/>                   </p>
             </div>
         </div>
   <!-- partial -->
