@@ -17,7 +17,7 @@ permalink: /vcapildeo/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Vahni Capildeo is from <a href="{{ site.baseurl }}/3">Trinidad & Tobago.</a></p></div>
+          <div class="aclocation">  <p>Vahni Capildeo is from <a href="{{ site.baseurl }}/3/">Trinidad & Tobago.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Vahni_Capildeo" target="_blank">Read more</a> </div>
             </div>
             </div>
