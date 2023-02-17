@@ -17,7 +17,7 @@ permalink: /uvalverde/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Umberto Valverde is from <a href="{{ site.baseurl }}/66"> Colombia.</a></p></div>
+          <div class="aclocation">  <p>Umberto Valverde is from <a href="{{ site.baseurl }}/66/"> Colombia.</a></p></div>
               <div class="acreadmore">  <a href="https://es.wikipedia.org/wiki/Umberto_Valverde" target="_blank">Read more</a></div>
             </div>
             </div>
