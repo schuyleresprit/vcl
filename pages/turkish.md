@@ -14,10 +14,6 @@ Represented here are the authors who have written works in Turkish. Some of thes
 </div>
 <div class="col-sm-10">
 <div class="page_title"><h3>Turkish</h3></div>
-
-<html>
-
-<body>
 	<div class="container">
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
@@ -80,7 +76,6 @@ Represented here are the authors who have written works in Turkish. Some of thes
 			});
 		}
 	</script>
-</body>
-</html>
 <div class="col-sm-1">
+</div>
 </div>
