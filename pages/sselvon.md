@@ -17,7 +17,7 @@ permalink: /sselvon/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-        <div class="aclocation">  <p> Samuel Selvon is from <a href="{{ site.baseurl }}/3">Trinidad & Tobago.</a></p> </div>
+        <div class="aclocation">  <p> Samuel Selvon is from <a href="{{ site.baseurl }}/3/">Trinidad & Tobago.</a></p> </div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Sam_Selvon" target="_blank">Read more</a> </div>
             </div>
             </div>
@@ -25,7 +25,7 @@ permalink: /sselvon/
         <div class="block">
             <div class="date left"><p class="left">1956</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="right hide">
                 <h1>The Lonely Londoners</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347763061i/612888.jpg"></p>
                 <p>Language: English<br/>
