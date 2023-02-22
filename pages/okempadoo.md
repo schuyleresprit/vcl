@@ -17,7 +17,7 @@ permalink: /okempadoo/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">   <p> Oonya Kempadoo is from <a href="{{ site.baseurl }}/"> Guyana.</a>England</p></div>
+          <div class="aclocation">   <p> Oonya Kempadoo is from <a href="{{ site.baseurl }}/"> Guyana.</a>Born in England</p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Oonya_Kempadoo" target="_blank">Read more</a> </div>
             </div>
             </div>
