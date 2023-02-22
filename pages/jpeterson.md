@@ -6,7 +6,7 @@ permalink: /jpeterson/
 <div class="content">
     <h1>Josie Peterson</h1>
     <div class="quote">
-        <div><img src="https://www.bocaslitfest.com/wp-content/uploads/2021/02/Michael-Cozier.jpg" class="logo"></div>
+        <div><img src="https://featheredquill.com/wp-content/uploads/2023/01/Josie-Peterson-300x269.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
