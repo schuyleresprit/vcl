@@ -27,7 +27,7 @@ permalink: /cwerleigh/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Défilée La Folle: Poème</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://i.ytimg.com/vi/9WqD7G9jcdI/maxresdefault.jpg"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Chéraquit<br/>
