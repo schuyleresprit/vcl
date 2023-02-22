@@ -17,7 +17,7 @@ permalink: /eacevedo/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p> Elizabeth Acevedo is from the <a href="{{ site.baseurl }}/9">Dominica Republic </a></p></div>
+          <div class="aclocation">  <p> Elizabeth Acevedo is from the <a href="{{ site.baseurl }}/9">Dominican Republic </a>Born in USA</p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Elizabeth_Acevedo" target="_blank">Read more</a> </div>
             </div>
             </div>
