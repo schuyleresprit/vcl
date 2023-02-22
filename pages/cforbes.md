@@ -92,33 +92,5 @@ permalink: /cforbes/
                 Length: 368<br/>                   </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Songs Of Silence</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626118423l/58152042.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Hodder Education<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 176<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">2022</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>A Tall History Of Sugar</h1><hr>
-                <p><img src="https://d1ldy8a769gy68.cloudfront.net/300/978/161/775/751/8/9781617757518.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Akashic Books<br/>
-                Pub_location: Brooklyn, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 372<br/>                   </p>
-            </div>
-        </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
