@@ -27,7 +27,7 @@ permalink: /cvbriggs/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Crusader: "The Magazine Nearly Every Negro Reads"</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVjjChf8sBUmsMIwfC4scdg7jCQg6la8Dr1ZVx6yL&s"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVjjChf8sBUmsMIwfC4scdg7jCQg6la8Dr1ZVx6yL&s" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Éditeur Inconnu<br/>
