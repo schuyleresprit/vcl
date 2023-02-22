@@ -71,7 +71,7 @@ permalink: /clrjames/
                 <h1>Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Nhsw5xsVL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
-                Language: English<br/>
+                Language: French<br/>
                 Publisher: Éditions Amsterdam<br/>
                 Pub_location: Paris, France<br/>
                 Genre: Biography<br/>
