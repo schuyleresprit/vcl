@@ -27,7 +27,7 @@ permalink: /clrjames/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Minty Alley</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6VvMz3SJaTfUlcYDMM8peBoN-Jr2lpSgqPlm523J_4xyBo5S"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6VvMz3SJaTfUlcYDMM8peBoN-Jr2lpSgqPlm523J_4xyBo5S" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Allen & Unwin<br/>
@@ -35,8 +35,21 @@ permalink: /clrjames/
                 Genre: Fiction (Novel)<br/>
                 Length: 248<br/>                   </p>
             </div>
-        </div>
-	 <div class="block">
+        <div class="block">
+            <div class="date right"><p class="right">1938</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The Black Jacobins: Toussaint l'Ouverture and the San Domingo Revolution</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/8/86/The_Black_Jacobins.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Secker & Warburg Ltd.<br/>
+                Pub_location: London, England<br/>
+                Genre: Autobiography/Memoir<br/>
+                Length: 448<br/>                   </p>
+            </div>
+        </div> 
+	<div class="block">
             <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
             <div class="left hide">
