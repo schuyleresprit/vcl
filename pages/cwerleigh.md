@@ -7,12 +7,12 @@ permalink: /cwerleigh/
 <div class="content">
     <h1>Christian Werleigh</h1>
     <div class="quote">
-        <div><img src="https://scontent.fdcf1-1.fna.fbcdn.net/v/t1.6435-9/195043540_531168351573790_5951050635040815045_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=5VSSrssNL20AX9__caC&_nc_ht=scontent.fdcf1-1.fna&oh=00_AfAWbE9JiUvqXDWseI3Z1V2g0gBypFKy_YbeeCjMjb-I2w&oe=63B0A78B" class="logo"></div>
+        <div><img src="https://villeducaphaitien.com/templates/yootheme/cache/e5/Christian_Werleigh_b-e59a7894.jpeg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">b. Unknown</p></div>
+            <div class="date right"><p class="right">1896 - 1945</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
