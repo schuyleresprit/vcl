@@ -27,13 +27,13 @@ permalink: /cvbriggs/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Crusader: "The Magazine Nearly Every Negro Reads"</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVjjChf8sBUmsMIwfC4scdg7jCQg6la8Dr1ZVx6yL&s"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Éditeur Inconnu<br/>
                 Pub_location: New York, NY, United States<br/>
-                Genre: NA<br/>
-                Length: NA</p>
+                Genre: Autobiography/Memoir<br/>
+                Length: 36</p>
             </div>
         </div>
 </div>
