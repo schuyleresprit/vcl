@@ -12,17 +12,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Roxane Gay",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "willimantic_united¬†states",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "Ayiti",
-            "Translation": "y"
-        },
-        {
             "Author": "Cynthia James",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -1988,6 +1977,17 @@
             "Pubdate": "1938",
             "Publisher": "Planters' Punch",
             "Title": "The Riots, the Hand of the Lord",
+            "Translation": "n"
+        },
+        {
+            "Author": "C. L. R. James",
+            "Descriptor": "",
+            "Genre": "Autobiography/Memoir",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "1938",
+            "Publisher": "Secker & Warburg Ltd.",
+            "Title": "The Black Jacobins: Toussaint l'Ouverture and the San Domingo Revolution",
             "Translation": "n"
         }
     ],
@@ -4896,17 +4896,6 @@
             "Pub_id": "london_ldn_england",
             "Pubdate": "1968",
             "Publisher": "Harper Collins",
-            "Title": "The Schoolmaster",
-            "Translation": "n"
-        },
-        {
-            "Author": "Earl Lovelace",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "london_ldn_england",
-            "Pubdate": "1968",
-            "Publisher": "Heinemann",
             "Title": "The Schoolmaster",
             "Translation": "n"
         },
@@ -8219,6 +8208,17 @@
             "Pubdate": "1979",
             "Publisher": "Methuen Publishing",
             "Title": "The Dragon Can't Dance",
+            "Translation": "n"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1979",
+            "Publisher": "Heinemann",
+            "Title": "The Schoolmaster",
             "Translation": "n"
         },
         {
@@ -14639,7 +14639,7 @@
             "Pubdate": "1988",
             "Publisher": "Mercure de France",
             "Title": "Pension Les Alizés: Pièce En Cinq Tableaux",
-            "Translation": "y"
+            "Translation": "n"
         },
         {
             "Author": "Miguel Collazo",
@@ -23793,6 +23793,17 @@
             "Publisher": "Unionsverlag",
             "Title": "Das Meer Der Illusionen",
             "Translation": "y"
+        },
+        {
+            "Author": "C. L. R. James",
+            "Descriptor": "",
+            "Genre": "Autobiography/Memoir",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "2005",
+            "Publisher": "Hutchinson Publishing",
+            "Title": "Beyond a Boundary",
+            "Translation": "n"
         }
     ],
     "2006": [
@@ -26953,6 +26964,17 @@
             "Translation": "n"
         },
         {
+            "Author": "Roxane Gay",
+            "Descriptor": "2011",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Artistically Declined Press",
+            "Title": "Ayiti",
+            "Translation": "n"
+        },
+        {
             "Author": "Beryl Gilroy",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
@@ -29203,6 +29225,28 @@
             "Translation": "n"
         },
         {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2014",
+            "Publisher": "Grove Press",
+            "Title": "An Untamed State",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2014",
+            "Publisher": "HarperCollins",
+            "Title": "Bad Feminist",
+            "Translation": "n"
+        },
+        {
             "Author": "Cyril Dabydeen",
             "Descriptor": "",
             "Genre": "Poetry Collection",
@@ -31000,6 +31044,17 @@
             "Translation": "y"
         },
         {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2016",
+            "Publisher": "Marvel",
+            "Title": "World of Wakanda",
+            "Translation": "n"
+        },
+        {
             "Author": "Zadie Smith",
             "Descriptor": "Translator: Philippe Aronson",
             "Genre": "Fiction (Novel)",
@@ -31607,6 +31662,28 @@
             "Translation": "n"
         },
         {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2017",
+            "Publisher": "Grove Press",
+            "Title": "Difficult Women",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2017",
+            "Publisher": "HarperCollins",
+            "Title": "Hunger",
+            "Translation": "n"
+        },
+        {
             "Author": "Cyril Dabydeen",
             "Descriptor": "",
             "Genre": "Fiction (Short Story Collection)",
@@ -32105,12 +32182,12 @@
             "Author": "C. L. R. James",
             "Descriptor": "",
             "Genre": "Biography",
-            "Language": "English",
+            "Language": "French",
             "Pub_id": "paris_fr_france",
             "Pubdate": "2017",
             "Publisher": "Éditions Amsterdam",
             "Title": "Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue",
-            "Translation": "n"
+            "Translation": "y"
         },
         {
             "Author": "Joanne C. Hillhouse",
@@ -32346,6 +32423,39 @@
             "Translation": "n"
         },
         {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2018",
+            "Publisher": "HarperCollins",
+            "Title": "Not That Bad",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Grove Press",
+            "Title": "Ayiti",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "boston_ma_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Houghton Mifflin Harcourt",
+            "Title": "The Best American Short Stories 2018",
+            "Translation": "n"
+        },
+        {
             "Author": "Cyril Dabydeen",
             "Descriptor": "",
             "Genre": "Anthology",
@@ -32365,6 +32475,17 @@
             "Pubdate": "2018",
             "Publisher": "NorthSouth Books Inc",
             "Title": "The Field",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lisa Allen-Agostini",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2018",
+            "Publisher": "Papillote Press",
+            "Title": "Home, Home",
             "Translation": "n"
         },
         {
@@ -32907,6 +33028,17 @@
             "Publisher": "Presses Universitaires de Bordeaux",
             "Title": "La Mangue De La Poesie",
             "Translation": "y"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "los_angeles_united_states",
+            "Pubdate": "2019",
+            "Publisher": "TKO Studios",
+            "Title": "The Banks",
+            "Translation": "n"
         },
         {
             "Author": "Zadie Smith",
@@ -33626,6 +33758,39 @@
             "Translation": "n"
         },
         {
+            "Author": "Roxane Gay",
+            "Descriptor": "Co-Author:: Audre Lorde",
+            "Genre": "Poetry",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2020",
+            "Publisher": "W.W. Norton & Company",
+            "Title": "The Selected Works of Audre Lorde",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "seattle_wa_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Amazon Original Stories",
+            "Title": "Graceful Burdens",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "los_angeles_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Archaia",
+            "Title": "The Sacrifice of Darkness",
+            "Translation": "n"
+        },
+        {
             "Author": "Margaret Busby",
             "Descriptor": "",
             "Genre": "Anthology",
@@ -33634,6 +33799,17 @@
             "Pubdate": "2020",
             "Publisher": "Myriad Editions",
             "Title": "New Daughters of Africa",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lisa Allen-Agostini",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "newyork_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Delacorte Press",
+            "Title": "Home, Home",
             "Translation": "n"
         },
         {

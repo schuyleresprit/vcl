@@ -5121,17 +5121,6 @@
         {
             "Author": "C. L. R. James",
             "Descriptor": "",
-            "Genre": "Biography",
-            "Language": "English",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "2017",
-            "Publisher": "Éditions Amsterdam",
-            "Title": "Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue",
-            "Translation": "n"
-        },
-        {
-            "Author": "C. L. R. James",
-            "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "crows_nest_australia",
@@ -5139,6 +5128,39 @@
             "Publisher": "Allen & Unwin",
             "Title": "Minty Alley",
             "Translation": "n"
+        },
+        {
+            "Author": "C. L. R. James",
+            "Descriptor": "",
+            "Genre": "Autobiography/Memoir",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "1938",
+            "Publisher": "Secker & Warburg Ltd.",
+            "Title": "The Black Jacobins: Toussaint l'Ouverture and the San Domingo Revolution",
+            "Translation": "n"
+        },
+        {
+            "Author": "C. L. R. James",
+            "Descriptor": "",
+            "Genre": "Autobiography/Memoir",
+            "Language": "English",
+            "Pub_id": "(london)_england",
+            "Pubdate": "2005",
+            "Publisher": "Hutchinson Publishing",
+            "Title": "Beyond a Boundary",
+            "Translation": "n"
+        },
+        {
+            "Author": "C. L. R. James",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2017",
+            "Publisher": "Éditions Amsterdam",
+            "Title": "Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue",
+            "Translation": "y"
         }
     ],
     "cmagloiresaintaude": [
@@ -10907,7 +10929,7 @@
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
-            "Pubdate": "1968",
+            "Pubdate": "1979",
             "Publisher": "Heinemann",
             "Title": "The Schoolmaster",
             "Translation": "n"
@@ -20393,17 +20415,6 @@
     "laagostini": [
         {
             "Author": "Lisa Allen-Agostini",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "brighton_england",
-            "Pubdate": "2021",
-            "Publisher": "Myriad Editions",
-            "Title": "The Bread the Devil Knead",
-            "Translation": "n"
-        },
-        {
-            "Author": "Lisa Allen-Agostini",
             "Descriptor": "Jeanne Mason",
             "Genre": "Anthology",
             "Language": "English",
@@ -20411,6 +20422,39 @@
             "Pubdate": "2008",
             "Publisher": "Akashic Books",
             "Title": "Trinidad Noir",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lisa Allen-Agostini",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2018",
+            "Publisher": "Papillote Press",
+            "Title": "Home, Home",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lisa Allen-Agostini",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "newyork_ny_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Delacorte Press",
+            "Title": "Home, Home",
+            "Translation": "n"
+        },
+        {
+            "Author": "Lisa Allen-Agostini",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "brighton_england",
+            "Pubdate": "2021",
+            "Publisher": "Myriad Editions",
+            "Title": "The Bread the Devil Knead",
             "Translation": "n"
         }
     ],
@@ -23352,7 +23396,7 @@
             "Pubdate": "1988",
             "Publisher": "Mercure de France",
             "Title": "Pension Les Alizés: Pièce En Cinq Tableaux",
-            "Translation": "y"
+            "Translation": "n"
         },
         {
             "Author": "Maryse Condé",
@@ -29211,14 +29255,146 @@
     "rgay": [
         {
             "Author": "Roxane Gay",
+            "Descriptor": "2011",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2011",
+            "Publisher": "Artistically Declined Press",
+            "Title": "Ayiti",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "willimantic_united¬†states",
-            "Pubdate": "",
-            "Publisher": "",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2014",
+            "Publisher": "Grove Press",
+            "Title": "An Untamed State",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2014",
+            "Publisher": "HarperCollins",
+            "Title": "Bad Feminist",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2016",
+            "Publisher": "Marvel",
+            "Title": "World of Wakanda",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2017",
+            "Publisher": "Grove Press",
+            "Title": "Difficult Women",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2017",
+            "Publisher": "HarperCollins",
+            "Title": "Hunger",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Nonfiction Book",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2018",
+            "Publisher": "HarperCollins",
+            "Title": "Not That Bad",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Grove Press",
             "Title": "Ayiti",
-            "Translation": "y"
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "boston_ma_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Houghton Mifflin Harcourt",
+            "Title": "The Best American Short Stories 2018",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "los_angeles_united_states",
+            "Pubdate": "2019",
+            "Publisher": "TKO Studios",
+            "Title": "The Banks",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "Co-Author:: Audre Lorde",
+            "Genre": "Poetry",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2020",
+            "Publisher": "W.W. Norton & Company",
+            "Title": "The Selected Works of Audre Lorde",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story)",
+            "Language": "English",
+            "Pub_id": "seattle_wa_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Amazon Original Stories",
+            "Title": "Graceful Burdens",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "los_angeles_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Archaia",
+            "Title": "The Sacrifice of Darkness",
+            "Translation": "n"
         }
     ],
     "rkdouglas": [

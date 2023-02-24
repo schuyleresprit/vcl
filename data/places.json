@@ -265,8 +265,8 @@
         "Pub_id": "brighton_england"
     },
     "brisbane_australia": {
-        "Lat": -27.469,
-        "Long": 153.0235,
+        "Lat": -27.468968,
+        "Long": 153.023499,
         "Pub_id": "brisbane_australia"
     },
     "bristol_england": {
@@ -290,8 +290,8 @@
         "Pub_id": "brooklyn_ny_united¬†states"
     },
     "brunswick_australia": {
-        "Lat": -37.766471,
-        "Long": 144.96131,
+        "Lat": -37.7612,
+        "Long": 144.961,
         "Pub_id": "brunswick_australia"
     },
     "bucuresti_romania": {
@@ -370,8 +370,8 @@
         "Pub_id": "cameron_nc_united¬†states"
     },
     "canberra_australia": {
-        "Lat": -35.2819,
-        "Long": 149.1289,
+        "Lat": -35.297591,
+        "Long": 149.101268,
         "Pub_id": "canberra_australia"
     },
     "caracas_venezuela": {
@@ -420,8 +420,8 @@
         "Pub_id": "cave_hill_barbados"
     },
     "chapel_hill_nc_united¬†states": {
-        "Lat": 35.862465,
-        "Long": -79.078045,
+        "Lat": 35.892,
+        "Long": -79.05704,
         "Pub_id": "chapel_hill_nc_united¬†states"
     },
     "charles_village_united¬†states": {
@@ -495,8 +495,8 @@
         "Pub_id": "coconut_creek_fl_united_states"
     },
     "coconut_creek_fl_united¬†states": {
-        "Lat": 26.321671,
-        "Long": -80.199387,
+        "Lat": 26.251748,
+        "Long": -80.178935,
         "Pub_id": "coconut_creek_fl_united¬†states"
     },
     "columbia_mo_united_states": {
@@ -530,8 +530,8 @@
         "Pub_id": "cromer_england"
     },
     "crows_nest_australia": {
-        "Lat": -33.825565,
-        "Long": 151.203609,
+        "Lat": -33.8281,
+        "Long": 151.2017,
         "Pub_id": "crows_nest_australia"
     },
     "d'abadie_trinidad_&¬†tobago": {
@@ -880,8 +880,8 @@
         "Pub_id": "jyvaãàskylaãà_finland"
     },
     "kansas_city_mo_united¬†states": {
-        "Lat": 39.091773,
-        "Long": -94.538262,
+        "Lat": 39.100105,
+        "Long": -94.578142,
         "Pub_id": "kansas_city_mo_united¬†states"
     },
     "kingston_jam_jamaica": {
@@ -1069,6 +1069,11 @@
         "Long": -118.242766,
         "Pub_id": "los_angeles_ca_united¬†states"
     },
+    "los_angeles_united_states": {
+        "Lat": 34.053691,
+        "Long": -118.242766,
+        "Pub_id": "los_angeles_united_states"
+    },
     "lund_sweden": {
         "Lat": 55.70293,
         "Long": 13.192945,
@@ -1145,8 +1150,8 @@
         "Pub_id": "matoury_french_guiana"
     },
     "melbourne_australia": {
-        "Lat": -37.8142,
-        "Long": 144.9632,
+        "Lat": -37.814218,
+        "Long": 144.963161,
         "Pub_id": "melbourne_australia"
     },
     "messina_italy": {
@@ -1165,8 +1170,8 @@
         "Pub_id": "mexico_city_mexico"
     },
     "mexico_d.f._mexico": {
-        "Lat": 19.5122876,
-        "Long": -98.8740501,
+        "Lat": 19.445122,
+        "Long": -99.217964,
         "Pub_id": "mexico_d.f._mexico"
     },
     "miami_fl_fl_united_states": {
@@ -1370,9 +1375,19 @@
         "Pub_id": "new_york_ny_united_states"
     },
     "new_york_ny_united¬†states": {
-        "Lat": 40.704037,
-        "Long": -74.013748,
+        "Lat": 40.76872225,
+        "Long": -73.9826608125,
         "Pub_id": "new_york_ny_united¬†states"
+    },
+    "new_york_united_states": {
+        "Lat": 40.7306,
+        "Long": -73.9866,
+        "Pub_id": "new_york_united_states"
+    },
+    "newyork_ny_united_states": {
+        "Lat": 40.754398,
+        "Long": -73.993057,
+        "Pub_id": "newyork_ny_united_states"
     },
     "niort_france": {
         "Lat": 46.324113,
@@ -1405,8 +1420,8 @@
         "Pub_id": "north_devon_england"
     },
     "north_melbourne_australia": {
-        "Lat": -37.798575,
-        "Long": 144.945174,
+        "Lat": -37.8029,
+        "Long": 144.9482,
         "Pub_id": "north_melbourne_australia"
     },
     "northampton_ma_united¬†states": {
@@ -1441,7 +1456,7 @@
     },
     "oklahoma_united¬†states": {
         "Lat": 35.951305,
-        "Long": -95.6033,
+        "Long": -95.60396,
         "Pub_id": "oklahoma_united¬†states"
     },
     "old_saybrook_united¬†states": {
@@ -1780,8 +1795,8 @@
         "Pub_id": "san_diego_ca_united¬†states"
     },
     "san_fernando_trinidad_&¬†tobago": {
-        "Lat": 27.7723984151927,
-        "Long": -15.6047812235827,
+        "Lat": 27.7723984303853,
+        "Long": -15.6047812471655,
         "Pub_id": "san_fernando_trinidad_&¬†tobago"
     },
     "san_francisco_ca_united_states": {
@@ -1879,6 +1894,11 @@
         "Long": -122.014684,
         "Pub_id": "scotts_valley_united¬†states"
     },
+    "seattle_wa_united_states": {
+        "Lat": 47.603832,
+        "Long": -122.330062,
+        "Pub_id": "seattle_wa_united_states"
+    },
     "seattle_wa_united¬†states": {
         "Lat": 47.603832,
         "Long": -122.330062,
@@ -1940,8 +1960,8 @@
         "Pub_id": "st._augustine_trinidad_&_tobago"
     },
     "st._augustine_trinidad_&¬†tobago": {
-        "Lat": 29.92614,
-        "Long": -81.44458,
+        "Lat": 29.92612,
+        "Long": -81.44459,
         "Pub_id": "st._augustine_trinidad_&¬†tobago"
     },
     "st._clair_trinidad_&¬†tobago": {
@@ -2025,8 +2045,8 @@
         "Pub_id": "swansea_wales"
     },
     "sydney_australia": {
-        "Lat": -33.868,
-        "Long": 151.21,
+        "Lat": -33.854816,
+        "Long": 151.216454,
         "Pub_id": "sydney_australia"
     },
     "tafalla_spain": {
@@ -2055,8 +2075,8 @@
         "Pub_id": "tel_aviv_israel"
     },
     "the_morne_st.¬†lucia": {
-        "Lat": 48.485244,
-        "Long": 0.114139,
+        "Lat": 51.2774478,
+        "Long": -0.3795833,
         "Pub_id": "the_morne_st.¬†lucia"
     },
     "thomaston_maine": {
@@ -2175,8 +2195,8 @@
         "Pub_id": "vigo_spain"
     },
     "warners_bay_n.s.w.": {
-        "Lat": -32.97392,
-        "Long": 151.648989,
+        "Lat": -32.9725,
+        "Long": 151.6527,
         "Pub_id": "warners_bay_n.s.w."
     },
     "warszawa_poland": {

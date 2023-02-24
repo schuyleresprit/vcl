@@ -963,6 +963,30 @@
             "Translation": "y"
         }
     ],
+    "clrjames": [
+        {
+            "Author": "C. L. R. James",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2017",
+            "Publisher": "Éditions Amsterdam",
+            "Title": "Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue",
+            "Translation": "y"
+        },
+        {
+            "Author": "C. L. R. James",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2017",
+            "Publisher": "Éditions Amsterdam",
+            "Title": "Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue",
+            "Translation": "y"
+        }
+    ],
     "cmagloiresaintaude": [
         {
             "Author": "Clément Magloire-Saint-Aude",
@@ -4865,7 +4889,7 @@
             "Pubdate": "1988",
             "Publisher": "Mercure de France",
             "Title": "Pension Les Alizés: Pièce En Cinq Tableaux",
-            "Translation": "y"
+            "Translation": "n"
         },
         {
             "Author": "Maryse Condé",
@@ -4876,7 +4900,7 @@
             "Pubdate": "1988",
             "Publisher": "Mercure de France",
             "Title": "Pension Les Alizés: Pièce En Cinq Tableaux",
-            "Translation": "y"
+            "Translation": "n"
         },
         {
             "Author": "Maryse Condé",

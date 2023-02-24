@@ -2047,17 +2047,6 @@
             "Translation": "y"
         },
         {
-            "Author": "Roxane Gay",
-            "Descriptor": "",
-            "Genre": "Fiction (Novel)",
-            "Language": "English",
-            "Pub_id": "willimantic_united¬†states",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "Ayiti",
-            "Translation": "y"
-        },
-        {
             "Author": "Beryl Gilroy",
             "Descriptor": "Hales, Robert",
             "Genre": "Fiction (Novel)",
@@ -4711,17 +4700,6 @@
         {
             "Author": "Maryse Condé",
             "Descriptor": "",
-            "Genre": "Drama",
-            "Language": "French",
-            "Pub_id": "paris_fr_france",
-            "Pubdate": "1988",
-            "Publisher": "Mercure de France",
-            "Title": "Pension Les Alizés: Pièce En Cinq Tableaux",
-            "Translation": "y"
-        },
-        {
-            "Author": "Maryse Condé",
-            "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "(london)_england",
@@ -6741,6 +6719,17 @@
             "Pubdate": "1978",
             "Publisher": "Gallimard",
             "Title": "La Danse Sacrale",
+            "Translation": "y"
+        },
+        {
+            "Author": "C. L. R. James",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2017",
+            "Publisher": "Éditions Amsterdam",
+            "Title": "Les Jacobins Noirs : Toussaint Louverture Et La Révolution De Saint-Domingue",
             "Translation": "y"
         },
         {

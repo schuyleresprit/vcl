@@ -10518,7 +10518,7 @@
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
-            "Pubdate": "1968",
+            "Pubdate": "1979",
             "Publisher": "Heinemann",
             "Title": "The Schoolmaster",
             "Translation": "n"
@@ -10529,7 +10529,7 @@
             "Genre": "Fiction (Novel)",
             "Language": "English",
             "Pub_id": "london_ldn_england",
-            "Pubdate": "1968",
+            "Pubdate": "1979",
             "Publisher": "Heinemann",
             "Title": "The Schoolmaster",
             "Translation": "n"
@@ -29223,22 +29223,110 @@
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "willimantic_united¬†states",
-            "Pubdate": "",
-            "Publisher": "",
-            "Title": "Ayiti",
-            "Translation": "y"
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2014",
+            "Publisher": "Grove Press",
+            "Title": "An Untamed State",
+            "Translation": "n"
         },
         {
             "Author": "Roxane Gay",
             "Descriptor": "",
             "Genre": "Fiction (Novel)",
             "Language": "English",
-            "Pub_id": "willimantic_united¬†states",
-            "Pubdate": "",
-            "Publisher": "",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2014",
+            "Publisher": "Grove Press",
+            "Title": "An Untamed State",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Grove Press",
             "Title": "Ayiti",
-            "Translation": "y"
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Grove Press",
+            "Title": "Ayiti",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "boston_ma_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Houghton Mifflin Harcourt",
+            "Title": "The Best American Short Stories 2018",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "boston_ma_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Houghton Mifflin Harcourt",
+            "Title": "The Best American Short Stories 2018",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "los_angeles_united_states",
+            "Pubdate": "2019",
+            "Publisher": "TKO Studios",
+            "Title": "The Banks",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "los_angeles_united_states",
+            "Pubdate": "2019",
+            "Publisher": "TKO Studios",
+            "Title": "The Banks",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "los_angeles_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Archaia",
+            "Title": "The Sacrifice of Darkness",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roxane Gay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "los_angeles_united_states",
+            "Pubdate": "2020",
+            "Publisher": "Archaia",
+            "Title": "The Sacrifice of Darkness",
+            "Translation": "n"
         }
     ],
     "rmais": [
