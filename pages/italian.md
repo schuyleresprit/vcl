@@ -23,7 +23,6 @@ Represented here are the authors who have written works in Italian. Some of thes
         </div>
 		<div id="data-container" class="row">
 		</div>
-	</div>
 <script>
 		$( document ).ready(function() {
 			//Set triggers
