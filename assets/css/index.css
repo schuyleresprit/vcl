@@ -144,8 +144,15 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
     padding: 15px 0;
 }
 
+div#data-container {
+    padding: 13px 0;
+}
 .individual_language {
     margin: 30px 0;
+}
+
+input#search-box {
+    margin-top: 20px;
 }
 
 .individual_language .col-sm-10 {
