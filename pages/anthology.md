@@ -26,9 +26,6 @@ Represented here are the the texts in the dataset representative of the genre or
 <html>
 <body>
 	<div class="container">
-		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
-		</div>
 		<div id="data-container" class="row">
 		</div>
 	</div>
