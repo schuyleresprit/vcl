@@ -12,16 +12,15 @@ permalink: /Greek/
 </div>
 <div class="col-sm-10">
 <div class="page_title"><h3>Greek</h3></div>
-
 Represented here are the authors who have written works in Greek. Some of these may be texts translated into Greek from other languages.
-
-<html>
-<body>
 	<div class="container">
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
 		</div>
         </div>
+		<div>
+<h5>Return to <a href="{% link pages/languages.md %}">Languages</a></h5>
+		</div>
 		<div id="data-container" class="row">
 		</div>
 	</div>
@@ -81,10 +80,7 @@ Represented here are the authors who have written works in Greek. Some of these 
 			});
 		}
 	</script>
-</body>
-</html>
-</div>
-</div>
 <div class="col-sm-1">
 </div>
-
+</div>
+</div>
