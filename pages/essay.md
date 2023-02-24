@@ -12,11 +12,7 @@ permalink: /Essay/
 </div>
 <div class="col-sm-10">
 <div class="page_title"><h3> Essay</h3></div>
-
 Represented here are the the texts in the dataset representative of the genre or category 'Essay'.
-
-<html>
-<body>
 	<div class="container">
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
@@ -33,7 +29,6 @@ Represented here are the the texts in the dataset representative of the genre or
 			//Populate page
 			setTimeout(showCategory, 1000);
 		});
-
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
@@ -81,12 +76,8 @@ Represented here are the the texts in the dataset representative of the genre or
 			});
 		}
 	</script>
-</body>
-</html>
 </div>
 </div>
 <div class="col-sm-1">
-</div>
-</div>
 </div>
 </div>
