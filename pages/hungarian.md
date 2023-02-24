@@ -22,9 +22,11 @@ Represented here are the authors who have written works in Hungarian. Some of th
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
 		</div>
         </div>
+		<div>
+<h5>Return to <a href="{% link pages/languages.md %}">Languages</a></h5>
+		</div>
 		<div id="data-container" class="row">
 		</div>
-	</div>
 	<script>
 		$( document ).ready(function() {
 			//Set triggers
@@ -83,6 +85,6 @@ Represented here are the authors who have written works in Hungarian. Some of th
 	</script>
 </body>
 </html>
-
+</div>
 
 
