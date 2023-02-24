@@ -12,14 +12,13 @@ permalink: /French/
 </div>
 <div class="col-sm-10">
 <div class="page_title"><h3> French</h3></div>
-
 Represented here are the authors who have written works in French. Some of these may be texts translated into French from other languages.
-
-<html>
-<body>
 	<div class="container">
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
+		</div>
+		<div>
+<h5>Return to <a href="{% link pages/languages.md %}">Languages</a></h5>
 		</div>
         </div>
 		<div id="data-container" class="row">
@@ -81,9 +80,7 @@ Represented here are the authors who have written works in French. Some of these
 			});
 		}
 	</script>
-</body>
-</html>
-</div>
-</div>
 <div class="col-sm-1">
+</div>
+</div>
 </div>
