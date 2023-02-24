@@ -12,10 +12,7 @@ permalink: /Poem/
 </div>
 <div class="col-sm-10">
 <div class="page_title"><h3> Poem</h3></div>
-
 Represented here are the the texts in the dataset representative of the genre or category 'Poem'.
-<html>
-<body>
 	<div class="container">
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for an author">
@@ -23,13 +20,7 @@ Represented here are the the texts in the dataset representative of the genre or
 		<div id="data-container" class="row">
 		</div>
 	</div>
-
-<html>
-<body>
 	<div class="container">
-		<div class="input-group mb-3">
-			<input id="search-box" type="text" class="form-control" placeholder="Search for a an author">
-		</div>
 		<div id="data-container" class="row">
 		</div>
 	</div>
@@ -89,10 +80,7 @@ Represented here are the the texts in the dataset representative of the genre or
 			});
 		}
 	</script>
-</body>
-</html>
-</div>
-</div>
 <div class="col-sm-1">
 </div>
-
+</div>
+</div>
