@@ -45,24 +45,93 @@ permalink: /mcollins/
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/5119XgTVqOL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
                 Language: Fiction<br/>
-                Publisher: The Women's Press<br/>
+                Publisher: The Women's Press Ltd.<br/>
                 Publisher Location: London, England<br/>
-                Genre: Fiction<br/>
+                Genre: Fiction (Novel)<br/>
                 Length: 256 </p>
             </div>
         </div>
-        <div class="block">
+<div class="block">
+            <div class="date left"><p class="left">1990</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Rain Darling</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517116638i/1407355.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: The Women's Press Ltd.<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 184 <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">1992</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Rotten Pomerack</h1><hr>
+                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxp2YfhiWwk5y3OaJDhq06kZE4UG0LMRJ1qARj6tJNLINf3l-N" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Virago Press Ltd.<br/>
+                Pub_location: London, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 77<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">1995</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Colour Of Forgetting</h1><hr>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6kNaQ_U26vafLlSXyByXNVtH43gp_fPzJQxS1iIWBEzvrCgN" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Virago Press Ltd<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 240<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">1999</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Lady in a Boat</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41P7V6RCK3L._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Peepal Tree Press Ltd.<br/>
+                Pub_location: Leeds, LDN, England<br/>
+                Genre: Poetry Collection<br/>
+                Length: 95<br/>                   </p>
+            </div>
+        </div><div class="block">
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="right">
                 <h1>The Ladies are Upstairs</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51wXWnoI7vL._SX326_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51wXWnoI7vL._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, LDN, England<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 160<br/>                   </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>The Governor's Story: The Authorized Biography of Dame Hilda Bynoe</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51p3d76xE4L._SX324_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
                 Publisher Location: Leeds, LDN, England<br/>
-                Genre: Fiction (Short Stories)<br/>
-                Length: 155    </p>
+                Genre: Biography<br/>
+                Length: 156</p>
             </div>
         </div>
 </div>
