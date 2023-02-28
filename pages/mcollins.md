@@ -29,7 +29,7 @@ permalink: /mcollins/
                 <h1>Because the Dawn Breaks!</h1><hr><br/>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51yWbzYBoHL._SX363_BO1,204,203,200_.jpg"></p><br/>
                 <p>
-                Language: Englsih<br/>
+                Language: English<br/>
                 Publisher: Karia Press<br/>
                 Publisher Location: London, England<br/>
                 Genre: Poetry Collection<br/>
@@ -44,7 +44,7 @@ permalink: /mcollins/
                 <h1>Angel</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/5119XgTVqOL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Language: Fiction<br/>
+                Language: English<br/>
                 Publisher: The Women's Press Ltd.<br/>
                 Publisher Location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
