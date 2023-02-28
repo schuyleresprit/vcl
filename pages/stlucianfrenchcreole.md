@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Vietnamese
-permalink: /Vietnamese/
+title: Spanish
+permalink: /St. Lucian French Creole/
 ---
 
 <div class="individual_language">
@@ -11,8 +11,12 @@ permalink: /Vietnamese/
 <div class="col-sm-1">
 </div>
 <div class="col-sm-10">
-<div class="page_title"><h3>Vietnamese</h3></div>
-Represented here are the authors who have written works in Vietnamese. Some of these may be texts translated into Vietnamese from other languages.
+<div class="page_title"><h3>St. Lucian French Creole</h3></div>
+
+Represented here are the authors who have written works in St. Lucian French Creole. Some of these may be texts translated into St. Lucian French Creole from other languages.
+
+<html>
+<body>
 	<div class="container">
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
@@ -20,7 +24,6 @@ Represented here are the authors who have written works in Vietnamese. Some of t
 		<div>
  <h5>Return to <a href="{% link pages/languages.md %}">Languages</a></h5>
 		</div>
-        </div>
 		<div id="data-container" class="row">
 		</div>
 	</div>
@@ -36,7 +39,7 @@ Represented here are the authors who have written works in Vietnamese. Some of t
 		function showCategory (filter = "") {
 			$('#data-container').html('');
 			filter = filter.trim();
-			$.getJSON("{{ site.baseurl }}/data/vietnamese.json", function (data) {
+			$.getJSON("{{ site.baseurl }}/data/slucreole.json", function (data) {
 				let cards = [];
 				for (const [key, value] of Object.entries(data)) {
 					if (filter == "" && value.length > 0) {
@@ -80,9 +83,10 @@ Represented here are the authors who have written works in Vietnamese. Some of t
 			});
 		}
 	</script>
-
+</body>
+</html>
 </div>
 </div>
 <div class="col-sm-1">
 </div>
-</div>
+
