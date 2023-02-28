@@ -1,9 +1,13 @@
-Jacques Stephen Alexis,jsalexis,haiti,,,,,,,,,
-authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
-jsalexis,Romancero Aux Etoiles Contes,1960,French,Gallimard,Paris,France,paris_france,Fiction (Short Story Collection),n,,
+Jacques Stephen Alexis,jsalexis,Haiti,,,,,,,,,
+,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,Length,Descriptor
+jsalexis,Compère Général Soleil,1955,French,Gallimard,Paris,France,paris_france,Fiction (Novel),n,364,
+jsalexis,Les Arbres Musiciens,1957,French,Gallimard,Paris,France,paris_france,Fiction (Novel),n,400,
+jsalexis,General Slonce,1958,Polish,Czytelnik,Warszawa,Poland,warszawa_poland,Fiction (Novel),y,423,
+jsalexis,L'Espace D'un Cillement,1959,French,Gallimard,Paris,France,paris_france,Fiction (Novel),n,352,Translators: Carrol F. Coates and Edwidge Danticat
+jsalexis,Romancero Aux Etoiles Contes,1960,French,Gallimard,Paris,France,paris_france,Fiction (Short Story Collection),n,280,
+jsalexis,Generál Slunce,1963,Czech,SNKLU,Praha,Czech Republic,praha_czech_republic,Fiction (Novel),y,294,
+jsalexis,El Compadre General Sol,1974,Spanish,Casa de las Americas,Havana,Cuba,havana_cuba,Fiction (Novel),y,448,
+jsalexis,General Sonne: Roman Aus Haiti,1985,German,Lamuv Verlag,Bornheim,Germany,bornheim_germany,Fiction (Novel),y,420,
 jsalexis,Mi Compadre El General Sol,1987,Spanish,Editora Taller,Santo Domingo,Dominican Republic,santo_domingo_dominican_republic,Fiction (Novel),y,296,
-jsalexis,General Sonne: Roman Aus Haiti,1985,German,Lamuv Verlag,Bornheim,Germany,bornheim_germany,Fiction (Novel),y,,
-jsalexis,El Compadre General Sol,1974,Spanish,Casa de las Americas,Havana,Cuba,havana_cuba,Fiction (Novel),y,,
-jsalexis,General Slonce,1958,Polish,Czytelnik,Warszawa,Poland,warszawa_poland,Fiction (Novel),y,,
-jsalexis,Generál Slunce,1963,Czech,SNKLU,Praha,Czech Republic,praha_czech_republic,Fiction (Novel),y,,
-jsalexis,L'étoile Absinthe: Suivi De Le Léopard,2017,French,Zulma,Paris,France,paris_fr_france,Fiction (Novel),n,,
+jsalexis,"General Sun, My Brother",1999,English,University of Virginia Press,Virginia,United States,,Fiction (Novel),y,299,
+jsalexis,L'étoile Absinthe: Suivi De Le Léopard,2017,French,Zulma,Paris,France,paris_france,Fiction (Novel),n,160,
