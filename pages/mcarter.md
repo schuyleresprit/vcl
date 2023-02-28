@@ -30,7 +30,7 @@ permalink: /mcarter
                 <p>
                 Language: English<br/>
                 Publisher: Miniature Poets<br/>
-                Pub_location: Georgetown, British Guiana<br/>
+                Pub_location: Georgetown, Guyana<br/>
                 Genre: Poems<br/>
                 Length: 14<br/>                   </p>
             </div>
@@ -70,17 +70,17 @@ permalink: /mcarter
                 <h1>Poems of Resistance from British Guiana</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=KShLAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72lTXuKO64GyMVaINdcC0HRCf8lKzPJevLKuRlU12m55xc0hNA-5EUrevA3B2yUp3SBoRY5QOKgXivM54PbJ2JZnZ3wAPRFRiwSo8-T8bmCKsvf7do9TBK9IemzWlDGRYGMPUbC" height="50%" width = "50%"></p>
                 <p>
-                Language: England<br/>
+                Language: English<br/>
                 Publisher: Lawrence and Wishart<br/>
                 Pub_location: London, England<br/>
-                Genre: Poetry<br/>
+                Genre: Poetry Collecttion<br/>
                 Length: 18<br/>                   </p>
             </div>
         </div><div class="block">
             <div class="date left"><p class="left">1955</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1> Poems of Shape and Motion</h1><hr>
+                <h1>Poems of Shape and Motion</h1><hr>
                 <p><img src="" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
