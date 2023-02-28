@@ -26,7 +26,6 @@ Represented here are the authors who have written works in Romanian. Some of the
         </div>
 		<div id="data-container" class="row">
 		</div>
-	</div>
 <script>
 		$( document ).ready(function() {
 			//Set triggers
