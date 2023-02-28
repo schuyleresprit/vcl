@@ -21,10 +21,12 @@ Represented here are the authors who have written works in Latvian. Some of thes
 		<div class="input-group mb-3">
 			<input id="search-box" type="text" class="form-control" placeholder="Search for a title or author">
 		</div>
+			<div>
+ <h5>Return to <a href="{% link pages/languages.md %}">Languages</a></h5>
+		</div>
         </div>
 		<div id="data-container" class="row">
 		</div>
-	</div>
 	<script>
 		$( document ).ready(function() {
 			//Set triggers
