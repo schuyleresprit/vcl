@@ -270,6 +270,22 @@ permalink: /4/
       </div>
     </div>
   </div>
+<div id="post-14" class="vesti-col timeline-post">
+    <div class="vesti-content-wrapper">
+      <div class="photo">
+        <img src="https://www.miamibookfair.com/wp-content/uploads/2017/10/philp_geoffrey.jpg" width="50%" height="50%">
+        <div class="vesti-date-wrapper">
+     <div class="vesti-date">
+        </div>
+      </div>
+    </div>
+      <div class="vesti-desc">
+        <a class="desc-a" href="#">
+          <h4><a href="{{ site.baseurl }}/gphilp/">Geoffrey Philp</a></h4>
+        </a>
+      </div>
+    </div>
+  </div>
 <div id="post-15" class="vesti-col timeline-post">
     <div class="vesti-content-wrapper">
       <div class="photo">
