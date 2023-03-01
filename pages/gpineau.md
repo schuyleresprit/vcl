@@ -22,9 +22,9 @@ permalink: /gpineau/
             </div>
             </div>
         <div class="block">
-            <div class="date right"><p class="right">1992</p></div>
+            <div class="date left"><p class="left">1992</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Un papillon dans la cité</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ivFMH+9aL._SX299_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
@@ -35,9 +35,9 @@ permalink: /gpineau/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1993</p></div>
+            <div class="date right"><p class="right">1993</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Drifting of Spirits </h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41BR38YE6BL._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
@@ -48,9 +48,9 @@ permalink: /gpineau/
             </div>
         </div>
               <div class="block">
-            <div class="date right"><p class="right">1995</p></div>
+            <div class="date left"><p class="left">1995</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Macadam Dreams</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Am0oZHTgL._SX322_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br/>
@@ -61,9 +61,9 @@ permalink: /gpineau/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1996</p></div>
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>L'Exil Selon Julia</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41tGwr57UxL._SX307_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -75,9 +75,9 @@ permalink: /gpineau/
             </div>
         </div>
          <div class="block">
-            <div class="date right"><p class="right">1998</p></div>
+            <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Le cyclone Marilyn</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51K6uoWgiIL._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
@@ -88,9 +88,9 @@ permalink: /gpineau/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2002</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>Devil's Dance</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31tj5PBIQBL._SX294_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -102,9 +102,9 @@ permalink: /gpineau/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2006</p></div>
+            <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right hide">
                 <h1>C'est La Règle</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51snncmn0xL._SX210_.jpg"></p>
                 <p>
@@ -116,9 +116,9 @@ permalink: /gpineau/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">20014</p></div>
+            <div class="date right"><p class="right">20014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>A Taste of Eternity: A Novel</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/514473ztMxL._SX304_BO1,204,203,200_.jpg"></p>
                 <p>
