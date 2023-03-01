@@ -57,7 +57,8 @@ permalink: /63/
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="{{ site.baseurl }}/rgeorges/">Richard Georges</a></h4>
-     </div>
-   </div>
- </div>
+          </a>
+        </div>
+      </div>
+    </div>
 <!-- partial -->
