@@ -183,7 +183,7 @@ permalink: /gphilp/
             <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Marcus and the Amazons <  
+                <h1>Marcus and the Amazons</h1><hr> 
                 <p><img src="https://m.media-amazon.com/images/I/51qnSolDbJL._SY344_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Mabrak Books<br>
