@@ -42,7 +42,7 @@ permalink: /gpineau/
                 <p><img src="https://m.media-amazon.com/images/I/41BR38YE6BL._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
                 Publisher: Quartet Books<br/>
-                Pub_location: London, United Kingdom<br/>
+                Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 240</p>
             </div>
