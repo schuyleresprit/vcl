@@ -45,5 +45,20 @@ permalink: /63/
        </a>
      </div>
    </div>
+   <div id="post-3" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://i0.wp.com/preelit.com/wp-content/uploads/2018/04/mfg_richardgeorges-30-edit-lo.jpg?fit=876%2C1313&ssl=1" width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="{{ site.baseurl }}/rgeorges/">Richard Georges</a></h4>
+       </a>
+     </div>
+   </div>
  </div>
 <!-- partial -->
