@@ -180,68 +180,16 @@ permalink: /gphilp/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Grandpa Sydney's Anancy Stories</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41q7wlle2YL._SY344_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br>
-                Publisher: Mabrak Books<br>
-                Publisher Location: Miami, FL, United States<br>
-                Genre: Fiction<br>
-                Length: 60<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
                 <h1>Marcus and the Amazons <  
                 <p><img src="https://m.media-amazon.com/images/I/51qnSolDbJL._SY344_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Mabrak Books<br>
-       lisher Location: Leeds, LDN, England<br>
+                Publisher Location: Leeds, LDN, England<br>
                 Genre: Anthology<br>
                 Length: 160<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Dub Wise</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51hlmlwvoyL._SY344_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br>
-                Publisher: Peepal Tree Press Ltd<br>
-                Publisher Location: Leeds, LDN, England<br>
-                Genre: Poetry Collection<br>
-                Length: 72<br></p>
-            </div>
-        </div>
-        </div> <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Bob Marley and Bradford's iPod</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/514SfLSRrNL._SY346_.jpg"></p>
-                <p>Language: English<br>
-                Publisher: Mabrak Books<br>
-                Publisher Location: Miami, FL, United States<br>
-                Genre: Non Ficction<br>
-                Length: 18<br></p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date left"><p class="left">2011</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Marcus and the Amazons </h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51yThEl7PdL._SX260_.jpg"></p>
-                <p>Language: English<br>
-                Publisher: Mabrak Books<br>
-                Publisher Location: Miami, FL, United States<br>
-                Genre: Fiction<br>
-                Length: 94<br></p>
             </div>
         </div>
         <div class="block">
