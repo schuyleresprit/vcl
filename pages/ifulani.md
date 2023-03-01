@@ -97,7 +97,7 @@ permalink: /ifulani/
             <div class="dot"></div>
             <div class="left">
                 <h1>"Gender Conflict and Community in Gayle Jones' 'Corregidora' and Jamaica Kincaid's 'Lucy"</h1><hr>
-                <p><img src="https://www.publishersweekly.com/cover/9780863162480" height="50%" width = "50%"></p>
+                <p><img src="https://www.jstor.org/page-scan-delivery/get-page-scan/10.5250/fronjwomestud.32.2.0001/0" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
 	    Found In: Frontiers: A Journal of Women Studies, Vol. 32, No. 2 (2011)
