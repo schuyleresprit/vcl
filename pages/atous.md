@@ -12,13 +12,13 @@ permalink: /atous/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">b. 1954 </p></div>
+            <div class="date right"><p class="right">b. Unknown</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Adriana Tous is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Nicolás_Guillén" target="_blank">Read more</a></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>

@@ -7,17 +7,17 @@ permalink: /aparadis/
 <div class="content">
     <h1>André Paradis</h1>
     <div class="quote">
-        <div><img src="http://voyagela.com/wp-content/uploads/2020/05/personal_photo-377-190x300.jpg" class="logo"></div>
+        <div><img src="https://ile-en-ile.org/wp-content/uploads/2007/07/paradis.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">1916-2007</p></div>
+            <div class="date right"><p class="right">b. 1939</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>André Paradis is from <a href="{{ site.baseurl }}/17">France.</a></p> </div>
+          <div class="aclocation">  <p>André Paradis is from <a href="{{ site.baseurl }}/62">Guyana.</a>(Born in France)</p> </div>
               <div class="acreadmore">  <a href="https://fr.wikipedia.org/wiki/André_Paradis_(écrivain)" target="_blank">Read more</a> </div>
             </div>
             </div>
