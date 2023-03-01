@@ -33,6 +33,22 @@ permalink: /29/
   <div id="post-2" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gis%C3%A8le_Pineau_%282018%29.jpg/330px-Gis%C3%A8le_Pineau_%282018%29.jpg" width="80%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="{{ site.baseurl }}/gpineau/">Gisèle Pineau</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-3" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
        <img src="https://www.bedetheque.com/media/Photos/Photo_42568.jpg" width="80%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
@@ -46,7 +62,7 @@ permalink: /29/
      </div>
    </div>
  </div>
- <div id="post-3" class="vesti-col timeline-post">
+ <div id="post-4" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://static01.nyt.com/images/2020/05/17/books/review/17Torres-PRINT/Torres2-1-mediumSquareAt3X.jpg" width="80%">
@@ -62,7 +78,7 @@ permalink: /29/
      </div>
    </div>
  </div>
-<div id="post-4" class="vesti-col timeline-post">
+<div id="post-5" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="http://ile-en-ile.org/wp-content/uploads/2003/10/warner-vieyra.jpg" width="80%">
@@ -78,7 +94,7 @@ permalink: /29/
      </div>
    </div>
  </div>
- <div id="post-5" class="vesti-col timeline-post">
+ <div id="post-6" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Saint-John_Perse_1960.jpg" width="80%">
