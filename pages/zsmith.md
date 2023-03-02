@@ -22,21 +22,6 @@ permalink: /zsmith/
             </div>
             </div>
         <div class="block">
-            <div class="date left"><p class="left">2003</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Sourires De Loup</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41nBcqMoN5L._SX302_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
-                <p>
-    	    Co-Author: Claude Demanuelli
-                Language: French<br/>
-                Publisher: Gallimard<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 738<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -51,9 +36,9 @@ permalink: /zsmith/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2016</p></div>
+            <div class="date right"><p class="right">2016</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>De La Beauté</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41GZakDpueL._SX302_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -81,9 +66,9 @@ permalink: /zsmith/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>White Teeth</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51kYGxXkUIL._SX324_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -110,9 +95,9 @@ permalink: /zsmith/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Zähne Zeigen Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51ZK4pvjR0L._SY264_BO1,204,203,200_QL40_ML2_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -139,9 +124,9 @@ permalink: /zsmith/
             </div>
         </div>
       <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>NW</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/9/9d/NWbookcover.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -168,9 +153,9 @@ permalink: /zsmith/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>On Beauty</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598196388i/3679.jpg" height="50%" width = "50%"></p>
                 <p>
