@@ -279,7 +279,7 @@ permalink: /zelliott/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Say Her Name</h1><hr>
-                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiyWMMaP750S_3HnbE5I9w_jCY1rY-ijFflvoFplWY9F_s3abJ" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51-lRcfY4vL._SX258_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Hyperion Books for Children<br/>
