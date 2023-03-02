@@ -7,7 +7,7 @@ permalink: /ycharara/
 <div class="content">
     <h1>Youmna Charara</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /ycharara/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Roman et Politique : Approche Sérielle et Intertextuelle du Roman des Lumières</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/P/2745310488.01.MZZZZZZZ.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/P/2745310488.01.MZZZZZZZ.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French<br>
                 Publisher: L'Harmattan<br>
@@ -41,7 +41,7 @@ permalink: /ycharara/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Fictions Coloniales du XVIIIe Siècle: Ziméo</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31%2BuAbKEnJL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31%2BuAbKEnJL._SY291_BO1,204,203,200_QL40_ML2_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French<br>
                 Publisher: L'Harmattan<br>
