@@ -32,9 +32,38 @@ permalink: /zcompagnie/
                 Language: French<br>
                 Publisher: Ibis Rouge<br>
                 Publisher Location: Matoury, French Guiana<br>
-                Genre: Fiction<br>
+                Genre: Fiction (Short Story Collection)<br>
                 Length: 93<br>
                 </p>
+            </div>
+        </div>
+ <div class="block">
+            <div class="date right"><p class="right">2016</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Les Contes de Peter Pian</h1><hr>
+                <p><img src="https://zoukouyanyan.com/wp-content/uploads/2019/05/couv_peter-pian.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Zoukouyanyan Compagnie<br/>
+                Pub_location: Cayenne, French Guiana<br/>
+                Genre: Drama<br/>
+                Length: 30<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2016</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Les Contes du PriPri</h1><hr>
+                <p><img src="https://zoukouyanyan.com/wp-content/uploads/2019/05/Affiche-Pripri-couleur-web.jpg" height="50%" width = "50%"></p>
+                <p>
+		    Authors:  David Mérour and Nicoby<br/>                
+		    Language: French<br/>
+                Publisher: Zoukouyanyan Compagnie<br/>
+                Pub_location: Cayenne, French Guiana<br/>
+                Genre: Drama<br/>
+                Length: 30<br/>                   </p>
             </div>
         </div>
   <!-- partial -->
