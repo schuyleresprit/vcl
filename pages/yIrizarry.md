@@ -35,7 +35,19 @@ permalink: /yIrizarry/
                 Length: NA</p>
             </div>
         </div>
-        <div style="padding-bottom:100px;"></div>
+      <div class="block">
+            <div class="date right"><p class="right">2016</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Chicana/o and Latina/o Fiction: The New Memory of Latinidad</h1><hr>
+                <p><img src="https://www.press.uillinois.edu/books/images/9780252039911_lg.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: University of Illinois Press<br/>
+                Pub_location: Illinois, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 280 <br/>                   </p>
+            </div>
     </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
