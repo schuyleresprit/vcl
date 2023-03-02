@@ -26,13 +26,13 @@ permalink: /ycharara/
             <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Roman et politique : approche sérielle et intertextuelle du roman des Lumières</h1><hr>
+                <h1>Roman et Politique : Approche Sérielle et Intertextuelle du Roman des Lumières</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/P/2745310488.01.MZZZZZZZ.jpg"></p>
                 <p>
                 Language: French<br>
                 Publisher: L'Harmattan<br>
                 Publisher Location: Paris, France<br>
-                Genre: Non Fiction<br>
+                Genre: NonFiction Book<br>
                 Length: 506</p>
             </div>
         </div>
@@ -46,9 +46,38 @@ permalink: /ycharara/
                 Language: French<br>
                 Publisher: L'Harmattan<br>
                 Publisher Location: Paris, France<br>
-                Genre: Fiction<br>
+                Genre: Fiction (Novel)<br>
                 Length: 354</p>
             </div>
         </div>
+ <div class="block">
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Oroonoko</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9782081211339-uk.jpg" height="50%" width = "50%"></p>
+                <p>
+                Co-Authors: Aphra Behn; Guillame Villeneuve<br/>
+		    Language: French<br/>
+                Publisher: Flammarion Publishing<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 219 <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">2020</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>BiblioLycée - Lettres Persanes, Montesquieu</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9782017120995-uk.jpg" height="50%" width = "50%"></p>
+                <p>
+                Co-Authors: Charles-Louis de Secondat Montesquieu; Laurence Teper<br/>
+		    Language: French<br/>
+                Publisher: Hachette Education<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 400<br/>                   </p>
+            </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
