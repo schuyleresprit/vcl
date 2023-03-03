@@ -82,8 +82,7 @@ Initially, I had very little knowledge about Caribbean Literature. I only knew t
 <div class="col-sm-4">
 <h5>Zervita Charles</h5>
 <p>
-During this time, not only did I realise that there were few children’s books, but I also realized that they were mostly fiction novels and short story collections. Upon seeing this, I took it upon myself to research more about the genres found in Children’s literature as well as the most popular genres.
-</p>
+During this time, not only did I realise that there were few children’s books, but I also realized that they were mostly fiction novels and short story collections. 
 <br>
 <a href="{{ site.baseurl }}/zervitareflect/">Read More </a>
 </p>
