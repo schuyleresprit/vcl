@@ -7,7 +7,7 @@ permalink: /elisereflect/
 <div class="content">
      <h1>Élise Annaiel Valerie</h1>
     <div class="quote">
-        <div><img src="https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2022/04/IMG_6010-scaled.jpg?resize=1153%2C1536&ssl=1" height="50%" width = "50%" class="logo"></div>
+        <div><img src="{{ site.baseurl }}/assets/img/elise.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
