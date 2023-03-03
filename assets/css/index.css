@@ -211,6 +211,19 @@ footer p:last-child {
     background: #cfd1d0 !important;
 }
 
+.homebutton {
+    margin: 40px 0;
+	text-align: center;
+}
+
+.homebutton a {
+    color: #fff;
+    background: #198754;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-weight: 600;
+}
+
 /**** MEDIA RULES****/
 
 @media screen and (min-width: 300px) {
