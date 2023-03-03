@@ -20,7 +20,7 @@ Visualizing Caribbean Literature builds on existing work in Caribbean digital li
 Visualizing Caribbean Literature aims to contribute to and open the way for further critical engagement with Caribbean literary history, including teaching of literature in primary and secondary contexts.  Moreover, in visualizing the breadth and depth of Caribbean literary production, the project invites the engagement of readers and the broader conversation around literary reception as a key component of its contribution to Caribbean Studies and digital humanities.
 
 <div class="homebutton">
-<a href="#"> Call for Reviewers</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeJvZjv5_0cf6stAVnc8no1uGWX0pxgQhFYQH7ZZ5ckugQKcQ/viewform" target="_blank"> Call for Reviewers</a>
 </div>
 
 
