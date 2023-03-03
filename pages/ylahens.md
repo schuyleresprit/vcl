@@ -21,7 +21,35 @@ permalink: /ylahens/
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Yanick_Lahens" target="_blank">Read more</a></div>
             </div>
             </div>
-        <div class="block">
+<div class="block">
+            <div class="date left"><p class="left">1994</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Aunt Resia And The Spirits And Other Stories</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51d-LjKDXYL._SX322_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: University of Virginia Press<br/>
+                Pub_location: Charlottesville, VA, United States<br/>
+                Genre: Fiction (Short Story Collection)<br/>
+                Length: 224<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2015</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>La Petite Corruption: Nouvelles</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51mVyJ40koL._SX322_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Legs Édition<br/>
+                Pub_location: Port-au-Prince, Haiti<br/>
+                Genre:Fiction (Novel) <br/>
+                Length: 106<br/>                   </p>
+            </div>
+        </div>        
+<div class="block">
             <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -31,6 +59,62 @@ permalink: /ylahens/
                 Language: German<br/>
                 Publisher: Zürich Rotpunktverl<br/>
                 Pub_location: Zürich, Switzerland<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 160<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2005</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Dans La Maison Du Père : Roman</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/31p5KdzXO2L._SX380_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Wespieser<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 177<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2008</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Colour Of Dawn</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51PZLheIUbL._SX250_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Seren<br/>
+                Pub_location: Bridgend, Wales<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 160<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2008</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>La Couleur De L'aube</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/31FXi6+6+dL._SX381_BO1,204,203,200_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Sabine Wespieser Éditeur<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 218<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2010</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Failles: Recit</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31k3VUXlrWL._SX195_.jpg"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Sabine Wespieser Éditeur<br/>
+                Pub_location: Paris, France<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 160<br/>                   </p>
             </div>
@@ -49,21 +133,7 @@ permalink: /ylahens/
                 Length: 180<br/>                   </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Aunt Resia And The Spirits And Other Stories</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51d-LjKDXYL._SX322_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: University of Virginia Press<br/>
-                Pub_location: Charlottesville, VA, United States<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 224<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
+      <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -78,48 +148,20 @@ permalink: /ylahens/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">2013</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>The Colour Of Dawn</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51PZLheIUbL._SX250_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Seren<br/>
-                Pub_location: Bridgend, Wales<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 160<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Dans La Maison Du Père : Roman</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/31p5KdzXO2L._SX380_BO1,204,203,200_.jpg"></p>
+                <h1>Moonbath</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51mDXJDGaML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
-                Language: French<br/>
-                Publisher: Wespieser<br/>
-                Pub_location: Paris, France<br/>
+                Language:English <br/>
+                Publisher: Deep Vellum Publishing<br/>
+                Pub_location: Dallas, TX, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 177<br/>                   </p>
+                Length: 216<br/>                   </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>La Petite Corruption: Nouvelles</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51mVyJ40koL._SX322_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: French<br/>
-                Publisher: Legs Édition<br/>
-                Pub_location: Port-au-Prince, Haiti<br/>
-                Genre:Fiction (Novel) <br/>
-                Length: 106<br/>                   </p>
-            </div>
-        </div>
-  <div class="block">
+     <div class="block">
             <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -131,20 +173,6 @@ permalink: /ylahens/
                 Pub_location: Haiti, Port-au-Prince<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 132<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">2016</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>La Couleur De L'aube</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/31FXi6+6+dL._SX381_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: French<br/>
-                Publisher: Sabine Wespieser Éditeur<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 218<br/>                   </p>
             </div>
         </div>
        <div class="block">
@@ -162,35 +190,7 @@ permalink: /ylahens/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>Failles: Recit</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31k3VUXlrWL._SX195_.jpg"></p>
-                <p>
-                Language: French<br/>
-                Publisher: Sabine Wespieser Éditeur<br/>
-                Pub_location: Paris, France<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 160<br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date right"><p class="right">2017</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
-                <h1>Moonbath</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51mDXJDGaML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
-                <p>
-                Language:English <br/>
-                Publisher: Deep Vellum Publishing<br/>
-                Pub_location: Dallas, TX, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 216<br/>                   </p>
-            </div>
-        </div>
-       <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Bano De Luna</h1><hr>
@@ -232,7 +232,7 @@ permalink: /ylahens/
             </div>
         </div>
       <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>L'oiseau Parker Dans La Nuit: Et Autres Nouvelles</h1><hr>
