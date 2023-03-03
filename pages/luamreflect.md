@@ -7,7 +7,7 @@ permalink: /luamreflect/
 <div class="content">
      <h1>Luam Stephenson</h1>
     <div class="quote">
-        <div><img src="https://i0.wp.com/createcaribbean.org/create/wp-content/uploads/2022/04/IMG_5977-scaled.jpg?resize=1153%2C1536&ssl=1" height="50%" width = "50%" class="logo"></div>
+        <div><img src="{{ site.baseurl }}/assets/img/luam.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
