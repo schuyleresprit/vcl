@@ -36,9 +36,9 @@ permalink: /ylahens/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
+            <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>La Petite Corruption: Nouvelles</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51mVyJ40koL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -92,9 +92,9 @@ permalink: /ylahens/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>La Couleur De L'aube</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31FXi6+6+dL._SX381_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -134,9 +134,9 @@ permalink: /ylahens/
             </div>
         </div>
       <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Und Plötzlich Tut Sich Der Boden Auf Ein Journal</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=lcOvXwAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE707aaWw9GmvAxNapc6OApBPCoUcnZJXh66zuWMBNS2qjgkwDeNCjkruNoUBBVscm-DVcFyYoVeGcS8Qkf6uAHR6e8W0g1JCMIKBF7Rz1eAsm4FAfTtjKRCHr-ZLQ-w4xiC-Ai9I"></p>
                 <p>
@@ -162,9 +162,9 @@ permalink: /ylahens/
             </div>
         </div>
      <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Folie Etait Venue Avec La Pluie Nouvelles</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41oCPZ5cMJL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
