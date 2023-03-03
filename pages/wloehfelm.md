@@ -26,7 +26,7 @@ permalink: /wloehfelm/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The House That Jack Built</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUiQYtR4_3oQ8aL0BJf1TL-FU05iPrUy27KTRdgIM&s" height="50%" width = "50%"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUiQYtR4_3oQ8aL0BJf1TL-FU05iPrUy27KTRdgIM&s"></p>
                 <p>
                 Language: English<br/>
                 Publisher: University of New Orleans Theses and Dissertations<br/>
