@@ -23,24 +23,9 @@ permalink: /wbennett/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1976</p></div>
+            <div class="date left"><p class="left">1950</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Message(s) - From Wycliffe Bennett, Chairman-Director General of CARIFESTA</h1><hr>
-                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
-                <p>
-                Language: English<br>
-                Publisher: The Jamaica Daily News<br>
-                Publisher Location: Kingston, Jamaica<br>
-                Genre: Biography<br>
-                Length: NA<br>
-                </p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">1950</p></div>
-            <div class="dot"></div>
-            <div class="left hide">
                 <h1>Anthology of the Poetry of the West Indies</h1><hr>
                 <p><img src="https://ufdcimages.uflib.ufl.edu/CA/01/30/00/05/00001/00001.jpg"></p>
                 <p>
@@ -49,6 +34,21 @@ permalink: /wbennett/
                 Publisher Location: Kingston, Jamaica<br>
                 Genre: Poetry Collection<br>
                 Length: 221<br>
+                </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1976</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Message(s) - From Wycliffe Bennett, Chairman-Director General of CARIFESTA</h1><hr>
+                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
+                <p>
+                Language: English<br>
+                Publisher: The Jamaica Daily News<br>
+                Publisher Location: Kingston, Jamaica<br>
+                Genre: Biography<br>
+                Length: NA<br>
                 </p>
             </div>
         </div>
