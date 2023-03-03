@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "Luam Stephenson"
+title: "Zervita Charles"
 permalink: /zervitareflect/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
      <h1>Zervita Charles</h1>
     <div class="quote">
-        <div><img src="#" height="50%" width = "50%" class="logo"></div>
+        <div><img src="{{ site.baseurl }}/assets/img/zervita.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
