@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: " Tami Charles"
+title: "Tami Charles"
 permalink: /tcharles/
 ---
 <!-- partial:index.partial.html -->
