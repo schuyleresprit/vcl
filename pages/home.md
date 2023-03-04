@@ -19,6 +19,9 @@ Visualizing Caribbean Literature builds on existing work in Caribbean digital li
 
 Visualizing Caribbean Literature aims to contribute to and open the way for further critical engagement with Caribbean literary history, including teaching of literature in primary and secondary contexts.  Moreover, in visualizing the breadth and depth of Caribbean literary production, the project invites the engagement of readers and the broader conversation around literary reception as a key component of its contribution to Caribbean Studies and digital humanities.
 
+VCL is the product of a year-long labor of students in the RTC Internship program. These junior undergraduate students, guided by Dr. Schuyler Esprit, course instructor for Digital Humanities Research and the Founder and Director of CCRI, they have done their best research with tools including WorldCat, Internet Archive, institutional library catalogs and databases, Zotero and other collaborative research tools. But this database is not exhaustive or foolproof. We therefore welcome reviewers who are scholars or experts on authors, eras or areas within Caribbean literary studies to review content and provide feedback to improve the quality of the database and to extend its impact to users in all capacities. Use the Call for Reviewers link to register. 
+
+
 <div class="homebutton">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJvZjv5_0cf6stAVnc8no1uGWX0pxgQhFYQH7ZZ5ckugQKcQ/viewform" target="_blank"> Call for Reviewers</a>
 </div>
