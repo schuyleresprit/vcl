@@ -61,7 +61,7 @@ permalink: /waroberts/
                 Publisher: The Four Seas Company<br/>
                 Pub_location: Boston, MA, United States<br/>
                 Genre: Poetry Collection<br/>
-                Length: 80p<br/>                   </p>
+                Length: 80<br/>                   </p>
             </div>
         </div>
        <div class="block">
@@ -101,7 +101,7 @@ permalink: /waroberts/
                 Language: English<br/>
                 Publisher: Nicholson and Watson<br/>
                 Pub_location: London, England<br/>
-                Genre: <br/>
+                Genre: Fiction (Novel)<br/>
                 Length: 319<br/>                   </p>
             </div>
         </div>
@@ -247,7 +247,7 @@ permalink: /waroberts/
                 <p>Language: English<br>
 				Publisher: Negro Universities Press<br>
 				Publisher Location: New York, NY, United States<br>
-				Genre: Nonfiction<br>
+				Genre: Nonfiction Book<br>
 				Length: 361</p>
             </div>
         </div>
@@ -260,7 +260,7 @@ permalink: /waroberts/
                 <p>Language: English<br>
 				Publisher: The Bobbs-Merrill Company<br>
 				Publisher Location: Indianapolis, IN, United States<br>
-				Genre: Nonfiction<br>
+				Genre: Nonfiction Book<br>
 				Length: 355</p>
             </div>
         </div>
@@ -275,7 +275,7 @@ permalink: /waroberts/
                 Language: English<br>
 				Publisher: The Bobbs-Merrill Company<br>
 				Publisher Location: Indianapolis, IN, United States<br>
-				Genre: Nonfiction<br>
+				Genre: Nonfiction Book<br>
 				Length: 313</p>
             </div>
         </div>
@@ -286,7 +286,7 @@ permalink: /waroberts/
                 <h1>New Ships: An Anthology of West Indian Verse</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/412H0YYN40L._SX309_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
-                Language: <br/>
+                Language: English<br/>
                 Publisher: Oxford University Press<br/>
                 Pub_location: Oxford, England<br/>
                 Genre: Fiction (Novel)<br/>
