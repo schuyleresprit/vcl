@@ -20,8 +20,8 @@ permalink: /vdiaz/
           <div class="aclocation">  <p>Vigil Diaz is from <a href="{{ site.baseurl }}/9/">Dominican Republic.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Otilio_Vigil_D%C3%ADaz" target="_blank">Read more</a></div>
             </div>
-            </div>
-        <div class="block">
+            </div>  
+<div class="block">
             <div class="date left"><p class="left">1921</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -29,13 +29,12 @@ permalink: /vdiaz/
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: <br/>
+                Publisher: Self-Publishing<br/>
                 Pub_location: Santo Domingo, Dominican Republic<br/>
                 Genre: Fiction (Short Story Collection)<br/>
                 Length: 75<br/>                   </p>
             </div>
-        </div>
-       <div class="block">
+        </div>ss="block">
             <div class="date right"><p class="right">1949</p></div>
             <div class="dot"></div>
             <div class="left hide">
