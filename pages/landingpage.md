@@ -9,7 +9,7 @@ permalink: /
 </div>
 
 <div class="col-sm-10">
-<h1> Welcome to <br> Visualising Caribbean Literature</h1>
+<h1> Welcome to <br> Visualizing Caribbean Literature</h1>
 <div class="button">
 <a href="{{ site.baseurl }}/home/"> ENTER</a>
 </div>
