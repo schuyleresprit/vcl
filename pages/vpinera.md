@@ -21,7 +21,21 @@ permalink: /vpinera/
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Virgilio_Pi%C3%B1era" target="_blank">Read more</a></div>
             </div>
             </div>
-         <div class="block">
+<div class="block">
+            <div class="date right"><p class="right">1952</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>La Carne de René</h1><hr>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs9eylQnV2PWqlzHcaoESgoQGKeZqfhhs1NnNrKqJgZ_9CmAvg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Tusquets Editores<br/>
+                Pub_location: Barcelona, Spain<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 256<br/>                   </p>
+            </div>
+        </div>         
+<div class="block">
             <div class="date left"><p class="left">1971</p></div>
             <div class="dot"></div>
             <div class="right hide">
