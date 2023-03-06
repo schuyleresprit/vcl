@@ -16,7 +16,16 @@ permalink: /contact/
 <div class="fcf-body">
     <div id="fcf-form">
     <h3 class="fcf-h3">Contact us</h3>
-    <form id="fcf-form-id" class="fcf-form-class" method="post" action="{{ site.baseurl }}/contact-form-process.php"> 
+
+		<div id="success-alert" class="alert alert-success" role="alert" style="display: none;">
+			Thank you for contacting us&excl; We will be in touch with you soon.
+		</div>
+
+		<div id="danger-alert" class="alert alert-danger" role="alert" style="display: none;">
+			Thank you for contacting us&excl; We will be in touch with you soon.
+		</div>
+
+    <form id="fcf-form-id" class="fcf-form-class" method="post" action="{{ site.baseurl }}/contact-form-process.php">
         <div class="fcf-form-group">
             <label for="Name" class="fcf-label">Your name</label>
             <div class="fcf-input-group">
@@ -210,3 +219,18 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 
 </style>
 
+<script>
+	$( document ).ready(function() {
+		var queryString = window.location.search;
+
+		var urlParams = new URLSearchParams(queryString);
+
+		var response = urlParams.get('response');
+
+		if (response.length) {
+			if (response == "success") {
+				$('#success-alert').show();
+			}
+		}
+	});
+</script>
