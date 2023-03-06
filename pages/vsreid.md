@@ -7,7 +7,7 @@ permalink: /vsreid/
 <div class="content">
     <h1>Victor Stafford Reid</h1>
     <div class="quote">
-        <div><img src="https://nlj.gov.jm/wp-content/uploads/2017/05/vic_reid-1080x1418.jpg" class="logo"></div>
+        <div><img src="https://nlj.gov.jm/wp-content/uploads/2017/05/vic_reid-1080x1418.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>New Day</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490907638l/2125844._SX318_.jpg"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490907638l/2125844._SX318_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
                 Publisher: Alfred A. Knopf<br>
                 Publisher Location: New York, United States<br>
@@ -54,7 +54,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Leopard</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/en/c/ca/TheLeopardNovel.jpg"></p>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/c/ca/TheLeopardNovel.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br>
                 Publisher: Heinemann<br>
@@ -69,7 +69,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Sixty-Five</h1><hr>
-                <p><img src="https://nlj.gov.jm/wp-content/uploads/2017/05/vic_reid-1080x1418.jpg"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDzIIoJk4HJ2BFgs9RZUMLJx-Z5SrhDcWwTZivqE-lzvQXwaKJ" height="50%" width = "50%"></p>
                 <p>Language: English<br>
                 Publisher: Longmans, Green and Co. in association with the Ministry of Education<br>
                 Publisher Location: London, England<br>
@@ -82,7 +82,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Young Warriors</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387738112l/2896941.jpg"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387738112l/2896941.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
                 Publisher: Longman Inc.<br>
                 Publisher Location: Harlow, England<br>
@@ -95,7 +95,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Buildings In Jamaica</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md22147019378.jpg"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md22147019378.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br>
                 Publisher: Kingston Jamaica Information Service<br>
@@ -110,7 +110,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Peter of Mount Ephraim</h1><hr>
-                <p><img src="https://ufdcimages.uflib.ufl.edu/AA/00/03/05/71/00001/PR9265-9-R4P481971_dj.jpg"></p>
+                <p><img src="https://ufdcimages.uflib.ufl.edu/AA/00/03/05/71/00001/PR9265-9-R4P481971_dj.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
                 Publisher: Jamaica Publishing House<br>
                 Publisher Location: Kingston, Jamaica<br>
@@ -122,7 +122,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Nanny Town</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599881394i/55305298.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599881394i/55305298.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
                 Publisher: Jamaica Publishing House<br>
                 Publisher Location: Kingston, Jamaica<br>
@@ -135,7 +135,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Horses of the Morning</h1><hr>
-                <p><img src="https://i.ebayimg.com/images/g/cJsAAOSwIvFig~06/s-l1600.jpg"></p>
+                <p><img src="https://i.ebayimg.com/images/g/cJsAAOSwIvFig~06/s-l1600.jpg"height="50%" width = "50%"></p>
                 <p>Language: English<br>
                 Publisher: Caribbean Authors Publishing Co.<br>
                 Publisher Location: Kingston, Jamaica<br>
