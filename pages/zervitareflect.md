@@ -4,23 +4,6 @@ title: "Zervita Charles"
 permalink: /zervitareflect/
 ---
 <!-- partial:index.partial.html -->
-<style>
-	.content {
-		padding-left: 5%;
-		padding-right: 5%;
-	}
-
-	.card {
-		background: #fff;
-		border-radius: 8px;
-		display: inline-block;
-		margin: 1rem;
-		position: relative;
-		box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-		padding: 8px;
-	}
-</style>
-
 <div class="content">
 		<h1>Zervita Charles</h1>
 		<div class="quote">
