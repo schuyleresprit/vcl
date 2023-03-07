@@ -33,7 +33,7 @@ Found In: Comparative American Studies An International Journal, Vol. 4, Issue 2
                 Publisher: Sage Publications<br/>
                 Pub_location: Thousand Oaks, CA, United States<br/>
                 Genre: Essay<br/>
-                Length: NA</p>
+                Length: Pages 197-217</p>
             </div>
         </div>
       <div class="block">
