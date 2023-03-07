@@ -118,11 +118,11 @@ Project Manager, CDSC, Create Caribbean Research Institute <br> <br>
 
 __Editorial Contributions by CDSC Co-PIs__
 <br>
-Dr. Kaiama Glover, Barnard College
-Dr. Mirerza Gonzalez Velez, University of Puerto Rico - Rio Pedras
-Dr. Nadjah Rios Villarini, University of Puerto Rico - Rio Pedras
-Dr. Kelly Baker Josephs, University of Miami
-Dr. Alex Gil, Yale University
+Dr. Kaiama Glover, Barnard College  
+Dr. Mirerza Gonzalez Velez, University of Puerto Rico - Rio Pedras  
+Dr. Nadjah Rios Villarini, University of Puerto Rico - Rio Pedras  
+Dr. Kelly Baker Josephs, University of Miami  
+Dr. Alex Gil, Yale University  
 
 __Code__
 
