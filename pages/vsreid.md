@@ -23,9 +23,9 @@ permalink: /vsreid/
             </div>
         </div>
  </div><div class="block">
-            <div class="date right"><p class="right">1949</p></div>
+            <div class="date left"><p class="left">1949</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>New Day</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490907638l/2125844._SX318_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -118,9 +118,9 @@ permalink: /vsreid/
                 Length: 140 <br></p>
             </div>
         <div class="block">
-            <div class="date left"><p class="left">1983</p></div>
+            <div class="date right"><p class="right">1983</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Nanny Town</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599881394i/55305298.jpg" height="50%" width = "50%"></p>
                 <p>Language: English<br>
@@ -131,9 +131,9 @@ permalink: /vsreid/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1985</p></div>
+            <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Horses of the Morning</h1><hr>
                 <p><img src="https://i.ebayimg.com/images/g/cJsAAOSwIvFig~06/s-l1600.jpg"height="50%" width = "50%"></p>
                 <p>Language: English<br>
