@@ -11,31 +11,46 @@ permalink: /Credits/
 
 This project has truly been the embodiment of collaboration, DH pedagogy and project development at its best. The student interns in the 2020-22 and 2021-23 cohorts have been engaged, diligent and curious at every turn. Their individual projects can be viewed [here](https://commonsbox.createcaribbean.org).
 
-__Project Lead__
+<div class="credit_section">
+<h5>Project Lead </h5>
 
-<img src='{{ site.baseurl }}/assets/img/SchuylerEsprit.jpeg' width="20%"/><br>
+<div class="credit_image">
+<img src='{{ site.baseurl }}/assets/img/SchuylerEsprit.jpeg' width="20%"/>
+</div>
+<div class="credit_info">
 <a href="https://schuyleresprit.com/esprit/" target="_blank">Dr. Schuyler Esprit </a> <br>
 Director, Create Caribbean Research Institute
+</div>
+</div>
 
-__Research__  
 
-<img src='{{ site.baseurl }}/assets/img/JaelleEdmund.jpg' width="20%"/><br>
+<div class="credit_section">
+
+<h5>Research</h5>
+<div class="row">
+<div class="col-sm-4">
+<img src='{{ site.baseurl }}/assets/img/JaelleEdmund.jpg' width="100%"/><br>
 Jaelle Edmund 
 <br>
 Research Assistant, Create Caribbean Research Institute <br> <br>
+</div>
 
-<img src='{{ site.baseurl }}/assets/img/ElleenCommadore.png' width="20%"/><br>
+<div class="col-sm-4">
+<img src='{{ site.baseurl }}/assets/img/ElleenCommadore.png' width="100%"/><br>
 <a href="https://createcaribbean.org/create/elleen-commodore/" target="_blank">Elleen Commodore </a>
 <br>
 Research Assistant, Create Caribbean Research Institute <br> <br>
+</div>
 
+<div class="col-sm-4">
 Dylan Gilbert
 <br>
 Graduate Fellow, Create Caribbean Research Institute
 <br>
 MFA student, Creative Writing, Columbia University <br> <br>
-
-
+</div>
+</div>
+</div>
 
 __Technology__
 
