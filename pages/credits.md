@@ -82,31 +82,43 @@ CDSC Co-PI <br> <br>
 </div>
 </div>
 
+<div class="credit_section">
+<h5>Community</h5>
 
-__Community__
+<div class="row">
+<div class="col-sm-3">
 
-<img src='{{ site.baseurl }}/assets/img/KailaGuiste.png' width="20%"/><br>
+<img src='{{ site.baseurl }}/assets/img/KailaGuiste.png' width="100%"/><br>
 <a href="https://createcaribbean.org/create/kaila-ann-guiste/" target="_blank">Kaila-Ann Guiste </a>
 <br>
 Communications Assistant, Create Caribbean Research Institute
 <br>
 2019-2021 alum, Create Caribbean Research Institute<br> <br>
+</div>
 
-<img src='{{ site.baseurl }}/assets/img/HermanciaZamore.png' width="20%"/><br>
+<div class="col-sm-3">
+<img src='{{ site.baseurl }}/assets/img/HermanciaZamore.png' width="100%"/><br>
 <a href="https://createcaribbean.org/create/hermancia-eugene-phd/" target="_blank">Dr. Hermancia Eugene-Zamore</a>
 <br>
 Intern Coordinator, Create Caribbean Research Institute<br> <br>
+</div>
 
-<img src='{{ site.baseurl }}/assets/img/DavitiaJames.png' width="20%"/><br>
+<div class="col-sm-3">
+<img src='{{ site.baseurl }}/assets/img/DavitiaJames.png' width="100%"/><br>
 <a href="https://createcaribbean.org/create/davitia-james/" target="_blank">Davitia James</a>
 <br>
 Programs Officer, Create Caribbean Research Institute<br> <br>
+</div>
 
-<img src='{{ site.baseurl }}/assets/img/YuanneStowe.png' width="20%"/><br>
+<div class="col-sm-3">
+<img src='{{ site.baseurl }}/assets/img/YuanneStowe.png' width="100%"/><br>
 <a href="https://createcaribbean.org/create/yuanne-stowe/" target="_blank">Yuanne Stowe </a>
 <br>
 Project Manager, CDSC, Create Caribbean Research Institute <br> <br>
 
+</div>
+</div>
+</div>
 
 __Editorial Contributions by CDSC Co-PIs__
 <br>
