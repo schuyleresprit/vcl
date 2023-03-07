@@ -52,24 +52,36 @@ MFA student, Creative Writing, Columbia University <br> <br>
 </div>
 </div>
 
-__Technology__
 
-<img src='{{ site.baseurl }}/assets/img/ZamarThomas.png' width="20%"/><br>
+<div class="credit_section">
+<h5>Technology</h5>
+
+<div class="row">
+<div class="col-sm-4">
+<img src='{{ site.baseurl }}/assets/img/ZamarThomas.png' width="100%"/><br>
 <a href="https://createcaribbean.org/create/zamar-thomas/" target="_blank">Zamar Thomas </a>
 <br>
 Programmer and Technology Specialist, Create Caribbean Research Institute
 <br>
 2014-2016 alum, Create Caribbean Research Institute<br> <br>
+</div>
 
-<img src='{{ site.baseurl }}/assets/img/JoshBazil.jpg' width="20%"/><br>
+<div class="col-sm-4">
+<img src='{{ site.baseurl }}/assets/img/JoshBazil.jpg' width="100%"/><br>
 Josh Bazil
 <br>
 2017-2019 alum, Create Caribbean Research Institute <br> <br>
+</div>
 
-<img src='{{ site.baseurl }}/assets/img/AlexGil.jpg' width="20%"/><br>
+<div class="col-sm-4">
+<img src='{{ site.baseurl }}/assets/img/AlexGil.jpg' width="100%"/><br>
 Alex Gil
 <br>
 CDSC Co-PI <br> <br>
+</div>
+</div>
+</div>
+
 
 __Community__
 
