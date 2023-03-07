@@ -11,17 +11,13 @@ permalink: /Credits/
 
 This project has truly been the embodiment of collaboration, DH pedagogy and project development at its best. The student interns in the 2020-22 and 2021-23 cohorts have been engaged, diligent and curious at every turn. Their individual projects can be viewed [here](https://commonsbox.createcaribbean.org).
 
-<div class="credit_section">
+<div class="credits_esprits">
 <h5>Project Lead </h5>
-
-<div class="credit_image">
-<img src='{{ site.baseurl }}/assets/img/SchuylerEsprit.jpeg' width="20%"/>
-</div>
-<div class="credit_info">
+<img src='{{ site.baseurl }}/assets/img/SchuylerEsprit.jpeg' width="40%"/><br>
 <a href="https://schuyleresprit.com/esprit/" target="_blank">Dr. Schuyler Esprit </a> <br>
 Director, Create Caribbean Research Institute
 </div>
-</div>
+
 
 
 <div class="credit_section">
