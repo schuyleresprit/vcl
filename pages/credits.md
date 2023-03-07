@@ -13,62 +13,72 @@ This project has truly been the embodiment of collaboration, DH pedagogy and pro
 
 __Project Lead__
 
-Dr. Schuyler Esprit
+<img src='{{ site.baseurl }}/assets/img/SchuylerEsprit.jpeg' width="20%"/><br>
+<a href="https://schuyleresprit.com/esprit/" target="_blank">Dr. Schuyler Esprit </a> <br>
 Director, Create Caribbean Research Institute
 
 __Research__  
 
+<img src='{{ site.baseurl }}/assets/img/JaelleEdmund.jpg' width="20%"/><br>
 Jaelle Edmund 
 <br>
-Research Assistant, Create Caribbean Research Institute
+Research Assistant, Create Caribbean Research Institute <br> <br>
 
-Elleen Commodore
+<img src='{{ site.baseurl }}/assets/img/ElleenCommadore.png' width="20%"/><br>
+<a href="https://createcaribbean.org/create/elleen-commodore/" target="_blank">Elleen Commodore </a>
 <br>
-Research Assistant, Create Caribbean Research Institute
+Research Assistant, Create Caribbean Research Institute <br> <br>
 
 Dylan Gilbert
 <br>
 Graduate Fellow, Create Caribbean Research Institute
 <br>
-MFA student, Creative Writing, Columbia University
+MFA student, Creative Writing, Columbia University <br> <br>
 
 
 
 __Technology__
 
-Zamar Thomas
+<img src='{{ site.baseurl }}/assets/img/ZamarThomas.png' width="20%"/><br>
+<a href="https://createcaribbean.org/create/zamar-thomas/" target="_blank">Zamar Thomas </a>
 <br>
 Programmer and Technology Specialist, Create Caribbean Research Institute
 <br>
-2014-2016 alum, Create Caribbean Research Institute
+2014-2016 alum, Create Caribbean Research Institute<br> <br>
 
+<img src='{{ site.baseurl }}/assets/img/JoshBazil.jpg' width="20%"/><br>
 Josh Bazil
 <br>
-2017-2019 alum, Create Caribbean Research Institute
+2017-2019 alum, Create Caribbean Research Institute <br> <br>
 
+<img src='{{ site.baseurl }}/assets/img/AlexGil.jpg' width="20%"/><br>
 Alex Gil
 <br>
-CDSC Co-PI
+CDSC Co-PI <br> <br>
 
 __Community__
 
-Kaila-Ann Guiste
+<img src='{{ site.baseurl }}/assets/img/KailaGuiste.png' width="20%"/><br>
+<a href="https://createcaribbean.org/create/kaila-ann-guiste/" target="_blank">Kaila-Ann Guiste </a>
 <br>
 Communications Assistant, Create Caribbean Research Institute
 <br>
-2019-2021 alum, Create Caribbean Research Institute
+2019-2021 alum, Create Caribbean Research Institute<br> <br>
 
-Dr. Hermancia Eugene-Zamore
+<img src='{{ site.baseurl }}/assets/img/HermanciaZamore.png' width="20%"/><br>
+<a href="https://createcaribbean.org/create/hermancia-eugene-phd/" target="_blank">Dr. Hermancia Eugene-Zamore</a>
 <br>
-Intern Coordinator, Create Caribbean Research Institute
+Intern Coordinator, Create Caribbean Research Institute<br> <br>
 
-Davitia James
+<img src='{{ site.baseurl }}/assets/img/DavitiaJames.png' width="20%"/><br>
+<a href="https://createcaribbean.org/create/davitia-james/" target="_blank">Davitia James</a>
 <br>
-Programs Officer, Create Caribbean Research Institute
+Programs Officer, Create Caribbean Research Institute<br> <br>
 
-Yuanne Stowe
+<img src='{{ site.baseurl }}/assets/img/YuanneStowe.png' width="20%"/><br>
+<a href="https://createcaribbean.org/create/yuanne-stowe/" target="_blank">Yuanne Stowe </a>
 <br>
-Project Manager, CDSC, Create Caribbean Research Institute
+Project Manager, CDSC, Create Caribbean Research Institute <br> <br>
 
 
 __Editorial Contributions by CDSC Co-PIs__
