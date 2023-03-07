@@ -32,6 +32,8 @@ Graduate Fellow, Create Caribbean Research Institute
 <br>
 MFA student, Creative Writing, Columbia University
 
+
+
 __Technology__
 
 Zamar Thomas
@@ -67,6 +69,15 @@ Programs Officer, Create Caribbean Research Institute
 Yuanne Stowe
 <br>
 Project Manager, CDSC, Create Caribbean Research Institute
+
+
+__Editorial Contributions by CDSC Co-PIs__
+<br>
+Dr. Kaiama Glover, Barnard College
+Dr. Mirerza Gonzalez Velez, University of Puerto Rico - Rio Pedras
+Dr. Nadjah Rios Villarini, University of Puerto Rico - Rio Pedras
+Dr. Kelly Baker Josephs, University of Miami
+Dr. Alex Gil, Yale University
 
 __Code__
 
