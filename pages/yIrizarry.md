@@ -28,7 +28,8 @@ permalink: /yIrizarry/
             <div class="right hide">
                 <h1>Doubly Troubling Narratives</h1><hr>
                 <p><img src="https://www.tandfonline.com/action/showCoverImage?doi=10.1080/ycas20.v004.i02"></p>
-                <p>Language: Spanish<br/>
+Found In: Comparative American Studies An International Journal, Vol. 4, Issue 2, 2006 <br/>         
+<p>Language: Spanish<br/>
                 Publisher: Sage Publications<br/>
                 Pub_location: Thousand Oaks, CA, United States<br/>
                 Genre: Essay<br/>
