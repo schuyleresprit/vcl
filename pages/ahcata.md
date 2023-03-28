@@ -7,7 +7,7 @@ permalink: /ahcata/
 <div class="content">
     <h1>Alfonso Hernández Catá</h1>
     <div class="quote">
-        <div><img src="https://www.larazon.es/resizer/3M_P_akaGzOxWT4hu_Pt71g9PGQ=/600x400/smart/filters:format(webp):quality(65)/cloudfront-eu-central-1.images.arcpublishing.com/larazon/IWCMGSYBIBGYHP2P6JOL34ZCT4.jpg" class="logo"></div>
+        <div><img src="https://www.biografiasyvidas.com/biografia/h/fotos/hernandez_cata.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
