@@ -22,18 +22,31 @@ permalink: /ahcata/
             </div>
             </div>
         </div>
-        <div class="block">
+         <div class="block">
             <div class="date left"><p class="left">1922</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>The Gaulin and the Dove</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=7lNOAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72kh4DP0LWpc6QjPlmUEFTXut_FgG0BlvZr6ahskMIU5Hn9pvvlvkbZRVWJYp_9h2Fl3TJHbkcpf48oQlNySxNEw-r2N-wntQiYgUHVDASj0zj6cByqoiR92cOvlW_gtKcXurRM"></p>
+                <h1>Pelayo González. Algunas de sus ideas. Algunos de sus hechos. Su muerte </h1><hr>
+                <p><img src="https://covers.openlibrary.org/b/id/9579124-L.jpg"></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: Editorial Mundo latino<br/>
+                Publisher: Mundo Latino<br/>
                 Pub_location: Madrid, Spain<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 275<br/>                   </p>
+                Length: 328</p>
+           </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2002</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Guyana Boy</h1><hr>
+                <p><img src="https://covers.openlibrary.org/b/id/12660234-L.jpg"></p>
+                <p>Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 187</p>
             </div>
         </div>
   <!-- partial -->
