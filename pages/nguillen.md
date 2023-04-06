@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Nicolás Guillén"
-permalink: /nguillen/
+permalink: /ngullien/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -17,7 +17,7 @@ permalink: /nguillen/
             <div class="left first">
               <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p> Nicolás Guillént is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
+          <div class="aclocation">  <p> Nicolás Guillén is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Nicol%C3%A1s_Guill%C3%A9n" target="_blank">Read more</a></div>
             </div>
             </div>

@@ -458,7 +458,7 @@ permalink: /agarrandés/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2011/p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Una Pasión En El Desierto : Y Otros Cuentos De Amor</h1><hr>
