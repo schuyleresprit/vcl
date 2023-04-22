@@ -40,7 +40,7 @@ permalink: /ahcata/
             <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Guyana Boy</h1><hr>
+                <h1>NOVELA EROTICA</h1><hr>
                 <p><img src="https://covers.openlibrary.org/b/id/12660234-L.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
