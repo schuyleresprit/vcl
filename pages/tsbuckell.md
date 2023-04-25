@@ -269,7 +269,7 @@ permalink: /tsbuckell
                 <h1>"Help Fund Taphognosis Industries" – Help Fund My Robot Army</h1><hr>
                 <p><img src="https://fantlab.ru/images/editions/big/379513?r=1677762699" height="50%" width = "50%"></p>
                 <p>
-		    Co-Authors: Seanan McGuire, Daniel H. Wilson, Scott Sigler, Mur Lafferty, Carmen Maria Machado<br/>                
+		    Co-Authors: Seanan McGuire, et al.<br/>                
    		    Language: English<br/>
                 Publisher: John Joseph Adams<br/>
                 Pub_location: California, United States<br/>
@@ -284,8 +284,8 @@ permalink: /tsbuckell
                 <h1>"A Cold Heart" – Upgraded</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=Rc3noQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70s966Of01T1YV8Ti-TOUIuLYB5RAGkrIxWECjpsu4CC7zHs6nGB4Bwx2MTdfHA1EWnwGm7KjGOh7DMSq4FqfKoGi9yt0Yd5Vy9CkEmWSR4nTebutk4lgkYqcfPu141osq-mLDh" height="50%" width = "50%"></p>
                 <p>
-Co-Authors: Madeline Ashby, Robert Reed, Elizabeth Bear, Peter Watts, Greg Egan<br/>                
-Language: English<br/>
+		    Co-Authors: Madeline Ashby, et al.<br/>                
+		    Language: English<br/>
                 Publisher: Wyrm Publishing<br/>
                 Pub_location: New Jersey	United States<br/>
                 Genre: Fiction (Short Story)<br/>
@@ -445,24 +445,11 @@ Language: English<br/>
                 Genre: Fiction (Short Story)<br/>
                 Length: 262<br/>                   </p>
             </div>
-        </div><div class="block">
+        </div>
+<div class="block">
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>"Shoggoths in Traffic" – Lightspeed Magazine</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
-                <p>
-                Language: English<br/>
-                Publisher: <br/>
-                Pub_location: <br/>
-                Genre: Fiction (Short Story)<br/>
-                Length: <br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date right"><p class="right">2017</p></div>
-            <div class="dot"></div>
-            <div class="left">
                 <h1>"High Awareness (with David Brin) – Overview: Stories in the Stratosphere</h1><hr>
                 <p><img src="https://www.isfdb.org/wiki/images/3/37/VRVWSTRSNT2017.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -475,9 +462,9 @@ Language: English<br/>
             </div>
         </div>       
 <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>The Trove</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqYag67iBn-5AUvTMFxav3i70V2uHtLoldgfHd1kLutl6FHgS-" height="50%" width = "50%"></p>
                 <p>
@@ -490,9 +477,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>The Tangled Lands, co-authored with Paolo Bacigalupi</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/914999eaAQL._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -504,13 +491,13 @@ Language: English<br/>
             </div>
         </div>       
 <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>"A World to Die For" – Clarkesworld Magazine</h1><hr>
                 <p><img src="https://clarkesworldmagazine.com/covers/cw_136_800.jpg" height="50%" width = "50%"></p>
                 <p>
-		    Read:Kate Baker<br/>
+		    Read: Kate Baker<br/>
                 Language: English<br/>
                 Publisher: Clarkesworld Magazine<br/>
                 Pub_location: New Jersey, United States<br/>
@@ -519,9 +506,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>"Sunset" – Lightspeed Magazine</h1><hr>
                 <p><img src="https://www.lightspeedmagazine.com/wp-content/files_mf/cache/th_364f27d0a9e0903ba4ca66b270091c81_1677784900_magicfields_issuecoverimage_1_1.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -533,9 +520,9 @@ Language: English<br/>
             </div>
         </div>      
  <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>"A Different Kind of Place" – Apex Magazine</h1><hr>
                 <p><img src=""A Different Kind of Place" – Apex Magazine	https://images-na.ssl-images-amazon.com/images/I/51p8-rLmrQL.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -548,9 +535,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>It’s All Just a Draft</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556552981i/45360806.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -562,9 +549,9 @@ Language: English<br/>
             </div>
         </div>      
 <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>"The Blindfold" in A People’s Future of the United States</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538815133i/40163361.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -576,9 +563,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>The Galactic Tourist Industrial Complex" in New Suns: Original Speculative Fiction by People of Color (anthology)</h1><hr>
                 <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
                 <p>
@@ -590,9 +577,9 @@ Language: English<br/>
             </div>
         </div>      
  <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>"Apocalypse Considered Through a Helix of Semiprecious Foods and Recipes" in The Magazine of Fantasy and Science Fiction</h1><hr>
                 <p><img src="https://4.bp.blogspot.com/-Mer8sJnSvh4/XMYi3qOQOtI/AAAAAAAAI5o/W9P9HlRRoMgkN9Hj-enZiZWIkiOboGRDACLcBGAs/s200/719-6bfk5aL._SL1287_%255B1%255D.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -604,9 +591,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>"N-Coin" in Apex Magazine</h1><hr>
                 <p><img src="https://external-sju1-1.xx.fbcdn.net/emg1/v/t13/10103444487115935589?url=https%3a%2f%2fi2.wp.com%2fwww.apex-magazine.com%2fwp-content%2fuploads%2f2019%2f05%2fAM120_featureBuckell.jpg%3ffit%3d1200%252C943%26ssl%3d1&fb_obo=1&utld=wp.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p476x249_q75&ccb=13-1&oh=06_AbFCutp6fJZHhFcFxsQM3i-wh8yUmE_ovuOdk7zoBd4ojg&oe=6441DE6C&_nc_sid=6ac203" height="50%" width = "50%"></p>
                 <p>
@@ -618,9 +605,9 @@ Language: English<br/>
             </div>
         </div>       
 <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>"Through Sparks in Morning’s Dawn" in Wastelands: The New Apocalypse</h1><hr>
                 <p><img src="https://images.squarespace-cdn.com/content/v1/58ca629dcd0f6839cdddad1b/1559771998285-PFNVWNXZLYUE3X74YQ3Z/wate.jpg?format=1000w" height="50%" width = "50%"></p>
                 <p>
@@ -632,11 +619,11 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>"By the Warmth of Her Calculus" in Mission Critical</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p><img src="" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: <br/>
@@ -646,9 +633,9 @@ Language: English<br/>
             </div>
         </div>       
 <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Reclaim, Restore, Return: Futurist Tales from the Caribbean, co-edited with Karen Lord</h1><hr>
                 <p><img src="https://bocas.wpenginepowered.com/wp-content/uploads/2021/02/Reclaim-Restore-Return-Generic.jpeg" height="50%" width = "50%"></p>
                 <p>
@@ -660,11 +647,11 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>"Zombie Capitalism" in Motherboard Magazine</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p><img src="" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Motherboard/VICE Media Information<br/>
@@ -674,11 +661,11 @@ Language: English<br/>
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Scar Tissue in Slate Magazine</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p><img src="" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Slate Magazine<br/>
@@ -688,9 +675,9 @@ Language: English<br/>
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>"Idle Hands" in The Dystopia Triptych #1: Ignorance is Strength (anthology)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/5130gkFDR2L._SX331_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -701,9 +688,9 @@ Language: English<br/>
                 Length: 308<br/>                   </p>
             </div>
         </div><div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>"The Fruits of Their Labor" in The Dystopia Triptych #2: Burn the Ashes (anthology)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51eBciAHT7L._SX331_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -715,9 +702,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>"The Machine Votes" in The Dystopia Triptych #3: Or Else the Light (anthology)</h1><hr>
                 <p><img src="https://cdn.shopify.com/s/files/1/0602/5143/9267/products/DystopiaTriptych3-680x1020-1.jpg?v=1674890529" height="50%" width = "50%"></p>
                 <p>
@@ -729,9 +716,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>"The Machine That Would Rewild Humanity" in Escape Pod: The Science Fiction Anthology</h1><hr>
                 <p><img src="https://thecurioussffreader.files.wordpress.com/2020/11/52026057.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -743,9 +730,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>The Stranger in the Citadel</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkhRpAwU_Is2gPRK_irLQrtEN8faT6zxYWRKWfFtxjR5RPoZOM" height="50%" width = "50%"></p>
                 <p>
@@ -757,9 +744,9 @@ Language: English<br/>
             </div>
         </div>       
 <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Shoggoths in Traffic and Other Stories</h1><hr>
                 <p><img src="https://books.google.dm/books/publisher/content?id=WAxQEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1ktMnQt3CFsRAu53ZrFSMp9FZO4g&w=1280" height="50%" width = "50%"></p>
                 <p>
