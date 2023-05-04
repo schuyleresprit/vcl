@@ -257,7 +257,7 @@ permalink: /11/
    <div id="post-17" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE8nXmyu0ZF7w/profile-displayphoto-shrink_400_400/0/1644055672238?e=1674086400&v=beta&t=XohpqJwcwMSCrvPJ-Uls89kZQ7zTNrVIyaWRJR9YqX4">
+       <img src="https://inhousecommunity.it/wp-content/uploads/2021/09/Capra_Andrea_Arcadis-Italia-273x171-1.jpg">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -298,6 +298,22 @@ permalink: /11/
      <div class="vesti-desc">
        <a class="desc-a" href="#">
          <h4><a href="{{ site.baseurl }}/sbrown/">Stewart Brown</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+  <div id="post-20" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="{{ site.baseurl }}/wpbarron/">William P Barron</a></h4>
        </a>
      </div>
    </div>
