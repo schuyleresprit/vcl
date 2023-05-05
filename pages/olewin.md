@@ -18,7 +18,7 @@ permalink: /olewin/
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Olive Lewin is from <a href="{{ site.baseurl }}/4">Jamaica.</a></p></div>
-              <div class="acreadmore">  <a href="WIKI LINK" target="_blank">Read more</a></div>
+              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Olive_Lewin" target="_blank">Read more</a></div>
             </div>
             </div>
         <div class="block">
