@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Raphaël Confiant"
-permalink: /rconfidant/
+permalink: /rconfiant/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
