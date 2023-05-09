@@ -1,5 +1,5 @@
 ---
 layout: defaultau
-title: "Adisa Andwele"
+title: "John J Figueroa"
 permalink: /jjfigueroa/
 ---
