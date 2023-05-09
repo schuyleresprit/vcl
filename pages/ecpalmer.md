@@ -1,5 +1,5 @@
 ---
 layout: defaultau
-title: "Adisa Andwele"
+title: "Everard C. Palmer"
 permalink: /ecpalmer/
 ---
