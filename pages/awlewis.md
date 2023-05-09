@@ -1,5 +1,5 @@
 ---
 layout: defaultau
-title: "Adisa Andwele"
+title: "Arthur W. Lewis"
 permalink: /awlewis/
 ---
