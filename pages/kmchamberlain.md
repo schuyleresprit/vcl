@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Karen Mah-Chamberlain"
-permalink: /kmchamberlain/
+permalink: /kmahamberlain/
 ---
 <div class="content">
     <h1>Karen Mah-Chamberlain</h1>
