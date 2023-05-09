@@ -1,5 +1,5 @@
 ---
 layout: defaultau
-title: "Karen Mah-Chamberlain"
+title: "Kendel Hippolyte"
 permalink: /khippolyte/
 ---
