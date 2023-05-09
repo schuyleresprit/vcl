@@ -1,5 +1,5 @@
 ---
 layout: defaultau
-title: "Leslie Francois Manigat"
-permalink: /lfmanigat/
+title: "Lorna Goodison"
+permalink: /lgoodison/
 ---
