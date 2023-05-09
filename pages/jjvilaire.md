@@ -1,5 +1,5 @@
 ---
 layout: defaultau
-title: "Adisa Andwele"
+title: "Jean-Joseph Vilaire"
 permalink: /jjvilaire/
 ---
