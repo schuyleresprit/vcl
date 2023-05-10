@@ -1,5 +1,5 @@
 ---
 layout: defaultau
-title: "Adisa Andwele"
+title: "Hazel Simmons-McDonald"
 permalink: /hsmcdonald/
 ---

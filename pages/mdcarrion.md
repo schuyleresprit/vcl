@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Miguel de Carrión"
-permalink: /mdcarrión/
+permalink: /mdcarrion/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">

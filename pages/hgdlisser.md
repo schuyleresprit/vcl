@@ -1,5 +1,5 @@
 ---
 layout: defaultau
-title: "Adisa Andwele"
+title: "De Lisser H. G."
 permalink: /hgdlisser/
 --- 

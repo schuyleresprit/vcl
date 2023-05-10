@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Mylene Fernández Pintado"
-permalink: /mfpintado/
+permalink: /mpfernandez/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -76,7 +76,7 @@ permalink: /mfpintado/
                 <p>
                 Language: English <br/>
                 Publisher: Ediciones Unión <br/>
-                 Pub_location: Havana, Cuba <br/>
+                Pub_location: Havana, Cuba <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 78 <br/>                   
                 </p>
@@ -85,29 +85,30 @@ permalink: /mfpintado/
         <div class="block">
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="ride hide">
+            <div class="right hide">
                 <h1>Infiel y Otros Cuentos</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51dBVfozMPL.jpg"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Editorial Campana <br/>
-                 Pub_location: Barcelona, Spain <br/>
+                Pub_location: Barcelona, Spain <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 84 <br/>                
                 </p>
-                 </div>
+            </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
+            <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Vivir Sin Papeles</h1><hr>
                 <p><img src="https://www.ecured.cu/images/thumb/f/fb/Vivir_sin_papeles.jpg/390px-Vivir_sin_papeles.jpg"></p>
+                <p>
                 Language: Spanish <br/>
                 Publisher: Editorial Oriente <br/>
-                 Pub_location: Santiago, Cuba <br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 85 <br/>                
+                Pub_location: Santiago, Cuba <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 85 <br/>                   
                 </p>
             </div>
         </div>
@@ -120,9 +121,10 @@ permalink: /mfpintado/
                 <p>
                 Language: Spanish <br/>
                 Publisher: Ediciones Unión <br/>
-                 Pub_location: Havana, Cuba <br/>
+                Pub_location: Havana, Cuba <br/>
                 Genre:  Fiction (Novel)<br/>
-                Length: 142 <br/>                  </p>
+                Length: 142 <br/>                  
+                </p>
             </div>
         </div>
         <div class="block">
