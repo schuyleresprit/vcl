@@ -95,7 +95,7 @@ permalink: /mpfernandez/
                 Genre: Fiction (Novel) <br/>
                 Length: 84 <br/>                
                 </p>
-              </div>
+            </div>
         </div>
         <div class="block">
             <div class="date right"><p class="right">2010</p></div>
