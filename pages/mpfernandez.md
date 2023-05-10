@@ -83,9 +83,9 @@ permalink: /mpfernandez/
             </div>
         </div>
         <div class="block">
-            <div class="date left hide"><p class="left hide">2009</p></div>
+            <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="ride hide">
+            <div class="right hide">
                 <h1>Infiel y Otros Cuentos</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51dBVfozMPL.jpg"></p>
                 <p>
