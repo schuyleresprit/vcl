@@ -103,6 +103,7 @@ permalink: /mpfernandez/
             <div class="left hide">
                 <h1>Vivir Sin Papeles</h1><hr>
                 <p><img src="https://www.ecured.cu/images/thumb/f/fb/Vivir_sin_papeles.jpg/390px-Vivir_sin_papeles.jpg"></p>
+                </p>
                 Language: Spanish <br/>
                 Publisher: Editorial Oriente <br/>
                 Pub_location: Santiago, Cuba <br/>
