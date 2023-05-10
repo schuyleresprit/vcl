@@ -106,7 +106,7 @@ permalink: /mpfernandez/
                 Language: Spanish <br/>
                 Publisher: Editorial Oriente <br/>
                 Pub_location: Santiago, Cuba <br/>
-                Genre: Fiction (Novel)<br/>
+                Genre: Fiction (Novel) <br/>
                 Length: 85 <br/>                
                 </p>
             </div>
