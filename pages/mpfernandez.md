@@ -107,7 +107,7 @@ permalink: /mpfernandez/
                 Publisher: Editorial Oriente <br/>
                 Pub_location: Santiago, Cuba <br/>
                 Genre: Fiction (Novel) <br/>
-                Length: 85 <br/>                
+                Length: 85 <br/>                  
                 </p>
             </div>
         </div>
