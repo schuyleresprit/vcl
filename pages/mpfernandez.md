@@ -76,7 +76,7 @@ permalink: /mpfernandez/
                 <p>
                 Language: English <br/>
                 Publisher: Ediciones Unión <br/>
-                 Pub_location: Havana, Cuba <br/>
+                Pub_location: Havana, Cuba <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 78 <br/>                   
                 </p>
@@ -91,21 +91,21 @@ permalink: /mpfernandez/
                 <p>
                 Language: Spanish <br/>
                 Publisher: Editorial Campana <br/>
-                 Pub_location: Barcelona, Spain <br/>
+                Pub_location: Barcelona, Spain <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 84 <br/>                
                 </p>
-                 </div>
+              </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
+            <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Vivir Sin Papeles</h1><hr>
                 <p><img src="https://www.ecured.cu/images/thumb/f/fb/Vivir_sin_papeles.jpg/390px-Vivir_sin_papeles.jpg"></p>
                 Language: Spanish <br/>
                 Publisher: Editorial Oriente <br/>
-                 Pub_location: Santiago, Cuba <br/>
+                Pub_location: Santiago, Cuba <br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 85 <br/>                
                 </p>
@@ -120,9 +120,10 @@ permalink: /mpfernandez/
                 <p>
                 Language: Spanish <br/>
                 Publisher: Ediciones Unión <br/>
-                 Pub_location: Havana, Cuba <br/>
+                Pub_location: Havana, Cuba <br/>
                 Genre:  Fiction (Novel)<br/>
-                Length: 142 <br/>                  </p>
+                Length: 142 <br/>                  
+                </p>
             </div>
         </div>
         <div class="block">
