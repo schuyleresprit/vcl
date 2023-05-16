@@ -389,7 +389,7 @@ permalink: /hgdlisser/
             <div class="dot"></div>
             <div class="right">
                 <h1>Behind the Scenes at the J.P.S.: Revelations, Personal, Social and Gastronomic</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p><img src="" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Planters' Punch<br/>
@@ -398,3 +398,535 @@ permalink: /hgdlisser/
                 Length: 4<br/>                   </p>
             </div>
         </div>
+<div class="block">
+            <div class="date right"><p class="right">1933</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Our Money Masters: Whose Power Over Our Pockets Pursues Us Even to the Grave</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 1<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Poltergeist</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">1934</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Let There Be Light: Electricity's Democratising and Other Aspects</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 3<br/>                   </p>
+            </div>
+        </div><div class="block">
+            <div class="date left"><p class="left">1934</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Primitive Practices and Modern Methods: A Striking Contrast - The Old Way and the New in Sugar Manufacture</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 5<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1934</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The Soul of Mr. Kieffer</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">1934</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>From Public Privacy to Private Publicity</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1934</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Statistical Sir Arthur</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Nonfiction Book<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1935</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>An Agile Banana Dancer</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1935</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Lewis and the Little Ones</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Nonfiction Book<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1935</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Under The Sun- A Story of Jamaica- Being a Lively and Humorous Portrayal of Some of Its Social Ways</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1936</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Anacanoa: A Story of Aboriginal Jamaica, the Conquering Spaniard and the Indian Maid</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1936</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Canada and the West Indies</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 1<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1936</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Zombies: A Jamaica Story of Black Art Practised By an Educated Man ; Weird, Mysterious, Creepy</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>      
+<div class="block">
+            <div class="date left"><p class="left">1937</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Wings Over the World: Major Nathan, a Flying Man, Advocates More Flying and Still More Flying</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 1<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1937</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Unpiratically Speaking: Eustace Myers, Alias "G", Characteristically Steady, Suave and Sober</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 1<br/>                   </p>
+            </div>
+        </div>      
+ <div class="block">
+            <div class="date left"><p class="left">1937</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Under The Sun: A Jamaica Comedy</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Ernest Benn<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 269<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">1938</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The White Maroon: Spanish and English and Maroon in Jamaica in the First Days of the English Occupation -- a Thrilling Romance</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">1938</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Riots, the Hand of the Lord</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1939</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Haunted: A Thrilling Tale of Mystery and Romance</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1940</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Jane's Career</h1><hr>
+                <p><img src="https://pressbooks.library.torontomu.ca/janeastoryofjamaica/wp-content/uploads/sites/297/2021/11/A-Story-of-Jamaica-Cover-350x525.png" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1941</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Myrtle and Money</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>   
+<div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Psyche: A Tale of Black and White</h1><hr>
+                <p><img src="https://i.ebayimg.com/images/g/3mYAAOSwlsVef6a4/s-l1600.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 224<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1942</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>War Talk in Jamaica</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 1<br/>                   </p>
+            </div>
+        </div>      
+ <div class="block">
+            <div class="date left"><p class="left">1943</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Jottings at Random</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 2<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1943</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The English Official in the Tropics</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 1<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1943</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Return: The Girl Who Came Back to Her Native Land - and to Disillusionment and Tragedy</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1943</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Jamaica's Grand Old Man and His Spiritual Forefather</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 2<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1944</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Hundred Years: An Interesting Account of the Founding of the Jamaica Mutual Life Assurance Society in the Year 1844</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 4<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1944</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Random Jottings: Selections From the Famous Series by H.G.D</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Planters' Punch<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: 3<br/>                   </p>
+            </div>
+        </div><div class="block">
+            <div class="date left"><p class="left">BOOK DATE</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Triumphant Squalitone: A Tropical Extravaganza</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: The Gleaner Company Ltd.<br/>
+                Pub_location: Kingston, Jamaica<br/>
+                Genre: Short Story<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1956</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The Cup and the Lip</h1><hr>
+                <p><img src="https://collections.carli.illinois.edu/digital/api/singleitem/image/uic_car/291/default.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Ernest Benn<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 256<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1958</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Arawak Girl</h1><hr>
+                <p><img src="https://cdn.shopify.com/s/files/1/0430/3313/3212/products/P5242833_1024x1024@2x.jpg?v=1653405654" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: The Pioneer Press.<br/>
+                Pub_location: Kingston Jamaica<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 92<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1968</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The White Witch of Rosehall</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51pIztxaB+L._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Ernest Benn<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 255<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">1980</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Psyche</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51IpfCHus5L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Macmillan Publishers<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 224<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1980</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Morgan's Daughter</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51ax2NptggL._SX304_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Macmillan Publishers<br/>
+                Pub_location: Kingston Jamaica<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 255<br/>                   </p>
+            </div>
+        </div>      
+ <div class="block">
+            <div class="date left"><p class="left">2002</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Rōzukan no Shiroi Majo</h1><hr>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxcQdAlS0zZoysmhyQWtV-SVwwIhUWsevJJcjFe3Lf&s" height="50%" width = "50%"></p>
+                <p>
+                Language: Japanese<br/>
+                  Publisher: Satō Atsuko<br/>
+                Pub_location: Tokyo, Japan<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 420<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2018</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>La Sorcière Blanche de Rosehall</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41DjCPd+lXL._SX321_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: L'Harmattan<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 260<br/>                   </p>
+            </div>
+        </div>      
+<div class="block">
+            <div class="date left"><p class="left">2021</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Susan Proudleigh</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/61rVCtjGDdS._SX311_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Mint Editions<br/>
+                Pub_location: Portland, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: <br/>                   </p>
+            </div>
+        </div>
+<!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
