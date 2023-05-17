@@ -18,7 +18,7 @@ permalink: /hjreifer/
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Herbert J. Reifer is from <a href="{{ site.baseurl }}/12">Barbados.</a></p></div>
-              <div class="acreadmore">  <a href="WIKI LINK" target="_blank">Read more</a></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         <div class="block">
