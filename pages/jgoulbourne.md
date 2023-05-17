@@ -12,13 +12,13 @@ permalink: /jgoulbourne/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-             <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
+             <div class="date right"><p class="right"> b. Unknown </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Jean Goulbourne is from <a href="{{ site.baseurl }}/62">AUTHOR COUNTRY.</a></p></div>
-              <div class="acreadmore">  <a href="WIKI LINK" target="_blank">Read more</a></div>
+          <div class="aclocation">  <p>Jean Goulbourne is from <a href="{{ site.baseurl }}/4">Jamaica.</a></p></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         <div class="block">
