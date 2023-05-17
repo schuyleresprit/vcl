@@ -313,7 +313,7 @@ permalink: /12/
                   </div>
                     <div class="vesti-desc">
                       <a class="desc-a" href="#">
-                        <h4><a href="{{ site.baseurl }}/mchapman/"> Matthew James Chapman</a></h4>
+                        <h4><a href="{{ site.baseurl }}/mjchapman/"> Matthew James Chapman</a></h4>
                       </a>
                     </div>
                   </div>
