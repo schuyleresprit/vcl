@@ -81,7 +81,7 @@ permalink: /mwlewis/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Central Africa in the Caribbean: Transcending Time, Transforming Cultures</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/31fKz7O-fvL._SX331_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://books.google.dm/books/content?id=cMARCr6HoB4C&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0ObawXILlxhil74Ke4gnMnrblQaw&w=1280"></p>
                 <p>Language: English<br/>
                 Publisher: University of the West Indies Press<br/>
                 Pub_location: Mona, Jamaica<br/>
