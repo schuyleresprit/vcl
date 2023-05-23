@@ -5,20 +5,20 @@ permalink: /jrossell/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-     <h1>AUTHOR NAME</h1>
+     <h1>Judith Rossell</h1>
     <div class="quote">
-        <div><img src="AUTHOR IMAGE LINK" height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFCiy2bAThjcjxq9N2cD6YHK123BRbK3a2i9LPbHVgPG1ncmRM" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-             <div class="date right"><p class="right"> BIRTH YEAR OR BIRTH-DEATH </p></div>
+             <div class="date right"><p class="right"> b. 1953 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>AUTHOR is from <a href="{{ site.baseurl }}/62">AUTHOR COUNTRY.</a></p></div>
-              <div class="acreadmore">  <a href="WIKI LINK" target="_blank">Read more</a></div>
+          <div class="aclocation">  <p>Judith Rossell is from <a href="{{ site.baseurl }}/36">Australia.</a></p></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         <div class="block">
