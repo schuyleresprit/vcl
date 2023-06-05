@@ -78,7 +78,23 @@ permalink: /9/
         </div>
       </div>
     </div>
-    <div id="post-5" class="vesti-col timeline-post">
+     <div id="post-5" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="80%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="{{ site.baseurl }}/msueroduran/">Margarita Suero-Duran</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="post-6" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://fhis.cms.arts.ubc.ca/wp-content/uploads/sites/29/2020/10/cropped-Arturo-profile-1.jpg" width="60%">
@@ -94,7 +110,7 @@ permalink: /9/
         </div>
       </div>
     </div>
-     <div id="post-6" class="vesti-col timeline-post">
+     <div id="post-7" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Vigil_Diaz.jpg" width="60%">
