@@ -5,20 +5,20 @@ permalink: /jjvilaire/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-     <h1>AUTHOR NAME</h1>
+     <h1>Jean-Joseph Vilaire</h1>
     <div class="quote">
-        <div><img src="AUTHOR IMAGE LINK" height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Etzer_Vilaire.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-             <div class="date right"><p class="right"> b. 1881 </p></div>
+             <div class="date right"><p class="right"> b. 1881-1967 </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>AUTHOR is from <a href="{{ site.baseurl }}/5">Haiti.</a></p></div>
-              <div class="acreadmore">  <a href="WIKI LINK" target="_blank">Read more</a></div>
+          <div class="aclocation">  <p>Jean-Joseph Vilaire is from <a href="{{ site.baseurl }}/5">Haiti.</a></p></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         <div class="block">
