@@ -7,7 +7,7 @@ permalink: /jjfigueroa/
 <div class="content">
      <h1>John J Figueroa</h1>
     <div class="quote">
-        <div><img src="" height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://repeatingislands.files.wordpress.com/2018/12/jfigueroa.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
