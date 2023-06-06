@@ -319,7 +319,23 @@ permalink: /14/
         </div>
       </div>
     </div>
-      <div id="post-19" class="vesti-col timeline-post">
+      <div id="post-2" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://images.mubicdn.net/images/cast_member/26943/cache-458543-1564868289/image-w856.jpg?size=800x">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="{{ site.baseurl }}/lgcarriles/">Lázaro Gómez Carriles</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+<div id="post-19" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Leonardo_Padura.jpg" width="60%" >
@@ -380,6 +396,22 @@ permalink: /14/
           <a class="desc-a" href="#">
             <h4><a href="{{ site.baseurl }}/mbrull/">Mariano Brull </a></h4>
           </a>
+</div>
+      </div>
+    </div>
+     <div id="post-22" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mariano_Rodriguez_por_Berestein_ca_40s.jpg/300px-Mariano_Rodriguez_por_Berestein_ca_40s.jpg" width="90%" >
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="https://es.wikipedia.org/wiki/Mariano_Rodr%C3%ADguez">
+            <h4><a href="{{ site.baseurl }}/mrodriguez/">Mariano Rodríguez</a></h4>
+          </a>
         </div>
       </div>
     </div>
@@ -394,7 +426,7 @@ permalink: /14/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="{{ site.baseurl }}/mbleón/">Marilyn Bobes León</a></h4>
+            <h4><a href="{{ site.baseurl }}/mbleon/">Marilyn Bobes León</a></h4>
           </a>
         </div>
       </div>
