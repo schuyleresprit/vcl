@@ -190,7 +190,6 @@ permalink: /1/
      </div>
    </div>
  </div>
-
   <div id="post-12" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -207,7 +206,6 @@ permalink: /1/
      </div>
    </div>
  </div>
-
  <div id="post-13" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -240,7 +238,6 @@ permalink: /1/
      </div>
    </div>
  </div>
-
  <div id="post-15" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -257,7 +254,6 @@ permalink: /1/
      </div>
    </div>
  </div>
-
   <div id="post-16" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
@@ -274,7 +270,6 @@ permalink: /1/
      </div>
    </div>
  </div>
-
   <div id="post-17" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
