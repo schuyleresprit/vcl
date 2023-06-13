@@ -1,11 +1,11 @@
 ---
 layout: defaultau
-title: "Arthur W. Lewis"
-permalink: /awlewis/
+title: "William Arthur Lewis"
+permalink: /walewis/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-     <h1>Arthur W. Lewis</h1>
+     <h1>William Arthur Lewis</h1>
     <div class="quote">
         <div><img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQWrFw7agAFIJomU1EvSmEy7KuCBECaGiqeeF0NQUoyAXDqION6DqGG9KQPWrc3pMKn-55fOX63ZPURpz0" height="50%" width = "50%" class="logo"></div>
     </div>
@@ -17,7 +17,7 @@ permalink: /awlewis/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Arthur W. Lewis is from <a href="{{ site.baseurl }}/16">Saint Lucia.</a></p></div>
+          <div class="aclocation">  <p>William Arthur Lewis is from <a href="{{ site.baseurl }}/16">Saint Lucia.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/W._Arthur_Lewis" target="_blank">Read more</a></div>
             </div>
             </div>
