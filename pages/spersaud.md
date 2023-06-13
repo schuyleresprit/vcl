@@ -18,7 +18,7 @@ permalink: /spersaud/
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Sasenarine Persaud is from <a href="{{ site.baseurl }}/62">Guyana.</a></p></div>
-              <div class="acreadmore">  <a href="NA" target="_blank">Read more</a></div>
+              <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
         <div class="block">
