@@ -30,12 +30,26 @@ permalink: /lfmanigat/
                 <p>
                 Language: French<br/>
                 Publisher: Imp. La Phalange<br/>
-                Pub_location: Port-au-Prince<br/>
+                Pub_location: Port-au-Prince, Haiti<br/>
                 Genre: Essay<br/>
                 Length: 43<br/>                   </p>
             </div>
         </div>
        <div class="block">
+            <div class="date left"><p class="left">1971</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Statu Quo En Haiti? D'un Duvalier À L'autre: L'itinéraire D'un Fascisme De Sous-Développement</h1><hr>
+                <p><img src="http://classiques.uqac.ca/contemporains/manigat_Leslie_F/Statu-quo_en_Haiti/Statu-quo_en_Haiti_L12.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: La Technique du livre<br/>
+                Pub_location: Paris, France<br/>
+                Genre: Essay<br/>
+                Length: 49<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
             <div class="date right"><p class="right">1991</p></div>
             <div class="dot"></div>
             <div class="left">

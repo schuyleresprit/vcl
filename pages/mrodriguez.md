@@ -25,7 +25,7 @@ permalink: /mrodriguez/
             <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Huellas del Che Guevara, Las</h1><hr>
+                <h1>Las Huellas del Che Guevara</h1><hr>
                 <p><img src="https://r.wheelers.co/bk/small/978030/9780307274083.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
@@ -44,7 +44,7 @@ permalink: /mrodriguez/
                 <p>
                 Language: Spanish<br/>
                 Publisher: Vintage Espanol<br/>
-                Pub_location: Madrid Spain<br/>
+                Pub_location: Madrid, Spain<br/>
                 Genre: Nonfiction Book<br/>
                 Length: 320<br/>                   </p>
             </div>
@@ -53,7 +53,7 @@ permalink: /mrodriguez/
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
             <div class="right">
-                <h1>Inadmisible </h1><hr>
+                <h1>Inadmisible</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41+q8k0DueL.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
@@ -86,7 +86,7 @@ permalink: /mrodriguez/
                 <p>
                 Language: English<br/>
                 Publisher: Independently Published<br/>
-                Pub_location: <br/>
+                Pub_location: Havana, Cuba<br/>
                 Genre: Nonfiction Book<br/>
                 Length: 292<br/>                   </p>
             </div>
