@@ -63,6 +63,51 @@ permalink: /wtvollmann
                 Length: 318<br/>                   </p>
             </div>
         </div>
+<div class="block">
+            <div class="date left"><p class="left">1990</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Ice-Shirt</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/c/c0/Iceshirtcvr.jpg" height="50%" width = "50%"></p>
+                <p>
+		Series: Volume 1 of the Seven Dreams: A Book of North American Landscapes<br/>                
+		Language: English<br/>
+                Publisher: Viking Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 404<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1992</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Fathers and Crows</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/a/af/FathersAndCrows.jpg" height="50%" width = "50%"></p>
+                <p>
+                Series: Volume 2 of the Seven Dreams: A Book of North American Landscapes<br/>                
+		Language: English<br/>
+                Publisher: Viking Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 1008<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">1994</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Rifles</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/2/2d/TheriflesUScvr.jpg" height="50%" width = "50%"></p>
+                <p>
+                Series: Volume 6 of the Seven Dreams: A Book of North American Landscapes<br/>                
+		Language: English<br/>
+                Publisher: Viking Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 411<br/>                   </p>
+            </div>
+        </div>
        <div class="block">
             <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
@@ -76,7 +121,23 @@ permalink: /wtvollmann
                 Genre: Autobiography/Memoir<br/>
                 Length: 496<br/>                   </p>
             </div>
-        </div><div class="block">
+        </div>
+ <div class="block">
+            <div class="date left"><p class="left">2001</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Argall: The True Story of Pocahontas and Captain John Smith</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/4/47/Argall.jpg" height="50%" width = "50%"></p>
+                <p>
+                Series: Volume 3 of the Seven Dreams: A Book of North American Landscapes<br/>                
+		Language: English<br/>
+                Publisher: Viking Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 736<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
             <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
             <div class="right">
@@ -119,6 +180,21 @@ permalink: /wtvollmann
             </div>
         </div>
 <div class="block">
+            <div class="date right"><p class="right">2015 </p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The Dying Grass</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/6/60/TheDyingGrassNovel.jpg" height="50%" width = "50%"></p>
+                <p>
+               Series: Volume 5 of the Seven Dreams: A Book of North American Landscapes<br/>                
+		Language: English<br/>
+                Publisher: Viking Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 1376<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
             <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
             <div class="left">
@@ -130,6 +206,48 @@ permalink: /wtvollmann
                 Pub_location: New York, NY, United States<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 672<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1991</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Whores for Gloria</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51EfFuM49AL.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Penguin Books<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 160<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">1993</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Butterfly Stories: A Novel</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51S46jj-62L._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher:  Grove Press<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 281<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2000</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Royal Family</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/5/52/RoyalFamilyNovel.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Viking Press<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 780<br/>                   </p>
             </div>
         </div>       
 <!-- partial -->
