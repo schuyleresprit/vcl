@@ -64,9 +64,9 @@ permalink: /wtvollmann
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>The Ice-Shirt</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/c/c0/Iceshirtcvr.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -79,9 +79,9 @@ permalink: /wtvollmann
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">1992</p></div>
+            <div class="date left"><p class="left">1992</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>Fathers and Crows</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/a/af/FathersAndCrows.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -91,6 +91,20 @@ permalink: /wtvollmann
                 Pub_location: New York, NY, United States<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 1008<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">1993</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Butterfly Stories: A Novel</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51S46jj-62L._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher:  Grove Press<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 281<br/>                   </p>
             </div>
         </div>
 <div class="block">
@@ -122,10 +136,24 @@ permalink: /wtvollmann
                 Length: 496<br/>                   </p>
             </div>
         </div>
- <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
+<div class="block">
+            <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
             <div class="right">
+                <h1>The Royal Family</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/5/52/RoyalFamilyNovel.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Viking Press<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 780<br/>                   </p>
+            </div>
+        </div>
+ <div class="block">
+            <div class="date right"><p class="right">2001</p></div>
+            <div class="dot"></div>
+            <div class="left">
                 <h1>Argall: The True Story of Pocahontas and Captain John Smith</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/4/47/Argall.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -195,9 +223,9 @@ permalink: /wtvollmann
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>The Lucky Star: A Novel</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51l1ThYjqBL._SX329_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -220,34 +248,6 @@ permalink: /wtvollmann
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 160<br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date left"><p class="left">1993</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Butterfly Stories: A Novel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51S46jj-62L._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English<br/>
-                Publisher:  Grove Press<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 281<br/>                   </p>
-            </div>
-        </div>
-<div class="block">
-            <div class="date left"><p class="left">2000</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>The Royal Family</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/en/5/52/RoyalFamilyNovel.jpg" height="50%" width = "50%"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Viking Press<br/>
-                Pub_location: New York, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 780<br/>                   </p>
             </div>
         </div>       
 <!-- partial -->
