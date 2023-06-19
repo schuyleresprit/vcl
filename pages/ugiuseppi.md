@@ -126,8 +126,8 @@ Language: English<br/>
                 <h1>Out for Stars: Book 2: An Anthology of Poetry for Caribbean Secondary Schools</h1><hr>
                 <p><img src="" height="50%" width = "50%"></p>
                 <p>
-Co-Author: Neville Giuseppi<br/>                                
-Language: English<br/>
+		Co-Author: Neville Giuseppi<br/>                                
+		Language: English<br/>
                 Publisher: Macmillan Education<br/>
                 Pub_location: London, England<br/>
                 Genre: Anthology<br/>
