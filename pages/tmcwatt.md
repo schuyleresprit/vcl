@@ -129,7 +129,7 @@ permalink: /tmcwatt
                 Publisher: Random House Canada<br/>
                 Pub_location: Toronto, Canada<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: <br/>                   </p>
+                Length: 304<br/>                   </p>
             </div>
         </div>       
 <div class="block">
@@ -170,7 +170,7 @@ permalink: /tmcwatt
                 Language: English<br/>
                 Publisher: Groundwood Books<br/>
                 Pub_location: Toronto, Canada<br/>
-                Genre: Fiction (Novel)<br/>
+                Genre: Short Story<br/>
                 Length: 44<br/>                   </p>
             </div>
         </div>
