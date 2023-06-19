@@ -149,7 +149,21 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
+            <div class="date right"><p class="right">2003</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Act of God</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51ZmLC3oIML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Macmillan Caribbean<br/>
+                Pub_location: London, England<br/>
+                Genre: Anthology<br/>
+                Length: 152<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>I Remember</h1><hr>
@@ -162,5 +176,20 @@ Language: English<br/>
                 Length: 250<br/>                   </p>
             </div>
         </div>
+<div class="block">
+            <div class="date right"><p class="right">2005</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Russell Tesheira</h1><hr>
+                <p><img src="" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Triniprint Limited<br/>
+                Pub_location: Port of Spain, Trinidad & Tobago<br/>
+                Genre: Biography<br/>
+                Length: 32<br/>                   </p>
+            </div>
+        </div>
+       
 <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
