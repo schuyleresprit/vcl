@@ -339,5 +339,376 @@ Language: English<br/>
                 Length: 464<br/>                   </p>
             </div>
         </div>
+<div class="block">
+            <div class="date left"><p class="left">2007</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Blood Brothers</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41ZmsZ9pKpL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                
+Series: The Sign of Seven(#1)<br/>
+Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 336<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">2008</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Tribute</h1><hr>
+                <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdBRHRAUAVKbLRd1210pQgNlCxbUomBFcXQFb3cqrt-k6kECrP" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: G. P. Putnam's Sons<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 464<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2009</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Bed of Roses</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/6/62/Bed_of_Roses_%28novel%29.jpg" height="50%" width = "50%"></p>
+                <p>
+		Series: Bride Quartet<br/>                
+		Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 352<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">2009</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Vision in White</h1><hr>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/f/f7/Vision_in_White_cover.jpg" height="50%" width = "50%"></p>
+                <p>
+                Series: Bride Quartet<br/>                
+		Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 336<br/>                   </p>
+            </div>
+        </div><div class="block">
+            <div class="date left"><p class="left">2011</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Next Always</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/P/0515151491.01._SCLZZZZZZZ_SX500_.jpg" height="50%" width = "50%"></p>
+                <p>
+		Series: The Inn Boonsboro Trilogy (#1)<br/>                
+		Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 336<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2012</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The Last Boyfriend</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41ZTPLcYK2L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Series: The Inn Boonsboro Trilogy (#2)<br/>                
+		Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 320<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2012</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Perfect Hope</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/511rW3RzlmL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Series: The Inn Boonsboro Trilogy (#3)<br/>                
+		Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 320<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2012</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The Witness</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51SZ64QZZPL._SX328_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: G. P. Putnam's Sons<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 496<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Whiskey Beach</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51Gh-RW8sHL._SX329_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: G. P. Putnam's Sons<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 496<br/>                   </p>
+            </div>
+        </div>
+ <div class="block">
+            <div class="date right"><p class="right">2013</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Dark Witch</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51nbc1T5oeL._SX308_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+		Series: The Cousins O'Dwyer Trilogy (#1)                
+		Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 352<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Collector</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/517UXTpHyEL._SX308_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 448<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">2015</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Stars of Fortune</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51lWQBgJzDL._SX331_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+		Series: The Guardian Trilogy (#1)<br/>                
+		Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 336<br/>                   </p>
+            </div>
+        </div><div class="block">
+            <div class="date left"><p class="left">2015</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>The Liar</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51JuCfRoViL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 480<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2016</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The Obsession</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51H5Obes2+L._SY344_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: Berkley<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 480<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2017</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Year One</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41xbSUgvbqL._SY346_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 419<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2017</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Echoes in Death: An Eve Dallas Novel</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51Kkg48HmML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 416<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">2017</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Come Sundown</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51r9ALPA6oL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 480<br/>                   </p>
+            </div>
+        </div>
+ <div class="block">
+            <div class="date right"><p class="right">2018</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Shelter in Place</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51rnAhMUYzL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 448<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date left"><p class="left">2018</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Of Blood and Bone</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51wcGk5gd+L._SX327_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+		Series: Chronicles of The One<br/>                
+		Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 464<br/>                   </p>
+            </div>
+        </div>
+       <div class="block">
+            <div class="date right"><p class="right">2019</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Under Currents: A Novel</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51lK1R1IoIL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 448<br/>                   </p>
+            </div>
+        </div><div class="block">
+            <div class="date left"><p class="left">2020</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Hideaway</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51qS5vTXIcL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 448<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2020</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>The Awakening: The Dragon Heart Legacy</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51vfWRjaYoL._SX327_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+		Series: The Dragon Heart Legacy<br/>                
+		Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 448<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date left"><p class="left">2021</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Legacy: A Novel</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51X9xkWgaqL._SX327_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 448<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2022</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Nightwork: A Novel</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/511IAgiE4bL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 448<br/>                   </p>
+            </div>
+        </div>       
+<div class="block">
+            <div class="date left"><p class="left">2023</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Payback in Death: An Eve Dallas Novel</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51i0BHdDjlL._SX327_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 368<br/>                   </p>
+            </div>
+        </div>
+ <div class="block">
+            <div class="date right"><p class="right">2023</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Identity</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51e-SPygI8L._SY346_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: St. Martin's Press <br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Ficton (Novel)<br/>
+                Length: 439<br/>                   </p>
+            </div>
+        </div>
 <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
