@@ -81,9 +81,53 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
+            <div class="date left"><p class="left">2018</p></div>
+            <div class="dot"></div>
+            <div class="right">
+                <h1>Him </h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/312DdY-61fL._SX311_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Jeanius Publishing LLC<br/>
+                Pub_location: Florida, United States<br/>
+                Genre: Poetry Collection<br/>
+                Length: 190<br/>                   </p>
+            </div>
+        </div>
+<div class="block">
+            <div class="date right"><p class="right">2018</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>In love with you</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/41hVD9qDGuL._SX322_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Jeanius Publishing LLC<br/>
+                Pub_location: Florida, United States<br/>
+                Genre: Poetry Collection<br/>
+                Length: 52<br/>                   </p>
+            </div>
+        </div>
+
+<div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
             <div class="right">
+                <h1>Apologies That Never Came</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/418996LdEFL._SX311_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Andrews McMeel Publishing<br/>
+                Pub_location: Missouri, United States<br/>
+                Genre: Poetry Collection<br/>
+                Length: 96<br/>                   </p>
+            </div>
+        </div>
+
+<div class="block">
+            <div class="date right"><p class="right">2019</p></div>
+            <div class="dot"></div>
+            <div class="left">
                 <h1>Ashes of Her Love</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/3153fu05qtL.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -95,9 +139,9 @@ Language: English<br/>
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2023</p></div>
+            <div class="date left"><p class="left">2023</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>HER III</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31wV+FnTF4L.jpg" height="50%" width = "50%"></p>
                 <p>
