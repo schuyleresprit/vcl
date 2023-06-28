@@ -398,4 +398,20 @@ permalink: /12/
   </div>
 </div>
 </div>
+<div id="post-25" class="vesti-col timeline-post">
+<div class="vesti-content-wrapper">
+  <div class="photo">
+    <img src="https://arimacirc.files.wordpress.com/2017/04/undine-crop-1-redo.jpg?w=217" width="60%" height="70%">
+    <div class="vesti-date-wrapper">
+ <div class="vesti-date">
+    </div>
+  </div>
+</div>
+  <div class="vesti-desc">
+    <a class="desc-a" href="#">
+      <h4><a href="{{ site.baseurl }}/ugiuseppi/">Undine Giuseppi</a></h4>
+    </a>
+  </div>
+</div>
+</div>
 <!-- partial -->

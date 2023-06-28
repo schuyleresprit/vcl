@@ -552,13 +552,29 @@ permalink: /4/
          </div>
        </div>
        <div class="vesti-desc">
-         <a class="desc-a" href="https://en.wikipedia.org/wiki/Nalo_Hopkinson">
+         <a class="desc-a" href="#">
            <h4><a href="{{ site.baseurl }}/nhopkinson/">Nalo Hopkinson</a></h4>
          </a>
        </div>
      </div>
    </div>
-   <div id="post-35" class="vesti-col timeline-post">
+<div id="post-35" class="vesti-col timeline-post">
+     <div class="vesti-content-wrapper">
+       <div class="photo">
+         <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="50%" height="50%">
+         <div class="vesti-date-wrapper">
+           <div class="vesti-date">
+           </div>
+         </div>
+       </div>
+       <div class="vesti-desc">
+         <a class="desc-a" href="#">
+           <h4><a href="{{ site.baseurl }}/nroy/">Namba Roy</a></h4>
+         </a>
+       </div>
+     </div>
+   </div>
+   <div id="post-36" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Portrait_of_Peter_Abrahams_LCCN2004662473_%28crop%29.jpg" width="50%" height="50%">
@@ -574,7 +590,7 @@ permalink: /4/
        </div>
      </div>
    </div>
- <div id="post-36" class="vesti-col timeline-post">
+ <div id="post-37" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
          <img src="https://ran-s3.s3.amazonaws.com/petrinearcher.com/s3fs-public/images/pa-feature.jpg" width="50%" height="50%">
@@ -590,7 +606,7 @@ permalink: /4/
        </div>
      </div>
    </div>
- <div id="post-37" class="vesti-col timeline-post">
+ <div id="post-38" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="50%" height="50%">
@@ -606,7 +622,7 @@ permalink: /4/
        </div>
      </div>
    </div>
- <div id="post-38" class="vesti-col timeline-post">
+ <div id="post-39" class="vesti-col timeline-post">
          <div class="vesti-content-wrapper">
            <div class="photo">
              <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Rachel%20Manley_1.jpg?itok=DFr3t7QJ" width="50%" height="50%">
@@ -622,7 +638,7 @@ permalink: /4/
            </div>
          </div>
        </div>
- <div id="post-39" class="vesti-col timeline-post">
+ <div id="post-40" class="vesti-col timeline-post">
          <div class="vesti-content-wrapper">
            <div class="photo">
              <img src="http://idata.over-blog.com/0/57/55/67/Album-2/0086-photo-N.Roy.JPG" width="50%" height="50%">
@@ -638,7 +654,7 @@ permalink: /4/
            </div>
          </div>
        </div>
- <div id="post-40" class="vesti-col timeline-post">
+ <div id="post-41" class="vesti-col timeline-post">
              <div class="vesti-content-wrapper">
                <div class="photo">
                  <img src="https://saracollinsauthor.com/wp-content/uploads/2020/09/sara-collins-headshot-rebecca-davidson.jpg" width="50%" height="50%">
@@ -654,7 +670,7 @@ permalink: /4/
                </div>
              </div>
            </div>
- <div id="post-41" class="vesti-col timeline-post">
+ <div id="post-42" class="vesti-col timeline-post">
              <div class="vesti-content-wrapper">
                <div class="photo">
                  <img src="https://pbs.twimg.com/media/End6eeJW8AAzMn1.jpg" width="50%" height="50%">
@@ -670,7 +686,7 @@ permalink: /4/
                </div>
              </div>
            </div>
- <div id="post-42" class="vesti-col timeline-post">
+ <div id="post-43" class="vesti-col timeline-post">
              <div class="vesti-content-wrapper">
                <div class="photo">
                  <img src="https://images.mubicdn.net/images/cast_member/41641/cache-375539-1538265762/image-w856.jpg?size=160x" width="50%" height="50%">
@@ -686,7 +702,7 @@ permalink: /4/
                </div>
              </div>
            </div>
- <div id="post-43" class="vesti-col timeline-post">
+ <div id="post-44" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
          <img src="https://images.squarespace-cdn.com/content/v1/5c6c7a309d41493e5e0500da/1593185429232-ULWTAOM3ZO6UBXIIUHZK/1.jpg?format=1000w" width="50%" height="50%">
@@ -702,7 +718,7 @@ permalink: /4/
        </div>
      </div>
    </div>
-   <div id="post-44" class="vesti-col timeline-post">
+   <div id="post-45" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="50%" height="50%">
@@ -718,7 +734,7 @@ permalink: /4/
        </div>
      </div>
    </div>
- <div id="post-45" class="vesti-col timeline-post">
+ <div id="post-46" class="vesti-col timeline-post">
           <div class="vesti-content-wrapper">
             <div class="photo">
               <img src="https://nlj.gov.jm/wp-content/uploads/2017/05/vic_reid-1080x1418.jpg" width="50%" height="50%">
@@ -734,7 +750,7 @@ permalink: /4/
             </div>
           </div>
         </div>
-   <div id="post-46" class="vesti-col timeline-post">
+   <div id="post-47" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
          <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="50%" height="50%">
@@ -750,5 +766,4 @@ permalink: /4/
        </div>
      </div>
    </div>
-
 <!-- partial -->

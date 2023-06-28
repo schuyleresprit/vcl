@@ -174,7 +174,23 @@ permalink: /1/
         </div>
       </div>
     </div>
-  <div id="post-11" class="vesti-col timeline-post">
+<div id="post-11" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NoraRoberts.jpg/330px-NoraRoberts.jpg" width="60%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="{{ site.baseurl }}/nroberts/">Nora Roberts</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+  <div id="post-12" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/Paule_Marshall.jpg" width="60%">
@@ -190,7 +206,7 @@ permalink: /1/
      </div>
    </div>
  </div>
-  <div id="post-12" class="vesti-col timeline-post">
+  <div id="post-13" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.cgas.udel.edu/IMAGES%20BIOS/BRAHAM_P.JPG?RenditionID=14" width="60%">
@@ -206,7 +222,7 @@ permalink: /1/
      </div>
    </div>
  </div>
- <div id="post-13" class="vesti-col timeline-post">
+ <div id="post-14" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://static.wixstatic.com/media/16aa54_d4c6423a128f41fdba8ed0093fb9fc2b~mv2.jpg/v1/fill/w_286,h_420,al_c,lg_1,q_80,enc_auto/Young%20Artist.jpg" width="60%">
@@ -222,7 +238,7 @@ permalink: /1/
      </div>
    </div>
  </div>
-   <div id="post-14" class="vesti-col timeline-post">
+   <div id="post-15" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg">
@@ -238,7 +254,7 @@ permalink: /1/
      </div>
    </div>
  </div>
- <div id="post-15" class="vesti-col timeline-post">
+ <div id="post-16" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/robert%20antoni.jpg">
@@ -254,7 +270,7 @@ permalink: /1/
      </div>
    </div>
  </div>
-  <div id="post-16" class="vesti-col timeline-post">
+  <div id="post-17" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://orionmagazine.org/wp-content/uploads/2015/06/Ruben-Martinez.jpg" width="60%">
@@ -270,7 +286,7 @@ permalink: /1/
      </div>
    </div>
  </div>
-  <div id="post-17" class="vesti-col timeline-post">
+  <div id="post-18" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://d1tdv5xoeixo5.cloudfront.net/sites/vqr.virginia.edu/files/person-images/6918_Tyrone-Williams.jpg" width="60%">
@@ -286,7 +302,20 @@ permalink: /1/
      </div>
    </div>
  </div>
-
-
-
+<div id="post-19" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/William_T._Vollmann_2006_%28cropped%29.jpg" width="60%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="{{ site.baseurl }}/wtvollmann/">William T Vollmann</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
 <!-- partial -->
