@@ -209,7 +209,7 @@ permalink: /kbrathwaite/
            </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">197</p></div>
+            <div class="date left"><p class="left">1977</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Nanny, Sam Sharpe and the Struggle for People's Liberation</h1><hr>
