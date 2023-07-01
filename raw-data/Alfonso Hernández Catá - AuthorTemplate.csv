@@ -3,7 +3,7 @@ authorid,Title,Pubdate,Language,Publisher,City,Country,Pub_id,Genre,Translation,
 ahcata,Cuentos pasionales,1907,Spanish,M. Pérez Villavicencio,Mexico City,Mexico,mexico_city_mexico,Short Stories,n,125,
 ahcata,Novela erótica,1909,Spanish,Ramon Sopena,Barcelona,Spain,barcelona_spain,Fiction (Novella),n,266,
 ahcata,Pelayo González,1909,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Fiction (Novella),n,328,
-ahcata,La distancia,1910,Spanish,El Cuento Semanal,Madrid,Spain,madrid_spain,Fiction (Short Story,n,86,Illustrations by Castelao
+ahcata,La distancia,1910,Spanish,El Cuento Semanal,Madrid,Spain,madrid_spain,Fiction (Short Story),n,86,Illustrations by Castelao
 ahcata,La juventud de Aurelio Zaldívar,1912,Spanish,Editorial Renacimiento,Seville,Spain,seville_spain,Fiction (Novella),n,283,
 ahcata,El amor tardío,1913,Spanish,Editorial Renacimiento,Seville,Spain,seville_spain,Drama,n,,
 ahcata,Cabecita loca,1914,Spanish,Sociedad de autores españoles,Madrid,Spain,madrid_esp_spain,Drama,n,72,Con Alberto Insúa
@@ -14,20 +14,20 @@ ahcata,Los siete pecados,1918,Spanish,Renaissance,Madrid,Spain,madrid_esp_spain,
 ahcata,Zoología pintoresca,1919,Spanish,Ramon Sopena,Barcelona,Spain,barcelona_spain,Short Stories,n,677,
 ahcata,La casa de las fieras,1919,Spanish,G. Hernández y Galo Sáez.,Madrid,Spain,madrid_spain,Short Stories,n,316,
 ahcata,La casa deshecha,1919,Spanish,Los Contemporáneos,Mexico City,Mexico,mexico_city_mexico,Drama,n,24,
-ahcata,El placer de sufrir,1921,Spanish,Editorial Mvndo Latino,Madrid,Spain,madrid_spain,Fiction (Novella),n,272,
+ahcata,El placer de sufrir,1921,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Fiction (Novella),n,272,
 ahcata,Estrellas errantes,1921,Spanish,La Novela Semanal,Madrid,Spain,madrid_spain,Fiction (Novella),n,20,
 ahcata,La patria azul,1921,Spanish,La Novela Corta,Madrid,Spain,madrid_spain,Fiction (Novella),n,20,
 ahcata,El nieto de Hamlet,1921,Spanish,La Novela Corta,Madrid,Spain,madrid_spain,Fiction (Novella),n,24,
-ahcata,El drama de la señorita Occidente,1921,Spanish,La Novela Semanal,Buenos Aires,Argentina,buenos_aires_argentina,Drama,n,35,
+ahcata,El drama de la señorita Occidente,1921,Spanish,La Novela Semanal,Madrid,Spain,madrid_esp_spain,Drama,n,35,
 ahcata,La última flecha',1921,Spanish,Los Contemporáneos,Mexico City,Mexico,mexico_city_mexico,Drama,n,24,
-ahcata,Una mala mujer,1922,Spanish,Editorial Mundo Latino,"Los Angeles, CA",United States,los_angeles_ca_united¬†states,Fiction (Novella),n,284,
-ahcata,La muerte nueva,1922,Spanish,Editorial Mundo Latino,"Los Angeles, CA",United States,los_angeles_ca_united¬†states,Fiction (Novella),n,400,
-ahcata,El corazón,1923,Spanish,Editorial Mundo Latino,"Los Angeles, CA",United States,los_angeles_ca_united¬†states,Fiction (Novella),n,336,
-ahcata,Libro de amor,1924,Spanish,Editorial Mundo Latino,"Los Angeles, CA",United States,los_angeles_ca_united¬†states,Short Stories,n,279,
-ahcata,Don Luis Mejía,1925,Spanish,Editorial Reus,Madrid,Spain,madrid_esp_spain,Drama,n,186,Con Eduardo Marquina
-ahcata,El bebedor de lágrimas,1926,Spanish,Editorial Mundo Latino,"Los Angeles, CA",United States,los_angeles_ca_united¬†states,Fiction (Novella),n,318,
-ahcata,Piedras preciosas,1927,Spanish,Editorial Mundo Latino,"Los Angeles, CA",United States,los_angeles_ca_united¬†states,Short Stories,n,333,
-ahcata,El ángel de Sodoma,1928,Spanish,Editorial Mundo Latino,"Los Angeles, CA",United States,los_angeles_ca_united¬†states,Fiction (Novella),n,198,
+ahcata,Una mala mujer,1922,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Fiction (Novella),n,284,
+ahcata,La muerte nueva,1922,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Fiction (Novella),n,400,
+ahcata,El corazón,1923,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Fiction (Novella),n,336,
+ahcata,Libro de amor,1924,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Short Stories,n,279,
+ahcata,Don Luis Mejía,1925,Spanish,Editorial Reus,Madrid,Spain,madrid_spain,Drama,n,186,Con Eduardo Marquina
+ahcata,El bebedor de lágrimas,1926,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Fiction (Novella),n,318,
+ahcata,Piedras preciosas,1927,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Short Stories,n,333,
+ahcata,El ángel de Sodoma,1928,Spanish,Editorial Mundo Latino,Madrid,Spain,madrid_spain,Fiction (Novella),n,198,
 ahcata,Martierra,1928,Spanish,Prensa Moderna,Cali,Colombia,cali_colombia,Drama,n,60,Música de Jacinto Guerrero 
 ahcata,La noche clara,1929,Spanish,Prensa Moderna,Cali,Colombia,cali_colombia,Drama,n,60,
 ahcata,Mitología de Martí,1929,Spanish,Editorial Renacimiento,Seville,Spain,seville_spain,Essay,n,431,
@@ -37,4 +37,4 @@ ahcata,Manicomio,1931,Spanish,Compañia Ibero-Americana de Publicaciones,Madrid
 ahcata,Cuatro libras de felicidad,1933,Spanish,Editorial Renacimiento,Seville,Spain,seville_spain,Fiction (Short Story),n,307,
 ahcata,Un cementerio en las Antillas,1933,Spanish,Imp. de G. Saéz,Madrid,Spain,madrid_spain,Fiction (Short Story),n,266,
 ahcata,Cuentos,1966,Spanish,The Instituto de Literatura y Lingüística ,Havana,Cuba,havana_cuba,Fiction (Short Story),n,136,
-ahcata,Nunca es tarde,1992,Spanish,"La Novela Comica",Madrid,Spain,madrid_spain,Drama,n,16,Con Alberto Insúa
+ahcata,Nunca es tarde,1992,Spanish,La Novela Comica,Madrid,Spain,madrid_spain,Drama,n,16,Con Alberto Insúa
