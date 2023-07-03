@@ -51,11 +51,9 @@ permalink: /ahcata/
            </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1966</p></div>
             <div class="date left"><p class="left">1909</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Cuentos</h1><hr>
                 <h1>Pelayo González</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51aq6gV2bBL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -86,10 +84,6 @@ permalink: /ahcata/
                 <p><img src="https://pictures.abebooks.com/inventory/md/md30021388792.jpg"></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: Instituto de Literatura y Lingüística<br/>
-                Pub_location: Havana, Cuba<br/>
-                Genre: Short Story<br/>
-                Length: 136</p>
                 Publisher: Editorial Renacimiento<br/>
                 Pub_location: Seville, Spain<br/>
                 Genre: Fiction (Novella)<br/>
@@ -110,11 +104,9 @@ permalink: /ahcata/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1907</p></div>
             <div class="date left"><p class="left">1914</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Cuentos pasionales</h1><hr>
                 <h1>Cabecita loca</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md22577705965.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -158,10 +150,6 @@ permalink: /ahcata/
                 <p><img src="https://ia902905.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/laculpaajenacome2691insa/laculpaajenacome2691insa_jp2.zip&file=laculpaajenacome2691insa_jp2/laculpaajenacome2691insa_0001.jp2&id=laculpaajenacome2691insa&scale=4&rotate=0"></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: M. Pérez Villavicencio<br/>
-                Pub_location: NA<br/>
-                Genre: Short Story<br/>
-                Length: 125</p>
                 Publisher: Sociedad de autores españoles<br/>
                 Pub_location:  Madrid, Spain<br/>
                 Genre: Drama<br/>
@@ -169,12 +157,9 @@ permalink: /ahcata/
            </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1910</p></div>
             <div class="date left"><p class="left">1918</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>La distancia</h1><hr>
-                <p><img src="https://covers.openlibrary.org/b/id/9579124-L.jpg"></p>
                 <h1>Los siete pecados</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md22826422894.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -232,17 +217,13 @@ permalink: /ahcata/
                 <p><img src="https://books.google.dm/books/content?id=38MSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73uLAeNbZ7I_NNyie2yJMVZSQXEWW5PzsXzKk4UaG-RIA7mqCxzLCI34MlePqjQvzyl_Mij7YLRcAilkyjJ2Tez1-NCuUFbQoqK2JV5_lv0xACxe5UeIQVb3ikaMHLstS3zS8-P"></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: Impr. Artística Espanola<br/>
                 Publisher: Editorial Mundo Latino<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Short Story<br/>
-                Length: 21</p>
                 Genre: Fiction (Novella)<br/>
                 Length: 272</p>
            </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1922</p></div>
             <div class="date right"><p class="right">1921</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -285,17 +266,12 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1921</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Pelayo González. Algunas de sus ideas. Algunos de sus hechos. Su muerte </h1><hr>
-                <p><img src="https://covers.openlibrary.org/b/id/9579124-L.jpg"></p>
                 <h1>El drama de la señorita Occidente</h1><hr>
                 <p><img src="http://sicalipsis.humnet.ucla.edu/files/square_thumbnails/8ce2f19ec099fb2bb6f8d6da74ef77ae.jpg"></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: Mundo Latino<br/>
                 Publisher: La Novela Semanal<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 328</p>
                 Genre: Drama<br/>
                 Length: 35</p>
            </div>
@@ -317,23 +293,17 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1922</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Pelayo González. Algunas de sus ideas. Algunos de sus hechos. Su muerte </h1><hr>
-                <p><img src="https://covers.openlibrary.org/b/id/9579124-L.jpg"></p>
                 <h1>Una mala mujer</h1><hr>
                 <p><img src=""></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: Mundo Latino<br/>
                 Publisher: Editorial Mundo Latino<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 328</p>
                 Genre: Fiction (Novella)<br/>
                 Length: 284</p>
            </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1922</p></div>
             <div class="date right"><p class="right">1922</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -350,23 +320,17 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1923</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Pelayo González. Algunas de sus ideas. Algunos de sus hechos. Su muerte </h1><hr>
-                <p><img src="https://covers.openlibrary.org/b/id/9579124-L.jpg"></p>
                 <h1>El corazón</h1><hr>
                 <p><img src="https://ia800905.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/elcorazn00hern/elcorazn00hern_jp2.zip&file=elcorazn00hern_jp2/elcorazn00hern_0009.jp2&id=elcorazn00hern&scale=4&rotate=0"></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: Mundo Latino<br/>
                 Publisher: Editorial Mundo Latino<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 328</p>
                 Genre: Fiction (Novella)<br/>
                 Length: 336</p>
            </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">1922</p></div>
             <div class="date right"><p class="right">1924</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -384,17 +348,12 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1925</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Pelayo González. Algunas de sus ideas. Algunos de sus hechos. Su muerte </h1><hr>
-                <p><img src="https://covers.openlibrary.org/b/id/9579124-L.jpg"></p>
                 <h1>Don Luis Mejía</h1><hr>
                 <p><img src="https://ia600400.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/donluismejiacome3353marq/donluismejiacome3353marq_jp2.zip&file=donluismejiacome3353marq_jp2/donluismejiacome3353marq_0007.jp2&id=donluismejiacome3353marq&scale=4&rotate=0"></p>
                 <p>
                 Language: Spanish<br/>
-                Publisher: Mundo Latino<br/>
                 Publisher: Editorial Reus<br/>
                 Pub_location: Madrid, Spain<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 328</p>
                 Genre: Drama<br/>
                 Length: 186</p>
            </div>
@@ -414,7 +373,6 @@ permalink: /ahcata/
            </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2002</p></div>
             <div class="date left"><p class="left">1927</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -459,11 +417,6 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1929</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>NOVELA EROTICA</h1><hr>
-                <p><img src="https://covers.openlibrary.org/b/id/12660234-L.jpg"></p>
-                <p>Language: English<br/>
-                Publisher: Peepal Tree Press<br/>
-                Pub_location: Leeds, England<br/>
                 <h1>La noche clara</h1><hr>
                 <p><img src="https://covers.openlibrary.org/b/id/10070668-L.jpg"></p>
                 <p>
@@ -498,7 +451,6 @@ permalink: /ahcata/
                 Publisher: Alejandro Pueyo<br/>
                 Pub_location: Madrid, Spain<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 187</p>
                 Length: 318</p>
            </div>
         </div>
