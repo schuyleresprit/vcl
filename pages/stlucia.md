@@ -81,6 +81,22 @@ permalink: /16/
  <div id="post-5" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Jane%20King%20author%20photo.jpg?itok=uHNuE3NI">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="{{ site.baseurl }}/jkhippolyte/">Jane King Hippolyte</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+ <div id="post-6" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://2.bp.blogspot.com/-n3znsYnnyfE/T33jJsnoW3I/AAAAAAAAA4Q/Rq-5iBFsGJc/s400/John+Robert+Lee.jpg">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
@@ -94,7 +110,7 @@ permalink: /16/
         </div>
       </div>
     </div>
-  <div id="post-6" class="vesti-col timeline-post">
+  <div id="post-7" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kendel_Hippolyte_%28cropped%29.jpg/220px-Kendel_Hippolyte_%28cropped%29.jpg">
@@ -110,7 +126,7 @@ permalink: /16/
         </div>
       </div>
     </div>
-    <div id="post-7" class="vesti-col timeline-post">
+    <div id="post-8" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
           <img src="https://thevoiceslu.com/wp-content/uploads/2015/11/BLANCHARD.jpg">
@@ -126,7 +142,7 @@ permalink: /16/
         </div>
       </div>
     </div>
-    <div id="post-8" class="vesti-col timeline-post">
+    <div id="post-9" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://thevoiceslu.com/wp-content/uploads/2020/08/Michael-Mike-Aubertin-2.jpg">
@@ -142,7 +158,7 @@ permalink: /16/
      </div>
    </div>
  </div>
-  <div id="post-9" class="vesti-col timeline-post">
+  <div id="post-10" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dame_Pearlette_Louisy_%28cropped%2C_3x4%29.jpg/220px-Dame_Pearlette_Louisy_%28cropped%2C_3x4%29.jpg">
@@ -158,7 +174,7 @@ permalink: /16/
      </div>
    </div>
  </div>
-    <div id="post-10" class="vesti-col timeline-post">
+    <div id="post-11" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://alchetron.com/cdn/peter-josie-063034de-064a-4ce5-964f-c31498dddc9-resize-750.jpg">
@@ -174,7 +190,7 @@ permalink: /16/
      </div>
    </div>
  </div>
-    <div id="post-11" class="vesti-col timeline-post">
+    <div id="post-12" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://s1.stabroeknews.com/images/2017/08/Roderick-Walcott-248x350.jpg">
@@ -190,7 +206,7 @@ permalink: /16/
      </div>
    </div>
  </div>
- <div id="post-12" class="vesti-col timeline-post">
+ <div id="post-13" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://m.media-amazon.com/images/I/51zXyXYNh+L._SX450_.jpg">
@@ -206,7 +222,7 @@ permalink: /16/
      </div>
    </div>
  </div>
- <div id="post-13" class="vesti-col timeline-post">
+ <div id="post-14" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Arthur_Lewis_%28Nobel_photo%29.jpg/220px-Arthur_Lewis_%28Nobel_photo%29.jpg">
