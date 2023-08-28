@@ -13,6 +13,40 @@ permalink: /64/
 <!-- partial:index.partial.html -->
 <div class="container">
   <div class="timeline clearfix">
+<div class="vertical-line">
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgxmRUfCHPJShWS4QM08_8k80uqd5ZJqiBLzib0iNNNwYNDm2v" width="50%" height="50%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="https://en.wikipedia.org/wiki/Cadwell_Turnbull">
+         <h4><a href="{{ site.baseurl }}/cturnbull/">Cadwell Turnbull</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
+<div class="vertical-line">
+  <div id="post-1" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://celesteritabaker.weebly.com/uploads/2/9/9/0/29903187/2969853.jpg?237" width="50%" height="50%">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="{{ site.baseurl }}/crbaker/">Celeste Rita Baker</a></h4>
+       </a>
+     </div>
+   </div>
+ </div>
   <div class="vertical-line">
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
