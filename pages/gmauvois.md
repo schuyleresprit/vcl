@@ -19,6 +19,8 @@ permalink: /gmauvois/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Georges Mauvois is from <a href="{{ site.baseurl }}/8"> Martinique.</a></p></div>
               <div class="acreadmore">  <a href="https://fr.wikipedia.org/wiki/Georges_Mauvois" target="_blank">Read more</a></div>
+               <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/UF00088914/00204/images" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
