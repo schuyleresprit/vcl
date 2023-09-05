@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Hazel Simmons-McDonald"
-permalink: /hmcdonald/
+permalink: /hsmcdonald/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
