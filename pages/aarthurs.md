@@ -20,7 +20,7 @@ permalink: /aarthurs/
           <div class="aclocation">  <p>Alexia Arthurs is from <a href="{{ site.baseurl }}/4">Jamaica.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Alexia_Arthurs" target="_blank">Read more</a></div>
               <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
-            <div class="acreadmore"><a href="https://www.dloc.com/AA00090268/00047/pdf" target="_blank">DLOC Resources</a></div>
+            <div class="dlocresources"><a href="https://www.dloc.com/AA00090268/00047/pdf" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
