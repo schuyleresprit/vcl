@@ -73,7 +73,7 @@ permalink: /16/
      </div>
      <div class="vesti-desc">
        <a class="desc-a" href="#">
-         <h4><a href="{{ site.baseurl }}/hmcdonald/">Hazel Simmons-McDonald</a></h4>
+         <h4><a href="{{ site.baseurl }}/hsmcdonald/">Hazel Simmons-McDonald</a></h4>
        </a>
      </div>
    </div>
