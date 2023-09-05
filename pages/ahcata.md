@@ -17,8 +17,11 @@ permalink: /ahcata/
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Alfonso Hernández Catá is from <a href="{{ site.baseurl }}/2">Spain.</a></p></div>
-              <div class="acreadmore">   <a href="https://es.wikipedia.org/wiki/Alfonso_Hern%C3%A1ndez-Cat%C3%A1" target="_blank">Read more</a></div>
+        <div class="aclocation">  <p>Alfonso Hernández Catá is from <a href="{{ site.baseurl }}/2">Spain.</a></p></div>
+        <div class="acreadmore"> <a href="https://es.wikipedia.org/wiki/Alfonso_Hern%C3%A1ndez-Cat%C3%A1" target="_blank">Read more</a>
+        </div>
+        <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00089347/00001/images" target="_blank">DLOC Resources</a></div>            
             </div>
             </div>
         </div>
