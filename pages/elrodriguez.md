@@ -1,11 +1,11 @@
 ---
 layout: defaultau
-title: "Eduardo "Lalo" Rodríguez"
+title: "Eduardo 'Lalo' Rodríguez"
 permalink: /elrodriguez
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-     <h1>Eduardo "Lalo" Rodríguez</h1>
+     <h1>Eduardo 'Lalo' Rodríguez</h1>
     <div class="quote">
         <div><img src="https://sociales.uprrp.edu/iec/wp-content/uploads/sites/25/2021/01/Eduardo-Lalo-300x200.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
