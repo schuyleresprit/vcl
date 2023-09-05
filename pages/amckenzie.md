@@ -20,7 +20,7 @@ permalink: /amckenzie/
           <div class="aclocation">  <p>Alecia McKenzie is from <a href="{{ site.baseurl }}/4">Jamaica.</a></p></div>
           <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Alecia_McKenzie" target="_blank">Read more</a></div>
            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div>
-          <div class="acreadmore"><a href="https://dloc.com/AA00090268/00058/pdf" target="_blank">DLOC Resources</a></div>
+          <div class="dlocresources"><a href="https://dloc.com/AA00090268/00058/pdf" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
             </div>
