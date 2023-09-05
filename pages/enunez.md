@@ -19,6 +19,8 @@ permalink: /enunez/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Elizabeth Nunez is from <a href="{{ site.baseurl }}/3">Trinidad and Tobago.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Elizabeth_Nunez">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00000079/00006/images" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
