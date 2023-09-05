@@ -19,6 +19,9 @@ permalink: /enapier/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">   <p> Elma Napier is from <a href="{{ site.baseurl }}/10"> Dominica </a></p> </div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Elma_Napier" target="_blank">Read more</a> </div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00011396/00001/pdf" target="_blank">DLOC Resources</a></div>
+            </div>
             </div>
             </div>
         </div>
