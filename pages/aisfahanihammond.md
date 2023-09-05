@@ -18,7 +18,9 @@ permalink: /aisfahanihammond/
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Alexandra Isfahani-Hammond is from the <a href="{{ site.baseurl }}/1"> United States.</a></p></div>
-                <div class="acreadmore"><a href="" target="_blank">Read more</a></div>
+            <div class="acreadmore"><a href="" target="_blank">Read more</a></div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+            <div class="acreadmore"><a href="https://www.dloc.com/UF00099461/00113/pdf" target="_blank">Read more</a></div>
             </div>
             </div>
         </div>
