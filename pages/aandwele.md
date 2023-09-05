@@ -18,7 +18,9 @@ permalink: /aandwele/
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p> Adisa Andwele is from <a href="http://localhost:4000/12">Barbados.</a></p></div>
-                <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Adisa_Andwele" target="_blank">Read more</a></div>
+          <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Alecia_McKenzie" target="_blank">Read more</a></div>
+           <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+            <div class="acreadmore"><a href="https://ufdc.ufl.edu/uf00099208/00072" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
