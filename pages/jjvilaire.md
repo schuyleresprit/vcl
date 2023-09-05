@@ -19,6 +19,8 @@ permalink: /jjvilaire/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Jean-Joseph Vilaire is from <a href="{{ site.baseurl }}/5">Haiti.</a></p></div>
               <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00000461/00018/images" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         <div class="block">
