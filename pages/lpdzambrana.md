@@ -19,6 +19,9 @@ permalink: /lpdezambrana/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Luisa Pérez de Zambrana is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Luisa_P%C3%A9rez_de_Zambrana" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00065141/00001/pdf" target="_blank">DLOC Resources</a></div>
+            </div>
             </div>
             </div>
         <div class="block">
@@ -34,6 +37,7 @@ permalink: /lpdezambrana/
                 Genre: Poetry Collection<br/>
                 Length: 86<br/>                   </p>
             </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
