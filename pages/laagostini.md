@@ -19,6 +19,8 @@ permalink: /laagostini/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Lisa Allen-Agostini is from <a href="{{ site.baseurl }}/3">Trinidad & Tobago.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Lisa_Allen-Agostini" target="_blank">Read more</a></div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00090268/00050/pdf" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
