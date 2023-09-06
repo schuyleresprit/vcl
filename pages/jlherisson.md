@@ -19,6 +19,8 @@ permalink: /jlherisson/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Justin Lhérisson is from <a href="{{ site.baseurl }}/5"> Haiti.</a></p></div>
               <div class="acreadmore">  <a href="https://fr.wikipedia.org/wiki/Justin_Lh%C3%A9risson" target="_blank">Read more</a></div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00073342/00001/downloads" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         <div class="block">
