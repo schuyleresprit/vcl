@@ -19,6 +19,9 @@ permalink: /mnugent/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Maria Nugent is from <a href="{{ site.baseurl }}/1">the United States.</a></p></div>
               <div class="acreadmore">  <a href="" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00052852/00001/images" target="_blank">DLOC Resources</a></div>
+            </div>
             </div>
             </div>
         <div class="block">
@@ -34,6 +37,7 @@ permalink: /mnugent/
                 Genre: NA<br/>
                 Length: 16  <br/>                   </p>
             </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
