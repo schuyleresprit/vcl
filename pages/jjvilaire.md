@@ -23,6 +23,7 @@ permalink: /jjvilaire/
        <div class="dlocresources"><a href="https://www.dloc.com/AA00000461/00018/images" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
+            </div>
         <div class="block">
             <div class="date left"><p class="left">1979 </p></div>
             <div class="dot"></div>
