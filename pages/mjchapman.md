@@ -19,6 +19,8 @@ permalink: /mjchapman/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p> Matthew James Chapman is from <a href="http://localhost:4000/12">Barbados.</a></p></div>
                 <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00062339/00001/images" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -51,6 +53,7 @@ permalink: /mjchapman/
                 Length: 130 <br/>                   
                 </p>
             </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
