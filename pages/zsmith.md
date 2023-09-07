@@ -19,6 +19,9 @@ permalink: /zsmith/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Zadie Smith is from <a href="{{ site.baseurl }}/11/">England.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Zadie_Smith" target="_blank">Read more</a></div>
+             <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/UF00096005/00010/images/144" target="_blank">DLOC Resources</a></div>
+            </div>
             </div>
             </div>
         <div class="block">
@@ -66,14 +69,14 @@ permalink: /zsmith/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date right"><p class="right">2000</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>White Teeth</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51kYGxXkUIL._SX324_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Co-Author(s): Lenny Henry 
-	    Language: English<br/>
+	            Language: English<br/>
                 Publisher: Random House Digital, Inc.<br/>
                 Pub_location: New York, NY, United States<br/>
                 Genre: Fiction (Novel)<br/>
