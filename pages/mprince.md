@@ -19,6 +19,9 @@ permalink: /mprince/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Mary Prince is from <a href="{{ site.baseurl }}/51">Bermuda.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Mary_Prince" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00015607/00001/downloads" target="_blank">DLOC Resources</a></div>
+            </div>
             </div>
             </div>
    <div class="block">
@@ -34,6 +37,7 @@ permalink: /mprince/
                 Genre: Autobiography/Memoir<br/>
                 Length: 79<br/>                   </p>
             </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
