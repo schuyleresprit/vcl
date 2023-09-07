@@ -19,6 +19,8 @@ permalink: /sadantes/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p> Stephen A. Dantes is from <a href="{{ site.baseurl }}/16">St. Lucia.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Stephen_Dantes" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/UF00095627/00076/pdf" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -112,7 +114,6 @@ permalink: /sadantes/
                 </p>
             </div>
         </div>
-        </div>
         <div class="block">
             <div class="date left"><p class="left">2012</p></div>
             <div class="dot"></div>
@@ -187,6 +188,7 @@ permalink: /sadantes/
                 Length: 53 <br/>
                 </p>
             </div>
+        </div>
         </div>
  <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
