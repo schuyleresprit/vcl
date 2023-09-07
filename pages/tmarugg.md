@@ -3,7 +3,6 @@ layout: defaultau
 title: "Tip Marugg"
 permalink: /tmarugg/
 ---
-
 <!-- partial:index.partial.html -->
 <div class="content">
     <h1>Tip Marugg</h1>
