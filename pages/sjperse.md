@@ -19,6 +19,8 @@ permalink: /sjperse/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Saint-John Perse is from <a href="{{ site.baseurl }}/29">Guadeloupe.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Saint-John_Perse">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00022089/05930/images/1" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -49,6 +51,7 @@ permalink: /sjperse/
                 Genre: Poetry Collection<br/>
                 Length: 40<br/>                   </p>
             </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
