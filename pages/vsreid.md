@@ -22,7 +22,7 @@ permalink: /vsreid/
             </div>
             </div>
         </div>
- </div><div class="block">
+ <div class="block">
             <div class="date left"><p class="left">1949</p></div>
             <div class="dot"></div>
             <div class="right hide">
@@ -64,7 +64,7 @@ permalink: /vsreid/
                 </p>
             </div>
         </div>
-</div> <div class="block">
+ <div class="block">
             <div class="date right"><p class="right">1960</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -90,7 +90,7 @@ permalink: /vsreid/
                 Length: 128 <br></p>
             </div>
         </div>
-        <div class="block">
+    <div class="block">
             <div class="date right"><p class="right">1970</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -117,6 +117,7 @@ permalink: /vsreid/
                 Genre: Fiction (Novel)<br>
                 Length: 140 <br></p>
             </div>
+            </div>
         <div class="block">
             <div class="date right"><p class="right">1983</p></div>
             <div class="dot"></div>
@@ -142,6 +143,7 @@ permalink: /vsreid/
                 Genre: Biography<br>
                 Length: 548<br></p>
             </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
