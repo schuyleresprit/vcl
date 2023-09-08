@@ -19,6 +19,8 @@ permalink: /necameron/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Norman Eustace Cameron is from <a href="{{ site.baseurl }}/62">Guyana.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/N._E._Cameron" target="_blank">Read more</a></div>
+               <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/UF00088915/00279/images/29" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -35,6 +37,7 @@ permalink: /necameron/
                 Genre: Poetry Collection<br/>
                 Length: 186</p>
             </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
