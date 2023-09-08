@@ -19,6 +19,8 @@ permalink: /pkempadoo/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">   <p>Peter Kempadoo is from <a href="{{ site.baseurl }}/62">Guyana.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Peter_Kempadoo" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/UF00088915/00192/images/37" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
