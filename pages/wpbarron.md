@@ -18,10 +18,10 @@ permalink: /wpbarron/
             <div class="author_country">
                 <h1>Author Country</h1><hr>
         <div class="aclocation"><p>William P Barron Aarons is from <a href="{{ site.baseurl }}/11/">England.</a></p></div>
-         <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
-       <div class="dlocresources"><a href="https://www.dloc.com/AA00004645/00026/images/18" target="_blank">DLOC Resources</a></div>
               <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
-            </div>
+             <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com">Digital Library of the Caribbean:</a></h6></div> 
+       <div class="dlocresources"><a href="https://www.dloc.com/AA00004645/00026/images/18" target="_blank">DLOC Resources</a></div>
+       </div>
             </div>
         </div>
         <div class="block">
