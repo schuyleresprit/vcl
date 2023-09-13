@@ -18,7 +18,9 @@ permalink: /snaipaul/
             <div class="author_country">
                 <h1>Author Country</h1><hr>
           <div class="aclocation">   <p>Seepersad Naipaul is from <a href="{{ site.baseurl }}/3">Trinidad and Tobago.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Seepersad_Naipaul" target="_blank">Read more</a></div>
+            <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Seepersad_Naipaul" target="_blank">Read more</a></div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+          <div class="dlocresources"><a href="https://www.dloc.com/AA00030618/00001/images" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
