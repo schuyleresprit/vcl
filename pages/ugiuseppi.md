@@ -21,6 +21,7 @@ permalink: /ugiuseppi
               <div class="acreadmore">  <a href="#" target="_blank">Read more</a></div>
             </div>
             </div>
+            </div>
         <div class="block">
             <div class="date left"><p class="left">1969</p></div>
             <div class="dot"></div>
@@ -190,6 +191,6 @@ Language: English<br/>
                 Length: 32<br/>                   </p>
             </div>
         </div>
-       
+        </div> 
 <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
