@@ -7,7 +7,7 @@ permalink: /dlgeorges/
 <div class="content">
     <h1>Danielle Legros Georges</h1>
     <div class="quote">
-        <div><img src="https://www.daniellelegrosgeorges.com/wp-content/uploads/2020/07/DaniellePic1-1020x1536.jpg"  height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://repeatingislands.files.wordpress.com/2014/12/1216_georges.jpg?w=540"  height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -20,7 +20,7 @@ permalink: /dlgeorges/
             <div class="aclocation"><p>Danielle Legros Georges is from <a href="{{ site.baseurl }}/5">Haiti.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Danielle_Legros_Georges" target="_blank">Read more</a></div>
               <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
-          <div class="dlocresources"><a href="https://www.d loc.com/AA00000079/00002/images" target="_blank">DLOC Resources</a></div>
+          <div class="dlocresources"><a href="https://www.dloc.com/AA00000079/00002/images" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
