@@ -20,7 +20,7 @@ permalink: /acesaire/
           <div class="aclocation">  <p> Aimé Césaire is from <a href="{{ site.baseurl }}/8">Martinique.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire" target="_blank">Read more</a></div>
               <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
-          <div class="dlocresources"><a href="acesaire_dloc" target="_blank">DLOC Resources</a></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/acesaire_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
