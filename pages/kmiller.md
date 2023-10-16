@@ -97,9 +97,9 @@ permalink: /kmiller/
         </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left">
                 <h1>Augustown</h1><hr>
                 <p><img src="https://images.randomhouse.com/cover/9781101974094"></p>
                 <p>
@@ -112,9 +112,9 @@ permalink: /kmiller/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right">
                 <h1>Things I Have Withheld</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51ytFxttYhL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
