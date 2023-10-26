@@ -19,6 +19,8 @@ permalink: /clrjames/
                 <h1>Author Country</h1><hr>
         <div class="aclocation">    <p>C. L. R. James is from <a href="{{ site.baseurl }}/3"> Trinidad and Tobago.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/C._L._R._James" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/clrjames_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
