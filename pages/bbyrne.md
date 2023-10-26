@@ -19,6 +19,8 @@ permalink: /bbyrne/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Bonifacio Byrne is from <a href="{{ site.baseurl }}/14">Cuba.</a></p> </div>
               <div class="acreadmore">  <a href="https://es.wikipedia.org/wiki/Bonifacio_Byrne" target="_blank">Read more</a> </div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/bbyrne_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
