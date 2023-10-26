@@ -19,6 +19,8 @@ permalink: /awilentz/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Amy Wilentz is from the <a href="{{ site.baseurl }}/1">United States.</a></p></div>
                 <div class="acreadmore"> <a href="https://en.wikipedia.org/wiki/Amy_Wilentz" target="_blank">Read more</a></div>
+                <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/awilentz_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
