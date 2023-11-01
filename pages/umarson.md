@@ -51,9 +51,9 @@ permalink: /umarson/
             </div>
         </div>
          <div class="block">
-            <div class="date right"><p class="right">2016</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Pocomania and London Calling</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51A-r9vfCTL._SX320_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: English <br/>
