@@ -19,6 +19,8 @@ permalink: /vcapildeo/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Vahni Capildeo is from <a href="{{ site.baseurl }}/3/">Trinidad & Tobago.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Vahni_Capildeo" target="_blank">Read more</a> </div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/vcapildeo_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
