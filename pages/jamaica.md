@@ -769,7 +769,7 @@ permalink: /4/
    <div id="post-47" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
-         <img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg" width="50%" height="50%">
+         <img src="http://2.bp.blogspot.com/_Z0eKSiygSDw/StNjVrGqltI/AAAAAAAAA1A/s9pp69z9sUY/s400/20091011T200000-0500_161598_OBS_HERE_S_TO_YOU__WYCLIFFE_BENNETT_2.jpg" width="50%" height="50%">
          <div class="vesti-date-wrapper">
       <div class="vesti-date">
          </div>
