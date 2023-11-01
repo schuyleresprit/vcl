@@ -166,7 +166,7 @@ Language: English<br/>
 <div class="block">
             <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>I Remember</h1><hr>
                 <p><img src="" height="50%" width = "50%"></p>
                 <p>
@@ -180,7 +180,7 @@ Language: English<br/>
 <div class="block">
             <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Russell Tesheira</h1><hr>
                 <p><img src="" height="50%" width = "50%"></p>
                 <p>
