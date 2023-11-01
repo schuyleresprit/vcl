@@ -705,6 +705,22 @@ permalink: /4/
  <div id="post-44" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
+         <img src="https://bluebanyanbooks.com/wp-content/uploads/2020/12/una-marson-thumb.jpg" width="50%" height="50%">
+         <div class="vesti-date-wrapper">
+           <div class="vesti-date">
+           </div>
+         </div>
+       </div>
+       <div class="vesti-desc">
+         <a class="desc-a" href="#">
+           <h4><a href="{{ site.baseurl }}/umarson/">Una Marson</a></h4>
+         </a>
+       </div>
+     </div>
+   </div>
+ <div id="post-44" class="vesti-col timeline-post">
+     <div class="vesti-content-wrapper">
+       <div class="photo">
          <img src="https://images.squarespace-cdn.com/content/v1/5c6c7a309d41493e5e0500da/1593185429232-ULWTAOM3ZO6UBXIIUHZK/1.jpg?format=1000w" width="50%" height="50%">
          <div class="vesti-date-wrapper">
            <div class="vesti-date">
