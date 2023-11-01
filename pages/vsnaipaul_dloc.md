@@ -7,7 +7,7 @@ permalink: /vsnaipaul_dloc/
 <div class="content">
     <h1>V.S. Naipaul</h1>
     <div class="quote">
-        <div><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpgg" class="logo"></div>
+        <div><img src="https://cdn.britannica.com/15/196015-050-6A423C9A/VS-Naipaul-2014.jpg" class="logo"></div>
     </div>
     <body>
     <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
