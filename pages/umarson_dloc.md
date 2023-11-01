@@ -11,8 +11,9 @@ permalink: /umarson_dloc/
     </div>
     <body>
     <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
-        <a href="https://www.dloc.com/AA00030383/00001/images/0" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00030486/00001/images/1" target="_blank">DLOC Resources</a><br>
+        <a href="https://www.dloc.com/UF00080046/00007/images/35" target="_blank">DLOC Resources</a><br>
+        <a href="https://www.dloc.com/AA00032523/00013/images/283" target="_blank">DLOC Resources</a><br>
+        <a href="https://www.dloc.com/AA00030555/00001/images/0" target="_blank">DLOC Resources</a><br>
     </body> 
           </div>
   <!-- partial -->
