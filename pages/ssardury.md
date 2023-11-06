@@ -19,6 +19,8 @@ permalink: /ssardury/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Severo Sarduy is from <a href="{{ site.baseurl }}/14/">Cuba.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Severo_Sarduy" target="_blank">Read more</a></div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/ssardury_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
