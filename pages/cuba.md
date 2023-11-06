@@ -593,6 +593,22 @@ permalink: /14/
 <div id="post-37" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
+          <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR149bKETriM0LWgw60v0trW8QNIOgGnHg2Qn8vQafZRznks6EO" width="70%">
+          <div class="vesti-date-wrapper">
+            <div class="vesti-date">
+            </div>
+          </div>
+        </div>
+        <div class="vesti-desc">
+          <a class="desc-a" href="#">
+            <h4><a href="{{ site.baseurl }}/vpinera/">Virgilio Piñera</a></h4>
+          </a>
+        </div>
+      </div>
+    </div>
+<div id="post-37" class="vesti-col timeline-post">
+      <div class="vesti-content-wrapper">
+        <div class="photo">
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Walter_Goodman.jpg/330px-Walter_Goodman.jpg" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">

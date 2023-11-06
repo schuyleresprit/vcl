@@ -19,6 +19,8 @@ permalink: /swynter/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Sylvia Wynter is from <a href="{{ site.baseurl }}/4/">Jamaica.</a></p></div>
               <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Sylvia_Wynter" target="_blank">Read more</a></div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/swynter_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -27,7 +29,7 @@ permalink: /swynter/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Hills Of Hebron: A Jamaican Novel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51NYwcs6N5L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51NYwcs6N5L._SY445_SX342_.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Simon and Schuster<br>
