@@ -19,6 +19,8 @@ permalink: /sramlochan/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Shivanee Ramlochan is from <a href="{{ site.baseurl }}/3">Trinidad & Tobago.</a></p></div>
               <div class="acreadmore">  <a href="https://ca.wikipedia.org/wiki/Shivanee_Ramlochan" target="_blank">Read more</a></div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/sramlochan_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
    <div class="block">
