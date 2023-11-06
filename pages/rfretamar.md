@@ -19,6 +19,8 @@ permalink: /rfretamar/
                 <h1>Author Country</h1><hr>
         <div class="aclocation">    <p>Roberto Fernández Retamar is from <a href="{{ site.baseurl }}/14">Cuba.</a></p> </div>
               <div class="acreadmore">   <a href="https://es.wikipedia.org/wiki/Roberto_Fern%C3%A1ndez_Retamar" target="_blank">Read more</a></div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/rfretamar_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
