@@ -7,7 +7,7 @@ permalink: /spersaud_dloc/
 <div class="content">
     <h1>Sasenarine Persaud</h1>
     <div class="quote">
-        <div><img src="https://www.birmingham.ac.uk/Images/College-ArtsLaw-only/staff/cwas/brown-stuart.jpg" class="logo"></div>
+        <div><img src="https://static.wixstatic.com/media/e95725_240642b370fa45c1a5ca13a024665414.jpg/v1/fill/w_336,h_445,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/e95725_240642b370fa45c1a5ca13a024665414.jpg" class="logo"></div>
     </div>
     <body>
     <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
