@@ -19,6 +19,8 @@ permalink: /ewilliams/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"> <p>Eric Williams is from <a href="{{ site.baseurl }}/3">Trinidad & Tobago.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Eric_Williams" target="_blank">Read more</a></div>
+                <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/ewilliams_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -65,6 +67,8 @@ permalink: /ewilliams/
                 Genre: Nonfiction<br/>
                 Length: 307<br/>                   </p>
             </div>
+        </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
