@@ -19,8 +19,6 @@ permalink: /sdracius/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">   <p>Suzanne Dracius is from <a href="{{ site.baseurl }}/8">Martinique.</a></p></div>
               <div class="acreadmore">   <a href="https://en.wikipedia.org/wiki/Suzanne_Dracius" target="_blank">Read more</a></div>
-<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
-              <div class="dlocresources"><a href="{{ site.baseurl }}/sdracius_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
