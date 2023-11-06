@@ -29,7 +29,7 @@ permalink: /swynter/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Hills Of Hebron: A Jamaican Novel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51NYwcs6N5L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51NYwcs6N5L._SY445_SX342_.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Simon and Schuster<br>
