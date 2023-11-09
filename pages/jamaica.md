@@ -577,6 +577,22 @@ permalink: /4/
    <div id="post-36" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
+         <img src="https://static.wikia.nocookie.net/pennyspoetry/images/8/85/PamelaMordecai.jpg" width="50%" height="50%">
+         <div class="vesti-date-wrapper">
+           <div class="vesti-date">
+           </div>
+         </div>
+       </div>
+       <div class="vesti-desc">
+         <a class="desc-a" href="#">
+           <h4><a href="{{ site.baseurl }}/pmordecai/">Pamela Mordecai</a></h4>
+         </a>
+       </div>
+     </div>
+   </div>
+   <div id="post-36" class="vesti-col timeline-post">
+     <div class="vesti-content-wrapper">
+       <div class="photo">
          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Portrait_of_Peter_Abrahams_LCCN2004662473_%28crop%29.jpg" width="50%" height="50%">
          <div class="vesti-date-wrapper">
            <div class="vesti-date">
