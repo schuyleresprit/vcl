@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: "Patrick Sylvains"
+title: "Patrick Sylvain"
 permalink: /psylvain/
 ---
 <!-- partial:index.partial.html -->
@@ -19,6 +19,8 @@ permalink: /psylvain/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"> <p>Patrick Sylvain is from<a href="{{ site.baseurl }}/5"> Haiti.</a></p></div>
               <div class="acreadmore">  <a href="https://ht.wikipedia.org/wiki/Patrick_Sylvain" target="_blank">Read more</a></div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/psylvain_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
