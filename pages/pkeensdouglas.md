@@ -19,6 +19,8 @@ permalink: /pkeensdouglas/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Paul Keens-Douglas is from <a href="{{ site.baseurl }}/3">Trinidad & Tobago.</a></p></div>
                 <div class="acreadmore"><a href="" target="_blank">Read more</a></div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/pkeensdouglas_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
