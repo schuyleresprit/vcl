@@ -97,7 +97,7 @@ permalink: /5/
   <div id="post-6" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://i0.wp.com/twodropsofink.com/wp-content/uploads/2020/03/dimitry-.jpeg?resize=380%2C450&ssl=1" width="50%" height="50%" >
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dimitry_Elias_Leger_in_New_York_City.jpg/1200px-Dimitry_Elias_Leger_in_New_York_City.jpg" width="50%" height="50%" >
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
@@ -769,7 +769,7 @@ permalink: /5/
 <div id="post-48" class="vesti-col timeline-post">
               <div class="vesti-content-wrapper">
                   <div class="photo">
-              <img src="https://ndbooks.imgix.net/Philoctete_Rene.jpg?auto=format&ch=Width,DPR&fit=crop&h=500&q=95&sat=-100&w=500" width="70%">
+              <img src="https://www.babelio.com/users/AVT_Rene-Philoctete_5144.jpeg" width="70%">
                     <div class="vesti-date-wrapper">
                       <div class="vesti-date">
                         </div>
