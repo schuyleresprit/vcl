@@ -24,7 +24,6 @@ permalink: /nmorejon/
             </div>
             </div>
         </div>
-        </div>
         <div class="block">
             <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
