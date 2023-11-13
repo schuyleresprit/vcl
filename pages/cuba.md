@@ -369,7 +369,7 @@ permalink: /14/
       <div id="post-23" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMgMvdUlkSWfDHIPIQC9tp9hQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UpHLnDPiRxsSe5jMGzpGWow-P-3d-P-3d" width="70%" >
+          <img src="https://www.cubanet.org/wp-content/uploads/2021/06/luis-aguero-1.jpg" width="70%" >
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
