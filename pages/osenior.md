@@ -132,7 +132,7 @@ permalink: /osenior/
                 <div class="block">
             <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Gardening in the Tropics</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/81v1HMIqXeL.jpg"></p>
                 <p>
@@ -162,7 +162,7 @@ permalink: /osenior/
                 <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Dancing Lessons</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41YALGooMGL.jpg"></p>
                 <p>
@@ -192,7 +192,7 @@ permalink: /osenior/
                 <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Pepperpot: Best New Stories From The Caribbean</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51KsJfUelOL._SX326_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -222,7 +222,7 @@ permalink: /osenior/
                 <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Anna Carries Water</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385989120l/18854615.jpg"></p>
                 <p>
@@ -252,7 +252,7 @@ permalink: /osenior/
                 <div class="block">
             <div class="date rightt"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Boonoonoonoos Hair</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492013295l/31259313.jpg"></p>
                 <p>
@@ -282,7 +282,7 @@ permalink: /osenior/
                 <div class="block">
             <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Hurricane Watch: New and Collected Poems</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/310BjQAngtL._SX311_BO1,204,203,200_.jpg"></p>
                 <p>
