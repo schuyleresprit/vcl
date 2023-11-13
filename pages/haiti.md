@@ -17,7 +17,7 @@ permalink: /5/
   <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://images.thestar.com/UwXW1hr6N4O9ZxWBj2p8Flpa7Bw=/1200x800/smart/filters:cb(2700061000)/https://www.thestar.com/content/dam/thestar/entertainment/books/2019/01/04/author-ben-philippe-elevates-typical-high-school-stories-with-new-teen-novel/ben_philippe.jpg" width="50%" height="50%" >
+       <img src="https://festivalofauthors.ca/wp-content/uploads/2021/09/Philippe-Ben_Headshot_Square.png" width="50%" height="50%" >
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
