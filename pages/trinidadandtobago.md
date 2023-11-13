@@ -801,7 +801,7 @@ permalink: /3/
     <div id="post-50" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://th.bing.com/th/id/R.7204e529fc7264e1d870236e7385696e?rik=%2b3NLO8EI5Yi1bg&pid=ImgRaw&r=0" width="60%">
+          <img src="https://www.skyros.com/uploads/monique-roffey1-default.png" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
