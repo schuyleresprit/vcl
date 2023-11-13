@@ -141,7 +141,7 @@ permalink: /nmorejon/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Augen</h1><hr>
-                <p><img src="https://media.s-bol.com/MJO1WLBNkgNR/845x1200.jpg"</p>
+                <p><img src="https://media.s-bol.com/MJO1WLBNkgNR/845x1200.jpg"></p>
                 <p>
                 Language: German<br/>
                 Publisher: Books on Demand<br/>
@@ -155,7 +155,7 @@ permalink: /nmorejon/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ruhmreiche Landschaft</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/81GjVUOd2hL._AC_UY218_.jpg"</p>
+                <p><img src="https://m.media-amazon.com/images/I/81GjVUOd2hL._AC_UY218_.jpg"></p>
                 <p>
                 Language: German<br/>
                 Publisher: Books on Demand<br/>
@@ -169,7 +169,7 @@ permalink: /nmorejon/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Wilde Kohlen</h1><hr>
-                <p><img src="https://bilder.buecher.de/produkte/61/61206/61206700n.jpg"</p>
+                <p><img src="https://bilder.buecher.de/produkte/61/61206/61206700n.jpg"></p>
                 <p>
                 Language: German<br/>
                 Publisher: Wissenschaftlicher Verlag Berlin<br/>
