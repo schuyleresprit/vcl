@@ -513,7 +513,7 @@ permalink: /3/
     <div id="post-32" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://static.wired868.com/wp-content/uploads/2016/07/Kevin-Baldeosingh.jpg" width="60%">
+          <img src="https://www.plentytalent.com/wp-content/uploads/2013/01/Kevin-Baldeosingh.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -609,7 +609,7 @@ permalink: /3/
     <div id="post-38" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://images.thestar.com/wKSk34ClZuTZuDc9UiGZM7xU5Yw=/1280x1024/smart/filters:cb(1581545809894)/https://www.thestar.com/content/dam/thestar/news/world/us/2020/02/12/canadian-poet-m-nourbese-philip-to-receive-pen-america-writing-award/CPT13845083.jpg" width="60%">
+          <img src="https://jacket2.org/sites/jacket2.org/files/commentary-images/M%20Nourbese%20Philip%20at%20KWH.png" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
