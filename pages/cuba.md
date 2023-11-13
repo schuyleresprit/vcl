@@ -481,7 +481,7 @@ permalink: /14/
 <div id="post-30" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://collectionimages.npg.org.uk/std/mw148021/Nicols-Guilln-Batista.jpg" width="60%">
+          <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA3mMJNy7IhoBW8pBrZohfDpWDO00ywSfcK864vxKlv2wt7UjF" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -497,7 +497,7 @@ permalink: /14/
     <div id="post-31" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA3mMJNy7IhoBW8pBrZohfDpWDO00ywSfcK864vxKlv2wt7UjF" width="70%">
+          <img src="https://collectionimages.npg.org.uk/std/mw148021/Nicols-Guilln-Batista.jpg" width="70%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
@@ -505,7 +505,7 @@ permalink: /14/
         </div>
         <div class="vesti-desc">
           <a class="desc-a" href="#">
-            <h4><a href="{{ site.baseurl }}/nmorejon/">Nicolás Guillén</a></h4>
+            <h4><a href="{{ site.baseurl }}/ngullien/">Nicolás Guillén</a></h4>
           </a>
         </div>
       </div>
