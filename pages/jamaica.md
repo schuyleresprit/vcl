@@ -97,7 +97,7 @@ permalink: /4/
 <div id="post-6" class="vesti-col timeline-post">
     <div class="vesti-content-wrapper">
       <div class="photo">
-        <img src="https://th.bing.com/th/id/OIP.TV_Q_5ACO7oxvuaMvLHY7QAAAA?pid=ImgDet&rs=1" width="50%" height="50%">
+        <img src="https://0.academia-photos.com/673764/235147/61006743/s200_barbara.lalla.jpg" width="50%" height="50%">
         <div class="vesti-date-wrapper">
           <div class="vesti-date">
           </div>
