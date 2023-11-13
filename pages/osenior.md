@@ -250,7 +250,7 @@ permalink: /osenior/
            </div>
         </div>
                 <div class="block">
-            <div class="date rightt"><p class="right">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>Boonoonoonoos Hair</h1><hr>
