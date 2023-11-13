@@ -19,6 +19,8 @@ permalink: /ordathorne/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">    <p>O.R Dathorne is from <a href="{{ site.baseurl }}/62">Guyana.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Oscar_Dathorne" target="_blank">Read more</a></div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/ordathorne_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
