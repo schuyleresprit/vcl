@@ -12,17 +12,18 @@ permalink: /nmorejon/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-             <div class="date right"><p class="right">b. 1944</p></div>
+            <div class="date right"><p class="right">b. 1963</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Nancy Morejón is from <a href="{{ site.baseurl }}/14">Cuba.</a></p></div>
-              <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Nancy_Morej%C3%B3n" target="_blank">Read more</a></di>
+            <div class="aclocation">      <p> Nancy Morejón is from <a href="{{ site.baseurl }}/14"> Cuba.</a></p></div>
+                  <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Nancy_Morej%C3%B3n" target="_blank">Read more</a></div>
 <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
               <div class="dlocresources"><a href="{{ site.baseurl }}/nmorejon_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
+        </div>
         </div>
         <div class="block">
             <div class="date left"><p class="left">1985</p></div>
