@@ -590,6 +590,23 @@ permalink: /4/
        </div>
      </div>
    </div>
+<div id="post-35" class="vesti-col timeline-post">
+     <div class="vesti-content-wrapper">
+       <div class="photo">
+         <img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Opal-Palmer-Adisa-1024x684.jpg" width="50%" height="50%">
+         <div class="vesti-date-wrapper">
+           <div class="vesti-date">
+           </div>
+         </div>
+       </div>
+       <div class="vesti-desc">
+         <a class="desc-a" href="#">
+           <h4><a href="{{ site.baseurl }}/opadisa/">Opal Palmer Adisa</a></h4>
+         </a>
+       </div>
+     </div>
+   </div>
+
    <div id="post-36" class="vesti-col timeline-post">
      <div class="vesti-content-wrapper">
        <div class="photo">
