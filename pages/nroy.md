@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Namba Roy"
-permalink: /nroy
+permalink: /nroy/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -19,6 +19,8 @@ permalink: /nroy
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Namba Roy is from <a href="{{ site.baseurl }}/4">Jamaica.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Namba_Roy" target="_blank">Read more</a></div>
+<div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/nroy_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         <div class="block">
