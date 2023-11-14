@@ -7,7 +7,7 @@ permalink: /opadisa_dloc/
 <div class="content">
     <h1>Opal Palmer Adisa</h1>
     <div class="quote">
-        <div><img src="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Opal-Palmer-Adisa-1024x684.jpg" class="logo"></div>
+        <div><img src="https://www.caribbeanstudiesassociation.org/wp-content/uploads/2015/09/Opal_Palmer_Adisa_sm.jpg" class="logo"></div>
     </div>
     <body>
     <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
