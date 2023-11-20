@@ -37,9 +37,9 @@ permalink: /amgomes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1978</p></div>
+            <div class="date right"><p class="right">1978</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>All Papa's Children</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/917sS47alSL._SY425_.jpg"></p>
                 <p>
