@@ -20,6 +20,8 @@ permalink: /fdaguiar/
           <div class="aclocation">  <p>Fred D'Aguiar is from <a href="{{ site.baseurl }}/62"> Guyana.</a> (born in England)</p></div>
                 <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Fred_D%27Aguiar" target="_blank">Read more</a></div>
             </div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/fdaguiar_dloc" target="_blank">DLOC Resources</a></div>
             </div>
         </div>
         <div class="block">
