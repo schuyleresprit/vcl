@@ -210,7 +210,7 @@ Found In: Vol. 30, No. 2, "Callaloo" and the Cultures and Letters of the Black D
             <div class="dot"></div>
             <div class="left hide">
                 <h1>When Love Comes To Town</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English<br/>
                 Publisher: Asbury Theological Seminary<br/>
