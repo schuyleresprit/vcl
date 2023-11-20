@@ -7,7 +7,7 @@ permalink: /amgomes/
 <div class="content">
     <h1>Albert Maria Gomes</h1>
     <div class="quote">
-        <div><img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/9842/UWI-PIC-320.pdf.jpg?sequence=4&isAllowed=y" class="logo"></div>
+        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93vYhju7aU15XQ_VwCuOB3METzu1XtVGCWXOOT3iE9GYVRkBe7x91LL1pC3SWERKWtUE&usqp=CAU" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
