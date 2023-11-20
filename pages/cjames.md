@@ -170,8 +170,8 @@ permalink: /cjames/
                 <h1>From "Sapodilla Terrace"</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348029891i/15124106.jpg"></p>
                 <p>
-			Found In: Vol. 30, No. 2, "Callaloo" and the Cultures and Letters of the Black Diaspora: A Special Thirtieth Anniversary Issue (Spring, 2007)                
-			Language: English<br/>
+Found In: Vol. 30, No. 2, "Callaloo" and the Cultures and Letters of the Black Diaspora: A Special Thirtieth Anniversary Issue (Spring, 2007)                
+	        Language: English<br/>
                 Publisher: Johns Hopkins University Press<br/>
                 Pub_location: Charles Village, United States<br/>
                 Genre: Fiction(Novel)<br/>
@@ -188,7 +188,7 @@ permalink: /cjames/
                 Language: English<br/>
                 Publisher: New Voices Publishing<br/>
                 Pub_location: Port of Spain, Trinidad & Tobago<br/>
-                Genre: Essay<br/>
+                Genre: Essay<br/>                      </p>
              </div>
         </div>
 	<div class="block">
