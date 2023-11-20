@@ -5,7 +5,7 @@ permalink: /jwboddamwhetham/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
-    <h1> J.W. Boddam-Whetham</h1>
+    <h1>J.W. Boddam-Whetham</h1>
     <div class="quote">
         <div><img src="NA" class="logo"></div>
     </div>
@@ -19,6 +19,8 @@ permalink: /jwboddamwhetham/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p> J.W. Boddam-Whetham is from <a href="{{ site.baseurl }}/11">England.</a></p></div>
                 <div class="acreadmore"><a href="#" target="_blank">Read more</a></div>
+                <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/jwboddamwhetham_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
