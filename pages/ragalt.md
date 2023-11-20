@@ -7,7 +7,7 @@ permalink: /ragalt
 <div class="content">
      <h1>Roy A Galt</h1>
     <div class="quote">
-        <div><img src="https://scontent.fanu2-1.fna.fbcdn.net/v/t1.18169-9/574457_115092901971480_328507962_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9267fe&_nc_ohc=TZoC2vaWC_kAX_mdEx4&_nc_ht=scontent.fanu2-1.fna&oh=00_AfBZSscmyRlJZ9YQS_fNVVqkG088PRC_JyEso2o5irg8OQ&oe=64C11E82" height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://scontent.fdcf2-1.fna.fbcdn.net/v/t1.18169-9/574457_115092901971480_328507962_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c2f564&_nc_ohc=WtSxTAIq_F0AX_Z9mo3&_nc_ht=scontent.fdcf2-1.fna&oh=00_AfCcaKlnrBX3dOQviu7HJwF2PpIsyvdzTuip_uy4FSKsvg&oe=6582EB02" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

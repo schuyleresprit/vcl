@@ -913,7 +913,7 @@ permalink: /3/
     <div id="post-57" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://scontent.fdcf1-1.fna.fbcdn.net/v/t1.18169-9/574457_115092901971480_328507962_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9267fe&_nc_ohc=gpVy41Z6-6gAX9f4daf&_nc_ht=scontent.fdcf1-1.fna&oh=00_AfDWEIHSobzE9VMah1Dgb8cZt95zMk4oMkoMVc01WuiuNw&oe=63B03802" width="80%">
+          <img src="https://scontent.fdcf2-1.fna.fbcdn.net/v/t1.18169-9/574457_115092901971480_328507962_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c2f564&_nc_ohc=WtSxTAIq_F0AX_Z9mo3&_nc_ht=scontent.fdcf2-1.fna&oh=00_AfCcaKlnrBX3dOQviu7HJwF2PpIsyvdzTuip_uy4FSKsvg&oe=6582EB02" width="80%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
