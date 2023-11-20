@@ -19,6 +19,8 @@ permalink: /jroumain/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Jacques Roumain is from <a href="{{ site.baseurl }}/5"> Haiti.</a></p> </div>
             <div class="acreadmore">    <a href="https://en.wikipedia.org/wiki/Jacques_Roumain" target="_blank">Read more</a> </div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/jroumain_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
