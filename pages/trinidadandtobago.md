@@ -17,7 +17,7 @@ permalink: /3/
     <div id="post-1" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
-       <img src="https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/9842/UWI-PIC-320.pdf.jpg?sequence=4&isAllowed=y" width="60%">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93vYhju7aU15XQ_VwCuOB3METzu1XtVGCWXOOT3iE9GYVRkBe7x91LL1pC3SWERKWtUE&usqp=CAU" width="60%">
        <div class="vesti-date-wrapper">
          <div class="vesti-date">
          </div>
