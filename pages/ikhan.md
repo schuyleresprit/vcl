@@ -52,9 +52,9 @@ permalink: /ikhan/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">1986</p></div>
+            <div class="date left"><p class="left">1986</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Crucifixion</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51otv8Zm6NL._AC_SY780_.jpg"></p>
                 <p>Language: English<br/>
@@ -65,9 +65,9 @@ permalink: /ikhan/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1994</p></div>
+            <div class="date right"><p class="right">1994</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left hide">
                 <h1>A Day In The Country And Other Stories</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/410F20625SL.jpg"></p>
                 <p>
@@ -79,9 +79,9 @@ permalink: /ikhan/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>L'Oiseau Zombie</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61JSE77DXRL._SX362_BO1,204,203,200_.jpg"></p>
                 <p>Language: French<br/>
