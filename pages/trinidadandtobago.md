@@ -769,7 +769,7 @@ permalink: /3/
     <div id="post-48" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHCD5zAvIYGZQ/profile-displayphoto-shrink_200_200/0/1517471331471?e=2147483647&v=beta&t=tKgpKVnIdKvJf8QxQaHJ418Zv_bG8WuFAoGqYifPSyo" width="60%">
+          <img src="https://m.media-amazon.com/images/I/61Qmq3KgwwL._AC_UF1000,1000_QL80_.jpg" width="60%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>

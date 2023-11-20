@@ -7,7 +7,7 @@ permalink: /mpbartonromeo/
 <div class="content">
     <h1>Michelle Paula Barton-Romeo</h1>
     <div class="quote">
-        <div><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHCD5zAvIYGZQ/profile-displayphoto-shrink_200_200/0/1517471331471?e=2147483647&v=beta&t=tKgpKVnIdKvJf8QxQaHJ418Zv_bG8WuFAoGqYifPSyo" class="logo"></div>
+        <div><img src="https://m.media-amazon.com/images/I/61Qmq3KgwwL._AC_UF1000,1000_QL80_.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
