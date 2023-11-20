@@ -20,6 +20,8 @@ permalink: /gdrayton/
           <div class="aclocation">  <p> Geoffrey Drayton is from <a href="{{ site.baseurl }}/12">Barbados.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Geoffrey_Drayton">Read more</a></div>
             </div>
+            <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/gdrayton_dloc" target="_blank">DLOC Resources</a></div>
             </div>
         </div>
        <div class="block">

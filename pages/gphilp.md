@@ -19,6 +19,9 @@ permalink: /gphilp/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Geoffrey Philp is from <a href="{{ site.baseurl }}/4">Jamaica.</a></p></div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Geoffrey_Philp">Read more</a> </div>
+                <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/gphilp_dloc" target="_blank">DLOC Resources</a></div>
+            </div>
             </div>
             </div>
         <div class="block">
@@ -44,7 +47,7 @@ permalink: /gphilp/
                 <p><img src="https://m.media-amazon.com/images/I/51hsGi5lyWL._SY344_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br>
-                Publisher: ‎ Peepal Tree Press Ltd<br>
+                Publisher: Peepal Tree Press Ltd<br>
                 Publisher Location: Leeds, LDN, England<br>
                 Genre: Anthology<br>
                 Length: 64<br>
@@ -166,7 +169,7 @@ permalink: /gphilp/
                 Length: 72<br></p>
             </div>
         </div>
-        </div> <div class="block">
+        <div class="block">
             <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -218,6 +221,7 @@ permalink: /gphilp/
                 Length: 62<br></p>
             </div>
         </div>
-
+</div>
+</div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
