@@ -205,7 +205,7 @@ permalink: /elovelace/
                 Publisher: Haymarket Books<br/>
                 Pub_location: Chicago, IL, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: https://books.google.dm/books/content?id=diZrUEqg4g0C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71WCt0wQlab4ZZiO5dThODpMk2lbm8n0m2amhDp7yLaJncHuo3UMn0g5GHteCL7sdU-cW5TB9xWJeVnOqZIpTPgLI59vpw8D-Sp0ewrgGTQIBJ2Nn4hJBac8JE9yPNmDe-a81pT<br/>                   </p>
+                Length: 362<br/>                   </p>
             </div>
         </div>
    <div class="block">
