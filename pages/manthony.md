@@ -36,9 +36,9 @@ permalink: /manthony/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1967</p></div>
+            <div class="date right"><p class="right">1967</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Michael Anthony's Tales for Young and Old</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -50,9 +50,9 @@ permalink: /manthony/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1996</p></div>
+            <div class="date left"><p class="left">1996</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>In the Heat of the Day</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4QMiX5oyQHvtcirdgN_oOG_lccZ52TwTqp__qk04rqEiyiseC"></p>
                 <p>Language: English<br/>
@@ -63,9 +63,9 @@ permalink: /manthony/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2001</p></div>
+            <div class="date right"><p class="right">2001</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>High Tide of Intrigue</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=4rNfDVoufCoC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U2fS9VAz6yV0ZkMbJ2ZtPgssCxltg&w=1280"></p>
                 <p>Language: English<br/>
@@ -76,9 +76,9 @@ permalink: /manthony/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Caribbean Folk Tales & Fantasies</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51AkkCSMWcL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -89,9 +89,9 @@ permalink: /manthony/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Chieftain's Carnival and Other Stories</h1><hr>
                 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQ-eSMPUQ69dB2e0gwQRn-x4ELoZe_OH2DCd7DKgpYpzJLv-J"></p>
                 <p>Language: English<br/>
@@ -102,9 +102,9 @@ permalink: /manthony/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2007</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Bright Road to El Dorado</h1><hr>
                 <p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSL1ONIDwleFRVCPglhWv_S9SRt0JlZZTcXrFz_i-MtemvbrwZQ"></p>
                 <p>Language: English<br/>
@@ -115,9 +115,9 @@ permalink: /manthony/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Green Days by the River</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=fyB8IgLwDJQC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U3ZoYVwzyA85lAvlhvgs5D_YxW65Q&w=1280"></p>
                 <p>Language: English<br/>
