@@ -19,6 +19,8 @@ permalink: /jaalix/
                 <h1>Author Country</h1><hr>
         <div class="aclocation">    <p>Juan Antonio Alix is from the <a href="{{ site.baseurl }}/9">Dominican Republic.</a></p></div>
                 <div class="acreadmore"><a href="NA" target="_blank">Read more</a></div>
+                <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/jaalix_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -35,6 +37,8 @@ permalink: /jaalix/
                 Genre: Poetry Collection<br/>
                 Length: 215</p>
             </div>
+        </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
