@@ -36,6 +36,20 @@ permalink: /amgomes/
                 Length: <br/>                   </p>
             </div>
         </div>
+        <div class="block">
+            <div class="date left"><p class="left">1978</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>All Papa's Children</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/917sS47alSL._SY425_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Three Continents Press<br/>
+                Pub_location: Washington D.C., United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 113<br/>                   </p>
+            </div>
+        </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
 
