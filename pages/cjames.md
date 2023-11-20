@@ -178,19 +178,19 @@ Found In: Vol. 30, No. 2, "Callaloo" and the Cultures and Letters of the Black D
                 Length: 601-604<br/>                   </p>
             </div>
         </div>
-       <div class="block">
+        <div class="block">
             <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="left">
                 <h1>Creative And Cultural Identity In The Work Of Anson Gonzalez: A Study Of Proseleela, Chela Quest, And Crossroads Of Dream As Spiritual And Literary Autobiography : A Paper</h1><hr>
                 <p><img src=""></p>
                 <p>
                 Language: English<br/>
                 Publisher: New Voices Publishing<br/>
                 Pub_location: Port of Spain, Trinidad & Tobago<br/>
-                Genre: Essay<br/>                      </p>
-             </div>
-        </div>
+                Genre: Essay<br/>                  </p>
+            </div>
+        </div> 
 	<div class="block">
             <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
@@ -205,7 +205,7 @@ Found In: Vol. 30, No. 2, "Callaloo" and the Cultures and Letters of the Black D
                 Length: 196<br/>                   </p>
             </div>
         </div>
-       <div class="block">
+  	 <div class="block">
             <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
             <div class="left hide">
@@ -215,9 +215,8 @@ Found In: Vol. 30, No. 2, "Callaloo" and the Cultures and Letters of the Black D
                 Language: English<br/>
                 Publisher: Asbury Theological Seminary<br/>
                 Pub_location: Wilmore, United States<br/>
-                Genre: Poem<br/>
-                </p>
-            </div>
+                Genre: Poem<br/>                  </p>
+            </div> 
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
