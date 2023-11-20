@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Elizabeth Walcott-Hackshaw"
-permalink: /ewalcotthackshaw/
+permalink: /ewhackshaw/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -109,9 +109,9 @@ permalink: /ewalcotthackshaw/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Aimé Césaire (Caribbean Biography)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ycuh9gw2L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -123,9 +123,9 @@ permalink: /ewalcotthackshaw/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2022</p></div>
+            <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Stick No Bills (short stories)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41qAAQBPa8L._SX318_BO1,204,203,200_.jpg"></p>
                 <p>
