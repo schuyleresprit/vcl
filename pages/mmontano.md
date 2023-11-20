@@ -27,7 +27,7 @@ permalink: /mmontano/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Boy Boy And The Magic Drum</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51cQ9V6D1dL._SY498_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51SrC3XesrL._SY385_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Caribbean Planet<br/>
