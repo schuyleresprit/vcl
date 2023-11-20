@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: " Frantz Wainwright"
+title: "Frantz Wainwright"
 permalink: /fwainwright/
 ---
 <!-- partial:index.partial.html -->
@@ -19,6 +19,8 @@ permalink: /fwainwright/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p> Frantz Wainwright is from <a href="{{ site.baseurl }}/5">Haiti. </a></p> </div>
               <div class="acreadmore">  <a href="#">Read more</a> </div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/fwainwright_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -66,6 +68,8 @@ permalink: /fwainwright/
                 Length: 200 <br/>
                 </p>
             </div>
+        </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
