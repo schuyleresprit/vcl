@@ -94,7 +94,7 @@ permalink: /jfmanzano/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Zafira</h1><hr>
-                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+284385744_140.jpg?allowDefault=false&client=WorldcatOrgUI" height="50%" width = "50%"></p>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+284385744_140.jpg?allowDefault=false&client=WorldcatOrgUI"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Red Ediciones<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -108,7 +108,7 @@ permalink: /jfmanzano/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Life and Poems of a Cuban Slave: Juan Francisco Manzano 1797–1854</h1><hr>
-                <p><img src="http://coverart.oclc.org/ImageWebSvc/isbn/+-+7386392866324_140.jpg?client=WorldCatIdentities" height="50%" width = "50%"></p>
+                <p><img src="http://coverart.oclc.org/ImageWebSvc/isbn/+-+7386392866324_140.jpg?client=WorldCatIdentities"></p>
                 <p>Language: English<br/>
                 Publisher: Palgrave Macmillan<br/>
                 Pub_location: London, England<br/>
@@ -121,7 +121,7 @@ permalink: /jfmanzano/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Poems by a Slave in the Island of Cuba, Recently Liberated</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71hIFXf7LHL.jpg](https://docsouth.unc.edu/neh/manzano/manzatp.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71hIFXf7LHL.jpg](https://docsouth.unc.edu/neh/manzano/manzatp.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Forgotten Books<br/>
                 Pub_location: London, United Kingdom<br/>
