@@ -64,9 +64,9 @@ permalink: /jfmanzano/
             </div>
         </div>    
         <div class="block">
-            <div class="date left"><p class="left">2006</p></div>
+            <div class="date right"><p class="right">2006</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Poemas</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61Q3I0BdtiL.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -77,9 +77,9 @@ permalink: /jfmanzano/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2007</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Autobiografía del Esclavo Poeta y Otros Escritos</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/512U1qhzAzL._SX342_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
