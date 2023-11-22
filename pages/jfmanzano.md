@@ -102,7 +102,6 @@ permalink: /jfmanzano/
                 Length: 114</p>
             </div>
         </div>
-        </div>
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
