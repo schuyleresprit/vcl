@@ -64,9 +64,9 @@ permalink: /jfmanzano/
             </div>
         </div>    
         <div class="block">
-            <div class="date left"><p class="left">2006</p></div>
+            <div class="date right"><p class="right">2006</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Poemas</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61Q3I0BdtiL.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -77,9 +77,9 @@ permalink: /jfmanzano/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2007</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Autobiografía del Esclavo Poeta y Otros Escritos</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/512U1qhzAzL._SX342_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
@@ -94,7 +94,7 @@ permalink: /jfmanzano/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Zafira</h1><hr>
-                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+284385744_140.jpg?allowDefault=false&client=WorldcatOrgUI" height="50%" width = "50%"></p>
+                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+284385744_140.jpg?allowDefault=false&client=WorldcatOrgUI"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Red Ediciones<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -102,13 +102,12 @@ permalink: /jfmanzano/
                 Length: 114</p>
             </div>
         </div>
-        </div>
         <div class="block">
             <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Life and Poems of a Cuban Slave: Juan Francisco Manzano 1797–1854</h1><hr>
-                <p><img src="http://coverart.oclc.org/ImageWebSvc/isbn/+-+7386392866324_140.jpg?client=WorldCatIdentities" height="50%" width = "50%"></p>
+                <p><img src="http://coverart.oclc.org/ImageWebSvc/isbn/+-+7386392866324_140.jpg?client=WorldCatIdentities"></p>
                 <p>Language: English<br/>
                 Publisher: Palgrave Macmillan<br/>
                 Pub_location: London, England<br/>
@@ -121,7 +120,7 @@ permalink: /jfmanzano/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Poems by a Slave in the Island of Cuba, Recently Liberated</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71hIFXf7LHL.jpg](https://docsouth.unc.edu/neh/manzano/manzatp.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/71hIFXf7LHL.jpg](https://docsouth.unc.edu/neh/manzano/manzatp.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Forgotten Books<br/>
                 Pub_location: London, United Kingdom<br/>

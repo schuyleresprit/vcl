@@ -29,7 +29,7 @@ permalink: /jgoulbourne/
             <div class="dot"></div>
             <div class="right">
                 <h1>Excavation</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348299263i/5912070.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348299263i/5912070.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press Ltd.<br/>
@@ -43,7 +43,7 @@ permalink: /jgoulbourne/
             <div class="dot"></div>
             <div class="left">
                 <h1>Freedom Come</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600774289i/55425914.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600774289i/55425914.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Carlong Publishers<br/>
@@ -57,7 +57,7 @@ permalink: /jgoulbourne/
             <div class="dot"></div>
             <div class="right">
                 <h1>Woman Song</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348285629i/6787269.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348285629i/6787269.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press Ltd.<br/>
@@ -71,7 +71,7 @@ permalink: /jgoulbourne/
             <div class="dot"></div>
             <div class="left">
                 <h1>Little Meeta</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51BiuuElBDL._SY486_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51BiuuElBDL._SY486_BO1,204,203,200_.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Arawak Publications<br/>
@@ -84,7 +84,7 @@ permalink: /jgoulbourne/
             <div class="dot"></div>
             <div class="right">
                 <h1>My Aunt and the Potted Plant and Other Stories</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355946666i/16694827.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355946666i/16694827.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Hoperoad Publishing<br/>
@@ -92,13 +92,12 @@ permalink: /jgoulbourne/
                 Genre: Short Stories<br/>
                 Length: 104<br/>                   </p>
             </div>
-        </div>
-<div class="block">
+         <div class="block">
             <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>Janice</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459794454i/29775550.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459794454i/29775550.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: LMH Publishing<br/>
@@ -106,13 +105,12 @@ permalink: /jgoulbourne/
                 Genre: Fiction (Novel)<br/>
                 Length: 114<br/>                   </p>
             </div>
-        </div>
-<div class="block">
+          <div class="block">
             <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>In the Time Before Time</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678880854i/97470180.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678880854i/97470180.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: LMH Publishing<br/>
@@ -120,13 +118,12 @@ permalink: /jgoulbourne/
                 Genre: Nonfiction Book<br/>
                 Length: 36<br/>                   </p>
             </div>
-        </div>
-<div class="block">
+          <div class="block">
             <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
             <div class="left">
                 <h1>The Extraordinarily Ordinary Baker Street</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678959955i/101905956.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678959955i/101905956.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: LMH Publishing<br/>
@@ -134,21 +131,19 @@ permalink: /jgoulbourne/
                 Genre: Fiction (Novel)<br/>
                 Length: 112<br/>                   </p>
             </div>
-        </div>       
-<div class="block">
-            <div class="date left"><p class="left">2021/p></div>
+          <div class="block">
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Janice : A Coming of Age Tale of Hope & Perseverance</h1><hr>
-                <p><img src="https://productimages.worldofbooks.com/9766570728.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://productimages.worldofbooks.com/9766570728.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: LMH Publishing<br/>
                 Pub_location: Kingston, Jamaica<br/>
-                Genre: <br/>
+                Genre: Fiction<br/>
                 Length: 114<br/>                   </p>
             </div>
-        </div>
         </div>
         </div>
 <!-- partial -->

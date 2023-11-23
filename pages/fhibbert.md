@@ -7,7 +7,7 @@ permalink: /fhibbert/
 <div class="content">
      <h1>Fernand Hibbert</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://desideesetdeslivreshome.files.wordpress.com/2020/01/screenshot_2020-01-02-12-04-26-21626395785.png" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,7 +29,7 @@ permalink: /fhibbert/
             <div class="dot"></div>
             <div class="right">
                 <h1>Les Simulacres : L'Aventure De M. Hellénus Caton</h1><hr>
-                <p><img src=https://books.google.dm/books/content?id=RmGyAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73lzO3JUZ1cXnuGVnErz0qOswpRiEklrzzv3nIKqfrkp_-r4hZ7iAHvBNm-Z2gImeNnC-ShWIzLA8J1KI9nBzYSd1q5a_AC_6UDHqg0tpssNBbr1RLrMLO358KZp1N6YH5cYqtv""></p>
+                <p><img src="https://books.google.dm/books/content?id=RmGyAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73lzO3JUZ1cXnuGVnErz0qOswpRiEklrzzv3nIKqfrkp_-r4hZ7iAHvBNm-Z2gImeNnC-ShWIzLA8J1KI9nBzYSd1q5a_AC_6UDHqg0tpssNBbr1RLrMLO358KZp1N6YH5cYqtv"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Imprimerie Chéraquit<br/>

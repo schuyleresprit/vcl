@@ -136,7 +136,7 @@ permalink: /vsreid/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Horses of the Morning</h1><hr>
-                <p><img src="https://i.ebayimg.com/images/g/cJsAAOSwIvFig~06/s-l1600.jpg"height="50%" width = "50%"></p>
+                <p><img src="https://i.ebayimg.com/images/g/cJsAAOSwIvFig~06/s-l1600.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Caribbean Authors Publishing Co.<br>
                 Publisher Location: Kingston, Jamaica<br>

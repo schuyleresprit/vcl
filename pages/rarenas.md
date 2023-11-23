@@ -231,7 +231,7 @@ permalink: /rarenas/
                 <p>Language: Greek<br/>
                 Publisher: Exantaz<br/>
                 Genre: Fiction (Novel)<br/>
-                Translation: y<br/>
+                Translation: y</p>
             </div>
         </div>
         <div class="block">

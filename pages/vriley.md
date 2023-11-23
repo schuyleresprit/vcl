@@ -27,7 +27,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Bittersweet Bride</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51LTF3JPZEL._SY346_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515441018i/36679612.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Entangled: Amara<br>
@@ -42,7 +42,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Bashful Bride</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51At9l0WKjL.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523563496i/39817934.jpg"></p>
                 <p>
                 Language: English<br>
                 Publisher: Entangled: Amara<br>
@@ -57,7 +57,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Butterfly Bride</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51OWmfJLsjL.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/519MeqMpLLL._SY445_SX342_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Entangled: Amara<br>
                 Publisher Location: Shrewsbury, PA, United States<br>
@@ -70,7 +70,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Victorian Christmas Brides Collection</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41Jwsxx5I7L._SX347_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/71H3pF0XNmL._SY385_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Barbour Books<br>
                 Publisher Location: Uhrichsville, OH, United States<br>
@@ -83,7 +83,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Bewildered Bride</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51mgW5q3v6L.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560353179i/46270240.jpg"></p>
                 <p>Language: English<br>
                 Publisher:  Entangled: Amara<br>
                 Publisher Location:  Shrewsbury, PA, United States<br>
@@ -96,7 +96,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>A Duke, the Lady, and a Baby</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51Q5-HRAFzL._SX330_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575505378i/50738882.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Zebra<br>
                 Publisher Location: New York, United States<br>
@@ -109,7 +109,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Brides of London</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51+bQb2WqbS._SX331_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781649370297_p0_v2_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D"></p>
                 <p>Language: English<br>
                 Publisher: Entangled: Amara<br>
                 Publisher Location: Shrewsbury, PA, United States<br>
@@ -122,7 +122,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>An Earl, the Girl, and a Toddler</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51M13lnjwAL._SX331_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51M13lnjwAL._SY445_SX342_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Zebra<br>
                 Publisher Location: New York, United States<br>
@@ -135,7 +135,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Island Queen: A Novel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51kay5bL-7L._SX329_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51kay5bL-7L._SY445_SX342_.jpg"></p>
                 <p>Language: English<br>
                 Publisher:  William Morrow<br>
                 Publisher Location: New York, United States<br>
@@ -148,7 +148,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Sister Mother Warrior: A Novel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51SGVXr3U-L._SX327_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51SGVXr3U-L._SY445_SX342_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: William Morrow<br>
                 Publisher Location: New York, United States<br>
@@ -161,7 +161,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="right">
                 <h1>A Duke, the Spy, an Artist, and a Lie</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41eCLqRgbkL.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41eCLqRgbkL._SY445_SX342_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Zebra Books<br>
                 Publisher Location: New York, United States<br>
@@ -174,7 +174,7 @@ permalink: /vriley/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Murder in Westminster: A Riveting Regency Historical Mystery </h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51o3EXn0eRL.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51R0tu2jhHL._SY445_SX342_.jpg"></p>
                 <p>Language: English<br>
                 Publisher: Kensington Books<br>
                 Publisher Location: New York, United States<br>

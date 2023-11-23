@@ -90,9 +90,9 @@ permalink: /jmarinello/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1990</p></div>
+            <div class="date right"><p class="right">1990</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Cartas a Pepilla</h1><hr>
                 <p><img src="https://cubaposible.com/wp-content/uploads/2017/09/marinello15.jpg"></p>
                 <p>Language: Spanish<br/>

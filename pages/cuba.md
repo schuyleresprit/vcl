@@ -593,7 +593,7 @@ permalink: /14/
     <div id="post-36" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://i0.wp.com/abecedariaeditoras.com/wp-content/uploads/2021/02/Soleida-Rios-1.jpg?fit=1200%2C1200&ssl=1" width="80%">
+          <img src="https://directoriodeafrocubanas.com/wp-content/uploads/2016/01/unnamed-7.jpg" width="80%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>

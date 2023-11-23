@@ -7,7 +7,7 @@ permalink: /abromfield/
 <div class="content">
     <h1>Asha Bromfield</h1>
     <div class="quote">
-        <div><img src="https://images.gr-assets.com/authors/1600976999p8/19300595.jpg" class="logo"></div>
+        <div><img src="https://m.media-amazon.com/images/M/MV5BMThhNzhlYjQtYjhhMS00NzU3LTk2ODEtZTk4MTc2ZGQ0NjVmXkEyXkFqcGdeQXVyMjY3MDk1ODA@._V1_.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -31,6 +31,21 @@ permalink: /abromfield/
                 <p>
                 Language: English <br/>
                 Publisher: St. Martin's Press	 <br/>
+                Pub_location: New York, NY, United States <br/>
+                Genre: Fiction (Novel) <br/>
+                Length: 400 <br/>                
+                </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2023</p></div>
+            <div class="dot"></div>
+            <div class="left">
+                <h1>Songs of Irie</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/814I9kKOglL._SY385_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Wednesday Books<br/>
                 Pub_location: New York, NY, United States <br/>
                 Genre: Fiction (Novel) <br/>
                 Length: 400 <br/>                

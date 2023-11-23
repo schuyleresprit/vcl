@@ -165,9 +165,9 @@ permalink: /edanticat/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">1999</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Die Süße Saat Der Tränen: Roman</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51HBB5XFQTL._SX304_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -179,9 +179,9 @@ permalink: /edanticat/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">1999</p></div>
+            <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Ved Elven Massacre</h1><hr>
                 <p><img src="https://static.bokelskere.no/e92982d88bb738062072ec673c3734fd83fe1de1f96f5de6527a3f7c.jpeg"></p>
                 <p>
@@ -193,9 +193,9 @@ permalink: /edanticat/
                  </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1999</p></div>
+            <div class="date left"><p class="left">1999</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Cosecha de Huesos</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/217JAR36BFL._BO1,204,203,200_.jpg"></p>
                 <p>
@@ -305,9 +305,9 @@ permalink: /edanticat/
                 </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2000</p></div>
+            <div class="date left"><p class="left">2000</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Kene Ha-sukar Ha-marim</h1><hr>
                 <p><img src=""></p>
                 <p>
@@ -333,9 +333,9 @@ permalink: /edanticat/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Butterfly's Way: Voices From the Haitian Dyaspora in the United States</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+751159922_140.jpg"></p>
                 <p>
@@ -361,9 +361,9 @@ permalink: /edanticat/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Haiti Noir</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+711642934_140.jpg"></p>
                 <p>
@@ -417,9 +417,9 @@ permalink: /edanticat/
             </div>
         </div>
       <div class="block">
-            <div class="date right"><p class="right">2014</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Haiti Noir 2: The Classics</h1><hr>
                 <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+150169554_140.jpg"></p>
                 <p>
@@ -431,9 +431,9 @@ permalink: /edanticat/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>La Récolte Douce des Larmes</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/415NE1K2TAL._SX210_.jpg"></p>
                 <p>
@@ -445,9 +445,9 @@ permalink: /edanticat/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Everything Inside</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51RD2ma4xzL._SX322_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -459,9 +459,9 @@ permalink: /edanticat/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Att Skörda Ben</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/31064397537.jpg"></p>
                 <p>
@@ -473,9 +473,9 @@ permalink: /edanticat/
                 </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Haïti Noir</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51IlaPC+qWL._SX345_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -485,7 +485,6 @@ permalink: /edanticat/
                 Genre: Fiction (Short Story Collection)<br/>
                 Length: 400<br/>                   </p>
             </div>
-        </div>
         </div>
         </div>
   <!-- partial -->

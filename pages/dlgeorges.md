@@ -29,14 +29,13 @@ permalink: /dlgeorges/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Maroon</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348249145i/1757904.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348249145i/1757904.jpg"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Curbstone Books<br/>
                 Pub_location: Willimantic, United States<br/>
                 Genre: Poetry Collection<br/>
-                Length: 64</br>
-                Translation: Yes</p>
+                Length: 64</p>
             </div>
         </div>
         <div class="block">
@@ -44,7 +43,7 @@ permalink: /dlgeorges/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Dear Remote Nearness Of You</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515448274i/29941972.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515448274i/29941972.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Barrow Street Press<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -53,19 +52,18 @@ permalink: /dlgeorges/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Letters From Congo</h1><hr>
-                <p><img src="https://images-us.bookshop.org/ingram/9781941604052.jpg?height=500&v=v2" height="50%" width = "50%"></p>
+                <p><img src="https://images-us.bookshop.org/ingram/9781941604052.jpg?height=500&v=v2"></p>
                 <p>Language: English<br/>
                 Publisher: Central Square Press<br/>
                 Pub_location: New York, NY, United States<br/>
                 Genre: Poetry Collection<br/>
                 Length: 36</p>
             </div>
-        </div>
-    </div>
-</div>
+       </div>
+       </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>

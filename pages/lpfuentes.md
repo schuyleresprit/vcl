@@ -323,9 +323,9 @@ permalink: /lpfuentes/
             </div>
         </div>
        <div class="block">
-            <div class="date right"><p class="right">2001</p></div>
+            <div class="date left"><p class="left">2001</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>José María Heredia, La Patria Y La Vida</h1><hr>
                 <p><img src="https://i.pinimg.com/originals/71/e2/88/71e2880d61957e78e5c34a2f6a799c4d.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -336,9 +336,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2002</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Un Camino De Medio Siglo: Alejo Carpentier Y La Narrativa De Lo Real Maravilloso</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51lWaWMusrL._SX336_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -350,9 +350,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2002</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Le Almier Et L 'Étoile</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/6179XacHtJL.jpg"></p>
                 <p>Language: French<br/>
@@ -363,9 +363,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2002</p></div>
+            <div class="date right"><p class="right">2002</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Alejo Carpentier: En Medio Del Camino De La Vida</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348633375l/2533796.jpg"></p>
                 <p>
@@ -377,9 +377,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2002</p></div>
+            <div class="date left"><p class="left">2002</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Cultura Y La Revolución Cubana: Conversaciones En Havana</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=W09qAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71o8waBqYwamEbYUl-R97CPDPGeySXC6nPFo0vkC9FZUxvS4zLC3-tUUBDw84xrH9qqE-2VrxgBPyN3TAyl2BEn2HRCFQ_w5OgYZtalMMoMFpaP2M3Mr4RNNgt-cs3lXV0imIC-"></p>
                 <p>Language: Spanish<br/>
@@ -390,9 +390,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2003</p></div>
+            <div class="date right"><p class="right">2003</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Ein Perfektes Leben</h1><hr>
                 <p><img src="https://perlentaucher.de/cdata/JdbX641eMUgCpsNrSjdq-qb9QGI=/200x0/9783293003156.jpg"></p>
                 <p>
@@ -406,9 +406,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2003</p></div>
+            <div class="date left"><p class="left">2003</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Neblina Del Ayer</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/81lzEsKA7fL.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -419,9 +419,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2003</p></div>
+            <div class="date right"><p class="right">2003</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Der Nebel Von Gestern</h1><hr>
                 <p><img src="http://www.unionsverlag.com/dat/img/cover/3293003885.jpg"></p>
                 <p>
@@ -434,9 +434,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2004</p></div>
+            <div class="date left"><p class="left">2004</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Passato Remoto</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/5184v9EJQuL._SX331_BO1,204,203,200_.jpg"></p>
                 <p>Language: Italian<br/>
@@ -462,9 +462,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2005</p></div>
+            <div class="date left"><p class="left">2005</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Havana Red</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61BGEfxAIjL._AC_UL900_SR615,900_.jpg"></p>
                 <p>Language: English<br/>
@@ -477,9 +477,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2005</p></div>
+            <div class="date right"><p class="right">2005</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Das Meer Der Illusionen</h1><hr>
                 <p><img src="http://www.unionsverlag.com/dat/img/cover/3293003249.jpg"></p>
                 <p>
@@ -493,9 +493,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2006</p></div>
+            <div class="date left"><p class="left">2006</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Havana Black: A Lieutenant Mario Conde Mystery</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51CbiSbjAyL.jpg"></p>
                 <p>Language: English<br/>
@@ -508,9 +508,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Passé Parfait : Roman</h1><hr>
                 <p><img src="https://static.fnac-static.com/multimedia/Images/FR/NR/bb/f8/21/2226363/1540-1/tsp20220410071638/Pae-parfait.jpg"></p>
                 <p>
@@ -524,9 +524,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2008</p></div>
+            <div class="date left"><p class="left">2008</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Havana Gold: The Havana Quartet</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51eBRorC3dL._SX323_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -539,9 +539,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2009</p></div>
+            <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>El Hombre Que Amaba A Los Perros</h1><hr>
                 <p><img src="https://imagessl9.casadellibro.com/a/l/t5/39/9788483839539.jpg"></p>
                 <p>
@@ -553,9 +553,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2009</p></div>
+            <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Havana Fever</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354903187i/5562167._UY630_SR1200,630_.jpg"></p>
                 <p>Language: English<br/>
@@ -568,9 +568,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2009</p></div>
+            <div class="date right"><p class="right">2009</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Wichura W Hawanie</h1><hr>
                 <p><img src="https://s.lubimyczytac.pl/upload/books/28000/28692/170x243.jpg"></p>
                 <p>
@@ -583,9 +583,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2009</p></div>
+            <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Mirando Al Sol</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -596,9 +596,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2011</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>La Cola De La Serpiente</h1><hr>
                 <p><img src="https://planetadelibroscom.cdnstatics2.com/usuaris/libros/fotos/89/m_libros/la-cola-de-la-serpiente_9788483833629.jpg"></p>
                 <p>
@@ -610,9 +610,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Der Mann, Der Hunde Liebte</h1><hr>
                 <p><img src="http://www.unionsverlag.com/dat/img/cover/3293205798.jpg"></p>
                 <p>Language: German<br/>
@@ -625,9 +625,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2013</p></div>
+            <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Herejes</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Y1FiHy09L._AC_SY780_.jpg"></p>
                 <p>
@@ -639,9 +639,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2014</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Les Brumes Du Passé</h1><hr>
                 <p><img src="https://products-images.di-static.com/image/leonardo-padura-les-brumes-du-passe/9782757821831-475x500-1.jpg"></p>
                 <p>Language: French<br/>
@@ -654,9 +654,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Le Palmier Et L'étoile</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51vgFbZxhpL.jpg"></p>
                 <p>
@@ -670,9 +670,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2014</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Man Who Loved Dogs</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/518MDd7CbDL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: English<br/>
@@ -685,9 +685,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Fiebre De Caballos</h1><hr>
                 <p><img src="https://www.ecured.cu/images/c/cb/Fiebre_de_caballos.jpg"></p>
                 <p>
@@ -699,9 +699,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Der Mann, Der Hunde Liebte: Roman</h1><hr>
                 <p><img src="http://www.unionsverlag.com/dat/img/cover/3293205798.jpg"></p>
                 <p>Language: German<br/>
@@ -714,9 +714,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
+            <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Die Palme Und Der Stern: Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51kDLSmPkcL._SX298_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -730,9 +730,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2015</p></div>
+            <div class="date left"><p class="left">2015</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Cómo Nace Un Personaje: La Historia De Un Detective En Havana</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422227020l/24688556.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -743,9 +743,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
+            <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Aquello Estaba Deseando Ocurrir</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51kj7dLwnRL._SX332_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -757,9 +757,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Heretics</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51+h9XQsSNL._SX324_BO1,204,203,200_.jpg"></p>
                 <p>Language: English<br/>
@@ -772,9 +772,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2017</p></div>
+            <div class="date right"><p class="right">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Havana Noir: Le Indagini Di Mario Conde</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/516PaA1vmiL.jpg"></p>
                 <p>
@@ -788,9 +788,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Transparencia Del Tiempo</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51P9ja6PAHL._SX332_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -801,9 +801,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>A Transparência Do Tempo</h1><hr>
                 <p><img src="https://www.boitempoeditorial.com.br/resizer/view/900/900/true/false/771.jpg"></p>
                 <p>
@@ -817,9 +817,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2018</p></div>
+            <div class="date left"><p class="left">2018</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Transparencia Del Tiempo</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51P9ja6PAHL._SX332_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -830,9 +830,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Die Durchlässigkeit Der Zeit</h1><hr>
                 <p><img src="http://www.unionsverlag.com/dat/img/cover/329300542X.jpg"></p>
                 <p>
@@ -846,9 +846,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2019</p></div>
+            <div class="date left"><p class="left">2019</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Trasparenza Del Tempo: Una Nuova Indagine Di Mario Conde</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/518Z5cSoOpL._SY264_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>Language: Italian<br/>
@@ -861,9 +861,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Agua Por Todas Partes: Vivir Y Escribir En Cuba</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41i0y91ODCL._SX327_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -875,9 +875,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2020</p></div>
+            <div class="date left"><p class="left">2020</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Água Por Todos Os Lados</h1><hr>
                 <p><img src="https://boitempo-img.f1cdn.com.br/resizer/view/370/530/false/true/-gua-por-todos-os-lados-9786557170045-1131.jpg"></p>
                 <p>Language: Portuguese<br/>
@@ -890,9 +890,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Como Polvo En El Viento</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41kjnYogQaL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -904,9 +904,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>The Transparency of Time</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51u+2fsdKoL._AC_SY780_.jpg"></p>
                 <p>Language: English<br/>
@@ -919,9 +919,9 @@ permalink: /lpfuentes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2021</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>L'uomo Che Amava I Cani</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/31zLwcx1IuL._BO1,204,203,200_.jpg"></p>
                 <p>Language: Italian<br/>

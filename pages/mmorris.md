@@ -30,76 +30,76 @@ permalink: /mmorris/
             <div class="right hide">
                 <h1>Focus: An Anthology of Contemporary Jamaican Writing</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md30474909095.jpg"></p>
-                <p>Language: English<br/>
+                Language: English<br/>
                 Publisher: Caribbean Authors Publishing Co.<br/>
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Anthology<br/>
-                Length: 294</p>
+                Length: 294<br/>
             </div>
         </div>
-<div class="block">
+       <div class="block">
             <div class="date right"><p class="right">1976</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>On Holy Week: A Sequence of Poems for Radio</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=BDtbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73Q5RQVYBCx9G6aHiP4XkYDAt-mFyLvIlLSg8TzdwawE81BDZGiwtBRqccZEl8JNvNajrBvSbXCfwQM54xCPWrwj5vc8znOyptfoJ80CoBjkAtzNm-H_4nKRrw7atskeaDh5aC4"></p>
-                <p>Language: English<br/>
+                Language: English<br/>
                 Publisher: Pathways Publications<br/>
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Poetry Collection<br/>
-                Length: 30</p>
+                Length: 30<br/>
             </div>
         </div>      
-<div class="block">
+       <div class="block">
             <div class="date left"><p class="left">1976</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>On Holy Week</h1><hr>
                 <p><img src="https://jamaica-gleaner.com/sites/default/files/media/article_images/2022/04/17/1723188/6236674.jpg"></p>
-                <p>Language: English<br/>
+                Language: English<br/>
                 Publisher: Sangster's Book Stores<br/>
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Poetry Collection<br/>
-                Length: 30</p>
+                Length: 30<br/>
             </div>
         </div>
-        <div class="block">
+       <div class="block">
             <div class="date right"><p class="right">1982</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Louise Bennett in Print</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51Aj5uR-rRL._SX322_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br/>
+                Language: English<br/>
                 Publisher: Caribbean Quarterly<br/>
                 Pub_location: Mona, Jamaica<br/>
                 Genre: Nonfiction<br/>
-                Length: 104</p>
+                Length: 104<br/>
             </div>
         </div>
-        <div class="block">
+       <div class="block">
             <div class="date left"><p class="left">1985</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Another Claude McKay a Poet of Love</h1><hr>
                 <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
-                <p>Language: English<br/>
+                Language: English<br/>
                 Publisher: Jamaica Journal<br/>
                 Pub_location: Kingston, Jamaica<br/>
-	    Genre: Poetry Collection<br/>
-                Found In: Jamaica Journal Vol. 19 No. 2, May-July 1986, pp. 46-48</p>
+	        Genre: Poetry Collection<br/>
+                Found In: Jamaica Journal Vol. 19 No. 2, May-July 1986, pp. 46-48<br/>
             </div>
         </div>
-        <div class="block">
+       <div class="block">
             <div class="date right"><p class="right">1988</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Gender In 'Summer lightning' And 'Talking Of trees'</h1><hr>
                 <p><img src=""></p>
-                <p>Language: English<br/>
+                Language: English<br/>
                 Publisher: Women and Development Studies, University of the West Indies<br/>
-                Pub_location: Mona, Jamaica<br/></p>
-	    Genre: Poetry Collection<br/>
-                Length: 11</p>
+                Pub_location: Mona, Jamaica<br/>
+	        Genre: Poetry Collection<br/>
+                Length: 11<br/>
             </div>
         </div>
         <div class="block">
@@ -108,11 +108,11 @@ permalink: /mmorris/
             <div class="right hide">
                 <h1>The Faber Book of Contemporary Caribbean Short Stories</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41PsvhlSkdL._SX351_BO1,204,203,200_.jpg"></p>
-                <p>Language: English<br/>
+                Language: English<br/>
                 Publisher: Faber and Faber<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Short Story Collection)<br/>
-                Length: 275</p>
+                Length: 275<br/>
             </div>
         </div>
         </div>

@@ -50,9 +50,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1976</p></div>
+            <div class="date left"><p class="left">1976</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>El Arco de Belén</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=VHpAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE730Z8qRk8IWGX1AWRglxHMqxCOEmBC70-wI6RYxXFoPu25wd22HFZmmhvR7qNCQcjMzG7qeV9ghrrcBuDH2GgySOxmWAkkOtgu5XirQCsLvSxBMBC5685OBfWsldB0G0kLErPPz"></p>
                 <p>Language: Spanish<br/>
@@ -63,9 +63,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1978</p></div>
+            <div class="date right"><p class="right">1978</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>El Laurel del Patio Grande</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51RZJ1vTozL._SX373_BO1,204,203,200_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -76,9 +76,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1984</p></div>
+            <div class="date left"><p class="left">1984</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Estancias : (Breviarios Completos)</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51u2FFDQbyL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -89,9 +89,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1988</p></div>
+            <div class="date right"><p class="right">1988</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Onoloria y Otros Relatos</h1><hr>
                 <p><img src="https://www.ecured.cu/images/thumb/3/3f/741229291.0.l.jpg/390px-741229291.0.l.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -130,9 +130,9 @@ permalink: /mcollazo/
              </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1993</p></div>
+            <div class="date left"><p class="left">1993</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Estación Central</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=7pQfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71-TIyZln3FLAzVW6cphNl7HswwQpBEB91HT5N59UVrJP0_dcvvkDL6Ei83zYYBzltdA1FfAjW4BApOICd_jSGh9hDyBM0kSfwkwYWWk4C89xaK5zpavVxb3IzyyaKYL0R5WJnn"></p>
                 <p>Language: Spanish<br/>
@@ -143,9 +143,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1996</p></div>
+            <div class="date right"><p class="right">1996</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Dulces Delirios</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=o16oAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71W-jE_b4ZYXOnxP_ix-zJLHEGnbP0ALkoQOr9SCoqBj9AtSbI3TwlabAihQZI_q1fTvUHt2u6eRlUZ-xstqblyaJgaVj1neom2sOFNKMOdnbJgsv3C28s64YUasgSLQPRlEngI"></p>
                 <p>Language: Spanish<br/>
@@ -156,9 +156,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1998</p></div>
+            <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>El hilo del ovillo</h1><hr>
                 <p><img src="https://www.ecured.cu/images/0/01/El_Hilo_del_Ovillo.jpg"></p>
                 <p>Language: Spanish<br/>
@@ -169,9 +169,9 @@ permalink: /mcollazo/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Trastiendas: Entre Domingo y Lacay</h1><hr>
                 <p><img src="https://books.google.com/books/content?id=kZUfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72-vkN9JRjocdCCXiwXZYVVrxRLZPnDZ3ooHR2ys20puUbmopRRMBjOwAdeA2jWCpmNLuunroiSkkvRUcHR40XjibuTXrKc1vzOgRoD5Zix9TLCvU-mQMNzkSArsL6dSet8-H4n"></p>
                 <p>Language: Spanish<br/>
