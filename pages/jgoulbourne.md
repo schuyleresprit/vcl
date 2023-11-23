@@ -132,7 +132,7 @@ permalink: /jgoulbourne/
                 Length: 112<br/>                   </p>
             </div>
           <div class="block">
-            <div class="date left"><p class="left">2021/p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Janice : A Coming of Age Tale of Hope & Perseverance</h1><hr>
