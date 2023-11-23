@@ -33,7 +33,6 @@ permalink: /mmorris/
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Anthology<br/>
                 Length: 294<br/>
-                </p>
             </div>
         </div>
        <div class="block">
@@ -47,7 +46,6 @@ permalink: /mmorris/
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Poetry Collection<br/>
                 Length: 30<br/>
-                </p>
             </div>
         </div>      
        <div class="block">
@@ -61,7 +59,6 @@ permalink: /mmorris/
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Poetry Collection<br/>
                 Length: 30<br/>
-                </p>
             </div>
         </div>
        <div class="block">
@@ -75,7 +72,6 @@ permalink: /mmorris/
                 Pub_location: Mona, Jamaica<br/>
                 Genre: Nonfiction<br/>
                 Length: 104<br/>
-                </p>
             </div>
         </div>
        <div class="block">
@@ -89,7 +85,6 @@ permalink: /mmorris/
                 Pub_location: Kingston, Jamaica<br/>
 	        Genre: Poetry Collection<br/>
                 Found In: Jamaica Journal Vol. 19 No. 2, May-July 1986, pp. 46-48<br/>
-                </p>
             </div>
         </div>
        <div class="block">
@@ -103,7 +98,6 @@ permalink: /mmorris/
                 Pub_location: Mona, Jamaica<br/>
 	        Genre: Poetry Collection<br/>
                 Length: 11<br/>
-                </p>
             </div>
         </div>
         <div class="block">
@@ -117,8 +111,8 @@ permalink: /mmorris/
                 Pub_location: London, England<br/>
                 Genre: Fiction (Short Story Collection)<br/>
                 Length: 275<br/>
-                </p>
             </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
