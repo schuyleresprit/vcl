@@ -32,7 +32,8 @@ permalink: /mmorris/
                 Publisher: Caribbean Authors Publishing Co.<br/>
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Anthology<br/>
-                Length: 294</p>
+                Length: 294<br/>
+                </p>
             </div>
         </div>
        <div class="block">
@@ -45,7 +46,8 @@ permalink: /mmorris/
                 Publisher: Pathways Publications<br/>
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Poetry Collection<br/>
-                Length: 30</p>
+                Length: 30<br/>
+                </p>
             </div>
         </div>      
        <div class="block">
@@ -58,7 +60,8 @@ permalink: /mmorris/
                 Publisher: Sangster's Book Stores<br/>
                 Pub_location: Kingston, Jamaica<br/>
                 Genre: Poetry Collection<br/>
-                Length: 30</p>
+                Length: 30<br/>
+                </p>
             </div>
         </div>
        <div class="block">
@@ -71,7 +74,8 @@ permalink: /mmorris/
                 Publisher: Caribbean Quarterly<br/>
                 Pub_location: Mona, Jamaica<br/>
                 Genre: Nonfiction<br/>
-                Length: 104</p>
+                Length: 104<br/>
+                </p>
             </div>
         </div>
        <div class="block">
@@ -83,8 +87,9 @@ permalink: /mmorris/
                 Language: English<br/>
                 Publisher: Jamaica Journal<br/>
                 Pub_location: Kingston, Jamaica<br/>
-	    Genre: Poetry Collection<br/>
-                Found In: Jamaica Journal Vol. 19 No. 2, May-July 1986, pp. 46-48</p>
+	        Genre: Poetry Collection<br/>
+                Found In: Jamaica Journal Vol. 19 No. 2, May-July 1986, pp. 46-48<br/>
+                </p>
             </div>
         </div>
        <div class="block">
@@ -95,9 +100,10 @@ permalink: /mmorris/
                 <p><img src=""></p>
                 Language: English<br/>
                 Publisher: Women and Development Studies, University of the West Indies<br/>
-                Pub_location: Mona, Jamaica<br/></p>
+                Pub_location: Mona, Jamaica<br/>
 	        Genre: Poetry Collection<br/>
-                Length: 11</p>
+                Length: 11<br/>
+                </p>
             </div>
         </div>
         <div class="block">
@@ -110,7 +116,8 @@ permalink: /mmorris/
                 Publisher: Faber and Faber<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Short Story Collection)<br/>
-                Length: 275</p>
+                Length: 275<br/>
+                </p>
             </div>
         </div>
   <!-- partial -->
