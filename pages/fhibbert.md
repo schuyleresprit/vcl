@@ -7,7 +7,7 @@ permalink: /fhibbert/
 <div class="content">
      <h1>Fernand Hibbert</h1>
     <div class="quote">
-        <div><img src="" class="logo"></div>
+        <div><img src="https://desideesetdeslivreshome.files.wordpress.com/2020/01/screenshot_2020-01-02-12-04-26-21626395785.png" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
