@@ -19,6 +19,8 @@ permalink: /mwlewis/
                 <h1>Author Country</h1><hr>
             <div class="aclocation"><p>Maureen Warner-Lewis is from <a href="{{ site.baseurl }}/3">Trinidad & Tobago.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Maureen_Warner-Lewis" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/mwlewis_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -114,6 +116,8 @@ permalink: /mwlewis/
                 Genre: Non Fiction<br/>
                 Length: 260</p>
             </div>
+        </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
