@@ -593,7 +593,7 @@ permalink: /14/
     <div id="post-36" class="vesti-col timeline-post">
       <div class="vesti-content-wrapper">
         <div class="photo">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrsNcFzSKtQTOipGZW1-6rUixBfmtnHSukw&usqp=CAU" width="80%">
+          <img src="https://directoriodeafrocubanas.com/wp-content/uploads/2016/01/unnamed-7.jpg" width="80%">
           <div class="vesti-date-wrapper">
             <div class="vesti-date">
             </div>
