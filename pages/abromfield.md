@@ -7,7 +7,7 @@ permalink: /abromfield/
 <div class="content">
     <h1>Asha Bromfield</h1>
     <div class="quote">
-        <div><img src="https://images.gr-assets.com/authors/1600976999p8/19300595.jpg" class="logo"></div>
+        <div><img src="https://m.media-amazon.com/images/M/MV5BMThhNzhlYjQtYjhhMS00NzU3LTk2ODEtZTk4MTc2ZGQ0NjVmXkEyXkFqcGdeQXVyMjY3MDk1ODA@._V1_.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
