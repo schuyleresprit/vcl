@@ -38,9 +38,9 @@ permalink: /abromfield/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2023</p></div>
+            <div class="date right"><p class="right">2023</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Songs of Irie</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/814I9kKOglL._SY385_.jpg"></p>
                 <p>
