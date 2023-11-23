@@ -52,9 +52,9 @@ permalink: /dlgeorges/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2017</p></div>
+            <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Letters From Congo</h1><hr>
                 <p><img src="https://images-us.bookshop.org/ingram/9781941604052.jpg?height=500&v=v2"></p>
                 <p>Language: English<br/>
