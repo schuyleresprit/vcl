@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Marlon James"
-permalink: /mjames
+permalink: /mjames/
 ---
 <!-- partial:index.partial.html -->
 <div class="content">
@@ -19,6 +19,9 @@ permalink: /mjames
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Marlon James is from <a href="{{ site.baseurl }}/62">Jamaica.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Marlon_James_(novelist)" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/mjames_dloc" target="_blank">DLOC Resources</a></div>
+            </div>
             </div>
             </div>
         <div class="block">
@@ -117,6 +120,8 @@ permalink: /mjames
                 Genre: Fiction (Novel)	<br/>
                 Length: 656<br/>                   </p>
             </div>
+        </div>
+        </div>
         </div>
 <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
