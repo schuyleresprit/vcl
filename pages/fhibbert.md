@@ -29,7 +29,7 @@ permalink: /fhibbert/
             <div class="dot"></div>
             <div class="right">
                 <h1>Les Simulacres : L'Aventure De M. Hellénus Caton</h1><hr>
-                <p><img src=https://books.google.dm/books/content?id=RmGyAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73lzO3JUZ1cXnuGVnErz0qOswpRiEklrzzv3nIKqfrkp_-r4hZ7iAHvBNm-Z2gImeNnC-ShWIzLA8J1KI9nBzYSd1q5a_AC_6UDHqg0tpssNBbr1RLrMLO358KZp1N6YH5cYqtv""></p>
+                <p><img src="https://books.google.dm/books/content?id=RmGyAAAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73lzO3JUZ1cXnuGVnErz0qOswpRiEklrzzv3nIKqfrkp_-r4hZ7iAHvBNm-Z2gImeNnC-ShWIzLA8J1KI9nBzYSd1q5a_AC_6UDHqg0tpssNBbr1RLrMLO358KZp1N6YH5cYqtv"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Imprimerie Chéraquit<br/>
