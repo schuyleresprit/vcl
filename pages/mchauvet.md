@@ -1,6 +1,6 @@
 ---
 layout: defaultau
-title: "Marie Vieux Chauvet "
+title: "Marie Vieux Chauvet"
 permalink: /mvchauvet/
 ---
 <!-- partial:index.partial.html -->
@@ -19,6 +19,8 @@ permalink: /mvchauvet/
                 <h1>Author Country</h1><hr>
         <div class="aclocation">    <p> Marie Vieux Chauvet is from <a href="{{ site.baseurl }}/5"> Haiti.</a></p> </div>
                 <div class="acreadmore"><a href="https://en.wikipedia.org/wiki/Marie_Vieux-Chauvet" target="_blank">Read more</a> </div>
+                <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/mvchauvet_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
