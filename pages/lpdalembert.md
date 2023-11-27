@@ -120,9 +120,9 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2006</p></div>
+            <div class="date right"><p class="right">2006</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Les dieux voyagent la nuit</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41E6QJEVNYL._SX195_.jpg"></p>
                 <p>
@@ -134,9 +134,9 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2007</p></div>
+            <div class="date left"><p class="left">2007</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Histoires d'amour impossibles</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41qnTaT5YcL._SY291_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>Language: French<br/>
@@ -147,9 +147,9 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>L’Ile du bout des rêves</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51456xvHgkL._SX195_.jpg"></p>
                 <p>
@@ -161,7 +161,7 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2009</p></div>
+            <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Le Roman de Cuba</h1><hr>
@@ -175,7 +175,7 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2010</p></div>
+            <div class="date right"><p class="right">2010</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Haïti, une traversée littéraire, en collaboration avec Lyonel Trouillot</h1><hr>
@@ -188,9 +188,9 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2011</p></div>
+            <div class="date left"><p class="left">2011</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Noires blessures</h1><hr>
                 <p><img src="https://www.babelio.com/couv/CVT_26_996001.jpg"></p>
                 <p>Language: French<br/>
@@ -201,9 +201,9 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Les Bas-Fonds de la mémoire</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51CWEFJBECL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -215,7 +215,7 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2013</p></div>
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>Ballade d'un amour inachevé</h1><hr>
@@ -229,9 +229,9 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2019</p></div>
+            <div class="date right"><p class="right">2019</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>The Mediterranean Wall</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616251654l/54578994.jpg"></p>
                 <p>
@@ -243,7 +243,7 @@ permalink: /lpdalembert/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2021</p></div>
+            <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="right">
                 <h1>The Other Side of the Sea</h1><hr>
@@ -256,7 +256,6 @@ permalink: /lpdalembert/
                 Length: 136</p>
             </div>
         </div>
-</div>
 </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
