@@ -39,10 +39,10 @@ permalink: /kmars/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right">
-                <h1>Fado : Roman</h1><hr>
+            <div class="left">
+                <h1>Fado:Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ZPKkL+CwL._SX338_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French<br/>
@@ -67,9 +67,9 @@ permalink: /kmars/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2011</p></div>
+            <div class="date right"><p class="right">2011</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Saisons Sauvages</h1><hr>
                 <p><img src="https://products-images.di-static.com/image/kettly-mars-saisons-sauvages/9782070443406-475x500-1.webp" height="50%" width = "50%"></p>
                 <p>
@@ -95,9 +95,9 @@ permalink: /kmars/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2014</p></div>
+            <div class="date right"><p class="right">2014</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Aux Frontières de la Soif : Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/517dE8ryJiL._SX336_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -123,9 +123,9 @@ permalink: /kmars/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2015</p></div>
+            <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Savage Seasons</h1><hr>
                 <p><img src="https://books.google.dm/books/publisher/content?id=oa0oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE7061M5e6pxAF_ulfnOOANcaJhK6iWn9UJWXGFyw7qjTfVtGqqTg4Uyeh07OgjPT1U2wdmzJIRrBmyqeKx1Mt3UzumAShmI0IseygV7DGqyRZaOE_c9w85eoUS_f7xTN-Slq4tuS" height="50%" width = "50%"></p>
                 <p>
@@ -151,9 +151,9 @@ permalink: /kmars/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>L'ange du Patriarche : Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51qjVYzeKKL._SY291_BO1,204,203,200_QL40_ML2_.jpg" height="50%" width = "50%"></p>
                 <p>
