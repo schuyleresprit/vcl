@@ -36,9 +36,9 @@ permalink: /izoboi/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>A Is For Ayiti</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51ZP7uFuEYL._SX218_BO1,204,203,200_QL40_ML2_.jpg"></p>
                 <p>
@@ -64,9 +64,9 @@ permalink: /izoboi/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Pride</h1><hr>
                 <p><img src="https://images.squarespace-cdn.com/content/v1/60a6822f1e471f054b777f0e/1621893764170-RYTXDSTR74UYWR3D3R6K/Pride-Ibi-Zoboi.jpeg?format=1000w"></p>
                 <p>
@@ -92,9 +92,9 @@ permalink: /izoboi/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2020</p></div>
+            <div class="date right"><p class="right">2020</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Punching The Air</h1><hr>
                 <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDEvrcEetLrY4JH8mWUkO3XMxMOYLOj7eoFy4GNzIpxtUBjj30"></p>
                 <p>
@@ -120,9 +120,9 @@ permalink: /izoboi/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2022</p></div>
+            <div class="date right"><p class="right">2022</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Star Child: A Biographical Constellation Of Octavia Estelle Butler</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61lfzQb4hML._SX328_BO1,204,203,200_.jpg"></p>
                 <p>
