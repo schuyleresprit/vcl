@@ -50,11 +50,11 @@ permalink: /marnold/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">2022</p></div>
+            <div class="date left"><p class="left">2022</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>I Rise</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51nYjamG1WL.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41y9srlBVSL._SY445_SX342_.jpg"></p>
                 <p>Language: English<br/>
                 Publisher: Houghton Mifflin Harcourt<br/>
                 Pub_location: Boston, MA, United States<br/>
