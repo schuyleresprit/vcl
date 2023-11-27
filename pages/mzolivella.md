@@ -19,6 +19,8 @@ permalink: /mzolivella/
                 <h1>Author Country</h1><hr>
           <div class="aclocation">  <p>Manuel Zapata Olivella is from <a href="{{ site.baseurl }}/66"> Colombia.</a></p></div>
               <div class="acreadmore">  <a href="https://en.wikipedia.org/wiki/Manuel_Zapata_Olivella" target="_blank">Read more</a></div>
+              <div class="aclocation">  <h6>Resources on Author at <a href="https://dloc.com" target="_blank">Digital Library of the Caribbean:</a></h6></div>
+              <div class="dlocresources"><a href="{{ site.baseurl }}/mzolivella_dloc" target="_blank">DLOC Resources</a></div>
             </div>
             </div>
         </div>
@@ -36,6 +38,8 @@ permalink: /mzolivella/
                 Length: 432<br>
                 </p>
             </div>
+        </div>
+        </div>
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
