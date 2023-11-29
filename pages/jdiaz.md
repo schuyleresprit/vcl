@@ -39,9 +39,9 @@ permalink: /jdiaz/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2007</p></div>
+            <div class="date right"><p class="right">2007</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>The Brief Wondrous Life of Oscar Wao</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51lPJDcI5UL._SX318_BO1,204,203,200_.jpg"></p>
                 <p>
@@ -67,9 +67,9 @@ permalink: /jdiaz/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2012</p></div>
+            <div class="date right"><p class="right">2012</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>This Is How You Lose Her</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51G2GGjeBjL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
@@ -95,9 +95,9 @@ permalink: /jdiaz/
             </div>
         </div>
        <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+            <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
-            <div class="right">
+            <div class="left">
                 <h1>Islandborn</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51jkLQ3I8UL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
                 <p>
