@@ -108,20 +108,6 @@ permalink: /jdiaz/
                 Length: 48<br/>                   </p>
             </div>
         </div>
-       <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
-            <div class="dot"></div>
-            <div class="right">
-                <h1>Lola</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51jEtRhSbQL._SX387_BO1,204,203,200_.jpg"></p>
-                <p>
-                Language: Spanish<br/>
-                Publisher: Dial Books<br/>
-                Pub_location: New York City, NY, United States<br/>
-                Genre: Fiction (Novel)<br/>
-                Length: 48<br/>                   </p>
-            </div>
-        </div>
         </div>
         </div>
   <!-- partial -->
