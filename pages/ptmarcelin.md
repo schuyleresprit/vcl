@@ -206,7 +206,7 @@ permalink: /ptmarcelin/
                 Publisher: Farrar and Rinehart<br/>
                 Pub_location: New York, NY, United States<br/>
                 Genre: Fiction (Short Story Collection)<br/>
-                Length: 115</p>
+                Length: 115
             </div>
         </div>        
         <div class="block">
@@ -219,7 +219,7 @@ permalink: /ptmarcelin/
                 Publisher: Editorial Novaro<br/>
                 Pub_location: Mexico City, Mexico<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 158</p>
+                Length: 158
             </div>
         </div>
         <div class="block">
@@ -233,7 +233,7 @@ permalink: /ptmarcelin/
                 Publisher: Éditions Nouvelle Optique<br/>
                 Pub_location: Montréal, Canada<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 223</p>
+                Length: 223
             </div>
         </div>
         <div class="block">
@@ -245,7 +245,7 @@ permalink: /ptmarcelin/
                 Language: French<br/>
                 Publisher: Candida Gellery<br/>
                 Pub_location: Cazenovia, NY, United States<br/>
-                Genre: Poetry Collection<br/></p>
+                Genre: Poetry Collection<br/>
             </div>
         </div>
         <div class="block">
@@ -259,7 +259,7 @@ permalink: /ptmarcelin/
                 Publisher: City Light Books<br/>
                 Pub_location: San Francisco, CA, United States<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 179</p>
+                Length: 179
             </div>
         </div>
         <div class="block">
@@ -272,7 +272,7 @@ permalink: /ptmarcelin/
                 Publisher: Éditions Choucoune<br/>
                 Pub_location: Port-au-Prince, Haiti<br/>
                 Genre: Short Story<br/>
-                Length: 30</p>
+                Length: 30
             </div>
         </div>       
         <div style="padding-bottom:100px;"></div>
