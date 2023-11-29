@@ -187,7 +187,7 @@ permalink: /ptmarcelin/
             <div class="left hide">
                 <h1>All Men are Mad</h1><hr>
                 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255944860l/2259532.jpg"></p>
-                <p><p>Language: English<br/>
+                <p>Language: English<br/>
                 Translation: y<br/>
                 Publisher: Farrar and Rinehart<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -201,7 +201,7 @@ permalink: /ptmarcelin/
             <div class="right hide">
                 <h1>The Singing Turtle and Other Tales from Haiti</h1><hr>
                 <p><img src="https://archive.org/services/img/singingturtleoth00pier/full/pct:200/0/default.jpg"></p>
-                <p>Language: English<br/>
+                Language: English<br/>
                 Translation: y<br/>
                 Publisher: Farrar and Rinehart<br/>
                 Pub_location: New York, NY, United States<br/>
@@ -215,7 +215,7 @@ permalink: /ptmarcelin/
             <div class="left hide">
                 <h1>Todos los Hombres están Locos</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/1284757706.jpg"></p>
-                <p>Language: Spanish<br/>
+                Language: Spanish<br/>
                 Publisher: Editorial Novaro<br/>
                 Pub_location: Mexico City, Mexico<br/>
                 Genre: Fiction (Novel)<br/>
@@ -228,7 +228,6 @@ permalink: /ptmarcelin/
             <div class="right hide">
                 <h1>Éditions Nouvelle Optique</h1><hr>
                 <p><img src=""></p>
-                <p>
                 Co-author: Pierre Marcelin<br/>
                 Language: French<br/>
                 Publisher: Éditions Nouvelle Optique<br/>
@@ -243,7 +242,7 @@ permalink: /ptmarcelin/
             <div class="left hide">
                 <h1>Poèmes</h1><hr>
                 <p><img src=""></p>
-                <p>Language: French<br/>
+                Language: French<br/>
                 Publisher: Candida Gellery<br/>
                 Pub_location: Cazenovia, NY, United States<br/>
                 Genre: Poetry Collection<br/></p>
@@ -255,7 +254,6 @@ permalink: /ptmarcelin/
             <div class="right hide">
                 <h1>The Beast of the Haitian Hills</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51mFAONzHwL.jpg"></p>
-                <p>
                 Language: English<br/>
                 Translation: y<br/>
                 Publisher: City Light Books<br/>
@@ -270,7 +268,7 @@ permalink: /ptmarcelin/
             <div class="left hide">
                 <h1>Sango et Les Diables, suivi de Les Oeufs de la Mendiante.</h1><hr>
                 <p><img src=""></p>
-                <p>Language: French<br/>
+                Language: French<br/>
                 Publisher: Éditions Choucoune<br/>
                 Pub_location: Port-au-Prince, Haiti<br/>
                 Genre: Short Story<br/>
