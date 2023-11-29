@@ -814,20 +814,4 @@ permalink: /5/
                 </div>
               </div>
             </div>
-<div id="post-49" class="vesti-col timeline-post">
-              <div class="vesti-content-wrapper">
-                  <div class="photo">
-            <img src="https://jeaniuspublishing.com/wp-content/uploads/2016/02/HeadShot.jpg" width="70%">
-                    <div class="vesti-date-wrapper">
-                      <div class="vesti-date">
-                        </div>
-                      </div>
-                     </div>
-                      <div class="vesti-desc">
-                    <a class="desc-a" href="#">
-                      <h4><a href="{{ site.baseurl }}/pajeanty/">Pierre Alex Jeanty</a></h4>
-                    </a>
-                </div>
-              </div>
-            </div>
 <!-- partial -->
