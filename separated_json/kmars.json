@@ -1,0 +1,114 @@
+{
+    "kmars": [
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2010",
+            "Publisher": "Akashic Books",
+            "Title": "Haiti Noir",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "Contributors: Jean-Claude Fignole\u0301",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2015",
+            "Publisher": "Magellan & Cie E\u0301dition",
+            "Title": "Nouvelles d'Hai\u0308ti",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "Translator: Jeanine Herman",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "lincoln_ne_united\u00ac\u2020states",
+            "Pubdate": "2015",
+            "Publisher": "University of Nebraska Press",
+            "Title": "Savage seasons",
+            "Translation": "y"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "Original Publication Date: 2010",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2011",
+            "Publisher": "Gallimard",
+            "Title": "Saisons sauvages",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "montre\u00e3\u00e5al_qc_canada",
+            "Pubdate": "2018",
+            "Publisher": "Me\u0301moire d'encrier",
+            "Title": "L'heure hybride",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2018",
+            "Publisher": "Mercure de France",
+            "Title": "L'ange du patriarche : roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2007",
+            "Publisher": "La Roque-d'Anthe\u0301ron",
+            "Title": "Kasale\u0301",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2008",
+            "Publisher": "Mercure de France",
+            "Title": "Fado : roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "port_au__prince_haiti",
+            "Pubdate": "2014",
+            "Publisher": "L'Imprimeur S.A.",
+            "Title": "Aux frontie\u0300res de la soif : roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Kettly Mars",
+            "Descriptor": "Translator: Ingeborg Schmutte",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_germany",
+            "Pubdate": "2013",
+            "Publisher": "Trier Litradukt",
+            "Title": "Vor dem Verdursten",
+            "Translation": "y"
+        }
+    ]
+}

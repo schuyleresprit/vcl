@@ -1,0 +1,59 @@
+{
+    "ikhan": [
+        {
+            "Author": "Ismith Khan",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1961",
+            "Publisher": "Longman Inc.",
+            "Title": "The Jumbie Bird",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ismith Khan",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1964",
+            "Publisher": "Hutchinson",
+            "Title": "The Obeah Man",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ismith Khan",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "leeds_ldn_england",
+            "Pubdate": "1986",
+            "Publisher": "Peepal Tree Press",
+            "Title": "The Crucifixion",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ismith Khan",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "leeds_ldn_england",
+            "Pubdate": "1994",
+            "Publisher": "Peepal Tree Press",
+            "Title": "A Day In The Country And Other Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ismith Khan",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2011",
+            "Publisher": "Mus\u00e9e Dapper",
+            "Title": "L'Oiseau Zombie",
+            "Translation": "y"
+        }
+    ]
+}

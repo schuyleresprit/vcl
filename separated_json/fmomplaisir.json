@@ -1,0 +1,26 @@
+{
+    "fmomplaisir": [
+        {
+            "Author": "Francesca Momplaisir",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2022",
+            "Publisher": "Alfred A. Knopf",
+            "Title": "The Garden Of Broken Things",
+            "Translation": "n"
+        },
+        {
+            "Author": "Francesca Momplaisir",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2021",
+            "Publisher": "Vintage Books",
+            "Title": "My Mother's House",
+            "Translation": "n"
+        }
+    ]
+}

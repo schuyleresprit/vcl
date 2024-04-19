@@ -1,0 +1,37 @@
+{
+    "elpaironne": [
+        {
+            "Author": "Edmond Lapompe-Paironne",
+            "Descriptor": "",
+            "Genre": "Fiction (Novella)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2008",
+            "Publisher": "L'Harmattan",
+            "Title": "Touloulou Au Pays Des Mantous",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edmond Lapompe-Paironne",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2009",
+            "Publisher": "L'Harmattan",
+            "Title": "La Rivie\u0300re Du Pont-de-Chai\u0302nes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Edmond Lapompe-Paironne",
+            "Descriptor": "",
+            "Genre": "Fiction (Novella)",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "2020",
+            "Publisher": "E\u0301dilivre",
+            "Title": "La musique des mots : e\u0301tat d'a\u0302me : poe\u0301sie",
+            "Translation": "n"
+        }
+    ]
+}

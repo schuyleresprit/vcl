@@ -1,0 +1,81 @@
+{
+    "mjames": [
+        {
+            "Author": "Marlon James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united\u00ac\u2020states",
+            "Pubdate": "2009",
+            "Publisher": "Riverhead Books",
+            "Title": "The Book Of Night Women",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marlon James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united\u00ac\u2020states",
+            "Pubdate": "2020",
+            "Publisher": "Riverhead Books",
+            "Title": "Black Leopard, Red Wolf",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marlon James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "westminster_england",
+            "Pubdate": "2015",
+            "Publisher": "Oneworld Publications",
+            "Title": "A Brief History Of Seven Killings",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marlon James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2022",
+            "Publisher": "Hamish Hamilton Ltd.",
+            "Title": "Moon Witch, Spider King: Dark Star Trilogy 2",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marlon James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Seix Barral",
+            "Title": "Leopardo Negro, Lobo Rojo",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marlon James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2018",
+            "Publisher": "Le Livre de Poche",
+            "Title": "Br\u00e8ve Histoire De Sept Meurtres: Roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marlon James",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "pretoria_south_africa",
+            "Pubdate": "2016",
+            "Publisher": "Litera Publications",
+            "Title": "Scurta Istorie A Sapte Crime",
+            "Translation": "n"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "mmorris": [
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "1990",
+            "Publisher": "Faber and Faber",
+            "Title": "The Faber Book of Contemporary Caribbean Short Stories",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1976",
+            "Publisher": "Pathways Publications",
+            "Title": "On Holy Week: A Sequence of Poems for Radio",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1956",
+            "Publisher": "Caribbean Authors Publishing Co.",
+            "Title": "Focus: An Anthology of Contemporary Jamaican Writing",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "na_na",
+            "Pubdate": "1985",
+            "Publisher": "NA",
+            "Title": "Another Claude McKay a Poet of Love",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1982",
+            "Publisher": "Caribbean Quarterly",
+            "Title": "Louise Bennett in Print",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "kingston_jamaica",
+            "Pubdate": "1976",
+            "Publisher": "Sangster's Book Stores",
+            "Title": "On Holy Week",
+            "Translation": "n"
+        },
+        {
+            "Author": "Mervyn Morris",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "English",
+            "Pub_id": "mona_jamaica",
+            "Pubdate": "1988",
+            "Publisher": "Women and Development Studies, Institute of International Relations, University of the West Indies",
+            "Title": "Gender In 'Summer lightning' And 'Talking Of trees'",
+            "Translation": "n"
+        }
+    ]
+}

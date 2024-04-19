@@ -1,0 +1,26 @@
+{
+    "cwerleigh": [
+        {
+            "Author": "Christian Werleigh",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1927",
+            "Publisher": "Che\u0301raquit",
+            "Title": "D\u00e9fil\u00e9e La Folle: Po\u00e8me",
+            "Translation": "n"
+        },
+        {
+            "Author": "Christian Werleigh",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "port_au_prince_haiti",
+            "Pubdate": "1938",
+            "Publisher": "Imprimerie de l'Etat",
+            "Title": "Le Palmiste Dans La Lumi\u00e8re, Po\u00e8mes",
+            "Translation": "n"
+        }
+    ]
+}

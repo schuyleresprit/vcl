@@ -1,0 +1,37 @@
+{
+    "mmcarbet": [
+        {
+            "Author": "Marie-Magdeleine Carbet",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1961",
+            "Publisher": "\u00c9ditions Francex",
+            "Title": "\u00c9coute, Soleil-Dieu",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marie-Magdeleine Carbet",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1963",
+            "Publisher": "Imprimerie La Productrice",
+            "Title": "Viens Voir Ma Ville",
+            "Translation": "n"
+        },
+        {
+            "Author": "Marie-Magdeleine Carbet",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1970",
+            "Publisher": "Le Cerf-volant",
+            "Title": "Rose de ta Gr\u00e9ce",
+            "Translation": "n"
+        }
+    ]
+}

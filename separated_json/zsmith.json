@@ -1,0 +1,125 @@
+{
+    "zsmith": [
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "london_england",
+            "Pubdate": "2019",
+            "Publisher": "Penguin",
+            "Title": "Feel Free: Essays",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "bucuresti_romania",
+            "Pubdate": "2020",
+            "Publisher": "Litera Media Group",
+            "Title": "Dinti Albi",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "English",
+            "Pub_id": "toronto_on_canada",
+            "Pubdate": "2012",
+            "Publisher": "Hamish Hamilton Canada",
+            "Title": "Changing My Mind: Occasional Essays",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2021",
+            "Publisher": "Penguin",
+            "Title": "NW",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "stuttgart_germany",
+            "Pubdate": "2021",
+            "Publisher": "Ernst Klett Sprachen GmbH",
+            "Title": "The Embassy Of Cambodia",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "Translator: Philippe Aronson",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2016",
+            "Publisher": "Gallimard",
+            "Title": "De La Beaute\u0301",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "2017",
+            "Publisher": "Wydawnictwo Znak",
+            "Title": "Biale Zeby",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "2018",
+            "Publisher": "Random House Digital, Inc.",
+            "Title": "White Teeth",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2021",
+            "Publisher": "Penguin Books",
+            "Title": "On Beauty",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "Co-Author:  Nick Laird",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "2021",
+            "Publisher": "Puffin",
+            "Title": "Weirdo",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "2019",
+            "Publisher": "M. Buchergilde Gutenberg",
+            "Title": "Za\u0308hne Zeigen Roman",
+            "Translation": "n"
+        }
+    ]
+}

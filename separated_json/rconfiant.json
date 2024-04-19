@@ -1,0 +1,59 @@
+{
+    "rconfiant": [
+        {
+            "Author": "Raphae\u0308l Confiant",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2005",
+            "Publisher": "Mercure de France",
+            "Title": "Ad\u00e8le et la Pacotilleuse",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raphae\u0308l Confiant",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "NA",
+            "Publisher": "\u00c9criture",
+            "Title": "N\u00e8gre Marron: R\u00e8cit",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raphae\u0308l Confiant",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "NA",
+            "Publisher": "Mercure de France",
+            "Title": "Le Bataillon Cr\u00e8ole: (Guerre De 1914-1918)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raphae\u0308l Confiant",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "NA",
+            "Publisher": "Mercure de France",
+            "Title": "L'H\u00f4tel du bon Plaisir",
+            "Translation": "n"
+        },
+        {
+            "Author": "Raphae\u0308l Confiant",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "French Creole",
+            "Pub_id": "paris_france",
+            "Pubdate": "1995",
+            "Publisher": "Gallimard",
+            "Title": "Les Ma\u00eetres de la Parole Cr\u00e9ole",
+            "Translation": "n"
+        }
+    ]
+}

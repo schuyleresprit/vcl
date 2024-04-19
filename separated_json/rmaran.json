@@ -1,0 +1,103 @@
+{
+    "rmaran": [
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "oxford_england",
+            "Pubdate": "1973",
+            "Publisher": "Heinemann",
+            "Title": "Batouala",
+            "Translation": "y"
+        },
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1965",
+            "Publisher": "E\u0301ditions Albin Michel",
+            "Title": "Be\u0302tes de la brousse : roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1956",
+            "Publisher": "E\u0301ditions Albin Michel",
+            "Title": "Le livre de la brousse : roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "",
+            "Pubdate": "2021",
+            "Publisher": "Les e\u0301ditions du Typhon",
+            "Title": "Un homme pareil aux autres : roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2021",
+            "Publisher": "Le Festin",
+            "Title": "Le coeur serre\u0301",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "london_ldn_england",
+            "Pubdate": "1922",
+            "Publisher": "Jonathan Cape",
+            "Title": "Batouala; a Negro novel from the French of Rene Maran.",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2018",
+            "Publisher": "L'Harmattan",
+            "Title": "Nouvelles africaines et franc\u0327aises : ine\u0301dites ou inconnues",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "2009",
+            "Publisher": "Editions du Dauphin",
+            "Title": "Savorgnan de Brazza",
+            "Translation": "n"
+        },
+        {
+            "Author": "Ren\u00e9 Maran",
+            "Descriptor": "Co-Author: Paul Jouve",
+            "Genre": "Nonfiction",
+            "Language": "French",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1937",
+            "Publisher": "L'Imprimerie de Vaugirard",
+            "Title": "Afrique E\u0301quatoriale franc\u0327aise : terres et races d'avenir",
+            "Translation": "n"
+        }
+    ]
+}

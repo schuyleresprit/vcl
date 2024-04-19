@@ -1,0 +1,46 @@
+---
+layout: default
+title: "Test"
+permalink: /testsingle/
+---
+<html>
+    <div id="data-container"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            const datasets = [
+                {
+                    "type" : "authorid",
+                    "url" : "{{ site.baseurl }}/data/publications.json"
+                }
+            ];
+            for (let i = 0; i < datasets.length; i++) {
+                siftData(datasets[i].url, datasets[i].type);
+            }
+            function siftData(url, dataType) {
+                $.getJSON(url, function (data) {
+                    loadData(data);
+                });
+            }
+            function loadData(data) {
+                function createPages(data, parentKey = '') {
+                    for (const key in data) {
+                        if (typeof data[key] === "object") {
+                            createPage(parentKey, key, ''); // Create a page for the nested key
+                            createPages(data[key], parentKey ? `${parentKey}.${key}` : key);
+                        } else {
+                            createPage(parentKey, key, data[key]);
+                        }
+                    }
+                }
+                function createPage(parentKey, key, value) {
+                    const container = document.getElementById("data-container");
+                    const div = document.createElement("div");
+                    div.innerHTML = `<h2>${parentKey ? parentKey + '.' : ''}${key}</h2><p>${value}</p>`;
+                    container.appendChild(div);
+                }
+                createPages(data);
+            }
+        });
+    </script>
+</html>

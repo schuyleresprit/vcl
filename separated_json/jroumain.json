@@ -1,0 +1,48 @@
+{
+    "jroumain": [
+        {
+            "Author": "Jacques Roumain",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "English",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1947",
+            "Publisher": "Reynal & Hitchcock",
+            "Title": "Masters Of The Dew",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jacques Roumain",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "1944",
+            "Publisher": "Imprimerie de l'\u00e9tat",
+            "Title": "Gouverneurs De La Ros\u00e9e: Roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jacques Roumain",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "French",
+            "Pub_id": "new_york_ny_united_states",
+            "Pubdate": "1972",
+            "Publisher": "Interworld Press",
+            "Title": "Ebony Wood: Bois-D'\u00e9b\u00e8ne. Poems",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jacques Roumain",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "montpellier_france",
+            "Pubdate": "1931",
+            "Publisher": "Collection Indig\u00e8ne",
+            "Title": "La Montagne Ensorcele\u00e9",
+            "Translation": "n"
+        }
+    ]
+}

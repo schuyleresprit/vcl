@@ -1,0 +1,37 @@
+{
+    "rbonneville": [
+        {
+            "Author": "Rene\u0301 Bonneville",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "alexandria_va_united\u00ac\u2020states",
+            "Pubdate": "2007",
+            "Publisher": "Alexander Street Press",
+            "Title": "La Vierge Cubaine",
+            "Translation": "n"
+        },
+        {
+            "Author": "Rene\u0301 Bonneville",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2019",
+            "Publisher": "Hachette Livre - BNF",
+            "Title": "Les Soeurs Ennemies",
+            "Translation": "n"
+        },
+        {
+            "Author": "Rene\u0301 Bonneville",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "alexandria_va_united\u00ac\u2020states",
+            "Pubdate": "2007",
+            "Publisher": "Alexander Street Press",
+            "Title": "Le Triomphe D'Eglantine",
+            "Translation": "n"
+        }
+    ]
+}

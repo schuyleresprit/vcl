@@ -1,0 +1,26 @@
+{
+    "jmarti": [
+        {
+            "Author": "Jose Marti\u0301",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1939",
+            "Publisher": "La Veronica, imprenta de M. Altolaguirre",
+            "Title": "Versos Libres De Jos\u00e9 Mart\u00ed",
+            "Translation": "n"
+        },
+        {
+            "Author": "Jose Marti\u0301",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Spanish",
+            "Pub_id": "havana_cuba",
+            "Pubdate": "1891",
+            "Publisher": "Publicaciones de la Secretar\u00eda de Educaci\u00f3n",
+            "Title": "Versos Sencillos",
+            "Translation": "n"
+        }
+    ]
+}

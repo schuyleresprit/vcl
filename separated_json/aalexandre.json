@@ -1,0 +1,37 @@
+{
+    "aalexandre": [
+        {
+            "Author": "Alfred Alexandre",
+            "Descriptor": "Gerry L'Etang; Marie-Franc\u0327oise Bernabe\u0301",
+            "Genre": "Anthology",
+            "Language": "French",
+            "Pub_id": "paris_france",
+            "Pubdate": "2009",
+            "Publisher": "HC \u00c9ditions",
+            "Title": "Drive: L'errance Ensorcel\u00e9e",
+            "Translation": "n"
+        },
+        {
+            "Author": "Alfred Alexandre",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "French",
+            "Pub_id": "montre\u00e3\u00e5al_qc_canada",
+            "Pubdate": "2016",
+            "Publisher": "Me\u0301moire d'encrier",
+            "Title": "Le bar des Ame\u0301riques : roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Alfred Alexandre",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "French",
+            "Pub_id": "montre\u00e3\u00e5al_qc_canada",
+            "Pubdate": "2019",
+            "Publisher": "Me\u0301moire d'encrier",
+            "Title": "La ballade de Le\u00efla Khane",
+            "Translation": "n"
+        }
+    ]
+}

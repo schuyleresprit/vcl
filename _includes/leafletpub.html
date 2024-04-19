@@ -23,34 +23,38 @@
     <body>
         <div id="map" "height: 200px">
             <script>
-            var map = L.map('map').setView([15.413, -61.35], 4);
-
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                maxZoom: 19,
-                attribution: '© OpenStreetMap'
-            }).addTo(map);
-
-            var geojsonMarkerOptions = {
-                radius: 8,
-                fillColor: "#f5b85d",
-                color: "#000",
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 0.8
+                var map = L.map('map').setView([15.413, -61.35], 4);
+            
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                  maxZoom: 19,
+                  attribution: '© OpenStreetMap'
+                }).addTo(map);
+            
+                var geojsonMarkerOptions = {
+                  radius: 8,
+                  fillColor: "#f5b85d",
+                  color: "#000",
+                  weight: 1,
+                  opacity: 1,
+                  fillOpacity: 0.8
                 };
-            $.getJSON("{{ site.baseurl }}/data/publocation.geojson", function (data) {
-           var datalayer = L.geoJson(data, {
-               onEachFeature: function (feature, featureLayer) {
-                   featureLayer.bindPopup('Location: ' + feature.properties.Pub_Location + '<br>' + 'Publisher: ' + feature.properties.Publisher + '<br>' + 'Title: ' + feature.properties.Title__Item_ + '<br>' + 'Date: ' + feature.properties.Date + '<br>' + 'Author: ' + feature.properties.Author + '<br>' + 'Author Country: ' + feature.properties.Author_Country_1 + '<br>' + 'Language: ' + feature.properties.Language_1);
-               },
-                pointToLayer: function (feature, latlng) {
-                   return L.circleMarker(latlng, geojsonMarkerOptions);
-                       }
-                   }).addTo(map);
-                    map.fitBounds(datalayer.getBounds());
+            
+                $.getJSON("{{ site.baseurl }}/data/publocation.geojson", function(data) {
+                  L.geoJson(data, {
+                    onEachFeature: function(feature, layer) {
+                      var popupContent = "<ul>";
+                      for (var key in feature.properties) {
+                        popupContent += "<li>" + key + ": <a href='#" + feature.properties[key] + "'>" + feature.properties[key] + "</a></li>";
+                      }
+                      popupContent += "</ul>";
+                      layer.bindPopup(popupContent);
+                    },
+                    pointToLayer: function(feature, latlng) {
+                      return L.circleMarker(latlng, geojsonMarkerOptions);
+                    }
+                  }).addTo(map);
                 });
-
-            </script>
+              </script>
         </div>
     </body>
 </html>
