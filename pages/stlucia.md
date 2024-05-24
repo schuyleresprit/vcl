@@ -222,7 +222,23 @@ permalink: /16/
      </div>
    </div>
  </div>
- <div id="post-14" class="vesti-col timeline-post">
+<div id="post-4" class="vesti-col timeline-post">
+   <div class="vesti-content-wrapper">
+     <div class="photo">
+       <img src="https://www.miamibookfair.com/wp-content/uploads/2015/09/LUCIEN_VLADIMIR.jpg" width="330">
+       <div class="vesti-date-wrapper">
+         <div class="vesti-date">
+         </div>
+       </div>
+     </div>
+     <div class="vesti-desc">
+       <a class="desc-a" href="#">
+         <h4><a href="{{ site.baseurl }}/hsmcdonald/">Vladimir Lucien</a></h4>
+       </a>
+     </div>
+   </div>
+ </div> 
+<div id="post-14" class="vesti-col timeline-post">
    <div class="vesti-content-wrapper">
      <div class="photo">
        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Arthur_Lewis_%28Nobel_photo%29.jpg/330px-Arthur_Lewis_%28Nobel_photo%29.jpg">
@@ -238,6 +254,5 @@ permalink: /16/
      </div>
    </div>
  </div>
-
 
 <!-- partial -->
