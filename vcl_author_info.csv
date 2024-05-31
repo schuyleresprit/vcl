@@ -1,9 +1,8 @@
 Author,author_id,author_country
-Ángel Augier,aaugier,cuba
-Adam Lowe,alowe,st._kitts_&_nevis
+Adam Lowe,alowe,england
 Adisa Andwele,aandwele,barbados
 Adriana Tous,atous,cuba
-Aimé Césaire,acesaire,martinique
+Aimé Césaire,acésaire,martinique
 Alaí Reyes-Santos,arsantos,united_states
 Albert Maria Gomes,amgomes,trinidad_&_tobago
 Alberto Garrandés,agarrandés,cuba
@@ -19,23 +18,23 @@ Alick Lazare,alazare,dominica
 Althea Prince,aprince,antigua_&_barbuda
 Alvin Cummins,acummins,barbados
 Amy Wilentz,awilentz,united_states
-Anaïs Ségalas,asegalas,france
+Anaïs Ségalas,aségalas,france
+André Paradis,aparadis,france
 Andrea Levy,alevy,england
 Andrea Stuart,astuart,jamaica
-André Paradis,aparadis,france
 Andrew Salkey,asalkey,jamaica
+Ángel Augier,aaugier,cuba
 Angèle Rawiri,arawiri,gabon
 Anisah Sankar,asankar,trinidad_&_tobago
 Anthony C. Winkler,acwinkler,jamaica
 Anthony Kellman,akellman,barbados
-Anthony Nash,anash,england
-Antonio Benítez-Rojo,abenitezrojo,cuba
+Anthony Nash,anash,trinidad_&_tobago
+Antonio Benítez-Rojo,abenitezrogo,cuba
 Antonio Moreno,amoreno,spain
 Arlette Minatchy-Bogat,aminatchybogat,guadeloupe
 Arthur Lemiere Hendriks,alhendriks,jamaica
-Arthur W. Lewis,awlewis,st._lucia
-Asha Bromfield,abromfield,jamaica
-Audre Lorde,alorde,grenada
+Asha Bromfield,abromfield,canada
+Audre Lorde,alorde,united_states
 Austin Clarke,aclarke,barbados
 Baptiste Paul,bpaul,france
 Barbara Applin,bapplin,united_states
@@ -55,7 +54,6 @@ Carilda Oliver Labra,colabra,cuba
 Carlos Loveira,cloveira,cuba
 Carlos Moore,cmoore,cuba
 Caryl Phillips,cphillips,st._kitts_&_nevis
-Caryl Phillips,cphillips,st._kitts_&_nevis
 Cecil Browne,cbrowne,st._vincent_&_the_grenadines
 Cecilia Bustamante,cbustamante,peru
 Celeste Mohammed,cmohammed,trinidad_&_tobago
@@ -65,13 +63,13 @@ Christian Werleigh,cwerleigh,haiti
 Christine Craig,ccraig,jamaica
 Ciannon Smart,csmart,england
 Cirilo Villaverde,cvillaverde,cuba
-Clément Magloire-Saint-Aude,cmagloiresaintaude,haiti
-Clément Richer,cricher,canada
 Claire Adam,cadam,trinidad_&_tobago
 Claribel Terré Morell,ctmorell,cuba
 Claude McKay,cmckay,jamaica
 Claude Thompson,cthompson,jamaica
+Clément Magloire-Saint-Aude,cmagloiresaintaude,haiti
 Clement Maharaj,cmaharaj,trinidad_&_tobago
+Clément Richer,cricher,canada
 Cola Debrot,cdebrot,bonaire
 Colville N Young,cnyoung,belize
 Constance Marshall,cmarshall,united¬†states
@@ -81,6 +79,7 @@ Cynthia James,cjames,trinidad_&_tobago
 Cynthia Wilson,cwilson,barbados
 Cynthia Noel,cnoel,canada
 Cyril Dabydeen,cdabydeen,guyana
+Cyril Everard Palmer,cepalmer,jamaica
 Cyril V Briggs,cvbriggs,st._kitts_&_nevis
 Cyrus Francis Perkins,cfperkins,jamaica
 D.F. Les Pierre-Luke,dflpierreluke,trinidad_&_tobago
@@ -93,19 +92,18 @@ David Augustus Straker,dastraker,barbados
 David Dabydeen,ddabydeen,guyana
 David Franklyn,dfranklyn,brazil
 De Lisser H. G.,hgdlisser,jamaica
-Dean R Baldwin,drbadwin,united_states
+Dean R Baldwin,drbaldwin,united_states
 Denise Harris,dharris,guyana
 Dennis Scott,dscott,jamaica
 Derek Walcott,dwalcott,st.lucia
 Derry Sandy,dsandy,trinidad_&_tobago
 Desmond Hall,dhall,jamaica
-Desmond V Nicholson,dvnicholson,antigua_&_barbuda
+Desmond V Nicholson,dvnicholson,england
 Didacus Jules,djules,st._lucia
 Dimitry Elias Léger,deleger,cuba
 Dionne Brand,dbrand,trinidad_&_tobago
 Donald Hinds,dhinds,jamaica
 Donna Every,devery,barbados
-Évelyne Trouillot,etrouillot,haiti
 Earl G Long,eglong,st._lucia
 Earl Lovelace,elovelace,trinidad_&_tobago
 Eddie Vega,evega,cuba
@@ -116,14 +114,14 @@ Edison T Williams,etwilliams,barbados
 Edith Clarke,eclarke,jamaica
 Edmond Lapompe-Paironne,elpaironne,martinique
 Edouard Mokwe,emokwe,united_states
-Edris Saint-Amand,esamand,haiti
+Edris Saint-Amand,esaintamand,haiti
 Eduardo Del Llano,edelllano,cuba
 Edward Baugh,ebaugh,jamaica
-Kamau Brathwaite,kbrathwaite,barbados
+Edward Kamau Brathwaite,ekbrathwaite,barbados
 Edwidge Danticat,edanticat,haiti
 Eintou Pearl Springer,epspringer,trinidad_&_tobago
 Eliseo Diego,ediego,cuba
-Elizabeth Acevedo,eacevedo,dominican_republic
+Elizabeth Acevedo,eacevedo,united_states
 Elizabeth Nunez,enunez,trinidad_&_tobago
 Elizabeth Walcott-Hackshaw,ewalcotthackshaw,trinidad_&_tobago
 Elma Napier,enapier,dominica
@@ -131,40 +129,39 @@ Eloísa Lezama Lima,ellima,cuba
 Emilio Bobadilla,ebobadilla,cuba
 Emily A Colin,eacolin,united_states
 Eric Eustace Williams,eewilliams,trinidad_&_tobago
-Erna Brodber,ebrodber,jamaica
+Erna Brodber,ebodber,jamaica
 Errol John,ejohn,trinidad_&_tobago
 Eulah Borde,eborde,trinidad_&_tobago
 Evan Jones,ejones,jamaica
-Everard C. Palmer,ecpalmer,jamaica
+Évelyne Trouillot,etrouillot,haiti
 Ezequiel Vieta,evieta,cuba
 Fabio Fiallo,ffiallo,dominican_republic
 Fabio Murrieta Rodríguez,fmrodriguez,cuba
 Fernand Hibbert,fhibbert,haiti
 Fernando José Barcena Orbe,fjborbe,st._martin
-Frédéric Marcelin,fmarcelin,haiti
 Francesca Momplaisir,fmomplaisir,haiti
 Francie Latour,flatour,united_states
 Francis Carco,fcarco,new_caledonia
 Frank A. Collymore,facollymore,barbados
 Frank Janney,fjanney,united_states
-Frankétienne,frankétienne,haiti
+Frankétienne,franketienne,haiti
 Frantz Wainwright,fwainwright,haiti
-Fred D'Aguiar,fdaguiar,guyana
+Fred D'Aguiar,fdaguiar,england
+Frédéric Marcelin,fmarcelin,haiti
 Frits Wols,fwols,suriname
-Gérard Bulin,gbulin,france
 Geoffrey Drayton,gdayton,barbados
-Geoffrey Philp,gphilip,jamaica
+Geoffrey Philip,gphilip,jamaica
 George Campbell,gcampbell,jamaica
 George Lamming,glamming,barbados
 Georges Mauvois,gmauvois,martinique
 Georges Sylvain,gsylvain,haiti
+Gérard Bulin,gbulin,france
 Gina Picart,gpicart,cuba
 Gisèle Pineau,gpineau,guadeloupe
 Glynis Guevara,gguevara,trinidad_&_tobago
 Gordon Rohlehr,grohlehr,guyana
 Grace Nichols,gnichols,guyana
 Gregory Thompson,gthompson,trinidad_&_tobago
-Guillermo Cabrera Infante,gcinfante,cuba
 Guillermo Rosales,grosales,cuba
 Gus John,gjohn,grenada
 Gwyneth Harold,gharold,jamaica
@@ -174,7 +171,7 @@ Harold Sonny Ladoo,hsladoo,trinidad_&_tobago
 Hayim Valdman,hvaldman,ukraine
 Hazel Simmons-McDonald,hsmcdonald,st._lucia
 Helen Klonaris,hklonaris,the_bahamas
-Henry Hesketh Bell,hhbell,france
+Henry Hesketh Bell,hhbell,england
 Herbert J. Reifer,hjreifer,barbados
 Howard Pease,hpease,united_states
 Hubert Nigel Thomas,hnthomas,st._vincent
@@ -189,7 +186,6 @@ Isabel Abellán Chuecos,iachuecos,spain
 Ismith Khan,ikhan,trinidad_&_tobago
 Ivory Kelly,ikelly,belize
 J. Ashton Brathwaite,jabrathwaite,barbados
-J.W. Boddam-Whetham,jwboddamwhetham,australia
 Jacob Ross,jross,grenada
 Jacques Roumain,jroumain,haiti
 Jacques Stephen Alexis,jsalexis,haiti
@@ -198,8 +194,8 @@ James Linen,jlinen,england
 Jamsie,jamsie,ireland
 Jan J Dominique,jjdominique,haiti
 Janice Shinebourne,jshinebourne,guyana
-Jean Bernabé,jbernabe,martinique
-Jean Binta Breeze,jbreeze,jamaica
+Jean Bernabé,jbernabé,martinique
+Jean Breeze,jbreeze,jamaica
 Jean D'Costa,jdcosta,jamaica
 Jean Dany Joachim,jdjoachim,haiti
 Jean Goulbourne,jgoulbourne,jamaica
@@ -219,7 +215,7 @@ John W. Boddam-Whetham,jwboddamwhetham,australia
 Jonathan De La Rosa,jdlrosa,united¬†states
 Jorge Ronet,jronet,brazil
 José Lezama Lima,jllima,cuba
-Jose Martí,jmarti,cuba
+Jose Martí,jmartí,cuba
 Jose Prats Sariol,jpsariol,cuba
 Jose Rodriguez Feo,jrfeo,cuba
 Joseph Husband,jhusband,france
@@ -238,7 +234,7 @@ Julie K Lundgren,jklundgren,united_states
 Julio Ortega,jortega,cuba
 Junot Diaz,jdiaz,dominican_republic
 Justin Lhérisson,jlherisson,haiti
-Kamalo Deen,kdeen,united_states
+Kamalo Deen,kdeen,trinidad_&_tobago
 Karen Lord,klord,barbados
 Karen Mah-Chamberlain,kmahchamberlain,united_states
 Karl Craig,kcraig,jamaica
@@ -253,11 +249,11 @@ Kevyn Alan Arthur,kaarthur,barbados
 Kia Marie Khelawan,kmkhelawan,trinidad_&_tobago
 Krystal A Sital,kasital,trinidad_&_tobago
 Kwame Senu Neville Dawes,ksndawes,jamaica
-Lázaro Gómez Carriles,lgcarriles,united_states
 Lakshmi Persaud,lpersaud,trinidad_&_tobago
 Lauren Willig,lwillig,united_states
 Lawrence Scott,lscott,trinidad_&_tobago
-Lenelle Moïse,lmoise,haiti
+Lázaro Gómez Carriles,lgcarriles,united_states
+Lenelle Moïse,lmoïse,haiti
 Lennox Honychurch,lhonychurch,dominica
 Leonardo Padura Fuentes,lpfuentes,cuba
 Leone Ross,lross,england
@@ -292,14 +288,14 @@ Marcel Nérée,mnérée,france
 Marcela Breton,mbreton,united_states
 Marcia Douglas,mdouglas,jamaica
 Margaret Busby,mbusby,ghana
-Margarita Suero-Duran,msueroduran,united_states
+Margarita Suero-Duran,msduran,united_states
 Maria Nugent,mnugent,united_states
 Maria Roberts-Squires,mrsquires,jamaica
 Mariano Brull,mbrull,cuba
 Mariano Rodríguez,mrodriguez,cuba
 Marie Arnold,marnold,haiti
 Marie Célie Agnant,mcagnant,haiti
-Marie Evelyn,mevelyn,england
+Marie Evelyn,mevelyn,barbados
 Marie Vieux-Chauvet,mvchauvet,haiti
 Marie-Elena John,mejohn,antigua_&_barbuda
 Marie-Joséphine Augustin,mjaugustin,united_states
@@ -311,7 +307,7 @@ Marion Bethel,mbethel,the_bahamas
 Marion Dowe,mdowe,dominica
 Marion O'Callaghan,mocallaghan,trinidad_&_tobago
 Mark McWatt,mmcwatt,guyana
-M. Nourbese Phillip,mnphillip,trinidad_&_tobago
+Marlene Nourbese Philip,mnphilip,trinidad_&_tobago
 Marlon James,mjames,jamaica
 Martha Blanchard,mblanchard,st._lucia
 Martin Amis,mamis,england
@@ -322,13 +318,13 @@ Maude Heurtelou,mheurtelou,haiti
 Maureen Warner-Lewis,mwlewis,trinidad_&_tobago
 Max A Antoine,maantoine,haiti
 May Farquharson,mfarquharson,jamaica
-McDonald Dixon,mdixon,st._lucia
+McDonald Dixon,mdixon,united_states
 Meiling Jin,mjin,guyana
 Mercedes Abad,mabad,spain
 Merle Collins,mcollins,grenada
 Merle Hodge,mhodge,trinidad_&_tobago
 Mervyn Morris,mmorris,jamaica
-Michael Anthony,manthony,trinidad_&_tobago
+Michael Anthony ,manthony,trinidad_&_tobago
 Michael Aubertin,maubertin,st._lucia
 Michael Cozier,mcozier,trinidad_&_tobago
 Michael Smith,msmith,jamaica
@@ -339,7 +335,7 @@ Michelle Gargar,mgargar,australia
 Michelle Paula Barton-Romeo,mpbartonromeo,trinidad_&_tobago
 Miguel Ángel Asturias,maasturias,guatemala
 Miguel Collazo,mcollazo,cuba
-Miguel de Carrión,mdcarrion,cuba
+Miguel de Carrión,mdcarrión,cuba
 Milagros Ricourt,mricourt,united_states
 Milagros Rodríguez Cáceres,mrcáceres,spain
 Mireille Rosello,mrosello,united_states
@@ -354,22 +350,22 @@ Nailah Folami Imoja,nfimoja,barbados
 Naima Coster,ncoster,united_states
 Nalo Hopkinson,nhopkinson,jamaica
 Namba Roy,nroy,jamaica
-Nancy Morejón,nmorejon,cuba
+Nancy Morejón,nmorejón,cuba
 Naomi Jackson,njackson,united_states
 Narmala Shewcharan,nshewcharan,guyana
 Néstor Ponce,nponce,argentina
 Neville Dawes,ndawes,nigeria
 Neville Giuseppi,ngiuseppi,trinidad_&_tobago
 Nicholas Laughlin,nlaughlin,trinidad_&_tobago
-Nicolás Guillén,ngullien,cuba
 Nicola Yoon,nyoon,jamaica
+Nicolás Guillén,ngullien,cuba
 Nicole Deniss-Benn,ndennisbenn,jamaica
 Nicole Roberts,nroberts,united_states
 Norman Eustace Cameron,necameron,guyana
 O.R Dathorne,ordathorne,guyana
 Olive Lewin,olewin,jamaica
 Olive Senior,osenior,jamaica
-Oonya Kempadoo,okempadoo,guyana
+Oonya Kempadoo,okempadoo,england
 Opal Palmer Adisa,opalmeradisa,jamaica
 Orlando Luis Pardo Lazo,olplazo,cuba
 Orlando Patterson,opatterson,jamaica
@@ -382,7 +378,6 @@ Paul Keens-Douglas,pkeensdouglas,trinidad_&_tobago
 Paul Marlee,pmarlee,suriname
 Paule Marshall,pmarshall,barbados
 Paulette Ramsay,pramsay,jamaica
-Pauline Melville,pmelville,guyana
 Pauline Melville,pmelville,guyana
 Peekash Press,ppress,united_states
 Peter Abrahams,pabrahams,jamaica
@@ -402,15 +397,15 @@ R.B Cunnighame-Graham,rbcunninghamegraham,england
 Rabindranath Maharaj,rmaharaj,trinidad_&_tobago
 Rachel Kirby,rkirby,england
 Rachel Manley,rmanley,england
-Ramón De Palma,rdepalma,cuba
 Ramon Antonio Victoriano-Martinez,ravmartinez,dominican_republic
+Ramón De Palma,rdepalma,cuba
 Raoul B. Altidor,rbaltidor,haiti
 Raoul Pantin,rpantin,trinidad_&_tobago
 Raphaël Confiant,rconfiant,martinique
 Reinaldo Arenas,rarenas,cuba
-René Maran,rmaran,martinique
-Rene Depestre,rdepestre,haiti
 René Bonneville,rbonneville,martinique
+Rene Depestre,rdepestre,haiti
+René Maran,rmaran,martinique
 René Philoctète,rphiloctète,haiti
 Richard F. Patterson,rfpatterson,united_states
 Richardo Keens-Douglas,rkdouglas,grenada
@@ -425,9 +420,9 @@ Roger Dorsinville,rdorsinville,haiti
 Roger Mais,rmais,jamaica
 Roger Parsemain,rparsemain,martinique
 Roger Robinson,rrobinson,united_states
-Roxane Gay,rgay,haiti
 Rooplall Monar,rmonar,guyana
 Roopnandan Singh,rsingh,guyana
+Roxane Gay,rgay,haiti
 Roque Dalton,rdalton,el_salvador
 Roy A Galt,ragalt,trinidad_&_tobago
 Roy Namba,rnamba,jamaica
@@ -442,13 +437,13 @@ Sasenarine Persaud,spersaud,guyana
 Seepersad Naipaul,snaipaul,trinidad_&_tobago
 Severo Sarduy,ssarduy,cuba
 Shakirah Bourne,sbourne,barbados
-Shani Mootoo,smootoo,trinidad_&_tobago
+Shani Mootoo,smootoo,ireland
 Sherwyn Besson,sbesson,trinidad_&_tobago
 Shiva Naipaul,shnaipaul,trinidad_&_tobago
 Shiva Shridath Maharajh,ssmaharajh,trinidad_&_tobago
 Shivanee Ramlochan,sramlochan,trinidad_&_tobago
 Simon Schama,sschama,england
-Simone Schwarz-Bart,ssbart,guadeloupe
+Simone Schwarz-Bart,ssbart,france
 Soleida Rios,srios,cuba
 Stephen A Dantes,sadantes,st._lucia
 Stewart Brown,sbrown,england
@@ -469,15 +464,17 @@ Umberto Valverde,uvalverde,columbia
 Una Marson,umarson,jamaica
 Undine Giuseppi,ugiuseppi,barbados
 V.S. Naipaul,vsnaipaul,trinidad_&_tobago
-Véronique Maisier,vmaisier,canada
 Vahni Capildeo,vcapildeo,trinidad_&_tobago
 Vanessa Riley,vriley,trinidad_&_tobago
 Vanessa Spence,vspence,jamaica
 Velma Pollard,vpollard,jamaica
 Velta J Clarke,vjclarke,jamaica
+Véronique Maisier,vmaisier,canada
 Victor Stafford Reid,vsreid,jamaica
 Vigil Diaz,vdiaz,dominican_republic
 Virgilio Piñera,vpinera,cuba
+Vladimir Lucien,vlucien,st._lucia
+W. Arthur Lewis,walewis,st._lucia
 Wallace Williams,wwilliams,virgin_islands
 Walter Goodman,wgoodman,united¬†states
 Walter Adolphe Roberts,waroberts,jamaica
