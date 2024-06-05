@@ -27,7 +27,7 @@ permalink: /atous/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Poesia De Nicolas Guillen</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://libreriacajondesastre.com/142727-large_default/la-poesia-de-nicolas-guillen.jpg"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Ediciones Cultura Hispanica<br/>
