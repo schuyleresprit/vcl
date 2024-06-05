@@ -7,7 +7,7 @@ permalink: /aandwele/
 <div class="content">
     <h1>Adisa Andwele</h1>
     <div class="quote">
-        <div><img src="https://pbs.twimg.com/media/EIOROMRXYAAoq4Y?format=jpg&name=large" class="logo"></div>
+        <div><img src="https://16days.thepixelproject.net/wp-content/uploads/2013/11/Adisa-Jelani-Andwele.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,7 +29,7 @@ permalink: /aandwele/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Rhythm an' Roots: A Collection Of Poems</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51EPIsU9nJL._SX331_BO1,204,203,200_.jpg"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English <br/>
                 Publisher: Peepal Tree Press <br/>
@@ -44,7 +44,7 @@ permalink: /aandwele/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Black Distant Voice: A Collection of Poems</h1><hr>
-                <p><img src="https://pbs.twimg.com/media/EIOROMVXsAECwdX.jpg:large"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md30296518969.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Black Moss press <br/>
@@ -74,7 +74,7 @@ permalink: /aandwele/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Crop Over</h1><hr>
-                <p><img src="https://pbs.twimg.com/media/EIOROMVXsAECwdX.jpg:large"></p>
+                <p><img src=""></p>
                 <p>
                 Language: English <br/>
                 Publisher: WOW Caribbean <br/>
