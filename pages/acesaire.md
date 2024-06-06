@@ -57,7 +57,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Une Saison Au Congo</h1><hr>
-                <p><img src="https://covers.openlibrary.org/b/id/9788906-L.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndmPPjMVK2qRmuKMaSo6dKR4Qo5zj8UrI0Q&s" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Éditions du Seuil <br/>
