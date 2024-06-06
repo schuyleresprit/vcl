@@ -29,7 +29,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Toussaint Louverture: La Révolution Française et le Problème Colonial</h1><hr>
-                <p><img src="http://mediatheques.collectivitedemartinique.mq/Ils/digitalCollection/DigitalCollectionThumbnailHandler.ashx?documentId=275113&size=MEDIUM&fallback=http%3a%2f%2fmediatheques.collectivitedemartinique.mq%2fui%2fskins%2fdefault%2fportal%2ffront%2fimages%2fGeneral%2fDocType%2fMONO_MEDIUM.png" width = "50%" height="50%"></p>
+                <p><img src="https://mediatheques.collectivitedemartinique.mq/Ils/digitalCollection/DigitalCollectionThumbnailHandler.ashx?documentId=284512&size=MEDIUM&fallback=https%3a%2f%2fcovers.syracuse.cloud%2fCover%2fCG97M%2fMONO%2frZhBM2LQJI7e71b4vVtmPg2%2f2708703978%2fMEDIUM%3ffallback%3dhttps%253a%252f%252fmediatheques.collectivitedemartinique.mq%252fui%252fskins%252fdefault%252fportal%252ffront%252fimages%252fGeneral%252fDocType%252fMONO_MEDIUM.png" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Présence Africaine <br/>
@@ -70,7 +70,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ferrements</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md30745919979.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/71xUvFICvuL._AC_UF1000,1000_QL80_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Éditions du Seuil <br/>
@@ -98,7 +98,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Some African Poems</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=2i1LAQAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71khFw9vOeYqOTEzqhhyxRpm9VK2EeKahDr2-j7HpVCIZWjtUFtQZYdxxtzXsjUFe_YK-OmIa-Bbu5OT3yG5DqX-4KHpAPa84HQCwfWOK0UTFfE_EeUjCGw89TBTafzUOYUszbN" width = "50%" height="50%"></p>
+                <p><img src="https://commoncrowbooks.cdn.bibliopolis.com/pictures/B58524.jpg?width=320&height=427&fit=bounds&auto=webp&v=1674161756" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Munger Africana Library <br/>
@@ -113,7 +113,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Woman and the Knife</h1><hr>
-                <p><img src="https://www.bromer.com/pictures/medium/27286.jpg?v=1667508415" width = "50%" height="50%"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md1713339151.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Red Ozier Press <br/>
@@ -128,7 +128,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Guide du Militant</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://www.bloodaxebooks.com/content/categories/l/557163e5ebf10.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Parti Progressiste Martiniquais <br/>
@@ -157,7 +157,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Cahier d'un Retour au Pays Natal</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=JzFt9S2RBakC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U2nlmluDltjVUQB4RdQSVX6rrTVBg&w=1025" width = "50%" height="50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51iiN+PuxPL._SY342_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Présence Africaine <br/>
@@ -213,7 +213,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Premiers Jalons Pour une Politique de la Culture</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpgpg" width = "50%" height="50%"></p>
+                <p><img src="https://www.bloodaxebooks.com/content/categories/l/557163e5ebf10.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Presence Africaine <br/>
@@ -227,7 +227,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Tempest</h1><hr>
-                <p><img src="https://images-eu.ssl-images-amazon.com/images/I/41F4KzKfErL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/81obbzoyMPL._SY342_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Ubu Repertory Theater Publications <br/>
@@ -242,7 +242,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Une Tempête</h1><hr>
-                <p><img src="https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/2/9/3/007574293.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329826227i/10203922.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Éditions du Seuil <br/>
@@ -256,7 +256,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cadastre</h1><hr>
-                <p><img src="https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/4/0/7/008777407.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md31748713774.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Éditions du Seuil <br/>
@@ -284,7 +284,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Tempest</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329826227l/10203922.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/P/1559362103.01._SX180_SCLZZZZZZZ_.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Ubu Repertory Theater <br/>
@@ -299,7 +299,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Une Saison Au Congo</h1><hr>
-                <p><img src="https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/9/9/4/009499994.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://www.presenceafricaine.com/1820-thickbox_default/une-saison-au-congo.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Éditions du Seuil <br/>
@@ -381,7 +381,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Lyric and Dramatic Poetry, 1946-82</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61j8DKcxrBL.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://ik.imagekit.io/uvapress/tr:h-300,w-200,c-at_max/2043.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: University Press of Virginia <br/>
@@ -396,7 +396,7 @@ permalink: /acesaire/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>La Tragédie Du Roi Christophe</h1><hr>
-                <p><img src="https://www.presenceafricaine.com/899/la-tragedie-du-roi-christophe.jpg" width = "50%" height="50%"></p>
+                <p><img src="https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/4/0/3/9782708701304/tsp20120925104209/La-tragedie-du-roi-Christophe.jpg" width = "50%" height="50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Présence Africaine <br/>
