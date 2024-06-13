@@ -27,13 +27,41 @@ permalink: /amgomes/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Beacon</h1><hr>
-                <p><img src="IMAGE LINK"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93vYhju7aU15XQ_VwCuOB3METzu1XtVGCWXOOT3iE9GYVRkBe7x91LL1pC3SWERKWtUE&usqp=CAU"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Albert Gomez<br/>
                 Pub_location: Port of Spain, Trinidad & Tobago<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: <br/>                   </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">1973</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>I Am an Immigrant, in Caribbean Essays: An Anthology</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/81LY6KFsIcL._AC_UF1000,1000_QL80_.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Evans Bros<br/>
+                Pub_location: Port of Spain, Trinidad & Tobago<br/>
+                Genre: Anthology<br/>
+                Length: pp. 53-59<br/>                   </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1974</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Through a Maze of Colour</h1><hr>
+                <p><img src="https://archive.org/services/img/throughmazeofcol00gome/full/pct:200/0/default.jpg"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Key Caribbean Publications<br/>
+                Pub_location: Port of Spain, Trinidad & Tobago<br/>
+                Genre: Autobiography<br/>
+                Length: 251<br/>                   </p>
             </div>
         </div>
         <div class="block">
@@ -52,5 +80,3 @@ permalink: /amgomes/
         </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
-
-
