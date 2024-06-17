@@ -98,7 +98,7 @@ permalink: /agarrandés/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Silencio Y Destino : Anatomía De Una Novela Lírica</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41aAB68EfNL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/91ou30O4PeL._SY342_.jpg"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Editorial Letras Cubanas<br/>
