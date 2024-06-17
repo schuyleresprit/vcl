@@ -29,7 +29,7 @@ permalink: /amckenzie/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Satellite City</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266826720l/4594966.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://static.wixstatic.com/media/1c4531_f5eab263a896400c9f275a25cfb47b40~mv2.png/v1/fill/w_313,h_503,al_c,q_80,usm_0.66_1.00_0.01/1c4531_f5eab263a896400c9f275a25cfb47b40~mv2.png" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Longman<br/>
@@ -85,7 +85,7 @@ permalink: /amckenzie/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Million Aunties</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjE8bfg0E0HzqA73ovoR68rLIBNBb9o4-E2jymfkOFWFp6aZzJ" height="50%" width = "50%"></p>
+                <p><img src="https://static.wixstatic.com/media/1c4531_92c0b21258494f7eae247e35284d1e21~mv2.jpg/v1/fill/w_391,h_558,al_c,q_80,usm_0.66_1.00_0.01/1c4531_92c0b21258494f7eae247e35284d1e21~mv2.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Akashic Books <br/>
