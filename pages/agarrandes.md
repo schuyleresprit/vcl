@@ -140,7 +140,7 @@ permalink: /agarrandés/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>El Cuerpo Immortal : 20 Cuentos Eróticos Cubanos</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609969946l/2621246._SX318_.jpg"></p>
+                <p><img src="https://oncubanews.com/wp-content/uploads/2020/03/garrand%C3%A9s-1-750x500.jpg"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Editorial Letras Cubanas <br/>
