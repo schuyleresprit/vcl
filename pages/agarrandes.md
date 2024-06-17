@@ -112,7 +112,7 @@ permalink: /agarrandés/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Salmos Paganos</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=IUXmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70ACvfNFiRgWTTFyHDTLy1oFM5VLgxyoGxUlFvjyQMTI4QZJ4nR6d3YGz_TgfTLsXOcsONoCJ6P3wVWThUDKZue4ft4yXt55KyuYHIQwl8XLy2UJYfYREOb1dpyCd8RIm2oSIiE"></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9789592091368-us.jpg"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Ediciones Unión<br/>
