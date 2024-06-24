@@ -39,9 +39,9 @@ permalink: /ahmendes/
             </div>
         </div>
          <div class="block">
-            <div class="date left"><p class="left">1935</p></div>
+            <div class="date right"><p class="right">1935</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Black Fauns</h1><hr>
                 <p><img src="https://www.zenosbooks.com/images/images/black_fauns.jpg" height="50%" width = "50%"></p>
                 <p>
