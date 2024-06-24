@@ -7,7 +7,7 @@ permalink: /ahmendes/
 <div class="content">
     <h1>Alfred Hubert Mendes</h1>
     <div class="quote">
-        <div><img src="https://lthumb.lisimg.com/637/20665637.jpg" class="logo"></div>
+        <div><img src="https://lthumb.lisimg.com/637/20665637.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,13 +29,27 @@ permalink: /ahmendes/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Pitch Lake: A Story From Trinidad</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=2WUIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73mOooElMKt2JMIRvwxVZRODGMr5WIVR5uXa62R1Cy4exb9jDmFsZRTShnG_ke4jzwoxBglrKNQWAda3RMePXm4nTVsT_aOz9PJwLct7zve58kUXrHyseT7GCog3DBYugRlthST.jpg"></p>
+                <p><img src="https://i.ebayimg.com/images/g/RVIAAOSwydJjtto8/s-l1600.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Duckworth<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 352</p>
+            </div>
+        </div>
+         <div class="block">
+            <div class="date left"><p class="left">1935</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Black Fauns</h1><hr>
+                <p><img src="https://www.zenosbooks.com/images/images/black_fauns.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Duckworth<br/>
+                Pub_location: London, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 328</p>
             </div>
         </div>
 </div>
