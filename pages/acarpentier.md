@@ -54,9 +54,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">1949</p></div>
+            <div class="date right"><p class="right hide">1949</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Kingdom of This World</h1><hr>
                 <p><img src="https://upload.wikimedia.org/wikipedia/en/c/c5/The_Kingdom_of_this_World_Eng_1st_Ed.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -83,9 +83,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">1953</p></div>
+            <div class="date right"><p class="right hide">1953</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Los Pasos Perdidos</h1><hr>
                 <p><img src="https://bnjm.cu/img/noticias/2021/9/27/3590.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -97,9 +97,9 @@ permalink: /acarpentier/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1956</p></div>
+            <div class="date left"><p class="left">1956</p></div>
             <div class="dot"></div>
-            <div class="left">
+            <div class="right">
                 <h1>The Lost Steps</h1><hr>
                 <p><img src="https://pictures.abebooks.com/inventory/md/md974047698.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -127,9 +127,9 @@ permalink: /acarpentier/
             </div>
         </div>        
 <div class="block">
-            <div class="date right"><p class="right hide">1958</p></div>
+            <div class="date left"><p class="left hide">1958</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Chasse à L'Homme</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41exeRycuyL._SX324_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -142,9 +142,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">1956</p></div>
+            <div class="date right"><p class="right hide">1956</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>El Acoso</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/91qR5YvZRAL._SY342_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -156,9 +156,9 @@ permalink: /acarpentier/
             </div>
         </div>
  <div class="block">
-            <div class="date right"><p class="right hide">1958</p></div>
+            <div class="date left"><p class="left hide">1958</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>War of Time</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528272268i/3304197.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -171,9 +171,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">1958</p></div>
+            <div class="date right"><p class="right hide">1958</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Guerra del Tiempo</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346096894i/15852811.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -185,9 +185,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right hide">1962</p></div>
+            <div class="date left"><p class="left hide">1962</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>A Fény Százada</h1><hr>
                 <p><img src="https://moly.hu/system/covers/big/covers_63635.jpg?1395363766" height="50%" width = "50%"></p>
                 <p>
@@ -200,9 +200,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">1962</p></div>
+            <div class="date right"><p class="right hide">1962</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>El Siglo de las Luces</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/819XMzjchzL._SY342_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -243,9 +243,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right hide">1968</p></div>
+            <div class="date left"><p class="left hide">1968</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>¡Écue-Yamba-Ó!</h1><hr>
                 <p><img src="https://books.google.dm/books/content?id=nUYBMMZCcQkC&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U0hGQi5v4By-RL3lKa90s0KQR4WDQ&w=1280" height="50%" width = "50%"></p>
                 <p>
@@ -257,9 +257,9 @@ permalink: /acarpentier/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left hide">1970</p></div>
+            <div class="date right"><p class="right hide">1970</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>La Ciudad de las Columnas</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61bNpieGlQL._SX480_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -271,9 +271,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right hide">1974</p></div>
+            <div class="date left"><p class="left hide">1974</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Le Recours de la Méthode</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/41ZegHC9I0L._SY445_SX342_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -286,9 +286,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">1974</p></div>
+            <div class="date right"><p class="right hide">1974</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Reasons of State</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576236136i/15240518.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -330,9 +330,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right hide">1974</p></div>
+            <div class="date left"><p class="left hide">1974</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Concierto Barroco</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51-PwNZnsML._SY425_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -344,9 +344,9 @@ permalink: /acarpentier/
             </div>
         </div>
  <div class="block">
-            <div class="date left"><p class="left hide">1974</p></div>
+            <div class="date right"><p class="right hide">1974</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Die Methode der Macht</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41CRXPJEB3L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -359,9 +359,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right hide">1976</p></div>
+            <div class="date left"><p class="left hide">1976</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Visión de América</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/41aMo5bvNNL._SX357_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -373,9 +373,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">1978</p></div>
+            <div class="date right"><p class="right hide">1978</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>La Consagración de la Primavera</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/91SsfjHUFwL._SY342_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -402,9 +402,9 @@ permalink: /acarpentier/
             </div>
         </div>
  <div class="block">
-            <div class="date left"><p class="left hide">1979</p></div>
+            <div class="date right"><p class="right hide">1979</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>The Harp and the Shadow</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170789065i/71749.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -432,9 +432,9 @@ permalink: /acarpentier/
             </div>
         </div>
  <div class="block">
-            <div class="date left"><p class="left hide">1979</p></div>
+            <div class="date right"><p class="right hide">1979</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Bajo el Signo de la Cibeles: Crónicas Sobre España Y los Españoles, 1925-1937</h1><hr>
                 <p><img src="https://images.cdn3.buscalibre.com/fit-in/360x360/44/9e/449e0671661573731b5ec2a1bb0bb77d.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -446,9 +446,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right hide">1979</p></div>
+            <div class="date left"><p class="left hide">1979</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Cuentos Completos</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/61aSJF49AZL._SX309_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -488,9 +488,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">1985</p></div>
+            <div class="date right"><p class="right hide">1985</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Crónicas 1. Arte, Literatura, Política</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/A1UnrrlcWDL._SY342_.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -502,9 +502,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date right"><p class="right hide">1987</p></div>
+            <div class="date left"><p class="left hide">1987</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Conferencias</h1><hr>
                 <p><img src="https://www.agenciabalcells.com/fileadmin/user_upload/Conferencias.jpg" height="50%" width = "50%"></p>
                 <p>
@@ -572,9 +572,9 @@ permalink: /acarpentier/
             </div>
         </div>
 <div class="block">
-            <div class="date left"><p class="left hide">2017</p></div>
+            <div class="date right"><p class="right hide">2017</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>Recuento de Moradas</h1><hr>
                 <p><img src="https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/7502275670856.jpg?scale=500&qlty=75" height="50%" width = "50%"></p>
                 <p>
