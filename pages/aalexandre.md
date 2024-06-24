@@ -50,9 +50,9 @@ permalink: /aalexandre/
             </div>
     </div>
 <div class="block">
-            <div class="date right"><p class="right">2016</p></div>
+            <div class="date left"><p class="left">2016</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>La Ballade de Leïla Khane</h1><hr>
                 <p><img src="https://images-eu.ssl-images-amazon.com/images/I/41gDGDqyV9L._SX195_.jpg" height="50%" width = "50%"></p>
                 <p>Language: French<br/>
