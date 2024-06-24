@@ -37,9 +37,9 @@ permalink: /amgomes/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1973</p></div>
+            <div class="date right"><p class="right">1973</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>I Am an Immigrant, in Caribbean Essays: An Anthology</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/81LY6KFsIcL._AC_UF1000,1000_QL80_.jpg"></p>
                 <p>
@@ -51,9 +51,9 @@ permalink: /amgomes/
             </div>
         </div>
         <div class="block">
-            <div class="date right"><p class="right">1974</p></div>
+            <div class="date left"><p class="left">1974</p></div>
             <div class="dot"></div>
-            <div class="left hide">
+            <div class="right hide">
                 <h1>Through a Maze of Colour</h1><hr>
                 <p><img src="https://archive.org/services/img/throughmazeofcol00gome/full/pct:200/0/default.jpg"></p>
                 <p>
