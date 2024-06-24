@@ -7,7 +7,7 @@ permalink: /aarthurs/
 <div class="content">
     <h1>Alexia Arthurs</h1>
     <div class="quote">
-        <div><img src="https://www.greenlightbookstore.com/sites/greenlightbookstore.com/files/adaptivetheme/Arthurs%2C%20Alexia%20crop.jpg" class="logo"></div>
+        <div><img src="https://www.miamibookfair.com/wp-content/uploads/2018/09/arthurs_alexia.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
