@@ -40,7 +40,7 @@ permalink: /aalexandre/
             <div class="date right"><p class="right">2016</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Le bar des Amériques : roman</h1><hr>
+                <h1>Le Bar des Amériques: Roman</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/51c+OGGTfNL._SX319_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: French<br/>
                 Publisher: Mémoire d'encrier<br/>
