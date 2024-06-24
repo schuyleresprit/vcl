@@ -39,9 +39,9 @@ permalink: /aisfahanihammond/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2008</p></div>
+            <div class="date right"><p class="right">2008</p></div>
             <div class="dot"></div>
-            <div class="right hide">
+            <div class="left hide">
                 <h1>White Negritude: Race, Writing, and Brazilian Cultural Identity</h1><hr>
                 <p><img src="https://m.media-amazon.com/images/I/61vRwbrd4CL._SY342_.jpg" height="50%" width = "50%"></p>
                 <p>
