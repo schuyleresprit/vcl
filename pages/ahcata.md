@@ -7,7 +7,7 @@ permalink: /ahcata/
 <div class="content">
     <h1>Alfonso Hernández Catá</h1>
     <div class="quote">
-        <div><img src="https://www.biografiasyvidas.com/biografia/h/fotos/hernandez_cata.jpg" class="logo"></div>
+        <div><img src="https://www.biografiasyvidas.com/biografia/h/fotos/hernandez_cata.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,8 +29,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1907</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Cuentos pasionales</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md31480037986.jpg"></p>
+                <h1>Cuentos Pasionales</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md31480037986.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: M. Pérez Villavicencio<br/>
@@ -43,8 +43,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1909</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Novela erótica</h1><hr>
-                <p><img src="https://cloud10.todocoleccion.online/libros-segunda-mano-literatura-erotica/tc/2023/04/07/17/404449314_tcimg_81498354.webp"></p>
+                <h1>Novela Erótica</h1><hr>
+                <p><img src="https://cloud10.todocoleccion.online/libros-segunda-mano-literatura-erotica/tc/2023/04/07/17/404449314_tcimg_81498354.webp" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Ramon Sopena<br/>
@@ -58,7 +58,7 @@ permalink: /ahcata/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Pelayo González</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51aq6gV2bBL._SX373_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51aq6gV2bBL._SX373_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -70,8 +70,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1910</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La distancia</h1><hr>
-                <p><img src=""></p>
+                <h1>La Distancia</h1><hr>
+                <p><img src="https://cloud10.todocoleccion.online/coleccionismo-revistas-periodicos/tc/2018/08/21/19/131290127.webp" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: El Cuento Semanal<br/>
                 Pub_location:  Madrid, Spain<br/>
@@ -83,8 +83,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1912</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>La juventud de Aurelio Zaldívar</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md30021388792.jpg"></p>
+                <h1>La Juventud de Aurelio Zaldívar</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md30021388792.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Renacimiento<br/>
@@ -97,8 +97,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1913</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>El amor tardío</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md912340413.jpg"></p>
+                <h1>El Amor Tardío</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md912340413.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Renacimiento<br/>
                 Pub_location: Seville, Spain<br/>
@@ -110,8 +110,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1914</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Cabecita loca</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md22577705965.jpg"></p>
+                <h1>Cabecita Loca</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md22577705965.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Sociedad de autores españoles<br/>
                 Pub_location:  Madrid, Spain<br/>
@@ -123,8 +123,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1914</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>En familia</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/1156900298.jpg"></p>
+                <h1>En Familia</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/1156900298.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Renacimiento<br/>
                 Pub_location: Seville, Spain<br/>
@@ -133,11 +133,11 @@ permalink: /ahcata/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">1915</p></div>
+            <div class="date left"><p class="left">1919</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Los frutos ácidos </h1><hr>
-                <p><img src=""></p>
+                <h1>Los Frutos Ácidos</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/417udXblNTL._SY342_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Aguilar Publishing<br/>
                 Pub_location:  Madrid, Spain<br/>
@@ -149,8 +149,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1916</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La culpa ajena</h1><hr>
-                <p><img src="https://ia902905.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/laculpaajenacome2691insa/laculpaajenacome2691insa_jp2.zip&file=laculpaajenacome2691insa_jp2/laculpaajenacome2691insa_0001.jp2&id=laculpaajenacome2691insa&scale=4&rotate=0"></p>
+                <h1>La Culpa Ajena</h1><hr>
+                <p><img src="https://ia902905.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/laculpaajenacome2691insa/laculpaajenacome2691insa_jp2.zip&file=laculpaajenacome2691insa_jp2/laculpaajenacome2691insa_0001.jp2&id=laculpaajenacome2691insa&scale=4&rotate=0" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Sociedad de autores españoles<br/>
@@ -163,8 +163,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1918</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Los siete pecados</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md22826422894.jpg"></p>
+                <h1>Los Siete Pecados</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md22826422894.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Renaissance<br/>
                 Pub_location:  Madrid, Spain<br/>
@@ -176,8 +176,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1919</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Zoología pintoresca</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/81dOny+FAmL._AC_UF1000,1000_QL80_.jpg"></p>
+                <h1>Zoología Pintoresca</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/81dOny+FAmL._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ramon Sopena<br/>
                 Pub_location: Barcelona, Spain<br/>
@@ -189,8 +189,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1919</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>La casa de las fieras</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51tVQNg17hL._SX332_BO1,204,203,200_.jpg"></p>
+                <h1>La Casa de Las Fieras</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51tVQNg17hL._SX332_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: G. Hernández y Galo Sáez.<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -202,8 +202,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1919</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La casa deshecha</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md30339747567.jpg"></p>
+                <h1>La Casa Deshecha</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md30339747567.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Los Contemporáneos<br/>
@@ -216,8 +216,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1921</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>El placer de sufrir</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=38MSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73uLAeNbZ7I_NNyie2yJMVZSQXEWW5PzsXzKk4UaG-RIA7mqCxzLCI34MlePqjQvzyl_Mij7YLRcAilkyjJ2Tez1-NCuUFbQoqK2JV5_lv0xACxe5UeIQVb3ikaMHLstS3zS8-P"></p>
+                <h1>El Placer de Sufrir</h1><hr>
+                <p><img src="https://books.google.dm/books/content?id=38MSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73uLAeNbZ7I_NNyie2yJMVZSQXEWW5PzsXzKk4UaG-RIA7mqCxzLCI34MlePqjQvzyl_Mij7YLRcAilkyjJ2Tez1-NCuUFbQoqK2JV5_lv0xACxe5UeIQVb3ikaMHLstS3zS8-P" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
@@ -230,8 +230,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1921</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Estrellas errantes</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/6947682792.jpg"></p>
+                <h1>Estrellas Errantes</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/6947682792.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Novela Semanal<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -243,8 +243,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1921</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>La patria azul</h1><hr>
-                <p><img src=""></p>
+                <h1>La Patria Azul</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51iWzoBG8rL._SY342_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Novela Corta<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -256,8 +256,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1921</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>El nieto de Hamlet</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51NGKVPSauL._SX309_BO1,204,203,200_.jpg"></p>
+                <h1>El Nieto de Hamlet</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51NGKVPSauL._SX309_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: La Novela Corta<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -269,8 +269,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1921</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>El drama de la señorita Occidente</h1><hr>
-                <p><img src="http://sicalipsis.humnet.ucla.edu/files/square_thumbnails/8ce2f19ec099fb2bb6f8d6da74ef77ae.jpg"></p>
+                <h1>El Drama de la Señorita Occidente</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/30339745764.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: La Novela Semanal<br/>
@@ -283,8 +283,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1921</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La última flecha'</h1><hr>
-                <p><img src=""></p>
+                <h1>La Última Flecha</h1><hr>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3zlcO50LIVpXphoLnWLm5PKG3THC5297zgWDuqImLoLRHER1P" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Los Contemporáneos<br/>
                 Pub_location: Mexico City, Mexico<br/>
@@ -296,8 +296,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1922</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Una mala mujer</h1><hr>
-                <p><img src=""></p>
+                <h1>Una Mala Mujer</h1><hr>
+                <p><img src="https://images.cdn1.buscalibre.com/fit-in/360x360/f5/de/f5deec55fac8b63eb405e59ebf58e512.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
@@ -310,8 +310,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1922</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La muerte nueva</h1><hr>
-                <p><img src="https://ia903002.us.archive.org/BookReader/BookReaderImages.php?"></p>
+                <h1>La Muerte Nueva</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/61LXe9rOuWL._SY342_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -323,8 +323,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1923</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>El corazón</h1><hr>
-                <p><img src="https://ia800905.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/elcorazn00hern/elcorazn00hern_jp2.zip&file=elcorazn00hern_jp2/elcorazn00hern_0009.jp2&id=elcorazn00hern&scale=4&rotate=0"></p>
+                <h1>El Corazón</h1><hr>
+                <p><img src="https://ia800905.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/elcorazn00hern/elcorazn00hern_jp2.zip&file=elcorazn00hern_jp2/elcorazn00hern_0009.jp2&id=elcorazn00hern&scale=4&rotate=0" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
@@ -337,8 +337,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1924</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Libro de amor</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md1226604518.jpg"></p>
+                <h1>Libro de Amor</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md1226604518.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
@@ -352,7 +352,7 @@ permalink: /ahcata/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Don Luis Mejía</h1><hr>
-                <p><img src="https://ia600400.us.archive.org/BookReader/BookReaderImages.php?zip=/22/items/donluismejiacome3353marq/donluismejiacome3353marq_jp2.zip&file=donluismejiacome3353marq_jp2/donluismejiacome3353marq_0007.jp2&id=donluismejiacome3353marq&scale=4&rotate=0"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md31292982343.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Reus<br/>
@@ -365,8 +365,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1926</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>El bebedor de lágrimas</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/22832939448.jpg"></p>
+                <h1>El Bebedor de Lágrimas</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/22832939448.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
@@ -379,8 +379,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1927</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Piedras preciosas</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51ewAc2uCyL._SX333_BO1,204,203,200_.jpg"></p>
+                <h1>Piedras Preciosas</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51ewAc2uCyL._SX333_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
                 Pub_location: Madrid, Spain<br/>
@@ -393,7 +393,7 @@ permalink: /ahcata/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>El ángel de Sodoma</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/30958937451.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Mundo Latino<br/>
@@ -407,7 +407,7 @@ permalink: /ahcata/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Martierra</h1><hr>
-                <p><img src="https://ia801906.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/martierrazarzuel25916guer/martierrazarzuel25916guer_jp2.zip&file=martierrazarzuel25916guer_jp2/martierrazarzuel25916guer_0001.jp2&id=martierrazarzuel25916guer&scale=4&rotate=0"></p>
+                <p><img src="https://ia801906.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/martierrazarzuel25916guer/martierrazarzuel25916guer_jp2.zip&file=martierrazarzuel25916guer_jp2/martierrazarzuel25916guer_0001.jp2&id=martierrazarzuel25916guer&scale=4&rotate=0" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Prensa Moderna<br/>
@@ -420,8 +420,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1929</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La noche clara</h1><hr>
-                <p><img src="https://covers.openlibrary.org/b/id/10070668-L.jpg"></p>
+                <h1>La Noche Clara</h1><hr>
+                <p><img src="https://covers.openlibrary.org/b/id/10070668-L.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Prensa Moderna<br/>
@@ -435,7 +435,7 @@ permalink: /ahcata/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Mitología de Martí</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md1226604528.jpg"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md1226604528.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Renacimiento<br/>
                 Pub_location: Seville, Spain<br/>
@@ -447,8 +447,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1930</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La voluntad de Dios</h1><hr>
-                <p><img src="https://ia800904.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/lavoluntaddedios00hern/lavoluntaddedios00hern_jp2.zip&file=lavoluntaddedios00hern_jp2/lavoluntaddedios00hern_0007.jp2&id=lavoluntaddedios00hern&scale=4&rotate=0"></p>
+                <h1>La Voluntad de Dios</h1><hr>
+                <p><img src="https://ia800904.us.archive.org/BookReader/BookReaderImages.php?zip=/32/items/lavoluntaddedios00hern/lavoluntaddedios00hern_jp2.zip&file=lavoluntaddedios00hern_jp2/lavoluntaddedios00hern_0007.jp2&id=lavoluntaddedios00hern&scale=4&rotate=0" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Alejandro Pueyo<br/>
@@ -462,7 +462,7 @@ permalink: /ahcata/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Escala</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md31582290930.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Renacimiento<br/>
                 Pub_location: Seville, Spain<br/>
@@ -475,7 +475,7 @@ permalink: /ahcata/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Manicomio</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51WHToG9+4L._SX367_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51WHToG9+4L._SX367_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Compañia Ibero-Americana de Publicaciones<br/>
@@ -488,8 +488,8 @@ permalink: /ahcata/
             <div class="date left"><p class="left">1933</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Cuatro libras de felicidad</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/513RidfGGGL._SX335_BO1,204,203,200_.jpg"></p>
+                <h1>Cuatro Libras de Felicidad</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/513RidfGGGL._SX335_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Editorial Renacimiento<br/>
                 Pub_location: Seville, Spain<br/>
@@ -501,8 +501,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1933</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Un cementerio en las Antillas</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md1226604516.jpg"></p>
+                <h1>Un Cementerio en las Antillas</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md1226604516.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Imp. de G. Saéz<br/>
@@ -517,7 +517,7 @@ permalink: /ahcata/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cuentos</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=o4tAAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71GJ_gR-aq2pbisMNXJ0M92zBoUoXgc_XSTk_Y8xcCzg4AnBiFEFysmYQJGj222923_5WgWYxEJ0F0h2kgHZIqELgr9HQUNvx8uAI0hed150Z6SP_kSZjSTIf4CK6nctK8yFq2C"></p>
+                <p><img src="https://books.google.dm/books/content?id=o4tAAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71GJ_gR-aq2pbisMNXJ0M92zBoUoXgc_XSTk_Y8xcCzg4AnBiFEFysmYQJGj222923_5WgWYxEJ0F0h2kgHZIqELgr9HQUNvx8uAI0hed150Z6SP_kSZjSTIf4CK6nctK8yFq2C" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: The Instituto de Literatura y Lingüística <br/>
@@ -530,8 +530,8 @@ permalink: /ahcata/
             <div class="date right"><p class="right">1992</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Nunca es tarde</h1><hr>
-                <p><img src=""></p>
+                <h1>Nunca es Tarde</h1><hr>
+                <p><img src="https://pictures.abebooks.com/inventory/30613005707.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: La Novela Comica<br/>
