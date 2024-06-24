@@ -38,5 +38,19 @@ permalink: /aisfahanihammond/
                 Length: 171 <br/>                   </p>
             </div>
         </div>
+        <div class="block">
+            <div class="date left"><p class="left">2008</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>White Negritude: Race, Writing, and Brazilian Cultural Identity</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/61vRwbrd4CL._SY342_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: 	Palgrave MacMillan<br/>
+                Pub_location: London, United Kingdom<br/>
+                Genre: Nonfiction<br/>
+                Length: 194 <br/>                   </p>
+            </div>
+        </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
