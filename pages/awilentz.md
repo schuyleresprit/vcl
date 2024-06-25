@@ -81,7 +81,7 @@ permalink: /awilentz/
             </div>
         </div>
         <div class="block">
-            <div class="date left"><p class="left">2013</p></div>
+            <div class="date left"><p class="left">2014</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Farewell, Fred Voodoo: A Letter From Haiti</h1><hr>
