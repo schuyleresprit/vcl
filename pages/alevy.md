@@ -7,7 +7,7 @@ permalink: /alevy/
 <div class="content">
     <h1>Andrea Levy</h1>
     <div class="quote">
-        <div><img src="https://www.bl.uk/britishlibrary/~/media/bl/global/windrush/people%20and%20authors/ext/getty/photograph-of-andrea-levy-gettyimages-548140965.jpg" class="logo"></div>
+        <div><img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/02/15/23/andrea-levy.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,10 +29,10 @@ permalink: /alevy/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Never Far from Nowhere</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSapI75WThJGB21A23K76k1uXalaZD4TxDURZuYG829xTip63aj"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344372362i/15799659.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Gardners Books<br/>
+                Publisher: Headline Review<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 288<br/>                   </p>
@@ -42,12 +42,12 @@ permalink: /alevy/
             <div class="date right"><p class="right">1999</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Fruit Of The Lemon</h1><hr>
-                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbNKZfM8uMF0gWxN0CT2PG0z-a9l0ye9T5lnrnWBrev9LL4Kom"></p>
+                <h1>Fruit of The Lemon</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/71nMUiJOHoL._SY522_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
-                Publisher: St. Martin's Press<br/>
-                Pub_location: New York, NY, United States<br/>
+                Publisher: ‎ Tinder Press <br/>
+                Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 352<br/>                   </p>
             </div>
@@ -57,10 +57,10 @@ permalink: /alevy/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Small Island</h1><hr>
-                <p><img src="https://en.wikipedia.org/wiki/Small_Island_(novel)"></p>
+                <p><img src="https://en.wikipedia.org/wiki/Small_Island_(novel)" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Picador<br/>
+                Publisher: Headline Review<br/>
                 Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 533<br/>                   </p>
@@ -71,13 +71,13 @@ permalink: /alevy/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Long Song</h1><hr>
-                <p><img src="https://en.wikipedia.org/wiki/The_Long_Song"></p>
+                <p><img src="https://en.wikipedia.org/wiki/The_Long_Song" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
-                Publisher: Farrar, Straus and Giroux<br/>
-                Pub_location: New York, NY, United States<br/>
+                Publisher: Headline Review<br/>
+                Pub_location: London, England<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 352<br/>                   </p>
+                Length: 416<br/>                   </p>
             </div>
         </div>
 <div class="block">
@@ -85,7 +85,7 @@ permalink: /alevy/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Six Stories and an Essay</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51lrLBUWIML._SX324_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51lrLBUWIML._SX324_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Tinder Press<br/>
@@ -99,7 +99,7 @@ permalink: /alevy/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Uriah's War</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCxwT-wBsKj-hkJA_jilN2kH4K3wl842Wl9Lh0bb2GqBek3DU"></p>
+                <p><img src="https://andrealevy.co.uk/img/asset/YXNzZXRzL2FuZHJlYS1sZXZ5LWNvdmVyLXVyaWFocy13YXItMDEuanBn/andrea-levy-cover-uriahs-war-01.jpg?p=1250w&fit=max&s=b6f561673fadf5d5241ee3baadcc4638" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Tinder Press<br/>
