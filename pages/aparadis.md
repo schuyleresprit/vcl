@@ -7,12 +7,12 @@ permalink: /aparadis/
 <div class="content">
     <h1>André Paradis</h1>
     <div class="quote">
-        <div><img src="https://ile-en-ile.org/wp-content/uploads/2007/07/paradis.jpg" class="logo"></div>
+        <div><img src="https://ile-en-ile.org/wp-content/uploads/2007/07/paradis.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right">b. 1939</p></div>
+            <div class="date right"><p class="right">1939 - 2024</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -27,13 +27,55 @@ permalink: /aparadis/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>L'année Du Fromager: Roman : Suivi De L'Esclave : Nouvelle</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51RNAG5P5FL._SX294_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51RNAG5P5FL._SX294_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Ibis Rouge<br/>
-                Pub_location: Petit-Bourg, Guadeloupe<br/>
+                Pub_location: Matoury, French Guiana<br/>
                 Genre: Fiction (Novel)<br/>
-                Length: 8 <br/>                   </p>
+                Length: 227 <br/>                   </p>
+            </div>
+        </div>
+         <div class="block">
+            <div class="date left"><p class="left">2002</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Le Soleil Du Fleuve	</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/31CzV+7WchL.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Ibis Rouge<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 285 <br/>                   </p>
+            </div>
+        </div>
+         <div class="block">
+            <div class="date left"><p class="left">2005</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Des hommes libres Fragments d'une histoire</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/4169TS1XFZL._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Ibis Rouge<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 261 <br/>                   </p>
+            </div>
+        </div>
+         <div class="block">
+            <div class="date left"><p class="left">2016</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>2028 L'affaire Jean-Mohamed Galmot</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/61hbOd-r8oL._AC_UF1000,1000_QL80_DpWeblab_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: French<br/>
+                Publisher: Ibis Rouge<br/>
+                Pub_location: Matoury, French Guiana<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 281 <br/>                   </p>
             </div>
         </div>
   <!-- partial -->
