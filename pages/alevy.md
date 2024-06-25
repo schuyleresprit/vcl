@@ -57,7 +57,7 @@ permalink: /alevy/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Small Island</h1><hr>
-                <p><img src="https://en.wikipedia.org/wiki/Small_Island_(novel)" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437256773i/44001.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Headline Review<br/>
@@ -71,7 +71,7 @@ permalink: /alevy/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Long Song</h1><hr>
-                <p><img src="https://en.wikipedia.org/wiki/The_Long_Song" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1269276185i/7500150.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Headline Review<br/>
