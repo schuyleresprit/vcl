@@ -7,7 +7,7 @@ permalink: /asegalas/
 <div class="content">
     <h1>Anais Segalas</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Ana%C3%AFs_S%C3%A9galas.jpg" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Ana%C3%AFs_S%C3%A9galas.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /asegalas/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Récits Des Antilles: Le Bois De La Soufriére : Suivis D'un Choix De Poémes</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=ozFmzgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE712feGfB8ZnMNWQXLY3YhzO_DMCSIBczXpsh9LQEEslt1WkrZwGIAEBRPKIf4H4YXDVshPjrWTXU40sPGg83piZN9-MgKP5PiPewHweqt_BkK8dkeKrg0cwYb5h6obAVwn52ms7"></p>
+                <p><img src="https://www.lalibrairie.com/cache/img/livres/617/9782747574617.webp" height="50%" width = "50%"></p>
                 <p>
 		    Co-Author(s): Sidroc Ramos; Samuel Feijoo; Juan Hernandez; Vladimir Lenin; Nicolas Guillen<br/>               
 		    Language: French<br/>
