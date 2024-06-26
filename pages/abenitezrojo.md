@@ -83,7 +83,7 @@ permalink: /abenitezrojo/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A View from The Mangrove</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/519VCXCQ4BL._SY291_BO1,204,203,200_QL40_ML2_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51CKSSYEBQL.jpg" height="50%" width = "50%"></p>
                 <p>Language: English <br/>
                 Publisher: University of Massachusetts Press<br/>
                 Pub_location: Amherst, MA, United States<br/>
