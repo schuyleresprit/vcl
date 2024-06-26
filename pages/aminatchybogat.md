@@ -7,7 +7,7 @@ permalink: /aminatchybogat/
 <div class="content">
     <h1>Arlette Minatchy-Bogat</h1>
     <div class="quote">
-        <div><img src="https://i.ytimg.com/vi/WetSRtua2J0/mqdefault.jpg" height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://medias.franceantilles.fr/api/v1/images/view/659400434feb2a63e827c9b8/width_1000/image.jpg" height="100%" width = "100%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -39,7 +39,7 @@ permalink: /aminatchybogat/
             <div class="date right"><p class="right">2004</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>La métisse caribéenne - roman</h1><hr>
+                <h1>La Métisse Caribéenne - Roman</h1><hr>
                 <p><img src="http://ecx.images-amazon.com/images/I/51FGFPBP8TL._SX195_.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
                 Publisher: Ibis Rouge<br/>
@@ -52,7 +52,7 @@ permalink: /aminatchybogat/
             <div class="date left"><p class="left">2009</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Maman ! J'ai raté mes études</h1><hr>
+                <h1>Maman ! J'ai Raté Mes Études</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/51AMde69yOL._SX307_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
                 Publisher: Ibis Rouge<br/>
@@ -65,8 +65,8 @@ permalink: /aminatchybogat/
             <div class="date right"><p class="right">2013</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Les héritiers de l'Inde en terre créole - récit historique</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31RcqdpOq8L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg" height="50%" width = "50%"></p>
+                <h1>Les Héritiers de L'Inde en Terre Créole - Récit Historique</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/31RcqdpOq8L.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
                 Publisher: Ibis Rouge<br/>
                 Pub_location: Petit-Bourg, Guadeloupe<br/>
@@ -78,8 +78,8 @@ permalink: /aminatchybogat/
             <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Papa ! - t'ai-je vraiment pardonné?</h1><hr>
-                <p><img src="https://products-images.di-static.com/image/arlette-minatchy-bogat-papa/9782844504302-475x500-1.jpg" height="50%" width = "50%"></p>
+                <h1>Papa ! - T'ai-Je Vraiment Pardonné?</h1><hr>
+                <p><img src="https://cdn.beebs.app/d7216870-d848-420d-bc99-68aed5cbcb27.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
                 Publisher: Ibis Rouge<br/>
                 Pub_location: Petit-Bourg, Guadeloupe<br/>
@@ -91,7 +91,7 @@ permalink: /aminatchybogat/
             <div class="date right"><p class="right">2015</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>Sharmila, l'Indienne aux trois familles - récit historique</h1><hr>
+                <h1>Sharmila, l'Indienne aux Trois Familles - Récit Historique</h1><hr>
                 <p><img src="https://www.lalibrairie.com/cache/img/livres/661/9782844504661.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
                 Publisher: Ibis Rouge<br/>
@@ -104,7 +104,7 @@ permalink: /aminatchybogat/
             <div class="date left"><p class="left">2017</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Saomie la métisse - mi sud-africaine mi caribéenne</h1><hr>
+                <h1>Saomie la Métisse - Mi Sud-Africaine Mi Caribéenne</h1><hr>
                 <p><img src="https://images-na.ssl-images-amazon.com/images/I/71-8qPjQY8L.jpg" height="50%" width = "50%"></p>
                 <p>Language: French <br/>
                 Publisher: Ibis Rouge<br/>
