@@ -7,7 +7,7 @@ permalink: /anash/
 <div class="content">
     <h1>Anthony Nash</h1>
     <div class="quote">
-        <div><img src="https://m.media-amazon.com/images/I/71bjxQ7prcL.jpg" class="logo"></div>
+        <div><img src="https://i.postimg.cc/Z5pTPPhM/anthonynash.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /anash/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Changing Shape</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51-JzEitPwL._SX331_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51-JzEitPwL._SX331_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Xlibris<br/>
