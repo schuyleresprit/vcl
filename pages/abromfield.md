@@ -7,7 +7,7 @@ permalink: /abromfield/
 <div class="content">
     <h1>Asha Bromfield</h1>
     <div class="quote">
-        <div><img src="https://m.media-amazon.com/images/M/MV5BMThhNzhlYjQtYjhhMS00NzU3LTk2ODEtZTk4MTc2ZGQ0NjVmXkEyXkFqcGdeQXVyMjY3MDk1ODA@._V1_.jpg" class="logo"></div>
+        <div><img src="https://m.media-amazon.com/images/M/MV5BMThhNzhlYjQtYjhhMS00NzU3LTk2ODEtZTk4MTc2ZGQ0NjVmXkEyXkFqcGdeQXVyMjY3MDk1ODA@._V1_.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /abromfield/
             <div class="dot"></div>
             <div class="right">
                 <h1>Hurricane Summer: A Novel</h1><hr>
-                <p><img src="https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B550%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&product=path%5B/pimages/9781250622235_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601135894i/54860490.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: St. Martin's Press	 <br/>
@@ -42,7 +42,7 @@ permalink: /abromfield/
             <div class="dot"></div>
             <div class="left">
                 <h1>Songs of Irie</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/814I9kKOglL._SY385_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/814I9kKOglL._SY385_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Wednesday Books<br/>
