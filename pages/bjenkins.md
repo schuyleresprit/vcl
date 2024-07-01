@@ -7,7 +7,7 @@ permalink: /bjenkins/
 <div class="content">
     <h1>Barbara Jenkins</h1>
     <div class="quote">
-        <div><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYgH5JWQRilbhKkS-8Py6EEoDR8nxqe-MiqQezQ3TIXeKC6TVx" class="logo"></div>
+        <div><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYgH5JWQRilbhKkS-8Py6EEoDR8nxqe-MiqQezQ3TIXeKC6TVx" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -24,12 +24,25 @@ permalink: /bjenkins/
             </div>
             </div>
         </div>
-  	 <div class="block">
-            <div class="date left"><p class="left">2018</p></div>
+        <div class="block">
+            <div class="date left"><p class="left">2013</p></div>
             <div class="dot"></div>
             <div class="right hide">
+                <h1>Sic Transit Wagon and other stories	</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/71+I5A5w4JL._SY522_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, England<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 278<br/>                   </p>
+            </div>
+  	 <div class="block">
+            <div class="date right"><p class="right">2018</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
                 <h1>De Rightest Place</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41fsReWYHFL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41fsReWYHFL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
@@ -38,5 +51,18 @@ permalink: /bjenkins/
                 Length: 278<br/>                   </p>
             </div>
         </div>
+            <div class="block">
+            <div class="date left"><p class="left">2022</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Stranger Who Was Myself</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/81XdPZXiUoL._SY522_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Peepal Tree Press<br/>
+                Pub_location: Leeds, England<br/>
+                Genre: Memoir<br/>
+                Length: 278<br/>                   </p>
+            </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
