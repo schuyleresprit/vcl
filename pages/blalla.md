@@ -7,7 +7,7 @@ permalink: /blalla/
 <div class="content"> 
 <h1>Barbara Lalla</h1>
     <div class="quote">
-        <div><img src="https://sidebarwriting.files.wordpress.com/2016/04/dsc_0109.jpg" class="logo"></div>
+        <div><img src="https://sidebarwriting.files.wordpress.com/2016/04/dsc_0109.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -28,8 +28,8 @@ permalink: /blalla/
             <div class="date left"><p class="left">1998</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Arch of fire</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347703741l/2494263.jpg"></p>
+                <h1>Arch of Fire</h1><hr>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347703741l/2494263.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Kingston Publishers<br/>
@@ -44,7 +44,7 @@ permalink: /blalla/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Flammendes Land Roman</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md3570154521.jpg"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md3570154521.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: German<br/>
                 Publisher: Verl.-Haus<br/>
@@ -59,8 +59,8 @@ permalink: /blalla/
             <div class="date left"><p class="left hide">2010</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Cascade : a novel </h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41aXCsBe9nL.jpg"></p>
+                <h1>Cascade : A Novel </h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/41aXCsBe9nL.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: The University of The West Indies Press<br/>
@@ -75,7 +75,7 @@ permalink: /blalla/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Grounds For Tenure</h1><hr>
-                <p><img src="https://up.bookfusion.com/book/cover/000/122/548/large_21d43aa20452d5e1.jpeg"></p>
+                <p><img src="https://up.bookfusion.com/book/cover/000/122/548/large_21d43aa20452d5e1.jpeg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: The University of The West Indies Press<br/>
@@ -89,8 +89,8 @@ permalink: /blalla/
             <div class="date left"><p class="left hide">2021</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>One thousand eyes</h1><hr>
-                <p><img src="https://up.bookfusion.com/book/cover/001/916/009/large_7d2f40e75bc7ee01.jpeg"></p>
+                <h1>One Thousand Eyes</h1><hr>
+                <p><img src="https://up.bookfusion.com/book/cover/001/916/009/large_7d2f40e75bc7ee01.jpeg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: The University of The West Indies Press<br/>
