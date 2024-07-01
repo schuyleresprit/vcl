@@ -7,7 +7,7 @@ permalink: /bphilippe/
 <div class="content">
     <h1>Ben Philippe</h1>
     <div class="quote">
-        <div><img src="https://i.harperapps.com/authors/48027/x500.JPG" class="logo"></div>
+        <div><img src="https://i.harperapps.com/authors/48027/x500.JPG" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -23,11 +23,39 @@ permalink: /bphilippe/
             </div>
         </div>
         <div class="block">
+            <div class="date left"><p class="left">2019</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>The Field Guide to the North American Teenager</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/91TCO0GQgvL._SY522_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Balzer + Bray<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 384<br/>                   </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2020</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>Charming as a Verb</h1><hr>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582830300i/49867239.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Balzer + Bray<br/>
+                Pub_location: New York, NY, United States<br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 328<br/>                   </p>
+            </div>
+        </div>
+        <div class="block">
             <div class="date left"><p class="left">2021</p></div>
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Sure, I'll Be Your Black Friend: Notes From The Other Side Of The Fist Bump</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41xIr892z7L._SX327_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600876382i/54698705.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Harper<br/>
