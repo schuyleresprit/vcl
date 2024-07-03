@@ -7,7 +7,7 @@ permalink: /colabra/
 <div class="content">
     <h1>Carilda Oliver Labra</h1>
     <div class="quote">
-        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UyvgLHXy8FVLTbDW8MPj_3jc8rYD-VjNUa2UoByPwl1IxHqM9-LFJB_LQSx8iX7xtIw&usqp=CAU" class="logo"></div>
+        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UyvgLHXy8FVLTbDW8MPj_3jc8rYD-VjNUa2UoByPwl1IxHqM9-LFJB_LQSx8iX7xtIw&usqp=CAU" height="30%" width = "30%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,7 +29,7 @@ permalink: /colabra/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Sombra Sere Que No Dama: Antologia Poetica</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=QWTmAAAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73FC9gT1Y7H3-DPbrgapZG3JjnGqgoI6dzZg5H8h0cn2H4AjCN-K4Z327zBwElcc7VoYr5_6ePYa_-aMgLIvsMO3OPZdTFw8EUIe_RyJ7XJmzD-Ebc2y3P8RKZJ4Q4EfJHCyZfO"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UyvgLHXy8FVLTbDW8MPj_3jc8rYD-VjNUa2UoByPwl1IxHqM9-LFJB_LQSx8iX7xtIw&usqp=CAU" height="30%" width = "30%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Ediciones Unión<br/>
