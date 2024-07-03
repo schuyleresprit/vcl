@@ -7,7 +7,7 @@ permalink: /bgilroy/
 <div class="content">
      <h1>Beryl Gilroy</h1>
     <div class="quote">
-        <div><img src="https://www.peepaltreepress.com/sites/default/files/styles/author_large/public/Beryl%20Gilroy.jpg?itok=e87cOulk" height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,7 +29,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>The Busy Book</h1><hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Longman Inc.<br/>
@@ -43,7 +43,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>The Green And Gold Readers</h1><hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Longman Inc.<br/>
@@ -57,7 +57,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>The Green And Gold Readers. Book 4</h1><hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Longman Inc.<br/>
@@ -70,8 +70,8 @@ permalink: /bgilroy/
             <div class="date right"><p class="right">1973</p></div>
             <div class="dot"></div>
             <div class="left">
-                <h1>The Paper Bag<<hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <h1>The Paper Bag</h1><hr>
+                <p><img src="https://pbs.twimg.com/media/GPNw2BtXEAApV4L.jpg:large" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
@@ -84,7 +84,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>No More Pets</h1><hr>
-                <p><img src="https://blogs.bl.uk/.a/6a00d8341c464853ef027880720694200d-500wi" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
@@ -98,7 +98,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>New Shoes</h1><hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
@@ -112,7 +112,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>Once Upon A Time</h1><hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
@@ -126,7 +126,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>Grandpa's Footsteps ;Auntie Olive's Wedding ;Elvira</h1><hr>
-                <p><img src="IMAGE LINK" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
@@ -140,7 +140,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>Arthur Small</h1><hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Macmillan Publishers<br/>
@@ -154,7 +154,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>Da Jeg Var Syg</h1><hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: Danish<br/>
 	    Translation: Y<br/>
@@ -169,7 +169,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>Carnival Of Dreams</h1><hr>
-                <p><img src="" height="50%" width = "50%"></p>
+                <p><img src="https://mediadiversified.org/wp-content/uploads/2013/09/beryl-gilroy1.jpg" height="30%" width = "30%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Modern Curriculum Press<br/>
@@ -183,7 +183,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>Frangipani House</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41vNK0CKJnL._SY291_BO1,204,203,200_QL40_ML2_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356136156i/2745403.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Heinemann<br/>
@@ -197,7 +197,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>Echoes And Voices: Open-Heart Poetry</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/518rPJL+xeL._SX373_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/518rPJL+xeL._SX373_BO1,204,203,200_.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher:Vantage Press <br/>
@@ -211,7 +211,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>Boy-Sandwich Ein Roman Zwischen Jamaika Und London</h1><hr>
-                <p><img src="https://pictures.abebooks.com/isbn/9783889773180-uk.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://pictures.abebooks.com/isbn/9783889773180-uk.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: German<br/>
 	    Translation: Y<br/>
@@ -226,7 +226,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>Black Teacher</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51N0z5J2UAL._SX319_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51N0z5J2UAL._SX319_BO1,204,203,200_.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Bogle-L'Ouverture Publications<br/>
@@ -240,7 +240,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>Inkle And Yarico</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51Pk6XrC1EL._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51Pk6XrC1EL._AC_UF1000,1000_QL80_.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
@@ -254,7 +254,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>Leaves In The Wind: Collected Writings</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41T8PGP0HPL._AC_SY1000_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41T8PGP0HPL._AC_SY1000_.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Mango Publishing<br/>
@@ -268,7 +268,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>Black Teacher</h1><hr>
-                <p><img src="https://static.faber.co.uk/wp-content/uploads/2022/09/Black-Teacher-1-429x690.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://static.faber.co.uk/wp-content/uploads/2022/09/Black-Teacher-1-429x690.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Royal National Institute for the Blind<br/>
@@ -282,7 +282,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>The Green Grass Tango</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51jm0fHht-L._SX302_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51jm0fHht-L._SX302_BO1,204,203,200_.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
@@ -296,7 +296,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>In Praise Of Love And Children</h1><hr>
-                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9780948833892.jpg?itok=F78KCd-L" height="50%" width = "50%"></p>
+                <p><img src="https://www.peepaltreepress.com/sites/default/files/styles/book_cover_large/public/9780948833892.jpg?itok=F78KCd-L" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
@@ -310,7 +310,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="right">
                 <h1>Sunlight On Sweet Water</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/71jcIVdJ8cL._AC_UF700,800_QL80_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/71jcIVdJ8cL._AC_UF700,800_QL80_.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: English<br/>
@@ -324,7 +324,7 @@ permalink: /bgilroy/
             <div class="dot"></div>
             <div class="left">
                 <h1>Frangipani House</h1><hr>
-                <p><img src="https://charranschaguanas.com/wp-content/uploads/2020/09/Prod-IMG-fragipani-house.png" height="50%" width = "50%"></p>
+                <p><img src="https://charranschaguanas.com/wp-content/uploads/2020/09/Prod-IMG-fragipani-house.png" height="40%" width = "40%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Pearson<br/>
