@@ -7,7 +7,7 @@ permalink: /caparsons/
 <div class="content">
     <h1>Captain Anthony Parsons</h1>
     <div class="quote">
-        <div><img src="https://digitallibrary.un.org/record/490026/files/Parsons-Sir%2520Anthony.jpg" class="logo"></div>
+        <div><img src="https://digitallibrary.un.org/record/490026/files/Parsons-Sir%2520Anthony.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /caparsons/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Lost Safe - A Baffling Mystery With A Dramatic Conclusion</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://digitallibrary.un.org/record/490026/files/Parsons-Sir%2520Anthony.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Planters' Punch<br/>
