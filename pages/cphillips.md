@@ -82,7 +82,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Final Passage</h1><hr>
-                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+17144866_140.jpg?allowDefault=false&client=WorldcatOrgUI" height="50%" width = "50%"></p>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/f/fb/C_Phillips_Final_Passage_1985.JPG" height="50%" width = "50%"></p>
                 <p>Language: English<br/>
                 Publisher: Faber and Faber<br/>
                 Pub_location:  London, England<br/>
@@ -95,7 +95,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>A State of Independence</h1><hr>
-                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCuqh-zpWIDNbbFH46RQI683_vKvlHUSrPJ679XZ19PzkNxOS" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709637920i/2725244.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Collier Books<br/>
@@ -109,7 +109,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The European Tribe</h1><hr>
-                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTQHjy1_6CK443CR5i1YisaO3DDEQ_O5HpnwFBZn8QR3HRsQMe" height="50%" width = "50%"></p>
+                <p><img src="https://upload.wikimedia.org/wikipedia/en/1/14/TheEuropeanTribe.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Vintage Books<br/>
@@ -137,7 +137,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Higher Ground</h1><hr>
-                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxSC8ZZTpTA7nbusJXy9II1yTLGyZ_FZmiUYfObuPUgCCBJQes" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500025080i/35672623.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Vintage Books<br/>
@@ -151,7 +151,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Cambridge</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51Bj3RdbyML._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1214772785i/1980291.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Bloombury Publishing<br/>
@@ -193,7 +193,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Abschied Von Der Tropeninsel Roman</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/21BA869J94L._BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/21BA869J94L.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: German<br/>
                 Publisher: Fischer Taschenbuch<br/>
@@ -417,7 +417,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Een Nieuwe Wereldorde</h1><hr>
-                <p><img src="https://media.s-bol.com/Eq6RVyK2wJKg/517x840.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://www.deslegte.com/images/cached/resample/jpg/data/uploads/575/914/cms_visual_1447599.jpg_1596191499000_575x914-fb55e0c5d7.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Dutch<br/>
                 Publisher: De Bezige Bij<br/>
@@ -571,7 +571,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Främlingar: Tre Engelska Liv</h1><hr>
-                <p><img src="https://www.smakprov.se/app/uploads/2021/10/9789146218159.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://book-info.studentapan.live/image/9789146218159-fraemlingar-tre-engelska-liv.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Swedish<br/>
                 Publisher: Wahlström & Widstrand<br/>
@@ -627,7 +627,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Wasted Years</h1><hr>
-                <p><img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/3503/9781350300064.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/61H2eJq7YhL._SY522_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Alexander Street Press<br/>
@@ -753,7 +753,7 @@ permalink: /cphillips/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Dinner in the Village</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/71mT6vU7-tL._CR0%2C0%2C0%2C130_.jpgK" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/71mT6vU7-tL._CR0%2C0%2C0%2C130_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: BBC Radio 4<br/>
