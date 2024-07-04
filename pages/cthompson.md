@@ -12,7 +12,7 @@ permalink: /cthompson/
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-            <div class="date right"><p class="right"> B. ??? </p></div>
+            <div class="date right"><p class="right"> 1907 - Unknown </p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
@@ -29,7 +29,7 @@ permalink: /cthompson/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>These My People</h1><hr>
-                <p><img src="https://t4.ftcdn.net/jpg/03/40/12/49/360_F_340124934_bz3pQTLrdFpH92ekknuaTHy8JuXgG7fi.jpg"></p>
+                <p><img src="https://ufdcimages.uflib.ufl.edu/AA/00/03/05/92/00001/PR9265-9-T55T451943_dj.jpg"></p>
                 <p>
                 Language: English <br/>
                 Publisher: The Herald Ltd. Printers		 <br/>
