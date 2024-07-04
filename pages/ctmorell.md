@@ -29,7 +29,7 @@ permalink: /ctmorell/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Archivo de Guerra para Mujeres Decentes</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md16032889538.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://http2.mlstatic.com/D_NQ_NP_803460-MLA45379170402_032021-O.webp" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Culturales Hierbabuena SRL<br/>
