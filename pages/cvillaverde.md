@@ -7,7 +7,7 @@ permalink: /cvillaverde/
 <div class="content">
     <h1>Cirilo Villaverde</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Cirilo_Villaverde.jpg" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Cirilo_Villaverde.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -28,8 +28,8 @@ permalink: /cvillaverde/
             <div class="date left"><p class="left">1980</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>La joven de la flecha del oro</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=PpECAAAAYAAJ&pg=PA3&img=1&zoom=3&hl=en&sig=ACfU3U3aIDZdZRvEY2dBww7Q2qQS-x0skw&w=1025.jpg"></p>
+                <h1>La Joven de la Flecha del Oro</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/91ODlOX2A5L._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Letras Cubanas<br/>
@@ -43,7 +43,7 @@ permalink: /cvillaverde/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>El Guajiro</h1><hr>
-                <p><img src=""></p>
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Cirilo_Villaverde.png" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: "La imprenta - Lucha por la educación"<br/>
                 Pub_location: Havana, Cuba<br/>
@@ -56,12 +56,25 @@ permalink: /cvillaverde/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Cecilia Valdés o La Loma del Angel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51UHGZ+oOdL.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51UHGZ+oOdL.jpg" height="50%" width = "50%"></p>
                 <p>Language: Spanish<br/>
                 Publisher: Ediciones Cátedra<br/>
                 Pub_location: Madrid, Spain<br/>
                 Genre: Fiction<br/>
                 Length: 639</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">1890</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>Dos Amores</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/51JyJpaxkaL._AC_UF1000,1000_QL80_.jpg" height="70%" width = "70%"></p>
+                <p>Language: Spanish<br/>
+                Publisher: "La imprenta - Lucha por la educación"<br/>
+                Pub_location: Havana, Cuba<br/>
+                Genre: Fiction<br/>
+                Length: 144</p>
             </div>
         </div>
 </div>
