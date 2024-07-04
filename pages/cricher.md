@@ -7,17 +7,17 @@ permalink: /cricher/
 <div class="content">
      <h1>Clément Richer</h1>
     <div class="quote">
-        <div><img src="https://montraykreyol.org/sites/default/files/styles/medium/public/gfg.jpg?itok=sD-OBmi1" class="logo"></div>
+        <div><img src="#" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
         <div class="block">
-             <div class="date right"><p class="right"> 1933-2018</p></div>
+             <div class="date right"><p class="right"> 1914 - 1971</p></div>
             <div class="dot"></div>
             <div class="left first">
             <div class="author_country">
                 <h1>Author Country</h1><hr>
-          <div class="aclocation">  <p>Clément Richer is from <a href="{{ site.baseurl }}/62">Canada.</a></p></div>
+          <div class="aclocation">  <p>Clément Richer is from <a href="{{ site.baseurl }}/8">Martinique</a></p></div>
               <div class="acreadmore">  <a href="NA" target="_blank">Read more</a></div>
             </div>
             </div>
@@ -26,7 +26,7 @@ permalink: /cricher/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Ti-Coyo Et Son Requin</h1><hr>
-                <p><img src="https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/1/6/3/009841163.jpg"></p>
+                <p><img src="https://fr.shopping.rakuten.com/photo/2649158600.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Plon<br/>
@@ -40,7 +40,7 @@ permalink: /cricher/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Les Passagers Du Perwyn</h1><hr>
-                <p><img src="https://pictures.abebooks.com/inventory/md/md22526034552.jpg"></p>
+                <p><img src="https://pictures.abebooks.com/inventory/md/md22526034552.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Stock, Delamain et Boutelleau<br/>
@@ -54,7 +54,7 @@ permalink: /cricher/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Len Sly: Roman</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41XG0ZJvDGL._SX338_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41XG0ZJvDGL._SX338_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French<br/>
                 Publisher: Plon<br/>
