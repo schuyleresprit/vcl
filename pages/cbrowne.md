@@ -41,7 +41,7 @@ permalink: /cbrowne/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Feather Your Tingaling</h1><hr>
-                <p><img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Jamaica_Kincaid_-_At_the_Bottom_of_the_River.jpeg"></p>
+                <p><img src="https://camo.githubusercontent.com/2f9ed0921d48ac8d454bca77e99f95727097c7515a350026bd318e76f81e603b/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313531383233343037393732333938363934352f743576446a4e36365f343030783430302e6a7067"></p>
                 <p>
                 Language: English <br/> 	
                 Publisher: Troubador Publishing Ltd <br/>
