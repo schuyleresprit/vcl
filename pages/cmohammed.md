@@ -21,23 +21,8 @@ permalink: /cmohammed/
               <div class="acreadmore">  <a href="NA" target="_blank">Read more</a> </div>
             </div>
             </div>
-        </div>
         <div class="block">
-            <div class="date left"><p class="left">2022</p></div>
-            <div class="dot"></div>
-            <div class="right hide">
-                <h1>"London England"</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg"></p>
-                <p>
-                Language: English<br/>
-                Publisher: Books by Jacaranda Books Art Music Ltd<br/>
-                Pub_location: London, England<br/>
-                Genre: Fiction (Short Story Collection)<br/>
-                Length: 211</p>
-            </div>
-        </div>
-        <div class="block">
-            <div class="date right"><p class="right">2022</p></div>
+            <div class="date right"><p class="right">2021</p></div>
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Pleasant View</h1><hr>
@@ -47,6 +32,20 @@ permalink: /cmohammed/
                 Pub_location: London, England<br/>
                 Genre: Fiction (Short Story Collection)<br/>
                 Length: 230</p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date left"><p class="left">2023</p></div>
+            <div class="dot"></div>
+            <div class="right hide">
+                <h1>A Different Energy: Women in Caribbean Oil & Gas</h1><hr>
+                <p><img src="https://m.media-amazon.com/images/I/618mFaNIV5L._SY522_.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English<br/>
+                Publisher: Words Matter Communications Limited<br/>
+                Pub_location: Port of Spain, Trinidad & Tobago<br/>
+                Genre: Non-Fiction<br/>
+                Length: 208</p>
             </div>
         </div>
 </div>
