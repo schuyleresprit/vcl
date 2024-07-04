@@ -27,7 +27,7 @@ permalink: /ccraig/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Emanuel and His Parrot</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51isbf6+NYL._SX258_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/91ziOJUdo0L._SX679_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Oxford University Press<br/>
