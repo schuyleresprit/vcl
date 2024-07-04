@@ -7,7 +7,7 @@ permalink: /cbustamante/
 <div class="content">
     <h1>Cecilia Bustamante</h1>
     <div class="quote">
-        <div><img src="http://2.bp.blogspot.com/_1cwQvzB5Ngc/TSIQ1GdB95I/AAAAAAAAAFQ/HCcDdMZB6ZU/s400/cecilia%2Bbustamante.jpg" class="logo"></div>
+        <div><img src="http://2.bp.blogspot.com/_1cwQvzB5Ngc/TSIQ1GdB95I/AAAAAAAAAFQ/HCcDdMZB6ZU/s400/cecilia%2Bbustamante.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /cbustamante/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>El Nombre de las Cosas Poesía</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=FCpCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73__bEyRLcZFaCzVKGiNrIAPbScqRZYUrxSvvG5UZZ3KWqhHmCArmWifIOVqJ8DCZBZi60jZ5D6-HzHVEuMMaoQzCDwbHf1HJQKjHz2Luc7HpCtFwA8AAmhQDVRmPjMNPReLGxl.jpg"></p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQirS23pnsnI4I7XYbDu0u26pIUKapwm_H7Pg&s" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish<br/>
                 Publisher: Editorial Alfa<br/>
