@@ -30,7 +30,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Harlem Shadows: Poems</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=RakIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73MXXKj1qgojKd0n9_ftrHwA5KePqEtYOF5Q7Mhk2uLIm4cInYKFi5SJ0ynJkLee7GQetzj-B4Odvu2dAJRCmS9acpI0NFCiUztTcla02R7TGHhgY3OBSGtjavZg9DtNr25IP7h" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/71EVJkltqyL._AC_UF1000,1000_QL80_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Harcourt Brace Jovanovich <br/>
@@ -60,7 +60,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Domoi Y Garlem</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Russian <br/>
                 Publisher: Zemlia i fabrika <br/>
@@ -90,8 +90,8 @@ permalink: /cmckay/
             <div class="date left"><p class="left">1931</p></div>
             <div class="dot"></div>
             <div class="right hide">
-                <h1>Cock-Tail Negro</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
+                <h1>CockTail Negro</h1><hr>
+                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Ediciones Ulises <br/>
@@ -122,7 +122,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Banana Bottom</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=v6HPAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70CPuLP7VrQ_7saGHp1BVYoFWfSCclrd49HCd9_4sBf2s_tRdHX0mancsvgc_H90Gy3bRWVbX6eHOa9Khywer0sg1nKsqxpx5KexI7LFDa58PDmHijXX9jA2CAhnd-m55MkPbz0" height="50%" width = "50%"></p>
+                <p><img src="https://catalogue.swanngalleries.com/full//963/714963_view%2002_02.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: HarperCollins <br/>
@@ -137,7 +137,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Fond de banane</h1><hr>
-                <p><img src="https://cdn.vectorstock.com/i/preview-1x/48/06/image-preview-icon-picture-placeholder-vector-31284806.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Les Éditions Rieder <br/>
@@ -153,7 +153,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Long Way From Home</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=JHYGAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70O7YcfyNIfo0rzbVXUEd5I-8rAHHnq-H41BnUT5rLde6A2pYTadjNA_yTuxE6E-OIXSS9OXb7_iLxuAdOMEifr1Hn5OhW0baP0xQJwGYpceVJXmuNsuZt3UiSFCNjciUGN9RGV" height="50%" width = "50%"></p>
+                <p><img src="https://books.google.dm/books/content?id=6rlhYUiCfq4C&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U07ybNslgABXkhDT8V447CYw7GPQQ&w=1280" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Rutgers University Press <br/>
@@ -184,7 +184,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Amiable With Big Teeth</h1><hr>
-                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+3972118156_140.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://images3.penguinrandomhouse.com/cover/9780143132219" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Penguin Books <br/>
