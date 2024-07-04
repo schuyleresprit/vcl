@@ -7,7 +7,7 @@ permalink: /cjones/
 <div class="content">
     <h1>Cherie Jones</h1>
     <div class="quote">
-        <div><img src="https://www.bocaslitfest.com/wp-content/uploads/2021/03/cherie-jones.jpg" class="logo"></div>
+        <div><img src="https://www.bocaslitfest.com/wp-content/uploads/2021/03/cherie-jones.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -27,7 +27,7 @@ permalink: /cjones/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Walking Side by Side Devotions for Pilgrims</h1><hr>
-                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0H88KdP6OAhyfTTwo2-e3VJF8mePAxHr_HBpkehx5sES_M3eC"></p>
+                <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0H88KdP6OAhyfTTwo2-e3VJF8mePAxHr_HBpkehx5sES_M3eC" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Upper Room Books  <br/>
@@ -42,7 +42,7 @@ permalink: /cjones/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>The Burning Bush Women and Other Stories</h1><hr>
-                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFo_KgBGDwyBysNGzEpM7XxGQJHqXm6GaJZeoWp3lOZgJAShaa"></p>
+                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFo_KgBGDwyBysNGzEpM7XxGQJHqXm6GaJZeoWp3lOZgJAShaa" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Peepal Tree Press <br/>
@@ -57,7 +57,7 @@ permalink: /cjones/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>How the One-Armed Sister Sweeps Her House: A Novel</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/51qPLqBh+WL.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/51qPLqBh+WL.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Little, Brown and Company <br/>
@@ -72,7 +72,7 @@ permalink: /cjones/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Et d'un seul bras, la soeur balaie sa maison</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/I/41TH6WW1YeS.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/41TH6WW1YeS.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: French <br/>
                 Publisher:  Calmann-Lévy <br/>
