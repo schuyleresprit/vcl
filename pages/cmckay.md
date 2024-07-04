@@ -7,7 +7,7 @@ permalink: /cmckay/
 <div class="content">
     <h1>Claude McKay</h1>
     <div class="quote">
-        <div><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="50%" width = "50%" class="logo"></div>
+        <div><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="40%" width = "40%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -60,7 +60,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Domoi Y Garlem</h1><hr>
-                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: Russian <br/>
                 Publisher: Zemlia i fabrika <br/>
@@ -91,7 +91,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>CockTail Negro</h1><hr>
-                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: Spanish <br/>
                 Publisher: Ediciones Ulises <br/>
@@ -137,7 +137,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Fond de banane</h1><hr>
-                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://cdn.britannica.com/28/2428-004-5D9A681C/McKay.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: French <br/>
                 Publisher: Les Éditions Rieder <br/>
@@ -215,7 +215,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Romance In Marseille</h1><hr>
-                <p><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTfBhXDIWvwYXNjtE01jMOev3fG8uKgOJZoUqpYEf36-ZmAKZX" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/81YBBMzrZWL._SY522_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: Penguin Books <br/>
@@ -245,7 +245,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Songs Of Jamaica</h1><hr>
-                <p><img src="https://coverart.oclc.org/ImageWebSvc/oclc/+-+0757858076_140.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://m.media-amazon.com/images/I/81RjoyWX5yL._SY522_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: A.W. Gardner & Co. <br/>
@@ -260,7 +260,7 @@ permalink: /cmckay/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>If We Must Die: The Essential Claude Mckay</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/31HMJfoNUGL._SX348_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
+                <p><img src="https://legacyprojectchicago.org/sites/default/files/2019-09/Claude%20McKay.jpg" height="40%" width = "40%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: ECCO <br/>
