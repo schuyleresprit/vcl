@@ -7,7 +7,7 @@ permalink: /cnyoung/
 <div class="content">
     <h1>Colville N Young</h1>
     <div class="quote">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Colville_Young_profile_January_2020_%28cropped%29.jpg/220px-Colville_Young_profile_January_2020_%28cropped%29.jpg" class="logo"></div>
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Colville_Young_profile_January_2020_%28cropped%29.jpg/220px-Colville_Young_profile_January_2020_%28cropped%29.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,7 +29,7 @@ permalink: /cnyoung/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Pataki Full: Seven Belizean Short Stories</h1><hr>
-                <p><img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/512MZE3SV2L._SX314_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://m.media-amazon.com/images/I/512MZE3SV2L.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br>
                 Publisher: Cubola Productions<br>
