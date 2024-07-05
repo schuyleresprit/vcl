@@ -29,13 +29,27 @@ permalink: /crwilliams/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Hamel, The Obeah Man</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413746101l/9365358.jpg"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413746101l/9365358.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
                 Publisher: London Hunt and Clarke<br/>
                 Pub_location: London, England <br/>
                 Genre: Fiction (Novel)<br/>
                 Length: 496<br/>                   </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="date right"><p class="right">2018</p></div>
+            <div class="dot"></div>
+            <div class="left hide">
+                <h1>A Tour Through the Island of Jamaica : From the Western to the Eastern End in the Year 1823 1826</h1><hr>
+                <p><img src="https://pictures.abebooks.com/isbn/9781331385707-us.jpg" height="50%" width = "50%"></p>
+                <p>
+                Language: English <br/>
+                Publisher: Forgotten Books<br/>
+                Pub_location: London, England <br/>
+                Genre: Fiction (Novel)<br/>
+                Length: 377<br/>                   </p>
             </div>
         </div>
 </div>
