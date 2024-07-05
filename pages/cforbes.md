@@ -7,7 +7,7 @@ permalink: /cforbes/
 <div class="content">
     <h1>Curdella Forbes</h1>
     <div class="quote">
-        <div><img src="https://aalbc.com/author-photos/Curdella-Forbes.jpg" class="logo"></div>
+        <div><img src="https://aalbc.com/author-photos/Curdella-Forbes.jpg" height="50%" width = "50%" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,7 +29,7 @@ permalink: /cforbes/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>Songs Of Silence</h1><hr>
-                <p><img src="https://aalbc.com/bookcovers/9780435989576.jpg"></p>
+                <p><img src="https://aalbc.com/bookcovers/9780435989576.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Heinemann<br/>
@@ -43,7 +43,7 @@ permalink: /cforbes/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Flying With Icarus And Other Stories</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51RYMQWHVWL._SX304_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/51RYMQWHVWL._SX304_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Walker Books Ltd.<br/>
@@ -57,7 +57,7 @@ permalink: /cforbes/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Permanent Freedom</h1><hr>
-                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61gnXVJuf0L._SX325_BO1,204,203,200_.jpg"></p>
+                <p><img src="https://images-na.ssl-images-amazon.com/images/I/61gnXVJuf0L._SX325_BO1,204,203,200_.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press Ltd<br/>
@@ -71,7 +71,7 @@ permalink: /cforbes/
             <div class="dot"></div>
             <div class="left hide">
                 <h1>Ghosts: A Memoir</h1><hr>
-                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344728449l/15806390.jpg"></p>
+                <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344728449l/15806390.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Peepal Tree Press<br/>
@@ -85,7 +85,7 @@ permalink: /cforbes/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>A Tall History Of Sugar</h1><hr>
-                <p><img src="https://aalbc.com/bookcovers/9781617757518.jpg"></p>
+                <p><img src="https://aalbc.com/bookcovers/9781617757518.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English<br/>
                 Publisher: Akashic Books<br/>
