@@ -42,7 +42,7 @@ permalink: /crwilliams/
             <div class="date right"><p class="right">2018</p></div>
             <div class="dot"></div>
             <div class="left hide">
-                <h1>A Tour Through the Island of Jamaica : From the Western to the Eastern End in the Year 1823 1826</h1><hr>
+                <h1>A Tour Through the Island of Jamaica : From the Western to the Eastern End in the Year 1823</h1><hr>
                 <p><img src="https://pictures.abebooks.com/isbn/9781331385707-us.jpg" height="50%" width = "50%"></p>
                 <p>
                 Language: English <br/>
