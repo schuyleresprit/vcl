@@ -1,0 +1,11 @@
+---
+title: Author Details - rsingh
+author: rsingh
+---
+
+# Author Details - rsingh
+
+<ul>
+    <li><strong>Rsingh:</strong> [{'Author': 'Roopnandan Singh', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'georgetown_guyana', 'Pubdate': '1995', 'Publisher': 'R. Singh', 'Title': 'Wild Maami', 'Translation': 'n'}, {'Author': 'Roopnandan Singh', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'georgetown_guyana', 'Pubdate': '1995', 'Publisher': 'R. Singh', 'Title': 'Eve', 'Translation': 'n'}, {'Author': 'Roopnandan Singh', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'georgetown_guyana', 'Pubdate': '2000', 'Publisher': 'R. Singh, in conjunction with the Association of Guyanese Writers and Artists', 'Title': 'Shadow in the Dark', 'Translation': 'n'}]</li>
+</ul>
+<hr>

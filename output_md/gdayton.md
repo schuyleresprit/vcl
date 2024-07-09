@@ -1,0 +1,11 @@
+---
+title: Author Details - gdayton
+author: gdayton
+---
+
+# Author Details - gdayton
+
+<ul>
+    <li><strong>Gdayton:</strong> [{'Author': 'Geoffrey Drayton', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': '(london)_england', 'Pubdate': '1959', 'Publisher': 'Heinemann', 'Title': 'Christopher (Caribbean Writers S.)', 'Translation': 'n'}, {'Author': 'Geoffrey Drayton', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': '(london)_england', 'Pubdate': '1961', 'Publisher': 'Secker & Warburg', 'Title': 'Zohara', 'Translation': 'n'}]</li>
+</ul>
+<hr>

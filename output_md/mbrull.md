@@ -1,0 +1,11 @@
+---
+title: Author Details - mbrull
+author: mbrull
+---
+
+# Author Details - mbrull
+
+<ul>
+    <li><strong>Mbrull:</strong> [{'Author': 'Mariano Brull', 'Descriptor': 'Contributors: Florit, Eugenio; Ballagas, Emilio; Guillen, Nicolas; Lezama Lima, José ; Vitier, Cintio; Baquero, Gston; Diego, Eliseo; Labra, Carilda Oliver; Rossardi, Orlando', 'Genre': 'Anthology', 'Language': 'Spanish', 'Pub_id': 'montreãåal_qc_canada', 'Pubdate': '1967', 'Publisher': 'Las Américas Publishing', 'Title': 'Poesia Cubana Contemporanea un Ensayo de Antologia', 'Translation': 'n'}, {'Author': 'Mariano Brull', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'Spanish', 'Pub_id': 'boulder_co_united¬†states', 'Pubdate': '2001', 'Publisher': 'Society of Spanish and Spanish American Studies', 'Title': 'Obras : poesía y prosa : 1916-1955', 'Translation': 'n'}, {'Author': 'Mariano Brull', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'Spanish', 'Pub_id': 'miami_fl_united¬†states', 'Pubdate': '1992', 'Publisher': 'Asociación de Hispanistas de las Américas', 'Title': 'En torno a la poética de Mariano Brull', 'Translation': 'n'}, {'Author': 'Mariano Brull', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'Spanish & French', 'Pub_id': 'paris_france', 'Pubdate': '1954', 'Publisher': 'P. Seghers,', 'Title': 'Rien que ... (Nada mas que ...)', 'Translation': 'n'}, {'Author': 'Mariano Brull', 'Descriptor': '', 'Genre': 'Anthology', 'Language': 'Spanish', 'Pub_id': 'madrid_spain', 'Pubdate': '1976', 'Publisher': 'Cultura Hispanica', 'Title': 'La casa del silencio.', 'Translation': 'n'}, {'Author': 'Mariano Brull', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'Spanish', 'Pub_id': 'paris_france', 'Pubdate': '1928', 'Publisher': 'Impr. Le Moil & Pascaly', 'Title': 'Poemas en menguante', 'Translation': 'n'}, {'Author': 'Mariano Brull', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'Spanish', 'Pub_id': 'havana_cuba', 'Pubdate': '1941', 'Publisher': 'La Verónica', 'Title': 'Solo de rosa, poemas', 'Translation': 'n'}]</li>
+</ul>
+<hr>

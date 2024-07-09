@@ -1,0 +1,11 @@
+---
+title: Author Details - dscott
+author: dscott
+---
+
+# Author Details - dscott
+
+<ul>
+    <li><strong>Dscott:</strong> [{'Author': 'Dennis Scott', 'Descriptor': '', 'Genre': 'Fiction (Short Story Collection)', 'Language': 'English', 'Pub_id': 'harlow_england', 'Pubdate': '2008', 'Publisher': 'Longman Inc.', 'Title': 'Plays For Today', 'Translation': 'n'}, {'Author': 'Dennis Scott', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'london_ldn_england', 'Pubdate': '1982', 'Publisher': 'New Beacon Books', 'Title': 'Dreadwalk: Poems, 1970-78', 'Translation': 'n'}, {'Author': 'Dennis Scott', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'kingston_jamaica', 'Pubdate': '1989', 'Publisher': 'Sandberry Press', 'Title': 'Strategies', 'Translation': 'n'}, {'Author': 'Dennis Scott', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'london_ldn_england', 'Pubdate': '2008', 'Publisher': 'Peepal Tree Press', 'Title': 'After-Image', 'Translation': 'n'}, {'Author': 'Dennis Scott', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'pittsburgh_pa_united¬†states', 'Pubdate': '1973', 'Publisher': 'University of Pittsburgh Press', 'Title': 'Uncle Tim', 'Translation': 'n'}, {'Author': 'Dennis Scott', 'Descriptor': '', 'Genre': 'Drama', 'Language': 'English', 'Pub_id': 'port_of_spain_trinidad_&¬†tobago', 'Pubdate': '1966', 'Publisher': 'University of the West Indies', 'Title': 'Terminus', 'Translation': 'n'}, {'Author': 'Dennis Scott', 'Descriptor': '', 'Genre': 'Drama', 'Language': 'English', 'Pub_id': 'alexandria_va_united¬†states', 'Pubdate': '2004', 'Publisher': 'Alexander Street Press', 'Title': 'Dog', 'Translation': 'n'}, {'Author': 'Dennis Scott', 'Descriptor': '', 'Genre': 'Drama', 'Language': 'English', 'Pub_id': 'alexandria_va_united¬†states', 'Pubdate': '2003', 'Publisher': 'Alexander Street Press', 'Title': 'An Echo in the Bone', 'Translation': 'n'}]</li>
+</ul>
+<hr>

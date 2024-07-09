@@ -1,0 +1,11 @@
+---
+title: Author Details - pmarcelin
+author: pmarcelin
+---
+
+# Author Details - pmarcelin
+
+<ul>
+    <li><strong>Pmarcelin:</strong> [{'Author': 'Pierre Marcelin', 'Descriptor': 'Co-Author: Philippe Thoby-Marcelin', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1952', 'Publisher': 'Éditions de la Table ronde', 'Title': 'Le Crayon de Dieu: Roman', 'Translation': 'n'}, {'Author': 'Pierre Marcelin', 'Descriptor': 'Co-Author: Philippe Thoby-Marcelin', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'new_york_ny_united_states', 'Pubdate': '1971', 'Publisher': 'Farrar, Straus and Giroux', 'Title': 'Singing Turtle and Other Tales From Haiti', 'Translation': 'y'}]</li>
+</ul>
+<hr>

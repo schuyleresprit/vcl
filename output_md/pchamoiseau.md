@@ -1,0 +1,11 @@
+---
+title: Author Details - pchamoiseau
+author: pchamoiseau
+---
+
+# Author Details - pchamoiseau
+
+<ul>
+    <li><strong>Pchamoiseau:</strong> [{'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'lincoln_ne_united¬†states', 'Pubdate': '1997', 'Publisher': 'University of Nebraska Press', 'Title': "Chemin-d'école", 'Translation': 'y'}, {'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'lincoln_ne_united¬†states', 'Pubdate': '1999', 'Publisher': 'University of Nebraska Press', 'Title': 'Chronicle of the Seven Sorrows', 'Translation': 'y'}, {'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1982', 'Publisher': 'Éditions Caribéennes', 'Title': 'Manman Dlo Contre la Fée Carabosse', 'Translation': 'n'}, {'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Autobiography/ Memoir', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1990', 'Publisher': 'Hatier', 'Title': "Antan D'enfance", 'Translation': 'n'}, {'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1991', 'Publisher': 'Gallimard', 'Title': 'Solibo Magnifique', 'Translation': 'n'}, {'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1986', 'Publisher': 'Gallimard', 'Title': 'Chronique Des Sept Misères', 'Translation': 'n'}, {'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Nonfiction', 'Language': 'French', 'Pub_id': 'fort_de_france_martinique', 'Pubdate': '1981', 'Publisher': 'Editions Désormeaux', 'Title': 'Delgrès: Les Antilles Sous Bonaparte', 'Translation': 'n'}, {'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Essay', 'Language': 'Italian', 'Pub_id': 'paris_france', 'Pubdate': '1989', 'Publisher': 'Hoa-Qui Editions', 'Title': 'Martinique vue du ciel', 'Translation': 'y'}, {'Author': 'Patrick Chamoiseau', 'Descriptor': '', 'Genre': 'Fiction (Short Story Collection)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1989', 'Publisher': 'Hatier', 'Title': "Au Temps De L'antan: Contes Du Pays Martinique", 'Translation': 'n'}]</li>
+</ul>
+<hr>

@@ -1,0 +1,11 @@
+---
+title: Author Details - vriley
+author: vriley
+---
+
+# Author Details - vriley
+
+<ul>
+    <li><strong>Vriley:</strong> [{'Author': 'Vanessa Riley', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'new_york_ny_united_states', 'Pubdate': '2022', 'Publisher': 'William Morrow Paperbacks', 'Title': 'Island Queen: A Novel', 'Translation': 'n'}]</li>
+</ul>
+<hr>

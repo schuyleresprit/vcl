@@ -1,0 +1,11 @@
+---
+title: Author Details - pajeanty
+author: pajeanty
+---
+
+# Author Details - pajeanty
+
+<ul>
+    <li><strong>Pajeanty:</strong> [{'Author': 'Pierre Alex Jeanty', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'lehigh_acres_fl_united¬†states', 'Pubdate': '2018', 'Publisher': 'Jeanius Publishing LLC', 'Title': 'In Love With You', 'Translation': 'n'}, {'Author': 'Pierre Alex Jeanty', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'lehigh_acres_fl_united¬†states', 'Pubdate': '2018', 'Publisher': 'Jeanius Publishing LLC', 'Title': 'Him', 'Translation': 'n'}, {'Author': 'Pierre Alex Jeanty', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'kansas_city_mo_united¬†states', 'Pubdate': '2019', 'Publisher': 'Andrews McMeel Publishing', 'Title': 'Apologies That Never Came', 'Translation': 'n'}, {'Author': 'Pierre Alex Jeanty', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'lehigh_acres_fl_united¬†states', 'Pubdate': '2021', 'Publisher': 'Jeanius Publishing LLC', 'Title': 'Heal. Grow. Love: Words To Help You Become', 'Translation': 'n'}, {'Author': 'Pierre Alex Jeanty', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'lehigh_acres_fl_united¬†states', 'Pubdate': '2019', 'Publisher': 'Jeanius Publishing LLC', 'Title': 'Ashes Of Her Love', 'Translation': 'n'}, {'Author': 'Pierre Alex Jeanty', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'lehigh_acres_fl_united¬†states', 'Pubdate': '2017', 'Publisher': 'Jeanius Publishing LLC', 'Title': 'Her', 'Translation': 'n'}, {'Author': 'Pierre Alex Jeanty', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'lehigh_acres_fl_united¬†states', 'Pubdate': '2017', 'Publisher': 'Jeanius Publishing LLC', 'Title': 'Her II', 'Translation': 'n'}, {'Author': 'Pierre Alex Jeanty', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'lehigh_acres_fl_united¬†states', 'Pubdate': '2015', 'Publisher': 'Jeanius Publishing LLC', 'Title': 'Unspoken Feelings Of A Gentleman', 'Translation': 'n'}]</li>
+</ul>
+<hr>

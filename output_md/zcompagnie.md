@@ -1,0 +1,11 @@
+---
+title: Author Details - zcompagnie
+author: zcompagnie
+---
+
+# Author Details - zcompagnie
+
+<ul>
+    <li><strong>Zcompagnie:</strong> [{'Author': 'Zoukouyanyan Compagnie', 'Descriptor': '', 'Genre': 'Fiction (Short Story Collection)', 'Language': 'French', 'Pub_id': 'matoury_french_guiana', 'Pubdate': '2009', 'Publisher': 'Ibis Rouge', 'Title': 'Contes de Tortues des Mers du Monde', 'Translation': 'n'}]</li>
+</ul>
+<hr>

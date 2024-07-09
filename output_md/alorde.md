@@ -1,0 +1,11 @@
+---
+title: Author Details - alorde
+author: alorde
+---
+
+# Author Details - alorde
+
+<ul>
+    <li><strong>Alorde:</strong> [{'Author': 'Audre Lorde', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'new_york_ny_united_states', 'Pubdate': '2000', 'Publisher': 'W.W. Norton Company', 'Title': 'The Collected Poems Of Audre Lorde', 'Translation': 'n'}, {'Author': 'Audre Lorde', 'Descriptor': '', 'Genre': 'Nonfiction', 'Language': 'English', 'Pub_id': 'mineola_n.y_united¬†states', 'Pubdate': '1988', 'Publisher': 'Dover Publications - Ixia Press', 'Title': 'A Burst Of Light: And Other Essays', 'Translation': 'n'}, {'Author': 'Audre Lorde', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'new_york_ny_united¬†states', 'Pubdate': '1976', 'Publisher': 'W.W. Norton Company', 'Title': 'Coal', 'Translation': 'n'}, {'Author': 'Audre Lorde', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'new_york_ny_united¬†states', 'Pubdate': '1978', 'Publisher': 'W.W. Norton Company', 'Title': 'Black Unicorn', 'Translation': 'n'}, {'Author': 'Audre Lorde', 'Descriptor': '', 'Genre': 'Nonfiction', 'Language': 'English', 'Pub_id': 'new_york_ny_united¬†states', 'Pubdate': '1982', 'Publisher': 'Crossing Press Publisher', 'Title': 'Zami: A New Spelling Of My Name: A Biomythography', 'Translation': 'n'}, {'Author': 'Audre Lorde', 'Descriptor': '', 'Genre': 'Poem', 'Language': 'English', 'Pub_id': 'bussum_netherlands', 'Pubdate': '1970', 'Publisher': 'Paul Breman Limited', 'Title': 'Cables To Rage', 'Translation': 'n'}]</li>
+</ul>
+<hr>

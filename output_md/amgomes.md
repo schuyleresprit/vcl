@@ -1,0 +1,11 @@
+---
+title: Author Details - amgomes
+author: amgomes
+---
+
+# Author Details - amgomes
+
+<ul>
+    <li><strong>Amgomes:</strong> [{'Author': 'Albert Maria Gomes', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'port_of_spain_trinidad_&_tobago', 'Pubdate': '1931', 'Publisher': 'Albert Gomez', 'Title': 'The Beacon', 'Translation': 'n'}]</li>
+</ul>
+<hr>

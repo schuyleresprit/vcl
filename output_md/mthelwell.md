@@ -1,0 +1,11 @@
+---
+title: Author Details - mthelwell
+author: mthelwell
+---
+
+# Author Details - mthelwell
+
+<ul>
+    <li><strong>Mthelwell:</strong> [{'Author': 'Michael Thelwell', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'new_york_ny_united_states', 'Pubdate': '1980', 'Publisher': 'Grove Press', 'Title': 'The Harder They Come', 'Translation': 'n'}, {'Author': 'Michael Thelwell', 'Descriptor': '', 'Genre': 'Nonfiction', 'Language': 'English', 'Pub_id': 'new_york_ny_united_states', 'Pubdate': '1980', 'Publisher': 'Grove Press', 'Title': 'Nine Night Version: Excerpted By The Massachusetts Review From The Harder they Come', 'Translation': 'n'}]</li>
+</ul>
+<hr>

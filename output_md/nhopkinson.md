@@ -1,0 +1,11 @@
+---
+title: Author Details - nhopkinson
+author: nhopkinson
+---
+
+# Author Details - nhopkinson
+
+<ul>
+    <li><strong>Nhopkinson:</strong> [{'Author': 'Nalo Hopkinson', 'Descriptor': '', 'Genre': 'Fiction (Short Story Collection)', 'Language': 'English', 'Pub_id': 'oakland_ca_united¬†states', 'Pubdate': '2012', 'Publisher': 'PM Press', 'Title': 'Report From Planet Midnight Plus "Message In A Bottle" And "Shift" And "Correcting The Balance" Outspoken Interview', 'Translation': 'n'}, {'Author': 'Nalo Hopkinson', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'new_york_ny_united_states', 'Pubdate': '2014', 'Publisher': 'Aspect', 'Title': 'Midnight Robber', 'Translation': 'n'}, {'Author': 'Nalo Hopkinson', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'new_york_ny_united_states', 'Pubdate': '1988', 'Publisher': 'Grand Central Publishing', 'Title': 'Brown Girl In The Ring', 'Translation': 'n'}, {'Author': 'Nalo Hopkinson', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'old_saybrook_united¬†states', 'Pubdate': '2018', 'Publisher': 'Tantor Media', 'Title': 'The Salt Roads', 'Translation': 'n'}, {'Author': 'Nalo Hopkinson', 'Descriptor': '', 'Genre': 'Fiction (Short Story Collection)', 'Language': 'English', 'Pub_id': 'toronto_on_canada', 'Pubdate': '2006', 'Publisher': 'Literature Alive', 'Title': 'Skin Folk: Short Stories', 'Translation': 'n'}, {'Author': 'Nalo Hopkinson', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'modena_italy', 'Pubdate': '2019', 'Publisher': 'Panini Comics', 'Title': 'House Of Whispers. Volume 1', 'Translation': 'n'}, {'Author': 'Nalo Hopkinson', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'new_york_ny_united_states', 'Pubdate': '2020', 'Publisher': 'Vertigo', 'Title': 'House Of Whispers. Volume 2', 'Translation': 'n'}, {'Author': 'Nalo Hopkinson', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'burbank_united¬†states', 'Pubdate': '2020', 'Publisher': 'DC Comics', 'Title': 'House Of Whispers. Volume 3, Issue 13-22', 'Translation': 'n'}]</li>
+</ul>
+<hr>

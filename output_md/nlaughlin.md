@@ -1,0 +1,11 @@
+---
+title: Author Details - nlaughlin
+author: nlaughlin
+---
+
+# Author Details - nlaughlin
+
+<ul>
+    <li><strong>Nlaughlin:</strong> [{'Author': 'Nicholas Laughlin', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'leeds_ldn_england', 'Pubdate': '2019', 'Publisher': 'Peepal Tree Press', 'Title': 'Enemy Luck', 'Translation': 'n'}, {'Author': 'Nicholas Laughlin', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'leeds_ldn_england', 'Pubdate': '2015', 'Publisher': 'Peepal Tree Press', 'Title': 'The Strange Years of My Life', 'Translation': 'n'}, {'Author': 'Nicholas Laughlin', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'port_of_spain_trinidad_&¬†tobago', 'Pubdate': '2018', 'Publisher': 'Peekash Press', 'Title': 'So Many Islands Stories From The Caribbean, Mediterranean, Indian And Pacific Oceans', 'Translation': 'n'}]</li>
+</ul>
+<hr>

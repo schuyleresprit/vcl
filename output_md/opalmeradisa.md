@@ -1,0 +1,11 @@
+---
+title: Author Details - opalmeradisa
+author: opalmeradisa
+---
+
+# Author Details - opalmeradisa
+
+<ul>
+    <li><strong>Opalmeradisa:</strong> [{'Author': 'Opal Palmer Adisa', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'oxford_england', 'Pubdate': '1997', 'Publisher': 'Heinemann', 'Title': 'It Begins with Tears', 'Translation': 'n'}, {'Author': 'Opal Palmer Adisa', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'toronto_canada', 'Pubdate': '1992', 'Publisher': 'Sister Vision, Black', 'Title': 'Tamarind and mango women : poetry', 'Translation': 'n'}, {'Author': 'Opal Palmer Adisa', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'leeds_england', 'Pubdate': '2004', 'Publisher': 'Peepal Tree', 'Title': 'Caribbean passion', 'Translation': 'n'}, {'Author': 'Opal Palmer Adisa', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'london_europe', 'Pubdate': '2007', 'Publisher': 'Mango Pub', 'Title': 'Bake-face and other guava stories', 'Translation': 'n'}, {'Author': 'Opal Palmer Adisa', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'leeds_england', 'Pubdate': '2011', 'Publisher': 'Peepal Tree', 'Title': 'Painting away regrets', 'Translation': 'n'}, {'Author': 'Opal Palmer Adisa', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'oakland_ca_united_states', 'Pubdate': '1989', 'Publisher': 'Jukebox Press', 'Title': 'Traveling women', 'Translation': 'n'}, {'Author': 'Opal Palmer Adisa', 'Descriptor': 'Illustrated by Christa-Ann Davis Molloy', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'basseterre_st._kitts', 'Pubdate': '2017', 'Publisher': 'Plumeria ', 'Title': 'Dance quadrille and play quelbe', 'Translation': 'n'}, {'Author': 'Opal Palmer Adisa', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'leeds_england', 'Pubdate': '2007', 'Publisher': 'Peepal Tree', 'Title': 'Until judgement comes : stories about Jamaican men', 'Translation': 'n'}, {'Author': 'Opal Palmer Adisa', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'English', 'Pub_id': 'leeds_england', 'Pubdate': '2008', 'Publisher': 'Peepal Tree', 'Title': 'I name me name', 'Translation': 'n'}]</li>
+</ul>
+<hr>

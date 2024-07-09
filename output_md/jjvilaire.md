@@ -1,0 +1,11 @@
+---
+title: Author Details - jjvilaire
+author: jjvilaire
+---
+
+# Author Details - jjvilaire
+
+<ul>
+    <li><strong>Jjvilaire:</strong> [{'Author': 'Jean-Joseph Vilaire', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'port_au_prince_haiti', 'Pubdate': '1943', 'Publisher': 'Imp.Telhomme', 'Title': 'Ente Maitres Et Esclaves', 'Translation': 'n'}, {'Author': 'Jean-Joseph Vilaire', 'Descriptor': '', 'Genre': 'Nonfiction', 'Language': 'French', 'Pub_id': 'port_au_prince_haiti', 'Pubdate': '1948', 'Publisher': 'Imp. Telhomme', 'Title': "L'Action De L'Élite Noire A Saint Domingue, Suivi La Guerre Aux Aînés (Ètudes)", 'Translation': 'n'}, {'Author': 'Jean-Joseph Vilaire', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'port_au_prince_haiti', 'Pubdate': '1943', 'Publisher': 'Imp. Telhomme', 'Title': 'Entre Maitres Et Esclaves: Contes', 'Translation': 'n'}, {'Author': 'Jean-Joseph Vilaire', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'port_au_prince_haiti', 'Pubdate': '1949', 'Publisher': "Imprimerie de l'Etat", 'Title': 'Pénsees Et Réflexions', 'Translation': 'n'}, {'Author': 'Jean-Joseph Vilaire', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'port_au_prince_haiti', 'Pubdate': '1954', 'Publisher': "Imprimerie de l'Etat", 'Title': 'Gens Du Peuple Et Gens De La Campagne: Nouvelles', 'Translation': 'n'}]</li>
+</ul>
+<hr>

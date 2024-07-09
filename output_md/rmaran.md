@@ -1,0 +1,11 @@
+---
+title: Author Details - rmaran
+author: rmaran
+---
+
+# Author Details - rmaran
+
+<ul>
+    <li><strong>Rmaran:</strong> [{'Author': 'René Maran', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'oxford_england', 'Pubdate': '1973', 'Publisher': 'Heinemann', 'Title': 'Batouala', 'Translation': 'y'}, {'Author': 'René Maran', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1965', 'Publisher': 'Éditions Albin Michel', 'Title': 'Bêtes de la brousse : roman', 'Translation': 'n'}, {'Author': 'René Maran', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1956', 'Publisher': 'Éditions Albin Michel', 'Title': 'Le livre de la brousse : roman', 'Translation': 'n'}, {'Author': 'René Maran', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': '', 'Pubdate': '2021', 'Publisher': 'Les éditions du Typhon', 'Title': 'Un homme pareil aux autres : roman', 'Translation': 'n'}, {'Author': 'René Maran', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '2021', 'Publisher': 'Le Festin', 'Title': 'Le coeur serré', 'Translation': 'n'}, {'Author': 'René Maran', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'london_ldn_england', 'Pubdate': '1922', 'Publisher': 'Jonathan Cape', 'Title': 'Batouala; a Negro novel from the French of Rene Maran.', 'Translation': 'n'}, {'Author': 'René Maran', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_fr_france', 'Pubdate': '2018', 'Publisher': "L'Harmattan", 'Title': 'Nouvelles africaines et françaises : inédites ou inconnues', 'Translation': 'n'}, {'Author': 'René Maran', 'Descriptor': '', 'Genre': 'Biography', 'Language': 'French', 'Pub_id': 'paris_fr_france', 'Pubdate': '2009', 'Publisher': 'Editions du Dauphin', 'Title': 'Savorgnan de Brazza', 'Translation': 'n'}, {'Author': 'René Maran', 'Descriptor': 'Co-Author: Paul Jouve', 'Genre': 'Nonfiction', 'Language': 'French', 'Pub_id': 'paris_fr_france', 'Pubdate': '1937', 'Publisher': "L'Imprimerie de Vaugirard", 'Title': "Afrique Équatoriale française : terres et races d'avenir", 'Translation': 'n'}]</li>
+</ul>
+<hr>

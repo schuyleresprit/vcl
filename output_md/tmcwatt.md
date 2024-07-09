@@ -1,0 +1,11 @@
+---
+title: Author Details - tmcwatt
+author: tmcwatt
+---
+
+# Author Details - tmcwatt
+
+<ul>
+    <li><strong>Tmcwatt:</strong> [{'Author': 'Tessa McWatt', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'oxford_england', 'Pubdate': '2007', 'Publisher': 'Macmillan Publishers', 'Title': 'This Body', 'Translation': 'n'}, {'Author': 'Tessa McWatt', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'toronto_on_canada', 'Pubdate': '2007', 'Publisher': 'Riverbank Press', 'Title': 'Dragons Cry', 'Translation': 'n'}, {'Author': 'Tessa McWatt', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'brunswick_australia', 'Pubdate': '2022', 'Publisher': 'Scribe Publications', 'Title': 'Snow Line', 'Translation': 'n'}, {'Author': 'Tessa McWatt', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'toronto_on_canada', 'Pubdate': '2005', 'Publisher': 'Riverbank Press', 'Title': "There's No Place Like...", 'Translation': 'y'}, {'Author': 'Tessa McWatt', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'markham_on_canada', 'Pubdate': '2012', 'Publisher': 'Cormorant Books', 'Title': 'Out Of My Skin', 'Translation': 'n'}, {'Author': 'Tessa McWatt', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'Polish', 'Pub_id': 'warszawa_poland', 'Pubdate': '2006', 'Publisher': 'Warszawskie Wydawnictwo Literackie MUZA', 'Title': 'Uwielbiam To Cialo...', 'Translation': 'y'}, {'Author': 'Tessa McWatt', 'Descriptor': 'Translator: Savoie-Bernard, Chloé', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'quebec_canada', 'Pubdate': '2021', 'Publisher': "Memoire d'Encrier", 'Title': 'Anatomie De Ma Honte', 'Translation': 'y'}]</li>
+</ul>
+<hr>

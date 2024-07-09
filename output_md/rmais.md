@@ -1,0 +1,11 @@
+---
+title: Author Details - rmais
+author: rmais
+---
+
+# Author Details - rmais
+
+<ul>
+    <li><strong>Rmais:</strong> [{'Author': 'Roger Mais', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'london_england', 'Pubdate': '1979', 'Publisher': 'Heinemann', 'Title': 'Brother Man', 'Translation': 'n'}, {'Author': 'Roger Mais', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'san_juan_puerto_rico', 'Pubdate': '1988', 'Publisher': 'Longman Caribbean', 'Title': 'Listen, the wind', 'Translation': 'n'}, {'Author': 'Roger Mais', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'leeds_ldn_england', 'Pubdate': '2014', 'Publisher': 'Peepal Tree', 'Title': 'Black lightning', 'Translation': 'n'}]</li>
+</ul>
+<hr>

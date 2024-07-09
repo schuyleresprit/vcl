@@ -9,6 +9,7 @@ def generate_pages():
     except FileNotFoundError:
         print("The file data/publications.json was not found.")
         return
+
     except json.JSONDecodeError:
         print("Error decoding JSON from the file.")
         return

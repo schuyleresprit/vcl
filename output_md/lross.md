@@ -1,0 +1,11 @@
+---
+title: Author Details - lross
+author: lross
+---
+
+# Author Details - lross
+
+<ul>
+    <li><strong>Lross:</strong> [{'Author': 'Leone Ross', 'Descriptor': '', 'Genre': 'Anthology', 'Language': 'English', 'Pub_id': 'london_ldn_england', 'Pubdate': '2014', 'Publisher': 'Fincham Press', 'Title': 'The Trouble With Parallel Universes: New Writing From Roehampton', 'Translation': 'n'}, {'Author': 'Leone Ross', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'london_ldn_england', 'Pubdate': '2016', 'Publisher': 'Fincham Press', 'Title': 'Purple Lights', 'Translation': 'n'}, {'Author': 'Leone Ross', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'london_ldn_england', 'Pubdate': '2021', 'Publisher': 'Faber and Faber', 'Title': 'This One Sky Day', 'Translation': 'n'}, {'Author': 'Leone Ross', 'Descriptor': '', 'Genre': 'Anthology', 'Language': 'English', 'Pub_id': 'london_ldn_england', 'Pubdate': '2021', 'Publisher': 'Fincham Press', 'Title': 'All That Glitters: A Creative Writing Anthology', 'Translation': 'n'}, {'Author': 'Leone Ross', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'English', 'Pub_id': 'london_england', 'Pubdate': '2021', 'Publisher': 'Picador', 'Title': 'Popisho', 'Translation': 'n'}]</li>
+</ul>
+<hr>

@@ -1,0 +1,11 @@
+---
+title: Author Details - ssarduy
+author: ssarduy
+---
+
+# Author Details - ssarduy
+
+<ul>
+    <li><strong>Ssarduy:</strong> [{'Author': 'Severo Sarduy', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1972', 'Publisher': 'Éditions du Seuil', 'Title': 'Cobra', 'Translation': 'y'}, {'Author': 'Severo Sarduy', 'Descriptor': '', 'Genre': 'Fiction (Novel)', 'Language': 'French', 'Pub_id': 'paris_france', 'Pubdate': '1963', 'Publisher': 'Éditions du Seuil', 'Title': 'Gestes', 'Translation': 'y'}, {'Author': 'Severo Sarduy', 'Descriptor': '', 'Genre': 'Poetry Collection', 'Language': 'Spanish', 'Pub_id': 'barcelona_spain', 'Pubdate': '1973', 'Publisher': 'Tusquets Editores S.A.', 'Title': 'Big-Bang', 'Translation': 'n'}]</li>
+</ul>
+<hr>
