@@ -22,5 +22,51 @@
             "Title": "Ka jugu",
             "Translation": "y"
         }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Ana Selić",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Serbian",
+            "Pub_id": "gornji_milanovac_serbia",
+            "Pubdate": "1984",
+            "Publisher": "Decje novine",
+            "Title": "Ulica Migel",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Ana Selić",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Serbian",
+            "Pub_id": "gornji_milanovac_serbia",
+            "Pubdate": "1984",
+            "Publisher": "Decje novine",
+            "Title": "Ulica Migel",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: David Albahari",
+            "Genre": "Fiction (Novel)",
+            "Language": "Serbian",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "Rad",
+            "Title": "U Slobodnoj Drzavi",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: David Albahari",
+            "Genre": "Fiction (Novel)",
+            "Language": "Serbian",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "Rad",
+            "Title": "U Slobodnoj Drzavi",
+            "Translation": "y"
+        }
     ]
 }

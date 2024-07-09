@@ -1,4 +1,52 @@
 {
+    "cphillips": [
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "warszawa_poland",
+            "Pubdate": "2006",
+            "Publisher": "Muza",
+            "Title": "Odlegly Brzeg",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "warszawa_poland",
+            "Pubdate": "2006",
+            "Publisher": "Muza",
+            "Title": "Odlegly Brzeg",
+            "Translation": "y"
+        }
+    ],
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "1987",
+            "Publisher": "Wydaw. Literackie",
+            "Title": "Wide Sargasso Sea",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "1987",
+            "Publisher": "Wydaw. Literackie",
+            "Title": "Wide Sargasso Sea",
+            "Translation": "y"
+        }
+    ],
     "jsalexis": [
         {
             "Author": "Jacques Stephen Alexis",
@@ -20,6 +68,100 @@
             "Pubdate": "1958",
             "Publisher": "Czytelnik",
             "Title": "General Slonce",
+            "Translation": "y"
+        }
+    ],
+    "lpfuentes": [
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "2009",
+            "Publisher": "Wydawnitwo Znak",
+            "Title": "Wichura W Hawanie",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "2009",
+            "Publisher": "Wydawnitwo Znak",
+            "Title": "Wichura W Hawanie",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "1997",
+            "Publisher": "Wydawnictwo Znak",
+            "Title": "Trans W Hawanie",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "1997",
+            "Publisher": "Wydawnictwo Znak",
+            "Title": "Trans W Hawanie",
+            "Translation": "y"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "warszawa_poland",
+            "Pubdate": "1985",
+            "Publisher": "Czytelnik",
+            "Title": "Zakret Rzeki",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "warszawa_poland",
+            "Pubdate": "1985",
+            "Publisher": "Czytelnik",
+            "Title": "Zakret Rzeki",
+            "Translation": "y"
+        }
+    ],
+    "zsmith": [
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "2017",
+            "Publisher": "Wydawnictwo Znak",
+            "Title": "Biale Zeby",
+            "Translation": "y"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Polish",
+            "Pub_id": "krakow_poland",
+            "Pubdate": "2017",
+            "Publisher": "Wydawnictwo Znak",
+            "Title": "Biale Zeby",
             "Translation": "y"
         }
     ]

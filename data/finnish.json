@@ -1,1 +1,210 @@
-{}
+{
+    "cphillips": [
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissaãà_finland",
+            "Pubdate": "1997",
+            "Publisher": "Otava",
+            "Title": "Veren Velka",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissaãà_finland",
+            "Pubdate": "1997",
+            "Publisher": "Otava",
+            "Title": "Veren Velka",
+            "Translation": "y"
+        }
+    ],
+    "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "jyvaãàskylaãà_finland",
+            "Pubdate": "2000",
+            "Publisher": "Gummerus",
+            "Title": "Veressä Viljava Maa",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "jyvaãàskylaãà_finland",
+            "Pubdate": "2000",
+            "Publisher": "Gummerus",
+            "Title": "Veressä Viljava Maa",
+            "Translation": "y"
+        }
+    ],
+    "jkincaid": [
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "hki_finland",
+            "Pubdate": "1986",
+            "Publisher": "Kirjayhtymä",
+            "Title": "Katoava Paratiisi",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "hki_finland",
+            "Pubdate": "1986",
+            "Publisher": "Kirjayhtymä",
+            "Title": "Katoava Paratiisi",
+            "Translation": "y"
+        }
+    ],
+    "mconde": [
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissaãà_hki_finland",
+            "Pubdate": "1981",
+            "Publisher": "Art House",
+            "Title": "Rihata",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissaãà_hki_finland",
+            "Pubdate": "1981",
+            "Publisher": "Art House",
+            "Title": "Rihata",
+            "Translation": "y"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sakari Ahlbäck",
+            "Genre": "Nonfiction",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1983",
+            "Publisher": "Otava Publishing",
+            "Title": "Vapaassa Maassa",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sakari Ahlbäck",
+            "Genre": "Nonfiction",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1983",
+            "Publisher": "Otava Publishing",
+            "Title": "Vapaassa Maassa",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Erkki Haglund",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1990",
+            "Publisher": "Otava Publishing",
+            "Title": "Saapumisen Arvoitus",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Erkki Haglund",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1990",
+            "Publisher": "Otava Publishing",
+            "Title": "Saapumisen Arvoitus",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1984",
+            "Publisher": "Otava Publishing",
+            "Title": "Talo Mr Biswasille",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1984",
+            "Publisher": "Otava Publishing",
+            "Title": "Talo Mr Biswasille",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Seppo Loponen",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1981",
+            "Publisher": "Otava Publishing",
+            "Title": "Joki Tekee Mutkan",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Seppo Loponen",
+            "Genre": "Fiction (Novel)",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1981",
+            "Publisher": "Otava Publishing",
+            "Title": "Joki Tekee Mutkan",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Raija Mattila",
+            "Genre": "Nonfiction",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1983",
+            "Publisher": "Otava Publishing",
+            "Title": "Matka Islamin Maailmaan",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Raija Mattila",
+            "Genre": "Nonfiction",
+            "Language": "Finnish",
+            "Pub_id": "helsingissä_hki_finland",
+            "Pubdate": "1983",
+            "Publisher": "Otava Publishing",
+            "Title": "Matka Islamin Maailmaan",
+            "Translation": "y"
+        }
+    ]
+}

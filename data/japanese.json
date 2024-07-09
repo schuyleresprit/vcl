@@ -1,4 +1,50 @@
 {
+    "cphillips": [
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "2007",
+            "Publisher": "Akashi Shoten",
+            "Title": "Atarashii Sekai No Katachi: Kokujin No Rekishi Bunka To Diasupora No Sekai Chizu",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "2007",
+            "Publisher": "Akashi Shoten",
+            "Title": "Atarashii Sekai No Katachi: Kokujin No Rekishi Bunka To Diasupora No Sekai Chizu",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "2011",
+            "Publisher": "Iwanamishoten",
+            "Title": "Harukanaru Kishibe",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "2011",
+            "Publisher": "Iwanamishoten",
+            "Title": "Harukanaru Kishibe",
+            "Translation": "y"
+        }
+    ],
     "dlaferrière": [
         {
             "Author": "Dany Laferrière",
@@ -67,6 +113,54 @@
             "Translation": "y"
         }
     ],
+    "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "",
+            "Pubdate": "2011",
+            "Publisher": "Sakuhinsha",
+            "Title": "Honegari no Toki",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "",
+            "Pubdate": "2011",
+            "Publisher": "Sakuhinsha",
+            "Title": "Honegari no Toki",
+            "Translation": "y"
+        }
+    ],
+    "elovelace": [
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "1979",
+            "Publisher": "Misuzu Shobo",
+            "Title": "Doragon Wa Odorenai",
+            "Translation": "y"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "1979",
+            "Publisher": "Misuzu Shobo",
+            "Title": "Doragon Wa Odorenai",
+            "Translation": "y"
+        }
+    ],
     "gcinfante": [
         {
             "Author": "Guillermo Cabrera Infante",
@@ -88,6 +182,122 @@
             "Pubdate": "1983",
             "Publisher": "Shueisha",
             "Title": "Naki Ouji No Tameno Habaana",
+            "Translation": "y"
+        }
+    ],
+    "hgdlisser": [
+        {
+            "Author": "H. G. De Lisser",
+            "Descriptor": "Atsuko, Satō",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "2002",
+            "Publisher": "Satō Atsuko",
+            "Title": "Rōzukan no Shiroi Majo",
+            "Translation": "y"
+        },
+        {
+            "Author": "H. G. De Lisser",
+            "Descriptor": "Atsuko, Satō",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "2002",
+            "Publisher": "Satō Atsuko",
+            "Title": "Rōzukan no Shiroi Majo",
+            "Translation": "y"
+        }
+    ],
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Kishimoto Sachiko",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "1988",
+            "Publisher": "Hayakawa Publishing (早川書房)",
+            "Title": "カルテット / (Karutetto)",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Kishimoto Sachiko",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_japan",
+            "Pubdate": "1988",
+            "Publisher": "Hayakawa Publishing (早川書房)",
+            "Title": "カルテット / (Karutetto)",
+            "Translation": "y"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Roland Adlerberth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "kyoto_japan",
+            "Pubdate": "1985",
+            "Publisher": "Jinbun Shoin",
+            "Title": "Indo Yami No Ryoiki",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Roland Adlerberth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "kyoto_japan",
+            "Pubdate": "1985",
+            "Publisher": "Jinbun Shoin",
+            "Title": "Indo Yami No Ryoiki",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_kantō_japan",
+            "Pubdate": "1983",
+            "Publisher": "TBS-Brittanica",
+            "Title": "Isuramu Kiko",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Japanese",
+            "Pub_id": "tokyo_kantō_japan",
+            "Pubdate": "1983",
+            "Publisher": "TBS-Brittanica",
+            "Title": "Isuramu Kiko",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Takeshi Onodera;",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "ティビーエス・ブリタニカ",
+            "Title": "Kurai Kawa",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Takeshi Onodera;",
+            "Genre": "Fiction (Novel)",
+            "Language": "Japanese",
+            "Pub_id": "",
+            "Pubdate": "1981",
+            "Publisher": "ティビーエス・ブリタニカ",
+            "Title": "Kurai Kawa",
             "Translation": "y"
         }
     ]

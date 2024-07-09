@@ -1,4 +1,212 @@
 {
+    "asalkey": [
+        {
+            "Author": "Andrew Salkey",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1970",
+            "Publisher": "Høst",
+            "Title": "Orkanen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Andrew Salkey",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1970",
+            "Publisher": "Høst",
+            "Title": "Orkanen",
+            "Translation": "y"
+        }
+    ],
+    "bgilroy": [
+        {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "Hales, Robert",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1980",
+            "Publisher": "Munksgaard",
+            "Title": "Da Jeg Var Syg",
+            "Translation": "y"
+        },
+        {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "Hales, Robert",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1980",
+            "Publisher": "Munksgaard",
+            "Title": "Da Jeg Var Syg",
+            "Translation": "y"
+        }
+    ],
+    "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1999",
+            "Publisher": "Fremad",
+            "Title": "Livet er en Underlig Gave",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1999",
+            "Publisher": "Fremad",
+            "Title": "Livet er en Underlig Gave",
+            "Translation": "y"
+        }
+    ],
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Jasim, Falah Rahim",
+            "Genre": "Fiction (Novel)",
+            "Language": "Arabic",
+            "Pub_id": "baghdad_iraq",
+            "Pubdate": "1987",
+            "Publisher": "Dar al-Ma'mun",
+            "Title": "Wide Sargasso Sea",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Jasim, Falah Rahim",
+            "Genre": "Fiction (Novel)",
+            "Language": "Arabic",
+            "Pub_id": "baghdad_iraq",
+            "Pubdate": "1987",
+            "Publisher": "Dar al-Ma'mun",
+            "Title": "Wide Sargasso Sea",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Hertel, Lisbeth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1982",
+            "Publisher": "Tiderne Skifter",
+            "Title": "Voyage In The Dark",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Hertel, Lisbeth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1982",
+            "Publisher": "Tiderne Skifter",
+            "Title": "Voyage In The Dark",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1985",
+            "Publisher": "Tiderne Skifter",
+            "Title": "Good Morning, Midnight",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1985",
+            "Publisher": "Tiderne Skifter",
+            "Title": "Good Morning, Midnight",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Hertel, Lisbeth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1983",
+            "Publisher": "Tiderne Skifter",
+            "Title": "Quartet",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Hertel, Lisbeth",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1983",
+            "Publisher": "Tiderne Skifter",
+            "Title": "Quartet",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1981",
+            "Publisher": "Tiderne Skifter",
+            "Title": "Efter Bruddet",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1981",
+            "Publisher": "Tiderne Skifter",
+            "Title": "Efter Bruddet",
+            "Translation": "y"
+        }
+    ],
+    "mjachancy": [
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Forlaget Rebel With a Cause",
+            "Title": "Englenes Ensomhed",
+            "Translation": "y"
+        },
+        {
+            "Author": "Myriam J. A Chancy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "",
+            "Pubdate": "2019",
+            "Publisher": "Forlaget Rebel With a Cause",
+            "Title": "Englenes Ensomhed",
+            "Translation": "y"
+        }
+    ],
     "pmelville": [
         {
             "Author": "Pauline Melville",
@@ -20,6 +228,76 @@
             "Pubdate": "1999",
             "Publisher": "Kbh",
             "Title": "Bugtalerens Fortælling",
+            "Translation": "y"
+        }
+    ],
+    "sselvon": [
+        {
+            "Author": "Samuel Selvon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "",
+            "Pubdate": "1977",
+            "Publisher": "Olsen & Olsen",
+            "Title": "Moses Ovenpå",
+            "Translation": "y"
+        },
+        {
+            "Author": "Samuel Selvon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "",
+            "Pubdate": "1977",
+            "Publisher": "Olsen & Olsen",
+            "Title": "Moses Ovenpå",
+            "Translation": "y"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1990",
+            "Publisher": "Gyldendal",
+            "Title": "Ankomstens Gåde",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "copenhagen_denmark",
+            "Pubdate": "1990",
+            "Publisher": "Gyldendal",
+            "Title": "Ankomstens Gåde",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "cheyenne_wy_united_states",
+            "Pubdate": "1982",
+            "Publisher": "Hekla Publishing",
+            "Title": "Blandt De Rettroende: En Islamisk Rejse",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Danish",
+            "Pub_id": "cheyenne_wy_united_states",
+            "Pubdate": "1982",
+            "Publisher": "Hekla Publishing",
+            "Title": "Blandt De Rettroende: En Islamisk Rejse",
             "Translation": "y"
         }
     ]

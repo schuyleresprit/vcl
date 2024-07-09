@@ -1,4 +1,116 @@
 {
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Pınar Kür",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1985",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Dörtlü",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Pınar Kür",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1985",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Dörtlü",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Nili Bilkur",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1985",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Ayriliktan Sonra",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Nili Bilkur",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1985",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Ayriliktan Sonra",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Pınar Kür",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1990",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Günaydın geceyarısı",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Pınar Kür",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1990",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Günaydın geceyarısı",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Pınar Kür",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1989",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Karanlıkta yolculuk",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Pınar Kür",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1989",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Karanlıkta yolculuk",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Pınar Kür",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1982",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Geniş geniş bir deniz",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Pınar Kür",
+            "Genre": "Fiction (Novel)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1982",
+            "Publisher": "Can Yayinlari Ltd. Sti.",
+            "Title": "Geniş geniş bir deniz",
+            "Translation": "y"
+        }
+    ],
     "pmelville": [
         {
             "Author": "Pauline Melville",
@@ -42,6 +154,30 @@
             "Pubdate": "2006",
             "Publisher": "Ayrinti Yayinlari",
             "Title": "Hayaletlerin Göçü",
+            "Translation": "y"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1984",
+            "Publisher": "Can Yayınları",
+            "Title": "Miguel Dokagi",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Turkish",
+            "Pub_id": "istanbul_turkey",
+            "Pubdate": "1984",
+            "Publisher": "Can Yayınları",
+            "Title": "Miguel Dokagi",
             "Translation": "y"
         }
     ]

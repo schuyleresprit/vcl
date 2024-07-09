@@ -1,4 +1,50 @@
 {
+    "cphillips": [
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "lisbon_portugal",
+            "Pubdate": "1999",
+            "Publisher": "Editorial Bizâncio",
+            "Title": "A Essência Do Sangue",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "lisbon_portugal",
+            "Pubdate": "1999",
+            "Publisher": "Editorial Bizâncio",
+            "Title": "A Essência Do Sangue",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "rio_de_janeiro_br_brazil",
+            "Pubdate": "2011",
+            "Publisher": "Editora Record",
+            "Title": "A Travessia Do Rio",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "rio_de_janeiro_br_brazil",
+            "Pubdate": "2011",
+            "Publisher": "Editora Record",
+            "Title": "A Travessia Do Rio",
+            "Translation": "y"
+        }
+    ],
     "gcinfante": [
         {
             "Author": "Guillermo Cabrera Infante",
@@ -20,6 +66,168 @@
             "Pubdate": "1988",
             "Publisher": "Companhia das Letras",
             "Title": "Vista do Amanhecer no Trópico",
+            "Translation": "y"
+        }
+    ],
+    "lpfuentes": [
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Stahel, Monica",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "são_paulo_brazil",
+            "Pubdate": "2020",
+            "Publisher": "Boitempo Editorial",
+            "Title": "Água Por Todos Os Lados",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Stahel, Monica",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "são_paulo_brazil",
+            "Pubdate": "2020",
+            "Publisher": "Boitempo Editorial",
+            "Title": "Água Por Todos Os Lados",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Stahel, Monica",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "são_paulo_brazil",
+            "Pubdate": "2018",
+            "Publisher": "Boitempo Editorial",
+            "Title": "A Transparência Do Tempo",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Stahel, Monica",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "são_paulo_brazil",
+            "Pubdate": "2018",
+            "Publisher": "Boitempo Editorial",
+            "Title": "A Transparência Do Tempo",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1991",
+            "Publisher": "Métailié",
+            "Title": "Vents De Carême",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "paris_fr_france",
+            "Pubdate": "1991",
+            "Publisher": "Métailié",
+            "Title": "Vents De Carême",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "alfragide_portugal",
+            "Pubdate": "1991",
+            "Publisher": "Asa Edições",
+            "Title": "Um Passado Perfeito",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "alfragide_portugal",
+            "Pubdate": "1991",
+            "Publisher": "Asa Edições",
+            "Title": "Um Passado Perfeito",
+            "Translation": "y"
+        }
+    ],
+    "nyoon": [
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "barcarena_portugal",
+            "Pubdate": "2017",
+            "Publisher": "Editorial Presença",
+            "Title": "O Sol Também eE Uma Estrela",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "barcarena_portugal",
+            "Pubdate": "2017",
+            "Publisher": "Editorial Presença",
+            "Title": "O Sol Também eE Uma Estrela",
+            "Translation": "y"
+        }
+    ],
+    "vpinera": [
+        {
+            "Author": "Virgilio Piñera",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Portuguese",
+            "Pub_id": "são_paulo_brazil",
+            "Pubdate": "1989",
+            "Publisher": "Iluminuras",
+            "Title": "Contos Frios: Seguidos De Outros Contos",
+            "Translation": "n"
+        },
+        {
+            "Author": "Virgilio Piñera",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Portuguese",
+            "Pub_id": "são_paulo_brazil",
+            "Pubdate": "1989",
+            "Publisher": "Iluminuras",
+            "Title": "Contos Frios: Seguidos De Outros Contos",
+            "Translation": "n"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "",
+            "Pubdate": "1987",
+            "Publisher": "Companhia das Letras",
+            "Title": "Os Mímicos",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Portuguese",
+            "Pub_id": "",
+            "Pubdate": "1987",
+            "Publisher": "Companhia das Letras",
+            "Title": "Os Mímicos",
             "Translation": "y"
         }
     ]

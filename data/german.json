@@ -1,4 +1,282 @@
 {
+    "acarpentier": [
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1974",
+            "Publisher": "Suhrkamp Verlag",
+            "Title": "Die Methode der Macht",
+            "Translation": "n"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1974",
+            "Publisher": "Suhrkamp Verlag",
+            "Title": "Die Methode der Macht",
+            "Translation": "n"
+        }
+    ],
+    "acesaire": [
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "1987",
+            "Publisher": "München Wien Hanser",
+            "Title": "Gedichte",
+            "Translation": "y"
+        },
+        {
+            "Author": "Aimé Césaire",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "1987",
+            "Publisher": "München Wien Hanser",
+            "Title": "Gedichte",
+            "Translation": "y"
+        }
+    ],
+    "bgilroy": [
+        {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "gottingen_germany",
+            "Pubdate": "1992",
+            "Publisher": "Lamuv-Verlag",
+            "Title": "Boy-Sandwich Ein Roman Zwischen Jamaika Und London",
+            "Translation": "y"
+        },
+        {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "gottingen_germany",
+            "Pubdate": "1992",
+            "Publisher": "Lamuv-Verlag",
+            "Title": "Boy-Sandwich Ein Roman Zwischen Jamaika Und London",
+            "Translation": "y"
+        },
+        {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "gottingen_germany",
+            "Pubdate": "1992",
+            "Publisher": "Lamuv-Verlag",
+            "Title": "Boy-Sandwich Ein Roman Zwischen Jamaika Und London",
+            "Translation": "y"
+        },
+        {
+            "Author": "Beryl Gilroy",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "gottingen_germany",
+            "Pubdate": "1992",
+            "Publisher": "Lamuv-Verlag",
+            "Title": "Boy-Sandwich Ein Roman Zwischen Jamaika Und London",
+            "Translation": "y"
+        }
+    ],
+    "blalla": [
+        {
+            "Author": "Barbara Lalla",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "wetzlar_germany",
+            "Pubdate": "2001",
+            "Publisher": "Verl.-Haus",
+            "Title": "Flammendes Land Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Barbara Lalla",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "wetzlar_germany",
+            "Pubdate": "2001",
+            "Publisher": "Verl.-Haus",
+            "Title": "Flammendes Land Roman",
+            "Translation": "y"
+        }
+    ],
+    "cadam": [
+        {
+            "Author": "Claire Adam",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "2020",
+            "Publisher": "Hoffmann und Campe Verlag",
+            "Title": "Goldkind",
+            "Translation": "n"
+        },
+        {
+            "Author": "Claire Adam",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "2020",
+            "Publisher": "Hoffmann und Campe Verlag",
+            "Title": "Goldkind",
+            "Translation": "n"
+        }
+    ],
+    "cphillips": [
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1996",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Abschied Von Der Tropeninsel Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1996",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Abschied Von Der Tropeninsel Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1997",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Auf Festem Grund Ein Roman In Drei Teilen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1997",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Auf Festem Grund Ein Roman In Drei Teilen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "2003",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Blut Und Asche Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "2003",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Blut Und Asche Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "2011",
+            "Publisher": "München Dt. Verl.-Anst",
+            "Title": "Jener Tag Im Winter Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "2011",
+            "Publisher": "München Dt. Verl.-Anst",
+            "Title": "Jener Tag Im Winter Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "2018",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Emily Und Cambridge Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "2018",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Emily Und Cambridge Roman",
+            "Translation": "y"
+        }
+    ],
+    "dbrand": [
+        {
+            "Author": "Dionne Brand",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2007",
+            "Publisher": "Atrium Verlag",
+            "Title": "Wonach Sich Alle Sehnen: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Dionne Brand",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2007",
+            "Publisher": "Atrium Verlag",
+            "Title": "Wonach Sich Alle Sehnen: Roman",
+            "Translation": "y"
+        }
+    ],
     "dlaferrière": [
         {
             "Author": "Dany Laferrière",
@@ -20,6 +298,170 @@
             "Pubdate": "2013",
             "Publisher": "Wunderhorn",
             "Title": "Das Rätsel Rer Rückkehr Roman",
+            "Translation": "y"
+        }
+    ],
+    "dwalcott": [
+        {
+            "Author": "Derek Walcott",
+            "Descriptor": "Transtors: Sanavio, Annuska Palme; Steele, Fernanda",
+            "Genre": "Drama",
+            "Language": "German",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Adelphi",
+            "Title": "Ti Jean And His Brothers",
+            "Translation": "y"
+        },
+        {
+            "Author": "Derek Walcott",
+            "Descriptor": "Transtors: Sanavio, Annuska Palme; Steele, Fernanda",
+            "Genre": "Drama",
+            "Language": "German",
+            "Pub_id": "",
+            "Pubdate": "1983",
+            "Publisher": "Adelphi",
+            "Title": "Ti Jean And His Brothers",
+            "Translation": "y"
+        }
+    ],
+    "ebrodber": [
+        {
+            "Author": "Erna Brodber",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "gottingen_germany",
+            "Pubdate": "2000",
+            "Publisher": "Lamuv",
+            "Title": "Alabaster-Baby Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Erna Brodber",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "gottingen_germany",
+            "Pubdate": "2000",
+            "Publisher": "Lamuv",
+            "Title": "Alabaster-Baby Roman",
+            "Translation": "y"
+        }
+    ],
+    "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "d√ºsseldorf_germany",
+            "Pubdate": "1996",
+            "Publisher": "Marion von Schröder Verlag",
+            "Title": "Atem, Augen, Erinnerungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "d√ºsseldorf_germany",
+            "Pubdate": "1996",
+            "Publisher": "Marion von Schröder Verlag",
+            "Title": "Atem, Augen, Erinnerungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "m√ºnchen_germany",
+            "Pubdate": "1999",
+            "Publisher": "Claassen",
+            "Title": "Die Süße Saat Der Tränen: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "m√ºnchen_germany",
+            "Pubdate": "1999",
+            "Publisher": "Claassen",
+            "Title": "Die Süße Saat Der Tränen: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "m√ºnchen_germany",
+            "Pubdate": "2000",
+            "Publisher": "Deutscher Taschenbuch-Verlag",
+            "Title": "Die Süße Saat Der Tränen: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "m√ºnchen_germany",
+            "Pubdate": "2000",
+            "Publisher": "Deutscher Taschenbuch-Verlag",
+            "Title": "Die Süße Saat Der Tränen: Roman",
+            "Translation": "y"
+        }
+    ],
+    "ejones": [
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "red_bank_nj_united_states",
+            "Pubdate": "1810",
+            "Publisher": "Newman",
+            "Title": "The Bard Or, The Towers Of Morven ; A Legendary Tale",
+            "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "red_bank_nj_united_states",
+            "Pubdate": "1810",
+            "Publisher": "Newman",
+            "Title": "The Bard Or, The Towers Of Morven ; A Legendary Tale",
+            "Translation": "y"
+        }
+    ],
+    "elovelace": [
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "bornheim_germany",
+            "Pubdate": "1979",
+            "Publisher": "Lamuv Verlag",
+            "Title": "Der Drachentanz: Roman Aus Trinidad",
+            "Translation": "y"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "bornheim_germany",
+            "Pubdate": "1979",
+            "Publisher": "Lamuv Verlag",
+            "Title": "Der Drachentanz: Roman Aus Trinidad",
             "Translation": "y"
         }
     ],
@@ -66,6 +508,366 @@
             "Pubdate": "1987",
             "Publisher": "Insel Verlag",
             "Title": "Rauchzeichen",
+            "Translation": "y"
+        }
+    ],
+    "jalvarez": [
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Enzenberg, Carina von; Piper Verlag",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "2017",
+            "Publisher": "Piper Verlag GmbH",
+            "Title": "Im Namen Der Salomé Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Enzenberg, Carina von; Piper Verlag",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "2017",
+            "Publisher": "Piper Verlag GmbH",
+            "Title": "Im Namen Der Salomé Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Enzenberg, Carina von; Zahn, Hartmut; Piper Verlag",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "1994",
+            "Publisher": "Piper Edition",
+            "Title": "Die Zeit der Schmetterlinge Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Enzenberg, Carina von; Zahn, Hartmut; Piper Verlag",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "1994",
+            "Publisher": "Piper Edition",
+            "Title": "Die Zeit der Schmetterlinge Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Rumler, Irene; Piper Verlag",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "2017",
+            "Publisher": "Piper Verlag GmbH",
+            "Title": "Yolanda: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Rumler, Irene; Piper Verlag",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munich_germany",
+            "Pubdate": "2017",
+            "Publisher": "Piper Verlag GmbH",
+            "Title": "Yolanda: Roman",
+            "Translation": "y"
+        }
+    ],
+    "jkincaid": [
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1990",
+            "Publisher": "Deutsche Verlags-Anstalt",
+            "Title": "Nur Eine Kleine Insel",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1990",
+            "Publisher": "Deutsche Verlags-Anstalt",
+            "Title": "Nur Eine Kleine Insel",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1986",
+            "Publisher": "Stuttgart Deutsche Verlags-Anstalt",
+            "Title": "Am Grunde Des Flusses",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1986",
+            "Publisher": "Stuttgart Deutsche Verlags-Anstalt",
+            "Title": "Am Grunde Des Flusses",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novella)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2015",
+            "Publisher": "Unionsverlag",
+            "Title": "Lucy: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novella)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2015",
+            "Publisher": "Unionsverlag",
+            "Title": "Lucy: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2021",
+            "Publisher": "Kampa Verlag",
+            "Title": "Mister Potter",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2021",
+            "Publisher": "Kampa Verlag",
+            "Title": "Mister Potter",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1989",
+            "Publisher": "Farrar, Straus and Giroux",
+            "Title": "Annie John",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "stuggart_germany",
+            "Pubdate": "1989",
+            "Publisher": "Farrar, Straus and Giroux",
+            "Title": "Annie John",
+            "Translation": "y"
+        }
+    ],
+    "jllima": [
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1992",
+            "Publisher": "Suhrkamp Verlag",
+            "Title": "Die Amerikanische Ausdruckswelt",
+            "Translation": "n"
+        },
+        {
+            "Author": "José Lezama Lima",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1992",
+            "Publisher": "Suhrkamp Verlag",
+            "Title": "Die Amerikanische Ausdruckswelt",
+            "Translation": "n"
+        }
+    ],
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Missen, Michaela; Leube, Anna",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rogner und Bernhard",
+            "Title": "Quartett Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Missen, Michaela; Leube, Anna",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rogner und Bernhard",
+            "Title": "Quartett Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1982",
+            "Publisher": "Rogner und Bernhard",
+            "Title": "Lächeln bitte! Unvollendete Erinnerungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1982",
+            "Publisher": "Rogner und Bernhard",
+            "Title": "Lächeln bitte! Unvollendete Erinnerungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Simon Werle",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rogner und Bernhard",
+            "Title": "Irrfahrt Im Dunkel",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Simon Werle",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rogner und Bernhard",
+            "Title": "Irrfahrt Im Dunkel",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rogner und Bernhard",
+            "Title": "Adieu Marcus, Adieu Rose Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rogner und Bernhard",
+            "Title": "Adieu Marcus, Adieu Rose Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Frank Auerbach",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "koln_germany",
+            "Pubdate": "1990",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Ein Abend In Der Stadt: Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Frank Auerbach",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "koln_germany",
+            "Pubdate": "1990",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Ein Abend In Der Stadt: Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Anna Leube",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1984",
+            "Publisher": "Ullstein",
+            "Title": "Nach der Trennung von Mr. Mackenzie",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Anna Leube",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1984",
+            "Publisher": "Ullstein",
+            "Title": "Nach der Trennung von Mr. Mackenzie",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Anne Leube",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "1982",
+            "Publisher": "Frankfurt Fischer-Taschenbuch-Verlag",
+            "Title": "Sargassomeer",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Anne Leube",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "1982",
+            "Publisher": "Frankfurt Fischer-Taschenbuch-Verlag",
+            "Title": "Sargassomeer",
             "Translation": "y"
         }
     ],
@@ -117,6 +919,30 @@
             "Translation": "y"
         }
     ],
+    "jzobel": [
+        {
+            "Author": "Joseph Zobel",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Les Jours Immobiles",
+            "Translation": "n"
+        },
+        {
+            "Author": "Joseph Zobel",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "nendeln_liechtenstein",
+            "Pubdate": "1970",
+            "Publisher": "Kraus International Publications",
+            "Title": "Les Jours Immobiles",
+            "Translation": "n"
+        }
+    ],
     "kmars": [
         {
             "Author": "Kettly Mars",
@@ -138,6 +964,322 @@
             "Pubdate": "2013",
             "Publisher": "Trier Litradukt",
             "Title": "Vor dem Verdursten",
+            "Translation": "y"
+        }
+    ],
+    "lgoodison": [
+        {
+            "Author": "Lorna Goodison",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "German",
+            "Pub_id": "wuppertal_germany",
+            "Pubdate": "1994",
+            "Publisher": "Peter Hammer Verlag",
+            "Title": "Jungfernbraun Gedichte",
+            "Translation": "y"
+        },
+        {
+            "Author": "Lorna Goodison",
+            "Descriptor": "",
+            "Genre": "Anthology",
+            "Language": "German",
+            "Pub_id": "wuppertal_germany",
+            "Pubdate": "1994",
+            "Publisher": "Peter Hammer Verlag",
+            "Title": "Jungfernbraun Gedichte",
+            "Translation": "y"
+        }
+    ],
+    "lpfuentes": [
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein,Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2003",
+            "Publisher": "Unionsverlag",
+            "Title": "Ein Perfektes Leben",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein,Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2003",
+            "Publisher": "Unionsverlag",
+            "Title": "Ein Perfektes Leben",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2005",
+            "Publisher": "Unionsverlag",
+            "Title": "Das Meer Der Illusionen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2005",
+            "Publisher": "Unionsverlag",
+            "Title": "Das Meer Der Illusionen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2015",
+            "Publisher": "Unionsverlag",
+            "Title": "Der Mann, Der Hunde Liebte: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2015",
+            "Publisher": "Unionsverlag",
+            "Title": "Der Mann, Der Hunde Liebte: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2015",
+            "Publisher": "Unionsverlag",
+            "Title": "Die Palme Und Der Stern: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2015",
+            "Publisher": "Unionsverlag",
+            "Title": "Die Palme Und Der Stern: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2019",
+            "Publisher": "Unionsverlag",
+            "Title": "Die Durchlässigkeit Der Zeit",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2019",
+            "Publisher": "Unionsverlag",
+            "Title": "Die Durchlässigkeit Der Zeit",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "1991",
+            "Publisher": "Unionsverlag",
+            "Title": "Handel Der Gefühle",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "1991",
+            "Publisher": "Unionsverlag",
+            "Title": "Handel Der Gefühle",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2003",
+            "Publisher": "Unionsverlag",
+            "Title": "Der Nebel Von Gestern",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2003",
+            "Publisher": "Unionsverlag",
+            "Title": "Der Nebel Von Gestern",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2011",
+            "Publisher": "Unionsverlag",
+            "Title": "Der Mann, Der Hunde Liebte",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Hartstein, Hans-Joachim",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2011",
+            "Publisher": "Unionsverlag",
+            "Title": "Der Mann, Der Hunde Liebte",
+            "Translation": "y"
+        }
+    ],
+    "mcliff": [
+        {
+            "Author": "Michelle Cliff",
+            "Descriptor": "Translator: Margarete Langfeld",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2000",
+            "Publisher": "Unionsverlag",
+            "Title": "Kein Telefon Zum Himmel",
+            "Translation": "y"
+        },
+        {
+            "Author": "Michelle Cliff",
+            "Descriptor": "Translator: Margarete Langfeld",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2000",
+            "Publisher": "Unionsverlag",
+            "Title": "Kein Telefon Zum Himmel",
+            "Translation": "y"
+        },
+        {
+            "Author": "Michelle Cliff",
+            "Descriptor": "Translator: Margarete Langfeld",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_germany",
+            "Pubdate": "1996",
+            "Publisher": "Orlanda Frauenverlag",
+            "Title": "Kein Himmel über Jamaika Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Michelle Cliff",
+            "Descriptor": "Translator: Margarete Langfeld",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_germany",
+            "Pubdate": "1996",
+            "Publisher": "Orlanda Frauenverlag",
+            "Title": "Kein Himmel über Jamaika Roman",
+            "Translation": "y"
+        }
+    ],
+    "mconde": [
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "k√∂ln_germany",
+            "Pubdate": "1984",
+            "Publisher": "Kiepenheuer und Witsch",
+            "Title": "Segu die Mauern aus Lehm",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "k√∂ln_germany",
+            "Pubdate": "1984",
+            "Publisher": "Kiepenheuer und Witsch",
+            "Title": "Segu die Mauern aus Lehm",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1986",
+            "Publisher": "München Knaur",
+            "Title": "Ich, Tituba, die Schwarze Hexe von Salem Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "munchen_germany",
+            "Pubdate": "1986",
+            "Publisher": "München Knaur",
+            "Title": "Ich, Tituba, die Schwarze Hexe von Salem Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "NA",
+            "Publisher": "Neues Leben",
+            "Title": "Tod auf Guadeloupe",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "NA",
+            "Publisher": "Neues Leben",
+            "Title": "Tod auf Guadeloupe",
             "Translation": "y"
         }
     ],
@@ -209,6 +1351,30 @@
             "Translation": "n"
         }
     ],
+    "nyoon": [
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "2015",
+            "Publisher": "Oetinger Media",
+            "Title": "Du neben Mir Und Zwischen Uns Die Ganze Welt: Ungekürzte Lesung",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "2015",
+            "Publisher": "Oetinger Media",
+            "Title": "Du neben Mir Und Zwischen Uns Die Ganze Welt: Ungekürzte Lesung",
+            "Translation": "y"
+        }
+    ],
     "pmelville": [
         {
             "Author": "Pauline Melville",
@@ -231,6 +1397,652 @@
             "Publisher": "München Droemer",
             "Title": "Mrs. Da Silvas Karneval Erzählungen",
             "Translation": "y"
+        }
+    ],
+    "rarenas": [
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_germany",
+            "Pubdate": "1982",
+            "Publisher": "Suhrkamp Verlag",
+            "Title": "El Mundo Alucinante",
+            "Translation": "y"
+        },
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_germany",
+            "Pubdate": "1982",
+            "Publisher": "Suhrkamp Verlag",
+            "Title": "El Mundo Alucinante",
+            "Translation": "y"
+        },
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_germany",
+            "Pubdate": "1982",
+            "Publisher": "Suhrkamp Verlag",
+            "Title": "Wahnwitzige Welt Ein. Abenteuerroman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_germany",
+            "Pubdate": "1982",
+            "Publisher": "Suhrkamp Verlag",
+            "Title": "Wahnwitzige Welt Ein. Abenteuerroman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "",
+            "Pubdate": "1985",
+            "Publisher": "Darmstadt Neuwied Luchterhand",
+            "Title": "Der Palast der Blütenweissen Stinktiere",
+            "Translation": "y"
+        },
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "",
+            "Pubdate": "1985",
+            "Publisher": "Darmstadt Neuwied Luchterhand",
+            "Title": "Der Palast der Blütenweissen Stinktiere",
+            "Translation": "y"
+        },
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1987",
+            "Publisher": "Edition día",
+            "Title": "Wahnwitzige Welt Ein. Abenteuerroman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1987",
+            "Publisher": "Edition día",
+            "Title": "Wahnwitzige Welt Ein. Abenteuerroman",
+            "Translation": "y"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Herr Und Sklave",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Herr Und Sklave",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1984",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Eine Islamische Reise: Unter Den Glaubigen.",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1984",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Eine Islamische Reise: Unter Den Glaubigen.",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1982",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Eine Islamische Reise: Unter Den Gläubigen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1982",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Eine Islamische Reise: Unter Den Gläubigen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1981",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Meine Tante Goldzahn Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1981",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Meine Tante Goldzahn Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1983",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Meine Tante Goldzahn: Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "1983",
+            "Publisher": "Fischer Taschenbuch",
+            "Title": "Meine Tante Goldzahn: Erzählungen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1984",
+            "Publisher": "Verlag Kiepenheuer und Witsch",
+            "Title": "Der Mystische Masseur: Roman In Fünf Kapiteln",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1984",
+            "Publisher": "Verlag Kiepenheuer und Witsch",
+            "Title": "Der Mystische Masseur: Roman In Fünf Kapiteln",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1989",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Die 80er Jahre",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1989",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Die 80er Jahre",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Jürgen Behrens",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "1989",
+            "Publisher": "Limes",
+            "Title": "Guerillas: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Jürgen Behrens",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "berlin_verl_germany",
+            "Pubdate": "1989",
+            "Publisher": "Limes",
+            "Title": "Guerillas: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1981",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Ein Haus für Mr. Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1981",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Ein Haus für Mr. Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Transalors: Jürgen Behrens, Ursula von Zedlitz",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Penguin Books",
+            "Title": "Guerillas Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Transalors: Jürgen Behrens, Ursula von Zedlitz",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1982",
+            "Publisher": "Penguin Books",
+            "Title": "Guerillas Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Werner Peterich",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1986",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Wahlkampf Auf Karibisch Oder: Eine Hand Wäscht Die Andere",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Werner Peterich",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1986",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Wahlkampf Auf Karibisch Oder: Eine Hand Wäscht Die Andere",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1990",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "In Den Alten Sklavenstaaten Eine Reise",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1990",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "In Den Alten Sklavenstaaten Eine Reise",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1986",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1986",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1985",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1985",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1983",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1983",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des Grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1987",
+            "Publisher": "Penguin Books",
+            "Title": "Der Mystische Masseur",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1987",
+            "Publisher": "Penguin Books",
+            "Title": "Der Mystische Masseur",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1986",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Sabine Roth",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_ge_germany",
+            "Pubdate": "1986",
+            "Publisher": "S. Fischer Verlag",
+            "Title": "An Der Biegung Des grossen Flusses Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Herr Und Sklave",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "hamburg_germany",
+            "Pubdate": "1985",
+            "Publisher": "Rowohlt Verlag",
+            "Title": "Herr Und Sklave",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1987",
+            "Publisher": "Penguin Books",
+            "Title": "Der Mystische Masseur",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "harmondsworth_ldn_england",
+            "Pubdate": "1987",
+            "Publisher": "Penguin Books",
+            "Title": "Der Mystische Masseur",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1984",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Prolog Zu Einer Autobiographie",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Autobiography/ Memoir",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1984",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Prolog Zu Einer Autobiographie",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translators: Ulrich Enderwitz; Monika Noll",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1981",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Eine Islamische Reise: Unter Den Gläubigen",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translators: Ulrich Enderwitz; Monika Noll",
+            "Genre": "Nonfiction",
+            "Language": "German",
+            "Pub_id": "köln_germany",
+            "Pubdate": "1981",
+            "Publisher": "Kiepenheuer & Witsch",
+            "Title": "Eine Islamische Reise: Unter Den Gläubigen",
+            "Translation": "y"
+        }
+    ],
+    "ylahens": [
+        {
+            "Author": "Yanick Lahens",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2004",
+            "Publisher": "Zürich Rotpunktverl",
+            "Title": "Tanz Der Ahnen Roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Yanick Lahens",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2004",
+            "Publisher": "Zürich Rotpunktverl",
+            "Title": "Tanz Der Ahnen Roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Yanick Lahens",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2011",
+            "Publisher": "Zürich Rotpunktverl",
+            "Title": "Und Plötzlich Tut Sich Der Boden Auf Ein Journal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Yanick Lahens",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "zurich_switzerland",
+            "Pubdate": "2011",
+            "Publisher": "Zürich Rotpunktverl",
+            "Title": "Und Plötzlich Tut Sich Der Boden Auf Ein Journal",
+            "Translation": "n"
+        },
+        {
+            "Author": "Yanick Lahens",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "trier_germany",
+            "Pubdate": "2021",
+            "Publisher": "Litradukt",
+            "Title": "Sanfte Debakel Roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Yanick Lahens",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "trier_germany",
+            "Pubdate": "2021",
+            "Publisher": "Litradukt",
+            "Title": "Sanfte Debakel Roman",
+            "Translation": "n"
+        }
+    ],
+    "zsmith": [
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "2019",
+            "Publisher": "M. Buchergilde Gutenberg",
+            "Title": "Zähne Zeigen Roman",
+            "Translation": "n"
+        },
+        {
+            "Author": "Zadie Smith",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "German",
+            "Pub_id": "frankfurt_germany",
+            "Pubdate": "2019",
+            "Publisher": "M. Buchergilde Gutenberg",
+            "Title": "Zähne Zeigen Roman",
+            "Translation": "n"
         }
     ]
 }

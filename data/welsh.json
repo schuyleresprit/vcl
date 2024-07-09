@@ -1,1 +1,70 @@
-{}
+{
+    "ejones": [
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "Welsh",
+            "Pub_id": "caernarvon_wales",
+            "Pubdate": "1978",
+            "Publisher": "Gwasg y Tir",
+            "Title": "Yn Hogyn Ar Longau Hwyliau",
+            "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "Welsh",
+            "Pub_id": "caernarvon_wales",
+            "Pubdate": "1978",
+            "Publisher": "Gwasg y Tir",
+            "Title": "Yn Hogyn Ar Longau Hwyliau",
+            "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "Welsh",
+            "Pub_id": "swansea_wales",
+            "Pubdate": "1925",
+            "Publisher": "Thomas & Parry",
+            "Title": "Doethineb Llafar. Yn Bennaf Fel Y'i Clybuwyd Yng Nghantref Buallt. O Gasgliad Evan Jones",
+            "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Biography",
+            "Language": "Welsh",
+            "Pub_id": "swansea_wales",
+            "Pubdate": "1925",
+            "Publisher": "Thomas & Parry",
+            "Title": "Doethineb Llafar. Yn Bennaf Fel Y'i Clybuwyd Yng Nghantref Buallt. O Gasgliad Evan Jones",
+            "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Welsh",
+            "Pub_id": "swansea_wales",
+            "Pubdate": "1925",
+            "Publisher": "Thomas a Parry, Cyf.",
+            "Title": "Doethineb Llafar",
+            "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Welsh",
+            "Pub_id": "swansea_wales",
+            "Pubdate": "1925",
+            "Publisher": "Thomas a Parry, Cyf.",
+            "Title": "Doethineb Llafar",
+            "Translation": "y"
+        }
+    ]
+}

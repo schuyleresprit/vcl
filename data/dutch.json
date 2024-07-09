@@ -1,4 +1,602 @@
 {
+    "cdebrot": [
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1935",
+            "Publisher": "Nijgh and Van Ditmar",
+            "Title": "Mijn zuster de negerin",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1935",
+            "Publisher": "Nijgh and Van Ditmar",
+            "Title": "Mijn zuster de negerin",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1945",
+            "Publisher": "Meulenhoff",
+            "Title": "Bekentenis in Toledo",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1945",
+            "Publisher": "Meulenhoff",
+            "Title": "Bekentenis in Toledo",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1945",
+            "Publisher": "Meulenhoff",
+            "Title": "Navrante zomer",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1945",
+            "Publisher": "Meulenhoff",
+            "Title": "Navrante zomer",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1945",
+            "Publisher": "Meulenhoff",
+            "Title": "Ars en Vita",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1945",
+            "Publisher": "Meulenhoff",
+            "Title": "Ars en Vita",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1946",
+            "Publisher": "Meulenhoff",
+            "Title": "Bid voor Camille Willocq ",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1946",
+            "Publisher": "Meulenhoff",
+            "Title": "Bid voor Camille Willocq ",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1947",
+            "Publisher": "Meulenhoff",
+            "Title": "Het existentialisme, Drie voordrachten met discussie",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1947",
+            "Publisher": "Meulenhoff",
+            "Title": "Het existentialisme, Drie voordrachten met discussie",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1952",
+            "Publisher": "Meulenhoff",
+            "Title": "De afwezigen",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1952",
+            "Publisher": "Meulenhoff",
+            "Title": "De afwezigen",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1955",
+            "Publisher": "Meulenhoff",
+            "Title": "Antilliaanse cahiers",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1955",
+            "Publisher": "Meulenhoff",
+            "Title": "Antilliaanse cahiers",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1963",
+            "Publisher": "De Bezige Bij",
+            "Title": "Dagboekbladen uit Genève",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1963",
+            "Publisher": "De Bezige Bij",
+            "Title": "Dagboekbladen uit Genève",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1970",
+            "Publisher": "Meulenhoff",
+            "Title": "Tussen de grijze lijnen en andere gedichten",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1970",
+            "Publisher": "Meulenhoff",
+            "Title": "Tussen de grijze lijnen en andere gedichten",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "Meulenhoff",
+            "Title": "De vervolgden",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "Meulenhoff",
+            "Title": "De vervolgden",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Meulenhoff",
+            "Title": "Heimwee (in eigen beheer)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poem",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Meulenhoff",
+            "Title": "Heimwee (in eigen beheer)",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Meulenhoff",
+            "Title": "Verzameld werk 2. Gedichten",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Meulenhoff",
+            "Title": "Verzameld werk 2. Gedichten",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "De Bezige Bij",
+            "Title": "Verzameld werk 1. Over Antilliaanse cultuur ",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "De Bezige Bij",
+            "Title": "Verzameld werk 1. Over Antilliaanse cultuur ",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Meulenhoff",
+            "Title": "Verzameld werk 3. Verhalen",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Meulenhoff",
+            "Title": "Verzameld werk 3. Verhalen",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Meulenhoff",
+            "Title": "Verzameld werk 4. Bewolkt bestaan",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Meulenhoff",
+            "Title": "Verzameld werk 4. Bewolkt bestaan",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1988",
+            "Publisher": "De Bezige Bij",
+            "Title": "Verzameld werk 6. Dagboekbladen uit Genève. Over dans en beeldende kunst",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1988",
+            "Publisher": "De Bezige Bij",
+            "Title": "Verzameld werk 6. Dagboekbladen uit Genève. Over dans en beeldende kunst",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1989",
+            "Publisher": "De Bezige Bij",
+            "Title": "Wie was Céline? Van cuirassier tot clochard",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1989",
+            "Publisher": "De Bezige Bij",
+            "Title": "Wie was Céline? Van cuirassier tot clochard",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1987",
+            "Publisher": "Meulenhoff",
+            "Title": "Over Literatuur",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1987",
+            "Publisher": "Meulenhoff",
+            "Title": "Over Literatuur",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Meulenhoff",
+            "Title": "Bewolkt Bestaan",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Meulenhoff",
+            "Title": "Bewolkt Bestaan",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Meulenhoff",
+            "Title": "Gedichten",
+            "Translation": "n"
+        },
+        {
+            "Author": "Cola Debrot",
+            "Descriptor": "",
+            "Genre": "Poetry Collection",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Meulenhoff",
+            "Title": "Gedichten",
+            "Translation": "n"
+        }
+    ],
+    "cphillips": [
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1997",
+            "Publisher": "De Bezige Bij",
+            "Title": "De Aard Van Het Bloed",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1997",
+            "Publisher": "De Bezige Bij",
+            "Title": "De Aard Van Het Bloed",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2000",
+            "Publisher": "De Bezige Bij",
+            "Title": "Het Atlantisch lied: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2000",
+            "Publisher": "De Bezige Bij",
+            "Title": "Het Atlantisch lied: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2002",
+            "Publisher": "De Bezige Bij",
+            "Title": "Een Nieuwe Wereldorde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2002",
+            "Publisher": "De Bezige Bij",
+            "Title": "Een Nieuwe Wereldorde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2004",
+            "Publisher": "De Bezige Bij",
+            "Title": "Een Verre Kust",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2004",
+            "Publisher": "De Bezige Bij",
+            "Title": "Een Verre Kust",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "breda_netherlands",
+            "Pubdate": "2006",
+            "Publisher": "De Geus",
+            "Title": "Dansen In Het Donker",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "breda_netherlands",
+            "Pubdate": "2006",
+            "Publisher": "De Geus",
+            "Title": "Dansen In Het Donker",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "breda_netherlands",
+            "Pubdate": "2011",
+            "Publisher": "De Geus",
+            "Title": "Buitenlanders",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "breda_netherlands",
+            "Pubdate": "2011",
+            "Publisher": "De Geus",
+            "Title": "Buitenlanders",
+            "Translation": "y"
+        }
+    ],
     "dlaferrière": [
         {
             "Author": "Dany Laferrière",
@@ -23,6 +621,396 @@
             "Translation": "y"
         }
     ],
+    "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Land Voor de Levenden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1999",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Land Voor de Levenden",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1996",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1996",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Krik? Krak!",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1995",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1995",
+            "Publisher": "Wereldbibliotheek",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1998",
+            "Publisher": "Muntinga",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1998",
+            "Publisher": "Muntinga",
+            "Title": "Adem, Ogen, Herinnering",
+            "Translation": "y"
+        }
+    ],
+    "elovelace": [
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "haarlem_netherlands",
+            "Pubdate": "1979",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Dans van de Draak: Roman",
+            "Translation": "y"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "haarlem_netherlands",
+            "Pubdate": "1979",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Dans van de Draak: Roman",
+            "Translation": "y"
+        }
+    ],
+    "jalvarez": [
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Falger, Lon",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1994",
+            "Publisher": "Poema Pocket",
+            "Title": "In De Tijd Van De Vlinders",
+            "Translation": "y"
+        },
+        {
+            "Author": "Julia Alvarez",
+            "Descriptor": "Falger, Lon",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1994",
+            "Publisher": "Poema Pocket",
+            "Title": "In De Tijd Van De Vlinders",
+            "Translation": "y"
+        }
+    ],
+    "jkincaid": [
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1990",
+            "Publisher": "Agathon Press",
+            "Title": "Negen Bij Twaalf",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1990",
+            "Publisher": "Agathon Press",
+            "Title": "Negen Bij Twaalf",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Agathon Press",
+            "Title": "Op De Bodem Van De Rivier",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "houten_netherlands",
+            "Pubdate": "1986",
+            "Publisher": "Agathon Press",
+            "Title": "Op De Bodem Van De Rivier",
+            "Translation": "y"
+        }
+    ],
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Williams, Ella Gwendolen Rees",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "Bert Bakker",
+            "Title": "Wide Sargasso Sea",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Williams, Ella Gwendolen Rees",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "Bert Bakker",
+            "Title": "Wide Sargasso Sea",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Schuchart, Max",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "Bert Bakker",
+            "Title": "Goedemorgen, Middernacht",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Schuchart, Max",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "Bert Bakker",
+            "Title": "Goedemorgen, Middernacht",
+            "Translation": "y"
+        }
+    ],
+    "jzobel": [
+        {
+            "Author": "Joseph Zobel",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "baarn_netherlands",
+            "Pubdate": "1991",
+            "Publisher": "Ambo ; NOVIB ; NCOS",
+            "Title": "Negerhuttenweg",
+            "Translation": "y"
+        },
+        {
+            "Author": "Joseph Zobel",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "baarn_netherlands",
+            "Pubdate": "1991",
+            "Publisher": "Ambo ; NOVIB ; NCOS",
+            "Title": "Negerhuttenweg",
+            "Translation": "y"
+        }
+    ],
+    "mconde": [
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Open Plek Over Franstalige Literatuur uit de Antillen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Aarden Wallen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Haarlem, Netherlands",
+            "Pubdate": "1984",
+            "Publisher": "In de Knipscheer",
+            "Title": "De Aarden Wallen",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Muntinga",
+            "Title": "De Verkruimelde Aarde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1985",
+            "Publisher": "Muntinga",
+            "Title": "De Verkruimelde Aarde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1986",
+            "Publisher": "In de Knipscheer",
+            "Title": "Tituba de Zwarte Heks van Salem",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "Amsterdam, Netherlands",
+            "Pubdate": "1986",
+            "Publisher": "In de Knipscheer",
+            "Title": "Tituba de Zwarte Heks van Salem",
+            "Translation": "y"
+        }
+    ],
+    "nyoon": [
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_ams_netherlands",
+            "Pubdate": "2021",
+            "Publisher": "Em. Querido's Uitgeverij",
+            "Title": "Dansen Voor Beginners",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_ams_netherlands",
+            "Pubdate": "2021",
+            "Publisher": "Em. Querido's Uitgeverij",
+            "Title": "Dansen Voor Beginners",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2015",
+            "Publisher": "Uitgeverij Rainbow bv",
+            "Title": "Alles Wat Je Lief Is",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "2015",
+            "Publisher": "Uitgeverij Rainbow bv",
+            "Title": "Alles Wat Je Lief Is",
+            "Translation": "y"
+        }
+    ],
     "pmelville": [
         {
             "Author": "Pauline Melville",
@@ -44,6 +1032,316 @@
             "Pubdate": "1999",
             "Publisher": "Vassallucci",
             "Title": "Savanne-Sagen",
+            "Translation": "y"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1989",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Het Diepe Zuiden",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1989",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Het Diepe Zuiden",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Krokodillen Van Yamoussoukro",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Krokodillen Van Yamoussoukro",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Terugkeer Van Eva Perón En Andere Essays",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Terugkeer Van Eva Perón En Andere Essays",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1984",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Miguel Street",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1984",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Miguel Street",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Proloog Voor Een Autobiografie",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Proloog Voor Een Autobiografie",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: C A G van den Broek",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1988",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Het Raadsel Van De Aankomst",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: C A G van den Broek",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1988",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Het Raadsel Van De Aankomst",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1981",
+            "Publisher": "Pandora",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1981",
+            "Publisher": "Pandora",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1990",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1990",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Tinke Davids",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Onder De Gelovigen: Een Reis Door De Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1987",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Stemmen In Elvira",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1987",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Stemmen In Elvira",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Een Huis Voor Meneer Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1985",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Een Huis Voor Meneer Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1981",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Een Bocht In De Rivier",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1981",
+            "Publisher": "De Arbeiderspers",
+            "Title": "Een Bocht In De Rivier",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Mimitators",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1982",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Mimitators",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Mimitators",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Dutch",
+            "Pub_id": "amsterdam_netherlands",
+            "Pubdate": "1983",
+            "Publisher": "De Arbeiderspers",
+            "Title": "De Mimitators",
             "Translation": "y"
         }
     ]

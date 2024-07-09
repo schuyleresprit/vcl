@@ -1,1 +1,26 @@
-{}
+{
+    "cphillips": [
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Latvian",
+            "Pub_id": "riga_latvia",
+            "Pubdate": "2012",
+            "Publisher": "Dienas Grāmata",
+            "Title": "Kembridžs",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Latvian",
+            "Pub_id": "riga_latvia",
+            "Pubdate": "2012",
+            "Publisher": "Dienas Grāmata",
+            "Title": "Kembridžs",
+            "Translation": "y"
+        }
+    ]
+}

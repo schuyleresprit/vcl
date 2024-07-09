@@ -1,1 +1,50 @@
-{}
+{
+    "cmckay": [
+        {
+            "Author": "Claude McKay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Russian",
+            "Pub_id": "moskva_russia",
+            "Pubdate": "1929",
+            "Publisher": "Zemlia i fabrika",
+            "Title": "Domoi Y Garlem",
+            "Translation": "y"
+        },
+        {
+            "Author": "Claude McKay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Russian",
+            "Pub_id": "moskva_russia",
+            "Pubdate": "1929",
+            "Publisher": "Zemlia i fabrika",
+            "Title": "Domoi Y Garlem",
+            "Translation": "y"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Russian",
+            "Pub_id": "moskva_russia",
+            "Pubdate": "1984",
+            "Publisher": "Raduga Publishers",
+            "Title": "Povesti I Rasskazy",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Russian",
+            "Pub_id": "moskva_russia",
+            "Pubdate": "1984",
+            "Publisher": "Raduga Publishers",
+            "Title": "Povesti I Rasskazy",
+            "Translation": "y"
+        }
+    ]
+}

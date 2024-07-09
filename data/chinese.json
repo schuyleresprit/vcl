@@ -1,1 +1,72 @@
-{}
+{
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Li si; Liu ming zheng",
+            "Genre": "Fiction (Novel)",
+            "Language": "Chinese",
+            "Pub_id": "beijing_china",
+            "Pubdate": "1990",
+            "Publisher": "China Federation of Literary and Art Circles Publishing Company",
+            "Title": "Quartet",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Li si; Liu ming zheng",
+            "Genre": "Fiction (Novel)",
+            "Language": "Chinese",
+            "Pub_id": "beijing_china",
+            "Pubdate": "1990",
+            "Publisher": "China Federation of Literary and Art Circles Publishing Company",
+            "Title": "Quartet",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Wang, Jiaxiang",
+            "Genre": "Fiction (Novel)",
+            "Language": "Chinese",
+            "Pub_id": "beijing_china",
+            "Pubdate": "1986",
+            "Publisher": "People's Literature Publishing House",
+            "Title": "Cang Hai Mang Mang",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Wang, Jiaxiang",
+            "Genre": "Fiction (Novel)",
+            "Language": "Chinese",
+            "Pub_id": "beijing_china",
+            "Pubdate": "1986",
+            "Publisher": "People's Literature Publishing House",
+            "Title": "Cang Hai Mang Mang",
+            "Translation": "y"
+        }
+    ],
+    "nyoon": [
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Chinese",
+            "Pub_id": "taipei_taiwan",
+            "Pubdate": "2017",
+            "Publisher": "San cai wen hua gu fen you xian gong si",
+            "Title": "Ni Shi Wo Yi Qie De Yi Qie: Yu Ni Xiang Yu,Jiu Shi Wo Zui Zhi De De Mao Xian",
+            "Translation": "y"
+        },
+        {
+            "Author": "Nicola Yoon",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Chinese",
+            "Pub_id": "taipei_taiwan",
+            "Pubdate": "2017",
+            "Publisher": "San cai wen hua gu fen you xian gong si",
+            "Title": "Ni Shi Wo Yi Qie De Yi Qie: Yu Ni Xiang Yu,Jiu Shi Wo Zui Zhi De De Mao Xian",
+            "Translation": "y"
+        }
+    ]
+}

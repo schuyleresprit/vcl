@@ -6,7 +6,7 @@ import codecs
 import json
 import geocoder
 from mapbox import Geocoder
-#from geopy import geocoders
+from geopy import geocoders
 from operator import itemgetter
 
 # ---------

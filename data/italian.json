@@ -1,4 +1,256 @@
 {
+    "acarpentier": [
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "palermo_italy",
+            "Pubdate": "1979",
+            "Publisher": "Sellerio Editore",
+            "Title": "L'Arpa e L'Ombra",
+            "Translation": "y"
+        },
+        {
+            "Author": "Alejo Carpentier",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "palermo_italy",
+            "Pubdate": "1979",
+            "Publisher": "Sellerio Editore",
+            "Title": "L'Arpa e L'Ombra",
+            "Translation": "y"
+        }
+    ],
+    "cblelio": [
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2005",
+            "Publisher": "Unicopli",
+            "Title": "L'Avana: La Città Sensuale di Leonardo Padura Fuentes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2005",
+            "Publisher": "Unicopli",
+            "Title": "L'Avana: La Città Sensuale di Leonardo Padura Fuentes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2014",
+            "Publisher": "Altromondo",
+            "Title": "Havana Melody",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2014",
+            "Publisher": "Altromondo",
+            "Title": "Havana Melody",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2018",
+            "Publisher": "Morellini",
+            "Title": "Test a test : conosci davvero te stessa?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2018",
+            "Publisher": "Morellini",
+            "Title": "Test a test : conosci davvero te stessa?",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1992",
+            "Publisher": "Sperling & Kupfer",
+            "Title": "Bellezza e salute",
+            "Translation": "n"
+        },
+        {
+            "Author": "Chiara Bettelli Lelio",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1992",
+            "Publisher": "Sperling & Kupfer",
+            "Title": "Bellezza e salute",
+            "Translation": "n"
+        }
+    ],
+    "cmckay": [
+        {
+            "Author": "Claude McKay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "rome_italy",
+            "Pubdate": "1995",
+            "Publisher": "Pessime Idee",
+            "Title": "Romantica Marsiglia",
+            "Translation": "y"
+        },
+        {
+            "Author": "Claude McKay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "rome_italy",
+            "Pubdate": "1995",
+            "Publisher": "Pessime Idee",
+            "Title": "Romantica Marsiglia",
+            "Translation": "y"
+        },
+        {
+            "Author": "Claude McKay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1930",
+            "Publisher": "Modernissima",
+            "Title": "Ritorno Ad Harlem",
+            "Translation": "y"
+        },
+        {
+            "Author": "Claude McKay",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1930",
+            "Publisher": "Modernissima",
+            "Title": "Ritorno Ad Harlem",
+            "Translation": "y"
+        }
+    ],
+    "cphillips": [
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "2011",
+            "Publisher": "Arnoldo Mondadori Editore",
+            "Title": "Sotto La Nevicata: Romanzo",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "2011",
+            "Publisher": "Arnoldo Mondadori Editore",
+            "Title": "Sotto La Nevicata: Romanzo",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "reggio_emilia_italy",
+            "Pubdate": "2015",
+            "Publisher": "Imprimatur",
+            "Title": "La Memoria Del Sangue",
+            "Translation": "y"
+        },
+        {
+            "Author": "Caryl Phillips",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "reggio_emilia_italy",
+            "Pubdate": "2015",
+            "Publisher": "Imprimatur",
+            "Title": "La Memoria Del Sangue",
+            "Translation": "y"
+        }
+    ],
+    "dbrand": [
+        {
+            "Author": "Dionne Brand",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "2005",
+            "Publisher": "Giunti",
+            "Title": "Il Libro Dei Desideri",
+            "Translation": "y"
+        },
+        {
+            "Author": "Dionne Brand",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "2005",
+            "Publisher": "Giunti",
+            "Title": "Il Libro Dei Desideri",
+            "Translation": "y"
+        },
+        {
+            "Author": "Dionne Brand",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "2004",
+            "Publisher": "Giunti",
+            "Title": "Di Luna Piena E Di Luna Calante",
+            "Translation": "y"
+        },
+        {
+            "Author": "Dionne Brand",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "2004",
+            "Publisher": "Giunti",
+            "Title": "Di Luna Piena E Di Luna Calante",
+            "Translation": "y"
+        }
+    ],
     "dlaferrière": [
         {
             "Author": "Dany Laferrière",
@@ -111,6 +363,510 @@
             "Translation": "y"
         }
     ],
+    "edanticat": [
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "2000",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "2000",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "1999",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        },
+        {
+            "Author": "Edwidge Danticat",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "casale_monferrato_italy",
+            "Pubdate": "1999",
+            "Publisher": "Piemme",
+            "Title": "Amabelle Della Canna da Zucchero",
+            "Translation": "y"
+        }
+    ],
+    "ejones": [
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "melbourne_australia",
+            "Pubdate": "1969",
+            "Publisher": "Oxford University Press",
+            "Title": "Kenneth MacKenzie",
+            "Translation": "y"
+        },
+        {
+            "Author": "Evan Jones",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "melbourne_australia",
+            "Pubdate": "1969",
+            "Publisher": "Oxford University Press",
+            "Title": "Kenneth MacKenzie",
+            "Translation": "y"
+        }
+    ],
+    "elovelace": [
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "sassari_italy",
+            "Pubdate": "1979",
+            "Publisher": "Angelica Editore",
+            "Title": "Il Drago Non Balla",
+            "Translation": "y"
+        },
+        {
+            "Author": "Earl Lovelace",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "sassari_italy",
+            "Pubdate": "1979",
+            "Publisher": "Angelica Editore",
+            "Title": "Il Drago Non Balla",
+            "Translation": "y"
+        }
+    ],
+    "gpicart": [
+        {
+            "Author": "Gina Picart",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Italian",
+            "Pub_id": "rome_italy",
+            "Pubdate": "2014",
+            "Publisher": "Nova Delphi",
+            "Title": "Olio Su Tela",
+            "Translation": "y"
+        },
+        {
+            "Author": "Gina Picart",
+            "Descriptor": "",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Italian",
+            "Pub_id": "rome_italy",
+            "Pubdate": "2014",
+            "Publisher": "Nova Delphi",
+            "Title": "Olio Su Tela",
+            "Translation": "y"
+        }
+    ],
+    "jkincaid": [
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "2020",
+            "Publisher": "Adelphi Edizioni",
+            "Title": "In Fondo Al Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "2020",
+            "Publisher": "Adelphi Edizioni",
+            "Title": "In Fondo Al Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "novara_italy",
+            "Pubdate": "1987",
+            "Publisher": "De Agostini S.p.A.",
+            "Title": "Anna Delle Antille",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "novara_italy",
+            "Pubdate": "1987",
+            "Publisher": "De Agostini S.p.A.",
+            "Title": "Anna Delle Antille",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "2008",
+            "Publisher": "Farrar, Straus and Giroux",
+            "Title": "Lucy",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jamaica Kincaid",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "2008",
+            "Publisher": "Farrar, Straus and Giroux",
+            "Title": "Lucy",
+            "Translation": "y"
+        }
+    ],
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Adriana Motti",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1989",
+            "Publisher": "Adelphi",
+            "Title": "Il grande mare dei Sargassi",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Adriana Motti",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1989",
+            "Publisher": "Adelphi",
+            "Title": "Il grande mare dei Sargassi",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Marisa Caramella",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1982",
+            "Publisher": "La Tartaruga",
+            "Title": "Ci dorma sopra, Signora",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Marisa Caramella",
+            "Genre": "Fiction (Short Story Collection)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1982",
+            "Publisher": "La Tartaruga",
+            "Title": "Ci dorma sopra, Signora",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "1986",
+            "Publisher": "Penguin Books",
+            "Title": "Voyage In The Dark",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "1986",
+            "Publisher": "Penguin Books",
+            "Title": "Voyage In The Dark",
+            "Translation": "y"
+        }
+    ],
+    "lpfuentes": [
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2001",
+            "Publisher": "Tropea",
+            "Title": "Addio Hemingway",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2001",
+            "Publisher": "Tropea",
+            "Title": "Addio Hemingway",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2004",
+            "Publisher": "Net",
+            "Title": "Passato Remoto",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2004",
+            "Publisher": "Net",
+            "Title": "Passato Remoto",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2001",
+            "Publisher": "Marco Tropea",
+            "Title": "Venti Di Quaresima",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2001",
+            "Publisher": "Marco Tropea",
+            "Title": "Venti Di Quaresima",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2017",
+            "Publisher": "Bompiani",
+            "Title": "Havana Noir: Le Indagini Di Mario Conde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Bovaia, Roberta",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2017",
+            "Publisher": "Bompiani",
+            "Title": "Havana Noir: Le Indagini Di Mario Conde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Mogavero, Eleonora",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2021",
+            "Publisher": "Bompiani",
+            "Title": "L'uomo Che Amava I Cani",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Mogavero, Eleonora",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2021",
+            "Publisher": "Bompiani",
+            "Title": "L'uomo Che Amava I Cani",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Arpaia, Bruno",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2019",
+            "Publisher": "Bompiani",
+            "Title": "La Trasparenza Del Tempo: Una Nuova Indagine Di Mario Conde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "Arpaia, Bruno",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2019",
+            "Publisher": "Bompiani",
+            "Title": "La Trasparenza Del Tempo: Una Nuova Indagine Di Mario Conde",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1997",
+            "Publisher": "Marco Tropea Editore",
+            "Title": "Maschere",
+            "Translation": "y"
+        },
+        {
+            "Author": "Leonardo Padura Fuentes",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1997",
+            "Publisher": "Marco Tropea Editore",
+            "Title": "Maschere",
+            "Translation": "y"
+        }
+    ],
+    "mconde": [
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "roma_italy",
+            "Pubdate": "1984",
+            "Publisher": "Lavoro",
+            "Title": "Le Muraglie di Terra",
+            "Translation": "y"
+        },
+        {
+            "Author": "Maryse Condé",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "roma_italy",
+            "Pubdate": "1984",
+            "Publisher": "Lavoro",
+            "Title": "Le Muraglie di Terra",
+            "Translation": "y"
+        }
+    ],
+    "mpfernandez": [
+        {
+            "Author": "Mylene Pintado Fernandz",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "tropea_italy",
+            "Pubdate": "2004",
+            "Publisher": "Marco Tropea",
+            "Title": "Altre Preghiere Esaudite",
+            "Translation": "y"
+        },
+        {
+            "Author": "Mylene Pintado Fernandz",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "tropea_italy",
+            "Pubdate": "2004",
+            "Publisher": "Marco Tropea",
+            "Title": "Altre Preghiere Esaudite",
+            "Translation": "y"
+        },
+        {
+            "Author": "Mylene Pintado Fernandz",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2017",
+            "Publisher": "Marcos y Marcos",
+            "Title": "L'Angolo del Mondo",
+            "Translation": "y"
+        },
+        {
+            "Author": "Mylene Pintado Fernandz",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "2017",
+            "Publisher": "Marcos y Marcos",
+            "Title": "L'Angolo del Mondo",
+            "Translation": "y"
+        }
+    ],
+    "pchamoiseau": [
+        {
+            "Author": "Patrick Chamoiseau",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Italian",
+            "Pub_id": "paris_france",
+            "Pubdate": "1989",
+            "Publisher": "Hoa-Qui Editions",
+            "Title": "Martinique vue du ciel",
+            "Translation": "y"
+        },
+        {
+            "Author": "Patrick Chamoiseau",
+            "Descriptor": "",
+            "Genre": "Essay",
+            "Language": "Italian",
+            "Pub_id": "paris_france",
+            "Pubdate": "1989",
+            "Publisher": "Hoa-Qui Editions",
+            "Title": "Martinique vue du ciel",
+            "Translation": "y"
+        }
+    ],
     "pmelville": [
         {
             "Author": "Pauline Melville",
@@ -133,6 +889,278 @@
             "Publisher": "Giunti",
             "Title": "Il Racconto Del Ventriloquo",
             "Translation": "y"
+        }
+    ],
+    "rfretamar": [
+        {
+            "Author": "Roberto Fernández Retamar",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1970",
+            "Publisher": "Guanda",
+            "Title": "L'Isola Recuperata",
+            "Translation": "n"
+        },
+        {
+            "Author": "Roberto Fernández Retamar",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "milan_italy",
+            "Pubdate": "1970",
+            "Publisher": "Guanda",
+            "Title": "L'Isola Recuperata",
+            "Translation": "n"
+        }
+    ],
+    "scostanzo": [
+        {
+            "Author": "Sabrina Costanzo",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "messina_italy",
+            "Pubdate": "2008",
+            "Publisher": "A. Lippolis",
+            "Title": "La Costruzione di un Giallo Sociale: Las Cuatro Estacionesdi Leonardo Padura Fuentes",
+            "Translation": "n"
+        },
+        {
+            "Author": "Sabrina Costanzo",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "messina_italy",
+            "Pubdate": "2008",
+            "Publisher": "A. Lippolis",
+            "Title": "La Costruzione di un Giallo Sociale: Las Cuatro Estacionesdi Leonardo Padura Fuentes",
+            "Translation": "n"
+        }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1984",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Una Bandiera Sull'Isola",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1984",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Una Bandiera Sull'Isola",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1983",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Tra I Credenti: Un Viaggio Nell'Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1983",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Tra I Credenti: Un Viaggio Nell'Islam",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1990",
+            "Publisher": "Arnoldo Mondadori Editore",
+            "Title": "Mr. Stone and the Knights Companion",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "milano_italy",
+            "Pubdate": "1990",
+            "Publisher": "Arnoldo Mondadori Editore",
+            "Title": "Mr. Stone and the Knights Companion",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1988",
+            "Publisher": "Penguin Books",
+            "Title": "A House for Mr. Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1988",
+            "Publisher": "Penguin Books",
+            "Title": "A House for Mr. Biswas",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Demetrio Vittorini",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Alla Curva Del Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Demetrio Vittorini",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Rizzoli Libri",
+            "Title": "Alla Curva Del Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Demetrio Vittorini",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1989",
+            "Publisher": "Mondadori",
+            "Title": "Alla Curva Del Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator : Demetrio Vittorini",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1989",
+            "Publisher": "Mondadori",
+            "Title": "Alla Curva Del Fiume",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Trabslator: Mondadori",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1990",
+            "Publisher": "Mondadori",
+            "Title": "Elezioni A Elvira",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Trabslator: Mondadori",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1990",
+            "Publisher": "Mondadori",
+            "Title": "Elezioni A Elvira",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Trabslator: Mondadori",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1989",
+            "Publisher": "Mondadori",
+            "Title": "Nel Sud",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Trabslator: Mondadori",
+            "Genre": "Nonfiction",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1989",
+            "Publisher": "Mondadori",
+            "Title": "Nel Sud",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translators: Marco Paggi; Dida Paggi",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1988",
+            "Publisher": "Arnoldo Mondadori Editore",
+            "Title": "L'Enigma Dell'Arrivo: Un Romanzo In Cinque Parti",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translators: Marco Paggi; Dida Paggi",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "",
+            "Pubdate": "1988",
+            "Publisher": "Arnoldo Mondadori Editore",
+            "Title": "L'Enigma Dell'Arrivo: Un Romanzo In Cinque Parti",
+            "Translation": "y"
+        }
+    ],
+    "ylahens": [
+        {
+            "Author": "Yanick Lahens",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "2010",
+            "Publisher": "Barbès",
+            "Title": "Il Colore Dell'alba",
+            "Translation": "n"
+        },
+        {
+            "Author": "Yanick Lahens",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Italian",
+            "Pub_id": "firenze_italy",
+            "Pubdate": "2010",
+            "Publisher": "Barbès",
+            "Title": "Il Colore Dell'alba",
+            "Translation": "n"
         }
     ]
 }

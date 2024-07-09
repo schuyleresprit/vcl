@@ -1,1 +1,50 @@
-{}
+{
+    "jrhys": [
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Nasia Magiakou",
+            "Genre": "Fiction (Novel)",
+            "Language": "Greek",
+            "Pub_id": "athens_greece",
+            "Pubdate": "1987",
+            "Publisher": "Gnose",
+            "Title": "Hē platia thalassa tōn Sargassōn",
+            "Translation": "y"
+        },
+        {
+            "Author": "Jean Rhys",
+            "Descriptor": "Nasia Magiakou",
+            "Genre": "Fiction (Novel)",
+            "Language": "Greek",
+            "Pub_id": "athens_greece",
+            "Pubdate": "1987",
+            "Publisher": "Gnose",
+            "Title": "Hē platia thalassa tōn Sargassōn",
+            "Translation": "y"
+        }
+    ],
+    "rarenas": [
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Greek",
+            "Pub_id": "",
+            "Pubdate": "1984",
+            "Publisher": "Exantaz",
+            "Title": "O Selestino Prin Ten Auge",
+            "Translation": "y"
+        },
+        {
+            "Author": "Reinaldo Arenas",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Greek",
+            "Pub_id": "",
+            "Pubdate": "1984",
+            "Publisher": "Exantaz",
+            "Title": "O Selestino Prin Ten Auge",
+            "Translation": "y"
+        }
+    ]
+}

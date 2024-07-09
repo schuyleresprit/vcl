@@ -22,5 +22,51 @@
             "Title": "Generál Slunce",
             "Translation": "y"
         }
+    ],
+    "vsnaipaul": [
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Vladimír Klíma",
+            "Genre": "Fiction (Novel)",
+            "Language": "Czech",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Odeon",
+            "Title": "Dum Pro Pana Biswase",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "Translator: Vladimír Klíma",
+            "Genre": "Fiction (Novel)",
+            "Language": "Czech",
+            "Pub_id": "",
+            "Pubdate": "1982",
+            "Publisher": "Odeon",
+            "Title": "Dum Pro Pana Biswase",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Czech",
+            "Pub_id": "",
+            "Pubdate": "1985",
+            "Publisher": "Odeon",
+            "Title": "V Ohybu Reky",
+            "Translation": "y"
+        },
+        {
+            "Author": "V.S. Naipaul",
+            "Descriptor": "",
+            "Genre": "Fiction (Novel)",
+            "Language": "Czech",
+            "Pub_id": "",
+            "Pubdate": "1985",
+            "Publisher": "Odeon",
+            "Title": "V Ohybu Reky",
+            "Translation": "y"
+        }
     ]
 }
