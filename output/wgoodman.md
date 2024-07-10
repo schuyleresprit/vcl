@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: wgoodman'Author Name 
     permalink: /wgoodman
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Pearl Of The Antilles Or An Artist In Cuba</li>
-                <li><strong>Author:</strong> Walter Goodman</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1873</li>
                 <li><strong>Publisher:</strong> Henry S. King & Co.</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1873</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

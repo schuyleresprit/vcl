@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cfperkins'Author Name 
     permalink: /cfperkins
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Busha's Mistress, Or, Catherine The Fugitive: A Stirring Romance Of The Days Of Slavery In Jamaica</li>
-                <li><strong>Author:</strong> Cyrus Francis Perkins</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> princeton_nj_new_jersey</li>
-                <li><strong>Pubdate:</strong> 2003</li>
                 <li><strong>Publisher:</strong> Ian Randle Publishers</li>
+                <li><strong>Publication City:</strong> princeton_nj_new_jersey</li>
+                <li><strong>Publication Date:</strong> 2003</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

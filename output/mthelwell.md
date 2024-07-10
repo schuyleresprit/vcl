@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mthelwell'Author Name 
     permalink: /mthelwell
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> The Harder They Come</li>
-                <li><strong>Author:</strong> Michael Thelwell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1980</li>
                 <li><strong>Publisher:</strong> Grove Press</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1980</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Nine Night Version: Excerpted By The Massachusetts Review From The Harder they Come</li>
-                <li><strong>Author:</strong> Michael Thelwell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1980</li>
                 <li><strong>Publisher:</strong> Grove Press</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1980</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

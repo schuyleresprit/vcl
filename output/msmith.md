@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: msmith'Author Name 
     permalink: /msmith
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> It A Come</li>
-                <li><strong>Author:</strong> Michael Smith</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1986</li>
                 <li><strong>Publisher:</strong> City Lights Publishers</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1986</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

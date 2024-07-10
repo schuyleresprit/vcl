@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: caparsons'Author Name 
     permalink: /caparsons
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Lost Safe - A Baffling Mystery With A Dramatic Conclusion</li>
-                <li><strong>Author:</strong> Captain Anthony Parsons</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1932</li>
                 <li><strong>Publisher:</strong> Planters' Punch</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1932</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

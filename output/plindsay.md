@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: plindsay'Author Name 
     permalink: /plindsay
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Panama Is Burning</li>
-                <li><strong>Author:</strong> Philip Lindsay</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1934</li>
                 <li><strong>Publisher:</strong> Cassell</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1934</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

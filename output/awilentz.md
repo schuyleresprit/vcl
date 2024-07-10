@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: awilentz'Author Name 
     permalink: /awilentz
     ---
@@ -15,65 +15,55 @@
         
             <ul>
                 <li><strong>Title:</strong> The Rainy Season: Haiti Since Duvalier</li>
-                <li><strong>Author:</strong> Amy Wilentz</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1990</li>
                 <li><strong>Publisher:</strong> Simon & Schuster</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1990</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Return to the Darkest Days: Human Rights in Haiti Since the Coup</li>
-                <li><strong>Author:</strong> Amy Wilentz</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1991</li>
                 <li><strong>Publisher:</strong> Human Rights Watch</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1991</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Martyrs' Crossing</li>
-                <li><strong>Author:</strong> Amy Wilentz</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2001</li>
                 <li><strong>Publisher:</strong> Ballantine Books</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2001</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> I Feel Earthquakes More Often Than They Happen: Coming to California in the Age of Schwarzenegger</li>
-                <li><strong>Author:</strong> Amy Wilentz</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2006</li>
                 <li><strong>Publisher:</strong> Simon & Schuster</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2006</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Farewell, Fred Voodoo: A Letter From Haiti</li>
-                <li><strong>Author:</strong> Amy Wilentz</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Simon & Schuster</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ilferguson'Author Name 
     permalink: /ilferguson
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> The Biography of G. Wash Carter, White: Life Story of a Mississippi Peckerwood Whose Short Circuit Logic Kept Him Fantastically Embroiled; A "Laughogenic" Satirical Novel</li>
-                <li><strong>Author:</strong> Ira Lunan Ferguson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> san_francisco_ca_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1969</li>
                 <li><strong>Publisher:</strong> Lunan Ferguson Library</li>
+                <li><strong>Publication City:</strong> san_francisco_ca_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1969</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Which One of You Is Interracial? A Novelette and Other Stories: A Delightful Trilogy: 3 Enchanting Bedtime Stories for Adults</li>
-                <li><strong>Author:</strong> Ira Lunan Ferguson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> san_francisco_ca_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1969</li>
                 <li><strong>Publisher:</strong> Lunan Ferguson Library</li>
+                <li><strong>Publication City:</strong> san_francisco_ca_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1969</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

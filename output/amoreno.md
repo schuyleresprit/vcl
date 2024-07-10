@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: amoreno'Author Name 
     permalink: /amoreno
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> El Sueño Y El Laberinto</li>
-                <li><strong>Author:</strong> Antonio Moreno</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> ciego_de_√åvila_cuba</li>
-                <li><strong>Pubdate:</strong> 2007</li>
                 <li><strong>Publisher:</strong> Ediciones Ávila</li>
+                <li><strong>Publication City:</strong> ciego_de_√åvila_cuba</li>
+                <li><strong>Publication Date:</strong> 2007</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

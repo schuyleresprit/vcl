@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: oggoyco'Author Name 
     permalink: /oggoyco
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Tales of the Taíno Gods: How The Caribbean Sea Was Born</li>
-                <li><strong>Author:</strong> Osvaldo García Goyco</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> san_juan_puerto_rico</li>
-                <li><strong>Pubdate:</strong> 2010</li>
                 <li><strong>Publisher:</strong> Ediciones Zuimaco</li>
+                <li><strong>Publication City:</strong> san_juan_puerto_rico</li>
+                <li><strong>Publication Date:</strong> 2010</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

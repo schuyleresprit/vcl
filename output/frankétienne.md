@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: frankétienne'Author Name 
     permalink: /frankétienne
     ---

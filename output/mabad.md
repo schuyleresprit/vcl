@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mabad'Author Name 
     permalink: /mabad
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Cuentos Eróticos de Navidad</li>
-                <li><strong>Author:</strong> Mercedes Abad</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> barcelona_spain</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> Tusquets Editores S.A.</li>
+                <li><strong>Publication City:</strong> barcelona_spain</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

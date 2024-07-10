@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: iachuecos'Author Name 
     permalink: /iachuecos
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> La Novelística de Alejo Carpentier y Sus Claves Musicales</li>
-                <li><strong>Author:</strong> Isabel Abellán Chuecos</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> vigo_spain</li>
-                <li><strong>Pubdate:</strong> 2108</li>
                 <li><strong>Publisher:</strong> Editorial Academia del Hispanismo</li>
+                <li><strong>Publication City:</strong> vigo_spain</li>
+                <li><strong>Publication Date:</strong> 2108</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

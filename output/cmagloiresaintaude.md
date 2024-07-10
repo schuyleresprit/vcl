@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cmagloiresaintaude'Author Name 
     permalink: /cmagloiresaintaude
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Veillée</li>
-                <li><strong>Author:</strong> Clément Magloire-Saint-Aude</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> montréal_qc_canada</li>
-                <li><strong>Pubdate:</strong> 2003</li>
                 <li><strong>Publisher:</strong> Mémoire d'encrier</li>
+                <li><strong>Publication City:</strong> montréal_qc_canada</li>
+                <li><strong>Publication Date:</strong> 2003</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Dialogue de mes lampes</li>
-                <li><strong>Author:</strong> Clément Magloire-Saint-Aude</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1970</li>
                 <li><strong>Publisher:</strong> Jacques Veuillet</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1970</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rfpatterson'Author Name 
     permalink: /rfpatterson
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Resurrecting Rafael: Fictional Incarnations Of A Dominican Dictator</li>
-                <li><strong>Author:</strong> Richard F. Patterson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 2006</li>
                 <li><strong>Publisher:</strong> Callaloo</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 2006</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mprince'Author Name 
     permalink: /mprince
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Mary Prince. The History Of Mary Prince, A West Indian Slave. Related By Herself. With A Supplement By The Editor. To Which Is Added, The Narrative Of Asa-Asa, A Captured African.</li>
-                <li><strong>Author:</strong> Mary Prince</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Autobiography/ Memoir</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1831</li>
                 <li><strong>Publisher:</strong> F. Westley and A. H. Davis</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1831</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

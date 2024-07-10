@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: colabra'Author Name 
     permalink: /colabra
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Sombra Sere Que No Dama: Antologia Poetica</li>
-                <li><strong>Author:</strong> Carilda Oliver Labra</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 2000</li>
                 <li><strong>Publisher:</strong> Ediciones Unión</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 2000</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

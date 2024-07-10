@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: fwols'Author Name 
     permalink: /fwols
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Short Stories: An Attempt To Demolish The Language Barrier</li>
-                <li><strong>Author:</strong> Frits Wols</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> paramaribo_suriname</li>
-                <li><strong>Pubdate:</strong> 2004</li>
                 <li><strong>Publisher:</strong> Selbstverl</li>
+                <li><strong>Publication City:</strong> paramaribo_suriname</li>
+                <li><strong>Publication Date:</strong> 2004</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

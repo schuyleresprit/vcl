@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: vcapildeo'Author Name 
     permalink: /vcapildeo
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Measures of Expatriation</li>
-                <li><strong>Author:</strong> Vahni Capildeo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> manchester_england</li>
-                <li><strong>Pubdate:</strong> 2017</li>
                 <li><strong>Publisher:</strong> Carcanet Press</li>
+                <li><strong>Publication City:</strong> manchester_england</li>
+                <li><strong>Publication Date:</strong> 2017</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

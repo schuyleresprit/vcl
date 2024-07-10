@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lfmanigat'Author Name 
     permalink: /lfmanigat
     ---
@@ -15,39 +15,33 @@
         
             <ul>
                 <li><strong>Title:</strong> Une Date Littéraire, Un Événement Pédagogique</li>
-                <li><strong>Author:</strong> Leslie Francois Manigat</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Essay</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> port_au_prince_haiti</li>
-                <li><strong>Pubdate:</strong> 1962</li>
                 <li><strong>Publisher:</strong> Imp. La Phalange</li>
+                <li><strong>Publication City:</strong> port_au_prince_haiti</li>
+                <li><strong>Publication Date:</strong> 1962</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Statu Quo En Haiti? D'un Duvalier À L'autre: L'itinéraire D'un Fascisme De Sous-Développement</li>
-                <li><strong>Author:</strong> Leslie Francois Manigat</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Essay</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1971</li>
                 <li><strong>Publisher:</strong> La Technique du livre</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1971</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> L'Amérique latine au XXe Siècle. 1889-1929, volume 1</li>
-                <li><strong>Author:</strong> Leslie Francois Manigat</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Autobiography/Memoir</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1991</li>
                 <li><strong>Publisher:</strong> Seuil</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1991</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

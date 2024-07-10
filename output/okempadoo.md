@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: okempadoo'Author Name 
     permalink: /okempadoo
     ---
@@ -15,52 +15,44 @@
         
             <ul>
                 <li><strong>Title:</strong> All Decent Animals</li>
-                <li><strong>Author:</strong> Oonya Kempadoo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2013</li>
                 <li><strong>Publisher:</strong> Farrar, Straus and Giroux</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2013</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Buxton spice</li>
-                <li><strong>Author:</strong> Oonya Kempadoo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> Dutton</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Tide running</li>
-                <li><strong>Author:</strong> Oonya Kempadoo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2003</li>
                 <li><strong>Publisher:</strong> Farrar, Straus and Giroux</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2003</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> El árbol de los sentidos</li>
-                <li><strong>Author:</strong> Oonya Kempadoo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> madrid_spain</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> Tusquets Editores S.A.</li>
+                <li><strong>Publication City:</strong> madrid_spain</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

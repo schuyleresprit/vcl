@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cjones'Author Name 
     permalink: /cjones
     ---
@@ -15,52 +15,44 @@
         
             <ul>
                 <li><strong>Title:</strong> Walking Side by Side Devotions for Pilgrims</li>
-                <li><strong>Author:</strong> Cherie Jones</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> nashville_tn_united_states</li>
-                <li><strong>Pubdate:</strong> 1998</li>
                 <li><strong>Publisher:</strong> Upper Room Books</li>
+                <li><strong>Publication City:</strong> nashville_tn_united_states</li>
+                <li><strong>Publication Date:</strong> 1998</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> The Burning Bush Women and Other Stories</li>
-                <li><strong>Author:</strong> Cherie Jones</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_england</li>
-                <li><strong>Pubdate:</strong> 2004</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_england</li>
+                <li><strong>Publication Date:</strong> 2004</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> How the One-Armed Sister Sweeps Her House: A Novel</li>
-                <li><strong>Author:</strong> Cherie Jones</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> boston_ma_united_states</li>
-                <li><strong>Pubdate:</strong> 2021</li>
                 <li><strong>Publisher:</strong> Little, Brown and Company</li>
+                <li><strong>Publication City:</strong> boston_ma_united_states</li>
+                <li><strong>Publication Date:</strong> 2021</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Et d'un seul bras, la soeur balaie sa maison</li>
-                <li><strong>Author:</strong> Cherie Jones</li>
-                <li><strong>Descriptor:</strong> Translator: Jessica Shapiro</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 2021</li>
                 <li><strong>Publisher:</strong> Calmann-Lévy</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 2021</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

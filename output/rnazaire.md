@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rnazaire'Author Name 
     permalink: /rnazaire
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Ti-Kako Pli Malen Ki Djab-La</li>
-                <li><strong>Author:</strong> Robert Nazaire</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_fr_france</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> Éditions Caribéennes</li>
+                <li><strong>Publication City:</strong> paris_fr_france</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

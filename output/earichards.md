@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: earichards'Author Name 
     permalink: /earichards
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Shadows: Selected Poems</li>
-                <li><strong>Author:</strong> Edward A Richards</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> st.thomas_virgin_islands</li>
-                <li><strong>Pubdate:</strong> 1933</li>
                 <li><strong>Publisher:</strong> The Reflector, : Art Shop Press</li>
+                <li><strong>Publication City:</strong> st.thomas_virgin_islands</li>
+                <li><strong>Publication Date:</strong> 1933</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cvbriggs'Author Name 
     permalink: /cvbriggs
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Crusader: The Magazine Nearly Every Negro Reads</li>
-                <li><strong>Author:</strong> Cyril V Briggs</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1920</li>
                 <li><strong>Publisher:</strong> Éditeur Inconnu</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1920</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

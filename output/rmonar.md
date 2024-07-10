@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rmonar'Author Name 
     permalink: /rmonar
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> High House and Radio</li>
-                <li><strong>Author:</strong> Rooplall Monar</li>
-                <li><strong>Descriptor:</strong> 1991</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_england</li>
-                <li><strong>Pubdate:</strong> 1991</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_england</li>
+                <li><strong>Publication Date:</strong> 1991</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: alhendriks'Author Name 
     permalink: /alhendriks
     ---
@@ -15,52 +15,44 @@
         
             <ul>
                 <li><strong>Title:</strong> On This Mountain - and Other Poems</li>
-                <li><strong>Author:</strong> Arthur Lemiere Hendriks</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1965</li>
                 <li><strong>Publisher:</strong> Deutsch</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1965</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Madonna of the unknown nation</li>
-                <li><strong>Author:</strong> Arthur Lemiere Hendriks</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1974</li>
                 <li><strong>Publisher:</strong> Workshop Press</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1974</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> To Speak Simply: Selected Poems 1961-1986</li>
-                <li><strong>Author:</strong> Arthur Lemiere Hendriks</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> Hippopotamus Press</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Check</li>
-                <li><strong>Author:</strong> Arthur Lemiere Hendriks</li>
-                <li><strong>Descriptor:</strong> Co-author: Alan Harris</li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> wirral_england</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> Headland Publications</li>
+                <li><strong>Publication City:</strong> wirral_england</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

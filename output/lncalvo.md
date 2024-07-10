@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lncalvo'Author Name 
     permalink: /lncalvo
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Pedro Blanco, El Negrero</li>
-                <li><strong>Author:</strong> Lino Novás Calvo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> madrid_esp_spain</li>
-                <li><strong>Pubdate:</strong> 1955</li>
                 <li><strong>Publisher:</strong> Espasa-Calpe</li>
+                <li><strong>Publication City:</strong> madrid_esp_spain</li>
+                <li><strong>Publication Date:</strong> 1955</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

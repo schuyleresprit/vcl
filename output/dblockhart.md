@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: dblockhart'Author Name 
     permalink: /dblockhart
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Latin American Mystery Writers: An A-To-Z Guide.</li>
-                <li><strong>Author:</strong> Darrell B Lockhart</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> westport_ct_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2004</li>
                 <li><strong>Publisher:</strong> Greenwood Press</li>
+                <li><strong>Publication City:</strong> westport_ct_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2004</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

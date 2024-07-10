@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jhinkson'Author Name 
     permalink: /jhinkson
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Bolt Of Light</li>
-                <li><strong>Author:</strong> Joy Hinkson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> san_juan_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2016</li>
                 <li><strong>Publisher:</strong> Caribbean Print Technologies Limited</li>
+                <li><strong>Publication City:</strong> san_juan_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2016</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

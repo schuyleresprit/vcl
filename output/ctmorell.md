@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ctmorell'Author Name 
     permalink: /ctmorell
     ---
@@ -15,52 +15,44 @@
         
             <ul>
                 <li><strong>Title:</strong> Perverso Cubano</li>
-                <li><strong>Author:</strong> Claribel Terré Morell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> buenos_aires_argentina</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> La Bohemia</li>
+                <li><strong>Publication City:</strong> buenos_aires_argentina</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Cubana Confesión</li>
-                <li><strong>Author:</strong> Claribel Terré Morell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> buenos_aires_argentina</li>
-                <li><strong>Pubdate:</strong> 2000</li>
                 <li><strong>Publisher:</strong> Planeta Publishing</li>
+                <li><strong>Publication City:</strong> buenos_aires_argentina</li>
+                <li><strong>Publication Date:</strong> 2000</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> La muerte está servida: Félix Peyrallo Carbajal</li>
-                <li><strong>Author:</strong> Claribel Terré Morell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> buenos_aires_argentina</li>
-                <li><strong>Pubdate:</strong> 2006</li>
                 <li><strong>Publisher:</strong> La Bohemia</li>
+                <li><strong>Publication City:</strong> buenos_aires_argentina</li>
+                <li><strong>Publication Date:</strong> 2006</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Archivo de Guerra para Mujeres Decentes</li>
-                <li><strong>Author:</strong> Claribel Terré Morell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> buenos_aires_argentina</li>
-                <li><strong>Pubdate:</strong> 1997</li>
                 <li><strong>Publisher:</strong> Culturales Hierbabuena SRL</li>
+                <li><strong>Publication City:</strong> buenos_aires_argentina</li>
+                <li><strong>Publication Date:</strong> 1997</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

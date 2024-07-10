@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mnphillip'Author Name 
     permalink: /mnphillip
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Harriet's Daughter</li>
-                <li><strong>Author:</strong> M. Nourbese Phillip</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> portsmouth_nh_united_states</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> portsmouth_nh_united_states</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

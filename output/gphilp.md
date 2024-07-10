@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gphilp'Author Name 
     permalink: /gphilp
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Benjamin, My Son</li>
-                <li><strong>Author:</strong> Geoffrey Philp</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_england</li>
-                <li><strong>Pubdate:</strong> 2003</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_england</li>
+                <li><strong>Publication Date:</strong> 2003</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

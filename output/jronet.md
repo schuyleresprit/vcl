@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jronet'Author Name 
     permalink: /jronet
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> La Mueca De La Paloma Negra</li>
-                <li><strong>Author:</strong> Jorge Ronet</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> madrid_spain</li>
-                <li><strong>Pubdate:</strong> 1987</li>
                 <li><strong>Publisher:</strong> Editorial Playor</li>
+                <li><strong>Publication City:</strong> madrid_spain</li>
+                <li><strong>Publication Date:</strong> 1987</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Diptico Cubano : La Mueca De La Paloma Negra Desertores Del Paraiso</li>
-                <li><strong>Author:</strong> Jorge Ronet</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> madrid_spain</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> Ediciones Universal</li>
+                <li><strong>Publication City:</strong> madrid_spain</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mrigaud'Author Name 
     permalink: /mrigaud
     ---
@@ -15,39 +15,33 @@
         
             <ul>
                 <li><strong>Title:</strong> Jásus Ou Legba? Ecole Du Symbolisme Afro-Haitien</li>
-                <li><strong>Author:</strong> Milo Rigaud</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> vienne_france</li>
-                <li><strong>Pubdate:</strong> 1933</li>
                 <li><strong>Publisher:</strong> "Amis de la Poésie</li>
+                <li><strong>Publication City:</strong> vienne_france</li>
+                <li><strong>Publication Date:</strong> 1933</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Rhythmes Et Rites</li>
-                <li><strong>Author:</strong> Milo Rigaud</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> vienne_france</li>
-                <li><strong>Pubdate:</strong> 1932</li>
                 <li><strong>Publisher:</strong> J. Marciraux</li>
+                <li><strong>Publication City:</strong> vienne_france</li>
+                <li><strong>Publication Date:</strong> 1932</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Tassos</li>
-                <li><strong>Author:</strong> Milo Rigaud</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> niort_france</li>
-                <li><strong>Pubdate:</strong> 1933</li>
                 <li><strong>Publisher:</strong> Editions l'Action intellectuelle,</li>
+                <li><strong>Publication City:</strong> niort_france</li>
+                <li><strong>Publication Date:</strong> 1933</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

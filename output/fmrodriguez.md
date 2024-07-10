@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: fmrodriguez'Author Name 
     permalink: /fmrodriguez
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> La Esperanza En Pailock</li>
-                <li><strong>Author:</strong> Fabio Murrieta Rodríguez</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1994</li>
                 <li><strong>Publisher:</strong> Editorial Letras Cubanas</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1994</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

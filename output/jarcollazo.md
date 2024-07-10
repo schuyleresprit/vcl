@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jarcollazo'Author Name 
     permalink: /jarcollazo
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> La Novela Policiaca En Puerto Rico Y Cuba : Los Casos De Wilfredo Mattos Cintrón Y Leonardo Padura Fuentes</li>
-                <li><strong>Author:</strong> Jose? Antonio Ramos Collazo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> san_juan_puerto_rico</li>
-                <li><strong>Pubdate:</strong> 2009</li>
                 <li><strong>Publisher:</strong> University of Puerto Rico</li>
+                <li><strong>Publication City:</strong> san_juan_puerto_rico</li>
+                <li><strong>Publication Date:</strong> 2009</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

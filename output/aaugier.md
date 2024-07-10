@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: aaugier'Author Name 
     permalink: /aaugier
     ---
@@ -15,65 +15,55 @@
         
             <ul>
                 <li><strong>Title:</strong> Nicolas Guillen</li>
-                <li><strong>Author:</strong> Ángel Augier</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1971</li>
                 <li><strong>Publisher:</strong> Union de Escritores y Artistas de Cuba</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1971</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Prosa varia</li>
-                <li><strong>Author:</strong> Ángel Augier</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1982</li>
                 <li><strong>Publisher:</strong> Editorial Letras Cubanas</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1982</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Acercamientos a la poesía de Nicolás Guillén</li>
-                <li><strong>Author:</strong> Ángel Augier</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 2004</li>
                 <li><strong>Publisher:</strong> Pueblo y Educación</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 2004</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Cuba en Darío y Darío en Cuba</li>
-                <li><strong>Author:</strong> Ángel Augier</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1989</li>
                 <li><strong>Publisher:</strong> Editorial Letras Cubanas</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1989</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Todo el mar en la ola</li>
-                <li><strong>Author:</strong> Ángel Augier</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1989</li>
                 <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1989</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

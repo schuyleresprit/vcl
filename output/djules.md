@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: djules'Author Name 
     permalink: /djules
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> At the Rainbow's Edge</li>
-                <li><strong>Author:</strong> Didacus Jules</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Ian Randle Publishers</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

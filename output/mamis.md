@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mamis'Author Name 
     permalink: /mamis
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> La Enfermedad del Tiempo</li>
-                <li><strong>Author:</strong> Martin Amis</li>
-                <li><strong>Descriptor:</strong> Infante, Guillermo Cabrera</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> madrid_spain</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> El País</li>
+                <li><strong>Publication City:</strong> madrid_spain</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

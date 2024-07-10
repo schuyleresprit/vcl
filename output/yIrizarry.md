@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: yIrizarry'Author Name 
     permalink: /yIrizarry
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Doubly Troubling Narratives</li>
-                <li><strong>Author:</strong> Ylce Irizarry</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> thousand_oaks_ca_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2006</li>
                 <li><strong>Publisher:</strong> Sage Publications</li>
+                <li><strong>Publication City:</strong> thousand_oaks_ca_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2006</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

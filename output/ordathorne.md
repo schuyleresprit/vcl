@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ordathorne'Author Name 
     permalink: /ordathorne
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Caribbean Narrative: An Anthology of West Indian Writing</li>
-                <li><strong>Author:</strong> O.R Dathorne</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1965</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1965</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

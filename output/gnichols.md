@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gnichols'Author Name 
     permalink: /gnichols
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Whole Of A Morning Sky</li>
-                <li><strong>Author:</strong> Grace Nichols</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1986</li>
                 <li><strong>Publisher:</strong> Virago Press</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1986</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

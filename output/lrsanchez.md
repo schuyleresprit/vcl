@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lrsanchez'Author Name 
     permalink: /lrsanchez
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Macho Camacho's Beat</li>
-                <li><strong>Author:</strong> Luis Rafael Sánchez</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1982</li>
                 <li><strong>Publisher:</strong> Avon</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1982</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> La Guaracha Del Macho Camacho</li>
-                <li><strong>Author:</strong> Luis Rafael Sánchez</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> buenos_aires_argentina</li>
-                <li><strong>Pubdate:</strong> 1976</li>
                 <li><strong>Publisher:</strong> Ediciones de la flor</li>
+                <li><strong>Publication City:</strong> buenos_aires_argentina</li>
+                <li><strong>Publication Date:</strong> 1976</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

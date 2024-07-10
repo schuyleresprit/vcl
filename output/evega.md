@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: evega'Author Name 
     permalink: /evega
     ---
@@ -15,117 +15,99 @@
         
             <ul>
                 <li><strong>Title:</strong> Metropolis: New Revised Edition</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> Co-Author: Thea Von Harbou</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Noir Nation Books</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Noir Nation: International Crime Fiction No. 1</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> Contributors: Jean Charbonneau, Leah Chamberlain, Scott Wolven, Tristan Davies, Paul D. Brazill, JJ Toner, Alan Ward Thomas, Cortright McMeel</li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny__united_states</li>
-                <li><strong>Pubdate:</strong> 2013</li>
                 <li><strong>Publisher:</strong> VegaWire Media</li>
+                <li><strong>Publication City:</strong> new_york_ny__united_states</li>
+                <li><strong>Publication Date:</strong> 2013</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Noir Nation: International Crime Fiction No. 2</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny__united_states</li>
-                <li><strong>Pubdate:</strong> 2013</li>
                 <li><strong>Publisher:</strong> Noir Nation Books</li>
+                <li><strong>Publication City:</strong> new_york_ny__united_states</li>
+                <li><strong>Publication Date:</strong> 2013</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Noir Nation: International Crime Fiction No. 3: The India Issue</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> Contributors: Suparn Verma, Samrat, Cortright McMeel, Yaeer Talker, Kshemendra, Jonathan Sturak, Graham Wynd, David Siddell, Richard Godwin</li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny__united_states</li>
-                <li><strong>Pubdate:</strong> 2013</li>
                 <li><strong>Publisher:</strong> Noir Nation Books</li>
+                <li><strong>Publication City:</strong> new_york_ny__united_states</li>
+                <li><strong>Publication Date:</strong> 2013</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Noir Nation No. 4: The Canada Issue</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> Contributors: Jonathan Sturak, Marina Perezagua, Richard Godwin, Lauren Cahn, Rob Brunet, Melodie Campbell, Bianca Bellova, Mary Agnes Fleming, George Beck</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny__united_states</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Noir Nation Books</li>
+                <li><strong>Publication City:</strong> new_york_ny__united_states</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Noir Nation: International Crime Fiction No. 5: Jihad and its Metaphors</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> Contributors: A.J. Sidransky, Frank Sonderborg, Barbie Wilde, Lindsay Moran, Lauren Cahn, Doug Levy, Diane Vacca</li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny__united_states</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Noir Nation Books</li>
+                <li><strong>Publication City:</strong> new_york_ny__united_states</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Noir Nation: International Journal of Crime Fiction No. 6: The Jazz Issue</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> Contributors: Gary Phillips, Tatiana Eva-Marie, JC Hopkins</li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny__united_states</li>
-                <li><strong>Pubdate:</strong> 2017</li>
                 <li><strong>Publisher:</strong> Noir Nation Books</li>
+                <li><strong>Publication City:</strong> new_york_ny__united_states</li>
+                <li><strong>Publication Date:</strong> 2017</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Noir Nation No. 7: The Golden Fedora Poetry Prize Issue</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> Contributors: George Perreault, Bianca Bellova, Adam Ward, David Keaton, Ava Black ,Simon Rowe, Barbie Wilde, JJ Toner, Deborah Pintonelli</li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny__united_states</li>
-                <li><strong>Pubdate:</strong> 2019</li>
                 <li><strong>Publisher:</strong> Noir Nation Books</li>
+                <li><strong>Publication City:</strong> new_york_ny__united_states</li>
+                <li><strong>Publication Date:</strong> 2019</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Awake Now, Sailor</li>
-                <li><strong>Author:</strong> Eddie Vega</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2011</li>
                 <li><strong>Publisher:</strong> Bare Knuckles Press</li>
+                <li><strong>Publication City:</strong> new_york_ny_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2011</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

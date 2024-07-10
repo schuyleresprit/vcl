@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: msbrown'Author Name 
     permalink: /msbrown
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Children's Stories From The Bocas Lit Fest 2011</li>
-                <li><strong>Author:</strong> Marina Salandy-Brown</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2011</li>
                 <li><strong>Publisher:</strong> Bocas Lit Fest</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2011</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: baperez'Author Name 
     permalink: /baperez
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Excursion</li>
-                <li><strong>Author:</strong> Brenda Alexander-Perez</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novella)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> scarborough_canada</li>
-                <li><strong>Pubdate:</strong> 2005</li>
                 <li><strong>Publisher:</strong> Brenda Alexander-Perez</li>
+                <li><strong>Publication City:</strong> scarborough_canada</li>
+                <li><strong>Publication Date:</strong> 2005</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

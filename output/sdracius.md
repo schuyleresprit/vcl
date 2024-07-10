@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: sdracius'Author Name 
     permalink: /sdracius
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Climb to the Sky</li>
-                <li><strong>Author:</strong> Suzanne Dracius</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> charlottesville_va_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2012</li>
                 <li><strong>Publisher:</strong> University of Virginia Press</li>
+                <li><strong>Publication City:</strong> charlottesville_va_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2012</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

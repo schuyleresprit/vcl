@@ -1,0 +1,115 @@
+<div class="container">
+        <div class="input-group mb-3">
+            <input id="search-box" type="text" class="form-control" placeholder="Search for an author">
+        </div>
+        <div id="data-container" class="row"></div>
+    </div>
+
+    <script>
+        const datasets = [
+            {
+                type: "authors",
+                url: "{{ site.baseurl }}/data/authors.json"
+            }
+        ];
+
+        const dataLinks = [];
+
+        $(document).ready(function() {
+            datasets.forEach(dataset => {
+                dataLinks.push({
+                    type: dataset.type,
+                    data: siftData(dataset.url, dataset.type)
+                });
+            });
+
+            $('#search-box').on('input', function(event) {
+                showCategory(event.target.value);
+            });
+
+            setTimeout(() => showCategory(), 1000);
+        });
+
+        function siftData(url, dataType) {
+            const temp = [];
+            $.getJSON(url, function(data) {
+                if (dataType === "authors") {
+                    for (const key in data) {
+                        if (data.hasOwnProperty(key)) {
+                            temp.push({
+                                flavorText: data[key].Author,
+                                subtitle: data[key].author_country,
+                                link: data[key].author_id
+                            });
+                        }
+                    }
+                }
+            });
+            return temp;
+        }
+
+        function showCategory(filter = "") {
+            $('#data-container').html('');
+            filter = filter.trim().toLowerCase();
+
+            dataLinks.forEach(element => {
+                if (filter === "" && element.data.length > 0) {
+                    element.data.forEach(data => {
+                        appendCard(data);
+                    });
+                } else {
+                    element.data.forEach(data => {
+                        if (data.flavorText.toLowerCase().includes(filter)) {
+                            appendCard(data);
+                        }
+                    });
+                }
+            });
+        }
+
+        function appendCard(data) {
+            $('#data-container').append(`
+                <div class="card col-4">
+                    <div class="card-body">
+                        <h5 class="card-title">${data.flavorText}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">${data.subtitle}</h6>
+                        <a href="#" class="card-link" data-authorid="${data.link}">More</a>
+                    </div>
+                </div>
+            `);
+
+            $('.card-link').off('click').on('click', function(event) {
+                event.preventDefault();
+                const authorId = $(this).data('authorid');
+                showAuthorDetails(authorId);
+            });
+        }
+
+        function showAuthorDetails(authorId) {
+            const url = "{{ site.baseurl }}/data/publications.json";
+            $.getJSON(url, function(data) {
+                const authorPublications = data[authorId];
+                let htmlContent = `
+                <h1>Author Details - ${authorId}</h1>
+                `;
+
+                authorPublications.forEach(publication => {
+                    htmlContent += `
+                    <ul>
+                        <li><strong>Title:</strong> ${publication.Title}</li>
+                        <li><strong>Genre:</strong> ${publication.Genre}</li>
+                        <li><strong>Language:</strong> ${publication.Language}</li>
+                        <li><strong>Publisher:</strong> ${publication.Publisher}</li>
+                        <li><strong>Publication City:</strong> ${publication.Pub_id}</li>
+                        <li><strong>Publication Date:</strong> ${publication.Pubdate}</li>
+                        <li><strong>Translation:</strong> ${publication.Translation}</li>
+                    </ul>
+                    <hr>
+                    `;
+                });
+
+                $('#data-container').html(htmlContent);
+            });
+        }
+    </script>
+

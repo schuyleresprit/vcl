@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jortega'Author Name 
     permalink: /jortega
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Guillermo Cabrera Infante</li>
-                <li><strong>Author:</strong> Julio Ortega</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> madrid_spain</li>
-                <li><strong>Pubdate:</strong> 1974</li>
                 <li><strong>Publisher:</strong> Editorial Fundamentos</li>
+                <li><strong>Publication City:</strong> madrid_spain</li>
+                <li><strong>Publication Date:</strong> 1974</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

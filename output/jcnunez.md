@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jcnunez'Author Name 
     permalink: /jcnunez
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Retrato Hablado: Entrevistas Con Personajes De Guadalajara</li>
-                <li><strong>Author:</strong> Juan Carlos Nunez</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> guadalajara_mexico</li>
-                <li><strong>Pubdate:</strong> 2020</li>
                 <li><strong>Publisher:</strong> Editorial Universidad de Guadalajara</li>
+                <li><strong>Publication City:</strong> guadalajara_mexico</li>
+                <li><strong>Publication Date:</strong> 2020</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

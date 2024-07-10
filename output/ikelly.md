@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ikelly'Author Name 
     permalink: /ikelly
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Brackish Water: Stories</li>
-                <li><strong>Author:</strong> Ivory Kelly</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> greenville_nc_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2011</li>
                 <li><strong>Publisher:</strong> East Carolina University</li>
+                <li><strong>Publication City:</strong> greenville_nc_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2011</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

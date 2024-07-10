@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: msueroduran'Author Name 
     permalink: /msueroduran
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Dominican Doll, Caribbean Treasure: Muñeca Dominicana, Caribeño Tesoro</li>
-                <li><strong>Author:</strong> Margarita Suero-Duran</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Short Story</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> thorofare_nj_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Xlibris LLC</li>
+                <li><strong>Publication City:</strong> thorofare_nj_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

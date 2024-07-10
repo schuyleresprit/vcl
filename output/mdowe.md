@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mdowe'Author Name 
     permalink: /mdowe
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Mamo!: A Personal Portrait</li>
-                <li><strong>Author:</strong> Marion Dowe</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> roseau_dominica</li>
-                <li><strong>Pubdate:</strong> 1989</li>
                 <li><strong>Publisher:</strong> Tropical Printers</li>
+                <li><strong>Publication City:</strong> roseau_dominica</li>
+                <li><strong>Publication Date:</strong> 1989</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

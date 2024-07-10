@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cvillaverde'Author Name 
     permalink: /cvillaverde
     ---
@@ -15,52 +15,44 @@
         
             <ul>
                 <li><strong>Title:</strong> La joven de la flecha del oro</li>
-                <li><strong>Author:</strong> Cirilo Villaverde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1980</li>
                 <li><strong>Publisher:</strong> Editorial Letras Cubanas</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1980</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> El Guajiro</li>
-                <li><strong>Author:</strong> Cirilo Villaverde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1890</li>
                 <li><strong>Publisher:</strong> La imprenta - Lucha por la educación</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1890</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Cecilia Valdés o La Loma del Angel</li>
-                <li><strong>Author:</strong> Cirilo Villaverde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> madrid_spain</li>
-                <li><strong>Pubdate:</strong> 2001</li>
                 <li><strong>Publisher:</strong> Ediciones Cátedra</li>
+                <li><strong>Publication City:</strong> madrid_spain</li>
+                <li><strong>Publication Date:</strong> 2001</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Dos Amores</li>
-                <li><strong>Author:</strong> Cirilo Villaverde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1987</li>
                 <li><strong>Publisher:</strong> Cultural, S.A.</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1987</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

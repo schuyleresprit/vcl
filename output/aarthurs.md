@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: aarthurs'Author Name 
     permalink: /aarthurs
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> How To Love a Jamaican: Stories</li>
-                <li><strong>Author:</strong> Alexia Arthurs</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2019</li>
                 <li><strong>Publisher:</strong> Ballantine Books</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2019</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

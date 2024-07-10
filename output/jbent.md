@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jbent'Author Name 
     permalink: /jbent
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> The Green Banana Hunt</li>
-                <li><strong>Author:</strong> Jennifer Bent</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> tulsa_ok_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1992</li>
                 <li><strong>Publisher:</strong> Deutsch</li>
+                <li><strong>Publication City:</strong> tulsa_ok_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1992</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> How Anansi Captured the Tiger Stories</li>
-                <li><strong>Author:</strong> Jennifer Bent</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> (london)_england</li>
-                <li><strong>Pubdate:</strong> 1996</li>
                 <li><strong>Publisher:</strong> Dutton</li>
+                <li><strong>Publication City:</strong> (london)_england</li>
+                <li><strong>Publication Date:</strong> 1996</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mbreton'Author Name 
     permalink: /mbreton
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Rhythm & Revolt: Tales of the Antilles</li>
-                <li><strong>Author:</strong>  Marcela Breton</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1995</li>
                 <li><strong>Publisher:</strong> Plume</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1995</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

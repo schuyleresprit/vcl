@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: twilliams'Author Name 
     permalink: /twilliams
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Masterplots II</li>
-                <li><strong>Author:</strong> Tyrone Williams</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> pasadena_ca_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2009</li>
                 <li><strong>Publisher:</strong> Salem Press</li>
+                <li><strong>Publication City:</strong> pasadena_ca_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2009</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

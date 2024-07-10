@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: swynter'Author Name 
     permalink: /swynter
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Hills Of Hebron: A Jamaican Novel</li>
-                <li><strong>Author:</strong> Sylvia Wynter</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> manhattan_ny_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1962</li>
                 <li><strong>Publisher:</strong> Simon and Schuster</li>
+                <li><strong>Publication City:</strong> manhattan_ny_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1962</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

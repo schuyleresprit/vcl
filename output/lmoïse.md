@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lmoïse'Author Name 
     permalink: /lmoïse
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Haiti Glass</li>
-                <li><strong>Author:</strong> Lenelle Moïse</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> City Lights Booksellers & Publishers</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

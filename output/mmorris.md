@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mmorris'Author Name 
     permalink: /mmorris
     ---
@@ -15,91 +15,77 @@
         
             <ul>
                 <li><strong>Title:</strong> The Faber Book of Contemporary Caribbean Short Stories</li>
-                <li><strong>Author:</strong> Mervyn Morris</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1990</li>
                 <li><strong>Publisher:</strong> Faber and Faber</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1990</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> On Holy Week: A Sequence of Poems for Radio</li>
-                <li><strong>Author:</strong> Mervyn Morris</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1976</li>
                 <li><strong>Publisher:</strong> Pathways Publications</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1976</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Focus: An Anthology of Contemporary Jamaican Writing</li>
-                <li><strong>Author:</strong> Mervyn Morris</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1956</li>
                 <li><strong>Publisher:</strong> Caribbean Authors Publishing Co.</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1956</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Another Claude McKay a Poet of Love</li>
-                <li><strong>Author:</strong> Mervyn Morris</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> na_na</li>
-                <li><strong>Pubdate:</strong> 1985</li>
                 <li><strong>Publisher:</strong> NA</li>
+                <li><strong>Publication City:</strong> na_na</li>
+                <li><strong>Publication Date:</strong> 1985</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Louise Bennett in Print</li>
-                <li><strong>Author:</strong> Mervyn Morris</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> mona_jamaica</li>
-                <li><strong>Pubdate:</strong> 1982</li>
                 <li><strong>Publisher:</strong> Caribbean Quarterly</li>
+                <li><strong>Publication City:</strong> mona_jamaica</li>
+                <li><strong>Publication Date:</strong> 1982</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> On Holy Week</li>
-                <li><strong>Author:</strong> Mervyn Morris</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1976</li>
                 <li><strong>Publisher:</strong> Sangster's Book Stores</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1976</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Gender In 'Summer lightning' And 'Talking Of trees'</li>
-                <li><strong>Author:</strong> Mervyn Morris</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> mona_jamaica</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> Women and Development Studies, Institute of International Relations, University of the West Indies</li>
+                <li><strong>Publication City:</strong> mona_jamaica</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jaalix'Author Name 
     permalink: /jaalix
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Décimas</li>
-                <li><strong>Author:</strong> Juan Antonio Alix</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> santo_domingo_dominican_republic</li>
-                <li><strong>Pubdate:</strong> 1927</li>
                 <li><strong>Publisher:</strong> Impr. de J.R. vda. García, sucesores</li>
+                <li><strong>Publication City:</strong> santo_domingo_dominican_republic</li>
+                <li><strong>Publication Date:</strong> 1927</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

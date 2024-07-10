@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: atous'Author Name 
     permalink: /atous
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> La Poesia De Nicolas Guillen</li>
-                <li><strong>Author:</strong> Adriana Tous</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> madrid_spain</li>
-                <li><strong>Pubdate:</strong> 1971</li>
                 <li><strong>Publisher:</strong> Ediciones Cultura Hispanica</li>
+                <li><strong>Publication City:</strong> madrid_spain</li>
+                <li><strong>Publication Date:</strong> 1971</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: nshewcharan'Author Name 
     permalink: /nshewcharan
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Tomorrow Is Another Day</li>
-                <li><strong>Author:</strong> Narmala Shewcharan</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> yorkshire_england</li>
-                <li><strong>Pubdate:</strong> 1994</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> yorkshire_england</li>
+                <li><strong>Publication Date:</strong> 1994</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

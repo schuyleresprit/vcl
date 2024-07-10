@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rmartínez'Author Name 
     permalink: /rmartínez
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Había Una Vez : Cuentos Tradicionales Latino Americanos</li>
-                <li><strong>Author:</strong> Rueben Martínez</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2010</li>
                 <li><strong>Publisher:</strong> HarperCollins Espanol</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2010</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

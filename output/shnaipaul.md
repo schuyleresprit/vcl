@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: shnaipaul'Author Name 
     permalink: /shnaipaul
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Chip-Chip Gatherers</li>
-                <li><strong>Author:</strong> Shiva Naipaul</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 2012</li>
                 <li><strong>Publisher:</strong> Penguin Books</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 2012</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mjchapman'Author Name 
     permalink: /mjchapman
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Barbadoes, and Other Poems</li>
-                <li><strong>Author:</strong>  Matthew James Chapman</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1833</li>
                 <li><strong>Publisher:</strong> James Fraser</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1833</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

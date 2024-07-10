@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ssarduy'Author Name 
     permalink: /ssarduy
     ---
@@ -15,39 +15,33 @@
         
             <ul>
                 <li><strong>Title:</strong> Cobra</li>
-                <li><strong>Author:</strong> Severo Sarduy</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1972</li>
                 <li><strong>Publisher:</strong> Éditions du Seuil</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1972</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Gestes</li>
-                <li><strong>Author:</strong> Severo Sarduy</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1963</li>
                 <li><strong>Publisher:</strong> Éditions du Seuil</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1963</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Big-Bang</li>
-                <li><strong>Author:</strong> Severo Sarduy</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> barcelona_spain</li>
-                <li><strong>Pubdate:</strong> 1973</li>
                 <li><strong>Publisher:</strong> Tusquets Editores S.A.</li>
+                <li><strong>Publication City:</strong> barcelona_spain</li>
+                <li><strong>Publication Date:</strong> 1973</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

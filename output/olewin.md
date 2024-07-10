@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: olewin'Author Name 
     permalink: /olewin
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Some Jamaican Folk Songs</li>
-                <li><strong>Author:</strong> Olive Lewin</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> oxford_england</li>
-                <li><strong>Pubdate:</strong> 1970</li>
                 <li><strong>Publisher:</strong> Oxford University Press</li>
+                <li><strong>Publication City:</strong> oxford_england</li>
+                <li><strong>Publication Date:</strong> 1970</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: vspence'Author Name 
     permalink: /vspence
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Roads Are Down</li>
-                <li><strong>Author:</strong> Vanessa Spence</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> oxford_england</li>
-                <li><strong>Pubdate:</strong> 1993</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> oxford_england</li>
+                <li><strong>Publication Date:</strong> 1993</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

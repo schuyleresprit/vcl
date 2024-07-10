@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rrobinson'Author Name 
     permalink: /rrobinson
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> A Portable Paradise</li>
-                <li><strong>Author:</strong> Roger Robinson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_england</li>
-                <li><strong>Pubdate:</strong> 2019</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_england</li>
+                <li><strong>Publication Date:</strong> 2019</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lcazal'Author Name 
     permalink: /lcazal
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Une Journée Miklon: Roman</li>
-                <li><strong>Author:</strong> Louison Cazal</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> matoury_french_guiana</li>
-                <li><strong>Pubdate:</strong> 2004</li>
                 <li><strong>Publisher:</strong> Ibis Rouge</li>
+                <li><strong>Publication City:</strong> matoury_french_guiana</li>
+                <li><strong>Publication Date:</strong> 2004</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

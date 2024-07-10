@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rtjeschonek'Author Name 
     permalink: /rtjeschonek
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Dancing Dead</li>
-                <li><strong>Author:</strong> Robert T. Jeschonek</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1930</li>
                 <li><strong>Publisher:</strong> Planters' Punch</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1930</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

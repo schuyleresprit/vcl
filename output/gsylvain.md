@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gsylvain'Author Name 
     permalink: /gsylvain
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Cric? Crac!: Krik? Krak! : Fables Crèoles</li>
-                <li><strong>Author:</strong> Georges Sylvain</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> port_au_prince_haiti</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> FOKAL</li>
+                <li><strong>Publication City:</strong> port_au_prince_haiti</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Confidences et Mélancolies</li>
-                <li><strong>Author:</strong> Georges Sylvain</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1901</li>
                 <li><strong>Publisher:</strong> Ateliers Haïtiens</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1901</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

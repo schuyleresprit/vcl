@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rmaharaj'Author Name 
     permalink: /rmaharaj
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Writer and His Wife and Other Stories</li>
-                <li><strong>Author:</strong> Rabindranath Maharaj</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_england</li>
-                <li><strong>Pubdate:</strong> 1996</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_england</li>
+                <li><strong>Publication Date:</strong> 1996</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: pajeanty'Author Name 
     permalink: /pajeanty
     ---
@@ -15,104 +15,88 @@
         
             <ul>
                 <li><strong>Title:</strong> In Love With You</li>
-                <li><strong>Author:</strong> Pierre Alex Jeanty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> lehigh_acres_fl_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2018</li>
                 <li><strong>Publisher:</strong> Jeanius Publishing LLC</li>
+                <li><strong>Publication City:</strong> lehigh_acres_fl_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2018</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Him</li>
-                <li><strong>Author:</strong> Pierre Alex Jeanty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> lehigh_acres_fl_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2018</li>
                 <li><strong>Publisher:</strong> Jeanius Publishing LLC</li>
+                <li><strong>Publication City:</strong> lehigh_acres_fl_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2018</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Apologies That Never Came</li>
-                <li><strong>Author:</strong> Pierre Alex Jeanty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kansas_city_mo_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2019</li>
                 <li><strong>Publisher:</strong> Andrews McMeel Publishing</li>
+                <li><strong>Publication City:</strong> kansas_city_mo_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2019</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Heal. Grow. Love: Words To Help You Become</li>
-                <li><strong>Author:</strong> Pierre Alex Jeanty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> lehigh_acres_fl_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2021</li>
                 <li><strong>Publisher:</strong> Jeanius Publishing LLC</li>
+                <li><strong>Publication City:</strong> lehigh_acres_fl_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2021</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Ashes Of Her Love</li>
-                <li><strong>Author:</strong> Pierre Alex Jeanty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> lehigh_acres_fl_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2019</li>
                 <li><strong>Publisher:</strong> Jeanius Publishing LLC</li>
+                <li><strong>Publication City:</strong> lehigh_acres_fl_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2019</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Her</li>
-                <li><strong>Author:</strong> Pierre Alex Jeanty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> lehigh_acres_fl_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2017</li>
                 <li><strong>Publisher:</strong> Jeanius Publishing LLC</li>
+                <li><strong>Publication City:</strong> lehigh_acres_fl_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2017</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Her II</li>
-                <li><strong>Author:</strong> Pierre Alex Jeanty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> lehigh_acres_fl_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2017</li>
                 <li><strong>Publisher:</strong> Jeanius Publishing LLC</li>
+                <li><strong>Publication City:</strong> lehigh_acres_fl_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2017</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Unspoken Feelings Of A Gentleman</li>
-                <li><strong>Author:</strong> Pierre Alex Jeanty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> lehigh_acres_fl_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2015</li>
                 <li><strong>Publisher:</strong> Jeanius Publishing LLC</li>
+                <li><strong>Publication City:</strong> lehigh_acres_fl_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2015</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

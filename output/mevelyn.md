@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mevelyn'Author Name 
     permalink: /mevelyn
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Turtle Run</li>
-                <li><strong>Author:</strong> Marie Evelyn</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> cardiff_wales</li>
-                <li><strong>Pubdate:</strong> 2016</li>
                 <li><strong>Publisher:</strong> Accent Press</li>
+                <li><strong>Publication City:</strong> cardiff_wales</li>
+                <li><strong>Publication Date:</strong> 2016</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

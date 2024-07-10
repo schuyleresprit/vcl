@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mpbartonromeo'Author Name 
     permalink: /mpbartonromeo
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Prisoners</li>
-                <li><strong>Author:</strong> Michelle Paula Barton-Romeo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> cambridge_england</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Cambridge University Press</li>
+                <li><strong>Publication City:</strong> cambridge_england</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

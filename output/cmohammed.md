@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cmohammed'Author Name 
     permalink: /cmohammed
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Pleasant View</li>
-                <li><strong>Author:</strong> Celeste Mohammed</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_ldn_england</li>
-                <li><strong>Pubdate:</strong> 2022</li>
                 <li><strong>Publisher:</strong> Books by Jacaranda Books Art Music Ltd</li>
+                <li><strong>Publication City:</strong> london_ldn_england</li>
+                <li><strong>Publication Date:</strong> 2022</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> A Different Energy: Women in Caribbean Oil & Gas</li>
-                <li><strong>Author:</strong> Celeste Mohammed</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Non-Fiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port-of-spain_trinidad+tobago</li>
-                <li><strong>Pubdate:</strong> 2023</li>
                 <li><strong>Publisher:</strong> Words Matter Communications Limited</li>
+                <li><strong>Publication City:</strong> port-of-spain_trinidad+tobago</li>
+                <li><strong>Publication Date:</strong> 2023</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

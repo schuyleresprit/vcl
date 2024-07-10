@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: maantoine'Author Name 
     permalink: /maantoine
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Louis Etienne Lysius Félicité Salomon Jeune</li>
-                <li><strong>Author:</strong> Max A Antoine</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> port_au_prince_haiti</li>
-                <li><strong>Pubdate:</strong> 1968</li>
                 <li><strong>Publisher:</strong> Impr. H. Deschamps</li>
+                <li><strong>Publication City:</strong> port_au_prince_haiti</li>
+                <li><strong>Publication Date:</strong> 1968</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

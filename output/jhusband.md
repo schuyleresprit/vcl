@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jhusband'Author Name 
     permalink: /jhusband
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Citadel Or The Ring Of Dessalines</li>
-                <li><strong>Author:</strong> Joseph Husband</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1925</li>
                 <li><strong>Publisher:</strong> Planters' Punch</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1925</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

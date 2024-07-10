@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cthompson'Author Name 
     permalink: /cthompson
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> These My People</li>
-                <li><strong>Author:</strong> Claude Thompson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1943</li>
                 <li><strong>Publisher:</strong> The Herald Ltd. Printers</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1943</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: arsantos'Author Name 
     permalink: /arsantos
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Our Caribbean Kin: Race And Nation In The Neoliberal Antilles</li>
-                <li><strong>Author:</strong> Alaí Reyes-Santos</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_brunswick_nj_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2015</li>
                 <li><strong>Publisher:</strong> Rutgers University Press</li>
+                <li><strong>Publication City:</strong> new_brunswick_nj_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2015</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

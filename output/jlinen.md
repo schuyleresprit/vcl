@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jlinen'Author Name 
     permalink: /jlinen
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Former Kingston</li>
-                <li><strong>Author:</strong> James Linen</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1933</li>
                 <li><strong>Publisher:</strong> Planters' Punch</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1933</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: wtvollmann'Author Name 
     permalink: /wtvollmann
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Grand Street 61: All American</li>
-                <li><strong>Author:</strong> William T Vollmann</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> urbana_il_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1997</li>
                 <li><strong>Publisher:</strong> Distributed Art Pub Inc</li>
+                <li><strong>Publication City:</strong> urbana_il_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1997</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: umarson'Author Name 
     permalink: /umarson
     ---
@@ -15,39 +15,33 @@
         
             <ul>
                 <li><strong>Title:</strong> The Women's Institute Movement in Great Britain Eight Broadcasts Made by the British Broadcasting Corporation in 1943 With a Foreword by Sir Frank Stockdale, Comtroller for Development and Welfare in the West Indies</li>
-                <li><strong>Author:</strong> Una Marson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> fontabelle_bb_08_barbados</li>
-                <li><strong>Pubdate:</strong> 1944</li>
                 <li><strong>Publisher:</strong> Barbados Advocate Co.</li>
+                <li><strong>Publication City:</strong> fontabelle_bb_08_barbados</li>
+                <li><strong>Publication Date:</strong> 1944</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Pocomania and London calling</li>
-                <li><strong>Author:</strong> Una Marson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 2016</li>
                 <li><strong>Publisher:</strong> Blouse & Skirt Books</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 2016</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Selected poems</li>
-                <li><strong>Author:</strong> Una Marson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_ldn_england</li>
-                <li><strong>Pubdate:</strong> 2011</li>
                 <li><strong>Publisher:</strong> Peepal Tree</li>
+                <li><strong>Publication City:</strong> leeds_ldn_england</li>
+                <li><strong>Publication Date:</strong> 2011</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

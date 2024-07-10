@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mdcarrion'Author Name 
     permalink: /mdcarrion
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> El Milagro y la Esfinge</li>
-                <li><strong>Author:</strong>  Miguel de Carrión</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1976</li>
                 <li><strong>Publisher:</strong> Mercaderes</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1976</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

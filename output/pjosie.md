@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: pjosie'Author Name 
     permalink: /pjosie
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Shattered Dreams: A Political Odyssey In Post-Independence</li>
-                <li><strong>Author:</strong> Peter Josie</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Autobiography/ Memoir</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> bloomington_in_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2012</li>
                 <li><strong>Publisher:</strong> Trafford Publishing</li>
+                <li><strong>Publication City:</strong> bloomington_in_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2012</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

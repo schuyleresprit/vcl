@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: pmarcelin'Author Name 
     permalink: /pmarcelin
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Le Crayon de Dieu: Roman</li>
-                <li><strong>Author:</strong> Pierre Marcelin</li>
-                <li><strong>Descriptor:</strong> Co-Author: Philippe Thoby-Marcelin</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1952</li>
                 <li><strong>Publisher:</strong> Éditions de la Table ronde</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1952</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Singing Turtle and Other Tales From Haiti</li>
-                <li><strong>Author:</strong> Pierre Marcelin</li>
-                <li><strong>Descriptor:</strong> Co-Author: Philippe Thoby-Marcelin</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1971</li>
                 <li><strong>Publisher:</strong> Farrar, Straus and Giroux</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1971</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

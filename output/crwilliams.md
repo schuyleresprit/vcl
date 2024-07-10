@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: crwilliams'Author Name 
     permalink: /crwilliams
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Hamel, The Obeah Man</li>
-                <li><strong>Author:</strong> Cynric R. Williams</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1827</li>
                 <li><strong>Publisher:</strong> London Hunt and Clarke</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1827</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> A Tour Through the Island of Jamaica : From the Western to the Eastern End in the Year 1823</li>
-                <li><strong>Author:</strong> Cynric R. Williams</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 2018</li>
                 <li><strong>Publisher:</strong> Forgotten Books</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 2018</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

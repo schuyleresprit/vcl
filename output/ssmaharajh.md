@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ssmaharajh'Author Name 
     permalink: /ssmaharajh
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Beast of Venus: A Novel in Three Parts</li>
-                <li><strong>Author:</strong> Shiva Shridath Maharajh</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad</li>
-                <li><strong>Pubdate:</strong> 2009</li>
                 <li><strong>Publisher:</strong> Grassroots Theatre Productions in assiciation with StarApple</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad</li>
+                <li><strong>Publication Date:</strong> 2009</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

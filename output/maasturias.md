@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: maasturias'Author Name 
     permalink: /maasturias
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Green Pope</li>
-                <li><strong>Author:</strong> Miguel Ángel Asturias</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1971</li>
                 <li><strong>Publisher:</strong> Delacorte Press</li>
+                <li><strong>Publication City:</strong> new_york_ny_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1971</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: sschama'Author Name 
     permalink: /sschama
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Rough Crossings</li>
-                <li><strong>Author:</strong> Simon Schama</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 2017</li>
                 <li><strong>Publisher:</strong> Bloomsbury Publishing</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 2017</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

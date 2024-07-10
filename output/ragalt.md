@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ragalt'Author Name 
     permalink: /ragalt
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Boldly the Trips</li>
-                <li><strong>Author:</strong> Roy A. Galt</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad_&_tobago</li>
-                <li><strong>Pubdate:</strong> 2009</li>
                 <li><strong>Publisher:</strong> Independently Published</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad_&_tobago</li>
+                <li><strong>Publication Date:</strong> 2009</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Mysteriously The Trips</li>
-                <li><strong>Author:</strong> Roy A. Galt</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad_&_tobago</li>
-                <li><strong>Pubdate:</strong> 2010</li>
                 <li><strong>Publisher:</strong> Independently Published</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad_&_tobago</li>
+                <li><strong>Publication Date:</strong> 2010</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

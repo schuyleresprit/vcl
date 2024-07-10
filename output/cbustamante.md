@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cbustamante'Author Name 
     permalink: /cbustamante
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> El Nombre de las Cosas Poesía</li>
-                <li><strong>Author:</strong> Cecilia Bustamante</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poem</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> montevido_uraguay</li>
-                <li><strong>Pubdate:</strong> 1970</li>
                 <li><strong>Publisher:</strong> Editorial Alfa</li>
+                <li><strong>Publication City:</strong> montevido_uraguay</li>
+                <li><strong>Publication Date:</strong> 1970</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

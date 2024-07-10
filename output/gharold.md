@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gharold'Author Name 
     permalink: /gharold
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Bad Girls In School</li>
-                <li><strong>Author:</strong> Gwyneth Harold</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> oxford_england</li>
-                <li><strong>Pubdate:</strong> 2007</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> oxford_england</li>
+                <li><strong>Publication Date:</strong> 2007</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

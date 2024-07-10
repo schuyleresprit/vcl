@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ndennisbenn'Author Name 
     permalink: /ndennisbenn
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Patsy</li>
-                <li><strong>Author:</strong> Nicole Deniss-Benn</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2020</li>
                 <li><strong>Publisher:</strong> Liveright Publishing Corporation</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2020</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Here Comes the Sun</li>
-                <li><strong>Author:</strong> Nicole Deniss-Benn</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2016</li>
                 <li><strong>Publisher:</strong> W. W. Norton & Company</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2016</li>
                 <li><strong>Translation:</strong> </li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mcagnant'Author Name 
     permalink: /mcagnant
     ---
@@ -15,65 +15,55 @@
         
             <ul>
                 <li><strong>Title:</strong> Le Livre D'Emma</li>
-                <li><strong>Author:</strong> Marie Célie Agnant</li>
-                <li><strong>Descriptor:</strong> Translator Montero, Anna</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> valencia_spain</li>
-                <li><strong>Pubdate:</strong> 2016</li>
                 <li><strong>Publisher:</strong> Edicions Tres i Quatre</li>
+                <li><strong>Publication City:</strong> valencia_spain</li>
+                <li><strong>Publication Date:</strong> 2016</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> L'Oranger Magique</li>
-                <li><strong>Author:</strong> Marie Célie Agnant</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 2003</li>
                 <li><strong>Publisher:</strong> CareOf Publishing</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 2003</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Un Petit Bonheur Tout Rond</li>
-                <li><strong>Author:</strong> Marie Célie Agnant</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> moncton_canada</li>
-                <li><strong>Pubdate:</strong> 2019</li>
                 <li><strong>Publisher:</strong> Bouton d'or Acadie</li>
+                <li><strong>Publication City:</strong> moncton_canada</li>
+                <li><strong>Publication Date:</strong> 2019</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Le Noël de Maïté</li>
-                <li><strong>Author:</strong> Marie Célie Agnant</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> CareOf Publishing</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Silence Like Blood</li>
-                <li><strong>Author:</strong> Marie Célie Agnant</li>
-                <li><strong>Descriptor:</strong> Translator Fulton, Dawn</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> amherst_ma_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2020</li>
                 <li><strong>Publisher:</strong> Massachusetts Review, Inc.</li>
+                <li><strong>Publication City:</strong> amherst_ma_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2020</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

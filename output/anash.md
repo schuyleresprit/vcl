@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: anash'Author Name 
     permalink: /anash
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Changing Shape</li>
-                <li><strong>Author:</strong> Anthony Nash</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> bloomington_in_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2008</li>
                 <li><strong>Publisher:</strong> Xlibris</li>
+                <li><strong>Publication City:</strong> bloomington_in_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2008</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: nroberts'Author Name 
     permalink: /nroberts
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Border Crossings: A Trilingual Anthology Of Caribbean Women Writers</li>
-                <li><strong>Author:</strong> Nicole Roberts</li>
-                <li><strong>Descriptor:</strong> Co-Author: Walcott-Hackshaw, Elizabeth</li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> mona_jamaica</li>
-                <li><strong>Pubdate:</strong> 2011</li>
                 <li><strong>Publisher:</strong> University of the West Indies Press</li>
+                <li><strong>Publication City:</strong> mona_jamaica</li>
+                <li><strong>Publication Date:</strong> 2011</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

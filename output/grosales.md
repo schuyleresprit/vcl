@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: grosales'Author Name 
     permalink: /grosales
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Boarding Home</li>
-                <li><strong>Author:</strong> Guillermo Rosales</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> bacrcelona_spain</li>
-                <li><strong>Pubdate:</strong> 1987</li>
                 <li><strong>Publisher:</strong> Salvat Editores Barcelona</li>
+                <li><strong>Publication City:</strong> bacrcelona_spain</li>
+                <li><strong>Publication Date:</strong> 1987</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

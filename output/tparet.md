@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: tparet'Author Name 
     permalink: /tparet
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Dans La Mélange: Pensées, Conférences, Discours, Etc. (1916-1931)</li>
-                <li><strong>Author:</strong> Timothée Paret</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1932</li>
                 <li><strong>Publisher:</strong> Jouve & Cie</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1932</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

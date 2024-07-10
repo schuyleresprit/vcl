@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: tmarugg'Author Name 
     permalink: /tmarugg
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Roar Of Morning</li>
-                <li><strong>Author:</strong> Tip Marugg</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_haven_ldn_england</li>
-                <li><strong>Pubdate:</strong> 2015</li>
                 <li><strong>Publisher:</strong> Yale University Press</li>
+                <li><strong>Publication City:</strong> new_haven_ldn_england</li>
+                <li><strong>Publication Date:</strong> 2015</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

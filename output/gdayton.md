@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gdayton'Author Name 
     permalink: /gdayton
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Christopher (Caribbean Writers S.)</li>
-                <li><strong>Author:</strong> Geoffrey Drayton</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> (london)_england</li>
-                <li><strong>Pubdate:</strong> 1959</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> (london)_england</li>
+                <li><strong>Publication Date:</strong> 1959</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Zohara</li>
-                <li><strong>Author:</strong> Geoffrey Drayton</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> (london)_england</li>
-                <li><strong>Pubdate:</strong> 1961</li>
                 <li><strong>Publisher:</strong> Secker & Warburg</li>
+                <li><strong>Publication City:</strong> (london)_england</li>
+                <li><strong>Publication Date:</strong> 1961</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: emokwe'Author Name 
     permalink: /emokwe
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Le Roman Antillais Contemporain</li>
-                <li><strong>Author:</strong> Edouard Mokwe</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> munich_germany</li>
-                <li><strong>Pubdate:</strong> 2020</li>
                 <li><strong>Publisher:</strong> Lincom Gmbh</li>
+                <li><strong>Publication City:</strong> munich_germany</li>
+                <li><strong>Publication Date:</strong> 2020</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

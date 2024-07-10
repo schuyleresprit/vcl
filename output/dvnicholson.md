@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: dvnicholson'Author Name 
     permalink: /dvnicholson
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Story Of The Arawaks In Antigua & Barbuda And Barbuda</li>
-                <li><strong>Author:</strong> Desmond V Nicholson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> st._john's_antigua_&_barbuda</li>
-                <li><strong>Pubdate:</strong> 1983</li>
                 <li><strong>Publisher:</strong> Desmond Nicholson</li>
+                <li><strong>Publication City:</strong> st._john's_antigua_&_barbuda</li>
+                <li><strong>Publication Date:</strong> 1983</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

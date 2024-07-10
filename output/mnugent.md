@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mnugent'Author Name 
     permalink: /mnugent
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> A Govenor's Wife Keeps A Diary</li>
-                <li><strong>Author:</strong> Maria Nugent</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jam_jamaica</li>
-                <li><strong>Pubdate:</strong> 1950</li>
                 <li><strong>Publisher:</strong> West Indian review</li>
+                <li><strong>Publication City:</strong> kingston_jam_jamaica</li>
+                <li><strong>Publication Date:</strong> 1950</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

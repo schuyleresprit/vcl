@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: vriley'Author Name 
     permalink: /vriley
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Island Queen: A Novel</li>
-                <li><strong>Author:</strong> Vanessa Riley</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2022</li>
                 <li><strong>Publisher:</strong> William Morrow Paperbacks</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2022</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

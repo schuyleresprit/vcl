@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mwlewis'Author Name 
     permalink: /mwlewis
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Notes To Masks</li>
-                <li><strong>Author:</strong> Maureen Warner-Lewis</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> benin_city_nigeria</li>
-                <li><strong>Pubdate:</strong> 1977</li>
                 <li><strong>Publisher:</strong> Ethiope Publishing Corporation</li>
+                <li><strong>Publication City:</strong> benin_city_nigeria</li>
+                <li><strong>Publication Date:</strong> 1977</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

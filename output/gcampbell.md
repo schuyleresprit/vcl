@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gcampbell'Author Name 
     permalink: /gcampbell
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> First Poems</li>
-                <li><strong>Author:</strong> George Campbell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 1981</li>
                 <li><strong>Publisher:</strong> Garland Publishing Inc.</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 1981</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

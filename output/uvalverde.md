@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: uvalverde'Author Name 
     permalink: /uvalverde
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Reina Rumba: Cella Cruz</li>
-                <li><strong>Author:</strong> Umberto Valverde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> mexico_city_mexico</li>
-                <li><strong>Pubdate:</strong> 1981</li>
                 <li><strong>Publisher:</strong> Editorial Universo México</li>
+                <li><strong>Publication City:</strong> mexico_city_mexico</li>
+                <li><strong>Publication Date:</strong> 1981</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Celia Cruz: Reina Rumba</li>
-                <li><strong>Author:</strong> Umberto Valverde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> mexico_city_mexico</li>
-                <li><strong>Pubdate:</strong> 1982</li>
                 <li><strong>Publisher:</strong> Editorial Universo México</li>
+                <li><strong>Publication City:</strong> mexico_city_mexico</li>
+                <li><strong>Publication Date:</strong> 1982</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

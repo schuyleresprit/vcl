@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ejohn'Author Name 
     permalink: /ejohn
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Moon On A Rainbow Shawl</li>
-                <li><strong>Author:</strong> Errol John</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Drama</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1957</li>
                 <li><strong>Publisher:</strong> Routledge</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1957</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

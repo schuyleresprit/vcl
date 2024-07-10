@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: hyared'Author Name 
     permalink: /hyared
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Naître Si Mourir</li>
-                <li><strong>Author:</strong> Hyam Yared</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> montreãåal_qc_canada</li>
-                <li><strong>Pubdate:</strong> 2015</li>
                 <li><strong>Publisher:</strong> Memoire d'Encrier</li>
+                <li><strong>Publication City:</strong> montreãåal_qc_canada</li>
+                <li><strong>Publication Date:</strong> 2015</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: bpaul'Author Name 
     permalink: /bpaul
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Field</li>
-                <li><strong>Author:</strong> Baptiste Paul</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2018</li>
                 <li><strong>Publisher:</strong> NorthSouth Books Inc</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2018</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

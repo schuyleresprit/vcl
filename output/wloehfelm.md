@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: wloehfelm'Author Name 
     permalink: /wloehfelm
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The House That Jack Built</li>
-                <li><strong>Author:</strong> William Loehfelm</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_orleans_la_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2005</li>
                 <li><strong>Publisher:</strong> University of New Orleans Theses and Dissertations</li>
+                <li><strong>Publication City:</strong> new_orleans_la_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2005</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

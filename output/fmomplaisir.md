@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: fmomplaisir'Author Name 
     permalink: /fmomplaisir
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> The Garden Of Broken Things</li>
-                <li><strong>Author:</strong> Francesca Momplaisir</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2022</li>
                 <li><strong>Publisher:</strong> Alfred A. Knopf</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2022</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> My Mother's House</li>
-                <li><strong>Author:</strong> Francesca Momplaisir</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2021</li>
                 <li><strong>Publisher:</strong> Vintage Books</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2021</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

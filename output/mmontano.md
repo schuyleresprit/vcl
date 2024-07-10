@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mmontano'Author Name 
     permalink: /mmontano
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Boy Boy And The Magic Drum</li>
-                <li><strong>Author:</strong> Machel Montano</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2009</li>
                 <li><strong>Publisher:</strong> Caribbean Planet</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2009</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

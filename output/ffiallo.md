@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ffiallo'Author Name 
     permalink: /ffiallo
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Las Manzanas De Mefisto</li>
-                <li><strong>Author:</strong> Fabio Fiallo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1934</li>
                 <li><strong>Publisher:</strong> Imp. Ucar, García</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1934</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

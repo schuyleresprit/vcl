@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: aiharraway'Author Name 
     permalink: /aiharraway
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Sueños Y Memoria: La Masacre Haitiana De 1937 En La Repùblica Dominicana Y Su Representaciín En Dos Textos</li>
-                <li><strong>Author:</strong> Alicia Ikida Harraway</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Autobiography/ Memoir</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> jupiter_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2004</li>
                 <li><strong>Publisher:</strong> Florida Atlantic University, Honors College</li>
+                <li><strong>Publication City:</strong> jupiter_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2004</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

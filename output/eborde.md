@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: eborde'Author Name 
     permalink: /eborde
     ---
@@ -15,52 +15,44 @@
         
             <ul>
                 <li><strong>Title:</strong> Murderfest: Two Novellas Inspired by Bloodcurdling Events</li>
-                <li><strong>Author:</strong> Eulah Borde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> sana_cruz_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Possibilities Unlimited</li>
+                <li><strong>Publication City:</strong> sana_cruz_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Murder on Christmas Eve : an early 20 C tragi-comedy set in a village in Trinidad, West Indies</li>
-                <li><strong>Author:</strong> Eulah Borde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> sana_cruz_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2012</li>
                 <li><strong>Publisher:</strong> Possibilities Unlimited</li>
+                <li><strong>Publication City:</strong> sana_cruz_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2012</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> A palette of passions : a gift of poems</li>
-                <li><strong>Author:</strong> Eulah Borde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> sana_cruz_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2003</li>
                 <li><strong>Publisher:</strong> Possibilities Unlimited</li>
+                <li><strong>Publication City:</strong> sana_cruz_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2003</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Drops of wine : a stimulating second collection of peoms</li>
-                <li><strong>Author:</strong> Eulah Borde</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> sana_cruz_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2005</li>
                 <li><strong>Publisher:</strong> Possibilities Unlimited</li>
+                <li><strong>Publication City:</strong> sana_cruz_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2005</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

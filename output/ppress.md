@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ppress'Author Name 
     permalink: /ppress
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Pepperpot: Best New Stories From The Caribbean</li>
-                <li><strong>Author:</strong> Peekash Press</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Peekash Press</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

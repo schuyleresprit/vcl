@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gbulin'Author Name 
     permalink: /gbulin
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Le Fils du Filaos</li>
-                <li><strong>Author:</strong> Gérard Bulin</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> kourou_French_Guiana</li>
-                <li><strong>Pubdate:</strong> 1997</li>
                 <li><strong>Publisher:</strong> Ibis Rouge</li>
+                <li><strong>Publication City:</strong> kourou_French_Guiana</li>
+                <li><strong>Publication Date:</strong> 1997</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

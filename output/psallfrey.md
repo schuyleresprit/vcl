@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: psallfrey'Author Name 
     permalink: /psallfrey
     ---

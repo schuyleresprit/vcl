@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: enapier'Author Name 
     permalink: /enapier
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> A Flying Fish Whispered</li>
-                <li><strong>Author:</strong> Elma Napier</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_ldn_england</li>
-                <li><strong>Pubdate:</strong> 1938</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_ldn_england</li>
+                <li><strong>Publication Date:</strong> 1938</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

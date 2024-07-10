@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jduranty'Author Name 
     permalink: /jduranty
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Zouki: D'Ici Danse : Roman</li>
-                <li><strong>Author:</strong> Jude Duranty</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> matoury_french_guiana</li>
-                <li><strong>Pubdate:</strong> 2007</li>
                 <li><strong>Publisher:</strong> Ibis Rouge</li>
+                <li><strong>Publication City:</strong> matoury_french_guiana</li>
+                <li><strong>Publication Date:</strong> 2007</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

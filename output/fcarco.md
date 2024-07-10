@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: fcarco'Author Name 
     permalink: /fcarco
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Perversity</li>
-                <li><strong>Author:</strong> Francis Carco</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> berkeley_ca_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1987</li>
                 <li><strong>Publisher:</strong> Black Lizard</li>
+                <li><strong>Publication City:</strong> berkeley_ca_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1987</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

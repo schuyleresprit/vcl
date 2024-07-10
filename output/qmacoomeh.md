@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: qmacoomeh'Author Name 
     permalink: /qmacoomeh
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Tales From Icebox Land</li>
-                <li><strong>Author:</strong> Queen Macoomeh</li>
-                <li><strong>Descriptor:</strong> 2007</li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad_&_tobago</li>
-                <li><strong>Pubdate:</strong> 2008</li>
                 <li><strong>Publisher:</strong> Commess University Press</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad_&_tobago</li>
+                <li><strong>Publication Date:</strong> 2008</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mjaugustin'Author Name 
     permalink: /mjaugustin
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Le Macandal : Èpisode de L'Insurrection des Noirs à St. Domingue</li>
-                <li><strong>Author:</strong> Marie-Joséphine Augustin</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> nürnberg_germany</li>
-                <li><strong>Pubdate:</strong> 1892</li>
                 <li><strong>Publisher:</strong> Geo. Müller</li>
+                <li><strong>Publication City:</strong> nürnberg_germany</li>
+                <li><strong>Publication Date:</strong> 1892</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

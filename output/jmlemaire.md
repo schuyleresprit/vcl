@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jmlemaire'Author Name 
     permalink: /jmlemaire
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Caïenne : l'Indien Qui Voulait Unir Les Tribus</li>
-                <li><strong>Author:</strong> Jean-Michel Lemaire</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 2007</li>
                 <li><strong>Publisher:</strong> L'Harmattan</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 2007</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

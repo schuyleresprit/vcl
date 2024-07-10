@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jhearne'Author Name 
     permalink: /jhearne
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Land of the Living</li>
-                <li><strong>Author:</strong> John Hearne</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_engand</li>
-                <li><strong>Pubdate:</strong> 1961</li>
                 <li><strong>Publisher:</strong> Faber and Faber</li>
+                <li><strong>Publication City:</strong> london_engand</li>
+                <li><strong>Publication Date:</strong> 1961</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

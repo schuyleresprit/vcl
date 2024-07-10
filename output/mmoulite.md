@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mmoulite'Author Name 
     permalink: /mmoulite
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Dear Haiti, Love Alaine</li>
-                <li><strong>Author:</strong> Maika Moulite</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> toronto_canada</li>
-                <li><strong>Pubdate:</strong> 2020</li>
                 <li><strong>Publisher:</strong> Harlequin Books</li>
+                <li><strong>Publication City:</strong> toronto_canada</li>
+                <li><strong>Publication Date:</strong> 2020</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

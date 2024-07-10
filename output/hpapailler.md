@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: hpapailler'Author Name 
     permalink: /hpapailler
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Le Bicolore, Symbole De L'Unité Nationale: Sermon Prononcé</li>
-                <li><strong>Author:</strong> Hubert Papailler</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> port_au_prince_haiti</li>
-                <li><strong>Pubdate:</strong> 1958</li>
                 <li><strong>Publisher:</strong> Secretairerie d'Etat de la coordination et de l'information</li>
+                <li><strong>Publication City:</strong> port_au_prince_haiti</li>
+                <li><strong>Publication Date:</strong> 1958</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

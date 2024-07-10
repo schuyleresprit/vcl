@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: hpease'Author Name 
     permalink: /hpease
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Jinx Ship</li>
-                <li><strong>Author:</strong> Howard Pease</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> garden_city_ny_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1927</li>
                 <li><strong>Publisher:</strong> Doubleday</li>
+                <li><strong>Publication City:</strong> garden_city_ny_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1927</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

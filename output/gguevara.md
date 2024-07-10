@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gguevara'Author Name 
     permalink: /gguevara
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Black Beach</li>
-                <li><strong>Author:</strong> Glynis Guevara</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> toronto_canada</li>
-                <li><strong>Pubdate:</strong> 2018</li>
                 <li><strong>Publisher:</strong> Inanna Publications</li>
+                <li><strong>Publication City:</strong> toronto_canada</li>
+                <li><strong>Publication Date:</strong> 2018</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

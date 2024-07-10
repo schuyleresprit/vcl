@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: vdiaz'Author Name 
     permalink: /vdiaz
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Galeras de Pafos</li>
-                <li><strong>Author:</strong> Vigil Diaz</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> santo_domingo_dominican_republic</li>
-                <li><strong>Pubdate:</strong> 1912</li>
                 <li><strong>Publisher:</strong> Self-Publishing</li>
+                <li><strong>Publication City:</strong> santo_domingo_dominican_republic</li>
+                <li><strong>Publication Date:</strong> 1912</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Del Sena al Ozama</li>
-                <li><strong>Author:</strong> Vigil Diaz</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> santo_domingo_dominican_republic</li>
-                <li><strong>Pubdate:</strong> 1949</li>
                 <li><strong>Publisher:</strong> Garcia</li>
+                <li><strong>Publication City:</strong> santo_domingo_dominican_republic</li>
+                <li><strong>Publication Date:</strong> 1949</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

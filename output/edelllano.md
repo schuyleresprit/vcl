@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: edelllano'Author Name 
     permalink: /edelllano
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Kill The Ámpaya! The Best Latin American Baseball Fiction</li>
-                <li><strong>Author:</strong> Eduardo Del Llano</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> simsbury_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2017</li>
                 <li><strong>Publisher:</strong> Mandel Vilar Press</li>
+                <li><strong>Publication City:</strong> simsbury_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2017</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

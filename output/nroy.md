@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: nroy'Author Name 
     permalink: /nroy
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Black Albino (Longman Caribbean Writers)</li>
-                <li><strong>Author:</strong> Namba Roy</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> harlow_england</li>
-                <li><strong>Pubdate:</strong> 1986</li>
                 <li><strong>Publisher:</strong> Longman Publishing Group</li>
+                <li><strong>Publication City:</strong> harlow_england</li>
+                <li><strong>Publication Date:</strong> 1986</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> No Black Sparrows: A Vivid Portrait of Jamaica in the 1930s (Caribbean Writers Series)</li>
-                <li><strong>Author:</strong> Namba Roy</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> (london)_england</li>
-                <li><strong>Pubdate:</strong> 1989</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> (london)_england</li>
+                <li><strong>Publication Date:</strong> 1989</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rwalcott'Author Name 
     permalink: /rwalcott
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Benjy Trilogy</li>
-                <li><strong>Author:</strong> Roderick Walcott</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Drama</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 2000</li>
                 <li><strong>Publisher:</strong> Ian Randle Publishers</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 2000</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

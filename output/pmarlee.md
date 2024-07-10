@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: pmarlee'Author Name 
     permalink: /pmarlee
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Guinea-Pig</li>
-                <li><strong>Author:</strong> Paul Marlee</li>
-                <li><strong>Descriptor:</strong> 1985</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1990</li>
                 <li><strong>Publisher:</strong> Karnak</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1990</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

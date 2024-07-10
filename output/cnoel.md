@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cnoel'Author Name 
     permalink: /cnoel
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The paw-paw tree</li>
-                <li><strong>Author:</strong> Cynthia Noel</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> St. Lucian French Creole</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1983</li>
                 <li><strong>Publisher:</strong> Carol Morris</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1983</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

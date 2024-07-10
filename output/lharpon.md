@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lharpon'Author Name 
     permalink: /lharpon
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> L'Enfant Venu D'Haïti: Roman</li>
-                <li><strong>Author:</strong> Louise Harpon</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> kourou_french_guiana</li>
-                <li><strong>Pubdate:</strong> 1997</li>
                 <li><strong>Publisher:</strong> Ibis Rouge</li>
+                <li><strong>Publication City:</strong> kourou_french_guiana</li>
+                <li><strong>Publication Date:</strong> 1997</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

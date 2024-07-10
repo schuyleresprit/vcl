@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jamsie'Author Name 
     permalink: /jamsie
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> “Hubert & Dora”, By “Jamsie”, Published In The Clarion Newspaper, Port Of Spain, Compiled By Lise Winer</li>
-                <li><strong>Author:</strong> Jamsie</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> clarion_pa_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1956</li>
                 <li><strong>Publisher:</strong> The Clarion Newspaper</li>
+                <li><strong>Publication City:</strong> clarion_pa_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1956</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

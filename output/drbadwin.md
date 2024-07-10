@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: drbadwin'Author Name 
     permalink: /drbadwin
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> An Anthology of Colonial and Postcolonial Short Fiction</li>
-                <li><strong>Author:</strong> Dean R Baldwin</li>
-                <li><strong>Descriptor:</strong> Co-Author: Patrick J Quinn</li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> boston_ma_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2007</li>
                 <li><strong>Publisher:</strong> Cengage Learning</li>
+                <li><strong>Publication City:</strong> boston_ma_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2007</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

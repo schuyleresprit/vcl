@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ellima'Author Name 
     permalink: /ellima
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Una Familia Habanera</li>
-                <li><strong>Author:</strong> Eloísa Lezama Lima</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Biography</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> miami_fl_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1998</li>
                 <li><strong>Publisher:</strong> Ediciones Universal</li>
+                <li><strong>Publication City:</strong> miami_fl_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1998</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

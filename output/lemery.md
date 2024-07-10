@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lemery'Author Name 
     permalink: /lemery
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> The Fires of Pembroke</li>
-                <li><strong>Author:</strong> Llewellyn Emery</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> pembroke_bermuda</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> The Bermudian Publishing Company Limited</li>
+                <li><strong>Publication City:</strong> pembroke_bermuda</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Nothin' But A Pond Dog</li>
-                <li><strong>Author:</strong> Llewellyn Emery</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> pembroke_bermuda</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> The Bermudian Publishing Company Limited</li>
+                <li><strong>Publication City:</strong> pembroke_bermuda</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

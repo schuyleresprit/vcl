@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: bbyrne'Author Name 
     permalink: /bbyrne
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Poemas</li>
-                <li><strong>Author:</strong> Bonifacio Byrne</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1903</li>
                 <li><strong>Publisher:</strong> Rambla y Bouzá</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1903</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

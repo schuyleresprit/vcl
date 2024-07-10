@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jstone'Author Name 
     permalink: /jstone
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Moving Right Along: Caribbean Stories In Honour Of John Cropper</li>
-                <li><strong>Author:</strong> Judy Stone</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> caroni_trinidad_&_tobago</li>
-                <li><strong>Pubdate:</strong> 2010</li>
                 <li><strong>Publisher:</strong> Lexicon</li>
+                <li><strong>Publication City:</strong> caroni_trinidad_&_tobago</li>
+                <li><strong>Publication Date:</strong> 2010</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

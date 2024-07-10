@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mbusby'Author Name 
     permalink: /mbusby
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> New Daughters of Africa</li>
-                <li><strong>Author:</strong> Margaret Busby</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> brighton_england</li>
-                <li><strong>Pubdate:</strong> 2020</li>
                 <li><strong>Publisher:</strong> Myriad Editions</li>
+                <li><strong>Publication City:</strong> brighton_england</li>
+                <li><strong>Publication Date:</strong> 2020</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

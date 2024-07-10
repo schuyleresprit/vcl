@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: tcharles'Author Name 
     permalink: /tcharles
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Freedom Soup</li>
-                <li><strong>Author:</strong> Tami Charles</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> somerville_ma_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2021</li>
                 <li><strong>Publisher:</strong> Candlewick Press</li>
+                <li><strong>Publication City:</strong> somerville_ma_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2021</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

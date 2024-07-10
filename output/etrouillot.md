@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: etrouillot'Author Name 
     permalink: /etrouillot
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Memory At Bay</li>
-                <li><strong>Author:</strong> Évelyne Trouillot</li>
-                <li><strong>Descriptor:</strong> Paul Curtis Daw; Jason Herbeck</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> charlottesville_va_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2015</li>
                 <li><strong>Publisher:</strong> University of Virginia Press</li>
+                <li><strong>Publication City:</strong> charlottesville_va_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2015</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

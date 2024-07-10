@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: nfimoja'Author Name 
     permalink: /nfimoja
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> So Many Islands: Stories from the Caribbean, Mediterranean, Indian, and Pacific Oceans</li>
-                <li><strong>Author:</strong> Nailah Folami Imoja</li>
-                <li><strong>Descriptor:</strong> Co-Authors: Marlon James and Nicholas Laughlin</li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad_&_tobago</li>
-                <li><strong>Pubdate:</strong> 2018</li>
                 <li><strong>Publisher:</strong> Peekash Press</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad_&_tobago</li>
+                <li><strong>Publication Date:</strong> 2018</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Pick of the Crop: A Novella</li>
-                <li><strong>Author:</strong> Nailah Folami Imoja</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> portsmouth_nh_united_states</li>
-                <li><strong>Pubdate:</strong> 2004</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> portsmouth_nh_united_states</li>
+                <li><strong>Publication Date:</strong> 2004</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

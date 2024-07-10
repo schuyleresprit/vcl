@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: dpicouly'Author Name 
     permalink: /dpicouly
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Leopard Boy</li>
-                <li><strong>Author:</strong> Daniel Picouly</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> charlottesville_va_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> University of Virginia Press</li>
+                <li><strong>Publication City:</strong> charlottesville_va_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

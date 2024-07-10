@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rlcaarons'Author Name 
     permalink: /rlcaarons
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Cow That Laughed - And Other Stories</li>
-                <li><strong>Author:</strong> R. L. C. Aarons</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> kingston_jamaica</li>
-                <li><strong>Pubdate:</strong> 1944</li>
                 <li><strong>Publisher:</strong> Printed by Printers Ltd.</li>
+                <li><strong>Publication City:</strong> kingston_jamaica</li>
+                <li><strong>Publication Date:</strong> 1944</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

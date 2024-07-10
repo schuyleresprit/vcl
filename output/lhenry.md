@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lhenry'Author Name 
     permalink: /lhenry
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> The Gaulin and the Dove</li>
-                <li><strong>Author:</strong> Lewis Henry</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> oxford_england</li>
-                <li><strong>Pubdate:</strong> 2008</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> oxford_england</li>
+                <li><strong>Publication Date:</strong> 2008</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

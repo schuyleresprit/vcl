@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jbernabé'Author Name 
     permalink: /jbernabé
     ---
@@ -15,79 +15,66 @@
         
             <ul>
                 <li><strong>Title:</strong> Eloge De La Créolité</li>
-                <li><strong>Author:</strong> Jean Bernabé</li>
-                <li><strong>Descriptor:</strong> Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9
-Co-Authors: Chamoiseau, Patrick; Confiant, Raphaël</li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1989</li>
                 <li><strong>Publisher:</strong> Gallimard</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1989</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> La fable créole</li>
-                <li><strong>Author:</strong> Jean Bernabé</li>
-                <li><strong>Descriptor:</strong> Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9</li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> matoury_french_guiana</li>
-                <li><strong>Pubdate:</strong> 2001</li>
                 <li><strong>Publisher:</strong> Ibis rouge éd</li>
+                <li><strong>Publication City:</strong> matoury_french_guiana</li>
+                <li><strong>Publication Date:</strong> 2001</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Précis de syntaxe créole</li>
-                <li><strong>Author:</strong> Jean Bernabé</li>
-                <li><strong>Descriptor:</strong> Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9</li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> matoury_french_guiana</li>
-                <li><strong>Pubdate:</strong> 2003</li>
                 <li><strong>Publisher:</strong> Ibis rouge éd</li>
+                <li><strong>Publication City:</strong> matoury_french_guiana</li>
+                <li><strong>Publication Date:</strong> 2003</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Fondal-natal : grammaire basilectale approchée des créoles guadeloupéen et martiniquais : approche sociolittéraire, sociolinguistique et syntaxique</li>
-                <li><strong>Author:</strong> Jean Bernabé</li>
-                <li><strong>Descriptor:</strong> Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9</li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 1983</li>
                 <li><strong>Publisher:</strong> L'Harmattan</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 1983</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Le bailleur d'étincelle : roman</li>
-                <li><strong>Author:</strong> Jean Bernabé</li>
-                <li><strong>Descriptor:</strong> Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9</li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_france</li>
-                <li><strong>Pubdate:</strong> 2006</li>
                 <li><strong>Publisher:</strong> Écriture</li>
+                <li><strong>Publication City:</strong> paris_france</li>
+                <li><strong>Publication Date:</strong> 2006</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Approche cognitive du créole martiniquais : ranboulzay 1 = révolution 1</li>
-                <li><strong>Author:</strong> Jean Bernabé</li>
-                <li><strong>Descriptor:</strong> Wikipedia Entry: https://en.wikipedia.org/wiki/Jean_Bernab%C3%A9</li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> paris_fr_france</li>
-                <li><strong>Pubdate:</strong> 2015</li>
                 <li><strong>Publisher:</strong> L'Harmattan</li>
+                <li><strong>Publication City:</strong> paris_fr_france</li>
+                <li><strong>Publication Date:</strong> 2015</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

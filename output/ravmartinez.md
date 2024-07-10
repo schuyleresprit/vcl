@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ravmartinez'Author Name 
     permalink: /ravmartinez
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> "Rayano": Una Nueva Metafora Para Explicar La Dominicanidad</li>
-                <li><strong>Author:</strong> Ramon Antonio Victoriano-Martinez</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Essay</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> toronto_canada</li>
-                <li><strong>Pubdate:</strong> 2010</li>
                 <li><strong>Publisher:</strong> University of Toronto</li>
+                <li><strong>Publication City:</strong> toronto_canada</li>
+                <li><strong>Publication Date:</strong> 2010</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

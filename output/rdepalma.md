@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: rdepalma'Author Name 
     permalink: /rdepalma
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Cuentos Cubanos</li>
-                <li><strong>Author:</strong> Ramón De Palma</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> havana_cuba</li>
-                <li><strong>Pubdate:</strong> 1928</li>
                 <li><strong>Publisher:</strong> Cultural, S.A.</li>
+                <li><strong>Publication City:</strong> havana_cuba</li>
+                <li><strong>Publication Date:</strong> 1928</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: necameron'Author Name 
     permalink: /necameron
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Guianese Poetry: Covering the Hundred Years' Period 1831-1931</li>
-                <li><strong>Author:</strong> Norman Eustace Cameron</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> georgetown_guyana</li>
-                <li><strong>Pubdate:</strong> 1931</li>
                 <li><strong>Publisher:</strong> Argosy Publishing Inc.</li>
+                <li><strong>Publication City:</strong> georgetown_guyana</li>
+                <li><strong>Publication Date:</strong> 1931</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

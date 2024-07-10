@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: hvaldman'Author Name 
     permalink: /hvaldman
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> To The New World: The Kuriel Family In The Caribbean Islands</li>
-                <li><strong>Author:</strong> Hayim Valdman</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> jerusalem_israel</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> Comics</li>
+                <li><strong>Publication City:</strong> jerusalem_israel</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

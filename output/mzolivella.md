@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mzolivella'Author Name 
     permalink: /mzolivella
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Changó, A New World Novel: Decolonizing The African Diaspora</li>
-                <li><strong>Author:</strong> Manuel Zapata Olivella</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united_states</li>
-                <li><strong>Pubdate:</strong> 2022</li>
                 <li><strong>Publisher:</strong> Routledge</li>
+                <li><strong>Publication City:</strong> new_york_ny_united_states</li>
+                <li><strong>Publication Date:</strong> 2022</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

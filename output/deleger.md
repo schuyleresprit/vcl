@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: deleger'Author Name 
     permalink: /deleger
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> God Loves Haiti: A Novel</li>
-                <li><strong>Author:</strong> Dimitry Elias Léger</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2016</li>
                 <li><strong>Publisher:</strong> HarperCollins</li>
+                <li><strong>Publication City:</strong> new_york_ny_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2016</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> God Loves Haiti: Roman</li>
-                <li><strong>Author:</strong> Dimitry Elias Léger</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> le_lamentin_martinique</li>
-                <li><strong>Pubdate:</strong> 2021</li>
                 <li><strong>Publisher:</strong> Caraïbéditions</li>
+                <li><strong>Publication City:</strong> le_lamentin_martinique</li>
+                <li><strong>Publication Date:</strong> 2021</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

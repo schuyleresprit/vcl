@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: hhbell'Author Name 
     permalink: /hhbell
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> A Witch's Legacy</li>
-                <li><strong>Author:</strong> Henry Hesketh Bell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1893</li>
                 <li><strong>Publisher:</strong> Sampson Low, Marston & Company Limited</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1893</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Obeah, Witchcraft in the West Indies</li>
-                <li><strong>Author:</strong> Henry Hesketh Bell</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1893</li>
                 <li><strong>Publisher:</strong> Sampson Low, Marston & Company Limited</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1893</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

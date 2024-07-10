@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: lpersaud'Author Name 
     permalink: /lpersaud
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> For The Love Of My Name</li>
-                <li><strong>Author:</strong> Lakshmi Persaud</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_england</li>
-                <li><strong>Pubdate:</strong> 2000</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_england</li>
+                <li><strong>Publication Date:</strong> 2000</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

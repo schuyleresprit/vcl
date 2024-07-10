@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: tdrhone'Author Name 
     permalink: /tdrhone
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> Old Story Time. Smile Orange</li>
-                <li><strong>Author:</strong> Trevor D Rhone</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Drama</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> harlow_england</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> Longman Publishing</li>
+                <li><strong>Publication City:</strong> harlow_england</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Two Can Play, And School's Out</li>
-                <li><strong>Author:</strong> Trevor D Rhone</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Drama</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> harlow_england</li>
-                <li><strong>Pubdate:</strong> 1986</li>
                 <li><strong>Publisher:</strong> Longman Publishing</li>
+                <li><strong>Publication City:</strong> harlow_england</li>
+                <li><strong>Publication Date:</strong> 1986</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

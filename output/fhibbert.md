@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: fhibbert'Author Name 
     permalink: /fhibbert
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Les Simulacres : L'Aventure De M. Hellénus Caton</li>
-                <li><strong>Author:</strong> Fernand Hibbert</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> port_au_prince_haiti</li>
-                <li><strong>Pubdate:</strong> 1923</li>
                 <li><strong>Publisher:</strong> Imprimerie Chéraquit</li>
+                <li><strong>Publication City:</strong> port_au_prince_haiti</li>
+                <li><strong>Publication Date:</strong> 1923</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

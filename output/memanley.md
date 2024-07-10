@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: memanley'Author Name 
     permalink: /memanley
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> I Am Dominica : Mwen Sé Donmnik</li>
-                <li><strong>Author:</strong> Mara Etienne-Manley</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> new_york_ny_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2013</li>
                 <li><strong>Publisher:</strong> Editorial Campana.</li>
+                <li><strong>Publication City:</strong> new_york_ny_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2013</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

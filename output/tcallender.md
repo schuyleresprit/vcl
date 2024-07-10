@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: tcallender'Author Name 
     permalink: /tcallender
     ---
@@ -15,91 +15,77 @@
         
             <ul>
                 <li><strong>Title:</strong> It So Happen</li>
-                <li><strong>Author:</strong> Timothy Callender</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1991</li>
                 <li><strong>Publisher:</strong> Heinemann</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1991</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Two Barbadian stories</li>
-                <li><strong>Author:</strong> Timothy Callender</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> st._michael_barbados</li>
-                <li><strong>Pubdate:</strong> 1987</li>
                 <li><strong>Publisher:</strong> Realization Studio</li>
+                <li><strong>Publication City:</strong> st._michael_barbados</li>
+                <li><strong>Publication Date:</strong> 1987</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> The watchman</li>
-                <li><strong>Author:</strong> Timothy Callender</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_ldn_england</li>
-                <li><strong>Pubdate:</strong> 1984</li>
                 <li><strong>Publisher:</strong> Heinemann Educational</li>
+                <li><strong>Publication City:</strong> london_ldn_england</li>
+                <li><strong>Publication Date:</strong> 1984</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Concerns concerning the cocaine culture in Barbados and the Caribbean</li>
-                <li><strong>Author:</strong> Timothy Callender</li>
-                <li><strong>Descriptor:</strong> Original Publication Date: 1988 Co-author: Lorna Callender</li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> st._michael_barbados</li>
-                <li><strong>Pubdate:</strong> 1988</li>
                 <li><strong>Publisher:</strong> Realization Studios</li>
+                <li><strong>Publication City:</strong> st._michael_barbados</li>
+                <li><strong>Publication Date:</strong> 1988</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> The elements of art</li>
-                <li><strong>Author:</strong> Timothy Callender</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> st._michael_barbados</li>
-                <li><strong>Pubdate:</strong> 1977</li>
                 <li><strong>Publisher:</strong> Callender</li>
+                <li><strong>Publication City:</strong> st._michael_barbados</li>
+                <li><strong>Publication Date:</strong> 1977</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> The Caribbean book of Christmas stories</li>
-                <li><strong>Author:</strong> Timothy Callender</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> st._michael_barbados</li>
-                <li><strong>Pubdate:</strong> 1999</li>
                 <li><strong>Publisher:</strong> Realization Studios</li>
+                <li><strong>Publication City:</strong> st._michael_barbados</li>
+                <li><strong>Publication Date:</strong> 1999</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Independence and freedom : a story, an essay, and a drama</li>
-                <li><strong>Author:</strong> Timothy Callender</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> st._michael_barbados</li>
-                <li><strong>Pubdate:</strong> 1987</li>
                 <li><strong>Publisher:</strong> Realization Studios</li>
+                <li><strong>Publication City:</strong> st._michael_barbados</li>
+                <li><strong>Publication Date:</strong> 1987</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

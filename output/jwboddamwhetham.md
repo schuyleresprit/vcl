@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jwboddamwhetham'Author Name 
     permalink: /jwboddamwhetham
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Roraima and British Guiana: With a Glance at Bermuda, the West Indies, and the Spanish Main</li>
-                <li><strong>Author:</strong> John W. Boddam-Whetham</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> london_england</li>
-                <li><strong>Pubdate:</strong> 1879</li>
                 <li><strong>Publisher:</strong> Hurst and Blackett</li>
+                <li><strong>Publication City:</strong> london_england</li>
+                <li><strong>Publication Date:</strong> 1879</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

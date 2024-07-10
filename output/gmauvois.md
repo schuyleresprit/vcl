@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: gmauvois'Author Name 
     permalink: /gmauvois
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Gélius Et Son Disciple, Ou, Paroles De Mangouste : Roman</li>
-                <li><strong>Author:</strong> Georges Mauvois</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> petit_bourg_guadeloupe</li>
-                <li><strong>Pubdate:</strong> 2000</li>
                 <li><strong>Publisher:</strong> Ibis Rouge</li>
+                <li><strong>Publication City:</strong> petit_bourg_guadeloupe</li>
+                <li><strong>Publication Date:</strong> 2000</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

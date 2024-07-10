@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: cjames'Author Name 
     permalink: /cjames
     ---
@@ -15,221 +15,187 @@
         
             <ul>
                 <li><strong>Title:</strong> I Choose Me: The Art of Being A Phenomenally Successful Woman At Home And At Work</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> carlsbad_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2016</li>
                 <li><strong>Publisher:</strong> Motivational Press</li>
+                <li><strong>Publication City:</strong> carlsbad_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2016</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> La Vega And Other Poems</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> tunapuna_trinidad_&_tonbago</li>
-                <li><strong>Pubdate:</strong> 1995</li>
                 <li><strong>Publisher:</strong> Cynthia James</li>
+                <li><strong>Publication City:</strong> tunapuna_trinidad_&_tonbago</li>
+                <li><strong>Publication Date:</strong> 1995</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Vigil</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poem</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> tunapuna_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 1995</li>
                 <li><strong>Publisher:</strong> G.V Ferguson</li>
+                <li><strong>Publication City:</strong> tunapuna_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 1995</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> What Will Set You Free: From Pain To Passion In 7 Weeks</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> parker_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2007</li>
                 <li><strong>Publisher:</strong> Thornton Publishing : Books to Believe In</li>
+                <li><strong>Publication City:</strong> parker_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2007</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> The Maroon Narrative: Caribbean Literature In English Across Boundaries, Ethnicities, And Centuries</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> portsmouth_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2002</li>
                 <li><strong>Publisher:</strong> Heineman</li>
+                <li><strong>Publication City:</strong> portsmouth_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2002</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Smoothe Me, Music, Soothe Me: A Collection Of Short Stories</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> tunapuna_trinidad_&_tonbago</li>
-                <li><strong>Pubdate:</strong> 1990</li>
                 <li><strong>Publisher:</strong> Cynthia James</li>
+                <li><strong>Publication City:</strong> tunapuna_trinidad_&_tonbago</li>
+                <li><strong>Publication Date:</strong> 1990</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Port of Spain By Night</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poem</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> amherst_ma_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1994</li>
                 <li><strong>Publisher:</strong> The Massachusetts Review</li>
+                <li><strong>Publication City:</strong> amherst_ma_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1994</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> The Unknown Text</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poem</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> norman_united¬†states</li>
-                <li><strong>Pubdate:</strong> 1994</li>
                 <li><strong>Publisher:</strong> World Literature Today</li>
+                <li><strong>Publication City:</strong> norman_united¬†states</li>
+                <li><strong>Publication Date:</strong> 1994</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> From "Sapodilla Terrace"</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> charles_village_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2007</li>
                 <li><strong>Publisher:</strong> Johns Hopkins University Press</li>
+                <li><strong>Publication City:</strong> charles_village_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2007</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> I Choose Me</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> chicago_il_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2016</li>
                 <li><strong>Publisher:</strong> Motivational Press</li>
+                <li><strong>Publication City:</strong> chicago_il_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2016</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> When Love Comes To Town</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poem</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> wilmore_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2020</li>
                 <li><strong>Publisher:</strong> Asbury Theological Seminary</li>
+                <li><strong>Publication City:</strong> wilmore_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2020</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Bluejean, A Novel</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> d'abadie_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2000</li>
                 <li><strong>Publisher:</strong> Green Tree Press</li>
+                <li><strong>Publication City:</strong> d'abadie_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2000</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Creative And Cultural Identity In The Work Of Anson Gonzalez: A Study Of Proseleela, Chela Quest, And Crossroads Of Dream As Spiritual And Literary Autobiography : A Paper</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Essay</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> port_of_spain_trinidad_&_tobago</li>
-                <li><strong>Pubdate:</strong> 2007</li>
                 <li><strong>Publisher:</strong> New Voices Publishing</li>
+                <li><strong>Publication City:</strong> port_of_spain_trinidad_&_tobago</li>
+                <li><strong>Publication Date:</strong> 2007</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Iere, My Love: A Collection Of Poems</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> </li>
-                <li><strong>Pubdate:</strong> 1990</li>
                 <li><strong>Publisher:</strong> NA</li>
+                <li><strong>Publication City:</strong> </li>
+                <li><strong>Publication Date:</strong> 1990</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> La Vega And Other Poems</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poetry Collection</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> </li>
-                <li><strong>Pubdate:</strong> 1995</li>
                 <li><strong>Publisher:</strong> G.V Ferguson</li>
+                <li><strong>Publication City:</strong> </li>
+                <li><strong>Publication Date:</strong> 1995</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Sapodilla Terrace</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> peterborough_england</li>
-                <li><strong>Pubdate:</strong> 2006</li>
                 <li><strong>Publisher:</strong> Upfront Publishing</li>
+                <li><strong>Publication City:</strong> peterborough_england</li>
+                <li><strong>Publication Date:</strong> 2006</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> Soothe Me, Music, Soothe Me</li>
-                <li><strong>Author:</strong> Cynthia James</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Short Story Collection)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> tunapuna_trinidad_&_tonbago</li>
-                <li><strong>Pubdate:</strong> </li>
                 <li><strong>Publisher:</strong> World Literature Collection Tunapuna : Gloria V. Ferguson</li>
+                <li><strong>Publication City:</strong> tunapuna_trinidad_&_tonbago</li>
+                <li><strong>Publication Date:</strong> </li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

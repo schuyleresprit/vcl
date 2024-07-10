@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: asankar'Author Name 
     permalink: /asankar
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Rosalind And The Hog People</li>
-                <li><strong>Author:</strong> Anisah Sankar</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> san_fernando_trinidad_&¬†tobago</li>
-                <li><strong>Pubdate:</strong> 2012</li>
                 <li><strong>Publisher:</strong> Anisah Sankar</li>
+                <li><strong>Publication City:</strong> san_fernando_trinidad_&¬†tobago</li>
+                <li><strong>Publication Date:</strong> 2012</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

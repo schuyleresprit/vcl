@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: mpreziuso'Author Name 
     permalink: /mpreziuso
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Llevando El Velo Y Cruzando La Frontera: Geografías Imaginarias En The Farming Of Bones De Edwidge Danticat</li>
-                <li><strong>Author:</strong> Marika Preziuso</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Essay</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> edinburg_tx_united_states</li>
-                <li><strong>Pubdate:</strong> 2010</li>
                 <li><strong>Publisher:</strong> The University of Texas-Pan American: Department of Modern Languages and Literature</li>
+                <li><strong>Publication City:</strong> edinburg_tx_united_states</li>
+                <li><strong>Publication Date:</strong> 2010</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

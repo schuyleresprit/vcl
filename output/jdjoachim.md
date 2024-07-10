@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jdjoachim'Author Name 
     permalink: /jdjoachim
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Avec Des Mots: Poésie</li>
-                <li><strong>Author:</strong> Jean Dany Joachim</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Poem</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> scott's_valley_ca_united¬†states</li>
-                <li><strong>Pubdate:</strong> 2014</li>
                 <li><strong>Publisher:</strong> CreateSpace Independent Publishing Platform</li>
+                <li><strong>Publication City:</strong> scott's_valley_ca_united¬†states</li>
+                <li><strong>Publication Date:</strong> 2014</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

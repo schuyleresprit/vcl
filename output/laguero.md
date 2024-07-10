@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: laguero'Author Name 
     permalink: /laguero
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> Cronicas de Cuba</li>
-                <li><strong>Author:</strong> Luis Aguero</li>
-                <li><strong>Descriptor:</strong> Domingo Alfonso; Dora Alonso; Reinaldo Arenas; Miguel Barnet; Antonio Benítez; David Buzzi; Alejo Carpentier; Edmundo Desnoes; Jesús Díaz; Roberto Fernández Retamar; Pablo Armando Fernández; Norberto Fuentes Cobas; Nicolás Guillén; José Lezama Lima; José Lorenzo Fuentes; Luis Rogelio Nogueras; Antonio Nuñez Jiménez; Heberto Padilla; Virgilio Piñera; Félix Pita Rodríguez; Rolando Rigalli; Haydée Santamaría; Luis Suardíaz; Julio Travieso Serrano; Walsh,Rodolfo Jorge</li>
                 <li><strong>Genre:</strong> Anthology</li>
                 <li><strong>Language:</strong> Spanish</li>
-                <li><strong>Pub ID:</strong> buenos_aires_argentina</li>
-                <li><strong>Pubdate:</strong> 1969</li>
                 <li><strong>Publisher:</strong> Editorial Jorge Álvarez</li>
+                <li><strong>Publication City:</strong> buenos_aires_argentina</li>
+                <li><strong>Publication Date:</strong> 1969</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

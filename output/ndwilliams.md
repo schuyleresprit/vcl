@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: ndwilliams'Author Name 
     permalink: /ndwilliams
     ---
@@ -15,26 +15,22 @@
         
             <ul>
                 <li><strong>Title:</strong> The Crying Of Rainbirds</li>
-                <li><strong>Author:</strong> N. D. Williams</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_ldn_england</li>
-                <li><strong>Pubdate:</strong> 1992</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_ldn_england</li>
+                <li><strong>Publication Date:</strong> 1992</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
             
             <ul>
                 <li><strong>Title:</strong> The Silence Of Islands</li>
-                <li><strong>Author:</strong> N. D. Williams</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> English</li>
-                <li><strong>Pub ID:</strong> leeds_ldn_england</li>
-                <li><strong>Pubdate:</strong> 1994</li>
                 <li><strong>Publisher:</strong> Peepal Tree Press</li>
+                <li><strong>Publication City:</strong> leeds_ldn_england</li>
+                <li><strong>Publication Date:</strong> 1994</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>

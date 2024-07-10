@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: jlherisson'Author Name 
     permalink: /jlherisson
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> La famille Des Pitite-Caille: Les Fortunes De Chez Nous</li>
-                <li><strong>Author:</strong> Justin Lhérisson</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Fiction (Novel)</li>
                 <li><strong>Language:</strong> French</li>
-                <li><strong>Pub ID:</strong> port_au_prince_haiti</li>
-                <li><strong>Pubdate:</strong> 1963</li>
                 <li><strong>Publisher:</strong> Imprimerie des Antilles</li>
+                <li><strong>Publication City:</strong> port_au_prince_haiti</li>
+                <li><strong>Publication Date:</strong> 1963</li>
                 <li><strong>Translation:</strong> y</li>
             </ul>
             <hr>

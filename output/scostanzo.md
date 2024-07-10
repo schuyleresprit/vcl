@@ -1,6 +1,6 @@
 
     ---
-    layout: authorprof
+    layout: defaultau
     title: scostanzo'Author Name 
     permalink: /scostanzo
     ---
@@ -15,13 +15,11 @@
         
             <ul>
                 <li><strong>Title:</strong> La Costruzione di un Giallo Sociale: Las Cuatro Estacionesdi Leonardo Padura Fuentes</li>
-                <li><strong>Author:</strong> Sabrina Costanzo</li>
-                <li><strong>Descriptor:</strong> </li>
                 <li><strong>Genre:</strong> Nonfiction</li>
                 <li><strong>Language:</strong> Italian</li>
-                <li><strong>Pub ID:</strong> messina_italy</li>
-                <li><strong>Pubdate:</strong> 2008</li>
                 <li><strong>Publisher:</strong> A. Lippolis</li>
+                <li><strong>Publication City:</strong> messina_italy</li>
+                <li><strong>Publication Date:</strong> 2008</li>
                 <li><strong>Translation:</strong> n</li>
             </ul>
             <hr>
