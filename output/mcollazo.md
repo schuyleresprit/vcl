@@ -1,0 +1,213 @@
+
+    ---
+    layout: authorprof
+    title: mcollazo'Author Name 
+    permalink: /mcollazo
+    ---
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Author Details - mcollazo</title>
+    </head>
+    <body>
+        <h1>Author Details - mcollazo</h1>
+        
+            <ul>
+                <li><strong>Title:</strong> Journey</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> English</li>
+                <li><strong>Pub ID:</strong> brooklyn_ny_united¬†states</li>
+                <li><strong>Pubdate:</strong> 2020</li>
+                <li><strong>Publisher:</strong> Restless Books</li>
+                <li><strong>Translation:</strong> y</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> El viaje</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> brooklyn_ny_united¬†states</li>
+                <li><strong>Pubdate:</strong> 2020</li>
+                <li><strong>Publisher:</strong> Restless Books</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> El Arco de Belén</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1976</li>
+                <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> El libro fantástico de Oaj ciencia ficción.</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1966</li>
+                <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> Estancias : (breviarios completos)</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1988</li>
+                <li><strong>Publisher:</strong> La Habana Ed. Unión</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> El hilo del ovillo</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1998</li>
+                <li><strong>Publisher:</strong> Editorial Letras Cubanas</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> La gorrita del papa</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1991</li>
+                <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> El laurel del patio grande</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1978</li>
+                <li><strong>Publisher:</strong> Editorial Letras Cubanas</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> El viajante</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> Eduardo Frank</li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1991</li>
+                <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> Dulces Delirios</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1996</li>
+                <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> Estancias</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1984</li>
+                <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> Onoloria y Otros Relatos</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1988</li>
+                <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> Trastiendas: Entre Domingo y Lacay</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 2000</li>
+                <li><strong>Publisher:</strong> Ediciones Unión</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> La Gorrita del Papa</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1991</li>
+                <li><strong>Publisher:</strong> Unión de Escritores y Artistas de Cuba</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+            <ul>
+                <li><strong>Title:</strong> Estación Central</li>
+                <li><strong>Author:</strong> Miguel Collazo</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> Spanish</li>
+                <li><strong>Pub ID:</strong> havana_cuba</li>
+                <li><strong>Pubdate:</strong> 1993</li>
+                <li><strong>Publisher:</strong> Instituto Cubano del Libro</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+        </body>
+        </html>
+        

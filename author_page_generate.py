@@ -22,28 +22,30 @@ def generate_pages():
     for authorid, author_publications in data.items():
         # Generate HTML content
         html_content = f"""
-        <!DOCTYPE html>
-        <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Author Details - {authorid}</title>
-        </head>
-        <body>
-            <h1>Author Details - {authorid}</h1>
+    ---
+    layout: defaultau
+    title: {authorid}'Author Name 
+    permalink: /{authorid}
+    ---
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Author Details - {authorid}</title>
+    </head>
+    <body>
+        <h1>Author Details - {authorid}</h1>
         """
         
         for publication in author_publications:
             html_content += f"""
             <ul>
                 <li><strong>Title:</strong> {publication['Title']}</li>
-                <li><strong>Author:</strong> {publication['Author']}</li>
-                <li><strong>Descriptor:</strong> {publication.get('Descriptor', 'N/A')}</li>
                 <li><strong>Genre:</strong> {publication['Genre']}</li>
                 <li><strong>Language:</strong> {publication['Language']}</li>
-                <li><strong>Pub ID:</strong> {publication['Pub_id']}</li>
-                <li><strong>Pubdate:</strong> {publication['Pubdate']}</li>
                 <li><strong>Publisher:</strong> {publication['Publisher']}</li>
+                <li><strong>Publication City:</strong> {publication['Pub_id']}</li>
+                <li><strong>Publication Date:</strong> {publication['Pubdate']}</li>
                 <li><strong>Translation:</strong> {publication['Translation']}</li>
             </ul>
             <hr>
@@ -55,10 +57,10 @@ def generate_pages():
         """
         
         # Write HTML content to a file
-        output_file_path = os.path.join('output', f'{authorid}.html')
+        output_file_path = os.path.join('output', f'{authorid}.md')
         with open(output_file_path, 'w') as output_file:
             output_file.write(html_content)
-        
+
         print(f"Output page generated for Author ID: {authorid}")
 
 # Generate pages for all authors

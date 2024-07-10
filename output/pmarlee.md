@@ -1,0 +1,31 @@
+
+    ---
+    layout: authorprof
+    title: pmarlee'Author Name 
+    permalink: /pmarlee
+    ---
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Author Details - pmarlee</title>
+    </head>
+    <body>
+        <h1>Author Details - pmarlee</h1>
+        
+            <ul>
+                <li><strong>Title:</strong> Guinea-Pig</li>
+                <li><strong>Author:</strong> Paul Marlee</li>
+                <li><strong>Descriptor:</strong> 1985</li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> English</li>
+                <li><strong>Pub ID:</strong> london_england</li>
+                <li><strong>Pubdate:</strong> 1990</li>
+                <li><strong>Publisher:</strong> Karnak</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+        </body>
+        </html>
+        

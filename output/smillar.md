@@ -1,0 +1,31 @@
+
+    ---
+    layout: authorprof
+    title: smillar'Author Name 
+    permalink: /smillar
+    ---
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Author Details - smillar</title>
+    </head>
+    <body>
+        <h1>Author Details - smillar</h1>
+        
+            <ul>
+                <li><strong>Title:</strong> The Whale House and Other Stories</li>
+                <li><strong>Author:</strong> Sharon Millar</li>
+                <li><strong>Descriptor:</strong> </li>
+                <li><strong>Genre:</strong> Fiction (Novel)</li>
+                <li><strong>Language:</strong> English</li>
+                <li><strong>Pub ID:</strong> leeds_england</li>
+                <li><strong>Pubdate:</strong> 2015</li>
+                <li><strong>Publisher:</strong> Peepal Tree</li>
+                <li><strong>Translation:</strong> n</li>
+            </ul>
+            <hr>
+            
+        </body>
+        </html>
+        
