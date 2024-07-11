@@ -85,7 +85,7 @@
                 console.log("pass the test")
             });
         }
-
+       
         function showAuthorDetails(authorId) {
             const url = "{{ site.baseurl }}/data/publications.json";
             $.getJSON(url, function(data) {
@@ -93,12 +93,13 @@
                 let htmlContent = `
                 <h1>Author Details - ${authorId}</h1>
                 `;
+              
                 authorPublications.forEach(publication => {
                     htmlContent += `
                     <ul>
                         <li><strong>Title:</strong> ${publication.Title}</li>
                         <li><strong>Genre:</strong> ${publication.Genre}</li>
-                        <li><strong>Language:</strong> ${publication.Language}</li>
+                        <li><strong>Language:</strong> ${publication.Language}</a></li>
                         <li><strong>Publisher:</strong> ${publication.Publisher}</li>
                         <li><strong>Publication City:</strong> ${publication.Pub_id}</li>
                         <li><strong>Publication Date:</strong> ${publication.Pubdate}</li>
