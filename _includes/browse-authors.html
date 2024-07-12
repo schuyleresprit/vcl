@@ -86,10 +86,12 @@
             const authorBio = data[authorId];
             if (authorBio) {
                 let htmlContent = `
+                <div>
                     <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
                     <h4>${authorBio.Lifespan}</h4>
                     <h4><a href="${authorBio.Wikimedia}">Read More</a></h4>
                     <h5><a href="${authorBio.dloc}">DLOC Resources</a></h5>
+                    </div>
                 `;
                 $('#data-container').html(htmlContent);
                 showAuthorDetails(authorId);
@@ -106,7 +108,7 @@
         $.getJSON(url, function(data) {
             const authorPublications = data[authorId];
             if (authorPublications) {
-                let htmlContent = `<h1>Author Details - ${authorId}</h1>`;
+                let htmlContent = `<h3>Author Details</h3>`;
                 authorPublications.forEach(publication => {
                     htmlContent += `
                         <ul>
