@@ -1,117 +1,135 @@
- <div class="container">
-        <div class="input-group mb-3">
-            <input id="search-box" type="text" class="form-control" placeholder="Search for an author">
-        </div>
-        <div id="data-container" class="row"></div>
+<div class="container">
+    <div class="input-group mb-3">
+        <input id="search-box" type="text" class="form-control" placeholder="Search for an author">
     </div>
+    <div id="data-container" class="row"></div>
+</div>
 
-    <script>
-        const datasets = [
-            {
-                type: "authors",
-                url: "{{ site.baseurl }}/data/authors.json"
-            }
-        ];
+<script>
+    const datasets = [
+        {
+            type: "authors",
+            url: "{{ site.baseurl }}/data/authors.json"
+        }
+    ];
 
-        const dataLinks = [];
+    const dataLinks = [];
 
-        $(document).ready(function() {
-            datasets.forEach(dataset => {
+    $(document).ready(function() {
+        datasets.forEach(dataset => {
+            siftData(dataset.url, dataset.type, function(data) {
                 dataLinks.push({
                     type: dataset.type,
-                    data: siftData(dataset.url, dataset.type)
+                    data: data
                 });
+                setTimeout(() => showCategory(), 1000);
             });
-
-            $('#search-box').on('input', function(event) {
-                showCategory(event.target.value);
-            });
-
-            setTimeout(() => showCategory(), 1000);
         });
 
-        function siftData(url, dataType) {
+        $('#search-box').on('input', function(event) {
+            showCategory(event.target.value);
+        });
+    });
+
+    function siftData(url, dataType, callback) {
+        $.getJSON(url, function(data) {
             const temp = [];
-            $.getJSON(url, function(data) {
-                if (dataType === "authors") {
-                    for (const key in data) {
-                        if (data.hasOwnProperty(key)) {
-                            temp.push({
-                                flavorText: data[key].Author,
-                                subtitle: data[key].author_country,
-                                link: data[key].author_id
-                            });
-                        }
+            if (dataType === "authors") {
+                for (const key in data) {
+                    if (data.hasOwnProperty(key)) {
+                        temp.push({
+                            flavorText: data[key].Author,
+                            subtitle: data[key].author_country,
+                            link: data[key].author_id
+                        });
                     }
                 }
-            });
-            return temp;
-        }
+            }
+            callback(temp);
+        });
+    }
 
-        function showCategory(filter = "") {
-            $('#data-container').html('');
-            filter = filter.trim().toLowerCase();
+    function showCategory(filter = "") {
+        $('#data-container').html('');
+        filter = filter.trim().toLowerCase();
 
-            dataLinks.forEach(element => {
-                if (filter === "" && element.data.length > 0) {
-                    element.data.forEach(data => {
-                        appendCard(data);
-                    });
-                } else {
-                    element.data.forEach(data => {
-                        if (data.flavorText.toLowerCase().includes(filter)) {
-                            appendCard(data);
-                        }
-                    });
+        dataLinks.forEach(element => {
+            element.data.forEach(data => {
+                if (filter === "" || data.flavorText.toLowerCase().includes(filter)) {
+                    appendCard(data);
                 }
             });
-        }
+        });
+    }
 
-        function appendCard(data) {
-            $('#data-container').append(`
-                <div class="card col-4">
-                    <div class="card-body">
-                        <h5 class="card-title">${data.flavorText}</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">${data.subtitle}</h6>
-                        <a href="#" class="card-link" data-authorid="${data.link}">More</a>
-                    </div>
+    function appendCard(data) {
+        $('#data-container').append(`
+            <div class="card col-4">
+                <div class="card-body">
+                    <h5 class="card-title">${data.flavorText}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">${data.subtitle}</h6>
+                    <a href="#" class="card-link" data-authorid="${data.link}">More</a>
                 </div>
-            `);
+            </div>
+        `);
 
-            $('.card-link').off('click').on('click', function(event) {
-                event.preventDefault();
-                const authorId = $(this).data('authorid');
-                showAuthorDetails(authorId);
-                console.log("pass the test")
-            });
-        }
-       
-        function showAuthorDetails(authorId) {
-            const url = "{{ site.baseurl }}/data/publications.json";
-            $.getJSON(url, function(data) {
-                const authorPublications = data[authorId];
+        $('.card-link').off('click').on('click', function(event) {
+            event.preventDefault();
+            const authorId = $(this).data('authorid');
+            showAuthorBio(authorId);
+        });
+    }
+
+    function showAuthorBio(authorId) {
+        const url = "{{ site.baseurl }}/data/bios.json";
+        $.getJSON(url, function(data) {
+            const authorBio = data[authorId];
+            if (authorBio) {
                 let htmlContent = `
-                <h1>Author Details - ${authorId}</h1>
+                <div>
+                    <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
+                    <h4>${authorBio.Lifespan}</h4>
+                    <h4><a href="${authorBio.Wikimedia}">Read More</a></h4>
+                    <h5><a href="${authorBio.dloc}">DLOC Resources</a></h5>
+                    </div>
                 `;
-              
+                $('#data-container').html(htmlContent);
+                showAuthorDetails(authorId);
+            } else {
+                console.error("Author not found in the data.");
+            }
+        }).fail(function() {
+            console.error("Failed to load JSON data.");
+        });
+    }
+
+    function showAuthorDetails(authorId) {
+        const url = "{{ site.baseurl }}/data/publications.json";
+        $.getJSON(url, function(data) {
+            const authorPublications = data[authorId];
+            if (authorPublications) {
+                let htmlContent = `<h3>Author Details</h3>`;
                 authorPublications.forEach(publication => {
                     htmlContent += `
-                    <ul>
-                        <li><strong>Title:</strong> ${publication.Title}</li>
-                        <li><strong>Genre:</strong> ${publication.Genre}</li>
-                        <li><strong>Language:</strong> ${publication.Language}</a></li>
-                        <li><strong>Publisher:</strong> ${publication.Publisher}</li>
-                        <li><strong>Publication City:</strong> ${publication.Pub_id}</li>
-                        <li><strong>Publication Date:</strong> ${publication.Pubdate}</li>
-                        <li><strong>Translation:</strong> ${publication.Translation}</li>
-                    </ul>
-                    <hr>
+                        <ul>
+                            <li><strong>Title:</strong> ${publication.Title}</li>
+                            <li><strong>Genre:</strong> ${publication.Genre}</li>
+                            <li><strong>Language:</strong> ${publication.Language}</a></li>
+                            <li><strong>Publisher:</strong> ${publication.Publisher}</li>
+                            <li><strong>Publication City:</strong> ${publication.Pub_id}</li>
+                            <li><strong>Publication Date:</strong> ${publication.Pubdate}</li>
+                            <li><strong>Translation:</strong> ${publication.Translation}</li>
+                        </ul>
+                        <hr>
                     `;
                 });
 
-                $('#data-container').html(htmlContent);
-                console.log("pass the test")
-            });
-        }
-    </script>
-
+                $('#data-container').append(htmlContent);
+            } else {
+                console.error("Publications not found for author.");
+            }
+        }).fail(function() {
+            console.error("Failed to load JSON data.");
+        });
+    }
+</script>

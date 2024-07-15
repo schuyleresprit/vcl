@@ -1,0 +1,3938 @@
+{
+    "alowe": {
+        "authorid": "alowe",
+        "Author": "Adam Lowe",
+        "Country": "England",
+        "Lifespan": "1985-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Adam_Lowe_(writer)",
+        "dloc": ""
+    },
+    "aandwele": {
+        "authorid": "aandwele",
+        "Author": "Adisa Andwele",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Adisa_Andwele",
+        "dloc": ""
+    },
+    "atous": {
+        "authorid": "atous",
+        "Author": "Adriana Tous",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "acésaire": {
+        "authorid": "acésaire",
+        "Author": "Aimé Césaire",
+        "Country": "Martinique",
+        "Lifespan": "1913-2008",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire",
+        "dloc": ""
+    },
+    "arsantos": {
+        "authorid": "arsantos",
+        "Author": "Alaí Reyes-Santos",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "amgomes": {
+        "authorid": "amgomes",
+        "Author": "Albert Maria Gomes",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "1911-1978",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Albert_Gomes",
+        "dloc": ""
+    },
+    "agarrandés": {
+        "authorid": "agarrandés",
+        "Author": "Alberto Garrandés",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "https://es.wikipedia.org/wiki/Alberto_Garrand%C3%A9s",
+        "dloc": ""
+    },
+    "amckenzie": {
+        "authorid": "amckenzie",
+        "Author": "Alecia McKenzie",
+        "Country": "Jamaica",
+        "Lifespan": "1962-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Alecia_McKenzie",
+        "dloc": "https://dloc.com/AA00090268/00058/pdf"
+    },
+    "acarpentier": {
+        "authorid": "acarpentier",
+        "Author": "Alejo Carpentier",
+        "Country": "Cuba",
+        "Lifespan": "1904-1980",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Alejo_Carpentier",
+        "dloc": "https://createcaribbean.org/vcl/acarpentier_dloc/"
+    },
+    "aisfahanihammond": {
+        "authorid": "aisfahanihammond",
+        "Author": "Alexandra Isfahani-Hammond",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": "https://www.dloc.com/UF00099461/00113/pdf"
+    },
+    "aarthurs": {
+        "authorid": "aarthurs",
+        "Author": "Alexia Arthurs",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Alexia_Arthurs",
+        "dloc": ""
+    },
+    "ahcata": {
+        "authorid": "ahcata",
+        "Author": "Alfonso Hernández Catá",
+        "Country": "Spain",
+        "Lifespan": "1885-1940",
+        "Wikimedia": "https://es.wikipedia.org/wiki/Alfonso_Hern%C3%A1ndez-Cat%C3%A1",
+        "dloc": "https://www.dloc.com/AA00089347/00001/images"
+    },
+    "aalexandre": {
+        "authorid": "aalexandre",
+        "Author": "Alfred Alexandre",
+        "Country": "Martinique",
+        "Lifespan": "1970-",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ahmendes": {
+        "authorid": "ahmendes",
+        "Author": "Alfred Hubert Mendes",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "1897-1991",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Alfred_Mendes",
+        "dloc": "https://createcaribbean.org/vcl/ahmendes_dloc/"
+    },
+    "aiharraway": {
+        "authorid": "aiharraway",
+        "Author": "Alicia Ikida Harraway",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "alazare": {
+        "authorid": "alazare",
+        "Author": "Alick Lazare",
+        "Country": "Dominica",
+        "Lifespan": "1934-",
+        "Wikimedia": "",
+        "dloc": "https://www.dloc.com/UF00072476/00018/images"
+    },
+    "aprince": {
+        "authorid": "aprince",
+        "Author": "Althea Prince",
+        "Country": "Antigua & Barbuda",
+        "Lifespan": "1945-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Althea_Prince",
+        "dloc": ""
+    },
+    "acummins": {
+        "authorid": "acummins",
+        "Author": "Alvin Cummins",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "awilentz": {
+        "authorid": "awilentz",
+        "Author": "Amy Wilentz",
+        "Country": "United States",
+        "Lifespan": "1954-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Amy_Wilentz",
+        "dloc": "https://createcaribbean.org/vcl/awilentz_dloc/"
+    },
+    "aségalas": {
+        "authorid": "aségalas",
+        "Author": "Anaïs Ségalas",
+        "Country": "France",
+        "Lifespan": "1811-1893",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Ana%C3%AFs_S%C3%A9galas",
+        "dloc": ""
+    },
+    "aparadis": {
+        "authorid": "aparadis",
+        "Author": "André Paradis",
+        "Country": "France",
+        "Lifespan": "1939-2024",
+        "Wikimedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9_Paradis_(%C3%A9crivain)",
+        "dloc": ""
+    },
+    "alevy": {
+        "authorid": "alevy",
+        "Author": "Andrea Levy",
+        "Country": "England",
+        "Lifespan": "1956-2019",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Andrea_Levy",
+        "dloc": "https://www.dloc.com/AA00000079/00009/images"
+    },
+    "astuart": {
+        "authorid": "astuart",
+        "Author": "Andrea Stuart",
+        "Country": "Jamaica",
+        "Lifespan": "1962-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Andrea_Stuart",
+        "dloc": ""
+    },
+    "asalkey": {
+        "authorid": "asalkey",
+        "Author": "Andrew Salkey",
+        "Country": "Jamaica",
+        "Lifespan": "1928-1995",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Andrew_Salkey",
+        "dloc": "https://createcaribbean.org/vcl/asalkey_dloc/"
+    },
+    "aaugier": {
+        "authorid": "aaugier",
+        "Author": "Ángel Augier",
+        "Country": "Cuba",
+        "Lifespan": "1910-2010",
+        "Wikimedia": "https://es.wikipedia.org/wiki/%C3%81ngel_Augier",
+        "dloc": ""
+    },
+    "arawiri": {
+        "authorid": "arawiri",
+        "Author": "Angèle Rawiri",
+        "Country": "gabon",
+        "Lifespan": "1954-2010",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Ang%C3%A8le_Rawiri",
+        "dloc": ""
+    },
+    "asankar": {
+        "authorid": "asankar",
+        "Author": "Anisah Sankar",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "acwinkler": {
+        "authorid": "acwinkler",
+        "Author": "Anthony C. Winkler",
+        "Country": "Jamaica",
+        "Lifespan": "1942-2015",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Anthony_C._Winkler",
+        "dloc": "https://createcaribbean.org/vcl/acwinkler_dloc/"
+    },
+    "akellman": {
+        "authorid": "akellman",
+        "Author": "Anthony Kellman",
+        "Country": "Barbados",
+        "Lifespan": "1955-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Anthony_Kellman",
+        "dloc": ""
+    },
+    "anash": {
+        "authorid": "anash",
+        "Author": "Anthony Nash",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "abenitezrogo": {
+        "authorid": "abenitezrogo",
+        "Author": "Antonio Benítez-Rojo",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "amoreno": {
+        "authorid": "amoreno",
+        "Author": "Antonio Moreno",
+        "Country": "Spain",
+        "Lifespan": "1887-1967",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Antonio_Moreno",
+        "dloc": ""
+    },
+    "aminatchybogat": {
+        "authorid": "aminatchybogat",
+        "Author": "Arlette Minatchy-Bogat",
+        "Country": "Guadeloupe",
+        "Lifespan": "1945-",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "alhendriks": {
+        "authorid": "alhendriks",
+        "Author": "Arthur Lemiere Hendriks",
+        "Country": "Jamaica",
+        "Lifespan": "1922-1992",
+        "Wikimedia": "https://en.wikipedia.org/wiki/A._L._Hendriks",
+        "dloc": "https://createcaribbean.org/vcl/alhendriks_dloc/"
+    },
+    "abromfield": {
+        "authorid": "abromfield",
+        "Author": "Asha Bromfield",
+        "Country": "Canada",
+        "Lifespan": "1994-",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "alorde": {
+        "authorid": "alorde",
+        "Author": "Audre Lorde",
+        "Country": "United States",
+        "Lifespan": "1943-1992",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Audre_Lorde",
+        "dloc": "https://createcaribbean.org/vcl/alorde_dloc/"
+    },
+    "aclarke": {
+        "authorid": "aclarke",
+        "Author": "Austin Clarke",
+        "Country": "Barbados",
+        "Lifespan": "1934-2016",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Austin_Clarke_(novelist)",
+        "dloc": "https://createcaribbean.org/vcl/aclarke_dloc/"
+    },
+    "bpaul": {
+        "authorid": "bpaul",
+        "Author": "Baptiste Paul",
+        "Country": "France",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "bapplin": {
+        "authorid": "bapplin",
+        "Author": "Barbara Applin",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "bhambley": {
+        "authorid": "bhambley",
+        "Author": "Barbara Hambly",
+        "Country": "United States",
+        "Lifespan": "1951",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Barbara_Hambly",
+        "dloc": ""
+    },
+    "bjenkins": {
+        "authorid": "bjenkins",
+        "Author": "Barbara Jenkins",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Barbara_Jenkins",
+        "dloc": "https://www.dloc.com/AA00090268/00039/pdf"
+    },
+    "blalla": {
+        "authorid": "blalla",
+        "Author": "Barbara Lalla",
+        "Country": "Jamaica",
+        "Lifespan": "1949",
+        "Wikimedia": "",
+        "dloc": "https://createcaribbean.org/vcl/blalla_dloc/"
+    },
+    "bphilippe": {
+        "authorid": "bphilippe",
+        "Author": "Ben Philippe",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Ben_Philippe",
+        "dloc": ""
+    },
+    "bmontabo": {
+        "authorid": "bmontabo",
+        "Author": "Bernard Montabo",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "https://ht.wikipedia.org/wiki/Bernard_Montabo",
+        "dloc": ""
+    },
+    "bgilroy": {
+        "authorid": "bgilroy",
+        "Author": "Beryl Gilroy",
+        "Country": "Guyana",
+        "Lifespan": "1924-2001",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Beryl_Gilroy",
+        "dloc": "https://createcaribbean.org/vcl/bgilroy_dloc/"
+    },
+    "bbyrne": {
+        "authorid": "bbyrne",
+        "Author": "Bonifacio Byrne",
+        "Country": "Cuba",
+        "Lifespan": "1861-1936",
+        "Wikimedia": "https://es.wikipedia.org/wiki/Bonifacio_Byrne",
+        "dloc": "https://createcaribbean.org/vcl/bbyrne_dloc/"
+    },
+    "baperez": {
+        "authorid": "baperez",
+        "Author": "Brenda Alexander-Perez",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "brennie": {
+        "authorid": "brennie",
+        "Author": "Bukka Rennie",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "1946-",
+        "Wikimedia": "",
+        "dloc": "https://createcaribbean.org/vcl/brennie_dloc/"
+    },
+    "clrjames": {
+        "authorid": "clrjames",
+        "Author": "C. L. R. James",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "1901-1989",
+        "Wikimedia": "https://en.wikipedia.org/wiki/C._L._R._James",
+        "dloc": "https://createcaribbean.org/vcl/clrjames_dloc/"
+    },
+    "cbrowning": {
+        "authorid": "cbrowning",
+        "Author": "Callie Browning",
+        "Country": "Barbados",
+        "Lifespan": "1996-",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "caparsons": {
+        "authorid": "caparsons",
+        "Author": "Captain Anthony Parsons",
+        "Country": "England",
+        "Lifespan": "1922-1996",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Anthony_Parsons",
+        "dloc": ""
+    },
+    "colabra": {
+        "authorid": "colabra",
+        "Author": "Carilda Oliver Labra",
+        "Country": "Cuba",
+        "Lifespan": "1922-2018",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Carilda_Oliver_Labra",
+        "dloc": "https://createcaribbean.org/vcl/colabra_dloc/"
+    },
+    "cloveira": {
+        "authorid": "cloveira",
+        "Author": "Carlos Loveira",
+        "Country": "Cuba",
+        "Lifespan": "1882-1928",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Carlos_Loveira",
+        "dloc": "https://createcaribbean.org/vcl/cloveira_dloc/"
+    },
+    "cmoore": {
+        "authorid": "cmoore",
+        "Author": "Carlos Moore",
+        "Country": "Cuba",
+        "Lifespan": "1942-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Carlos_Moore_(writer)",
+        "dloc": ""
+    },
+    "cphillips": {
+        "authorid": "cphillips",
+        "Author": "Caryl Phillips",
+        "Country": "St. Kitts & Nevis",
+        "Lifespan": "1958-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Caryl_Phillips",
+        "dloc": "https://createcaribbean.org/vcl/cphillips_dloc/"
+    },
+    "cbrowne": {
+        "authorid": "cbrowne",
+        "Author": "Cecil Browne",
+        "Country": "St. Vincent & the Grenadines",
+        "Lifespan": "1957-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Cecil_Browne_(author)",
+        "dloc": ""
+    },
+    "cbustamante": {
+        "authorid": "cbustamante",
+        "Author": "Cecilia Bustamante",
+        "Country": "Peru",
+        "Lifespan": "1932-2006",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cmohammed": {
+        "authorid": "cmohammed",
+        "Author": "Celeste Mohammed",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cjones": {
+        "authorid": "cjones",
+        "Author": "Cherie Jones",
+        "Country": "Barbados",
+        "Lifespan": "1974",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cblelio": {
+        "authorid": "cblelio",
+        "Author": "Chiara Bettelli Lelio",
+        "Country": "Italy",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cwerleigh": {
+        "authorid": "cwerleigh",
+        "Author": "Christian Werleigh",
+        "Country": "Haiti",
+        "Lifespan": "1896-1945",
+        "Wikimedia": "",
+        "dloc": "https://createcaribbean.org/vcl/cwerleigh_dloc/"
+    },
+    "ccraig": {
+        "authorid": "ccraig",
+        "Author": "Christine Craig",
+        "Country": "Jamaica",
+        "Lifespan": "1943",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Christine_Craig",
+        "dloc": ""
+    },
+    "csmart": {
+        "authorid": "csmart",
+        "Author": "Ciannon Smart",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cvillaverde": {
+        "authorid": "cvillaverde",
+        "Author": "Cirilo Villaverde",
+        "Country": "Cuba",
+        "Lifespan": "1812-1894",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Cirilo_Villaverde",
+        "dloc": "https://createcaribbean.org/vcl/cvillaverde_dloc/"
+    },
+    "cadam": {
+        "authorid": "cadam",
+        "Author": "Claire Adam",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Claire_Adam",
+        "dloc": ""
+    },
+    "ctmorell": {
+        "authorid": "ctmorell",
+        "Author": "Claribel Terré Morell",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": "https://createcaribbean.org/vcl/ctmorell_dloc/"
+    },
+    "cmckay": {
+        "authorid": "cmckay",
+        "Author": "Claude McKay",
+        "Country": "Jamaica",
+        "Lifespan": "1890-1948",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Claude_McKay",
+        "dloc": "https://createcaribbean.org/vcl/cmckay_dloc/"
+    },
+    "cthompson": {
+        "authorid": "cthompson",
+        "Author": "Claude Thompson",
+        "Country": "Jamaica",
+        "Lifespan": "1907-UNKNOWN",
+        "Wikimedia": "",
+        "dloc": "https://www.dloc.com/AA00030592/00001/images"
+    },
+    "cmagloiresaintaude": {
+        "authorid": "cmagloiresaintaude",
+        "Author": "Clément Magloire-Saint-Aude",
+        "Country": "Haiti",
+        "Lifespan": "1912-1971",
+        "Wikimedia": "https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Magloire-Saint-Aude",
+        "dloc": ""
+    },
+    "cmaharaj": {
+        "authorid": "cmaharaj",
+        "Author": "Clement Maharaj",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": "https://www.dloc.com/AA00035150/00001/pdf"
+    },
+    "cricher": {
+        "authorid": "cricher",
+        "Author": "Clément Richer",
+        "Country": "Canada",
+        "Lifespan": "1914-1971",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cdebrot": {
+        "authorid": "cdebrot",
+        "Author": "Cola Debrot",
+        "Country": "Bonaire",
+        "Lifespan": "1902-1981",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Cola_Debrot",
+        "dloc": "https://createcaribbean.org/vcl/cdebrot_dloc/"
+    },
+    "cnyoung": {
+        "authorid": "cnyoung",
+        "Author": "Colville N Young",
+        "Country": "Belize",
+        "Lifespan": "1932",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Colville_Young",
+        "dloc": "https://createcaribbean.org/vcl/cnyoung_dloc/"
+    },
+    "cmarshall": {
+        "authorid": "cmarshall",
+        "Author": "Constance Marshall",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cforbes": {
+        "authorid": "cforbes",
+        "Author": "Curdella Forbes",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Curdella_Forbes",
+        "dloc": "https://createcaribbean.org/vcl/cforbes_dloc/"
+    },
+    "crwilliams": {
+        "authorid": "crwilliams",
+        "Author": "Cynric R. Williams",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": "https://createcaribbean.org/vcl/crwilliams_dloc/"
+    },
+    "cjames": {
+        "authorid": "cjames",
+        "Author": "Cynthia James",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "1948-",
+        "Wikimedia": "https://en.wikipedia.org/wiki/Cynthia_James",
+        "dloc": ""
+    },
+    "cwilson": {
+        "authorid": "cwilson",
+        "Author": "Cynthia Wilson",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cnoel": {
+        "authorid": "cnoel",
+        "Author": "Cynthia Noel",
+        "Country": "Canada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cdabydeen": {
+        "authorid": "cdabydeen",
+        "Author": "Cyril Dabydeen",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cepalmer": {
+        "authorid": "cepalmer",
+        "Author": "Cyril Everard Palmer",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cvbriggs": {
+        "authorid": "cvbriggs",
+        "Author": "Cyril V Briggs",
+        "Country": "St. Kitts & Nevis",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "cfperkins": {
+        "authorid": "cfperkins",
+        "Author": "Cyrus Francis Perkins",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dflpierreluke": {
+        "authorid": "dflpierreluke",
+        "Author": "D.F. Les Pierre-Luke",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dmackinnen": {
+        "authorid": "dmackinnen",
+        "Author": "Daniel MacKinnen",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dpicouly": {
+        "authorid": "dpicouly",
+        "Author": "Daniel Picouly",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dlgeorges": {
+        "authorid": "dlgeorges",
+        "Author": "Danielle Legros Georges",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dlaferrière": {
+        "authorid": "dlaferrière",
+        "Author": "Dany Laferrière",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dblockhart": {
+        "authorid": "dblockhart",
+        "Author": "Darrell B Lockhart",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dastraker": {
+        "authorid": "dastraker",
+        "Author": "David Augustus Straker",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ddabydeen": {
+        "authorid": "ddabydeen",
+        "Author": "David Dabydeen",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dfranklyn": {
+        "authorid": "dfranklyn",
+        "Author": "David Franklyn",
+        "Country": "Brazil",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hgdlisser": {
+        "authorid": "hgdlisser",
+        "Author": "De Lisser H. G.",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "drbaldwin": {
+        "authorid": "drbaldwin",
+        "Author": "Dean R Baldwin",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dharris": {
+        "authorid": "dharris",
+        "Author": "Denise Harris",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dscott": {
+        "authorid": "dscott",
+        "Author": "Dennis Scott",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dwalcott": {
+        "authorid": "dwalcott",
+        "Author": "Derek Walcott",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dsandy": {
+        "authorid": "dsandy",
+        "Author": "Derry Sandy",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dhall": {
+        "authorid": "dhall",
+        "Author": "Desmond Hall",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dvnicholson": {
+        "authorid": "dvnicholson",
+        "Author": "Desmond V Nicholson",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "djules": {
+        "authorid": "djules",
+        "Author": "Didacus Jules",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "deleger": {
+        "authorid": "deleger",
+        "Author": "Dimitry Elias Léger",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dbrand": {
+        "authorid": "dbrand",
+        "Author": "Dionne Brand",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "dhinds": {
+        "authorid": "dhinds",
+        "Author": "Donald Hinds",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "devery": {
+        "authorid": "devery",
+        "Author": "Donna Every",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "eglong": {
+        "authorid": "eglong",
+        "Author": "Earl G Long",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "elovelace": {
+        "authorid": "elovelace",
+        "Author": "Earl Lovelace",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "evega": {
+        "authorid": "evega",
+        "Author": "Eddie Vega",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ewhyte": {
+        "authorid": "ewhyte",
+        "Author": "Eddie Whyte",
+        "Country": "British Virgin Islands",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ephillpotts": {
+        "authorid": "ephillpotts",
+        "Author": "Eden Phillpotts",
+        "Country": "india",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "eamittelholzer": {
+        "authorid": "eamittelholzer",
+        "Author": "Edgar Austin Mittelholzer",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "etwilliams": {
+        "authorid": "etwilliams",
+        "Author": "Edison T Williams",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "eclarke": {
+        "authorid": "eclarke",
+        "Author": "Edith Clarke",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "elpaironne": {
+        "authorid": "elpaironne",
+        "Author": "Edmond Lapompe-Paironne",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "emokwe": {
+        "authorid": "emokwe",
+        "Author": "Edouard Mokwe",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "esaintamand": {
+        "authorid": "esaintamand",
+        "Author": "Edris Saint-Amand",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "edelllano": {
+        "authorid": "edelllano",
+        "Author": "Eduardo Del Llano",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ebaugh": {
+        "authorid": "ebaugh",
+        "Author": "Edward Baugh",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ekbrathwaite": {
+        "authorid": "ekbrathwaite",
+        "Author": "Edward Kamau Brathwaite",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "edanticat": {
+        "authorid": "edanticat",
+        "Author": "Edwidge Danticat",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "epspringer": {
+        "authorid": "epspringer",
+        "Author": "Eintou Pearl Springer",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ediego": {
+        "authorid": "ediego",
+        "Author": "Eliseo Diego",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "eacevedo": {
+        "authorid": "eacevedo",
+        "Author": "Elizabeth Acevedo",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "enunez": {
+        "authorid": "enunez",
+        "Author": "Elizabeth Nunez",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ewalcotthackshaw": {
+        "authorid": "ewalcotthackshaw",
+        "Author": "Elizabeth Walcott-Hackshaw",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "enapier": {
+        "authorid": "enapier",
+        "Author": "Elma Napier",
+        "Country": "Dominica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ellima": {
+        "authorid": "ellima",
+        "Author": "Eloísa Lezama Lima",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ebobadilla": {
+        "authorid": "ebobadilla",
+        "Author": "Emilio Bobadilla",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "eacolin": {
+        "authorid": "eacolin",
+        "Author": "Emily A Colin",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "eewilliams": {
+        "authorid": "eewilliams",
+        "Author": "Eric Eustace Williams",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ebodber": {
+        "authorid": "ebodber",
+        "Author": "Erna Brodber",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ejohn": {
+        "authorid": "ejohn",
+        "Author": "Errol John",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "eborde": {
+        "authorid": "eborde",
+        "Author": "Eulah Borde",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ejones": {
+        "authorid": "ejones",
+        "Author": "Evan Jones",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "etrouillot": {
+        "authorid": "etrouillot",
+        "Author": "Évelyne Trouillot",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "evieta": {
+        "authorid": "evieta",
+        "Author": "Ezequiel Vieta",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ffiallo": {
+        "authorid": "ffiallo",
+        "Author": "Fabio Fiallo",
+        "Country": "Dominican Republic",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fmrodriguez": {
+        "authorid": "fmrodriguez",
+        "Author": "Fabio Murrieta Rodríguez",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fhibbert": {
+        "authorid": "fhibbert",
+        "Author": "Fernand Hibbert",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fjborbe": {
+        "authorid": "fjborbe",
+        "Author": "Fernando José Barcena Orbe",
+        "Country": "St. Martin",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fmomplaisir": {
+        "authorid": "fmomplaisir",
+        "Author": "Francesca Momplaisir",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "flatour": {
+        "authorid": "flatour",
+        "Author": "Francie Latour",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fcarco": {
+        "authorid": "fcarco",
+        "Author": "Francis Carco",
+        "Country": "New Caledonia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "facollymore": {
+        "authorid": "facollymore",
+        "Author": "Frank A. Collymore",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fjanney": {
+        "authorid": "fjanney",
+        "Author": "Frank Janney",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "franketienne": {
+        "authorid": "franketienne",
+        "Author": "Frankétienne",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fwainwright": {
+        "authorid": "fwainwright",
+        "Author": "Frantz Wainwright",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fdaguiar": {
+        "authorid": "fdaguiar",
+        "Author": "Fred D'Aguiar",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fmarcelin": {
+        "authorid": "fmarcelin",
+        "Author": "Frédéric Marcelin",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "fwols": {
+        "authorid": "fwols",
+        "Author": "Frits Wols",
+        "Country": "Suriname",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gdayton": {
+        "authorid": "gdayton",
+        "Author": "Geoffrey Drayton",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gphilip": {
+        "authorid": "gphilip",
+        "Author": "Geoffrey Philip",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gcampbell": {
+        "authorid": "gcampbell",
+        "Author": "George Campbell",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "glamming": {
+        "authorid": "glamming",
+        "Author": "George Lamming",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gmauvois": {
+        "authorid": "gmauvois",
+        "Author": "Georges Mauvois",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gsylvain": {
+        "authorid": "gsylvain",
+        "Author": "Georges Sylvain",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gbulin": {
+        "authorid": "gbulin",
+        "Author": "Gérard Bulin",
+        "Country": "France",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gpicart": {
+        "authorid": "gpicart",
+        "Author": "Gina Picart",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gpineau": {
+        "authorid": "gpineau",
+        "Author": "Gisèle Pineau",
+        "Country": "Guadeloupe",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gguevara": {
+        "authorid": "gguevara",
+        "Author": "Glynis Guevara",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "grohlehr": {
+        "authorid": "grohlehr",
+        "Author": "Gordon Rohlehr",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gnichols": {
+        "authorid": "gnichols",
+        "Author": "Grace Nichols",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gthompson": {
+        "authorid": "gthompson",
+        "Author": "Gregory Thompson",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "grosales": {
+        "authorid": "grosales",
+        "Author": "Guillermo Rosales",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gjohn": {
+        "authorid": "gjohn",
+        "Author": "Gus John",
+        "Country": "Grenada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "gharold": {
+        "authorid": "gharold",
+        "Author": "Gwyneth Harold",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hkhemraj": {
+        "authorid": "hkhemraj",
+        "Author": "Harischandra Khemraj",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hramoutar": {
+        "authorid": "hramoutar",
+        "Author": "Harold Ramoutar",
+        "Country": "chile",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hsladoo": {
+        "authorid": "hsladoo",
+        "Author": "Harold Sonny Ladoo",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hvaldman": {
+        "authorid": "hvaldman",
+        "Author": "Hayim Valdman",
+        "Country": "Ukraine",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hsmcdonald": {
+        "authorid": "hsmcdonald",
+        "Author": "Hazel Simmons-McDonald",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hklonaris": {
+        "authorid": "hklonaris",
+        "Author": "Helen Klonaris",
+        "Country": "The Bahamas",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hhbell": {
+        "authorid": "hhbell",
+        "Author": "Henry Hesketh Bell",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hjreifer": {
+        "authorid": "hjreifer",
+        "Author": "Herbert J. Reifer",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hpease": {
+        "authorid": "hpease",
+        "Author": "Howard Pease",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hnthomas": {
+        "authorid": "hnthomas",
+        "Author": "Hubert Nigel Thomas",
+        "Country": "St. Vincent & the Grenadines",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hpapailler": {
+        "authorid": "hpapailler",
+        "Author": "Hubert Papailler",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "hyared": {
+        "authorid": "hyared",
+        "Author": "Hyam Yared",
+        "Country": "lebanon",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "izoboi": {
+        "authorid": "izoboi",
+        "Author": "Ibi Zoboi",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ifaubert": {
+        "authorid": "ifaubert",
+        "Author": "Ida Faubert",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ifulani": {
+        "authorid": "ifulani",
+        "Author": "Ifeona Fulani",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ipersaud": {
+        "authorid": "ipersaud",
+        "Author": "Ingrid Persaud",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ilferguson": {
+        "authorid": "ilferguson",
+        "Author": "Ira Lunan Ferguson",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "iachuecos": {
+        "authorid": "iachuecos",
+        "Author": "Isabel Abellán Chuecos",
+        "Country": "Spain",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ikhan": {
+        "authorid": "ikhan",
+        "Author": "Ismith Khan",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ikelly": {
+        "authorid": "ikelly",
+        "Author": "Ivory Kelly",
+        "Country": "Belize",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jabrathwaite": {
+        "authorid": "jabrathwaite",
+        "Author": "J. Ashton Brathwaite",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jross": {
+        "authorid": "jross",
+        "Author": "Jacob Ross",
+        "Country": "Grenada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jroumain": {
+        "authorid": "jroumain",
+        "Author": "Jacques Roumain",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jsalexis": {
+        "authorid": "jsalexis",
+        "Author": "Jacques Stephen Alexis",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jkincaid": {
+        "authorid": "jkincaid",
+        "Author": "Jamaica Kincaid",
+        "Country": "Antigua & Barbuda",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jlinen": {
+        "authorid": "jlinen",
+        "Author": "James Linen",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jamsie": {
+        "authorid": "jamsie",
+        "Author": "Jamsie",
+        "Country": "Ireland",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jjdominique": {
+        "authorid": "jjdominique",
+        "Author": "Jan J Dominique",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jshinebourne": {
+        "authorid": "jshinebourne",
+        "Author": "Janice Shinebourne",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jbernabé": {
+        "authorid": "jbernabé",
+        "Author": "Jean Bernabé",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jbreeze": {
+        "authorid": "jbreeze",
+        "Author": "Jean Breeze",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jdcosta": {
+        "authorid": "jdcosta",
+        "Author": "Jean D'Costa",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jdjoachim": {
+        "authorid": "jdjoachim",
+        "Author": "Jean Dany Joachim",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jgoulbourne": {
+        "authorid": "jgoulbourne",
+        "Author": "Jean Goulbourne",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jrhys": {
+        "authorid": "jrhys",
+        "Author": "Jean Rhys",
+        "Country": "Dominica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jjvilaire": {
+        "authorid": "jjvilaire",
+        "Author": "Jean-Joseph Vilaire",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jmlemaire": {
+        "authorid": "jmlemaire",
+        "Author": "Jean-Michel Lemaire",
+        "Country": "Guadeloupe",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jwheatley": {
+        "authorid": "jwheatley",
+        "Author": "Jennie Wheatley",
+        "Country": "British Virgin Islands",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jbent": {
+        "authorid": "jbent",
+        "Author": "Jennifer Bent",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jksoverall": {
+        "authorid": "jksoverall",
+        "Author": "Jivan Kaur Soverall",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jchillhouse": {
+        "authorid": "jchillhouse",
+        "Author": "Joanne C. Hillhouse",
+        "Country": "Antigua & Barbuda",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jskerrett": {
+        "authorid": "jskerrett",
+        "Author": "Joanne Skerrett",
+        "Country": "Dominica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jhearne": {
+        "authorid": "jhearne",
+        "Author": "John Hearne",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jjfigueroa": {
+        "authorid": "jjfigueroa",
+        "Author": "John J Figueroa",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jmorris": {
+        "authorid": "jmorris",
+        "Author": "John Morris",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jrlee": {
+        "authorid": "jrlee",
+        "Author": "John Robert Lee",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jwboddamwhetham": {
+        "authorid": "jwboddamwhetham",
+        "Author": "John W. Boddam-Whetham",
+        "Country": "Australia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jdlrosa": {
+        "authorid": "jdlrosa",
+        "Author": "Jonathan De La Rosa",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jronet": {
+        "authorid": "jronet",
+        "Author": "Jorge Ronet",
+        "Country": "brazil",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jllima": {
+        "authorid": "jllima",
+        "Author": "José Lezama Lima",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jmartí": {
+        "authorid": "jmartí",
+        "Author": "Jose Martí",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jpsariol": {
+        "authorid": "jpsariol",
+        "Author": "Jose Prats Sariol",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jrfeo": {
+        "authorid": "jrfeo",
+        "Author": "Jose Rodriguez Feo",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jhusband": {
+        "authorid": "jhusband",
+        "Author": "Joseph Husband",
+        "Country": "France",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jzobel": {
+        "authorid": "jzobel",
+        "Author": "Joseph Zobel",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jpeterson": {
+        "authorid": "jpeterson",
+        "Author": "Josie Peterson",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jhinkson": {
+        "authorid": "jhinkson",
+        "Author": "Joy Hinkson",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jaalix": {
+        "authorid": "jaalix",
+        "Author": "Juan Antonio Alix",
+        "Country": "Dominican Republic",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jcnunez": {
+        "authorid": "jcnunez",
+        "Author": "Juan Carlos Nunez",
+        "Country": "Chile",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jfmanzano": {
+        "authorid": "jfmanzano",
+        "Author": "Juan Francisco Manzano",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jpdeleon": {
+        "authorid": "jpdeleon",
+        "Author": "Juana Ponce de León",
+        "Country": "Puerto Rico",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jduranty": {
+        "authorid": "jduranty",
+        "Author": "Jude Duranty",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jrossell": {
+        "authorid": "jrossell",
+        "Author": "Judith Rossell",
+        "Country": "Australia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jstone": {
+        "authorid": "jstone",
+        "Author": "Judy Stone",
+        "Country": "Australia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jalvarez": {
+        "authorid": "jalvarez",
+        "Author": "Julia Alvarez",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jklundgren": {
+        "authorid": "jklundgren",
+        "Author": "Julie K Lundgren",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jortega": {
+        "authorid": "jortega",
+        "Author": "Julio Ortega",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jdiaz": {
+        "authorid": "jdiaz",
+        "Author": "Junot Diaz",
+        "Country": "Dominican Republic",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "jlherisson": {
+        "authorid": "jlherisson",
+        "Author": "Justin Lhérisson",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kdeen": {
+        "authorid": "kdeen",
+        "Author": "Kamalo Deen",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "klord": {
+        "authorid": "klord",
+        "Author": "Karen Lord",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kmahchamberlain": {
+        "authorid": "kmahchamberlain",
+        "Author": "Karen Mah-Chamberlain",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kcraig": {
+        "authorid": "kcraig",
+        "Author": "Karl Craig",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kdrayton": {
+        "authorid": "kdrayton",
+        "Author": "Kathleen Drayton",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kdulysse": {
+        "authorid": "kdulysse",
+        "Author": "Katia D. Ulysse",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kwolek": {
+        "authorid": "kwolek",
+        "Author": "Katia Wolek",
+        "Country": "France",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kmiller": {
+        "authorid": "kmiller",
+        "Author": "Kei Miller",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "khippolyte": {
+        "authorid": "khippolyte",
+        "Author": "Kendel Hippolyte",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kmars": {
+        "authorid": "kmars",
+        "Author": "Kettly Mars",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kbaldeosingh": {
+        "authorid": "kbaldeosingh",
+        "Author": "Kevin Baldeosingh",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kaarthur": {
+        "authorid": "kaarthur",
+        "Author": "Kevyn Alan Arthur",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kmkhelawan": {
+        "authorid": "kmkhelawan",
+        "Author": "Kia Marie Khelawan",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "kasital": {
+        "authorid": "kasital",
+        "Author": "Krystal A Sital",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ksndawes": {
+        "authorid": "ksndawes",
+        "Author": "Kwame Senu Neville Dawes",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lpersaud": {
+        "authorid": "lpersaud",
+        "Author": "Lakshmi Persaud",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lwillig": {
+        "authorid": "lwillig",
+        "Author": "Lauren Willig",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lscott": {
+        "authorid": "lscott",
+        "Author": "Lawrence Scott",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lgcarriles": {
+        "authorid": "lgcarriles",
+        "Author": "Lázaro Gómez Carriles",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lmoïse": {
+        "authorid": "lmoïse",
+        "Author": "Lenelle Moïse",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lhonychurch": {
+        "authorid": "lhonychurch",
+        "Author": "Lennox Honychurch",
+        "Country": "Dominica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lpfuentes": {
+        "authorid": "lpfuentes",
+        "Author": "Leonardo Padura Fuentes",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lross": {
+        "authorid": "lross",
+        "Author": "Leone Ross",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lfmanigat": {
+        "authorid": "lfmanigat",
+        "Author": "Leslie Francois Manigat",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lhenry": {
+        "authorid": "lhenry",
+        "Author": "Lewis Henry",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ldaisley": {
+        "authorid": "ldaisley",
+        "Author": "Liesel Daisley",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lbarrett": {
+        "authorid": "lbarrett",
+        "Author": "Lindsay Barrett",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lncalvo": {
+        "authorid": "lncalvo",
+        "Author": "Lino Novás Calvo",
+        "Country": "Spain",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "laagostini": {
+        "authorid": "laagostini",
+        "Author": "Lisa Allen-Agostini",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lemery": {
+        "authorid": "lemery",
+        "Author": "Llewellyn Emery",
+        "Country": "Spain",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lking": {
+        "authorid": "lking",
+        "Author": "Lloyd King",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lgoodison": {
+        "authorid": "lgoodison",
+        "Author": "Lorna Goodison",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lcarpinteros": {
+        "authorid": "lcarpinteros",
+        "Author": "Los Carpinteros",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lpdalembert": {
+        "authorid": "lpdalembert",
+        "Author": "Louis-Philippe Dalembert",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lbennett": {
+        "authorid": "lbennett",
+        "Author": "Louise Bennett",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lharpon": {
+        "authorid": "lharpon",
+        "Author": "Louise Harpon",
+        "Country": "",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lcazal": {
+        "authorid": "lcazal",
+        "Author": "Louison Cazal",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "llcoll": {
+        "authorid": "llcoll",
+        "Author": "Lucía López Coll",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "laguero": {
+        "authorid": "laguero",
+        "Author": "Luis Aguero",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lrsanchez": {
+        "authorid": "lrsanchez",
+        "Author": "Luis Rafael Sánchez",
+        "Country": "Puerto Rico",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lpdezambrana": {
+        "authorid": "lpdezambrana",
+        "Author": "Luisa Pérez de Zambrana",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ljdominique": {
+        "authorid": "ljdominique",
+        "Author": "Lyndon J. Dominique",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "lmstanley": {
+        "authorid": "lmstanley",
+        "Author": "Lyne-Marie Stanley",
+        "Country": "French Guiana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mmontano": {
+        "authorid": "mmontano",
+        "Author": "Machel Montano",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mlopez": {
+        "authorid": "mlopez",
+        "Author": "Magdalena López",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "msdas": {
+        "authorid": "msdas",
+        "Author": "Mahadai Das",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mmoulite": {
+        "authorid": "mmoulite",
+        "Author": "Maika Moulite",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mcard": {
+        "authorid": "mcard",
+        "Author": "Maisy Card",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mzolivella": {
+        "authorid": "mzolivella",
+        "Author": "Manuel Zapata Olivella",
+        "Country": "Colombia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "memanley": {
+        "authorid": "memanley",
+        "Author": "Mara Etienne-Manley",
+        "Country": "Dominica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mnérée": {
+        "authorid": "mnérée",
+        "Author": "Marcel Nérée",
+        "Country": "France",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mbreton": {
+        "authorid": "mbreton",
+        "Author": "Marcela Breton",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mdouglas": {
+        "authorid": "mdouglas",
+        "Author": "Marcia Douglas",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mbusby": {
+        "authorid": "mbusby",
+        "Author": "Margaret Busby",
+        "Country": "Ghana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "msduran": {
+        "authorid": "msduran",
+        "Author": "Margarita Suero-Duran",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mnugent": {
+        "authorid": "mnugent",
+        "Author": "Maria Nugent",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mrsquires": {
+        "authorid": "mrsquires",
+        "Author": "Maria Roberts-Squires",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mbrull": {
+        "authorid": "mbrull",
+        "Author": "Mariano Brull",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mrodriguez": {
+        "authorid": "mrodriguez",
+        "Author": "Mariano Rodríguez",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "marnold": {
+        "authorid": "marnold",
+        "Author": "Marie Arnold",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mcagnant": {
+        "authorid": "mcagnant",
+        "Author": "Marie Célie Agnant",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mevelyn": {
+        "authorid": "mevelyn",
+        "Author": "Marie Evelyn",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mvchauvet": {
+        "authorid": "mvchauvet",
+        "Author": "Marie Vieux-Chauvet",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mejohn": {
+        "authorid": "mejohn",
+        "Author": "Marie-Elena John",
+        "Country": "Antigua & Barbuda",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mjaugustin": {
+        "authorid": "mjaugustin",
+        "Author": "Marie-Joséphine Augustin",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mmcarbet": {
+        "authorid": "mmcarbet",
+        "Author": "Marie-Magdeleine Carbet",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mpreziuso": {
+        "authorid": "mpreziuso",
+        "Author": "Marika Preziuso",
+        "Country": "Italy",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mbleón": {
+        "authorid": "mbleón",
+        "Author": "Marilyn Bobes León",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "msbrown": {
+        "authorid": "msbrown",
+        "Author": "Marina Salandy-Brown",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mbethel": {
+        "authorid": "mbethel",
+        "Author": "Marion Bethel",
+        "Country": "The Bahamas",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mdowe": {
+        "authorid": "mdowe",
+        "Author": "Marion Dowe",
+        "Country": "Dominica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mocallaghan": {
+        "authorid": "mocallaghan",
+        "Author": "Marion O'Callaghan",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mmcwatt": {
+        "authorid": "mmcwatt",
+        "Author": "Mark McWatt",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mnphilip": {
+        "authorid": "mnphilip",
+        "Author": "Marlene Nourbese Philip",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mjames": {
+        "authorid": "mjames",
+        "Author": "Marlon James",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mblanchard": {
+        "authorid": "mblanchard",
+        "Author": "Martha Blanchard",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mamis": {
+        "authorid": "mamis",
+        "Author": "Martin Amis",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mprince": {
+        "authorid": "mprince",
+        "Author": "Mary Prince",
+        "Country": "Bermuda",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mconde": {
+        "authorid": "mconde",
+        "Author": "Maryse Condé",
+        "Country": "Guadeloupe",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mjchapman": {
+        "authorid": "mjchapman",
+        "Author": "Matthew James Chapman",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mheurtelou": {
+        "authorid": "mheurtelou",
+        "Author": "Maude Heurtelou",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mwlewis": {
+        "authorid": "mwlewis",
+        "Author": "Maureen Warner-Lewis",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "maantoine": {
+        "authorid": "maantoine",
+        "Author": "Max A Antoine",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mfarquharson": {
+        "authorid": "mfarquharson",
+        "Author": "May Farquharson",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mdixon": {
+        "authorid": "mdixon",
+        "Author": "McDonald Dixon",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mjin": {
+        "authorid": "mjin",
+        "Author": "Meiling Jin",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mabad": {
+        "authorid": "mabad",
+        "Author": "Mercedes Abad",
+        "Country": "Spain",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mcollins": {
+        "authorid": "mcollins",
+        "Author": "Merle Collins",
+        "Country": "Grenada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mhodge": {
+        "authorid": "mhodge",
+        "Author": "Merle Hodge",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mmorris": {
+        "authorid": "mmorris",
+        "Author": "Mervyn Morris",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "manthony": {
+        "authorid": "manthony",
+        "Author": "Michael Anthony ",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "maubertin": {
+        "authorid": "maubertin",
+        "Author": "Michael Aubertin",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mcozier": {
+        "authorid": "mcozier",
+        "Author": "Michael Cozier",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "msmith": {
+        "authorid": "msmith",
+        "Author": "Michael Smith",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mthelwell": {
+        "authorid": "mthelwell",
+        "Author": "Michael Thelwell",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mmphilip": {
+        "authorid": "mmphilip",
+        "Author": "Michel Maxwell Philip",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mcliff": {
+        "authorid": "mcliff",
+        "Author": "Michelle Cliff",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mgargar": {
+        "authorid": "mgargar",
+        "Author": "Michelle Gargar",
+        "Country": "Australia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mpbartonromeo": {
+        "authorid": "mpbartonromeo",
+        "Author": "Michelle Paula Barton-Romeo",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "maasturias": {
+        "authorid": "maasturias",
+        "Author": "Miguel Ángel Asturias",
+        "Country": "Guatemala",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mcollazo": {
+        "authorid": "mcollazo",
+        "Author": "Miguel Collazo",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mdcarrión": {
+        "authorid": "mdcarrión",
+        "Author": "Miguel de Carrión",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mricourt": {
+        "authorid": "mricourt",
+        "Author": "Milagros Ricourt",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mrcáceres": {
+        "authorid": "mrcáceres",
+        "Author": "Milagros Rodríguez Cáceres",
+        "Country": "Spain",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mrosello": {
+        "authorid": "mrosello",
+        "Author": "Mireille Rosello",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mroffey": {
+        "authorid": "mroffey",
+        "Author": "Monique Roffey",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mmandisa": {
+        "authorid": "mmandisa",
+        "Author": "Mosi Mandisa",
+        "Country": "St. Kitts & Nevis",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mpfernandez": {
+        "authorid": "mpfernandez",
+        "Author": "Mylene Pintado Fernandz",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mjachancy": {
+        "authorid": "mjachancy",
+        "Author": "Myriam J. A Chancy",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "mwvieyra": {
+        "authorid": "mwvieyra",
+        "Author": "Myriam Warner-Vieyra",
+        "Country": "Guadeloupe",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ncmarks": {
+        "authorid": "ncmarks",
+        "Author": "N. C. Marks",
+        "Country": "St. Vincent & the Grenadines",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ndwilliams": {
+        "authorid": "ndwilliams",
+        "Author": "N. D. Williams",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nfimoja": {
+        "authorid": "nfimoja",
+        "Author": "Nailah Folami Imoja",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ncoster": {
+        "authorid": "ncoster",
+        "Author": "Naima Coster",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nhopkinson": {
+        "authorid": "nhopkinson",
+        "Author": "Nalo Hopkinson",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nroy": {
+        "authorid": "nroy",
+        "Author": "Namba Roy",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nmorejón": {
+        "authorid": "nmorejón",
+        "Author": "Nancy Morejón",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "njackson": {
+        "authorid": "njackson",
+        "Author": "Naomi Jackson",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nshewcharan": {
+        "authorid": "nshewcharan",
+        "Author": "Narmala Shewcharan",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nponce": {
+        "authorid": "nponce",
+        "Author": "Néstor Ponce",
+        "Country": "Argentina",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ndawes": {
+        "authorid": "ndawes",
+        "Author": "Neville Dawes",
+        "Country": "Nigeria",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ngiuseppi": {
+        "authorid": "ngiuseppi",
+        "Author": "Neville Giuseppi",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nlaughlin": {
+        "authorid": "nlaughlin",
+        "Author": "Nicholas Laughlin",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nyoon": {
+        "authorid": "nyoon",
+        "Author": "Nicola Yoon",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ngullien": {
+        "authorid": "ngullien",
+        "Author": "Nicolás Guillén",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ndennisbenn": {
+        "authorid": "ndennisbenn",
+        "Author": "Nicole Deniss-Benn",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "nroberts": {
+        "authorid": "nroberts",
+        "Author": "Nicole Roberts",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "necameron": {
+        "authorid": "necameron",
+        "Author": "Norman Eustace Cameron",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ordathorne": {
+        "authorid": "ordathorne",
+        "Author": "O.R Dathorne",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "olewin": {
+        "authorid": "olewin",
+        "Author": "Olive Lewin",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "osenior": {
+        "authorid": "osenior",
+        "Author": "Olive Senior",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "okempadoo": {
+        "authorid": "okempadoo",
+        "Author": "Oonya Kempadoo",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "opalmeradisa": {
+        "authorid": "opalmeradisa",
+        "Author": "Opal Palmer Adisa",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "olplazo": {
+        "authorid": "olplazo",
+        "Author": "Orlando Luis Pardo Lazo",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "opatterson": {
+        "authorid": "opatterson",
+        "Author": "Orlando Patterson",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "oggoyco": {
+        "authorid": "oggoyco",
+        "Author": "Osvaldo García Goyco",
+        "Country": "Puerto Rico",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pmordecai": {
+        "authorid": "pmordecai",
+        "Author": "Pamela Mordecai",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ppowell": {
+        "authorid": "ppowell",
+        "Author": "Patricia Powell",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pchamoiseau": {
+        "authorid": "pchamoiseau",
+        "Author": "Patrick Chamoiseau",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "psylvain": {
+        "authorid": "psylvain",
+        "Author": "Patrick Sylvain",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pkeensdouglas": {
+        "authorid": "pkeensdouglas",
+        "Author": "Paul Keens-Douglas",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pmarlee": {
+        "authorid": "pmarlee",
+        "Author": "Paul Marlee",
+        "Country": "Suriname",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pmarshall": {
+        "authorid": "pmarshall",
+        "Author": "Paule Marshall",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pramsay": {
+        "authorid": "pramsay",
+        "Author": "Paulette Ramsay",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pmelville": {
+        "authorid": "pmelville",
+        "Author": "Pauline Melville",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ppress": {
+        "authorid": "ppress",
+        "Author": "Peekash Press",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pabrahams": {
+        "authorid": "pabrahams",
+        "Author": "Peter Abrahams",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pjosie": {
+        "authorid": "pjosie",
+        "Author": "Peter Josie",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pkempadoo": {
+        "authorid": "pkempadoo",
+        "Author": "Peter Kempadoo",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "parcher": {
+        "authorid": "parcher",
+        "Author": "Petreine Archer",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "plindsay": {
+        "authorid": "plindsay",
+        "Author": "Philip Lindsay",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ptmarcelin": {
+        "authorid": "ptmarcelin",
+        "Author": "Philippe Thoby-Marcelin",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "psallfrey": {
+        "authorid": "psallfrey",
+        "Author": "Phyllis Shand Allfrey",
+        "Country": "Dominica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pajeanty": {
+        "authorid": "pajeanty",
+        "Author": "Pierre Alex Jeanty",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pmarcelin": {
+        "authorid": "pmarcelin",
+        "Author": "Pierre Marcelin",
+        "Country": "France",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "pvvastey": {
+        "authorid": "pvvastey",
+        "Author": "Pompée Valentin Vastey",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "qmacoomeh": {
+        "authorid": "qmacoomeh",
+        "Author": "Queen Macoomeh",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rapinder": {
+        "authorid": "rapinder",
+        "Author": "R. A. Pinder",
+        "Country": "The Bahamas",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rlcaarons": {
+        "authorid": "rlcaarons",
+        "Author": "R. L. C. Aarons",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rbcunninghamegraham": {
+        "authorid": "rbcunninghamegraham",
+        "Author": "R.B Cunnighame-Graham",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rmaharaj": {
+        "authorid": "rmaharaj",
+        "Author": "Rabindranath Maharaj",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rkirby": {
+        "authorid": "rkirby",
+        "Author": "Rachel Kirby",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rmanley": {
+        "authorid": "rmanley",
+        "Author": "Rachel Manley",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ravmartinez": {
+        "authorid": "ravmartinez",
+        "Author": "Ramon Antonio Victoriano-Martinez",
+        "Country": "Dominican Republic",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rdepalma": {
+        "authorid": "rdepalma",
+        "Author": "Ramón De Palma",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rbaltidor": {
+        "authorid": "rbaltidor",
+        "Author": "Raoul B. Altidor",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rpantin": {
+        "authorid": "rpantin",
+        "Author": "Raoul Pantin",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rconfiant": {
+        "authorid": "rconfiant",
+        "Author": "Raphaël Confiant",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rarenas": {
+        "authorid": "rarenas",
+        "Author": "Reinaldo Arenas",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rbonneville": {
+        "authorid": "rbonneville",
+        "Author": "René Bonneville",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rdepestre": {
+        "authorid": "rdepestre",
+        "Author": "Rene Depestre",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rmaran": {
+        "authorid": "rmaran",
+        "Author": "René Maran",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rphiloctète": {
+        "authorid": "rphiloctète",
+        "Author": "René Philoctète",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rfpatterson": {
+        "authorid": "rfpatterson",
+        "Author": "Richard F. Patterson",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rkdouglas": {
+        "authorid": "rkdouglas",
+        "Author": "Richardo Keens-Douglas",
+        "Country": "Grenada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rantoni": {
+        "authorid": "rantoni",
+        "Author": "Robert Antoni",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rlross": {
+        "authorid": "rlross",
+        "Author": "Robert L Ross",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rmcdonald": {
+        "authorid": "rmcdonald",
+        "Author": "Robert McDonald",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rnazaire": {
+        "authorid": "rnazaire",
+        "Author": "Robert Nazaire",
+        "Country": "Canada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rfretamar": {
+        "authorid": "rfretamar",
+        "Author": "Roberto Fernández Retamar",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rvalero": {
+        "authorid": "rvalero",
+        "Author": "Roberto Valero",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rwalcott": {
+        "authorid": "rwalcott",
+        "Author": "Roderick Walcott",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rdorsinville": {
+        "authorid": "rdorsinville",
+        "Author": "Roger Dorsinville",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rmais": {
+        "authorid": "rmais",
+        "Author": "Roger Mais",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rparsemain": {
+        "authorid": "rparsemain",
+        "Author": "Roger Parsemain",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rrobinson": {
+        "authorid": "rrobinson",
+        "Author": "Roger Robinson",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rmonar": {
+        "authorid": "rmonar",
+        "Author": "Rooplall Monar",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rsingh": {
+        "authorid": "rsingh",
+        "Author": "Roopnandan Singh",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rgay": {
+        "authorid": "rgay",
+        "Author": "Roxane Gay",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rdalton": {
+        "authorid": "rdalton",
+        "Author": "Roque Dalton",
+        "Country": "El Salvador",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ragalt": {
+        "authorid": "ragalt",
+        "Author": "Roy A Galt",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rnamba": {
+        "authorid": "rnamba",
+        "Author": "Roy Namba",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "rmartínez": {
+        "authorid": "rmartínez",
+        "Author": "Rueben Martínez",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "scostanzo": {
+        "authorid": "scostanzo",
+        "Author": "Sabrina Costanzo",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sjperse": {
+        "authorid": "sjperse",
+        "Author": "Saint-John Perse",
+        "Country": "Guadeloupe",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sselvon": {
+        "authorid": "sselvon",
+        "Author": "Samuel Selvon",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "scollins": {
+        "authorid": "scollins",
+        "Author": "Sara Collins",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sdass": {
+        "authorid": "sdass",
+        "Author": "Sarah Dass",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "spooley": {
+        "authorid": "spooley",
+        "Author": "Sarah Pooley",
+        "Country": "Canada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "spersaud": {
+        "authorid": "spersaud",
+        "Author": "Sasenarine Persaud",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "snaipaul": {
+        "authorid": "snaipaul",
+        "Author": "Seepersad Naipaul",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ssarduy": {
+        "authorid": "ssarduy",
+        "Author": "Severo Sarduy",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sbourne": {
+        "authorid": "sbourne",
+        "Author": "Shakirah Bourne",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "smootoo": {
+        "authorid": "smootoo",
+        "Author": "Shani Mootoo",
+        "Country": "Ireland",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sbesson": {
+        "authorid": "sbesson",
+        "Author": "Sherwyn Besson",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "shnaipaul": {
+        "authorid": "shnaipaul",
+        "Author": "Shiva Naipaul",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ssmaharajh": {
+        "authorid": "ssmaharajh",
+        "Author": "Shiva Shridath Maharajh",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sramlochan": {
+        "authorid": "sramlochan",
+        "Author": "Shivanee Ramlochan",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sschama": {
+        "authorid": "sschama",
+        "Author": "Simon Schama",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ssbart": {
+        "authorid": "ssbart",
+        "Author": "Simone Schwarz-Bart",
+        "Country": "France",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "srios": {
+        "authorid": "srios",
+        "Author": "Soleida Rios",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sadantes": {
+        "authorid": "sadantes",
+        "Author": "Stephen A Dantes",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sbrown": {
+        "authorid": "sbrown",
+        "Author": "Stewart Brown",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sdracius": {
+        "authorid": "sdracius",
+        "Author": "Suzanne Dracius",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "sdurant": {
+        "authorid": "sdurant",
+        "Author": "Suzanne Durant",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "swynter": {
+        "authorid": "swynter",
+        "Author": "Sylvia Wynter",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tcharles": {
+        "authorid": "tcharles",
+        "Author": "Tami Charles",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tmcwatt": {
+        "authorid": "tmcwatt",
+        "Author": "Tessa McWatt",
+        "Country": "Guyana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tparet": {
+        "authorid": "tparet",
+        "Author": "Timothée Paret",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tcallender": {
+        "authorid": "tcallender",
+        "Author": "Timothy Callender",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tmarugg": {
+        "authorid": "tmarugg",
+        "Author": "Tip Marugg",
+        "Country": "Curaçao",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tyanique": {
+        "authorid": "tyanique",
+        "Author": "Tiphanie Yanique",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tdelsham": {
+        "authorid": "tdelsham",
+        "Author": "Tony Delsham",
+        "Country": "Martinique",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tchadee": {
+        "authorid": "tchadee",
+        "Author": "Trevor Chadee",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "tdrhone": {
+        "authorid": "tdrhone",
+        "Author": "Trevor D Rhone",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "twilliams": {
+        "authorid": "twilliams",
+        "Author": "Tyrone Williams",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "uvalverde": {
+        "authorid": "uvalverde",
+        "Author": "Umberto Valverde",
+        "Country": "Colombia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "umarson": {
+        "authorid": "umarson",
+        "Author": "Una Marson",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ugiuseppi": {
+        "authorid": "ugiuseppi",
+        "Author": "Undine Giuseppi",
+        "Country": "Barbados",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vsnaipaul": {
+        "authorid": "vsnaipaul",
+        "Author": "V.S. Naipaul",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vcapildeo": {
+        "authorid": "vcapildeo",
+        "Author": "Vahni Capildeo",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vriley": {
+        "authorid": "vriley",
+        "Author": "Vanessa Riley",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vspence": {
+        "authorid": "vspence",
+        "Author": "Vanessa Spence",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vpollard": {
+        "authorid": "vpollard",
+        "Author": "Velma Pollard",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vjclarke": {
+        "authorid": "vjclarke",
+        "Author": "Velta J Clarke",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vmaisier": {
+        "authorid": "vmaisier",
+        "Author": "Véronique Maisier",
+        "Country": "Canada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vsreid": {
+        "authorid": "vsreid",
+        "Author": "Victor Stafford Reid",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vdiaz": {
+        "authorid": "vdiaz",
+        "Author": "Vigil Diaz",
+        "Country": "Dominican Republic",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vpinera": {
+        "authorid": "vpinera",
+        "Author": "Virgilio Piñera",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "vlucien": {
+        "authorid": "vlucien",
+        "Author": "Vladimir Lucien",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "walewis": {
+        "authorid": "walewis",
+        "Author": "W. Arthur Lewis",
+        "Country": "St. Lucia",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "wwilliams": {
+        "authorid": "wwilliams",
+        "Author": "Wallace Williams",
+        "Country": "virgin_islands",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "wgoodman": {
+        "authorid": "wgoodman",
+        "Author": "Walter Goodman",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "waroberts": {
+        "authorid": "waroberts",
+        "Author": "Walter Adolphe Roberts",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "wgtrotman": {
+        "authorid": "wgtrotman",
+        "Author": "Wayne Gerard Trotman",
+        "Country": "Trinidad & Tobago",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "wloehfelm": {
+        "authorid": "wloehfelm",
+        "Author": "William Loehfelm",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "wpbarron": {
+        "authorid": "wpbarron",
+        "Author": "William P Barron",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "wtvollmann": {
+        "authorid": "wtvollmann",
+        "Author": "William T Vollmann",
+        "Country": "United States",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "wbennett": {
+        "authorid": "wbennett",
+        "Author": "Wycliffe Bennett",
+        "Country": "Jamaica",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ylahens": {
+        "authorid": "ylahens",
+        "Author": "Yanick Lahens",
+        "Country": "Haiti",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ycanetti": {
+        "authorid": "ycanetti",
+        "Author": "Yanitzia Canetti",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "yIrizarry": {
+        "authorid": "yIrizarry",
+        "Author": "Ylce Irizarry",
+        "Country": "Cuba",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "ycharara": {
+        "authorid": "ycharara",
+        "Author": "Youmna Charara",
+        "Country": "Italy",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "zsmith": {
+        "authorid": "zsmith",
+        "Author": "Zadie Smith",
+        "Country": "England",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "zedgell": {
+        "authorid": "zedgell",
+        "Author": "Zee Edgell",
+        "Country": "Belize",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "zelliott": {
+        "authorid": "zelliott",
+        "Author": "Zetta Elliott",
+        "Country": "Canada",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    },
+    "zcompagnie": {
+        "authorid": "zcompagnie",
+        "Author": "Zoukouyanyan Compagnie",
+        "Country": "French Guiana",
+        "Lifespan": "",
+        "Wikimedia": "",
+        "dloc": ""
+    }
+}
