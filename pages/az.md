@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defaultau
 title: Authors Search
 permalink: /az
 ---
