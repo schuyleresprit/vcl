@@ -16,8 +16,8 @@ os.makedirs(DATA_DIR, exist_ok=True)
 
 #JSON file paths
 JSON_FILES = {chr(i): os.path.join(DATA_DIR, f'{chr(i)}.json') for i in range(ord('a'), ord('z') + 1)}
-CATEGORY_JSON = os.path.join(DATA_DIR, 'category.json')
-KEYWORDS_JSON = os.path.join(DATA_DIR, 'keywords.json')
+AUTHORCOUNTRY_JSON = os.path.join(DATA_DIR, 'country.json')
+
 
 # ----------
 # Functions
@@ -27,12 +27,11 @@ KEYWORDS_JSON = os.path.join(DATA_DIR, 'keywords.json')
 def get_csv_list(csv_location):
     return [file for file in os.listdir(csv_location) if file.lower().endswith('.csv')]
 
-def process_heritage_words(csv_path, csv_list):
+def process_author_info(csv_path, csv_list):
     # Initialize dictionaries
     letters_dict = {chr(i): {} for i in range(ord('a'), ord('z') + 1)}
     categories = {}
-    keywords = {}
-
+    
     # Unique ID counter
     unique_id_counter = 1
 
@@ -43,56 +42,47 @@ def process_heritage_words(csv_path, csv_list):
 
             # Iterate over each row in the CSV file
             for row in reader:
-                # Extract heritage word information
-                title = row['Title']
-                description = row['Description']
-                category = row['Category Description']
-                keyword = row['Keywords']
+                # Extract author information
+                author_name = row['Author']
+                author_id= row['author_id']
+                country = row['author_country']
+                
 
-                # Determine the starting letter of the title
-                letter = title.lower()[0] if title else None
+                # Determine the starting letter of the author's name
+                letter = author_name.lower()[0] if author_name else None
 
                 # Create a unique ID for the current row
                 unique_id = f"id_{unique_id_counter}"
                 unique_id_counter += 1
 
-                # Organize heritage words by starting letter
+                # Organize authors by starting letter
                 if letter and letter in letters_dict:
-                    heritage_word_info = {
+                    author_info = {
                         'ID': unique_id,
-                        'Title': title,
-                        'Description': description,
-                        'Category': category,
-                        'Keywords': keyword
+                        'Author Name': author_name,
+                        'Author_id': author_id,
+                        'Country': country,
                     }
-                    letters_dict[letter][unique_id] = heritage_word_info
+                    letters_dict[letter][unique_id] = author_info
 
-                # Organize heritage words by category
-                if category:
-                    if category not in categories:
-                        categories[category] = []
-                    categories[category].append(heritage_word_info)
+                # Organize authors by country
+                if country:
+                    if country not in categories:
+                        categories[country] = []
+                    categories[country].append(author_info)
 
-                # Organize heritage words by keywords
-                if keyword:
-                    if keyword not in keywords:
-                        keywords[keyword] = []
-                    keywords[keyword].append(heritage_word_info)
 
     # Write letter data to separate JSON files
     for letter, data in letters_dict.items():
         with codecs.open(JSON_FILES[letter], 'w', 'utf-8') as json_file:
             json.dump(data, json_file, indent=4, separators=(',', ': '), ensure_ascii=False)
 
-    # Write data to separate JSON files for category and keywords
-    with codecs.open(CATEGORY_JSON, 'w', 'utf-8') as json_file:
+    # Write data to separate JSON files for category: country
+    with codecs.open(AUTHORCOUNTRY_JSON, 'w', 'utf-8') as json_file:
         json.dump(categories, json_file, indent=4, separators=(',', ': '), ensure_ascii=False)
 
-    with codecs.open(KEYWORDS_JSON, 'w', 'utf-8') as json_file:
-        json.dump(keywords, json_file, indent=4, separators=(',', ': '), ensure_ascii=False)
-
-    return letters_dict, categories, keywords
+    return letters_dict, categories
 
 # Function calls
 csv_list = get_csv_list(CSV_LOCATION)
-letters_dict, categories, keywords = process_heritage_words(CSV_LOCATION, csv_list)
+letters_dict, categories= process_author_info(CSV_LOCATION, csv_list)

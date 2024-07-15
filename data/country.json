@@ -1,0 +1,3052 @@
+{
+    "england": [
+        {
+            "ID": "id_1",
+            "Author Name": "Adam Lowe",
+            "Author_id": "alowe",
+            "Country": "england"
+        },
+        {
+            "ID": "id_22",
+            "Author Name": "Andrea Levy",
+            "Author_id": "alevy",
+            "Country": "england"
+        },
+        {
+            "ID": "id_51",
+            "Author Name": "Captain Anthony Parsons",
+            "Author_id": "caparsons",
+            "Country": "england"
+        },
+        {
+            "ID": "id_63",
+            "Author Name": "Ciannon Smart",
+            "Author_id": "csmart",
+            "Country": "england"
+        },
+        {
+            "ID": "id_85",
+            "Author Name": "Daniel MacKinnen",
+            "Author_id": "dmackinnen",
+            "Country": "england"
+        },
+        {
+            "ID": "id_100",
+            "Author Name": "Desmond V Nicholson",
+            "Author_id": "dvnicholson",
+            "Country": "england"
+        },
+        {
+            "ID": "id_148",
+            "Author Name": "Fred D'Aguiar",
+            "Author_id": "fdaguiar",
+            "Country": "england"
+        },
+        {
+            "ID": "id_173",
+            "Author Name": "Henry Hesketh Bell",
+            "Author_id": "hhbell",
+            "Country": "england"
+        },
+        {
+            "ID": "id_192",
+            "Author Name": "James Linen",
+            "Author_id": "jlinen",
+            "Country": "england"
+        },
+        {
+            "ID": "id_211",
+            "Author Name": "John Morris",
+            "Author_id": "jmorris",
+            "Country": "england"
+        },
+        {
+            "ID": "id_258",
+            "Author Name": "Leone Ross",
+            "Author_id": "lross",
+            "Country": "england"
+        },
+        {
+            "ID": "id_312",
+            "Author Name": "Martin Amis",
+            "Author_id": "mamis",
+            "Country": "england"
+        },
+        {
+            "ID": "id_367",
+            "Author Name": "Oonya Kempadoo",
+            "Author_id": "okempadoo",
+            "Country": "england"
+        },
+        {
+            "ID": "id_385",
+            "Author Name": "Petreine Archer",
+            "Author_id": "parcher",
+            "Country": "england"
+        },
+        {
+            "ID": "id_395",
+            "Author Name": "R.B Cunnighame-Graham",
+            "Author_id": "rbcunninghamegraham",
+            "Country": "england"
+        },
+        {
+            "ID": "id_397",
+            "Author Name": "Rachel Kirby",
+            "Author_id": "rkirby",
+            "Country": "england"
+        },
+        {
+            "ID": "id_398",
+            "Author Name": "Rachel Manley",
+            "Author_id": "rmanley",
+            "Country": "england"
+        },
+        {
+            "ID": "id_429",
+            "Author Name": "Sabrina Costanzo",
+            "Author_id": "scostanzo",
+            "Country": "england"
+        },
+        {
+            "ID": "id_444",
+            "Author Name": "Simon Schama",
+            "Author_id": "sschama",
+            "Country": "england"
+        },
+        {
+            "ID": "id_448",
+            "Author Name": "Stewart Brown",
+            "Author_id": "sbrown",
+            "Country": "england"
+        },
+        {
+            "ID": "id_482",
+            "Author Name": "William P Barron",
+            "Author_id": "wpbarron",
+            "Country": "england"
+        },
+        {
+            "ID": "id_489",
+            "Author Name": "Zadie Smith",
+            "Author_id": "zsmith",
+            "Country": "england"
+        }
+    ],
+    "barbados": [
+        {
+            "ID": "id_2",
+            "Author Name": "Adisa Andwele",
+            "Author_id": "aandwele",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_18",
+            "Author Name": "Alvin Cummins",
+            "Author_id": "acummins",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_29",
+            "Author Name": "Anthony Kellman",
+            "Author_id": "akellman",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_37",
+            "Author Name": "Austin Clarke",
+            "Author_id": "aclarke",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_50",
+            "Author Name": "Callie Browning",
+            "Author_id": "cbrowning",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_59",
+            "Author Name": "Cherie Jones",
+            "Author_id": "cjones",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_78",
+            "Author Name": "Cynthia Wilson",
+            "Author_id": "cwilson",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_90",
+            "Author Name": "David Augustus Straker",
+            "Author_id": "dastraker",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_105",
+            "Author Name": "Donna Every",
+            "Author_id": "devery",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_112",
+            "Author Name": "Edison T Williams",
+            "Author_id": "etwilliams",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_119",
+            "Author Name": "Edward Kamau Brathwaite",
+            "Author_id": "ekbrathwaite",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_144",
+            "Author Name": "Frank A. Collymore",
+            "Author_id": "facollymore",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_151",
+            "Author Name": "Geoffrey Drayton",
+            "Author_id": "gdayton",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_154",
+            "Author Name": "George Lamming",
+            "Author_id": "glamming",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_174",
+            "Author Name": "Herbert J. Reifer",
+            "Author_id": "hjreifer",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_187",
+            "Author Name": "J. Ashton Brathwaite",
+            "Author_id": "jabrathwaite",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_223",
+            "Author Name": "Joy Hinkson",
+            "Author_id": "jhinkson",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_237",
+            "Author Name": "Karen Lord",
+            "Author_id": "klord",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_247",
+            "Author Name": "Kevyn Alan Arthur",
+            "Author_id": "kaarthur",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_261",
+            "Author Name": "Liesel Daisley",
+            "Author_id": "ldaisley",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_297",
+            "Author Name": "Marie Evelyn",
+            "Author_id": "mevelyn",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_315",
+            "Author Name": "Matthew James Chapman",
+            "Author_id": "mjchapman",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_348",
+            "Author Name": "Nailah Folami Imoja",
+            "Author_id": "nfimoja",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_378",
+            "Author Name": "Paule Marshall",
+            "Author_id": "pmarshall",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_438",
+            "Author Name": "Shakirah Bourne",
+            "Author_id": "sbourne",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_450",
+            "Author Name": "Suzanne Durant",
+            "Author_id": "sdurant",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_455",
+            "Author Name": "Timothy Callender",
+            "Author_id": "tcallender",
+            "Country": "barbados"
+        },
+        {
+            "ID": "id_464",
+            "Author Name": "Undine Giuseppi",
+            "Author_id": "ugiuseppi",
+            "Country": "barbados"
+        }
+    ],
+    "cuba": [
+        {
+            "ID": "id_3",
+            "Author Name": "Adriana Tous",
+            "Author_id": "atous",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_7",
+            "Author Name": "Alberto Garrandés",
+            "Author_id": "agarrandés",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_9",
+            "Author Name": "Alejo Carpentier",
+            "Author_id": "acarpentier",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_24",
+            "Author Name": "Andrew Salkey",
+            "Author_id": "asalkey",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_31",
+            "Author Name": "Antonio Benítez-Rojo",
+            "Author_id": "abenitezrogo",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_46",
+            "Author Name": "Bonifacio Byrne",
+            "Author_id": "bbyrne",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_52",
+            "Author Name": "Carilda Oliver Labra",
+            "Author_id": "colabra",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_53",
+            "Author Name": "Carlos Loveira",
+            "Author_id": "cloveira",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_54",
+            "Author Name": "Carlos Moore",
+            "Author_id": "cmoore",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_64",
+            "Author Name": "Cirilo Villaverde",
+            "Author_id": "cvillaverde",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_66",
+            "Author Name": "Claribel Terré Morell",
+            "Author_id": "ctmorell",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_102",
+            "Author Name": "Dimitry Elias Léger",
+            "Author_id": "deleger",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_108",
+            "Author Name": "Eddie Vega",
+            "Author_id": "evega",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_117",
+            "Author Name": "Eduardo Del Llano",
+            "Author_id": "edelllano",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_122",
+            "Author Name": "Eliseo Diego",
+            "Author_id": "ediego",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_127",
+            "Author Name": "Eloísa Lezama Lima",
+            "Author_id": "ellima",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_128",
+            "Author Name": "Emilio Bobadilla",
+            "Author_id": "ebobadilla",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_136",
+            "Author Name": "Ezequiel Vieta",
+            "Author_id": "evieta",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_138",
+            "Author Name": "Fabio Murrieta Rodríguez",
+            "Author_id": "fmrodriguez",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_158",
+            "Author Name": "Gina Picart",
+            "Author_id": "gpicart",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_164",
+            "Author Name": "Guillermo Rosales",
+            "Author_id": "grosales",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_216",
+            "Author Name": "José Lezama Lima",
+            "Author_id": "jllima",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_217",
+            "Author Name": "Jose Martí",
+            "Author_id": "jmartí",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_218",
+            "Author Name": "Jose Prats Sariol",
+            "Author_id": "jpsariol",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_219",
+            "Author Name": "Jose Rodriguez Feo",
+            "Author_id": "jrfeo",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_226",
+            "Author Name": "Juan Francisco Manzano",
+            "Author_id": "jfmanzano",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_233",
+            "Author Name": "Julio Ortega",
+            "Author_id": "jortega",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_257",
+            "Author Name": "Leonardo Padura Fuentes",
+            "Author_id": "lpfuentes",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_268",
+            "Author Name": "Los Carpinteros",
+            "Author_id": "lcarpinteros",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_273",
+            "Author Name": "Lucía López Coll",
+            "Author_id": "llcoll",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_274",
+            "Author Name": "Luis Aguero",
+            "Author_id": "laguero",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_276",
+            "Author Name": "Luisa Pérez de Zambrana",
+            "Author_id": "lpdezambrana",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_293",
+            "Author Name": "Mariano Brull",
+            "Author_id": "mbrull",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_294",
+            "Author Name": "Mariano Rodríguez",
+            "Author_id": "mrodriguez",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_303",
+            "Author Name": "Marilyn Bobes León",
+            "Author_id": "mbleón",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_336",
+            "Author Name": "Miguel Collazo",
+            "Author_id": "mcollazo",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_337",
+            "Author Name": "Miguel de Carrión",
+            "Author_id": "mdcarrión",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_343",
+            "Author Name": "Mylene Pintado Fernandz",
+            "Author_id": "mpfernandez",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_352",
+            "Author Name": "Nancy Morejón",
+            "Author_id": "nmorejón",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_360",
+            "Author Name": "Nicolás Guillén",
+            "Author_id": "ngullien",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_369",
+            "Author Name": "Orlando Luis Pardo Lazo",
+            "Author_id": "olplazo",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_400",
+            "Author Name": "Ramón De Palma",
+            "Author_id": "rdepalma",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_404",
+            "Author Name": "Reinaldo Arenas",
+            "Author_id": "rarenas",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_415",
+            "Author Name": "Roberto Fernández Retamar",
+            "Author_id": "rfretamar",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_416",
+            "Author Name": "Roberto Valero",
+            "Author_id": "rvalero",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_437",
+            "Author Name": "Severo Sarduy",
+            "Author_id": "ssarduy",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_446",
+            "Author Name": "Soleida Rios",
+            "Author_id": "srios",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_474",
+            "Author Name": "Virgilio Piñera",
+            "Author_id": "vpinera",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_486",
+            "Author Name": "Yanitzia Canetti",
+            "Author_id": "ycanetti",
+            "Country": "cuba"
+        },
+        {
+            "ID": "id_487",
+            "Author Name": "Ylce Irizarry",
+            "Author_id": "yIrizarry",
+            "Country": "cuba"
+        }
+    ],
+    "martinique": [
+        {
+            "ID": "id_4",
+            "Author Name": "Aimé Césaire",
+            "Author_id": "acésaire",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_13",
+            "Author Name": "Alfred Alexandre",
+            "Author_id": "aalexandre",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_86",
+            "Author Name": "Daniel Picouly",
+            "Author_id": "dpicouly",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_114",
+            "Author Name": "Edmond Lapompe-Paironne",
+            "Author_id": "elpaironne",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_155",
+            "Author Name": "Georges Mauvois",
+            "Author_id": "gmauvois",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_196",
+            "Author Name": "Jean Bernabé",
+            "Author_id": "jbernabé",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_221",
+            "Author Name": "Joseph Zobel",
+            "Author_id": "jzobel",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_228",
+            "Author Name": "Jude Duranty",
+            "Author_id": "jduranty",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_272",
+            "Author Name": "Louison Cazal",
+            "Author_id": "lcazal",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_301",
+            "Author Name": "Marie-Magdeleine Carbet",
+            "Author_id": "mmcarbet",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_374",
+            "Author Name": "Patrick Chamoiseau",
+            "Author_id": "pchamoiseau",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_403",
+            "Author Name": "Raphaël Confiant",
+            "Author_id": "rconfiant",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_405",
+            "Author Name": "René Bonneville",
+            "Author_id": "rbonneville",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_407",
+            "Author Name": "René Maran",
+            "Author_id": "rmaran",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_420",
+            "Author Name": "Roger Parsemain",
+            "Author_id": "rparsemain",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_449",
+            "Author Name": "Suzanne Dracius",
+            "Author_id": "sdracius",
+            "Country": "martinique"
+        },
+        {
+            "ID": "id_458",
+            "Author Name": "Tony Delsham",
+            "Author_id": "tdelsham",
+            "Country": "martinique"
+        }
+    ],
+    "united_states": [
+        {
+            "ID": "id_5",
+            "Author Name": "Alaí Reyes-Santos",
+            "Author_id": "arsantos",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_10",
+            "Author Name": "Alexandra Isfahani-Hammond",
+            "Author_id": "aisfahanihammond",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_15",
+            "Author Name": "Alicia Ikida Harraway",
+            "Author_id": "aiharraway",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_19",
+            "Author Name": "Amy Wilentz",
+            "Author_id": "awilentz",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_36",
+            "Author Name": "Audre Lorde",
+            "Author_id": "alorde",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_39",
+            "Author Name": "Barbara Applin",
+            "Author_id": "bapplin",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_40",
+            "Author Name": "Barbara Hambly",
+            "Author_id": "bhambley",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_89",
+            "Author Name": "Darrell B Lockhart",
+            "Author_id": "dblockhart",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_94",
+            "Author Name": "Dean R Baldwin",
+            "Author_id": "drbaldwin",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_115",
+            "Author Name": "Edouard Mokwe",
+            "Author_id": "emokwe",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_123",
+            "Author Name": "Elizabeth Acevedo",
+            "Author_id": "eacevedo",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_129",
+            "Author Name": "Emily A Colin",
+            "Author_id": "eacolin",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_142",
+            "Author Name": "Francie Latour",
+            "Author_id": "flatour",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_145",
+            "Author Name": "Frank Janney",
+            "Author_id": "fjanney",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_175",
+            "Author Name": "Howard Pease",
+            "Author_id": "hpease",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_206",
+            "Author Name": "Jivan Kaur Soverall",
+            "Author_id": "jksoverall",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_222",
+            "Author Name": "Josie Peterson",
+            "Author_id": "jpeterson",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_231",
+            "Author Name": "Julia Alvarez",
+            "Author_id": "jalvarez",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_232",
+            "Author Name": "Julie K Lundgren",
+            "Author_id": "jklundgren",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_238",
+            "Author Name": "Karen Mah-Chamberlain",
+            "Author_id": "kmahchamberlain",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_252",
+            "Author Name": "Lauren Willig",
+            "Author_id": "lwillig",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_254",
+            "Author Name": "Lázaro Gómez Carriles",
+            "Author_id": "lgcarriles",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_260",
+            "Author Name": "Lewis Henry",
+            "Author_id": "lhenry",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_266",
+            "Author Name": "Lloyd King",
+            "Author_id": "lking",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_277",
+            "Author Name": "Lyndon J. Dominique",
+            "Author_id": "ljdominique",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_280",
+            "Author Name": "Magdalena López",
+            "Author_id": "mlopez",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_282",
+            "Author Name": "Maika Moulite",
+            "Author_id": "mmoulite",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_287",
+            "Author Name": "Marcela Breton",
+            "Author_id": "mbreton",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_290",
+            "Author Name": "Margarita Suero-Duran",
+            "Author_id": "msduran",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_291",
+            "Author Name": "Maria Nugent",
+            "Author_id": "mnugent",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_300",
+            "Author Name": "Marie-Joséphine Augustin",
+            "Author_id": "mjaugustin",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_320",
+            "Author Name": "McDonald Dixon",
+            "Author_id": "mdixon",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_338",
+            "Author Name": "Milagros Ricourt",
+            "Author_id": "mricourt",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_340",
+            "Author Name": "Mireille Rosello",
+            "Author_id": "mrosello",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_349",
+            "Author Name": "Naima Coster",
+            "Author_id": "ncoster",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_353",
+            "Author Name": "Naomi Jackson",
+            "Author_id": "njackson",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_362",
+            "Author Name": "Nicole Roberts",
+            "Author_id": "nroberts",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_381",
+            "Author Name": "Peekash Press",
+            "Author_id": "ppress",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_386",
+            "Author Name": "Philip Lindsay",
+            "Author_id": "plindsay",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_409",
+            "Author Name": "Richard F. Patterson",
+            "Author_id": "rfpatterson",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_411",
+            "Author Name": "Robert Antoni",
+            "Author_id": "rantoni",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_412",
+            "Author Name": "Robert L Ross",
+            "Author_id": "rlross",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_413",
+            "Author Name": "Robert McDonald",
+            "Author_id": "rmcdonald",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_421",
+            "Author Name": "Roger Robinson",
+            "Author_id": "rrobinson",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_428",
+            "Author Name": "Rueben Martínez",
+            "Author_id": "rmartínez",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_452",
+            "Author Name": "Tami Charles",
+            "Author_id": "tcharles",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_454",
+            "Author Name": "Timothée Paret",
+            "Author_id": "tparet",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_457",
+            "Author Name": "Tiphanie Yanique",
+            "Author_id": "tyanique",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_461",
+            "Author Name": "Tyrone Williams",
+            "Author_id": "twilliams",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_481",
+            "Author Name": "William Loehfelm",
+            "Author_id": "wloehfelm",
+            "Country": "united_states"
+        },
+        {
+            "ID": "id_483",
+            "Author Name": "William T Vollmann",
+            "Author_id": "wtvollmann",
+            "Country": "united_states"
+        }
+    ],
+    "trinidad_&_tobago": [
+        {
+            "ID": "id_6",
+            "Author Name": "Albert Maria Gomes",
+            "Author_id": "amgomes",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_14",
+            "Author Name": "Alfred Hubert Mendes",
+            "Author_id": "ahmendes",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_27",
+            "Author Name": "Anisah Sankar",
+            "Author_id": "asankar",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_30",
+            "Author Name": "Anthony Nash",
+            "Author_id": "anash",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_41",
+            "Author Name": "Barbara Jenkins",
+            "Author_id": "bjenkins",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_47",
+            "Author Name": "Brenda Alexander-Perez",
+            "Author_id": "baperez",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_48",
+            "Author Name": "Bukka Rennie",
+            "Author_id": "brennie",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_49",
+            "Author Name": "C. L. R. James",
+            "Author_id": "clrjames",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_58",
+            "Author Name": "Celeste Mohammed",
+            "Author_id": "cmohammed",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_65",
+            "Author Name": "Claire Adam",
+            "Author_id": "cadam",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_70",
+            "Author Name": "Clement Maharaj",
+            "Author_id": "cmaharaj",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_77",
+            "Author Name": "Cynthia James",
+            "Author_id": "cjames",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_84",
+            "Author Name": "D.F. Les Pierre-Luke",
+            "Author_id": "dflpierreluke",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_98",
+            "Author Name": "Derry Sandy",
+            "Author_id": "dsandy",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_103",
+            "Author Name": "Dionne Brand",
+            "Author_id": "dbrand",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_107",
+            "Author Name": "Earl Lovelace",
+            "Author_id": "elovelace",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_121",
+            "Author Name": "Eintou Pearl Springer",
+            "Author_id": "epspringer",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_124",
+            "Author Name": "Elizabeth Nunez",
+            "Author_id": "enunez",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_125",
+            "Author Name": "Elizabeth Walcott-Hackshaw",
+            "Author_id": "ewalcotthackshaw",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_130",
+            "Author Name": "Eric Eustace Williams",
+            "Author_id": "eewilliams",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_132",
+            "Author Name": "Errol John",
+            "Author_id": "ejohn",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_133",
+            "Author Name": "Eulah Borde",
+            "Author_id": "eborde",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_160",
+            "Author Name": "Glynis Guevara",
+            "Author_id": "gguevara",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_163",
+            "Author Name": "Gregory Thompson",
+            "Author_id": "gthompson",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_169",
+            "Author Name": "Harold Sonny Ladoo",
+            "Author_id": "hsladoo",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_182",
+            "Author Name": "Ingrid Persaud",
+            "Author_id": "ipersaud",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_185",
+            "Author Name": "Ismith Khan",
+            "Author_id": "ikhan",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_236",
+            "Author Name": "Kamalo Deen",
+            "Author_id": "kdeen",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_240",
+            "Author Name": "Kathleen Drayton",
+            "Author_id": "kdrayton",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_246",
+            "Author Name": "Kevin Baldeosingh",
+            "Author_id": "kbaldeosingh",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_248",
+            "Author Name": "Kia Marie Khelawan",
+            "Author_id": "kmkhelawan",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_249",
+            "Author Name": "Krystal A Sital",
+            "Author_id": "kasital",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_251",
+            "Author Name": "Lakshmi Persaud",
+            "Author_id": "lpersaud",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_253",
+            "Author Name": "Lawrence Scott",
+            "Author_id": "lscott",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_264",
+            "Author Name": "Lisa Allen-Agostini",
+            "Author_id": "laagostini",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_279",
+            "Author Name": "Machel Montano",
+            "Author_id": "mmontano",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_304",
+            "Author Name": "Marina Salandy-Brown",
+            "Author_id": "msbrown",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_307",
+            "Author Name": "Marion O'Callaghan",
+            "Author_id": "mocallaghan",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_309",
+            "Author Name": "Marlene Nourbese Philip",
+            "Author_id": "mnphilip",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_317",
+            "Author Name": "Maureen Warner-Lewis",
+            "Author_id": "mwlewis",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_324",
+            "Author Name": "Merle Hodge",
+            "Author_id": "mhodge",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_326",
+            "Author Name": "Michael Anthony ",
+            "Author_id": "manthony",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_328",
+            "Author Name": "Michael Cozier",
+            "Author_id": "mcozier",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_331",
+            "Author Name": "Michel Maxwell Philip",
+            "Author_id": "mmphilip",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_334",
+            "Author Name": "Michelle Paula Barton-Romeo",
+            "Author_id": "mpbartonromeo",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_341",
+            "Author Name": "Monique Roffey",
+            "Author_id": "mroffey",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_357",
+            "Author Name": "Neville Giuseppi",
+            "Author_id": "ngiuseppi",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_358",
+            "Author Name": "Nicholas Laughlin",
+            "Author_id": "nlaughlin",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_376",
+            "Author Name": "Paul Keens-Douglas",
+            "Author_id": "pkeensdouglas",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_392",
+            "Author Name": "Queen Macoomeh",
+            "Author_id": "qmacoomeh",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_396",
+            "Author Name": "Rabindranath Maharaj",
+            "Author_id": "rmaharaj",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_402",
+            "Author Name": "Raoul Pantin",
+            "Author_id": "rpantin",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_426",
+            "Author Name": "Roy A Galt",
+            "Author_id": "ragalt",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_431",
+            "Author Name": "Samuel Selvon",
+            "Author_id": "sselvon",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_433",
+            "Author Name": "Sarah Dass",
+            "Author_id": "sdass",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_436",
+            "Author Name": "Seepersad Naipaul",
+            "Author_id": "snaipaul",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_440",
+            "Author Name": "Sherwyn Besson",
+            "Author_id": "sbesson",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_441",
+            "Author Name": "Shiva Naipaul",
+            "Author_id": "shnaipaul",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_442",
+            "Author Name": "Shiva Shridath Maharajh",
+            "Author_id": "ssmaharajh",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_443",
+            "Author Name": "Shivanee Ramlochan",
+            "Author_id": "sramlochan",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_459",
+            "Author Name": "Trevor Chadee",
+            "Author_id": "tchadee",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_465",
+            "Author Name": "V.S. Naipaul",
+            "Author_id": "vsnaipaul",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_466",
+            "Author Name": "Vahni Capildeo",
+            "Author_id": "vcapildeo",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_467",
+            "Author Name": "Vanessa Riley",
+            "Author_id": "vriley",
+            "Country": "trinidad_&_tobago"
+        },
+        {
+            "ID": "id_480",
+            "Author Name": "Wayne Gerard Trotman",
+            "Author_id": "wgtrotman",
+            "Country": "trinidad_&_tobago"
+        }
+    ],
+    "jamaica": [
+        {
+            "ID": "id_8",
+            "Author Name": "Alecia McKenzie",
+            "Author_id": "amckenzie",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_11",
+            "Author Name": "Alexia Arthurs",
+            "Author_id": "aarthurs",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_23",
+            "Author Name": "Andrea Stuart",
+            "Author_id": "astuart",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_24",
+            "Author Name": "Andrew Salkey",
+            "Author_id": "asalkey",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_28",
+            "Author Name": "Anthony C. Winkler",
+            "Author_id": "acwinkler",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_34",
+            "Author Name": "Arthur Lemiere Hendriks",
+            "Author_id": "alhendriks",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_42",
+            "Author Name": "Barbara Lalla",
+            "Author_id": "blalla",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_62",
+            "Author Name": "Christine Craig",
+            "Author_id": "ccraig",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_67",
+            "Author Name": "Claude McKay",
+            "Author_id": "cmckay",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_68",
+            "Author Name": "Claude Thompson",
+            "Author_id": "cthompson",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_75",
+            "Author Name": "Curdella Forbes",
+            "Author_id": "cforbes",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_76",
+            "Author Name": "Cynric R. Williams",
+            "Author_id": "crwilliams",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_81",
+            "Author Name": "Cyril Everard Palmer",
+            "Author_id": "cepalmer",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_83",
+            "Author Name": "Cyrus Francis Perkins",
+            "Author_id": "cfperkins",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_93",
+            "Author Name": "De Lisser H. G.",
+            "Author_id": "hgdlisser",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_96",
+            "Author Name": "Dennis Scott",
+            "Author_id": "dscott",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_99",
+            "Author Name": "Desmond Hall",
+            "Author_id": "dhall",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_104",
+            "Author Name": "Donald Hinds",
+            "Author_id": "dhinds",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_113",
+            "Author Name": "Edith Clarke",
+            "Author_id": "eclarke",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_118",
+            "Author Name": "Edward Baugh",
+            "Author_id": "ebaugh",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_131",
+            "Author Name": "Erna Brodber",
+            "Author_id": "ebodber",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_134",
+            "Author Name": "Evan Jones",
+            "Author_id": "ejones",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_152",
+            "Author Name": "Geoffrey Philip",
+            "Author_id": "gphilip",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_153",
+            "Author Name": "George Campbell",
+            "Author_id": "gcampbell",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_166",
+            "Author Name": "Gwyneth Harold",
+            "Author_id": "gharold",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_181",
+            "Author Name": "Ifeona Fulani",
+            "Author_id": "ifulani",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_183",
+            "Author Name": "Ira Lunan Ferguson",
+            "Author_id": "ilferguson",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_197",
+            "Author Name": "Jean Breeze",
+            "Author_id": "jbreeze",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_198",
+            "Author Name": "Jean D'Costa",
+            "Author_id": "jdcosta",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_200",
+            "Author Name": "Jean Goulbourne",
+            "Author_id": "jgoulbourne",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_205",
+            "Author Name": "Jennifer Bent",
+            "Author_id": "jbent",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_209",
+            "Author Name": "John Hearne",
+            "Author_id": "jhearne",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_210",
+            "Author Name": "John J Figueroa",
+            "Author_id": "jjfigueroa",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_239",
+            "Author Name": "Karl Craig",
+            "Author_id": "kcraig",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_243",
+            "Author Name": "Kei Miller",
+            "Author_id": "kmiller",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_250",
+            "Author Name": "Kwame Senu Neville Dawes",
+            "Author_id": "ksndawes",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_262",
+            "Author Name": "Lindsay Barrett",
+            "Author_id": "lbarrett",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_267",
+            "Author Name": "Lorna Goodison",
+            "Author_id": "lgoodison",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_270",
+            "Author Name": "Louise Bennett",
+            "Author_id": "lbennett",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_283",
+            "Author Name": "Maisy Card",
+            "Author_id": "mcard",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_288",
+            "Author Name": "Marcia Douglas",
+            "Author_id": "mdouglas",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_292",
+            "Author Name": "Maria Roberts-Squires",
+            "Author_id": "mrsquires",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_310",
+            "Author Name": "Marlon James",
+            "Author_id": "mjames",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_319",
+            "Author Name": "May Farquharson",
+            "Author_id": "mfarquharson",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_325",
+            "Author Name": "Mervyn Morris",
+            "Author_id": "mmorris",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_329",
+            "Author Name": "Michael Smith",
+            "Author_id": "msmith",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_330",
+            "Author Name": "Michael Thelwell",
+            "Author_id": "mthelwell",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_332",
+            "Author Name": "Michelle Cliff",
+            "Author_id": "mcliff",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_350",
+            "Author Name": "Nalo Hopkinson",
+            "Author_id": "nhopkinson",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_351",
+            "Author Name": "Namba Roy",
+            "Author_id": "nroy",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_359",
+            "Author Name": "Nicola Yoon",
+            "Author_id": "nyoon",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_361",
+            "Author Name": "Nicole Deniss-Benn",
+            "Author_id": "ndennisbenn",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_365",
+            "Author Name": "Olive Lewin",
+            "Author_id": "olewin",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_366",
+            "Author Name": "Olive Senior",
+            "Author_id": "osenior",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_368",
+            "Author Name": "Opal Palmer Adisa",
+            "Author_id": "opalmeradisa",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_370",
+            "Author Name": "Orlando Patterson",
+            "Author_id": "opatterson",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_372",
+            "Author Name": "Pamela Mordecai",
+            "Author_id": "pmordecai",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_373",
+            "Author Name": "Patricia Powell",
+            "Author_id": "ppowell",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_379",
+            "Author Name": "Paulette Ramsay",
+            "Author_id": "pramsay",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_382",
+            "Author Name": "Peter Abrahams",
+            "Author_id": "pabrahams",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_394",
+            "Author Name": "R. L. C. Aarons",
+            "Author_id": "rlcaarons",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_419",
+            "Author Name": "Roger Mais",
+            "Author_id": "rmais",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_427",
+            "Author Name": "Roy Namba",
+            "Author_id": "rnamba",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_432",
+            "Author Name": "Sara Collins",
+            "Author_id": "scollins",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_451",
+            "Author Name": "Sylvia Wynter",
+            "Author_id": "swynter",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_460",
+            "Author Name": "Trevor D Rhone",
+            "Author_id": "tdrhone",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_463",
+            "Author Name": "Una Marson",
+            "Author_id": "umarson",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_468",
+            "Author Name": "Vanessa Spence",
+            "Author_id": "vspence",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_469",
+            "Author Name": "Velma Pollard",
+            "Author_id": "vpollard",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_470",
+            "Author Name": "Velta J Clarke",
+            "Author_id": "vjclarke",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_472",
+            "Author Name": "Victor Stafford Reid",
+            "Author_id": "vsreid",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_479",
+            "Author Name": "Walter Adolphe Roberts",
+            "Author_id": "waroberts",
+            "Country": "jamaica"
+        },
+        {
+            "ID": "id_484",
+            "Author Name": "Wycliffe Bennett",
+            "Author_id": "wbennett",
+            "Country": "jamaica"
+        }
+    ],
+    "spain": [
+        {
+            "ID": "id_12",
+            "Author Name": "Alfonso Hernández Catá",
+            "Author_id": "ahcata",
+            "Country": "spain"
+        },
+        {
+            "ID": "id_32",
+            "Author Name": "Antonio Moreno",
+            "Author_id": "amoreno",
+            "Country": "spain"
+        },
+        {
+            "ID": "id_184",
+            "Author Name": "Isabel Abellán Chuecos",
+            "Author_id": "iachuecos",
+            "Country": "spain"
+        },
+        {
+            "ID": "id_263",
+            "Author Name": "Lino Novás Calvo",
+            "Author_id": "lncalvo",
+            "Country": "spain"
+        },
+        {
+            "ID": "id_265",
+            "Author Name": "Llewellyn Emery",
+            "Author_id": "lemery",
+            "Country": "spain"
+        },
+        {
+            "ID": "id_322",
+            "Author Name": "Mercedes Abad",
+            "Author_id": "mabad",
+            "Country": "spain"
+        },
+        {
+            "ID": "id_339",
+            "Author Name": "Milagros Rodríguez Cáceres",
+            "Author_id": "mrcáceres",
+            "Country": "spain"
+        }
+    ],
+    "dominica": [
+        {
+            "ID": "id_16",
+            "Author Name": "Alick Lazare",
+            "Author_id": "alazare",
+            "Country": "dominica"
+        },
+        {
+            "ID": "id_126",
+            "Author Name": "Elma Napier",
+            "Author_id": "enapier",
+            "Country": "dominica"
+        },
+        {
+            "ID": "id_201",
+            "Author Name": "Jean Rhys",
+            "Author_id": "jrhys",
+            "Country": "dominica"
+        },
+        {
+            "ID": "id_208",
+            "Author Name": "Joanne Skerrett",
+            "Author_id": "jskerrett",
+            "Country": "dominica"
+        },
+        {
+            "ID": "id_256",
+            "Author Name": "Lennox Honychurch",
+            "Author_id": "lhonychurch",
+            "Country": "dominica"
+        },
+        {
+            "ID": "id_285",
+            "Author Name": "Mara Etienne-Manley",
+            "Author_id": "memanley",
+            "Country": "dominica"
+        },
+        {
+            "ID": "id_306",
+            "Author Name": "Marion Dowe",
+            "Author_id": "mdowe",
+            "Country": "dominica"
+        },
+        {
+            "ID": "id_388",
+            "Author Name": "Phyllis Shand Allfrey",
+            "Author_id": "psallfrey",
+            "Country": "dominica"
+        }
+    ],
+    "antigua_&_barbuda": [
+        {
+            "ID": "id_17",
+            "Author Name": "Althea Prince",
+            "Author_id": "aprince",
+            "Country": "antigua_&_barbuda"
+        },
+        {
+            "ID": "id_191",
+            "Author Name": "Jamaica Kincaid",
+            "Author_id": "jkincaid",
+            "Country": "antigua_&_barbuda"
+        },
+        {
+            "ID": "id_207",
+            "Author Name": "Joanne C. Hillhouse",
+            "Author_id": "jchillhouse",
+            "Country": "antigua_&_barbuda"
+        },
+        {
+            "ID": "id_299",
+            "Author Name": "Marie-Elena John",
+            "Author_id": "mejohn",
+            "Country": "antigua_&_barbuda"
+        }
+    ],
+    "france": [
+        {
+            "ID": "id_20",
+            "Author Name": "Anaïs Ségalas",
+            "Author_id": "aségalas",
+            "Country": "france"
+        },
+        {
+            "ID": "id_21",
+            "Author Name": "André Paradis",
+            "Author_id": "aparadis",
+            "Country": "france"
+        },
+        {
+            "ID": "id_38",
+            "Author Name": "Baptiste Paul",
+            "Author_id": "bpaul",
+            "Country": "france"
+        },
+        {
+            "ID": "id_157",
+            "Author Name": "Gérard Bulin",
+            "Author_id": "gbulin",
+            "Country": "france"
+        },
+        {
+            "ID": "id_220",
+            "Author Name": "Joseph Husband",
+            "Author_id": "jhusband",
+            "Country": "france"
+        },
+        {
+            "ID": "id_242",
+            "Author Name": "Katia Wolek",
+            "Author_id": "kwolek",
+            "Country": "france"
+        },
+        {
+            "ID": "id_286",
+            "Author Name": "Marcel Nérée",
+            "Author_id": "mnérée",
+            "Country": "france"
+        },
+        {
+            "ID": "id_390",
+            "Author Name": "Pierre Marcelin",
+            "Author_id": "pmarcelin",
+            "Country": "france"
+        },
+        {
+            "ID": "id_445",
+            "Author Name": "Simone Schwarz-Bart",
+            "Author_id": "ssbart",
+            "Country": "france"
+        }
+    ],
+    "gabon": [
+        {
+            "ID": "id_26",
+            "Author Name": "Angèle Rawiri",
+            "Author_id": "arawiri",
+            "Country": "gabon"
+        }
+    ],
+    "guadeloupe": [
+        {
+            "ID": "id_33",
+            "Author Name": "Arlette Minatchy-Bogat",
+            "Author_id": "aminatchybogat",
+            "Country": "guadeloupe"
+        },
+        {
+            "ID": "id_159",
+            "Author Name": "Gisèle Pineau",
+            "Author_id": "gpineau",
+            "Country": "guadeloupe"
+        },
+        {
+            "ID": "id_203",
+            "Author Name": "Jean-Michel Lemaire",
+            "Author_id": "jmlemaire",
+            "Country": "guadeloupe"
+        },
+        {
+            "ID": "id_314",
+            "Author Name": "Maryse Condé",
+            "Author_id": "mconde",
+            "Country": "guadeloupe"
+        },
+        {
+            "ID": "id_345",
+            "Author Name": "Myriam Warner-Vieyra",
+            "Author_id": "mwvieyra",
+            "Country": "guadeloupe"
+        },
+        {
+            "ID": "id_430",
+            "Author Name": "Saint-John Perse",
+            "Author_id": "sjperse",
+            "Country": "guadeloupe"
+        }
+    ],
+    "canada": [
+        {
+            "ID": "id_35",
+            "Author Name": "Asha Bromfield",
+            "Author_id": "abromfield",
+            "Country": "canada"
+        },
+        {
+            "ID": "id_71",
+            "Author Name": "Clément Richer",
+            "Author_id": "cricher",
+            "Country": "canada"
+        },
+        {
+            "ID": "id_79",
+            "Author Name": "Cynthia Noel",
+            "Author_id": "cnoel",
+            "Country": "canada"
+        },
+        {
+            "ID": "id_414",
+            "Author Name": "Robert Nazaire",
+            "Author_id": "rnazaire",
+            "Country": "canada"
+        },
+        {
+            "ID": "id_434",
+            "Author Name": "Sarah Pooley",
+            "Author_id": "spooley",
+            "Country": "canada"
+        },
+        {
+            "ID": "id_471",
+            "Author Name": "Véronique Maisier",
+            "Author_id": "vmaisier",
+            "Country": "canada"
+        },
+        {
+            "ID": "id_491",
+            "Author Name": "Zetta Elliott",
+            "Author_id": "zelliott",
+            "Country": "canada"
+        }
+    ],
+    "haiti": [
+        {
+            "ID": "id_43",
+            "Author Name": "Ben Philippe",
+            "Author_id": "bphilippe",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_61",
+            "Author Name": "Christian Werleigh",
+            "Author_id": "cwerleigh",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_69",
+            "Author Name": "Clément Magloire-Saint-Aude",
+            "Author_id": "cmagloiresaintaude",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_87",
+            "Author Name": "Danielle Legros Georges",
+            "Author_id": "dlgeorges",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_88",
+            "Author Name": "Dany Laferrière",
+            "Author_id": "dlaferrière",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_116",
+            "Author Name": "Edris Saint-Amand",
+            "Author_id": "esaintamand",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_120",
+            "Author Name": "Edwidge Danticat",
+            "Author_id": "edanticat",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_135",
+            "Author Name": "Évelyne Trouillot",
+            "Author_id": "etrouillot",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_139",
+            "Author Name": "Fernand Hibbert",
+            "Author_id": "fhibbert",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_141",
+            "Author Name": "Francesca Momplaisir",
+            "Author_id": "fmomplaisir",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_146",
+            "Author Name": "Frankétienne",
+            "Author_id": "franketienne",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_147",
+            "Author Name": "Frantz Wainwright",
+            "Author_id": "fwainwright",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_149",
+            "Author Name": "Frédéric Marcelin",
+            "Author_id": "fmarcelin",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_156",
+            "Author Name": "Georges Sylvain",
+            "Author_id": "gsylvain",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_177",
+            "Author Name": "Hubert Papailler",
+            "Author_id": "hpapailler",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_179",
+            "Author Name": "Ibi Zoboi",
+            "Author_id": "izoboi",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_180",
+            "Author Name": "Ida Faubert",
+            "Author_id": "ifaubert",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_189",
+            "Author Name": "Jacques Roumain",
+            "Author_id": "jroumain",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_190",
+            "Author Name": "Jacques Stephen Alexis",
+            "Author_id": "jsalexis",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_194",
+            "Author Name": "Jan J Dominique",
+            "Author_id": "jjdominique",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_199",
+            "Author Name": "Jean Dany Joachim",
+            "Author_id": "jdjoachim",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_202",
+            "Author Name": "Jean-Joseph Vilaire",
+            "Author_id": "jjvilaire",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_235",
+            "Author Name": "Justin Lhérisson",
+            "Author_id": "jlherisson",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_241",
+            "Author Name": "Katia D. Ulysse",
+            "Author_id": "kdulysse",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_245",
+            "Author Name": "Kettly Mars",
+            "Author_id": "kmars",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_255",
+            "Author Name": "Lenelle Moïse",
+            "Author_id": "lmoïse",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_259",
+            "Author Name": "Leslie Francois Manigat",
+            "Author_id": "lfmanigat",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_269",
+            "Author Name": "Louis-Philippe Dalembert",
+            "Author_id": "lpdalembert",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_295",
+            "Author Name": "Marie Arnold",
+            "Author_id": "marnold",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_296",
+            "Author Name": "Marie Célie Agnant",
+            "Author_id": "mcagnant",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_298",
+            "Author Name": "Marie Vieux-Chauvet",
+            "Author_id": "mvchauvet",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_316",
+            "Author Name": "Maude Heurtelou",
+            "Author_id": "mheurtelou",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_318",
+            "Author Name": "Max A Antoine",
+            "Author_id": "maantoine",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_344",
+            "Author Name": "Myriam J. A Chancy",
+            "Author_id": "mjachancy",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_375",
+            "Author Name": "Patrick Sylvain",
+            "Author_id": "psylvain",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_387",
+            "Author Name": "Philippe Thoby-Marcelin",
+            "Author_id": "ptmarcelin",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_389",
+            "Author Name": "Pierre Alex Jeanty",
+            "Author_id": "pajeanty",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_391",
+            "Author Name": "Pompée Valentin Vastey",
+            "Author_id": "pvvastey",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_401",
+            "Author Name": "Raoul B. Altidor",
+            "Author_id": "rbaltidor",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_406",
+            "Author Name": "Rene Depestre",
+            "Author_id": "rdepestre",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_408",
+            "Author Name": "René Philoctète",
+            "Author_id": "rphiloctète",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_418",
+            "Author Name": "Roger Dorsinville",
+            "Author_id": "rdorsinville",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_424",
+            "Author Name": "Roxane Gay",
+            "Author_id": "rgay",
+            "Country": "haiti"
+        },
+        {
+            "ID": "id_485",
+            "Author Name": "Yanick Lahens",
+            "Author_id": "ylahens",
+            "Country": "haiti"
+        }
+    ],
+    "guyana": [
+        {
+            "ID": "id_44",
+            "Author Name": "Bernard Montabo",
+            "Author_id": "bmontabo",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_45",
+            "Author Name": "Beryl Gilroy",
+            "Author_id": "bgilroy",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_80",
+            "Author Name": "Cyril Dabydeen",
+            "Author_id": "cdabydeen",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_91",
+            "Author Name": "David Dabydeen",
+            "Author_id": "ddabydeen",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_95",
+            "Author Name": "Denise Harris",
+            "Author_id": "dharris",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_111",
+            "Author Name": "Edgar Austin Mittelholzer",
+            "Author_id": "eamittelholzer",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_161",
+            "Author Name": "Gordon Rohlehr",
+            "Author_id": "grohlehr",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_162",
+            "Author Name": "Grace Nichols",
+            "Author_id": "gnichols",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_167",
+            "Author Name": "Harischandra Khemraj",
+            "Author_id": "hkhemraj",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_195",
+            "Author Name": "Janice Shinebourne",
+            "Author_id": "jshinebourne",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_281",
+            "Author Name": "Mahadai Das",
+            "Author_id": "msdas",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_308",
+            "Author Name": "Mark McWatt",
+            "Author_id": "mmcwatt",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_321",
+            "Author Name": "Meiling Jin",
+            "Author_id": "mjin",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_347",
+            "Author Name": "N. D. Williams",
+            "Author_id": "ndwilliams",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_354",
+            "Author Name": "Narmala Shewcharan",
+            "Author_id": "nshewcharan",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_363",
+            "Author Name": "Norman Eustace Cameron",
+            "Author_id": "necameron",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_364",
+            "Author Name": "O.R Dathorne",
+            "Author_id": "ordathorne",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_380",
+            "Author Name": "Pauline Melville",
+            "Author_id": "pmelville",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_384",
+            "Author Name": "Peter Kempadoo",
+            "Author_id": "pkempadoo",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_422",
+            "Author Name": "Rooplall Monar",
+            "Author_id": "rmonar",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_423",
+            "Author Name": "Roopnandan Singh",
+            "Author_id": "rsingh",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_435",
+            "Author Name": "Sasenarine Persaud",
+            "Author_id": "spersaud",
+            "Country": "guyana"
+        },
+        {
+            "ID": "id_453",
+            "Author Name": "Tessa McWatt",
+            "Author_id": "tmcwatt",
+            "Country": "guyana"
+        }
+    ],
+    "st._kitts_&_nevis": [
+        {
+            "ID": "id_55",
+            "Author Name": "Caryl Phillips",
+            "Author_id": "cphillips",
+            "Country": "st._kitts_&_nevis"
+        },
+        {
+            "ID": "id_82",
+            "Author Name": "Cyril V Briggs",
+            "Author_id": "cvbriggs",
+            "Country": "st._kitts_&_nevis"
+        },
+        {
+            "ID": "id_342",
+            "Author Name": "Mosi Mandisa",
+            "Author_id": "mmandisa",
+            "Country": "st._kitts_&_nevis"
+        }
+    ],
+    "st._vincent_&_the_grenadines": [
+        {
+            "ID": "id_56",
+            "Author Name": "Cecil Browne",
+            "Author_id": "cbrowne",
+            "Country": "st._vincent_&_the_grenadines"
+        }
+    ],
+    "peru": [
+        {
+            "ID": "id_57",
+            "Author Name": "Cecilia Bustamante",
+            "Author_id": "cbustamante",
+            "Country": "peru"
+        }
+    ],
+    "italy": [
+        {
+            "ID": "id_60",
+            "Author Name": "Chiara Bettelli Lelio",
+            "Author_id": "cblelio",
+            "Country": "italy"
+        },
+        {
+            "ID": "id_302",
+            "Author Name": "Marika Preziuso",
+            "Author_id": "mpreziuso",
+            "Country": "italy"
+        },
+        {
+            "ID": "id_488",
+            "Author Name": "Youmna Charara",
+            "Author_id": "ycharara",
+            "Country": "italy"
+        }
+    ],
+    "bonaire": [
+        {
+            "ID": "id_72",
+            "Author Name": "Cola Debrot",
+            "Author_id": "cdebrot",
+            "Country": "bonaire"
+        }
+    ],
+    "belize": [
+        {
+            "ID": "id_73",
+            "Author Name": "Colville N Young",
+            "Author_id": "cnyoung",
+            "Country": "belize"
+        },
+        {
+            "ID": "id_186",
+            "Author Name": "Ivory Kelly",
+            "Author_id": "ikelly",
+            "Country": "belize"
+        },
+        {
+            "ID": "id_490",
+            "Author Name": "Zee Edgell",
+            "Author_id": "zedgell",
+            "Country": "belize"
+        }
+    ],
+    "united¬†states": [
+        {
+            "ID": "id_74",
+            "Author Name": "Constance Marshall",
+            "Author_id": "cmarshall",
+            "Country": "united¬†states"
+        },
+        {
+            "ID": "id_214",
+            "Author Name": "Jonathan De La Rosa",
+            "Author_id": "jdlrosa",
+            "Country": "united¬†states"
+        },
+        {
+            "ID": "id_478",
+            "Author Name": "Walter Goodman",
+            "Author_id": "wgoodman",
+            "Country": "united¬†states"
+        }
+    ],
+    "brazil": [
+        {
+            "ID": "id_92",
+            "Author Name": "David Franklyn",
+            "Author_id": "dfranklyn",
+            "Country": "brazil"
+        },
+        {
+            "ID": "id_215",
+            "Author Name": "Jorge Ronet",
+            "Author_id": "jronet",
+            "Country": "brazil"
+        }
+    ],
+    "st.lucia": [
+        {
+            "ID": "id_97",
+            "Author Name": "Derek Walcott",
+            "Author_id": "dwalcott",
+            "Country": "st.lucia"
+        }
+    ],
+    "st._lucia": [
+        {
+            "ID": "id_101",
+            "Author Name": "Didacus Jules",
+            "Author_id": "djules",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_106",
+            "Author Name": "Earl G Long",
+            "Author_id": "eglong",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_171",
+            "Author Name": "Hazel Simmons-McDonald",
+            "Author_id": "hsmcdonald",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_212",
+            "Author Name": "John Robert Lee",
+            "Author_id": "jrlee",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_244",
+            "Author Name": "Kendel Hippolyte",
+            "Author_id": "khippolyte",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_311",
+            "Author Name": "Martha Blanchard",
+            "Author_id": "mblanchard",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_327",
+            "Author Name": "Michael Aubertin",
+            "Author_id": "maubertin",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_383",
+            "Author Name": "Peter Josie",
+            "Author_id": "pjosie",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_417",
+            "Author Name": "Roderick Walcott",
+            "Author_id": "rwalcott",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_447",
+            "Author Name": "Stephen A Dantes",
+            "Author_id": "sadantes",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_475",
+            "Author Name": "Vladimir Lucien",
+            "Author_id": "vlucien",
+            "Country": "st._lucia"
+        },
+        {
+            "ID": "id_476",
+            "Author Name": "W. Arthur Lewis",
+            "Author_id": "walewis",
+            "Country": "st._lucia"
+        }
+    ],
+    "british_virgin_islands": [
+        {
+            "ID": "id_109",
+            "Author Name": "Eddie Whyte",
+            "Author_id": "ewhyte",
+            "Country": "british_virgin_islands"
+        },
+        {
+            "ID": "id_204",
+            "Author Name": "Jennie Wheatley",
+            "Author_id": "jwheatley",
+            "Country": "british_virgin_islands"
+        }
+    ],
+    "india": [
+        {
+            "ID": "id_110",
+            "Author Name": "Eden Phillpotts",
+            "Author_id": "ephillpotts",
+            "Country": "india"
+        }
+    ],
+    "dominican_republic": [
+        {
+            "ID": "id_137",
+            "Author Name": "Fabio Fiallo",
+            "Author_id": "ffiallo",
+            "Country": "dominican_republic"
+        },
+        {
+            "ID": "id_224",
+            "Author Name": "Juan Antonio Alix",
+            "Author_id": "jaalix",
+            "Country": "dominican_republic"
+        },
+        {
+            "ID": "id_234",
+            "Author Name": "Junot Diaz",
+            "Author_id": "jdiaz",
+            "Country": "dominican_republic"
+        },
+        {
+            "ID": "id_399",
+            "Author Name": "Ramon Antonio Victoriano-Martinez",
+            "Author_id": "ravmartinez",
+            "Country": "dominican_republic"
+        },
+        {
+            "ID": "id_473",
+            "Author Name": "Vigil Diaz",
+            "Author_id": "vdiaz",
+            "Country": "dominican_republic"
+        }
+    ],
+    "st._martin": [
+        {
+            "ID": "id_140",
+            "Author Name": "Fernando José Barcena Orbe",
+            "Author_id": "fjborbe",
+            "Country": "st._martin"
+        }
+    ],
+    "new_caledonia": [
+        {
+            "ID": "id_143",
+            "Author Name": "Francis Carco",
+            "Author_id": "fcarco",
+            "Country": "new_caledonia"
+        }
+    ],
+    "suriname": [
+        {
+            "ID": "id_150",
+            "Author Name": "Frits Wols",
+            "Author_id": "fwols",
+            "Country": "suriname"
+        },
+        {
+            "ID": "id_377",
+            "Author Name": "Paul Marlee",
+            "Author_id": "pmarlee",
+            "Country": "suriname"
+        }
+    ],
+    "grenada": [
+        {
+            "ID": "id_165",
+            "Author Name": "Gus John",
+            "Author_id": "gjohn",
+            "Country": "grenada"
+        },
+        {
+            "ID": "id_188",
+            "Author Name": "Jacob Ross",
+            "Author_id": "jross",
+            "Country": "grenada"
+        },
+        {
+            "ID": "id_323",
+            "Author Name": "Merle Collins",
+            "Author_id": "mcollins",
+            "Country": "grenada"
+        },
+        {
+            "ID": "id_410",
+            "Author Name": "Richardo Keens-Douglas",
+            "Author_id": "rkdouglas",
+            "Country": "grenada"
+        }
+    ],
+    "chile": [
+        {
+            "ID": "id_168",
+            "Author Name": "Harold Ramoutar",
+            "Author_id": "hramoutar",
+            "Country": "chile"
+        },
+        {
+            "ID": "id_225",
+            "Author Name": "Juan Carlos Nunez",
+            "Author_id": "jcnunez",
+            "Country": "chile"
+        }
+    ],
+    "ukraine": [
+        {
+            "ID": "id_170",
+            "Author Name": "Hayim Valdman",
+            "Author_id": "hvaldman",
+            "Country": "ukraine"
+        }
+    ],
+    "the_bahamas": [
+        {
+            "ID": "id_172",
+            "Author Name": "Helen Klonaris",
+            "Author_id": "hklonaris",
+            "Country": "the_bahamas"
+        },
+        {
+            "ID": "id_305",
+            "Author Name": "Marion Bethel",
+            "Author_id": "mbethel",
+            "Country": "the_bahamas"
+        },
+        {
+            "ID": "id_393",
+            "Author Name": "R. A. Pinder",
+            "Author_id": "rapinder",
+            "Country": "the_bahamas"
+        }
+    ],
+    "st._vincent": [
+        {
+            "ID": "id_176",
+            "Author Name": "Hubert Nigel Thomas",
+            "Author_id": "hnthomas",
+            "Country": "st._vincent"
+        },
+        {
+            "ID": "id_346",
+            "Author Name": "N. C. Marks",
+            "Author_id": "ncmarks",
+            "Country": "st._vincent"
+        }
+    ],
+    "lebanon": [
+        {
+            "ID": "id_178",
+            "Author Name": "Hyam Yared",
+            "Author_id": "hyared",
+            "Country": "lebanon"
+        }
+    ],
+    "ireland": [
+        {
+            "ID": "id_193",
+            "Author Name": "Jamsie",
+            "Author_id": "jamsie",
+            "Country": "ireland"
+        },
+        {
+            "ID": "id_439",
+            "Author Name": "Shani Mootoo",
+            "Author_id": "smootoo",
+            "Country": "ireland"
+        }
+    ],
+    "australia": [
+        {
+            "ID": "id_213",
+            "Author Name": "John W. Boddam-Whetham",
+            "Author_id": "jwboddamwhetham",
+            "Country": "australia"
+        },
+        {
+            "ID": "id_229",
+            "Author Name": "Judith Rossell",
+            "Author_id": "jrossell",
+            "Country": "australia"
+        },
+        {
+            "ID": "id_230",
+            "Author Name": "Judy Stone",
+            "Author_id": "jstone",
+            "Country": "australia"
+        },
+        {
+            "ID": "id_333",
+            "Author Name": "Michelle Gargar",
+            "Author_id": "mgargar",
+            "Country": "australia"
+        }
+    ],
+    "puerto_rico": [
+        {
+            "ID": "id_227",
+            "Author Name": "Juana Ponce de León",
+            "Author_id": "jpdeleon",
+            "Country": "puerto_rico"
+        },
+        {
+            "ID": "id_275",
+            "Author Name": "Luis Rafael Sánchez",
+            "Author_id": "lrsanchez",
+            "Country": "puerto_rico"
+        },
+        {
+            "ID": "id_371",
+            "Author Name": "Osvaldo García Goyco",
+            "Author_id": "oggoyco",
+            "Country": "puerto_rico"
+        }
+    ],
+    "french_guiana": [
+        {
+            "ID": "id_278",
+            "Author Name": "Lyne-Marie Stanley",
+            "Author_id": "lmstanley",
+            "Country": "french_guiana"
+        },
+        {
+            "ID": "id_492",
+            "Author Name": "Zoukouyanyan Compagnie",
+            "Author_id": "zcompagnie",
+            "Country": "french_guiana"
+        }
+    ],
+    "colombia": [
+        {
+            "ID": "id_284",
+            "Author Name": "Manuel Zapata Olivella",
+            "Author_id": "mzolivella",
+            "Country": "colombia"
+        }
+    ],
+    "ghana": [
+        {
+            "ID": "id_289",
+            "Author Name": "Margaret Busby",
+            "Author_id": "mbusby",
+            "Country": "ghana"
+        }
+    ],
+    "bermuda": [
+        {
+            "ID": "id_313",
+            "Author Name": "Mary Prince",
+            "Author_id": "mprince",
+            "Country": "bermuda"
+        }
+    ],
+    "guatemala": [
+        {
+            "ID": "id_335",
+            "Author Name": "Miguel Ángel Asturias",
+            "Author_id": "maasturias",
+            "Country": "guatemala"
+        }
+    ],
+    "argentina": [
+        {
+            "ID": "id_355",
+            "Author Name": "Néstor Ponce",
+            "Author_id": "nponce",
+            "Country": "argentina"
+        }
+    ],
+    "nigeria": [
+        {
+            "ID": "id_356",
+            "Author Name": "Neville Dawes",
+            "Author_id": "ndawes",
+            "Country": "nigeria"
+        }
+    ],
+    "el_salvador": [
+        {
+            "ID": "id_425",
+            "Author Name": "Roque Dalton",
+            "Author_id": "rdalton",
+            "Country": "el_salvador"
+        }
+    ],
+    "curaçao": [
+        {
+            "ID": "id_456",
+            "Author Name": "Tip Marugg",
+            "Author_id": "tmarugg",
+            "Country": "curaçao"
+        }
+    ],
+    "columbia": [
+        {
+            "ID": "id_462",
+            "Author Name": "Umberto Valverde",
+            "Author_id": "uvalverde",
+            "Country": "columbia"
+        }
+    ],
+    "virgin_islands": [
+        {
+            "ID": "id_477",
+            "Author Name": "Wallace Williams",
+            "Author_id": "wwilliams",
+            "Country": "virgin_islands"
+        }
+    ]
+}
