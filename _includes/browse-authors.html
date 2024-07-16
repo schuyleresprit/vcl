@@ -87,11 +87,13 @@
             const authorBio = data[authorId];
             if (authorBio) {
                 let htmlContent = `
+                <div class="col-sm-6">
                 <div style="background-color:red; padding-bottom:50%; width:50%; position:sticky; margin-bottom:50%;overflow:auto; :">
                     <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
                     <h4>${authorBio.Lifespan}</h4>
                     <h4><a href="${authorBio.Wikimedia}">Read More</a></h4>
                     <h5><a href="${authorBio.dloc}">DLOC Resources</a></h5>
+                </div>
                 </div>
                 `;
                 $('#data-container').html(htmlContent);
@@ -112,6 +114,7 @@
                 let htmlContent = `<h3 style="float: left; z-index: 1;">Author Details</h3>`;
                 authorPublications.forEach(publication => {
                     htmlContent += `
+                    <div class="col-sm-6">
                     <div style="background-color: purple;margin-left:50%;width:50%;overflow:auto; ">
                         <ul>
                             <li><strong>Title:</strong> ${publication.Title}</li>
@@ -123,6 +126,7 @@
                             <li><strong>Translation:</strong> ${publication.Translation}</li>
                         </ul>
                         <hr>
+                        </div>
                         </div>
                     `;
                 });
