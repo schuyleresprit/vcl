@@ -7,7 +7,8 @@ permalink: /dvnicholson/
 <div class="content">
     <h1>Desmond V Nicholson</h1>
     <div class="quote">
-        <div><img src="https://icons.niherst.gov.tt/wp-content/uploads/2017/06/desmond-nicholson-profile.png" class="logo"></div>
+        <div><img src="https://antiguanice.com/clients/526-image1.jpg" height="50%" width = "50%"
+ class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>
@@ -29,13 +30,14 @@ permalink: /dvnicholson/
             <div class="dot"></div>
             <div class="right hide">
                 <h1>The Story Of The Arawaks In Antigua & Barbuda And Barbuda</h1><hr>
-                <p><img src="https://books.google.dm/books/content?id=s5JsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73jVcuHkAm5Fg1KDU5mF5z8ecPY3sm7W-kP1NSUtp7jN359d7pf1Dulj5tA_GByqeVRKQ7OuARlzHDgE1eNdKaXSVAbncwuXOmYd9nhW5dMkH0o-B4r3PMtpz_lhFwpFDrsUf4b" ></p>
+                <p><img src="https://m.media-amazon.com/images/I/91FvqDjS44L._SY522_.jpg" height="50%" width = "50%"
+></p>
                 <p>
                 Language: English <br/>
-                Publisher: Desmond Nicholson<br/>
-                Pub_location: St. John's, Antigua and Barbuda<br/>
+                Publisher: Linden Press<br/>
+                Pub_location: Grinnell, Iowa<br/>
                 Genre: Non Fiction<br/>
-                Length: 293<br/>                   </p>
+                Length: 37<br/>                   </p>
             </div>
         </div>
 </div>
