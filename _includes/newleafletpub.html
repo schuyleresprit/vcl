@@ -42,21 +42,11 @@
                 $.getJSON("{{ site.baseurl }}/data/publocation.geojson", function(data) {
                   L.geoJson(data, {
                     onEachFeature: function(feature, layer) {
-                      var popupContent = `
-                      <img width:100px; height:100px; src="${feature.properties.Cover_Photo_URL}"/>
-                      <p>${feature.properties.Author}</p>
-                      <p>${feature.properties.Title__Item_}</p>
-                      <a href="{{site.baseurl}}/${feature.properties.Genre}/"><p>${feature.properties.Genre}</p></a>
-                      <p>${feature.properties.Date}</p>
-                      <a href="{{site.baseurl}}/${feature.properties.Language_1}/"><p>${feature.properties.Language_1}</p></a>
-                      <p>${feature.properties.Publisher}</p>
-                      <p>${feature.properties.Pub_Location}</p>
-                        
-                        `;
-                        /* for (var key in feature.properties) {
+                      var popupContent = "<ul>";
+                      for (var key in feature.properties) {
                         popupContent += "<li>" + key + ": <a href='#" + feature.properties[key] + "'>" + feature.properties[key] + "</a></li>";
                       }
-                      popupContent += "</ul>"; */
+                      popupContent += "</ul>";
                       layer.bindPopup(popupContent);
                     },
                     pointToLayer: function(feature, latlng) {

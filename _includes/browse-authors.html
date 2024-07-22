@@ -2,7 +2,8 @@
     <div class="input-group mb-3">
         <input id="search-box" type="text" class="form-control" placeholder="Search for an author">
     </div>
-    <div id="data-container" class="row"></div>
+    <!-- <div id="data-container" class="row"></div> -->
+     <div id="data-container" class="row justify-content-center"></div>
 </div>
 
 
@@ -86,12 +87,15 @@
         $.getJSON(url, function(data) {
             const authorBio = data[authorId];
             if (authorBio) {
-                let htmlContent = `
-                <div style="background-color:red; padding-bottom:50%; width:50%; position:sticky; margin-bottom:50%;overflow:auto; :">
+                let htmlContent = `<div class="col" style="position:relative;">
+               <!--This create the first column div <div class="col"> -->
+                <div style="background-color:red; position: sticky; top:63px;">
+                    <img height="100px" width="100px" src="https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"/>
                     <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
                     <h4>${authorBio.Lifespan}</h4>
-                    <h4><a href="${authorBio.Wikimedia}">Read More</a></h4>
+                    <h4><a href="${authorBio.Wikimedia}">Learn More About The Author</a></h4>
                     <h5><a href="${authorBio.dloc}">DLOC Resources</a></h5>
+                </div>
                 </div>
                 `;
                 $('#data-container').html(htmlContent);
@@ -109,14 +113,16 @@
         $.getJSON(url, function(data) {
             const authorPublications = data[authorId];
             if (authorPublications) {
-                let htmlContent = `<h3 style="float: left; z-index: 1;">Author Details</h3>`;
+                let htmlContent = `<div class="col" >`;
                 authorPublications.forEach(publication => {
                     htmlContent += `
-                    <div style="background-color: purple;margin-left:50%;width:50%;overflow:auto; ">
+                    <!-- For it to fully put in two coulmns i need to populate this into the div above -->
+                    <div style="background-color: purple; margin-bottom:0;">
+                        <img src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png"/>
                         <ul>
                             <li><strong>Title:</strong> ${publication.Title}</li>
-                            <li><strong>Genre:</strong> ${publication.Genre}</li>
-                            <li><strong>Language:</strong> ${publication.Language}</a></li>
+                            <a href="{{site.baseurl}}/${publication.Genre}/"><li><strong>Genre:</strong> ${publication.Genre}</li></a>
+                            <a href="{{site.baseurl}}/${publication.Language}/"><li><strong>Language:</strong> ${publication.Language}</li></a>
                             <li><strong>Publisher:</strong> ${publication.Publisher}</li>
                             <li><strong>Publication City:</strong> ${publication.Pub_id}</li>
                             <li><strong>Publication Date:</strong> ${publication.Pubdate}</li>
@@ -124,10 +130,9 @@
                         </ul>
                         <hr>
                         </div>
-            
                     `;
                 });
-
+               htmlContent +=`</div>`;
                 $('#data-container').append(htmlContent);
             } else {
                 console.error("Publications not found for author.");
