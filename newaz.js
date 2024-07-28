@@ -3,9 +3,8 @@ const itemsPerPage = 30;
 let allEntries = [];
 
 // Function to fetch data for a specific letter
-//Receiveing an error from browse-authors.html that each JSON file could not be located
 function fetchData(letter) {
-    return fetch(`/vcl/data/${letter}.json`)
+    return fetch(`data/${letter}.json`)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -31,8 +30,6 @@ function loadAllData() {
 }
 
 // Function to display entries based on the current page
-//Receiving an error from the browse-authors.html that says:
-//Uncaught (in promise) TypeError: Cannot set properties of null (setting 'innerHTML')
 function displayEntries() {
     const contentDiv = document.querySelector('.content');
     contentDiv.innerHTML = '';
@@ -45,8 +42,8 @@ function displayEntries() {
         const gridItem = document.createElement('div');
         gridItem.className = 'grid-item';
         gridItem.innerHTML = `
-            <h3>${entry["Author Name"]}</h3>
-            <p>${entry.Country}</p>
+            <h3>${entry.Title}</h3>
+            <p>${entry.Description}</p>
         `;
         contentDiv.appendChild(gridItem);
     });
@@ -91,8 +88,6 @@ window.onload = () => {
 };
 
 // Add event listener for the search form
-//Receiving error from browse-authors.html that  says:
-//Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
 document.querySelector('.searchForm').addEventListener('submit', (event) => {
     event.preventDefault(); // Prevent form submission from reloading the page
 
@@ -108,7 +103,7 @@ document.querySelector('.searchForm').addEventListener('submit', (event) => {
 // Add event listener for the index buttons on the nav panel
 document.querySelectorAll('.button-container button').forEach(button => {
     button.addEventListener('click', () => {
-        const filePath = button.getAttribute('data-letter');
+        const filePath = button.getAttribute('data');
         const contentDiv = document.querySelector('.content');
 
         fetch(filePath)
