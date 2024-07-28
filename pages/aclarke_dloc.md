@@ -10,9 +10,7 @@ permalink: /aclarke_dloc/
         <div><img src="https://images.squarespace-cdn.com/content/v1/54a95cbfe4b034981b565382/1623847399103-BT0KREW2M5J2WKKB47PB/Clarke_Austin.jpeg" class="logo"></div>
     </div>
     <body>
-    <h4>Resources from the Digital Library of the Caribbean</h4><hr>
-
-        h4>Resources from the Digital Library of the Caribbean</h4><hr>
+<h4>Resources from the Digital Library of the Caribbean</h4><hr>
     <div class="container-mt-5">
       <div class="row">
             <div class="col-md-6">
