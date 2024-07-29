@@ -7,7 +7,7 @@ permalink: /bbyrne_dloc/
 <div class="content">
     <h1>Bonifacio Byrne</h1>
     <div class="quote">
-        <div><img src="https://sidebarwriting.files.wordpress.com/2016/04/dsc_0109.jpg" class="logo"></div>
+        <div><img src="https://bnjm.cu/img/noticias/2021/7/5/3295.jpg" class="logo"></div>
     </div>
     <body>
     <h4>Resources from the Digital Library of the Caribbean</h4><hr>
