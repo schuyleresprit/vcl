@@ -7,7 +7,7 @@ permalink: /bbyrne/
 <div class="content">
     <h1>Bonifacio Byrne</h1>
     <div class="quote">
-        <div><img src="http://bnjm.cu/img/noticias/2021/7/5/3295.jpg" class="logo"></div>
+        <div><img src="https://bnjm.cu/img/noticias/2021/7/5/3295.jpg" class="logo"></div>
     </div>
     <div class="timeline">
         <div style="padding-bottom:100px;"></div>

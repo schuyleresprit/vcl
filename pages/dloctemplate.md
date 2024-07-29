@@ -14,7 +14,7 @@ permalink: /syllabus/
 <div class="container-mt-5"> 
   <div class="row">
     <div class="col-md-6">
-      <p> Caribbean Architecture - 1. (2009). www.youtube.com. Retrieved January 3, 2024, from <a href="https://www.youtube.com/watch?v=yD_IkFreXYs" target="_blank"> https://www.youtube.com/watch?v=yD_IkFreXYs </a> </p><br>
+      <p> Caribbean Architecture - 1. (2009). www.youtube.com. Retrieved January 3, 2024, from <a href="https://www.dloc.com/AA00053606/01432/images" target="_blank"> https://www.dloc.com/AA00053606/01432/images </a> </p><br>
       <iframe width="95%" height="315" src="https://www.youtube.com/embed/yD_IkFreXYs?si=NR7ttLu8Le1phSlQ&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <br>
       <br>
