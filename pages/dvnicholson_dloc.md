@@ -7,7 +7,7 @@ permalink: /dvnicholson_dloc/
 <div class="content">
     <h1>Desmond V Nicholson</h1>
     <div class="quote">
-        <div><img src="https://icons.niherst.gov.tt/wp-content/uploads/2017/06/desmond-nicholson-profile.png" class="logo"></div>
+        <div><img src="https://antiguanice.com/clients/526-image1.jpg" class="logo"></div>
     </div>
     <body>
     
