@@ -101,6 +101,7 @@ document.querySelector('.searchForm').addEventListener('submit', (event) => {
 });
 
 // Add event listener for the index buttons on the nav panel
+
 document.querySelectorAll('.button-container button').forEach(button => {
     button.addEventListener('click', () => {
         const filePath = button.getAttribute('data');

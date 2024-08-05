@@ -1,10 +1,10 @@
 <div class="container">
     <div class="input-group mb-3">
-        <input id="search-box" type="text" class="form-control" placeholder="Search for an author">
+        <input id="search-box" type="text" class="form-control searchForm" placeholder="Search for an author">
     </div>
     <div class="button-container">
-        <button data-letter="a">A</button>
-        <button data-letter="b">B</button>
+        <button id="azIndex" data-letter="a" target="">A</button>
+        <button data-letter="b" target="">B</button>
         <button data-letter="c">C</button>
         <button data-letter="d">D</button>
         <button data-letter="e">E</button>
@@ -30,8 +30,9 @@
         <button data-letter="y">Y</button>
         <button data-letter="z">Z</button>
     </div>
-  <!-- <div class="content"></div> -->
-    <div id="data-container" class="row justify-content-center content"></div>
+    <button id="testButton">I am a button</button>
+  <div class="row justify-content-center content"></div>
+    <!--<div id="data-container" class="row justify-content-center content"></div>-->
     <div id="pagination"></div>
     <!-- <div id="data-container" class="row"></div> -->
     <!-- <div id="data-container" class="row justify-content-center"></div> -->
@@ -42,9 +43,16 @@
     .button-container{
         background-color: blueviolet;
     }
+    #pagination{
+        background-color:aquamarine;
+        position: relative;
+        bottom: 0;
+        padding-top: 3px;
+    }
 </style>
 
 <script src="{{site.baseurl}}/az.js"></script>
+
 <script>
 
 
@@ -105,10 +113,13 @@
                 }
             });
         });
+       
     }
 
+    
     function appendCard(data) {
-        $('#data-container').append(`
+        //originallly #data-container not .content
+        $('.content').append(`
             <div class="card col-4">
                 <div class="card-body">
                     <h5 class="card-title">${data.flavorText}</h5>
@@ -124,6 +135,7 @@
             showAuthorBio(authorId);
         });
     }
+
 
     function showAuthorBio(authorId) {
         const url = "{{ site.baseurl }}/data/bios.json";
@@ -142,7 +154,8 @@
                 </div>
                 </div>
                 `;
-                $('#data-container').html(htmlContent);
+                //originallly #data-container not .content
+                $('.content').html(htmlContent);
                 showAuthorDetails(authorId);
             } else {
                 console.error("Author not found in the data.");
@@ -177,7 +190,8 @@
                     `;
                 });
                htmlContent +=`</div>`;
-                $('#data-container').append(htmlContent);
+               //originallly #data-container not .content
+                $('.content').append(htmlContent);
             } else {
                 console.error("Publications not found for author.");
             }
@@ -188,3 +202,4 @@
 
     
 </script>
+
