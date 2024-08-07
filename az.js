@@ -49,7 +49,14 @@ function displayEntries() {
             <p>${entry.Country}</p>
         `;
         contentDiv.appendChild(gridItem);
-*/
+*/        
+        //Setting current page to the first page this allows the user to click a letter and
+        //go to the first 30 entries corresponding to that letter.
+        currentPage = 1;
+
+        //Creating the paramaters that the function appendCard() is expecting to 
+        //execute the author's card
+
          const data = {
             flavorText: entry["Author Name"],
             subtitle: entry.Country,
@@ -159,23 +166,6 @@ document.querySelectorAll('.button-container button').forEach(button => {
        });
 
        console.log("im working here!")
-    });
-});
-
-
-//A test button created to figure out why .addEventListener was not trigging
-document.querySelector('#testButton').addEventListener('click', function() {
-    console.log('I was clicked!.');
-
-    const buttons = document.querySelectorAll('.button-container button');
-    console.log('Buttons found:', buttons.length);
-
-    buttons.forEach(button => {
-        console.log('Attaching event listener to button:', button);
-        button.addEventListener('click', () => {
-            const letter = button.getAttribute('data-letter');
-            console.log(`Button clicked: ${letter}`);
-        });
     });
 });
 });
