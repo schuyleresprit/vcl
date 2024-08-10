@@ -41,7 +41,6 @@ permalink: /ebrodber_dloc/
             <br>
         </div>
         </div>
-        <h4>Resources from the Digital Library of the Caribbean</h4><hr>
     <div class="container-mt-5">
       <div class="row">
             <div class="col-md-6">
