@@ -10,12 +10,45 @@ permalink: /facollymore_dloc/
         <div><img src="https://aaregistry.org/wp-content/uploads/2012/02/Frank-Collymore.jpg" class="logo"></div>
     </div>
     <body>
-    <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
-        <a href="https://www.dloc.com/AA00030350/00001/images" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00030397/00001/images" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/AA00030396/00001/images" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/CA00100035/00001/images" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/CA00100040/00001/images" target="_blank">DLOC Resources</a><br>
+    <h4>Resources from the Digital Library of the Caribbean</h4><hr>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>NOTES FOR A GLOSSARY OF WORDS AND PHRASES OF BARBADIAN DIALECT. (1955). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00030350/00001/images" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/AA00030350/00001/images"></iframe>
+                <br>
+                <br>
+        </div>
+      <div class="col-md-6">
+            <p>SELECTED POEMS. (1971). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00030397/00001/images" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/AA00030397/00001/images"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>Collected Poems. (1951). www.dloc.com. Retrieved from <a href="https://www.dloc.com/AA00030396/00001/images" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/AA00030396/00001/images"></iframe>
+                <br>
+                <br>
+        </div>
+        <div class="col-md-6">
+            <p>Honour Roll. (1981). www.dloc.com. Retrieved from <a href="https://www.dloc.com/CA00100035/00001/images" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/CA00100035/00001/images"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>HONORING OF SIX GREAT WEST INDIANS AT CARIFESTA IN BARBADOS : BUILDERS OF OUR CARIBBEAN HOUSE. (1981). www.dloc.com. Retrieved from <a href="https://www.dloc.com/CA00100040/00001/images" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/CA00100040/00001/images"></iframe>
+                <br>
+                <br>
+        </div>
     </body> 
           </div>
   <!-- partial -->
