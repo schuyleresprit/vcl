@@ -10,9 +10,22 @@ permalink: /esaintamand_dloc/
         <div><img src="http://ile-en-ile.org/wp-content/uploads/2004/02/saint-amand.jpg" class="logo"></div>
     </div>
     <body>
-    <h6>Resources from the Digital Library of the Caribbean</h6><hr> 
-        <a href="https://www.dloc.com/UF00000081/10360/images" target="_blank">DLOC Resources</a><br>
-        <a href="https://www.dloc.com/UF00081370/00001/images" target="_blank">DLOC Resources</a><br>
+    <h4>Resources from the Digital Library of the Caribbean</h4><hr>
+    <div class="container-mt-5">
+      <div class="row">
+            <div class="col-md-6">
+                <p>NOUVELLISTE. (April 6, 1979). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00000081/10360/images" target="_blank">DLOC Resources</a></p><br>
+                <iframe width="95%" height="315" src="https://www.dloc.com/UF00000081/10360/images"></iframe>
+                <br>
+                <br>
+        </div>
+      <div class="col-md-6">
+            <p>ÉTINCELLES. (1945). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00081370/00001/images" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://www.dloc.com/UF00081370/00001/images"></iframe>
+            <br>
+            <br>
+        </div>
+        </div>
     </body> 
           </div>
   <!-- partial -->
