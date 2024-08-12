@@ -41,6 +41,7 @@ function displayEntries() {
     const endIndex = startIndex + itemsPerPage;
     const paginatedEntries = allEntries.slice(startIndex, endIndex);
 
+
     paginatedEntries.forEach(entry => {
         /*const gridItem = document.createElement('div');
         gridItem.className = 'grid-item';
@@ -52,8 +53,8 @@ function displayEntries() {
 */        
         //Setting current page to the first page this allows the user to click a letter and
         //go to the first 30 entries corresponding to that letter.
+        
         currentPage = 1;
-
         //Creating the paramaters that the function appendCard() is expecting to 
         //execute the author's card
 
@@ -66,11 +67,11 @@ function displayEntries() {
     });
 
     if (paginatedEntries.length === 0) {
-        contentDiv.innerHTML = '<p>No matches found.</p>';
+        contentDiv.innerHTML = '<div width="1000px" height="1000px"><p>No matches found.</p></div>';
     }
 
     updatePagination();
-    console.log("im working here!")
+    console.log("displayEntries working here!")
 }
 
 // Function to update pagination controls
@@ -91,15 +92,16 @@ function updatePagination() {
         });
         pagination.appendChild(pageItem);
     }
-    console.log("im working here!")
+    console.log("updatePagination working here!")
 }
 
 // Function to filter entries based on search term and display
 function searchEntries(searchTerm) {
-    const filteredEntries = allEntries.filter(entry => entry.Title.toLowerCase().includes(searchTerm));
+    const filteredEntries = allEntries.filter(entry => entry["Author Name"].toLowerCase().includes(searchTerm));
     currentPage = 1; // Reset to first page on new search
     allEntries = filteredEntries;
     displayEntries();
+    console.log("This is the search bar also speaking!");
 }
 
 // Load initial data when the page loads
@@ -110,16 +112,25 @@ window.onload = () => {
 // Add event listener for the search form
 //Receiving error from browse-authors.html that  says:
 //Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
-document.querySelector('.searchForm').addEventListener('submit', (event) => {
+document.querySelector('.searchForm').addEventListener('input', (event) => {
     event.preventDefault(); // Prevent form submission from reloading the page
+    console.log("Search event listener working here!");
 
-    const input = document.querySelector('.searchInput').value.trim().toLowerCase();
+    const input = document.querySelector('#searchInput').value.trim().toLowerCase();
 
     if (input) {
         searchEntries(input);
+        console.log(input);
+    } 
+    else if(input == "") {
+         displayEntries();
+         console.log("You arent looking for anything!")
+
     } else {
         alert('Please enter a term');
+        console.log(`Could not find author named ${input}`);
     }
+    console.log("This is the search bar speaking!");
 });
 
 // Add event listener for the index buttons on the nav panel
@@ -165,7 +176,7 @@ document.querySelectorAll('.button-container button').forEach(button => {
           
        });
 
-       console.log("im working here!")
+       console.log(" button event  working here!")
     });
 });
 });

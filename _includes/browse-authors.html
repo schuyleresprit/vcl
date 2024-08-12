@@ -1,10 +1,60 @@
+<style>
+.row.justify-content-center.content{
+
+      margin: 15px 30px;
+}
+
+
+    .button-container{
+        background-color: #10316b;
+        
+    }
+    #pagination{
+        background-color: #10316b;
+        padding-top: 3px;
+    }
+    [data-letter]{
+        background-color: transparent;
+        text-align: center;
+        color: #fff;
+        text-decoration: none;
+        border: none;
+        display: inline-flex;
+        padding: 10px;
+        margin: 0px 3px;
+        font-size: 14px;
+        }
+
+       [data-letter]:hover {
+        color: rgba(255,255,255,.55);
+       } 
+
+       button:active{
+        color: green;
+       }
+
+       #pagination button {
+        background-color: transparent;
+        text-align: center;
+        color: #fff;
+        text-decoration: none;
+        border: none;
+        display: inline-flex;
+        padding: 10px;
+        margin: 0px 3px;
+        font-size: 14px;
+       }
+</style>
+
+
+
 <div class="container">
     <div class="input-group mb-3">
-        <input id="search-box" type="text" class="form-control searchForm" placeholder="Search for an author">
+        <input id="searchInput" type="text" class="form-control searchForm" placeholder="Search for an author">
     </div>
     <div class="button-container">
-        <button id="azIndex" data-letter="a" target="">A</button>
-        <button data-letter="b" target="">B</button>
+        <button data-letter="a">A</button>
+        <button data-letter="b">B</button>
         <button data-letter="c">C</button>
         <button data-letter="d">D</button>
         <button data-letter="e">E</button>
@@ -38,17 +88,7 @@
 </div>
 
 
-<style>
-    .button-container{
-        background-color: blueviolet;
-    }
-    #pagination{
-        background-color:aquamarine;
-        position: relative;
-        bottom: 0;
-        padding-top: 3px;
-    }
-</style>
+
 
 <script src="{{site.baseurl}}/az.js"></script>
 
@@ -74,14 +114,18 @@
                     type: dataset.type,
                     data: data
                 });
-                setTimeout(() => showCategory(), 1000);
+               // setTimeout(() => showCategory(), 1000);
             });
         });
+
+
 
         $('#search-box').on('input', function(event) {
             showCategory(event.target.value);
         });
     });
+
+
 
     function siftData(url, dataType, callback) {
         $.getJSON(url, function(data) {
@@ -101,10 +145,12 @@
         });
     }
 
+    /*
     function showCategory(filter = "") {
         $('#data-container').html('');
         filter = filter.trim().toLowerCase();
 
+        
         dataLinks.forEach(element => {
             element.data.forEach(data => {
                 if (filter === "" || data.flavorText.toLowerCase().includes(filter)) {
@@ -113,9 +159,11 @@
             });
         });
        
+        console.log("This is the showCategory talking here!");
     }
 
-    
+    */
+
     function appendCard(data) {
         //originallly #data-container not .content
         $('.content').append(`
@@ -127,6 +175,7 @@
                 </div>
             </div>
         `);
+        console.log("This is the appendCard saying hey!");
 
         $('.card-link').off('click').on('click', function(event) {
             event.preventDefault();
@@ -144,7 +193,7 @@
                 let htmlContent = `<div class="col" style="position:relative;">
                <!--This create the first column div <div class="col"> -->
                 <div height="700px" width="500px" style=" position: sticky; top:63px;">
-                    <img height=300px"  src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%; border-radius: 50%;"/>
+                    <img width=900px" src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%; border-radius: 50%;"/>
                     <br>
                     <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
                     <h4>${authorBio.Lifespan}</h4>
@@ -173,14 +222,19 @@
 //Sort the publication.json by Pubdate
 //This will sort the cards by Publication date
         authorPublications.sort((a,b)=> new Date(a.Pubdate) - new Date(b.Pubdate));
-         
+        for (let i=1; i<authorPublications.length; i++){
+                        console.log("This is " + i);
+                        imgArray = "This is " + i;
+                    }
         let htmlContent = `<div class="col" >`;
                 authorPublications.forEach(publication => {
+                  
                     htmlContent += `
                     <!-- For it to fully put in two coulmns i need to populate this into the div above -->
                     <div style="margin-bottom:0; width:100%">
                         <h3><b><u>${publication.Pubdate}</u></b></h3>
-                        <img src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
+                       <!--<img src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/> -->
+                       <img src="${imgArray}" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
                         <h4><b><i>${publication.Title}</i></b></h4>
                         <p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
                         <p><b>${publication.Publisher}, <span>Translation: ${publication.Translation}</span></b></p>
@@ -191,6 +245,7 @@
                htmlContent +=`</div>`;
                //originallly #data-container not .content
                 $('.content').append(htmlContent);
+                console.log(publication.Genre);
             } else {
                 console.error("Publications not found for author.");
             }
