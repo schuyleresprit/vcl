@@ -13,6 +13,12 @@
         background-color: #10316b;
         padding-top: 3px;
     }
+    
+    div.col ~ div#pagination{
+        font-size: 26px;
+        
+    }
+
     [data-letter]{
         background-color: transparent;
         text-align: center;
@@ -82,7 +88,7 @@
     </div>
   <div class="row justify-content-center content"></div>
     <!--<div id="data-container" class="row justify-content-center content"></div>-->
-    <div id="pagination"></div>
+    <div class="hide" id="pagination"></div>
     <!-- <div id="data-container" class="row"></div> -->
     <!-- <div id="data-container" class="row justify-content-center"></div> -->
 </div>
@@ -193,7 +199,7 @@
                 let htmlContent = `<div class="col" style="position:relative;">
                <!--This create the first column div <div class="col"> -->
                 <div height="700px" width="500px" style=" position: sticky; top:63px;">
-                    <img width=900px" src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%; border-radius: 50%;"/>
+                    <img width=900px" src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
                     <br>
                     <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
                     <h4>${authorBio.Lifespan}</h4>
@@ -222,30 +228,32 @@
 //Sort the publication.json by Pubdate
 //This will sort the cards by Publication date
         authorPublications.sort((a,b)=> new Date(a.Pubdate) - new Date(b.Pubdate));
-        for (let i=1; i<authorPublications.length; i++){
-                        console.log("This is " + i);
-                        imgArray = "This is " + i;
-                    }
         let htmlContent = `<div class="col" >`;
-                authorPublications.forEach(publication => {
-                  
+
+            //i variable added to create an index count for each publication for each author
+
+                authorPublications.forEach((publication, i) => {
+
+                    let imgArray = i+1;
+                    const authorID = `${publication.Author}`.toLowerCase();
+
                     htmlContent += `
                     <!-- For it to fully put in two coulmns i need to populate this into the div above -->
                     <div style="margin-bottom:0; width:100%">
                         <h3><b><u>${publication.Pubdate}</u></b></h3>
                        <!--<img src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/> -->
-                       <img src="${imgArray}" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
+                       <img src="{{site.baseurl}}/bookphotos/${publication.Author}/${imgArray}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
                         <h4><b><i>${publication.Title}</i></b></h4>
                         <p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
                         <p><b>${publication.Publisher}, <span>Translation: ${publication.Translation}</span></b></p>
                         <hr>
                         </div>
                     `;
-                });
+                    });
+                    
                htmlContent +=`</div>`;
                //originallly #data-container not .content
                 $('.content').append(htmlContent);
-                console.log(publication.Genre);
             } else {
                 console.error("Publications not found for author.");
             }

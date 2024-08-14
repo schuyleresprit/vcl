@@ -120,18 +120,18 @@ document.querySelector('.searchForm').addEventListener('input', (event) => {
 
     if (input) {
         searchEntries(input);
-        console.log(input);
-    } 
-    else if(input == "") {
-         displayEntries();
-         console.log("You arent looking for anything!")
+        console.log(`Searching for ${input}`);
+    }
 
-    } else {
-        alert('Please enter a term');
-        console.log(`Could not find author named ${input}`);
+    else {
+        displayEntries();
+        //alert('Please enter a term');
+        console.log(`Now searching for ${input}`);
     }
     console.log("This is the search bar speaking!");
 });
+
+
 
 // Add event listener for the index buttons on the nav panel
 
