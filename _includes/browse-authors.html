@@ -246,9 +246,11 @@
                         <h4><b><i>${publication.Title}</i></b></h4>
                         <p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
                         <p><b>${publication.Publisher}, <span>Translation: ${publication.Translation}</span></b></p>
+                        <p>This is ${imgArray}</p>
                         <hr>
                         </div>
                     `;
+                    console.log(`This is ${imgArray}`);
                     });
                     
                htmlContent +=`</div>`;
