@@ -3,8 +3,9 @@ const itemsPerPage = 30;
 let allEntries = [];
 
 // Function to fetch data for a specific letter
+//Receiveing an error from browse-authors.html that each JSON file could not be located
 function fetchData(letter) {
-    return fetch(`data/${letter}.json`)
+    return fetch(`/vcl/data/${letter}.json`)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -30,6 +31,8 @@ function loadAllData() {
 }
 
 // Function to display entries based on the current page
+//Receiving an error from the browse-authors.html that says:
+//Uncaught (in promise) TypeError: Cannot set properties of null (setting 'innerHTML')
 function displayEntries() {
     const contentDiv = document.querySelector('.content');
     contentDiv.innerHTML = '';
@@ -38,21 +41,37 @@ function displayEntries() {
     const endIndex = startIndex + itemsPerPage;
     const paginatedEntries = allEntries.slice(startIndex, endIndex);
 
+
     paginatedEntries.forEach(entry => {
-        const gridItem = document.createElement('div');
+        /*const gridItem = document.createElement('div');
         gridItem.className = 'grid-item';
         gridItem.innerHTML = `
-            <h3>${entry.Title}</h3>
-            <p>${entry.Description}</p>
+            <h3>${entry["Author Name"]}</h3>
+            <p>${entry.Country}</p>
         `;
         contentDiv.appendChild(gridItem);
+*/        
+        //Setting current page to the first page this allows the user to click a letter and
+        //go to the first 30 entries corresponding to that letter.
+        
+        currentPage = 1;
+        //Creating the paramaters that the function appendCard() is expecting to 
+        //execute the author's card
+
+         const data = {
+            flavorText: entry["Author Name"],
+            subtitle: entry.Country,
+            link: entry.Author_id
+         }
+         appendCard(data);
     });
 
     if (paginatedEntries.length === 0) {
-        contentDiv.innerHTML = '<p>No matches found.</p>';
+        contentDiv.innerHTML = '<div width="1000px" height="1000px"><p>No matches found.</p></div>';
     }
 
     updatePagination();
+    console.log("displayEntries working here!")
 }
 
 // Function to update pagination controls
@@ -69,17 +88,20 @@ function updatePagination() {
         pageItem.addEventListener('click', () => {
             currentPage = i;
             displayEntries();
+    
         });
         pagination.appendChild(pageItem);
     }
+    console.log("updatePagination working here!")
 }
 
 // Function to filter entries based on search term and display
 function searchEntries(searchTerm) {
-    const filteredEntries = allEntries.filter(entry => entry.Title.toLowerCase().includes(searchTerm));
+    const filteredEntries = allEntries.filter(entry => entry["Author Name"].toLowerCase().includes(searchTerm));
     currentPage = 1; // Reset to first page on new search
     allEntries = filteredEntries;
     displayEntries();
+    console.log("This is the search bar also speaking!");
 }
 
 // Load initial data when the page loads
@@ -88,44 +110,73 @@ window.onload = () => {
 };
 
 // Add event listener for the search form
-document.querySelector('.searchForm').addEventListener('submit', (event) => {
+//Receiving error from browse-authors.html that  says:
+//Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+document.querySelector('.searchForm').addEventListener('input', (event) => {
     event.preventDefault(); // Prevent form submission from reloading the page
+    console.log("Search event listener working here!");
 
-    const input = document.querySelector('.searchInput').value.trim().toLowerCase();
+    const input = document.querySelector('#searchInput').value.trim().toLowerCase();
 
     if (input) {
         searchEntries(input);
-    } else {
-        alert('Please enter a term');
+        console.log(`Searching for ${input}`);
     }
+
+    else {
+        displayEntries();
+        //alert('Please enter a term');
+        console.log(`Now searching for ${input}`);
+    }
+    console.log("This is the search bar speaking!");
 });
 
+
+
 // Add event listener for the index buttons on the nav panel
+
 document.querySelectorAll('.button-container button').forEach(button => {
     button.addEventListener('click', () => {
-        const filePath = button.getAttribute('data');
+        const letter = button.getAttribute('data-letter');
         const contentDiv = document.querySelector('.content');
+        const filePath = `/vcl/data/${letter}.json`;
+        //Log to test .addEventListener functionality
+       // console.log(`This is ${letter}`);
+       // console.log(`Button clicked: ${letter}`);
+       // console.log(`Fetching data from: ${filePath}`);
 
-        fetch(filePath)
+       fetch(filePath)
             .then(response => response.json())
             .then(data => {
                 // Clear content
                 contentDiv.innerHTML = '';
 
                 // Create each word element
-                Object.values(data).forEach(entry => {
-                    const gridItem = document.createElement('div');
+                //<h3>${entry.Title}</h3>
+               // <p>${entry.Description}</p> 
+                 Object.values(data).forEach(entry => {
+                    /*
+                   const gridItem = document.createElement('div');
                     gridItem.className = 'grid-item';
                     gridItem.innerHTML = `
-                        <h3>${entry.Title}</h3>
-                        <p>${entry.Description}</p>
+
+                       <h3>${entry["Author Name"]}</h3>
+                          <p>${entry.Country}</p>
                     `;
                     contentDiv.appendChild(gridItem);
-                });
-            })
+                    */
+                   allEntries = Object.values(data);
+                   displayEntries();
+            
+                   })
+                   
             .catch(error => {
                 console.error('Error fetching or parsing data:', error);
                 contentDiv.innerHTML = 'Error loading content.';
-            });
+          
+       });
+
+       console.log(" button event  working here!")
     });
+});
 });
