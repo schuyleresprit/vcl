@@ -1,108 +1,13 @@
-<style>
-.row.justify-content-center.content{
-
-      margin: 15px 30px;
-}
-
-
-    .button-container{
-        background-color: #10316b;
-        
-    }
-    #pagination{
-        background-color: #10316b;
-        padding-top: 3px;
-    }
-    
-    div.col ~ div#pagination{
-        font-size: 26px;
-        
-    }
-
-    [data-letter]{
-        background-color: transparent;
-        text-align: center;
-        color: #fff;
-        text-decoration: none;
-        border: none;
-        display: inline-flex;
-        padding: 10px;
-        margin: 0px 3px;
-        font-size: 14px;
-        }
-
-       [data-letter]:hover {
-        color: rgba(255,255,255,.55);
-       } 
-
-       button:active{
-        color: green;
-       }
-
-       #pagination button {
-        background-color: transparent;
-        text-align: center;
-        color: #fff;
-        text-decoration: none;
-        border: none;
-        display: inline-flex;
-        padding: 10px;
-        margin: 0px 3px;
-        font-size: 14px;
-       }
-</style>
-
-
-
 <div class="container">
     <div class="input-group mb-3">
-        <input id="searchInput" type="text" class="form-control searchForm" placeholder="Search for an author">
+        <input id="search-box" type="text" class="form-control" placeholder="Search for an author">
     </div>
-    <div class="button-container">
-        <button data-letter="a">A</button>
-        <button data-letter="b">B</button>
-        <button data-letter="c">C</button>
-        <button data-letter="d">D</button>
-        <button data-letter="e">E</button>
-        <button data-letter="f">F</button>
-        <button data-letter="g">G</button>
-        <button data-letter="h">H</button>
-        <button data-letter="i">I</button>
-        <button data-letter="j">J</button>
-        <button data-letter="k">K</button>
-        <button data-letter="l">L</button>
-        <button data-letter="m">M</button>
-        <button data-letter="n">N</button>
-        <button data-letter="o">O</button>
-        <button data-letter="p">P</button>
-        <button data-letter="q">Q</button>
-        <button data-letter="r">R</button>
-        <button data-letter="s">S</button>
-        <button data-letter="t">T</button>
-        <button data-letter="u">U</button>
-        <button data-letter="v">V</button>
-        <button data-letter="w">W</button>
-        <button data-letter="x">X</button>
-        <button data-letter="y">Y</button>
-        <button data-letter="z">Z</button>
-    </div>
-  <div class="row justify-content-center content"></div>
-    <!--<div id="data-container" class="row justify-content-center content"></div>-->
-    <div class="hide" id="pagination"></div>
     <!-- <div id="data-container" class="row"></div> -->
-    <!-- <div id="data-container" class="row justify-content-center"></div> -->
+     <div id="data-container" class="row justify-content-center"></div>
 </div>
 
 
-
-
-<script src="{{site.baseurl}}/az.js"></script>
-
 <script>
-
-
-
-
     
     const datasets = [
         {
@@ -120,18 +25,14 @@
                     type: dataset.type,
                     data: data
                 });
-               // setTimeout(() => showCategory(), 1000);
+                setTimeout(() => showCategory(), 1000);
             });
         });
-
-
 
         $('#search-box').on('input', function(event) {
             showCategory(event.target.value);
         });
     });
-
-
 
     function siftData(url, dataType, callback) {
         $.getJSON(url, function(data) {
@@ -151,12 +52,10 @@
         });
     }
 
-    /*
     function showCategory(filter = "") {
         $('#data-container').html('');
         filter = filter.trim().toLowerCase();
 
-        
         dataLinks.forEach(element => {
             element.data.forEach(data => {
                 if (filter === "" || data.flavorText.toLowerCase().includes(filter)) {
@@ -164,15 +63,10 @@
                 }
             });
         });
-       
-        console.log("This is the showCategory talking here!");
     }
 
-    */
-
     function appendCard(data) {
-        //originallly #data-container not .content
-        $('.content').append(`
+        $('#data-container').append(`
             <div class="card col-4">
                 <div class="card-body">
                     <h5 class="card-title">${data.flavorText}</h5>
@@ -181,7 +75,6 @@
                 </div>
             </div>
         `);
-        console.log("This is the appendCard saying hey!");
 
         $('.card-link').off('click').on('click', function(event) {
             event.preventDefault();
@@ -190,7 +83,6 @@
         });
     }
 
-
     function showAuthorBio(authorId) {
         const url = "{{ site.baseurl }}/data/bios.json";
         $.getJSON(url, function(data) {
@@ -198,18 +90,16 @@
             if (authorBio) {
                 let htmlContent = `<div class="col" style="position:relative;">
                <!--This create the first column div <div class="col"> -->
-                <div height="700px" width="500px" style=" position: sticky; top:63px;">
-                    <img height="300px" width="300px" src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display:block; margin-left: auto; margin-right:auto; border-radius: 50%;"/>
-                    <br>
+                <div style="background-color:red; position: sticky; top:63px;">
+                    <img height="100px" width="100px" src="https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png"/>
                     <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
                     <h4>${authorBio.Lifespan}</h4>
-                    <p><b><a href="${authorBio.Wikimedia}">Learn More About The Author</a></b></p>
-                    <p><b><a href="{{site.baseurl}}/${authorBio.authorid}_dloc/">DLOC Resources</a></b></p>
+                    <h4><a href="${authorBio.Wikimedia}">Learn More About The Author</a></h4>
+                    <h5><a href="${authorBio.dloc}">DLOC Resources</a></h5>
                 </div>
                 </div>
                 `;
-                //originallly #data-container not .content
-                $('.content').html(htmlContent);
+                $('#data-container').html(htmlContent);
                 showAuthorDetails(authorId);
             } else {
                 console.error("Author not found in the data.");
@@ -224,46 +114,32 @@
         $.getJSON(url, function(data) {
             const authorPublications = data[authorId];
             if (authorPublications) {
-
-//Sort the publication.json by Pubdate
-//This will sort the cards by Publication date
-        authorPublications.sort((a,b)=> new Date(a.Pubdate) - new Date(b.Pubdate));
-        let htmlContent = `<div class="col" >`;
-
-            //i variable added to create an index count for each publication for each author
-
-                authorPublications.forEach((publication, i) => {
-
-                    let imgArray = i+1;
-            
-
+                let htmlContent = `<div class="col" >`;
+                authorPublications.forEach(publication => {
                     htmlContent += `
                     <!-- For it to fully put in two coulmns i need to populate this into the div above -->
-                    <div style="margin-bottom:0; width:100%">
-                        <h3><b><u>${publication.Pubdate}</u></b></h3>
-                       <!--<img src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/> -->
-                       <img height="400px" width="400px" src="{{site.baseurl}}/bookphotos/${publication.Author}/${imgArray}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
-                        <h4><b><i>${publication.Title}</i></b></h4>
-                        <p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
-                        <p><b>${publication.Publisher}, <span>Translation: ${publication.Translation}</span></b></p>
-                        <p>This is ${imgArray}</p>
+                    <div style="background-color: purple; margin-bottom:0;">
+                        <img src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png"/>
+                        <ul>
+                            <li><strong>Title:</strong> ${publication.Title}</li>
+                            <a href="{{site.baseurl}}/${publication.Genre}/"><li><strong>Genre:</strong> ${publication.Genre}</li></a>
+                            <a href="{{site.baseurl}}/${publication.Language}/"><li><strong>Language:</strong> ${publication.Language}</li></a>
+                            <li><strong>Publisher:</strong> ${publication.Publisher}</li>
+                            <li><strong>Publication City:</strong> ${publication.Pub_id}</li>
+                            <li><strong>Publication Date:</strong> ${publication.Pubdate}</li>
+                            <li><strong>Translation:</strong> ${publication.Translation}</li>
+                        </ul>
                         <hr>
                         </div>
                     `;
-                    console.log(`This is ${imgArray}`);
-                    });
-                    
+                });
                htmlContent +=`</div>`;
-               //originallly #data-container not .content
-                $('.content').append(htmlContent);
+                $('#data-container').append(htmlContent);
             } else {
-                console.error(`Publications not found for author. ${data[authorId].author_id}`);
+                console.error("Publications not found for author.");
             }
         }).fail(function() {
             console.error("Failed to load JSON data.");
         });
     }
-
-    
 </script>
-

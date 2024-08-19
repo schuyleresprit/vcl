@@ -42,14 +42,15 @@
                 $.getJSON("{{ site.baseurl }}/data/publocation.geojson", function(data) {
                   L.geoJson(data, {
                     onEachFeature: function(feature, layer) {
-                      var popupContent = `<div width="500px" height="400px">
-                      <img src="${feature.properties.Cover_Photo_URL}" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
-                      <h6>${feature.properties.Publisher}</h6>
-                      <p><b>${feature.properties.Place}</b></p>
-                     <p><b><i>"${feature.properties.Title}"</i></b></p>
-                     <p><b>${feature.properties.Date}, <span><a href="{{site.baseurl}}/${feature.properties.Genre_}/">${feature.properties.Genre_}</a></span>, <span><a href="{{site.baseurl}}/${feature.properties.Language}/">${feature.properties.Language}</a></span></b></p>
-                      <p><b>${feature.properties.Author}<b></p>
-                      </div>
+                      var popupContent = `
+                      <img width:100px; height:100px; src="${feature.properties.Cover_Photo_URL}"/>
+                      <p>${feature.properties.Author}</p>
+                      <p>${feature.properties.Title__Item_}</p>
+                      <a href="{{site.baseurl}}/${feature.properties.Genre}/"><p>${feature.properties.Genre}</p></a>
+                      <p>${feature.properties.Date}</p>
+                      <a href="{{site.baseurl}}/${feature.properties.Language_1}/"><p>${feature.properties.Language_1}</p></a>
+                      <p>${feature.properties.Publisher}</p>
+                      <p>${feature.properties.Pub_Location}</p>
                         
                         `;
                         /* for (var key in feature.properties) {
