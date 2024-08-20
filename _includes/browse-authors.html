@@ -4,7 +4,12 @@
       margin: 15px 30px;
 }
 
-
+#data-container {
+    color: green;
+}
+.content {
+    color: purple;
+}
 
     .button-container{
         background-color: #10316b;
@@ -87,10 +92,10 @@
 </div>
 
 <!-- Where all of the Author's Cards populate-->
-<div id="data-container" class="row justify-content-center"></div>
-<!--<div class="row justify-content-center content">
+<div class="row justify-content-center content">
 </div>
--->
+<div id="data-container" class="row justify-content-center"></div>
+
 <!--Pagination bar for Author's Cards -->
 <div id="pagination"></div>
 </div>
@@ -171,7 +176,7 @@ const dataLinks = [];
     };
 
 
-
+/*
 //Function to create and display Author's Card based on Author's data
     function showCategory(filter = "") {
         $('#data-container').html('');
@@ -189,7 +194,7 @@ const dataLinks = [];
         console.log("This is the showCategory talking here!");
     }
 
- 
+ */
 
  //Function to create and display Author's Card based on Author's data into the main div 
  //Container
@@ -197,7 +202,7 @@ const dataLinks = [];
     function appendCard(data) {
 
         //originallly #data-container not .content
-        $('#data-container').append(`
+        $('.content').append(`
         <div class="card col-4">
         <div class="card-body">
         <h5 class="card-title">${data.flavorText}</h5>
@@ -241,7 +246,7 @@ let htmlContent =`
 </div>
 `;
 console.log('ShowAuthorBio working here!');
-$('#data-container').html(htmlContent)
+$('.content').html(htmlContent)
 showAuthorDetails(authorId);
      }
          else {
@@ -293,7 +298,7 @@ htmlContent += `
 htmlContent +=`</div>`;
 
 //originallly #data-container not .content
- $('#data-container').append(htmlContent);
+ $('.content').append(htmlContent);
 
 } 
         
