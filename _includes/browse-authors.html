@@ -1,9 +1,9 @@
-@ -1,10 +1,60 @@
 <style>
 .row.justify-content-center.content{
 
       margin: 15px 30px;
 }
+
 
 
     .button-container{
@@ -48,22 +48,53 @@
 </style>
 
 
-
+<!-- Main div for Author's Page-->
 <div class="container">
+    <!-- Search bar -->
     <div class="input-group mb-3">
         <input id="search-box" type="text" class="form-control searchForm" placeholder="Search for an author">
         <input id="searchInput" type="text" class="form-control searchForm" placeholder="Search for an author">
     </div>
+
+    <!--Alhpabetically ordered letter navigation bar  -->
     <div class="button-container">
-        <button id="azIndex" data-letter="a" target="">A</button>
-        <button data-letter="b" target="">B</button>
         <button data-letter="a">A</button>
         <button data-letter="b">B</button>
         <button data-letter="c">C</button>
         <button data-letter="d">D</button>
         <button data-letter="e">E</button>
-@ -38,17 +88,7 @@
+        <button data-letter="f">F</button>
+        <button data-letter="g">G</button>
+        <button data-letter="h">H</button>
+        <button data-letter="i">I</button>
+        <button data-letter="j">J</button>
+        <button data-letter="k">K</button>
+        <button data-letter="l">L</button>
+        <button data-letter="m">M</button>
+        <button data-letter="n">N</button>
+        <button data-letter="o">O</button>
+        <button data-letter="p">P</button>
+        <button data-letter="q">Q</button>
+        <button data-letter="r">R</button>
+        <button data-letter="s">S</button>
+        <button data-letter="t">T</button>
+        <button data-letter="u">U</button>
+        <button data-letter="v">V</button>
+        <button data-letter="W">W</button>
+        <button data-letter="X">X</button>
+        <button data-letter="Y">Y</button>
+        <button data-letter="z">Z</button>
 </div>
+
+<!-- Where all of the Author's Cards populate-->
+<div id="data-container" class="row justify-content-center"></div>
+<!--<div class="row justify-content-center content">
+</div>
+-->
+<!--Pagination bar for Author's Cards -->
+<div id="pagination"></div>
+</div>
+
 
 
 <style>
@@ -78,34 +109,70 @@
     }
 </style>
 
-
+<!-- External javascript for the letter navigation and pagination for Authors-->
 <script src="{{site.baseurl}}/az.js"></script>
-@ -74,15 +114,19 @@
+
+<!-- Internal javascript dealing with the Author's Bio and Detail functionality-->
+<script>
+
+const datasets = [
+    {
+    type: "authors",
+    url: "{{ site.baseurl }}/data/authors.json"
+ }
+            
+];
+
+const dataLinks = [];
+
+
+//Calling a jQuery to load the data as the page is loaded
+
+          $(document).ready(function(){
+           datasets.forEach(dataset => {
+            siftData(dataset.url, dataset.type, function(data){
+                dataLinks.push({
                     type: dataset.type,
                     data: data
                 });
-                setTimeout(() => showCategory(), 1000);
+            });
+               setTimeout(() => showCategory(), 1000);
                // setTimeout(() => showCategory(), 1000);
             });
-        });
 
 
-
-        $('#search-box').on('input', function(event) {
+//Search bar functionality
+            $('#search-box').on('input', function(event) {
             showCategory(event.target.value);
         });
-    });
+        });
+
 
 
 
     function siftData(url, dataType, callback) {
         $.getJSON(url, function(data) {
             const temp = [];
-@ -101,10 +145,12 @@
-        });
-    }
+            if (dataType === "authors") {
+                for (const key in data){
+                if(data.hasOwnProperty(key)){
+                    temp.push({
+                        flavorText: data[key].Author,
+                        subtitle: data[key].author_country,
+                        link: data[key].author_id
+                    });
 
-    /*
+                } 
+            }
+        }
+            
+               callback(temp);
+        });
+    };
+
+
+
+//Function to create and display Author's Card based on Author's data
     function showCategory(filter = "") {
         $('#data-container').html('');
         filter = filter.trim().toLowerCase();
@@ -114,63 +181,129 @@
         dataLinks.forEach(element => {
             element.data.forEach(data => {
                 if (filter === "" || data.flavorText.toLowerCase().includes(filter)) {
-@ -113,9 +159,11 @@
+                  appendCard(data);
+}
             });
         });
        
         console.log("This is the showCategory talking here!");
     }
 
-    
-    */
+ 
+
+ //Function to create and display Author's Card based on Author's data into the main div 
+ //Container
 
     function appendCard(data) {
+
         //originallly #data-container not .content
-        $('.content').append(`
-@ -127,6 +175,7 @@
-                </div>
-            </div>
+        $('#data-container').append(`
+        <div class="card col-4">
+        <div class="card-body">
+        <h5 class="card-title">${data.flavorText}</h5>
+        <h6 class="card-subtitle">${data.subtitle}</h6>
+        <a href="#" class="card-link" data-authorid="${data.link}">More</a>
+         </div>
+    </div>
         `);
         console.log("This is the appendCard saying hey!");
 
         $('.card-link').off('click').on('click', function(event) {
             event.preventDefault();
-@ -144,7 +193,7 @@
-                let htmlContent = `<div class="col" style="position:relative;">
-               <!--This create the first column div <div class="col"> -->
-                <div height="700px" width="500px" style=" position: sticky; top:63px;">
-                    <img height=300px"  src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%; border-radius: 50%;"/>
-                    <img width=900px" src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%; border-radius: 50%;"/>
-                    <br>
-                    <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
-                    <h4>${authorBio.Lifespan}</h4>
-@ -173,14 +222,19 @@
-//Sort the publication.json by Pubdate
-//This will sort the cards by Publication date
-        authorPublications.sort((a,b)=> new Date(a.Pubdate) - new Date(b.Pubdate));
-         
-        for (let i=1; i<authorPublications.length; i++){
-                        console.log("This is " + i);
-                        imgArray = "This is " + i;
-                    }
-        let htmlContent = `<div class="col" >`;
-                authorPublications.forEach(publication => {
-                  
-                    htmlContent += `
-                    <!-- For it to fully put in two coulmns i need to populate this into the div above -->
-                    <div style="margin-bottom:0; width:100%">
-                        <h3><b><u>${publication.Pubdate}</u></b></h3>
-                        <img src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
-                       <!--<img src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/> -->
-                       <img src="${imgArray}" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
-                        <h4><b><i>${publication.Title}</i></b></h4>
-                        <p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
-                        <p><b>${publication.Publisher}, <span>Translation: ${publication.Translation}</span></b></p>
-@ -191,6 +245,7 @@
-               htmlContent +=`</div>`;
-               //originallly #data-container not .content
-                $('.content').append(htmlContent);
-                console.log(publication.Genre);
-            } else {
-                console.error("Publications not found for author.");
-            }
+            const authorId = $(this).data('authorid');
+            showAuthorBio(authorId);
+        });
+}
+
+
+
+//Function that dynamically populates with the author's bio
+function showAuthorBio(authorId) {
+       const url = "{{ site.baseurl }}/data/bios.json";
+       $.getJSON(url,function(data) {
+        const authorBio = data[authorId];
+        if(authorBio){
+
+let htmlContent =`
+<!--This create the first column div-->
+
+<div class="col" style="position:relative;">
+
+<!-- Creates a container so that the author's profile photo side can scroll independtly of the book details -->
+<div height="700px" width="500px" style="position: sticky; top:63px;">
+<img height="400px" width="400px" src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display: block; margin-left: auto; margin-right:auto; width: 50%l border-radius: 50%" />
+<br>
+<h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
+<h4>${authorBio.Lifespan}</h4>
+<p><b><a href="${authorBio.Wikimedia}">Learn More About the Author</a></b></p>
+<p><b><a href="{{site.baseurl}}/${authorBio.authorid}_dloc/"">DLOC Resources</a></b></p>
+</div>
+</div>
+`;
+console.log('ShowAuthorBio working here!');
+$('#data-container').html(htmlContent)
+showAuthorDetails(authorId);
+     }
+         else {
+    console.error("Author not found in the data.");
+      }
+})
+          .fail(function(){
+            console.error("Failed to load JSON data.");
+                     });
+                                        
+}
+
+
+
+
+//Funciton that dynamically populates the author's book detail
+function showAuthorDetails(authorId){
+    const url = "{{ site.baseurl }}/data/publications.json";
+
+$.getJSON(url, function(data){
+   const authorPublications = data[authorId];
+   if (authorPublications){
+//This will sort the books by Publication date
+
+authorPublications.sort((a,b)=> new Date(a.Pubdate) - new Date(b.Pubdate));
+let htmlContent = `<div class="col" >`;
+
+authorPublications.forEach((publication, i) => {
+
+//i variable added to create an index count for the publications by each author
+
+let imgArray = i + 1; 
+                
+htmlContent += `
+<!-- For it to fully put in two coulmns i need to populate this into the div above -->
+
+<div style="margin-bottom:0; width:100%">
+<h3><b><u>${publication.Pubdate}</u></b></h3>
+<img src="{{site.baseurl}}/bookphotos/${publication.Author}/${imgArray}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
+<h4><b><i>${publication.Title}</i></b></h4>
+<p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
+<p><b>${publication.Publisher}, <span>Translation: ${publication.Translation}</span></b></p>
+<p>This is index ${imgArray}</p>
+<hr>
+</div>
+`;
+});
+
+htmlContent +=`</div>`;
+
+//originallly #data-container not .content
+ $('#data-container').append(htmlContent);
+
+} 
+        
+else {
+            console.error("Publications not found for author.");
+        }
+    }) 
+       .fail(function(){
+        console.error("Failed to load JSON data.");
+       }); 
+    }
+
+</script>
