@@ -4,12 +4,6 @@
       margin: 15px 30px;
 }
 
-#data-container {
-    color: green;
-}
-.content {
-    color: purple;
-}
 
     .button-container{
         background-color: #10316b;
@@ -57,7 +51,6 @@
 <div class="container">
     <!-- Search bar -->
     <div class="input-group mb-3">
-        <input id="search-box" type="text" class="form-control searchForm" placeholder="Search for an author">
         <input id="searchInput" type="text" class="form-control searchForm" placeholder="Search for an author">
     </div>
 
@@ -101,19 +94,6 @@
 </div>
 
 
-
-<style>
-    .button-container{
-        background-color: blueviolet;
-    }
-    #pagination{
-        background-color:aquamarine;
-        position: relative;
-        bottom: 0;
-        padding-top: 3px;
-    }
-</style>
-
 <!-- External javascript for the letter navigation and pagination for Authors-->
 <script src="{{site.baseurl}}/az.js"></script>
 
@@ -140,8 +120,7 @@ const dataLinks = [];
                     type: dataset.type,
                     data: data
                 });
-            });
-               setTimeout(() => showCategory(), 1000);
+            })
                // setTimeout(() => showCategory(), 1000);
             });
 

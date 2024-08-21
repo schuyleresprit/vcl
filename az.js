@@ -98,7 +98,7 @@ function updatePagination() {
 
 // Function to filter entries based on search term and display
 function searchEntries(searchTerm) {
-    const filteredEntries = allEntries.filter(entry => entry.Title.toLowerCase().includes(searchTerm));
+    const filteredEntries = allEntries.filter(entry => entry["Author Name"].toLowerCase().includes(searchTerm));
     currentPage = 1; // Reset to first page on new search
     allEntries = filteredEntries;
     displayEntries();
@@ -110,10 +110,11 @@ window.onload = () => {
 };
 
 // Add event listener for the search form
-document.querySelector('.searchForm').addEventListener('submit', (event) => {
+document.querySelector('#searchInput').addEventListener('input', (event) => {
     event.preventDefault(); // Prevent form submission from reloading the page
 
-    const input = document.querySelector('.searchInput').value.trim().toLowerCase();
+    //const input = document.querySelector('.searchInput').value.trim().toLowerCase();
+    const input = event.target.value.trim().toLowerCase();
 
     if (input) {
         searchEntries(input);
