@@ -274,10 +274,10 @@ authorPublications.forEach((publication, i) => {
 let imgArray = i + 1; 
 //console.log(`${key}${imgArray}`);        
 htmlContent += `
-<!-- For it to fully put in two coulmns i need to populate this into the div above -->
+<!-- For it to fully put in two columns i need to populate this into the div above -->
 
 <div style="margin-bottom:0; width:100%">
-<h3><b><u>${publication.Pubdate}</u></b></h3>
+<h3><b>${publication.Pubdate}</b></h3>
 <img src="{{site.baseurl}}/bookphotos/${publication.Author}/${key}${imgArray}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
 <h4><b><i>${publication.Title}</i></b></h4>
 <p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
