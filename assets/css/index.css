@@ -10,7 +10,6 @@ body {
 	padding:0;
 }
 
-
 /****Background****/
 .background{
 background: #e8edea/*url('../img/background-3.png')*/;
@@ -40,9 +39,15 @@ a{
 	background: #fff;
 	border-radius: 0px;
 	position: relative;
-	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	/* box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);*/
 	padding: 15px;
 }
+
+.card.col-4 {
+	width: 32%;
+	margin: 5px;
+  }
+
 
 .credit_section {
     border: 1px solid #fff;
