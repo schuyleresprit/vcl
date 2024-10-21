@@ -14,7 +14,7 @@ permalink: /acesaire_dloc/
     <div class="container-mt-5">
         <div class="row">
             <div class="col-md-6">
-                <p>LES DROITS FONDAMENTAUX DANS L'OEUVRE POETIQUE D'AIME CESAIRE. (27.03.2009). www.dloc.com. Retrieved from <a href="http://www.manioc.org/fichiers/HASH8c194718627a0bf3093c78" target="_blank">DLOC Resources</a></p><br>
+                <p>LES DROITS FONDAMENTAUX DANS L'OEUVRE POETIQUE D'AIME CESAIRE. (27.03.2009). www.dloc.com. Retrieved from <a href="http://manioc.org/fichiers/HASH8c194718627a0bf3093c78" target="_blank">DLOC Resources</a></p><br>
                 <iframe width="95%" height="315" src="http://www.manioc.org/fichiers/HASH8c194718627a0bf3093c78"></iframe>
                 <br>
                 <br>
@@ -114,8 +114,7 @@ permalink: /acesaire_dloc/
                 <iframe width="95%" height="315" src="https://www.dloc.com/AA00053606/01432/images"></iframe>
                 <br>
                 <br>
-        </div>
-          </body> 
+        </div> 
           </div>
   <!-- partial -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
