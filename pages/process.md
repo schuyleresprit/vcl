@@ -3,12 +3,11 @@ layout: pagedefault
 title: "Process"
 permalink: /process/
 ---
-<div class="wordcloud">
+<!-- <div class="wordcloud">
 <img src="{{ site.baseurl }}/assets/img/bannerprocess.png"></div>
 <div>
-</div>
-<br>
-<br>
+</div>-->
+
 
 
 __Where we Begin by Dr. Schuyler Esprit__

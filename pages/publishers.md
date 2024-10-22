@@ -3,12 +3,10 @@ layout: defaultpub
 title: "Publishers"
 permalink: /publishers/
 ---
-<div class="wordcloud">
+<!-- <div class="wordcloud">
 	<img src="{{ site.baseurl }}/assets/img/bannerpubs.png"></div>
 <div>
-</div>
-<br>
-<br>
+</div>-->
 
 The Publishers visualizations illustrates the breadth of Caribbean literature's reach and influence across the world, based on the information available in our dataset. As the map denotes, literary works about the region or by authors from the region are published primarily in North America and Europe but have relevance and great interest from publishers in most other continents. This can be explained by the power and value of translated works represented in the data set. 
 

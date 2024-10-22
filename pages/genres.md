@@ -3,12 +3,10 @@ layout: pagedefault
 title: "Genres"
 permalink: /genres/
 ---
-<div class="wordcloud">
+<!-- <div class="wordcloud">
 	<img src="{{ site.baseurl }}/assets/img/bannergenres.png"></div>
 <div>
-</div>
-<br>
-<br>
+</div>-->
 
 Browse the genres represented in the data set, which will lead you to the relevant genre lists and author bibliographies.
 

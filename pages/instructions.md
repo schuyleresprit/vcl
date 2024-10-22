@@ -4,12 +4,11 @@ title: "Instructions"
 permalink: /Instructions/
 ---
 
-<div class="wordcloud">
+<!-- <div class="wordcloud">
 <img src="{{ site.baseurl }}/assets/img/bannerinstruct.png"></div>
 <div>
-</div>
-<br>
-<br>
+</div>-->
+
 The project is a searchable resource that includes database searching, mapping and visualizations to render the data collected as part of the research process. The data gathered here is deep and wide but we assure you that it is not exhaustive. There may be some gaps and absences that are a result of the search parameters, scope of the project and the academic level of the students working on this project (mostly junior undergraduate students). We encourage you to contact if you have questions, suggestions or data you would like to contribute to the database.
 
 **Now let's explore...**
