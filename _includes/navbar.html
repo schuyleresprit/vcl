@@ -1,27 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+input#nav-search {
+    width: 90%;
+    margin-top: 3%;
+}
+</style>    
+</head>
+<body>
+
 <nav class="navbar-0  navbar-expand-lg navbar-dark bg-dark">
+    <div class="row">
+    <div class="col-sm-9">
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <a class="navbar-brand" href="{{ site.baseurl }}/">  {% include off_canvas_menu.html %}</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                     </button>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>
-                <li class="nav-item px-3"><a class="nav-link" href="{% link pages/instructions.md %}">Instructions</a></li>
-                <li class="nav-item px-3"><a class="nav-link" href="{% link pages/students.md %}">Student Projects</a></li>
-                <li class="nav-item dropdown px-3">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Putting it Together
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="{% link pages/process.md %}">Process</a>
-                        <a class="dropdown-item" href="{% link pages/assessment.md %}">Assessment</a>
-                        <a class="dropdown-item" href="{% link pages/reflections.md %}">Reflections</a>
-                    </ul>
-                </li>
-                <li class="nav-item px-3"><a class="nav-link" href="{% link pages/credits.md %}">Credits</a></li>
-                <li class="nav-item px-3"><a class="nav-link" href="{% link pages/contact.md %}">Contact Us</a></li>
-            </ul>
-        </div>
 
+
+
+           <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/authors/">Authors</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/countries/">Countries</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/publishers/">Publishers</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/languages/">Languages</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/genres/">Genres</a></li>
+            </ul>
+    </div>
+    </div>
+        <div class="col-sm-3">
+    
+        <form class="d-flex">
+            <input id="nav-search" list="search-results" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <!--  <button class="btn btn-outline-primary" type="submit">Search</button>-->
+      
+              <datalist id="search-results">
+              </datalist>
+        </form>
+    </div>
+    
+    <script src="https://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
+    
+    <script>
+    var dataStore = [];
+    
+    $( document ).ready(function() {
+        //Set triggers
+        $('#nav-search').on('input', function (event) {
+            searchAll(event.target.value);
+        })
+    
+        $.getJSON("{{ site.baseurl }}/data/global_data.json", function (data) {
+            dataStore = data;
+        });
+    });
+    
+    function searchAll (search = "") {
+        if (!search.length) {
+            $('#search-results').html('');
+            return;
+        }
+    
+        var resultLimit = 3;
+    
+        var typeCount = {};
+    
+        var results = [];
+    
+        for (i = 0; i < dataStore.length; i++) {
+            type = dataStore[i].type;
+    
+            if (type in typeCount && typeCount[type] < resultLimit && dataStore[i].flavorText.toLowerCase().includes(search.toLowerCase())) {
+                results.push({
+                    flavorText : dataStore[i].flavorText,
+                    link : ""
+                });
+    
+                typeCount[type]++;
+            } else {
+                if (dataStore[i].flavorText.toLowerCase().includes(search.toLowerCase())) {
+                    typeCount[type] = 1;
+    
+                    results.push({
+                        flavorText : dataStore[i].flavorText,
+                        link : ""
+                    });
+                }
+            }
+        }
+    
+        displaySuggestions(results);
+    }
+    
+    function displaySuggestions (searchResults = []) {
+        $('#search-results').html('');
+    
+        for (i = 0; i < searchResults.length; i++) {
+            $('#search-results').append(`
+            <option value="${searchResults[i].flavorText}" data-link="">
+            `);
+        }
+    }
+    
+    function openNav() {
+      document.getElementById("mySidenav").style.width = "250px";
+      document.getElementById("main").style.marginLeft = "250px";
+    }
+    
+    function closeNav() {
+      document.getElementById("mySidenav").style.width = "0";
+      document.getElementById("main").style.marginLeft= "0";
+    }
+    </script>
         </div>
-    </nav>
+        </div>
+    
+ </nav>
+
+</body>
+</html>

@@ -68,21 +68,37 @@ datalist option:hover {
 	background-color: #64b5f6;
 	color: white;
 }
+
+.dropdown-menu {
+    background-color: #999;
+}
+
 </style>
 </head>
 <body>
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="{{ site.baseurl }}/authors/">Authors</a>
-  <a href="{{ site.baseurl }}/countries/">Countries</a>
-  <a href="{{ site.baseurl }}/publishers/">Publishers</a>
-  <a href="{{ site.baseurl }}/languages/">Languages</a>
-  <a href="{{ site.baseurl }}/genres/">Genres</a>
 
-  <form class="d-flex">
+  <a href="{% link pages/instructions.md %}">Instructions</a>
+  <a href="{% link pages/students.md %}">Student Projects</a>
+
+  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+	Putting it Together
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+	<a class="dropdown-item" href="{% link pages/process.md %}">Process</a>
+	<a class="dropdown-item" href="{% link pages/assessment.md %}">Assessment</a>
+	<a class="dropdown-item" href="{% link pages/reflections.md %}">Reflections</a>
+</ul>
+
+  <a href="{% link pages/credits.md %}">Credits</a>
+  <a  href="{% link pages/contact.md %}">Contact Us</a>
+
+
+  <!--<form class="d-flex">
   	<input id="nav-search" list="search-results" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-		<!--  <button class="btn btn-outline-primary" type="submit">Search</button>-->
+		 <button class="btn btn-outline-primary" type="submit">Search</button>-->
 
 		<datalist id="search-results">
 		</datalist>

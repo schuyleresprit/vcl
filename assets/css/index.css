@@ -19,9 +19,6 @@ background: #e8edea/*url('../img/background-3.png')*/;
 	background:rgba(255,255,255, 0.3);
 }
 
-.row {
-    margin-bottom: -26px;
-}
 /*********/
 h2 {
 	font-size: 3rem;
