@@ -1,27 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+    .mellon_logo, .cdsc_logo {
+        width: 32%;
+        display: inline-block;
+        padding: 6px;
+    }
+    
+    .create_logo {
+        width: 23%;
+        display: inline-block;
+        padding: 6px;
+    }
+    
+    .fa {
+    padding: 20px;
+    font-size: 15px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background: #999;
+    color: #fff;
+}
+    
+.fa:hover {
+    opacity: 0.7;
+}
+
+p.copyright {
+    margin-top: 10px;
+}
+
+.col-sm-6 img {
+    width: 85%;
+}
+     </style>
+</head>
+<body>
+<footer class="footer">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-sm-3">
+            <a href="https://www.facebook.com/createcaribbean/" target="_blank" class="fa fa-facebook"></a>
+            <a href="https://x.com/CreateCaribbean?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank" class="fa fa-twitter"></a>
+            <a href="https://www.linkedin.com/company/create-caribbean" target="_blank" class="fa fa-linkedin"></a>
+            <a href="https://www.instagram.com/createcaribbean/" target="_blank" class="fa fa-instagram"></a>
+            <p class="copyright">
+                Copyright © {{ site.time | date: '%Y' }} -
+                <a href="https://createcaribbean.org/create/" target="_blank">Create Caribbean Inc</a>
+              </p>
+</body>
+        </div>  
+        
+        <div class="col-sm-6">
+            <div class="create_logo">
+                <a href="https://createcaribbean.org/create/" target="_blank">
+                <img src="{{ site.baseurl }}/assets/img/CreateLogoNEW.png"/>
+                </a>
+            </div>
+
+            <div class="mellon_logo">
+                <a href="https://www.mellon.org/" target="_blank">
+                <img src="{{ site.baseurl }}/assets/img/logo-mellon.png"/>
+                </a>
+            </div>
+
+            <div class="cdsc_logo">
+                <a href="https://cdscollective.org/" target="_blank">
+                <img src="{{ site.baseurl }}/assets/img/CDSC-logo-color-s.png"/>
+                </a>
+            </div>
+        </div> 
+
+        <div class="col-sm-3">
+            <p>
+                This project is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode"> Creative Commons Attribution 4.0 International (CC by 4.0)</a> license.
+            </p>
+        </div> 
+
+      </div>  
+            
+      
+    </div>
+  </footer> 
+</body> 
+  </html> 
+
+
+<!----
 <footer class="mt-5">
   <div class="footer">
     <div class="row">
-        <div class="col-sm-3">
+
+      <div class="col-sm-4">
+        <p>Area</p>
+      </div>
+
+        <div class="col-sm-4">
+          <div class="logos">
           <div class="create_logo">
             <img src="{{ site.baseurl }}/assets/img/CreateLogoNEW.png" width="300px"/>
             </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="mellon_logo">
-            <img src="{{ site.baseurl }}/assets/img/logo-mellon.png"/>
-            </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="cdsc_logo">
-            <img src="{{ site.baseurl }}/assets/img/CDSC-logo-color-s.png" padding-top="10px"/>
-            </div>
-        </div>
-        <div class="col-sm-3">
-        
-    <p>
-        Visualizing Caribbean Literature is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode"> Creative Commons Attribution 4.0 International (CC by 4.0)</a> license.
-    </p>
 
+            <div class="mellon_logo">
+              <img src="{{ site.baseurl }}/assets/img/logo-mellon.png"/>
+              </div>
+
+              <div class="cdsc_logo">
+                <img src="{{ site.baseurl }}/assets/img/CDSC-logo-color-s.png" padding-top="10px"/>
+                </div>
+          </div>
+          </div>
+
+    <div class="col-sm-4">
+      <p> Visualizing Caribbean Literature is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode"> Creative Commons Attribution 4.0 International (CC by 4.0)</a> license.</p>
     </div>
     </div>
 </footer>
+-->
