@@ -4,6 +4,12 @@
       margin: 15px 30px;
 }
 
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+}
+
 
     .button-container{
         text-align: center;
@@ -184,7 +190,7 @@ const dataLinks = [];
         //originallly #data-container not .content
         $('.content').append(`
         <div class="card col-4">
-        <div class="card-body">
+        <div class="card-body">  
         <h5 class="card-title">${data.flavorText}</h5>
         <h6 class="card-subtitle">${data.subtitle}</h6>
         <a href="#" class="card-link" data-authorid="${data.link}">More</a>
