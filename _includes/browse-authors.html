@@ -221,8 +221,11 @@ let htmlContent =`
 <div class="col" style="position:relative;">
 
 <!-- Creates a container so that the author's profile photo side can scroll independtly of the book details -->
+
 <div height="700px" width="500px" style="position: sticky; top:63px;">
-<img height="400px" width="400px" src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" style="display: block; margin-left: auto; margin-right:auto; width: 50%l border-radius: 50%" />
+<div class="authorimg">
+<img src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" />
+</div>    
 <br>
 <h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
 <h4>${authorBio.Lifespan}</h4>
