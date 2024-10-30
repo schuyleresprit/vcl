@@ -4,12 +4,31 @@
       margin: 15px 30px;
 }
 
-img {
+.authorimg img {
+    border-radius: 50%;
     width: 300px;
-    height: 300px;
-    object-fit: contain;
+      height: 300px;
+
 }
 
+.authorbiodata {
+    text-align: center;
+    background: rgba(255, 188, 87, 0.3);
+    padding: 19px 0;
+}
+
+.authorbiodata h3 {
+    font-weight: 600;
+}
+
+.authordetails h6 {
+    line-height: 33px;
+}
+
+.authordetails h3, h4 {
+    font-size: larger;
+    font-weight: 700;
+}
 
     .button-container{
         text-align: center;
@@ -221,18 +240,24 @@ let htmlContent =`
 <div class="col" style="position:relative;">
 
 <!-- Creates a container so that the author's profile photo side can scroll independtly of the book details -->
-
+<div class="authorbiodata">
 <div height="700px" width="500px" style="position: sticky; top:63px;">
+<h3>${authorBio.Author} </h3>
 <div class="authorimg">
 <img src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" />
-</div>    
+</div>   
 <br>
-<h3>${authorBio.Author} is from ${authorBio.Country}.</h3>
-<h4>${authorBio.Lifespan}</h4>
-<p><b><a href="${authorBio.Wikimedia}">Learn More About the Author</a></b></p>
-<p><b><a href="{{site.baseurl}}/${authorBio.authorid}_dloc/"">DLOC Resources</a></b></p>
+<div class="authordetails">
+<h6> <b>Country of Birth: </b> ${authorBio.Country} <br>
+    <b>Lifespan:</b> ${authorBio.Lifespan} <br>
+    <b> Biography: </b> <a href="${authorBio.Wikimedia}">Learn More About the Author</a> <br>
+    <b> DLOC Resources: </b><a href="{{site.baseurl}}/${authorBio.authorid}_dloc/"> Author Resources</a>
+    </h6>
 </div>
 </div>
+</div>
+</div>
+
 `;
 console.log('ShowAuthorBio working here!');
 $('.content').html(htmlContent)
