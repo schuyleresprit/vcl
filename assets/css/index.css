@@ -155,6 +155,12 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
     display: none;
 }
 
+.pagetitle {
+    text-align: center;
+    font-size: 50px;
+    padding: 10px 0 35px 0;
+}
+
 
 .col-sm-2 {
 	/*height:100%;
