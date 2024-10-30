@@ -1,5 +1,5 @@
 ---
-layout: pagedefault
+layout: homedefault
 permalink: /
 ---
 
