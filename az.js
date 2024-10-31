@@ -99,9 +99,13 @@ function updatePagination() {
 // Function to filter entries based on search term and display
 function searchEntries(searchTerm) {
     const filteredEntries = allEntries.filter(entry => entry["Author Name"].toLowerCase().includes(searchTerm));
+    
+    filteredEntries.forEach( entry => { 
+
     currentPage = 1; // Reset to first page on new search
     allEntries = filteredEntries;
     displayEntries();
+});
 }
 
 // Load initial data when the page loads
@@ -114,7 +118,7 @@ document.querySelector('#searchInput').addEventListener('input', (event) => {
     event.preventDefault(); // Prevent form submission from reloading the page
 
     //const input = document.querySelector('.searchInput').value.trim().toLowerCase();
-    const input = event.target.value.trim().toLowerCase();
+    const input = event.target.value.toLowerCase();
 
     if (input) {
         searchEntries(input);
