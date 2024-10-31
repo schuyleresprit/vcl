@@ -1,9 +1,9 @@
 ---
 layout: pagedefault
-title: "Reflections"
+title: "Project Reflections"
 permalink: /reflections/
 ---
-<div class="page_title"><h3>Project Reflections</h3></div>
+
 Reflections by Interns on the Visualizing Caribbean Literature Project.
 
 <div class="internreflection">
