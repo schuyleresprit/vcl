@@ -97,6 +97,14 @@
     font-size: large;
 }
 
+.publication_genre a {
+    font-size: 15px;
+}
+
+.publication_publisher {
+    font-size: 15px;
+}
+
 </style>
 
 
@@ -352,7 +360,7 @@ htmlContent += `
 <p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
 </div>
 <div class="publication_publisher">
-<p><b>${publication.Publisher}, <span>Translation: ${publication.Translation}</span></b></p>
+<p><b>${publication.Publisher},<br> <span>Translation: ${publication.Translation}</span></b></p>
 </div>
 <!--<p>This is: ${key}${imgArray}</p>-->
 </div><br>
