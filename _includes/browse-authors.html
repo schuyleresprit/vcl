@@ -70,6 +70,27 @@
         margin: 0px 3px;
         font-size: 14px;
        }
+
+.bookphoto {
+    width: 56%;
+}   
+
+.book_details {
+    width: 49%;
+}
+
+.book_details, .bookphoto {
+    display: inline;
+}
+
+.publication_date {
+    text-align: center;
+}
+
+.publication_date h3 {
+    font-size: larger;
+}
+
 </style>
 
 
@@ -311,12 +332,24 @@ htmlContent += `
 <!-- For it to fully put in two columns i need to populate this into the div above -->
 
 <div style="margin-bottom:0; width:100%">
-<h3><b>${publication.Pubdate}</b></h3>
+<div class="publication_date">    
+<h3><b> Publication Date: ${publication.Pubdate}</b></h3>
+</div>
+<div class="bookphoto">  
 <img src="{{site.baseurl}}/bookphotos/${publication.Author}/${key}${imgArray}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
-<h4><b><i>${publication.Title}</i></b></h4>
+</div>
+<div class="book_details">
+<div class="publication_title">
+<h5><b><i>${publication.Title}</i></b></h5>
+</div>
+<div class="publication_genre">
 <p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
+</div>
+<div class="publication_publisher">
 <p><b>${publication.Publisher}, <span>Translation: ${publication.Translation}</span></b></p>
+</div>
 <!--<p>This is: ${key}${imgArray}</p>-->
+
 <hr>
 </div>
 `;
