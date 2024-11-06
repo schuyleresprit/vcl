@@ -70,11 +70,13 @@
 							<div class="card col-4">
 								<div class="card-body">
 									<h5 class="card-title">${element.data[i].flavorText}</h5>
-									<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
+									<!-- <a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a> -->
+									<a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a> 
 								</div>
 							</div>
 						`);
 					}
+			
 				} else {
 					for (i = 0; i < element.data.length; i++) {
 						if (element.data[i].flavorText.toLowerCase().includes(filter.toLowerCase()))
@@ -86,10 +88,12 @@
 									</div>
 								</div>
 							`);
+							
 					}
-				}
+					}
 			});
 		}
+
 	</script>
 </body>
 </html>

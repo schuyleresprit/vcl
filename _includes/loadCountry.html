@@ -1,0 +1,26 @@
+<div class="container-0 row justify-content-center">
+<div class="container-title col" style="position: relative;">
+{% for country in site.data.country %}
+{% if page.title == country["Country"] %}
+    <div class="worldAtlasMap" style="position: sticky; top: 70px;">
+    <span class="country"><h2>{{country["Country"]}}</h2></span>
+  <div class="photo-co">
+  <img src="{{site.baseurl}}/worldAtlasMap/{{country['Country']}}.webp" >
+  </div>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+<div class="container col">
+{% for authorData in site.data.bios %}
+{% if page.title == authorData[1]['Country']%}
+<div>
+  <img src="{{site.baseurl}}/authorphotos/{{authorData[0]}}.jpg" />
+  <a href="{{site.baseurl}}/{{authorData[0]}}"><h4>{{authorData[1]['Author']}}</h4></a>
+  <h5>Lifespan: {{authorData[1]['Lifespan']}}</h5>
+</div>
+<br >
+{% endif %}
+{% endfor %}
+</div>
+</div>

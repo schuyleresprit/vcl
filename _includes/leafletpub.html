@@ -43,14 +43,14 @@
                   L.geoJson(data, {
                     onEachFeature: function(feature, layer) {
                       var popupContent = `
-                      <img width:100px; height:100px; src="${feature.properties.Cover_Photo_URL}"/>
+                      <img width:100px; height:100px; src="{{site.baseurl}}/bookphotos/${feature.properties.Author}/${feature.properties.bookImgId}.jpg"/>
                       <p>${feature.properties.Author}</p>
-                      <p>${feature.properties.Title__Item_}</p>
+                      <p>${feature.properties.Title}</p>
                       <a href="{{site.baseurl}}/${feature.properties.Genre}/"><p>${feature.properties.Genre}</p></a>
-                      <p>${feature.properties.Date}</p>
+                      <p>${feature.properties.Publication_Year}</p>
                       <a href="{{site.baseurl}}/${feature.properties.Language_1}/"><p>${feature.properties.Language_1}</p></a>
                       <p>${feature.properties.Publisher}</p>
-                      <p>${feature.properties.Pub_Location}</p>
+                      <p>${feature.properties.Place}</p>
                         
                         `;
                         /* for (var key in feature.properties) {

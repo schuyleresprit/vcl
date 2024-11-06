@@ -1,10 +1,19 @@
 ---
 layout: defaultau
 title: "Andrew Salkey"
-permalink: /asalkey/
+permalink: /asalkey1/
 ---
-<!-- partial:index.partial.html -->
+<script src="{{site.baseurl}}/loadAuthor.js"></script>
+
 <div class="content">
+hello
+<p> Hello {{ page.title }}</p>
+<p><a href="{{site.baseurl}}/authors/#" onclick='showAuthorBio("alowe")'>LoadAuthor</a></p>
+
+</div>
+<!-- partial:index.partial.html -->
+
+<!-- <div class="content">
     <h1>Andrew Salkey</h1>
     <div class="quote">
         <div><img src="https://ichef.bbci.co.uk/images/ic/1200x675/p09mtk9t.jpg" class="logo"></div>
@@ -254,4 +263,8 @@ permalink: /asalkey/
         </div>
         </div>
   <!-- partial -->
+
+<!-- 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script><script  src="{{ site.baseurl }}/assets/js/authorscript.js"></script>
+
+   -->
