@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "Brenda Alexander-Perez"
-authorId: baperez
-permalink: /baperez/
+title: "Antonio Benítez-Rojo"
+authorId: abenitezrojo
+permalink: /abenitezrojo/
 ---
+
 {% include loadAuthor.html %}
 <script>
     $(document).ready(function(){
         showAuthorBio('{{ page.authorId }}');
    });
 </script>
-

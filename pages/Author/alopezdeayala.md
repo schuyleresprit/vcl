@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "Brenda Alexander-Perez"
-authorId: baperez
-permalink: /baperez/
+title: "Adelardo López de Ayala"
+authorId: alopezdeayala
+permalink: /alopezdeayala/
 ---
+
 {% include loadAuthor.html %}
 <script>
     $(document).ready(function(){
         showAuthorBio('{{ page.authorId }}');
    });
 </script>
-
