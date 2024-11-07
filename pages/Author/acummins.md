@@ -1,13 +1,13 @@
 ---
 layout: defaultau
-title: "Brenda Alexander-Perez"
-authorId: baperez
-permalink: /baperez/
+title: "Alvin Cummins"
+authorId: acumins
+permalink: /acummins/
 ---
+
 {% include loadAuthor.html %}
 <script>
     $(document).ready(function(){
         showAuthorBio('{{ page.authorId }}');
    });
 </script>
-

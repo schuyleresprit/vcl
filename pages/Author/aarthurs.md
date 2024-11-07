@@ -1,8 +1,7 @@
 ---
-layout: defaultau
-title: "Brenda Alexander-Perez"
-authorId: baperez
-permalink: /baperez/
+layout: defaultautest
+title: "Alexia Arthurs"
+permalink: /aarthurs/
 ---
 {% include loadAuthor.html %}
 <script>
@@ -10,4 +9,3 @@ permalink: /baperez/
         showAuthorBio('{{ page.authorId }}');
    });
 </script>
-
