@@ -1,5 +1,5 @@
 ---
-layout: defaultautest
+layout: defaultau
 title: "Alexia Arthurs"
 permalink: /aarthurs/
 ---
