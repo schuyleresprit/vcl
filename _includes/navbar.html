@@ -13,13 +13,7 @@ input#nav-search {
 <body>
 
 <nav class="navbar-0  navbar-expand-lg navbar-dark bg-dark">
-    <div class="row">
-    <div class="col-sm-9">
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <a class="navbar-brand" href="{{ site.baseurl }}/">  {% include off_canvas_menu.html %}</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-                    </button>
+     <!--- <div class="collapse navbar-collapse" id="navbarSupportedContent">-->
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
 
@@ -30,20 +24,31 @@ input#nav-search {
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/countries/">Countries</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/publishers/">Publishers</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/languages/">Languages</a></li>
-                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/genres/">Genres</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/students/">Student Projects</a></li>
+                <li class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Putting it Together
+                </li>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="{% link pages/process.md %}">Process</a>
+                    <a class="dropdown-item" href="{% link pages/assessment.md %}">Assessment</a>
+                    <a class="dropdown-item" href="{% link pages/reflections.md %}">Reflections</a>
+                </ul>
+                
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/credits/">Credits</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/contact/">Contact Us</a></li>
             </ul>
-    </div>
-    </div>
-        <div class="col-sm-3">
+     <!--  </div>
+
+      <div class="col-sm-3">
     
         <form class="d-flex">
             <input id="nav-search" list="search-results" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <!--  <button class="btn btn-outline-primary" type="submit">Search</button>-->
+              ** <button class="btn btn-outline-primary" type="submit">Search</button> **
       
               <datalist id="search-results">
               </datalist>
         </form>
-    </div>
+    </div> -->
     
     <script src="https://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
     
