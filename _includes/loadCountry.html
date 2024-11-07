@@ -1,3 +1,28 @@
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.country_authorinfo h4 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.country_authorinfo h5 {
+    font-size: large;
+}
+
+.country_authorcard img {
+    width: 120px !important;
+}
+
+</style>    
+</head>
+<body>
+
+
+
 <div class="container-0 row justify-content-center">
 <div class="container-title col" style="position: relative;">
 {% for country in site.data.country %}
@@ -19,19 +44,25 @@
   <div class="country_authorcard">
 
   <div class="row">
-    <div class="col-sm-6">
+    <div class="col-sm-3">
       <img src="{{site.baseurl}}/authorphotos/{{authorData[0]}}.jpg" />
     </div>
-    <div class="col-sm-6">
+    
+    <div class="col-sm-9">
+      <div class="country_authorinfo">
      <a href="{{site.baseurl}}/{{authorData[0]}}"><h4>{{authorData[1]['Author']}}</h4></a>
      <h5>Lifespan: {{authorData[1]['Lifespan']}}</h5>
+     </div>
     </div> 
   </div>
-
+<hr>
   </div>
 </div>
-<br >
+
 {% endif %}
 {% endfor %}
 </div>
 </div>
+
+</body>
+</html>
