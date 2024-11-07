@@ -15,9 +15,20 @@
 {% for authorData in site.data.bios %}
 {% if page.title == authorData[1]['Country']%}
 <div>
-  <img src="{{site.baseurl}}/authorphotos/{{authorData[0]}}.jpg" />
-  <a href="{{site.baseurl}}/{{authorData[0]}}"><h4>{{authorData[1]['Author']}}</h4></a>
-  <h5>Lifespan: {{authorData[1]['Lifespan']}}</h5>
+
+  <div class="country_authorcard">
+
+  <div class="row">
+    <div class="col-sm-6">
+      <img src="{{site.baseurl}}/authorphotos/{{authorData[0]}}.jpg" />
+    </div>
+    <div class="col-sm-6">
+     <a href="{{site.baseurl}}/{{authorData[0]}}"><h4>{{authorData[1]['Author']}}</h4></a>
+     <h5>Lifespan: {{authorData[1]['Lifespan']}}</h5>
+    </div> 
+  </div>
+
+  </div>
 </div>
 <br >
 {% endif %}
