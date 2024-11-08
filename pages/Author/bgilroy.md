@@ -1,10 +1,9 @@
 ---
 layout: defaultau
-title: "Antonio Benítez-Rojo"
-authorId: abenitezrogo
-permalink: /abenitezrogo/
+title: "Beryl Gilroy"
+authorId: bgilroy
+permalink: /bgilroy/
 ---
-
 {% include loadAuthor.html %}
 <script>
     $(document).ready(function(){

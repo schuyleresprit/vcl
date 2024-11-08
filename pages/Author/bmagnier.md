@@ -1,10 +1,9 @@
 ---
 layout: defaultau
-title: "Antonio Benítez-Rojo"
-authorId: abenitezrogo
-permalink: /abenitezrogo/
+title: "Bernard Magnier"
+authorId: bmagnier
+permalink: /bmagnier/
 ---
-
 {% include loadAuthor.html %}
 <script>
     $(document).ready(function(){

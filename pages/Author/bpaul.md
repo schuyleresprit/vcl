@@ -1,10 +1,9 @@
 ---
 layout: defaultau
-title: "Andrea Levy"
-authorId: alevy
-permalink: /alevy/
+title: "Baptiste Paul"
+authorId: bpaul
+permalink: /bpaul/
 ---
-
 {% include loadAuthor.html %}
 <script>
     $(document).ready(function(){

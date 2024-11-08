@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: " Arlette Minatchy-Bogat"
-authorId: aminatchyboat
+authorId: aminatchybogat
 permalink: /aminatchybogat/
 ---
 {% include loadAuthor.html %}

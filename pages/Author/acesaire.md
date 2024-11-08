@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Aimé Césaire"
-authorId: acesaire
+authorId: acésaire
 permalink: /acesaire/
 ---
 {% include loadAuthor.html %}

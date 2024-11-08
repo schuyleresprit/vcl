@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Alvin Cummins"
-authorId: acumins
+authorId: acummins
 permalink: /acummins/
 ---
 
