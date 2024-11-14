@@ -2,7 +2,7 @@
 layout: defaultau
 title: "Antonio Benítez-Rojo"
 authorId: abenitezrogo
-permalink: /abenitezrogo/
+permalink: /abenitezrojo/
 ---
 
 {% include loadAuthor.html %}
