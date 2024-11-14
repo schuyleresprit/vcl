@@ -2,7 +2,7 @@
 layout: defaultau
 title: "Aimé Césaire"
 authorId: acésaire
-permalink: /acesaire/
+permalink: /acésaire/
 ---
 {% include loadAuthor.html %}
 <script>

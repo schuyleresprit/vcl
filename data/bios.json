@@ -1199,17 +1199,17 @@
         "Wikimedia": "https://nl.wikipedia.org/wiki/Frits_Wols",
         "dloc": ""
     },
-    "gdayton": {
-        "authorid": "gdayton",
+    "gdrayton": {
+        "authorid": "gdrayton",
         "Author": "Geoffrey Drayton",
         "Country": "Barbados",
         "Lifespan": "Unknown",
         "Wikimedia": "",
         "dloc": ""
     },
-    "gphilip": {
-        "authorid": "gphilip",
-        "Author": "Geoffrey Philip",
+    "gphilp": {
+        "authorid": "gphilp",
+        "Author": "Geoffrey Philp",
         "Country": "Jamaica",
         "Lifespan": "Unknown",
         "Wikimedia": "",
