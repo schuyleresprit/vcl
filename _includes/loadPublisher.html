@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+
+</style>    
+</head>
+<body>
+
+<div id="publisherData">
+    {% for publication in site.data.publications %}
+     {% for data in publication %}
+     {% if include.content == 'Ian Randle Publishers' %}
+     <p>{{data[1]['Publisher']}}</p>
+     <p>{{data[1]['Title']}}</p>
+     <p>{{data[1]['Author']}}</p>
+     {% endif %}
+     {% endfor %}
+    {% endfor %}
+</div>
+
+</body>
+</html>

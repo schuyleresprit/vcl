@@ -4,6 +4,33 @@
       margin: 15px 30px;
 }
 
+
+.card.col-4 {
+    background-color: transparent;
+    border: none;
+}
+
+
+#authorImgCard {
+    width: 105% !important;
+    height: 220px !important;
+    border-radius: 10%;
+    object-fit: cover;
+}
+
+.card-title {
+    color: #216B4D;
+    font-size: 110%;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.card-link {
+    font-size: medium;
+    text-align: center;
+}
+
 .authorimg img {
     border-radius: 50%;
     width: 300px;
@@ -55,7 +82,7 @@
         color: rgba(181, 181, 181, .55);
        } 
 
-       button:active{
+       [data-letter]:active{
         color: green;
        }
 
@@ -73,6 +100,7 @@
 
 .bookphoto {
     width: 49%;
+    height: 49%;
     float: left;
 }   
 
@@ -83,6 +111,7 @@
 .book_details, .bookphoto {
     display: inline;
 }
+
 
 .publication_date {
     text-align: center;
@@ -245,10 +274,11 @@ const dataLinks = [];
         $('.content').append(`
         <div class="card col-4">
         <div class="card-body">  
-        <h5 class="card-title">${data.flavorText}</h5>
-        <h6 class="card-subtitle">${data.subtitle}</h6>
-       <!--<a href="{{site.baseurl}}/${data.link}/">NEW !</a>-->
-        <a href="#" class="card-link" data-authorid="${data.link}">More</a>
+       <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->
+       <h6 class="card-title">${data.flavorText}</h6>
+        <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/${data.link}.jpg" />
+       <a href="{{site.baseurl}}/${data.link}/">More Info</a>
+        <!-- <a href="#" class="card-link" data-authorid="${data.link}">More</a> -->
          </div>
     </div>
         `);
@@ -284,7 +314,7 @@ let htmlContent =`
 </div>   
 <br>
 <div class="authordetails">
-<h6> <b>Country of Birth: </b> ${authorBio.Country} <br>
+<h6> <a href="{{ site.baseurl }}/pages/Countries/${authorBio.Country}.md"><b>Country of Birth: </b>${authorBio.Country}</a> <br>
     <b>Lifespan:</b> ${authorBio.Lifespan} <br>
     <b> Biography: </b> <a href="${authorBio.Wikimedia}">Learn More About the Author</a> <br>
     <b> DLOC Resources: </b><a href="{{site.baseurl}}/${authorBio.authorid}_dloc/"> Author Resources</a>

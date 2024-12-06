@@ -2,7 +2,7 @@
 layout: defaultau
 title: "Anais Segalas"
 authorId: asegalas
-permalink: /asegalas/
+permalink: /aségalas/
 ---
 {% include loadAuthor.html %}
 <script>

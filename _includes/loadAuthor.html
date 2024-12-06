@@ -78,6 +78,7 @@
     
     .book_details {
         width: 49%;
+        height: 300px;
     }
     
     .book_details, .bookphoto {
@@ -166,10 +167,12 @@ const dataLinks = [];
 //Function that dynamically populates with the author's bio
 function showAuthorBio(authorId) {
        const url = "{{ site.baseurl }}/data/bios.json";
-       $.getJSON(url,function(data) {
-        const authorBio = data[authorId];
+    
+   $.getJSON(url,function(data) {
+        authorBio = data[authorId];
+        console.log(`look at me its me authorBio: ${authorId} here!`); 
 if(authorBio){
-console.log(`look at me its me authorBio: ${authorBio.authorid} here!`);
+console.log(`surprise its me authorBio: ${[authorId]} here!`);
 let htmlContent =`
 <!--This create the first column div-->
 
@@ -184,7 +187,7 @@ let htmlContent =`
 </div>   
 <br>
 <div class="authordetails">
-<h6> <b>Country of Birth: </b> <a href="{{site.baseurl}}/${authorBio.Country}.html">${authorBio.Country}</a></h6> <br>
+<h6> <b>Country of Birth: </b> <a href="{{site.baseurl}}/${authorBio.mapId}/">${authorBio.Country}</a></h6> <br>
     <b>Lifespan:</b> ${authorBio.Lifespan} <br>
     <b> Biography: </b> <a href="${authorBio.Wikimedia}">Learn More About the Author</a> <br>
     <b> DLOC Resources: </b><a href="{{site.baseurl}}/${authorBio.authorid}_dloc/"> Author Resources</a>
@@ -199,10 +202,12 @@ console.log('ShowAuthorBio working here!');
 $('.content').html(htmlContent)
 showAuthorDetails(authorId);
      }
-         else {
+     else {
     console.error("Author not found in the data.");
       }
+        
 })
+
           .fail(function(){
             console.error("Failed to load JSON data.");
                      });

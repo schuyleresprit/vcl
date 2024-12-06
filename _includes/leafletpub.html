@@ -18,12 +18,95 @@
   			max-width: 100%;
   			max-height: 100%;
   		}
+      .publisherTitle{
+        color: #216B4D;
+    font-size: 110%;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+      }
+/*
+      .leaflet-popup-content-wrapper {
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+      }   
+    
+      .publicationContainer{
+        position: relative;
+        display: inline;
+        left: 0;
+        height: 200px;
+        width: 300;
+       padding: 10px 0;
+      }
+
+
+
+.row.justify-content-center{
+max-height: 200px;
+display: flex;
+flex-direction: row;
+white-space: nowrap;
+overflow-x: scroll;
+
+}
+
+
+.leaflet-popup-content-wrapper{
+max-height: 200px;
+display: flex;
+flex-direction: row;
+white-space: nowrap;
+overflow-x: scroll;
+
+}
+*/
+
+.d-flex 
+{
+max-height: 200px;
+margin-right: 10px;
+overflow-x: scroll;
+}
+.publicationContainer {
+
+  min-width: 300px;
+  height: 200px;
+}
+
+.publicationImage{
+        height: 200px;
+        width: 150px;
+        float: left;
+      }
+
+.publicationData{
+  display: inline;
+  height: 200px;
+  width: 150px;
+      }
+   
+
+  /*    .row.justify-content-center{
+        display: flex;
+        white-space: nowrap;
+      }
+      
+
+    
+    .horizontalScrollMenu{
+      overflow: auto;
+    white-space: nowrap;
+    }
+    */
   	</style>
 </head>
     <body>
-        <div id="map" "height: 200px">
+        <div id="map" height="800px">
             <script>
-                var map = L.map('map').setView([15.413, -61.35], 4);
+            var publisher = '';
+              var map = L.map('map').setView([15.413, -61.35], 4);
             
                 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                   maxZoom: 19,
@@ -38,32 +121,64 @@
                   opacity: 1,
                   fillOpacity: 0.8
                 };
-            
-                $.getJSON("{{ site.baseurl }}/data/publocation.geojson", function(data) {
-                  L.geoJson(data, {
-                    onEachFeature: function(feature, layer) {
-                      var popupContent = `
-                      <img width:100px; height:100px; src="{{site.baseurl}}/bookphotos/${feature.properties.Author}/${feature.properties.bookImgId}.jpg"/>
-                      <p>${feature.properties.Author}</p>
-                      <p>${feature.properties.Title}</p>
-                      <a href="{{site.baseurl}}/${feature.properties.Genre}/"><p>${feature.properties.Genre}</p></a>
-                      <p>${feature.properties.Publication_Year}</p>
-                      <a href="{{site.baseurl}}/${feature.properties.Language_1}/"><p>${feature.properties.Language_1}</p></a>
-                      <p>${feature.properties.Publisher}</p>
-                      <p>${feature.properties.Place}</p>
-                        
-                        `;
-                        /* for (var key in feature.properties) {
-                        popupContent += "<li>" + key + ": <a href='#" + feature.properties[key] + "'>" + feature.properties[key] + "</a></li>";
-                      }
-                      popupContent += "</ul>"; */
-                      layer.bindPopup(popupContent);
-                    },
-                    pointToLayer: function(feature, latlng) {
-                      return L.circleMarker(latlng, geojsonMarkerOptions);
-                    }
-                  }).addTo(map);
-                });
+              
+               
+
+
+                $.getJSON("{{ site.baseurl }}/data/masterPublocation.geojson", function (data) {
+  // Iterate through all features
+  L.geoJson(data, {
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, geojsonMarkerOptions);
+    },
+    onEachFeature: function (feature, layer) {
+      const lat = feature.geometry.coordinates[1];
+      const lng = feature.geometry.coordinates[0];
+      const publisher = feature.properties.Publisher;
+
+      // Find all features with the same publisher and coordinates
+      const matchingBooks = data.features.filter(function (f) {
+        const fLat = f.geometry.coordinates[1];
+        const fLng = f.geometry.coordinates[0];
+        return (
+          fLat === lat &&
+          fLng === lng &&
+          f.properties.Publisher === publisher
+        );
+      });
+
+      // Build a combined popup for matching books
+      let popupContent = `<h5 class="publisherTitle">${publisher}</h5>`;
+      popupContent += `
+      <div class="d-flex">`;
+
+      matchingBooks.forEach(function (book) {
+        popupContent += `
+          <div class="publicationContainer">
+            <div id="publicationImageContainer">
+            <img class="publicationImage" src="{{site.baseurl}}/bookphotos/${book.properties.Author}/${book.properties.bookImgId}.jpg" />
+            </div>
+            <div class="publicationData">
+              <p>${book.properties.Title}</p>
+              <p>${book.properties.Author}</p>
+              <a href="{{site.baseurl}}/${book.properties.Genre}/"><p>${book.properties.Genre}</p></a>
+              <p>${book.properties.Pubdate}</p>
+              <a href="{{site.baseurl}}/${book.properties.Language}/"><p>${book.properties.Language}</p></a>
+            </div>
+          </div>
+          
+        `;
+      });
+
+      popupContent += `
+      </div>`;
+
+      // Bind the popup to the layer
+      layer.bindPopup(popupContent);
+    },
+  }).addTo(map);
+});
+
               </script>
         </div>
     </body>
