@@ -4,30 +4,31 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
-ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
-    float: right;
-    padding: 10px 0;
+.topnavbar nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark{
+    padding-top: 10px;
 }
 
 li.nav-item.px-3 {
     padding: 0px 18px !important;
 }
+
+.bottomnavbar {
+    margin-top: 5%;
+}
+
 </style>    
 </head>
 <body>
 
-<nav class="navbar-0  navbar-expand-lg navbar-dark bg-dark">
-     <!--- <div class="collapse navbar-collapse" id="navbarSupportedContent">-->
+<div class="topnavbar">
+    <nav class="navbar-0  navbar-expand-lg navbar-dark bg-dark">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-
-
-
-           <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>
+          <!-- <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>-->
            <li class="nav-item px-3"><a class="nav-link" href="{% link pages/instructions.md %}">Instructions</a></li>
-           <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/authors/">Authors</a></li>
+          <!--- <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/authors/">Authors</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/countries/">Countries</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/publishers/">Publishers</a></li>
-                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/languages/">Languages</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/languages/">Languages</a></li>-->
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/students/">Student Projects</a></li>
                 <li class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Putting it Together
@@ -41,6 +42,23 @@ li.nav-item.px-3 {
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/credits/">Credits</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/contact/">Contact Us</a></li>
             </ul>
+    </nav>        
+</div>
+     
+    
+<div class="bottomnavbar"></div>
+    <nav class=" navbar-0  navbar-expand-lg navbar-dark bg-dark"></nav>   
+            <ul class= "navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/authors/">Authors</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/countries/">Countries</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/genres/">Genres</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/publishers/">Publishers</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/languages/">Languages</a></li>
+            </ul>  
+        </nav>        
+</div>          
+
      <!--  </div>
 
       <div class="col-sm-3">
