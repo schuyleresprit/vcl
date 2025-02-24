@@ -19,7 +19,10 @@ li.nav-item.px-3 {
 ul.bottombar.navbar-nav.me-auto.mb-2.mb-lg-0 {
     padding: 35px 0;
     margin: 0px 30px !important;
-    /* text-align: center !important; */
+}
+
+ul.bottombar.navbar-nav.me-auto.mb-2.mb-lg-0 h4 {
+    margin-right: 40px;
 }
 
 </style>    
@@ -50,11 +53,12 @@ ul.bottombar.navbar-nav.me-auto.mb-2.mb-lg-0 {
             </ul>
     </nav>        
 </div>
-     
-    
+
 <div class="bottomnavbar"></div>
     <nav class=" navbar-0  navbar-expand-lg navbar-dark bg-dark"></nav>   
             <ul class= "bottombar navbar-nav me-auto mb-2 mb-lg-0">
+                <li><h4>Visualizing Caribbean Literature </h4> </li>
+                
                 <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/authors/">Authors</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/countries/">Countries</a></li>
@@ -62,7 +66,7 @@ ul.bottombar.navbar-nav.me-auto.mb-2.mb-lg-0 {
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/publishers/">Publishers</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/languages/">Languages</a></li>
             </ul>  
-        </nav>        
+        </nav>              
 </div>          
 
      <!--  </div>
