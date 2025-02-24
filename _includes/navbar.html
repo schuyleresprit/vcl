@@ -16,13 +16,19 @@ li.nav-item.px-3 {
     margin-top: 5%;
 }
 
+ul.bottombar.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    padding: 35px 0;
+    margin: 0px 30px !important;
+    /* text-align: center !important; */
+}
+
 </style>    
 </head>
 <body>
 
 <div class="topnavbar">
     <nav class="navbar-0  navbar-expand-lg navbar-dark bg-dark">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <ul class="topbar navbar-nav me-auto mb-2 mb-lg-0">
           <!-- <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>-->
            <li class="nav-item px-3"><a class="nav-link" href="{% link pages/instructions.md %}">Instructions</a></li>
           <!--- <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/authors/">Authors</a></li>
@@ -48,7 +54,7 @@ li.nav-item.px-3 {
     
 <div class="bottomnavbar"></div>
     <nav class=" navbar-0  navbar-expand-lg navbar-dark bg-dark"></nav>   
-            <ul class= "navbar-nav me-auto mb-2 mb-lg-0">
+            <ul class= "bottombar navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/authors/">Authors</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/countries/">Countries</a></li>
