@@ -132,13 +132,13 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 }
 
 .bg-dark {
-    background-color: #216b4d!important;
+    background-color: #f3f3f3!important;
 }
 .container.px-5 {
     padding: 20px 0;
 }
 .nav-link {
-	color: #000;
+	color: #fff;
 
 }
 .navbar-1 .nav-item {
