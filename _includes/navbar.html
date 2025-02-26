@@ -3,6 +3,11 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+
+ul.topbar.navbar-nav.me-auto.mb-2.mb-lg-0 img {
+    width: 60px;
+    float: left !important;
+}   
 .mainmenu {
     text-align: center;
     background: #216b4d;
@@ -69,6 +74,9 @@ ul.bottombar.navbar-nav.me-auto.mb-2.mb-lg-0 h4 {
 <div class="topnavbar">
     <nav class="navbar-0  navbar-expand-lg navbar-dark bg-dark">
             <ul class="topbar navbar-nav me-auto mb-2 mb-lg-0">
+                <a href="https://createcaribbean.org/create/" target="_blank">
+                    <img src="{{ site.baseurl }}/assets/img/CreateLogoNEW.png"/>
+                    </a>
           <!-- <li class="nav-item px-3 pr-5"><a class="nav-link" href="{% link pages/home.md %}">Home</a></li>-->
            <li class="nav-item px-3"><a class="nav-link" href="{% link pages/instructions.md %}">Instructions</a></li>
           <!--- <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/authors/">Authors</a></li>
@@ -104,7 +112,6 @@ ul.bottombar.navbar-nav.me-auto.mb-2.mb-lg-0 h4 {
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/languages/">Languages</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/genres/">Genres</a></li>
                 <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/publishers/">Publishers</a></li>
-                <li class="nav-item px-3"><a class="nav-link" href="{{ site.baseurl }}/languages/">Languages</a></li>
             </ul>  
         </nav>              
 </div>  
