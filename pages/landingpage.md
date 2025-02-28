@@ -82,6 +82,12 @@ body{
 .home_heading {
     text-align: center;
     opacity: 0.9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    padding: 70px 0;
+    background: #f3f3f3f3;
 }
 
 nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
