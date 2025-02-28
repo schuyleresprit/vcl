@@ -3,24 +3,6 @@ layout: homedefault
 permalink: /
 ---
 
-<div class="row">
-<div class="col-sm-1">
-
-</div>
-
-<div class="col-sm-10">
-<h1> Welcome to <br> Visualizing Caribbean Literature</h1>
-<div class="button">
-<a href="{{ site.baseurl }}/home/"> ENTER</a>
-</div>
-</div>
-
-<div class="col-sm-1">
-
-</div>
-
-</div>
-
 <style>
 
 @-webkit-keyframes bg-scrolling-reverse {
@@ -92,12 +74,12 @@ body{
     background: none;
 }
 
-.col-sm-10 h1 {
+.home_heading h1 {
     font-family: Arial Black;
     text-shadow: 2px 2px 3px #999;
 }
 
-.col-sm-10 {
+.home_heading {
     text-align: center;
     opacity: 0.9;
 }
@@ -124,3 +106,12 @@ nav.navbar-0.navbar-expand-lg.navbar-dark.bg-dark {
 }
 
 </style>
+
+
+<div class="home_heading">
+<h1> Welcome to <br> Visualizing Caribbean Literature</h1>
+<div class="button">
+<a href="{{ site.baseurl }}/home/"> ENTER</a>
+</div>
+</div>
+
