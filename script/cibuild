@@ -4,7 +4,7 @@ set -e
 
 script/build
 
-if test -e "./_site/index.html";then
+if test -e "./_site/";then
   echo "It builds!"
   rm -Rf _site
 else
