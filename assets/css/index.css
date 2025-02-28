@@ -16,8 +16,9 @@ body {
 background: #fff/*url('../img/background-3.png')*/;
 }
 
-.overlay{
-	background:rgba(255,255,255, 0.3);
+.overlay .col-sm-10{
+	background:rgb(33 107 77 / 4%);
+	padding: 20px;
 }
 
 /*********/
@@ -67,12 +68,6 @@ a{
 .credits_esprits {
     text-align: center;
     margin-bottom: 30px;
-}
-
-
-.col-sm-10 {
-	margin-top: 70px;
-
 }
 
 div#map {
