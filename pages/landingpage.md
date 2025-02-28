@@ -82,11 +82,8 @@ body{
 .home_heading {
     text-align: center;
     opacity: 0.9;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    height: 100%;
     padding: 70px 0;
+	margin-top: 15%;
     background: #f3f3f3f3;
 }
 
