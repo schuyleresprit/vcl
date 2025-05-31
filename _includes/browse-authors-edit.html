@@ -1,0 +1,86 @@
+<!-- Stylesheet-->
+<head>
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/browse-author-style.css">
+</head>
+
+
+<!-- Main div for Author's Page-->
+<div class="container">
+
+
+
+    <!-- Search bar -->
+    <div class="input-group mb-3">
+        <input id="searchInput" type="text" class="form-control searchForm" placeholder="Search for an author">
+    </div>
+
+
+
+
+    <!--Alhpabetically ordered letter navigation bar  -->
+    <div class="button-container">
+        <button data-letter="all">All</button>
+        <button data-letter="a">A</button>
+        <button data-letter="b">B</button>
+        <button data-letter="c">C</button>
+        <button data-letter="d">D</button>
+        <button data-letter="e">E</button>
+        <button data-letter="f">F</button>
+        <button data-letter="g">G</button>
+        <button data-letter="h">H</button>
+        <button data-letter="i">I</button>
+        <button data-letter="j">J</button>
+        <button data-letter="k">K</button>
+        <button data-letter="l">L</button>
+        <button data-letter="m">M</button>
+        <button data-letter="n">N</button>
+        <button data-letter="o">O</button>
+        <button data-letter="p">P</button>
+        <button data-letter="q">Q</button>
+        <button data-letter="r">R</button>
+        <button data-letter="s">S</button>
+        <button data-letter="t">T</button>
+        <button data-letter="u">U</button>
+        <button data-letter="v">V</button>
+        <button data-letter="w">W</button>
+        <button data-letter="x">X</button>
+        <button data-letter="Y">Y</button>
+        <button data-letter="z">Z</button>
+</div>
+
+
+
+<!-- Where all of the Author's Cards populate-->
+
+<div class="row justify-content-center content">
+    {% for author in site.data.newbios %}
+    <div class="card col-4">
+      <div class="card-body">  
+       <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->
+        <h6 class="card-title">{{author.Author}}</h6>
+        <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/{{author.authorid}}.jpg" />
+        <a href="{{site.baseurl}}/{{author.authorid}}/">More Info</a>
+        <a id="publicationLink" href="#" class="card-link" onclick='showAuthorBio(`{{author.authorid}}`,`{{author.Author}}`,`{{author.Country}}`,`{{publication.Title}}`)' data-authorid="{{author.authorid}}">More</a>
+    </div> 
+    </div>
+    {% endfor %}
+    <div cla ss="publicationList"></div>
+</div>
+
+<div id="data-container" class="row justify-content-center">
+    
+</div>
+
+
+
+<!--Pagination bar for Author's Cards -->
+<div id="pagination"></div>
+</div>
+
+
+<!-- External javascript for the letter navigation and pagination for Authors-->
+<script src="{{site.baseurl}}/assets/js/browse-author-script.js"></script>
+
+
+
+<!-- Internal javascript dealing with the Author's Bio and Detail functionality-->

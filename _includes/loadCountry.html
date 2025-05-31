@@ -1,31 +1,22 @@
 
 <html>
+
+
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-
-.country_authorinfo h4 {
-  font-size: 25px;
-  font-weight: 700;
-}
-
-.country_authorinfo h5 {
-    font-size: large;
-}
-
-.country_authorcard img {
-    width: 120px !important;
-    border-radius: 10%;
-}
-
-</style>    
+  <!-- Stylesheet -->
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/loadcountry-style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">   
 </head>
+
+
 <body>
 
 <div class="container-0 row justify-content-center">
 <div class="container-title col" style="position: relative;">
+
 {% for country in site.data.country %}
 {% if page.title == country["Country"] %}
+
     <div class="worldAtlasMap" style="position: sticky; top: 70px;">
     <span class="country"><h2>{{country["Country"]}}</h2></span>
   <div class="photo-co">
@@ -33,11 +24,16 @@
   </div>
   </div>
 </div>
+
 {% endif %}
 {% endfor %}
+
 <div class="container col">
+
 {% for authorData in site.data.bios %}
 {% if page.title == authorData[1]['Country']%}
+
+
 <div>
 
   <div class="country_authorcard">
@@ -57,10 +53,14 @@
 <hr>
   </div>
 </div>
+
 {% endif %}
 {% endfor %}
+
 </div>
 </div>
+
+
 
 </body>
 </html>

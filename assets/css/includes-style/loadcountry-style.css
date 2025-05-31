@@ -1,0 +1,21 @@
+/*
+
+Stylesheet for load-country
+
+*/
+
+
+.country_authorinfo h4 {
+    font-size: 25px;
+    font-weight: 700;
+  }
+  
+  .country_authorinfo h5 {
+      font-size: large;
+  }
+  
+  .country_authorcard img {
+      width: 120px !important;
+      border-radius: 10%;
+  }
+  

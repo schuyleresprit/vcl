@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Althea Prince"
-auhtorId: aprince
+auhtorId: aprincee
 permalink: /aprince/
 ---
 {% include loadAuthor.html %}

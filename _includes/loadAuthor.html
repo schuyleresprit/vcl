@@ -215,7 +215,7 @@ showAuthorDetails(authorId);
 
 //Funciton that dynamically populates the author's book detail
 function showAuthorDetails(authorId){
-    const url = "{{ site.baseurl }}/data/publications.json";
+    const url = "{{ site.baseurl }}/data/publocation.json";
  
      $.getJSON(url, function(data){
    //const authorPublications = data[authorId];
@@ -258,13 +258,20 @@ htmlContent += `
 <div class="publication_title">
 <h5><b><i>${publication.Title}</i></b></h5>
 </div>
+<div class="publication_summary">
+<p>${publication.Summary}</p>
+</div>
 <div class="publication_genre">
-<p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
+<p><b><a href="{{site.baseurl}}/${publication.Genre}/">${publication.Genre}</a>, <span>${publication.Sub_Genre}</span>,<span><a href="{{site.baseurl}}/${publication.Language}/">${publication.Language}</a></span> </b></p>
 </div>
 <div class="publication_publisher">
 <p><b>${publication.Publisher},<br> <span>Translation: ${publication.Translation}</span></b></p>
 </div>
-<!-- <p>This is: ${key}${imgArray}</p> -->
+<div class="publicationResourceLinks">
+<a href="${publication.Buy_Link}">Buy</a>
+<a href="${publication.Read_Link}">Read</a>
+</div>
+<!-- <p>This is: ${key}${imgArray}</p>-->
 </div><br>
 <hr>
 </div>

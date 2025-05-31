@@ -3,104 +3,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
+
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
   crossorigin=""/>
+
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/publishersmap-style.css">
+
 <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
   crossorigin=""></script>
-  <style>
-  		html, body {
-  			height: 100%;
-  			margin: 0;
-  		}
-  		.leaflet-container {
-  			height: 800px;
-  			width: 100%;
-  			max-width: 100%;
-  			max-height: 100%;
-  		}
-      .publisherTitle{
-        color: #216B4D;
-    font-size: 110%;
-    font-weight: 700;
-    text-align: center;
-    white-space: nowrap;
-      }
-/*
-      .leaflet-popup-content-wrapper {
-        overflow-x: scroll;
-        overflow-y: hidden;
-        white-space: nowrap;
-      }   
-    
-      .publicationContainer{
-        position: relative;
-        display: inline;
-        left: 0;
-        height: 200px;
-        width: 300;
-       padding: 10px 0;
-      }
-
-
-
-.row.justify-content-center{
-max-height: 200px;
-display: flex;
-flex-direction: row;
-white-space: nowrap;
-overflow-x: scroll;
-
-}
-
-
-.leaflet-popup-content-wrapper{
-max-height: 200px;
-display: flex;
-flex-direction: row;
-white-space: nowrap;
-overflow-x: scroll;
-
-}
-*/
-
-.d-flex 
-{
-max-height: 200px;
-margin-right: 10px;
-overflow-x: scroll;
-}
-.publicationContainer {
-
-  min-width: 300px;
-  height: 200px;
-}
-
-.publicationImage{
-        height: 200px;
-        width: 150px;
-        float: left;
-      }
-
-.publicationData{
-  display: inline;
-  height: 200px;
-  width: 150px;
-      }
-   
-
-  /*    .row.justify-content-center{
-        display: flex;
-        white-space: nowrap;
-      }
-      
-
-    
-    .horizontalScrollMenu{
-      overflow: auto;
-    white-space: nowrap;
-    }
-    */
-  	</style>
 </head>
     <body>
         <div id="map" height="800px">

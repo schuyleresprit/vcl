@@ -1,0 +1,57 @@
+/*
+
+Stylesheet for publisher map
+
+*/
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.leaflet-container {
+    height: 800px;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.publisherTitle   {
+    color: #216B4D;
+    font-size: 110%;
+font-weight: 700;
+text-align: center;
+white-space: nowrap;
+
+}
+
+.d-flex {
+max-height: 200px;
+margin-right: 10px;
+overflow-x: scroll;
+
+}
+
+
+.publicationContainer {
+
+min-width: 300px;
+height: 200px;
+
+}
+
+.publicationImage {
+height: 200px;
+width: 150px;
+float: left;
+
+}
+
+.publicationData {
+display: inline;
+height: 200px;
+width: 150px;
+
+}

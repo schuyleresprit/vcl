@@ -1,7 +1,7 @@
 ---
 layout: defaultau
 title: "Anais Segalas"
-authorId: asegalas
+authorId: aségalas
 permalink: /aségalas/
 ---
 {% include loadAuthor.html %}
