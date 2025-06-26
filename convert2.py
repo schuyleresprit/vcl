@@ -22,8 +22,8 @@ def convjson(csvFilename, jsonFilename):
         jsonfile.write(json.dumps(mydata, ensure_ascii=False, indent = 4))
 
 # filenames
-csvFilename = r'vcl_author_info.csv'
-jsonFilename = r'data/authors.json'
+csvFilename = r'language.csv'
+jsonFilename = r'language.json'
 
 # Calling the convjson function
 convjson(csvFilename, jsonFilename)
