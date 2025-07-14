@@ -131,26 +131,15 @@ document.querySelectorAll('.button-container button').forEach(button => {
         fetch(filePath)
             .then(response => response.json())
             .then(data => {
-                // Clear content
-                contentDiv.innerHTML = '';
-
-                Object.values(data).forEach(entry => {
-                
-                allEntries = Object.values(data);
-                displayEntries();
-
-                // Create each word element
-                /*
-                Object.values(data).forEach(entry => {
-                    const gridItem = document.createElement('div');
-                    gridItem.className = 'grid-item';
-                    gridItem.innerHTML = `
-                        <h3>${entry.Title}</h3>
-                        <p>${entry.Description}</p>
-                    `;
-                    contentDiv.appendChild(gridItem);
-                    */
-                });
+                try {
+                    contentDiv.innerHTML = '';
+                    allEntries = Object.values(data);
+                    currentPage = 1;
+                    displayEntries();
+                } catch (err) {
+                    console.error('Error during displayEntries execution:', err);
+                    contentDiv.innerHTML = 'Error loading content.';
+                }
             })
             .catch(error => {
                 console.error('Error fetching or parsing data:', error);
