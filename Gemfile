@@ -15,5 +15,5 @@ group :jekyll_plugins do
 end
 
 #gem "gem", "~> 0.0.1.alpha"
-gem "wdm", "~> 0.1.1"
+gem "wdm", "~> 0.2.0"
 gem 'jekyll-relative-links'

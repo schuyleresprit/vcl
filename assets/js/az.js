@@ -4,7 +4,7 @@ let allEntries = [];
 
 // Function to fetch data for a specific letter from data folder
 function fetchData(letter) {
-    return fetch(`/vcl/data/${letter}.json`)
+    return fetch(`/vcl/data/${letter.toLowerCase()}.json`)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -124,7 +124,7 @@ document.querySelector('#searchInput').addEventListener('input', (event) => {
 // Add event listener for the index buttons on the nav panel
 document.querySelectorAll('.button-container button').forEach(button => {
     button.addEventListener('click', () => {
-        const letter = button.getAttribute('data-letter');
+        const letter = button.getAttribute('data-letter').toLowerCase();
         const contentDiv = document.querySelector('.content');
         const filePath = `/vcl/data/${letter}.json`
 
