@@ -4,7 +4,7 @@ let allEntries = [];
 
 // Function to fetch data for a specific letter from data folder
 function fetchData(letter) {
-    return fetch(`/vcl/data/${letter}.json`)
+    return fetch(`/vcl/data/${letter.toLowerCase()}.json`)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -45,22 +45,16 @@ function displayEntries() {
         gridItem.innerHTML = `
             <h3>${entry.Title}</h3>
             <p>${entry.Description}</p>
-            
-
-
-
-
         ``;
         contentDiv.appendChild(gridItem);
         */
-
 //Setting the current page of the displayEntries() to the first page so that it loads the entries properly
         currentPage = 1;
 
 //Instead of defining an HTML content for the displayEntries() call on the appendData()
 //Creating the parameters that the appendCard() function is expecting to execute
 
-const data = {
+let data = {
 
     flavorText: entry["Author Name"],
     subtitle: entry.Country,
@@ -130,33 +124,22 @@ document.querySelector('#searchInput').addEventListener('input', (event) => {
 // Add event listener for the index buttons on the nav panel
 document.querySelectorAll('.button-container button').forEach(button => {
     button.addEventListener('click', () => {
-        const letter = button.getAttribute('data-letter');
+        const letter = button.getAttribute('data-letter').toLowerCase();
         const contentDiv = document.querySelector('.content');
         const filePath = `/vcl/data/${letter}.json`
 
         fetch(filePath)
             .then(response => response.json())
             .then(data => {
-                // Clear content
-                contentDiv.innerHTML = '';
-
-                Object.values(data).forEach(entry => {
-                
-                allEntries = Object.values(data);
-                displayEntries();
-
-                // Create each word element
-                /*
-                Object.values(data).forEach(entry => {
-                    const gridItem = document.createElement('div');
-                    gridItem.className = 'grid-item';
-                    gridItem.innerHTML = `
-                        <h3>${entry.Title}</h3>
-                        <p>${entry.Description}</p>
-                    `;
-                    contentDiv.appendChild(gridItem);
-                    */
-                });
+                try {
+                    contentDiv.innerHTML = '';
+                    allEntries = Object.values(data);
+                    currentPage = 1;
+                    displayEntries();
+                } catch (err) {
+                    console.error('Error during displayEntries execution:', err);
+                    contentDiv.innerHTML = 'Error loading content.';
+                }
             })
             .catch(error => {
                 console.error('Error fetching or parsing data:', error);
