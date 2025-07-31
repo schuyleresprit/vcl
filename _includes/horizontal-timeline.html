@@ -61,7 +61,7 @@
   left: 50%;
   transform: translateX(-50%);
   z-index: 3;
-  box-shadow: 0 0 0 3px #f7f7f7; /* subtle separation from line */
+  
 }
 
 /* Content card below the line/dot */
@@ -79,11 +79,12 @@
 <div class="horizontal-timeline">
   <span class="timeline-line"></span>
   <div class="horizontal-timeline-track">
-    {% assign filtered_country = site.data.newbios | sort: "birthYear","last" %}
+    {% assign filtered_country = site.data.newbios | sort: "birthYear" %}
   {% for filtered in filtered_country %}
   <div class="ht-container">
     <div class="ht-dot"></div>
     <div class="ht-date"><h2>{{filtered.birthYear }}</h2></div>
+    <hr />
     <div class="ht-content">
     <h3>{{ filtered.Author}}</h3>
      <p>{{ filtered.Country }}</p>
