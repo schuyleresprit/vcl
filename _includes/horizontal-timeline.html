@@ -79,14 +79,14 @@
 <div class="horizontal-timeline">
   <span class="timeline-line"></span>
   <div class="horizontal-timeline-track">
-    {% assign filtered_country = site.data.bios  %}
+    {% assign filtered_country = site.data.newbios | sort: "birthYear","last" %}
   {% for filtered in filtered_country %}
   <div class="ht-container">
     <div class="ht-dot"></div>
+    <div class="ht-date"><h2>{{filtered.birthYear }}</h2></div>
     <div class="ht-content">
-        <span>{{filtered[1].birthYear }}</span>
-    <h3>{{ filtered[1].Author}}</h3>
-     <p>{{ filtered[1].Country }}</p>
+    <h3>{{ filtered.Author}}</h3>
+     <p>{{ filtered.Country }}</p>
     </div>
   </div>
  <!-- <div style="background-color: purple;">{{details | where: "Country","Jamaica"}}</div> -->
