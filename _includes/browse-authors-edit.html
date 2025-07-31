@@ -53,14 +53,14 @@
 <!-- Where all of the Author's Cards populate-->
 
 <div class="row justify-content-center content">
-    {% for author in site.data.newbios %}
+    {% for author in site.data.bios %}
     <div class="card col-4">
       <div class="card-body">  
        <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->
-        <h6 class="card-title">{{author.Author}}</h6>
-        <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/{{author.authorid}}.jpg" />
-        <a href="{{site.baseurl}}/{{author.authorid}}/">More Info</a>
-        <a id="publicationLink" href="#" class="card-link" onclick='showAuthorBio(`{{author.authorid}}`,`{{author.Author}}`,`{{author.Country}}`,`{{publication.Title}}`)' data-authorid="{{author.authorid}}">More</a>
+        <h6 class="card-title">{{author[1].Author}}</h6>
+        <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/{{author[1].authorid}}.jpg" />
+       <!-- <a href="{{site.baseurl}}/{{author[1].authorid}}/">More Timmeefo</a> -->
+        <a id="publicationLink" href="#" class="card-link" onclick='showAuthorBio(`{{author[1].authorid}}`,`{{author[1].Author}}`,`{{author[1].Country}}`,`{{publication.Title[1]}}`)' data-authorid="{{author[1].authorid}}">More</a>
     </div> 
     </div>
     {% endfor %}

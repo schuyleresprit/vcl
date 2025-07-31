@@ -201,3 +201,8 @@ Stylesheet for browse-authors
     pointer-events: none;
     cursor: not-allowed;
 }
+
+.bioResourceLinks  a[href=""] {
+
+display: none;
+}
