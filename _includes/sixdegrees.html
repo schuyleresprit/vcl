@@ -1,0 +1,186 @@
+<!--
+============================================================================
+============================================================================
+
+    Defining the content of the six degrees game/activity using HTML 
+-->
+
+
+<!-- 
+    The div needs to wrap around the select menu and option elements otherwise 
+    everything gets wrapped into a <p> which puts the option value outside the <select> element
+-->
+<div class="container">
+<div class="row">       
+<div class="col">
+    <label for="authorA">Author A:</label>
+<select id="authorA">
+    <option selected>Please Select an Author</option>
+  {% for author in site.data.newbios %}
+<option id="authorAData" data-authorid="{{author.authorid}}" data-author-country="{{author.Country}}" data-author-birth-year="{{author.birthYear}}" data-author-death-year="{{author.deathYear}}" >
+{{author.Author}}</option>
+{% endfor %}
+</select>
+</div>
+
+
+
+
+<!-- 
+    The div needs to wrap around the select menu and option elements otherwise 
+    everything gets wrapped into a <p> which puts the option value outside the <select> element
+-->
+<div class="col">
+<label for="authorB">Author B:</label>
+<select id="authorB">
+    <option selected>Please Select a Different Author</option>
+  {% for author in site.data.newbios %}
+<option id="authorBData" data-authorid="{{author.authorid}}" data-author-country="{{author.Country}}" data-author-birth-year="{{author.birthYear}}" data-author-death-year="{{author.deathYear}}">{{author.Author}}</option>
+{% endfor %}
+</select>
+</div>
+</div>
+<!--Closing tag for <div class="container"-->
+</div>
+
+<div id="gameResults">
+
+</div>
+
+<!--
+============================================================================
+============================================================================
+
+    Defining the functionality of the six degrees game/activity using Javascript
+-->
+
+<script>
+
+/*
+    Defining Variables such as Author A , Author B 
+*/
+
+let gameResultsFrame = document.getElementById('gameResults');
+let test = document.getElementById('test');
+
+let authorADropdown = document.getElementById('authorA'); 
+let authorA_ID ; 
+let authorA_Country;
+let authorA_Language;
+let authorA_birthYear;
+let authorA_deathYear;
+let selectedAuthorA ;
+
+let authorBDropdown = document.getElementById('authorB');
+let authorB_ID;
+let selectedAuthorB;
+
+
+$('#authorA').on('input', function(event){
+
+     selectedAuthorA = authorADropdown.value;
+     //This code does not perfom as expected because of a DOM Reference issue
+     //authorA_ID = document.getElementById('authorAData').getAttribute('data-authorid');
+     //^This will only return the first option of the select
+     //To fix I have to actually capture the clicked option's index to retrieve the values 
+     //as expected 
+     authorA_ID = authorADropdown.options[authorADropdown.selectedIndex].dataset.authorid;
+     authorA_Country = authorADropdown.options[authorADropdown.selectedIndex].dataset.authorCountry;
+     authorA_birthYear = authorADropdown.options[authorADropdown.selectedIndex].dataset.authorBirthYear;
+     authorA_deathYear = authorADropdown.options[authorADropdown.selectedIndex].dataset.authordeathYear;
+console.log(`${authorA_ID} is from ${authorA_Country} and born on ${authorA_birthYear} `);
+
+
+});
+
+
+
+$('#authorB').on('input', function(event){
+
+ selectedAuthorB = authorBDropdown.value;
+ //authorB_ID = document.getElementById('authorBData').getAttribute('data-authorid');
+
+ authorB_ID = authorBDropdown.options[authorBDropdown.selectedIndex].dataset.authorid;
+ authorB_Country = authorBDropdown.options[authorBDropdown.selectedIndex].dataset.authorCountry;
+     authorB_birthYear = authorBDropdown.options[authorBDropdown.selectedIndex].dataset.authorBirthYear;
+     authorB_deathYear = authorBDropdown.options[authorBDropdown.selectedIndex].dataset.authordeathYear;
+console.log(`${authorB_ID} is from ${authorB_Country} and born on ${authorB_birthYear} `);
+
+sixdegrees(selectedAuthorA,selectedAuthorB);
+});
+
+
+
+
+
+
+function sixdegrees(authorA,authorB){
+
+ authorA = selectedAuthorA;
+ authorB = selectedAuthorB;
+
+if (!(authorA==authorB)){
+
+
+gameResultsFrame.innerHTML= `
+
+<br />
+<div class='gameFrameResults container'> 
+<h3>You have selected:</h3>
+<div class="row">
+<span class="authorAProfile col"><img src="{{site.baseurl}}/authorphotos/${authorA_ID}.jpg" style="width:200px; height:200px; border-radius: 50%;"><p>${authorA}</p></span>
+<span class="authorBProfile col"><img src="{{site.baseurl}}/authorphotos/${authorB_ID}.jpg" style="width:200px; height:200px; border-radius: 50%;"><p>${authorB}</p></span>
+</div>
+<div>
+    `;
+
+        if(authorA_Country==authorB_Country){
+            let country = authorA_Country;
+                gameResultsFrame.innerHTML+= `
+                
+
+ <p>They both were born in ${country}</p>   `;
+        }
+
+                
+                if(authorA_birthYear==authorB_birthYear){
+
+                let birthYear = authorA_birthYear;
+
+             gameResultsFrame.innerHTML+= `<p> They were both were born in ${birthYear}</p>`;
+
+
+                }
+                
+                
+                
+                if(!((authorA_Country==authorB_Country) || (authorA_birthYear==authorB_birthYear)))
+                {
+
+                    gameResultsFrame.innerHTML += `<p> We cannot find a connection between these two authors based on our current dataset!</p>`;
+   
+
+}
+gameResultsFrame.innerHTML+= `    
+</div>
+
+</div>`;
+            
+        
+
+}
+
+
+    
+else{
+
+    gameResultsFrame.innerHTML= `
+    
+    <div class='gameFrameResults container'>
+    <p>The Author cannot be the same! Please try again.</p>
+    </div>`;
+ }
+
+};
+
+</script>

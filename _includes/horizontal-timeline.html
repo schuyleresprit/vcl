@@ -79,13 +79,15 @@
 <div class="horizontal-timeline">
   <span class="timeline-line"></span>
   <div class="horizontal-timeline-track">
-    {% assign filtered_country = site.data.newbios | sort: "birthYear" %}
-  {% for filtered in filtered_country %}
+    {% assign yearFilter = 1960  %}
+{% assign filtered_details = site.data.newbios | where_exp:"details","details.birthYear > 0 " | sort:"birthYear" %}
+  {% for filtered in filtered_details %}
   <div class="ht-container">
     <div class="ht-dot"></div>
     <div class="ht-date"><h2>{{filtered.birthYear }}</h2></div>
     <hr />
     <div class="ht-content">
+    <img width="50%" height="50%" src="{{site.baseurl}}/authorphotos/{{filtered.authorid}}.jpg" />
     <h3>{{ filtered.Author}}</h3>
      <p>{{ filtered.Country }}</p>
     </div>

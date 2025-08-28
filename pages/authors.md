@@ -12,6 +12,7 @@ Each author profile contains a brief biographical summary, with links to the aut
 
 Author profiles generally include new editions, translations and significant reprints of their original works.
 
+
 <div class="authors">
 {% include browse-authors.html %}
 </div>
