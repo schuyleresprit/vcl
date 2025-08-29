@@ -5,7 +5,7 @@ import pandas as pd
 import codecs
 import json
 import geocoder
-from mapbox import Geocoder
+from mapbox import Geocoder 
 from geopy import geocoders
 from operator import itemgetter
 
@@ -71,8 +71,7 @@ ANTHOLOGY_JSON = os.getcwd() + '/data/anthology.json'
 NONFICTION_JSON = os.getcwd() + '/data/nonfiction.json'
 ESSAY_JSON = os.getcwd() + '/data/essay.json'
 MAPBOX_USERNAME = 'schuylere'
-access_token = 'pk.eyJ1Ijoic2NodXlsZXJlIiwiYSI6ImNsMmh3aGRuMjAxN3MzaW1rMmZoenhpMTMifQ.Nwv-MP6OK6eOKW_bfNYRaw'
-#GEONAMES_USERNAME = 'schuylere'
+access_token = 'pk.eyJ1Ijoic2NodXlsZXJlIiwiYSI6ImNsYXY4YjZoZzAzOGszdm9hMm83eTU3emMifQ.lLtQQwPl0qmXyKR3Z1D2Iw'
 
 # ----------
 # Functions
