@@ -1,4 +1,9 @@
+---
+---
+
 const siteBaseUrl = "/vcl";
+
+
 
 
 
@@ -86,9 +91,13 @@ htmlContent += `
 <img src="${siteBaseUrl}/bookphotos/$${authorid}/${authorid}.jpg" style="display:block; margin-left: auto; margin-right:auto; width:50%;"/>
 </div>
 <div class="book_details">
+
 <div class="publication_title">
-<h5><b><i>${authorid}</i></b></h5>
+{% for publication in site.data.publocation %}
+<h5><b><i>{{publication.Title}}</i></b></h5>
+{% endfor %}
 </div>
+
 <div class="publication_genre">
 <p><b><a href="${authorid}">${authorid}</a>, <span><a href="${siteBaseUrl}/${authorid}/">${authorid}</a></span> </b></p>
 </div>

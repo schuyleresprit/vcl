@@ -1,0 +1,13 @@
+{% comment %}
+This include is used for the DLOC Resources
+{% endcomment %}
+<div>
+    {% for author-resource in site.data.additional-resources %}
+    {% if page.authorid == author-resource.authorid %}   
+    <p>
+    <a href="{{author-resource.resource_url}}" target="_blank" ><i>"{{author-resource.resource_title}}"</i></a>
+     <b>-sourced from {{author-resource.resource_source | upcase}}</b></p>
+    {% endif %}
+{% endfor %}
+</div>
+

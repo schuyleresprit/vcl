@@ -128,8 +128,8 @@ gameResultsFrame.innerHTML= `
 <div class='gameFrameResults container'> 
 <h3>You have selected:</h3>
 <div class="row">
-<span class="authorAProfile col"><img src="{{site.baseurl}}/authorphotos/${authorA_ID}.jpg" style="width:200px; height:200px; border-radius: 50%;"><p>${authorA}</p></span>
-<span class="authorBProfile col"><img src="{{site.baseurl}}/authorphotos/${authorB_ID}.jpg" style="width:200px; height:200px; border-radius: 50%;"><p>${authorB}</p></span>
+<span class="authorAProfile col"><a href="{{site.baseurl}}/authors/${authorA_ID}"><img src="{{site.baseurl}}/authorphotos/${authorA_ID}.jpg" style="width:200px; height:200px; border-radius: 50%;"></a><p>${authorA}</p></span>
+<span class="authorBProfile col"><a href="{{site.baseurl}}/authors/${authorB_ID}"><img src="{{site.baseurl}}/authorphotos/${authorB_ID}.jpg" style="width:200px; height:200px; border-radius: 50%;"></a><p>${authorB}</p></span>
 </div>
 <div>
     `;

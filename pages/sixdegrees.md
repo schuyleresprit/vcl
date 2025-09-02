@@ -10,10 +10,12 @@ permalink: /sixdegrees/
 ---
 
 
-### Welcome to the Six Degree of Separation Activity
 
 
-This activity is all about seeing the connection we have among the Caribbean Literary Diaspora. Currently in our dataset we have basic information such as  Author's first name, last name , country of birth , and birth year, death year (if applicable).
+### Welcome to the Six Degree of Separation Activity 
+
+
+This activity is all about seeing the connection we have among the Caribbean Literary Diaspora. Currently in our dataset we have basic information such as  Author's first name, last name , country of birth , and birth year, death year (if applicable). 
 
 #### Historical Context of Activity
 
@@ -21,6 +23,7 @@ This activity is all about seeing the connection we have among the Caribbean Lit
 <br />
 <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon" target="_blank">-Sourced From Wikipedia</a>
 </blockquote>
+
 
 
 **To begin the activity please select the two authors whose connection(s) you want to find!**

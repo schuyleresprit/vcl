@@ -24,6 +24,7 @@ plugins:
  - jekyll-relative-links
  
 
+
 # Google Analytics Tracking (optional)
 ga_tracking:
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
@@ -67,3 +68,8 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+collections:
+  authors:
+    output: true
+    permalink: /authors/:name

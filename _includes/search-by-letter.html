@@ -1,0 +1,52 @@
+ <!--Alhpabetically ordered letter navigation bar  -->
+ <div class="button-container">
+    <button value="a" data-letter="">A</button>
+    <button value="b" data-letter="">B</button>
+    <button value="c" data-letter="" >C</button>
+    <button value="d" data-letter="">D</button>
+    <button value="e" data-letter="">E</button>
+    <button value="f" data-letter="">F</button>
+    <button value="g" data-letter="">G</button>
+    <button value="h" data-letter="">H</button>
+    <button value="i" data-letter="">I</button>
+    <button value="j" data-letter="">J</button>
+    <button value="k" data-letter="">K</button>
+    <button value="l" data-letter="">L</button>
+    <button value="m" data-letter="">M</button>
+    <button value="n" data-letter="">N</button>
+    <button value="o" data-letter="">O</button>
+    <button value="p" data-letter="">P</button>
+    <button value="q" data-letter="">Q</button>
+    <button value="r" data-letter="">R</button>
+    <button value="s" data-letter="">S</button>
+    <button value="t" data-letter="">T</button>
+    <button value="u" data-letter="">U</button>
+    <button value="v" data-letter="">V</button>
+    <button value="w" data-letter="">W</button>
+    <button value="x" data-letter="">X</button>
+    <button value="y" data-letter="">Y</button>
+    <button value="z" data-letter="">Z</button>
+</div>
+
+<script>
+
+
+$("button[data-letter]").click( function (event) {
+
+let indexValue = $(this).val();
+
+$('.content').html(`
+<div>
+        <p>This is where all Authors whose name start with  "${indexValue}" will appear</p>
+    </div>
+`);
+
+console.log( `${indexValue}`);
+
+}
+
+
+);
+
+
+</script>

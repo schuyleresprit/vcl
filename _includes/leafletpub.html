@@ -1,3 +1,7 @@
+{% comment %}
+This include is used for the publisher's page to dynamically display content such as a LeafletJS map, and chronological timeline based on publication dates.
+{% endcomment %}
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <meta charset="utf-8">
@@ -13,8 +17,27 @@
   crossorigin=""></script>
 </head>
     <body>
-        <div id="map" height="800px">
+
+    
+
+      <div class="changeView">
+        <span><a href="{{site.baseurl}}/pub-timeline/">Timeline View</a></span>
+      </div>
+      <br />
+      <div class="container content"></div>
+      <br />
+        
+      <div id="map" height="800px"> 
+          
+          
+          
+
+
+
             <script>
+
+
+
             var publisher = '';
               var map = L.map('map').setView([15.413, -61.35], 4);
             
@@ -88,6 +111,8 @@
     },
   }).addTo(map);
 });
+
+
 
               </script>
         </div>

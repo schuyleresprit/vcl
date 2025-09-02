@@ -1,7 +1,18 @@
+{% comment %}
+=====================
+  This include allows you to load up data from the _data folder, here it is using the 'country.csv', and will only display 
+  the dataset that matches the title variable found in the front matter in the {[country-name.md]} pages. 
+  
+  The title in the markdown files are set to the country's name (exactly as it is named in the csv file!!!) which allows this 
+  include to function correctly. 
+
+      Notes - because the country markdown files are dependent on this include and the dataset found in the _data folder.
+      The customization of the dataset itself, the html content, the css , and the javascript is easier.
+  
+{% endcomment %}
+
 
 <html>
-
-
 <head>
   <!-- Stylesheet -->
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/loadcountry-style.css">
@@ -10,6 +21,9 @@
 
 
 <body>
+
+
+
 
 <div class="container-0 row justify-content-center">
 <div class="container-title col" style="position: relative;">
@@ -45,7 +59,7 @@
     
     <div class="col-sm-9">
       <div class="country_authorinfo">
-     <a href="{{site.baseurl}}/{{authorData[0]}}"><h4>{{authorData[1]['Author']}}</h4></a>
+     <a href="{{site.baseurl}}/authors/{{authorData[0]}}"><h4>{{authorData[1]['Author']}}</h4></a>
      <h5>Lifespan: {{authorData[1]['Lifespan']}}</h5>
      </div>
     </div> 
@@ -56,6 +70,7 @@
 
 {% endif %}
 {% endfor %}
+
 
 </div>
 </div>

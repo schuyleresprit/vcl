@@ -1,0 +1,105 @@
+
+<style>
+.horizontal-timeline {
+  position: relative;
+  overflow-x: auto;
+  padding: 100px 20px 60px; /* top for year, bottom for content */
+  background-color: #f7f7f7;
+}
+
+/* The actual line element across the screen */
+.timeline-line {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  height: 4px;
+  width: 100%;
+  background-color: #ccc;
+  z-index: 0;
+}
+
+/* The scrollable timeline row */
+.horizontal-timeline-track {
+  display: flex;
+  gap: 80px;
+  padding: 0 40px;
+  min-width: 1000px;
+  position: relative;
+  z-index: 1; /* ensure it's above background */
+}
+
+/* Each event group */
+.ht-container {
+  position: relative;
+  flex: 0 0 200px;
+  text-align: center;
+}
+
+/* Year above the line and dot */
+.ht-date {
+  font-weight: bold;
+  font-size: 0.9em;
+  color: #0a0a0a;
+  margin-bottom: 6px;
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  z-index: 2;
+}
+
+/* Dot placed directly on top of the line */
+.ht-dot {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border: 4px solid #FF9F55;
+  border-radius: 50%;
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 3;
+  
+}
+
+/* Content card below the line/dot */
+.ht-content {
+  margin-top: 100px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 1;
+}
+</style>
+
+
+<p>This timeline is sorted in order by publication's year.</p>
+<p>Click on it to begin scrolling through.</p>
+
+<div class="horizontal-timeline">
+  <span class="timeline-line"></span>
+  <div class="horizontal-timeline-track">
+  
+{% assign filtered_details = site.data.publocation | group_by:"Pubdate" | sort:"name" %}
+  {% for filtered in filtered_details %}
+  <div class="ht-container">
+    <div class="ht-dot"></div>
+    <div class="ht-date"><h2>{{filtered.name }}</h2></div>
+    <hr />
+    {% for details in filtered.items %}
+    <div class="ht-content">
+    <img width="50%" height="50%" src="{{site.baseurl}}/bookphotos/{{details.authorid}}/{{details.bookImgId}}.jpg" />
+    <h3>{{ details.Title}}</h3>
+     <p>{{ details.Publisher }}</p>
+    </div>
+    {% endfor %}
+  </div>
+ <!-- <div style="background-color: purple;">{{details | where: "Country","Jamaica"}}</div> -->
+{% endfor %}
+</div>
+</div>
+

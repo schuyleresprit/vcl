@@ -1,3 +1,9 @@
+{% comment %}
+This include is an updated version to 'browse-authors.html' in order to 
+fully utilize the features of Jekyll to make creating digital Projects
+a lot more effectively and efficiently
+{% endcomment %}
+
 <!-- Stylesheet-->
 <head>
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/browse-author-style.css">
@@ -17,50 +23,28 @@
 
 
 
-    <!--Alhpabetically ordered letter navigation bar  -->
-    <div class="button-container">
-        <button data-letter="all">All</button>
-        <button data-letter="a">A</button>
-        <button data-letter="b">B</button>
-        <button data-letter="c">C</button>
-        <button data-letter="d">D</button>
-        <button data-letter="e">E</button>
-        <button data-letter="f">F</button>
-        <button data-letter="g">G</button>
-        <button data-letter="h">H</button>
-        <button data-letter="i">I</button>
-        <button data-letter="j">J</button>
-        <button data-letter="k">K</button>
-        <button data-letter="l">L</button>
-        <button data-letter="m">M</button>
-        <button data-letter="n">N</button>
-        <button data-letter="o">O</button>
-        <button data-letter="p">P</button>
-        <button data-letter="q">Q</button>
-        <button data-letter="r">R</button>
-        <button data-letter="s">S</button>
-        <button data-letter="t">T</button>
-        <button data-letter="u">U</button>
-        <button data-letter="v">V</button>
-        <button data-letter="w">W</button>
-        <button data-letter="x">X</button>
-        <button data-letter="Y">Y</button>
-        <button data-letter="z">Z</button>
-</div>
+   {% include search-by-letter.html %}
 
-
+   <div class="changeView">
+    <span><a href="{{site.baseurl}}/author-timeline/">Timeline View</a></span>
+    <!--<div class="yearFilterSlider">
+        <span>1492</span><input type="range" id="yearFilter" value="1492" min="1492" max="2025"><span>Present</span>
+    </div>-->
+    </div>
+    <br />
 
 <!-- Where all of the Author's Cards populate-->
 
 <div class="row justify-content-center content">
-    {% for author in site.data.bios %}
+    {% assign sortedBio = site.data.biography | sort:"Author" %}
+    {% for author in sortedBio %}
     <div class="card col-4">
       <div class="card-body">  
        <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->
-        <h6 class="card-title">{{author[1].Author}}</h6>
-        <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/{{author[1].authorid}}.jpg" />
+        <h6 class="card-title">{{author.Author}}</h6>
+        <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/{{author.authorid}}.jpg" />
        <!-- <a href="{{site.baseurl}}/{{author[1].authorid}}/">More Timmeefo</a> -->
-        <a id="publicationLink" href="#" class="card-link" onclick='showAuthorBio(`{{author[1].authorid}}`,`{{author[1].Author}}`,`{{author[1].Country}}`,`{{publication.Title[1]}}`)' data-authorid="{{author[1].authorid}}">More</a>
+        <a id="publicationLink" href="{{site.baseurl}}/authors/{{author.authorid}}" class="card-link" >Read More</a>
     </div> 
     </div>
     {% endfor %}
@@ -79,7 +63,7 @@
 
 
 <!-- External javascript for the letter navigation and pagination for Authors-->
-<script src="{{site.baseurl}}/assets/js/browse-author-script.js"></script>
+
 
 
 

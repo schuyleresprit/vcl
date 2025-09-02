@@ -16,12 +16,12 @@
 
 
 <div class="changeView">
-<span><a href="{{site.baseurl}}/authors/">Grid View</a></span>
-<span><a href="#" class="interativeTimeline" onclick="displayTimeline()">Timeline View</a></span>
+<span><a href="{{site.baseurl}}/author-timeline/">Timeline View</a></span>
 <!--<div class="yearFilterSlider">
     <span>1492</span><input type="range" id="yearFilter" value="1492" min="1492" max="2025"><span>Present</span>
 </div>-->
 </div>
+<br />
 
     <!--Alhpabetically ordered letter navigation bar  -->
     <div class="button-container">
@@ -177,7 +177,7 @@ function displayTimeline () {
     console.log("Hello I am the timeline");
 
     $('.content').html(`
-    <div>{% include horizontal-timeline.html %}</div>
+    <div>{% include authors-horizontal-timeline.html %}</div>
 `);
 }
 
@@ -201,6 +201,8 @@ let htmlContent =`
 <img src="{{site.baseurl}}/authorphotos/${authorBio.authorid}.jpg" />
 </div>   
 <br>
+
+
 <div class="authordetails">
 <h6> <b>Country of Birth: </b><a href="{{ site.baseurl }}/${authorBio.mapId}/">${authorBio.Country}</a> <br>
     <b>Lifespan:</b> ${authorBio.Lifespan} <br>
