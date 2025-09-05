@@ -70,7 +70,7 @@ ANTHOLOGY_JSON = os.getcwd() + '/data/anthology.json'
 NONFICTION_JSON = os.getcwd() + '/data/nonfiction.json'
 ESSAY_JSON = os.getcwd() + '/data/essay.json'
 MAPBOX_USERNAME = 'schuylere'
-access_token = 'pk.eyJ1Ijoic2NodXlsZXJlIiwiYSI6ImNsYXY4YjZoZzAzOGszdm9hMm83eTU3emMifQ.lLtQQwPl0qmXyKR3Z1D2Iw'
+access_token = 'pk.eyJ1Ijoic2NodXlsZXJlIiwiYSI6ImNtZXcwbXJtNDBuc2EyanE1NDZ6MzE3bDYifQ.wzuN0_DkSD3cW4B3jKEgQA'
 
 # ----------
 # Functions
