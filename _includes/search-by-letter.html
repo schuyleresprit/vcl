@@ -1,8 +1,13 @@
+ <!-- Stylesheet-->
+<head>
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/browse-author-style.css">
+  </head>
+  
  <!--Alhpabetically ordered letter navigation bar  -->
- <div class="button-container">
+ <div class="button-container" style="{{include.style}}">
     <button value="a" data-letter="">A</button>
     <button value="b" data-letter="">B</button>
-    <button value="c" data-letter="" >C</button>
+    <button value="c" data-letter="">C</button>
     <button value="d" data-letter="">D</button>
     <button value="e" data-letter="">E</button>
     <button value="f" data-letter="">F</button>
@@ -27,26 +32,34 @@
     <button value="y" data-letter="">Y</button>
     <button value="z" data-letter="">Z</button>
 </div>
-
 <script>
-
-
-$("button[data-letter]").click( function (event) {
+  $("button[data-letter]").click( function (event) {
 
 let indexValue = $(this).val();
 
+
+
 $('.content').html(`
 <div>
+    {%- assign letters = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,y,z" | split:"," -%}
+   {% assign groupedByLetter =  site.data.biography | group_by_exp:"item","item.authorid | slice: 0 "  %}
+{% assign authorIndex =  groupedByLetter | where_exp:"items", "items.name == indexValue" %}
+   {%- assign authorIndex = "${indexValue}" -%}
         <p>This is where all Authors whose name start with  "${indexValue}" will appear</p>
+         <p>-----{{letters}}---</p>
+         {% if '${indexValue}' == 'a' %}
+        <p>////////{{authorIndex}}///////////</p>
+        {% endif %}
+        {% for author in groupedByLetter limit: 30 %}
+      {% for details in author.items %}
+      <p> {{author.name}}-{{details.Author }}</p>
+      {% endfor %}
+      {% endfor %}
     </div>
 `);
 
-console.log( `${indexValue}`);
+console.log( `${indexValue}-${event.click}`);
 
-}
-
-
-);
-
+});    
 
 </script>

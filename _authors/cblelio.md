@@ -1,6 +1,5 @@
 ---
-layout: pagedefault
+layout: authors
 title: "Author | Chiara Bettelli Lelio"
 authorid: cblelio
 ---
-{% include loadAuthor.html %}

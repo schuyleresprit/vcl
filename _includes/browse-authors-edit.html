@@ -37,7 +37,7 @@ a lot more effectively and efficiently
 
 <div class="row justify-content-center content">
     {% assign sortedBio = site.data.biography | sort:"Author" %}
-    {% for author in sortedBio %}
+    {% for author in sortedBio limit: 30 %}
     <div class="card col-4">
       <div class="card-body">  
        <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->
@@ -48,7 +48,7 @@ a lot more effectively and efficiently
     </div> 
     </div>
     {% endfor %}
-    <div cla ss="publicationList"></div>
+    <div class="publicationList"></div>
 </div>
 
 <div id="data-container" class="row justify-content-center">

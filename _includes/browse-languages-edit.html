@@ -1,0 +1,25 @@
+<div class="row justify-content-center content">
+    {% assign sortedBio = site.data.biography | sort:"Author" %}
+    {% for author in sortedBio limit: 30 %}
+    <div class="card col-4">
+      <div class="card-body">  
+       <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->
+        <h6 class="card-title">{{author.Author}}</h6>
+        <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/{{author.authorid}}.jpg" />
+       <!-- <a href="{{site.baseurl}}/{{author[1].authorid}}/">More Timmeefo</a> -->
+        <a id="publicationLink" href="{{site.baseurl}}/authors/{{author.authorid}}" class="card-link" >Read More</a>
+    </div> 
+    </div>
+    {% endfor %}
+    <div class="publicationList"></div>
+</div>
+
+<div id="data-container" class="row justify-content-center">
+    
+</div>
+
+
+
+<!--Pagination bar for Author's Cards -->
+<div id="pagination"></div>
+</div>

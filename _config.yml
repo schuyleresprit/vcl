@@ -69,7 +69,20 @@ compress_html:
   # ignore:
   #   envs: all
 
+#COLLECTIONS
 collections:
   authors:
     output: true
     permalink: /authors/:name
+  alphabet_index:
+    output: true
+    permalink: /authors/index/:name
+  genres:
+    output: true
+    permalink: /genres/:name
+  languages:
+    output: true
+    permalink: /languages/:name
+  pagination_index:
+    output: true
+    permalink: /page/:name
