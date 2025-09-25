@@ -87,11 +87,11 @@ Stylesheet for browse-authors
       }
 
      [data-letter]:hover {
-      background-color: rgba(96, 245, 16, 0.702);
+      background-color: #216B4D;
      } 
 
      #pagination button:hover {
-      background-color: rgba(96, 245, 16, 0.702);
+      background-color: #216B4D;
      } 
 
      [data-letter]:focus{
