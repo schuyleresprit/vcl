@@ -88,10 +88,12 @@ Stylesheet for browse-authors
 
      [data-letter]:hover {
       background-color: #216B4D;
+      color: #fff;
      } 
 
      #pagination button:hover {
       background-color: #216B4D;
+      color: #fff;
      } 
 
      [data-letter]:focus{
