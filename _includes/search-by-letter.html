@@ -3,63 +3,11 @@
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/browse-author-style.css">
   </head>
   
+  {% assign letters ="a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" | split:","%}
+
  <!--Alhpabetically ordered letter navigation bar  -->
- <div class="button-container" style="{{include.style}}">
-    <button value="a" data-letter="">A</button>
-    <button value="b" data-letter="">B</button>
-    <button value="c" data-letter="">C</button>
-    <button value="d" data-letter="">D</button>
-    <button value="e" data-letter="">E</button>
-    <button value="f" data-letter="">F</button>
-    <button value="g" data-letter="">G</button>
-    <button value="h" data-letter="">H</button>
-    <button value="i" data-letter="">I</button>
-    <button value="j" data-letter="">J</button>
-    <button value="k" data-letter="">K</button>
-    <button value="l" data-letter="">L</button>
-    <button value="m" data-letter="">M</button>
-    <button value="n" data-letter="">N</button>
-    <button value="o" data-letter="">O</button>
-    <button value="p" data-letter="">P</button>
-    <button value="q" data-letter="">Q</button>
-    <button value="r" data-letter="">R</button>
-    <button value="s" data-letter="">S</button>
-    <button value="t" data-letter="">T</button>
-    <button value="u" data-letter="">U</button>
-    <button value="v" data-letter="">V</button>
-    <button value="w" data-letter="">W</button>
-    <button value="x" data-letter="">X</button>
-    <button value="y" data-letter="">Y</button>
-    <button value="z" data-letter="">Z</button>
+ <div class="button-container">
+{% for letter in letters %}
+  <a href="{{site.baseurl}}/authors/index/{{letter}}" data-letter="">{{letter | upcase }}</a>
+{% endfor %}
 </div>
-<script>
-  $("button[data-letter]").click( function (event) {
-
-let indexValue = $(this).val();
-
-
-
-$('.content').html(`
-<div>
-    {%- assign letters = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,y,z" | split:"," -%}
-   {% assign groupedByLetter =  site.data.biography | group_by_exp:"item","item.authorid | slice: 0 "  %}
-{% assign authorIndex =  groupedByLetter | where_exp:"items", "items.name == indexValue" %}
-   {%- assign authorIndex = "${indexValue}" -%}
-        <p>This is where all Authors whose name start with  "${indexValue}" will appear</p>
-         <p>-----{{letters}}---</p>
-         {% if '${indexValue}' == 'a' %}
-        <p>////////{{authorIndex}}///////////</p>
-        {% endif %}
-        {% for author in groupedByLetter limit: 30 %}
-      {% for details in author.items %}
-      <p> {{author.name}}-{{details.Author }}</p>
-      {% endfor %}
-      {% endfor %}
-    </div>
-`);
-
-console.log( `${indexValue}-${event.click}`);
-
-});    
-
-</script>

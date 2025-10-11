@@ -1,0 +1,26 @@
+---
+layout: table_wrapper
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+<head>
+    {% include meta.html %}
+    {%- feed_meta -%}
+    {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include analytics.html -%}
+    {%- endif -%}
+
+    {%- include head.html -%}
+
+</head>
+<header class="header">
+    {% include navbar.html %}
+    {% include overheadbanner.html %}
+</header>
+<body>
+    {% include leaflet-map.html %}
+    {% include footer.html %}
+</body>
+</html>

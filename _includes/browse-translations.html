@@ -1,0 +1,38 @@
+
+<head>
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/browse-author-style.css">
+    </head>
+<div class="container">
+    <div class="input-group mb-3">
+        <input id="search-box" type="text" class="form-control" placeholder="Search For A Translations Of Caribbean Literature">
+    </div>
+
+    <div id="data-container" class="row">
+    </div>
+</div>
+
+
+<div class="row justify-content-center content">
+
+{% assign translations = site.data.publocation  %}
+<p>{{ translations }}</p>
+    {% for details in translations %}
+    <div class="card col-4 browseMenuCard">
+        <img class="img-fluid"  src="{{site.baseurl}}/bookphotos/{{details.authorid}}/{{details.bookImgId}}.jpg" />
+        <div class="card-body">
+            <h5 class="text-center">{{details.Title}}</h5>
+            <h6 class="card-subtitle text-center"><a href="{{ site.baseurl}}/authors/{{ details.authorid }}">{{details.Author}}</a></h4>
+        </div>
+    </div>
+    
+    {% endfor %}
+</div>
+
+<div id="data-container" class="row justify-content-center">
+    
+</div>
+
+
+
+<!--Pagination bar for Author's Cards -->
+<div id="pagination"></div>

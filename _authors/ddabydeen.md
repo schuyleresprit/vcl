@@ -1,6 +1,5 @@
 ---
-layout: pagedefault
+layout: authors
 title: "Author | David Dabydeen"
 authorid: ddabydeen
 ---
-{% include loadAuthor.html %}

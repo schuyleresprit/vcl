@@ -1,6 +1,5 @@
 ---
-layout: pagedefault
+layout: authors
 title: "Author | Fernando José Barcena Orbe"
-authorid: acarpentier
+authorid: fjborbe
 ---
-{% include loadAuthor.html %}

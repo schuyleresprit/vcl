@@ -83,6 +83,9 @@ collections:
   languages:
     output: true
     permalink: /languages/:name
+  countries:
+    output: true
+    permalink: /countries/:name
   pagination_index:
     output: true
     permalink: /page/:name

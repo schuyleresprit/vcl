@@ -1,0 +1,192 @@
+---
+layout: pagedefault
+---
+<head>
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/includes-style/browse-author-style.css">
+    </head>
+
+
+{% comment %}
+======HTML CONTENT=======
+{% endcomment %}
+
+<div class="container">
+
+    <div>
+        {{content}}
+    </div>
+
+<!--Search bar that calls searchValue()[found in the script below] when the user releases the keys[onkeyup event]-->
+         <div class="input-group mb-3">   
+        <input class="form-control" type="text" id="mySearch" onkeyup="searchValue()" placeholder="Search For {{page.language}} By Title" title="Search for book by title">
+</div> 
+
+<!--
+    <div id="data-container" class="row">
+    </div>
+-->
+
+</div>
+
+{% assign languages = site.data.publocation | where_exp:"items","items.Language contains page.language" %}
+
+{% assign total_entries = languages.size %}
+{% assign display_limit = page.limit | default:30 %}
+{% assign total_pages = total_entries | divided_by: display_limit %}
+{% assign page_count = total_pages | plus: 1 %}
+
+{% if total_entries <= display_limit %}
+<div class="browse-metadata">
+<span>Displaying {{ total_entries }} book(s)</span>
+</div>
+{% elsif total_entries > display_limit %}
+    <div class="browse-metadata">
+    <span>Displaying {{ display_limit }} out of {{ total_entries }} book(s)</span>
+    </div>
+{% else %}
+<div class="browse-metadata">
+
+</div>
+{% endif %}
+
+<div class="row justify-content-center content">
+    {% for details in languages limit:display_limit %}
+    <div class="card col-4 browseMenuCard">
+        <img class="img-fluid"  src="{{site.baseurl}}/bookphotos/{{details.authorid}}/{{details.bookImgId}}.jpg" />
+        <div class="card-body">
+            <span class="index-number">{{forloop.index}}</span>
+            <h5 class="text-center">{{details.Title}}</h5>
+            <h6 class="card-subtitle text-center"><a href="{{ site.baseurl}}/authors/{{ details.authorid }}">{{details.Author}}</a></h4>
+        </div>
+    </div>
+    
+    {% endfor %}
+</div>
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination pagination-sm justify-content-center">
+        {% if total_entries <= display_limit %}
+      <li class="page-item"><span class="page-link">1</span></li>
+      {% elsif total_entries > display_limit%}
+      {% for i in (1..page_count) %}
+      <li class="page-item"><span class="page-link" onclick="displayValue({{i}})">{{i}}</span></li>
+      {% endfor %}
+      {% endif %}
+    </ul>
+  </nav>
+
+
+
+{% comment %}
+=====JAVASCRIPT CONTENT========
+{% endcomment %}
+
+<script>
+
+function searchValue() {
+
+  //Declaring variables
+  let input, filter, cardContainer,cardInfo,data,searchQuery;
+  
+  //Gets the search bar by its id: mySearch
+  input = document.getElementById("mySearch");
+
+  //Gets the value that is typed into search bar
+  filter = input.value.trim().toUpperCase();
+
+  //Gets all of cards that is loaded based on the dataset and other criteria
+ cardContainer = document.querySelectorAll(".browseMenuCard");
+
+ cardContainer.forEach(card => {
+
+     data = card.querySelector("h5");
+
+    let searchQuery = (data?.textContent || "").toUpperCase();
+
+
+    if(filter == "" || searchQuery.indexOf(filter) > -1) {
+
+        card.style.display = "";
+
+    } else {
+
+      card.style.display = "none";
+
+    }
+
+
+ })
+
+
+}
+
+
+
+
+
+
+//Function used to display the metadata in bit size pieces.
+//So instead of displaying everything at once we split it up
+//into pages depending on the display_limit Jekyll variable we declared 
+//in the the HTML CONTENT
+
+function displayValue(currentpage){
+
+
+let data = {{languages | jsonify }};
+let startIndex = (currentpage - 1)*{{ display_limit }};
+let endIndex = startIndex + {{ display_limit }};
+let paginatedData = data.slice(startIndex,endIndex);
+
+console.log(startIndex+"-"+currentpage);
+console.log(paginatedData);
+
+let pagination = document.querySelectorAll(".page-item");
+
+pagination.forEach(function(link,i) {
+
+    link.classList.remove("active");
+
+    if ( i + 1 === currentpage ) {
+
+        link.classList.add("active");
+    }
+
+
+});
+
+
+let cardContent = '';
+
+cardContainer = document.querySelectorAll(".browseMenuCard");
+
+paginatedData.forEach(function(details,i) {
+
+    let index = i + 1;
+
+    cardContent += `
+
+   <div class="card col-4 browseMenuCard">
+        <img class="img-fluid"  src="{{site.baseurl}}/bookphotos/${details.authorid}/${details.bookImgId}.jpg" />
+        <div class="card-body">
+            <h5 class="text-center">${details.Title}</h5>
+            <span class="translation">${details.Translation}</span>
+            <span class="genre">${details.Genre}</span>
+            <h6 class="card-subtitle text-center"><a href="{{ site.baseurl}}/authors/${ details.authorid }">${details.Author}</a></h4>
+        </div>
+    </div>
+`;
+   
+});
+
+
+$('.content').html(cardContent);
+
+
+
+}
+
+displayValue(1);
+
+
+</script>

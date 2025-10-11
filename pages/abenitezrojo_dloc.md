@@ -20,8 +20,8 @@ permalink: /abenitezrojo_dloc/
                 <br>
         </div>
         <div class="col-md-6">
-            <p>Sargasso. (2005). www.dloc.com. Retrieved from <a href="https://www.dloc.com/UF00096005/00017/images" target="_blank">DLOC Resources</a></p><br>
-            <iframe width="95%" height="315" src="https://www.dloc.com/UF00096005/00017/images"></iframe>
+            <p>Sargasso. (2005). www.dloc.com. Retrieved from <a href="https://ufdcimages.uflib.ufl.edu/UF/00/09/60/05/00017/00001.jpg" target="_blank">DLOC Resources</a></p><br>
+            <iframe width="95%" height="315" src="https://ufdcimages.uflib.ufl.edu/UF/00/09/60/05/00017/00001.jpg"></iframe>
             <br>
             <br>
         </div>

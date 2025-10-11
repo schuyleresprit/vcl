@@ -1,0 +1,152 @@
+{% comment %}
+===============INTERNAL=========================
+NAME:Spxxkette
+DATE:
+TIME:
+
+Include to test and create templates for project design:
+-Typography
+-Colors
+_Sound
+-Video
+-3D Model
+-Interactive
+{% endcomment %}
+
+{% comment %}
+==========INCLUDE===========
+NAME:Spxxkette
+DATE:
+TIME:
+
+--FOR DESIGN PURPOSES---
+
+
+Use this include to create a search menu that is case-insensitive.
+
+SOURCED from W3Schools (https://www.w3schools.com/howto/howto_js_search_menu.asp).
+{% endcomment %}
+
+{% comment %}
+=====CSS CONTENT========
+{% endcomment %}
+
+<style>
+
+/* Style the search box */
+#mySearch {
+  width: 100%;
+  font-size: 18px;
+  padding: 11px;
+  border: 1px solid #ddd;
+}
+
+/* Style the navigation menu */
+#myMenu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style the navigation links */
+#myMenu li a {
+  padding: 12px;
+  text-decoration: none;
+  color: black;
+  display: block
+}
+
+/* Add on Hover Effect to Links*/
+
+#myMenu li a:hover {
+  background-color: #eee;
+}
+
+</style>
+
+
+{% comment %}
+======HTML CONTENT=======
+{% endcomment %}
+
+<input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
+<!--
+<ul id="myMenu" style="background-color:red;">
+  {% for details in site.data.additional-resources %}
+  <li><a href="#">{{details.resource_title}}-{{details.resource_year}}</a></li>
+  {% endfor %}
+</ul>
+-->
+<div class="row justify-content-center content">
+    {% for details in site.data.genre %}
+    {% assign genre-url = details.genre | slugify %}
+<div class="card col-4 browseMenuCard">
+        <div class="card-body">
+            <h5 class="card-title">{{details.genre}}</h5>
+            <a href="{{site.baseurl}}/genres/{{genre-url}}" class="card-link">More</a>
+        </div>
+    </div>
+    
+    {% endfor %}
+</div>
+
+
+{% comment %}
+=====JAVASCRIPT CONTENT========
+{% endcomment %}
+
+<script>
+
+function myFunction() {
+
+  // Declare variables
+  var input, filter, cardContainer,cardInfo, h5, i;
+  
+  input = document.getElementById("mySearch");
+  filter = input.value.trim().toUpperCase();
+  //ul = document.getElementById("myMenu");
+  //li = ul.getElementsByTagName("li");
+  cardContainer = document.querySelectorAll(".browseMenuCard");
+  //cardInfo = cardContainer.getElementsByTagName("div");
+
+ cardContainer.forEach(card => {
+
+    let data = card.querySelector("h5");
+
+    let searchQuery = (data?.textContent || "").toUpperCase();
+
+
+    if(filter == "" || searchQuery.indexOf(filter) > -1) {
+
+        card.style.display = "";
+
+    } else {
+
+      card.style.display = "none";
+
+    }
+
+
+ })
+
+/*
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < cardContainer.length; i++) {
+     
+
+    //a = li[i].getElementsByTagName("a")[0];
+    h5 = cardInfo[i].getElementsByTagName("h5")[0]
+    console.log(`${h5[i]}`);
+    if (h5.innerHTML.toUpperCase().indexOf(filter) > -1) {
+      cardContainer[i].style.display = "";
+    } else {
+      cardContainer[i].style.display = "none";
+    }
+       
+  }
+
+ */
+}
+console.log("Spxxkette was here!");
+</script>

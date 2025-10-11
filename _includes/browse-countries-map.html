@@ -1,0 +1,120 @@
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+  crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+  crossorigin=""></script>
+  <style>
+  		html, body {
+  			height: 100%;
+  			margin: 0;
+  		}
+  		.leaflet-container {
+  			height: 600px;
+  			width: 1000px;
+  			max-width: 120%;
+  			max-height: 100%;
+  		}
+        .circleIcon {
+
+            border-radius: 50%;
+
+
+        }
+  	</style>
+</head>
+<body>
+        <div id="map" height="800px">
+           
+
+            <script>
+                var map = L.map('map').setView([15.413, -61.35], 4);
+    
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    maxZoom: 19,
+                    attribution: '© OpenStreetMap'
+                }).addTo(map);
+    
+                var geojsonMarkerOptions = {
+                    radius: 6,
+                    fillColor: "#ffd700",
+                    color: "#000",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                    };
+
+/*
+//Function used to create custom icon markers based on an url found in the geojson file itself.
+//The reason for this function is to ensure that I am passing an Object and not just a String.
+//Otherwise it creates an error of undefined coming from Leaflet's JavaScript.
+
+
+function mapIcon(url){
+*/
+//Defines a variable that will that the functions paramaeter. In this case an url from the geojson file.
+            const icon =
+              L.icon ({
+
+                iconUrl: '{{site.baseurl}}/assets/img/map-pin.png',
+                iconSize: [48,48]
+
+            });
+
+
+
+//Defining a function that will fetch and then parse through the geojson file 
+//located in the "data" folder. It is not "_data" folder as this folder works
+//with files such as YAML, CSV, and JSON
+
+
+ $.getJSON("{{ site.baseurl }}/data/countries.geojson", function (data) {
+
+
+//Calling an iteration through the geojson file and for each feature we will display the
+//HTML content inside of the bindPopup() Leaflet method
+                var datalayer = L.geoJson(data, {
+
+
+                    onEachFeature: function (feature, featureLayer) {
+                        
+
+
+                        featureLayer.bindPopup(`
+                        
+                        <img class="img-fluid" src="${feature.properties.country_flag_photo}" />
+                        <a href="{{ site. baseurl }}/countries/${feature.properties.mapId}">${feature.properties.country}</a>
+                        
+                        
+                        
+                        `);
+                            },
+
+                    pointToLayer: function (feature, latlng) {
+
+/*
+        //Setting the url found in each feature to be used in the mapIcon() function
+        //defined earlier
+                        const url = feature?.properties?.country_flag_photo;
+                        const icon = mapIcon(url);
+*/
+                       // return L.circleMarker(latlng, geojsonMarkerOptions);
+                       return L.marker(latlng, { icon })
+                            }
+                
+                        }).addTo(map);
+                        map.fitBounds(datalayer.getBounds());
+                   
+                   
+     });
+    
+                //var marker = L.marker([15.5, -61.35]).addTo(map);
+                </script>
+
+
+
+
+
+        </div>
+        <br />
+
+</body>

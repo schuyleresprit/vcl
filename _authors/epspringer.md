@@ -1,6 +1,5 @@
 ---
-layout: pagedefault
+layout: authors
 title: "Author | Eintou Pearl Springer"
 authorid: epspringer
 ---
-{% include loadAuthor.html %}

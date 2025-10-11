@@ -21,23 +21,14 @@ a lot more effectively and efficiently
     </div>
 
 
-
-
    {% include search-by-letter.html %}
 
-   <div class="changeView">
-    <span><a href="{{site.baseurl}}/author-timeline/">Timeline View</a></span>
-    <!--<div class="yearFilterSlider">
-        <span>1492</span><input type="range" id="yearFilter" value="1492" min="1492" max="2025"><span>Present</span>
-    </div>-->
-    </div>
-    <br />
 
 <!-- Where all of the Author's Cards populate-->
 
 <div class="row justify-content-center content">
     {% assign sortedBio = site.data.biography | sort:"Author" %}
-    {% for author in sortedBio limit: 30 %}
+    {% for author in sortedBio  %}
     <div class="card col-4">
       <div class="card-body">  
        <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->

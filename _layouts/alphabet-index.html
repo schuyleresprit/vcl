@@ -2,6 +2,76 @@
 layout: pagedefault
 ---
 
-{% include search-by-letter.html style="background-color:purple; color:white;" %}
 
-<div class="content"></div>
+ <div class="authors">
+{% include search-by-letter.html %}
+
+<div class="row justify-content-center content">
+ {% assign groupedByLetter =  site.data.biography | group_by_exp:"item","item.authorid | slice: 0 " | where:"name", page.letter  %}
+ {% for author in groupedByLetter %}
+      {% assign total_entries = author.size %}
+      {% assign display_limit = page.limit | default:30 %}
+        {% assign total_pages = total_entries | divided_by: display_limit %}
+      {% assign total_pages_ceil = total_pages | ceil %}
+<span>{{groupedByLetter.name}}</span>
+ <span>{{total_entries}} authors</span>
+ <span>Total pages need {{total_pages}}</span>
+ <span>Total pages need {{total_pages_ceil}}</span>
+      {% for details in author.items limit: display_limit %}
+      <div class="card col-4">
+        <div class="card-body">  
+         <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->
+          <h6 class="card-title">{{details.Author}}</h6>
+          <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/{{details.authorid}}.jpg" />
+         <!-- <a href="{{site.baseurl}}/{{author[1].authorid}}/">More Timmeefo</a> -->
+          <a id="publicationLink" href="{{site.baseurl}}/authors/{{details.authorid}}" class="card-link">Read More</a>
+      </div> 
+    </div>
+      {% endfor %}
+      <div id="paginationContainer">
+        {% if total_entries <= display_limit %}
+        <a href="{{site.baseurl}}/authors/index/{{page.letter}}"><span class="pagination-link">1</span></a>
+        {% elsif total_entries > display_limit%}
+        {% for i in (1..total_pages) %}
+        <a href="{{site.baseurl}}/authors/index/{{page.letter}}?page{{i}}"><span class="pagination-link">{{i}}</span></a>
+        {% endfor %}
+        {% endif %}
+      </div>
+      {% endfor %}
+</div>
+</div>
+  <script type='text/javascript'>
+    $(document).ready(function(){
+
+
+       $('.pagination-link').click(function(){
+
+
+        $('.content').html(`
+        {% assign groupedByLetter =  site.data.biography | group_by_exp:"item","item.authorid | slice: 0 " | where:"name", page.letter  %}
+ {%for author in groupedByLetter%}
+      {% assign total_entries = author.size %}
+      {% assign display_limit = page.limit | default:30 %}
+        {% assign total_pages = total_entries | divided_by: display_limit %}
+      {% assign total_pages_ceil = total_pages | ceil %}
+ <span>{{total_entries}} authors</span>
+ <span>Total pages need {{total_pages}}</span>
+ <span>Total pages need {{total_pages_ceil}}</span>
+      {% for details in author.items limit: display_limit offset: display_limit %}
+      <div class="card col-4">
+        <div class="card-body">  
+          <h6 class="card-title">{{details.Author}}</h6>
+          <img id="authorImgCard" src="{{site.baseurl}}/authorphotos/{{details.authorid}}.jpg" />
+          <a id="publicationLink" href="{{site.baseurl}}/authors/{{details.authorid}}" class="card-link">I am not the same</a>
+      </div> 
+    </div>
+      {% endfor %}
+      {% endfor %}
+      
+    `);
+});
+  
+  
+  
+  });
+  </script>

@@ -5,6 +5,3 @@ permalink: /pub-timeline/
 ---
 
 {% include pub-horizontal-timeline.html %}
-
-
-

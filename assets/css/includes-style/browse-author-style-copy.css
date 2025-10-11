@@ -1,0 +1,214 @@
+/*
+
+Stylesheet for browse-authors
+
+*/
+
+
+
+
+
+.row.justify-content-center.content{
+
+    margin: 15px 30px;
+}
+
+
+.card.col-4 {
+  background-color: #fff !important;
+  border: none;
+}
+
+
+#authorImgCard {
+  width: 120px !important;
+  height: 120px !important;
+  border-radius: 10%;
+  object-fit: cover;
+}
+
+#bookImgCard {
+  max-width: 25% !important;
+  max-height: 100% !important;
+  border-radius: 10%;
+}
+
+.card-title {
+  color: #216B4D;
+  font-size: 110%;
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.card-link {
+  font-size: medium;
+  text-align: center;
+}
+
+.authorimg img {
+  border-radius: 50%;
+  width: 300px;
+    height: 300px;
+
+}
+
+.authorbiodata {
+  text-align: center;
+  background: #f0eeeb;
+  padding: 19px 0;
+}
+
+.authorbiodata h3 {
+  font-weight: 600;
+}
+
+.authordetails h6 {
+  line-height: 33px;
+}
+
+  .button-container{
+      text-align: center;
+  }
+
+  #pagination{
+      padding-top: 3px;
+      text-align: center;
+  }
+
+  [data-letter]{
+      background-color: transparent;
+      text-align: center;
+      color: #000;
+      text-decoration: none;
+      border: 1px solid;
+      display: inline-flex;
+      padding: 10px;
+      /*margin: 0px 3px;*/
+      font-size: 14px;
+      }
+      [data-letter] a {
+        color: #000;
+        text-decoration: none;
+      }
+
+     [data-letter]:hover {
+      background-color: rgba(96, 245, 16, 0.702);
+     } 
+
+     #pagination button:hover {
+      background-color: rgba(96, 245, 16, 0.702);
+     } 
+
+     [data-letter]:focus{
+      background-color: #216B4D;
+     }
+
+     #pagination .active:focus{
+      background-color: #216B4D;
+      border-radius: 100%;
+     }
+
+     #pagination button {
+      background-color: transparent;
+      text-align: center;
+      color: #000;
+      text-decoration: none;
+      border: none;
+      display: inline-flex;
+      padding: 10px;
+      margin: 0px 3px;
+      font-size: 14px;
+     }
+
+
+
+
+
+
+.books{
+  margin-bottom: 0;
+}
+
+.bookphoto {
+  height: 100%;
+  width: 150px;
+  float: left;  
+  } 
+  
+  .book_details{
+   height: 100%;
+   width: 150px;
+  }
+
+.book_details, .bookphoto {
+  display: inline;
+}
+
+.publication_summary{
+  font-size: 1em;
+    font-weight: 400;
+    text-align: right;
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+.publication_summary p:focus{
+
+  border-left: 2px solid #216B4D;
+  border-right: 2px solid #216B4D;
+}
+
+.publication_date {
+  font-size: 26px;
+  text-align: center;
+ 
+}
+
+.publication_date h3 {
+  font-size: 26px;
+  padding-bottom: 23px;
+}
+
+.publication_title {
+  font-size: 22px;
+  text-align: center;
+  color: #216B4D;
+}
+
+
+.publication_genre , .publicatiion_language, .publication_publisher , .publisher_translation {
+  font-weight: 300;
+  font-size: 14px;
+  text-align: right;
+  margin-top: 5px;
+}
+
+.publicationResourceLinks{
+  font-weight: bold;
+  text-align: right;
+  font-size: 16px;
+ margin-top: 15px;
+ margin-bottom: 15px;
+}
+
+.yearFilterSlider{
+
+  float: right;
+}
+
+.publicationResourceLinks a[href="#"] {
+
+  color: gray;
+    text-decoration: none;
+    pointer-events: none;
+    cursor: not-allowed;
+}
+
+.bioResourceLinks  a[href=""] {
+
+display: none;
+}

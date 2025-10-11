@@ -1,5 +1,5 @@
 ---
 layout: authors
-title: "Author | Alfred Hubert Mendes"
+title: "Author | Kevyn Alan Arthur"
 authorid: kaarthur
 ---

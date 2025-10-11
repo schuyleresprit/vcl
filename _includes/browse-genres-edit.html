@@ -1,5 +1,7 @@
 
 <div class="container">
+
+
     <div class="input-group mb-3">
         <input id="search-box" type="text" class="form-control" placeholder="Search for a genre of Caribbean writing">
     </div>
@@ -9,15 +11,16 @@
 </div>
 
 <div class="row justify-content-center content">
-    {% for author in site.data.genre %}
-    <div class="card col-4">
+    {% for details in site.data.genre %}
+    {% assign genre-url = details.genre | slugify %}
+          <div class="card col-4">
         <div class="card-body">
-            <h5 class="card-title">${element.data[i].flavorText}</h5>
-            <a href="{{ site.baseurl }}/${element.data[i].link}" class="card-link">More</a>
+            <h5 class="card-title">{{details.genre}}</h5>
+            <a href="{{site.baseurl}}/genres/{{genre-url}}" class="card-link">More</a>
         </div>
     </div>
+    
     {% endfor %}
-    <div class="publicationList"></div>
 </div>
 
 <div id="data-container" class="row justify-content-center">
@@ -28,4 +31,3 @@
 
 <!--Pagination bar for Author's Cards -->
 <div id="pagination"></div>
-</div>

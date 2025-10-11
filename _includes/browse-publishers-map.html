@@ -1,0 +1,141 @@
+{% comment %}
+This include is used for the publisher's page to dynamically display content such as a LeafletJS map, 
+and chronological timeline based on publication dates.
+{% endcomment %}
+
+
+
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+  crossorigin=""/>
+
+ <link rel="stylesheet" href="{{site.baseurl}}/assets/css/includes-style/publishersmap-style.css" />
+
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+  crossorigin=""></script>
+</head>
+
+
+
+    <body>
+      <br />
+      <div class="container content"></div>
+      <br />
+        
+      <div id="map" height="800px"> 
+          
+          
+          
+
+
+
+            <script>
+
+            var publisher = '';
+              var map = L.map('map').setView([15.413, -61.35], 4);
+            
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                  maxZoom: 19,
+                  attribution: '© OpenStreetMap'
+                }).addTo(map);
+            
+                var geojsonMarkerOptions = {
+                  radius: 8,
+                  fillColor: "#f5b85d",
+                  color: "#000",
+                  weight: 1,
+                  opacity: 1,
+                  fillOpacity: 0.8
+                };
+              
+               
+//Function used to create custom icon markers based on an url found in the geojson file itself.
+//The reason for this function is to ensure that I am passing an Object and not just a String.
+//Otherwise it creates an error of undefined coming from Leaflet's JavaScript.
+function mapIcon(url){
+
+//Defines a variable that will that the functions paramaeter. In this case an url from the geojson file.
+            const iconUrl = url || '{{site.baseurl}}/assets/img/map-pin.png';
+             return L.icon ({
+
+                iconUrl: iconUrl,
+                iconSize: [48,48]
+
+            });
+
+        }
+
+                $.getJSON("{{ site.baseurl }}/data/masterPublocation.geojson", function (data) {
+  // Iterate through all features
+  L.geoJson(data, {
+
+    pointToLayer: function (feature, latlng) {
+
+        //Setting the url found in each feature to be used in the mapIcon() function
+        //defined earlier
+                        const url = feature?.properties?.country_flag_photo;
+                        const icon = mapIcon(url);
+
+                       // return L.circleMarker(latlng, geojsonMarkerOptions);
+                       return L.marker(latlng, { icon })
+    },
+
+
+
+    onEachFeature: function (feature, layer) {
+      const lat = feature.geometry.coordinates[1];
+      const lng = feature.geometry.coordinates[0];
+      const publisher = feature.properties.Publisher;
+
+      // Find all features with the same publisher and coordinates
+      const matchingBooks = data.features.filter(function (f) {
+        const fLat = f.geometry.coordinates[1];
+        const fLng = f.geometry.coordinates[0];
+        return (
+          fLat === lat &&
+          fLng === lng &&
+          f.properties.Publisher === publisher
+        );
+      });
+
+      // Build a combined popup for matching books
+      let popupContent = `<h5 class="publisherTitle">${publisher}</h5>`;
+      popupContent += `
+      <div class="d-flex">`;
+
+      matchingBooks.forEach(function (book) {
+        popupContent += `
+          <div class="publicationContainer">
+            <div id="publicationImageContainer">
+            <img class="publicationImage" src="{{site.baseurl}}/bookphotos/${book.properties.authorid}/${book.properties.bookImgId}.jpg" />
+            </div>
+            <div class="publicationData">
+              <p>${book.properties.Title}</p>
+              <a href="{{site.baseurl}}/authors/${book.properties.authorid}/"><p>${book.properties.Author}</p></a>
+              <a href="{{site.baseurl}}/${book.properties.Genre}/"><p>${book.properties.Genre}</p></a>
+              <p>${book.properties.Pubdate}</p>
+              <a href="{{site.baseurl}}/${book.properties.Language}/"><p>${book.properties.Language}</p></a>
+            </div>
+          </div>
+          
+        `;
+      });
+
+      popupContent += `
+      </div>`;
+
+      // Bind the popup to the layer
+      layer.bindPopup(popupContent);
+    },
+  }).addTo(map);
+});
+
+
+
+              </script>
+        </div>
+    </body>

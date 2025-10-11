@@ -1,6 +1,5 @@
 ---
-layout: pagedefault
-title: "Author | Arlette Minatchy-Bogat"
-authorid: aminatchybogat
+layout: authors
+title: "Author | Ramón De Palma"
+authorid: rdepalma
 ---
-{% include loadAuthor.html %}

@@ -27,6 +27,8 @@ white-space: nowrap;
 
 }
 
+
+/* Used to make a horizontal scroll */
 .d-flex {
 max-height: 200px;
 margin-right: 10px;

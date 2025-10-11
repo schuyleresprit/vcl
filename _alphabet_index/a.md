@@ -1,6 +1,5 @@
 ---
 layout: alphabet-index
-title: "Authors | A "
+title: "Authors | A"
+letter: "a"
 ---
-
-

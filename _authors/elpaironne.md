@@ -1,6 +1,5 @@
 ---
-layout: pagedefault
+layout: authors
 title: "Author | Edmond Lapompe-Paironne"
 authorid: elpaironne
 ---
-{% include loadAuthor.html %}

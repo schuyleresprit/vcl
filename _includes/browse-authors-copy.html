@@ -1,0 +1,201 @@
+
+
+{% comment %}
+======HTML CONTENT=======
+
+{% endcomment %}
+
+<div class="container">
+
+ 
+<!--Search bar that calls searchValue()[found in the script below] when the user releases the keys[onkeyup event]-->
+         <div class="input-group mb-3">   
+        <input class="form-control" type="text" id="mySearch" onkeyup="searchValue()" placeholder="Search For Authors" title="Search For Author">
+</div> 
+
+<!--
+    <div id="data-container" class="row">
+    </div>
+-->
+
+</div>
+
+{%comment%}
+Creating a filter and a pagination 
+{%endcomment%}
+{% assign bios = site.data.biography | sort:"Author" %}
+
+{% assign total_entries = bios.size %}
+{% assign display_limit = page.limit | default:30 %}
+{% assign total_pages = total_entries | divided_by: display_limit %}
+{% assign page_count = total_pages | plus: 1 %}
+
+
+{%comment%}
+Creating a display for the metadata of the browse menu based on certian condiotion
+{%endcomment%}
+{% if total_entries <= display_limit %}
+<div class="browse-metadata">
+<span>Displaying {{ total_entries }} author(s)</span>
+</div>
+{% elsif total_entries > display_limit %}
+    <div class="browse-metadata">
+    <span>Displaying {{ display_limit }} out of {{ total_entries }} author(s)</span>
+    </div>
+{% else %}
+<div class="browse-metadata">
+
+</div>
+{% endif %}
+
+
+{%comment%}
+Main Content and Style Used To Create A Display of The Metadat
+{%endcomment%}
+
+<div class="row justify-content-center content">
+   
+    {% assign bio = site.data.biography | sort:"Author" %}
+    {% for details in bio limit:display_limit  %}
+    <div class="card col-4 browseMenuCard">
+      <div class="card-body">  
+       <!-- <h6 class="card-subtitle">${data.subtitle}</h6> -->
+        <h5 class="card-title text-center">{{details.Author}}</h5>
+        <img id="authorImgCard" class="img-fluid" src="{{site.baseurl}}/authorphotos/{{details.authorid}}.jpg" />
+       <!-- <a href="{{site.baseurl}}/{{author[1].authorid}}/">More Timmeefo</a> -->
+        <a id="publicationLink" href="{{site.baseurl}}/authors/{{details.authorid}}" class="card-link">Read More</a>
+    </div> 
+    </div>
+    {% endfor %}
+</div>
+
+
+{%comment%}
+Creating Pagination For The Metadata
+{%endcomment%}
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+
+                {% if total_entries <= display_limit %}
+              <li class="page-item"><span class="page-link">1</span></li>
+              {% elsif total_entries > display_limit%}
+              {% for i in (1..page_count) %}
+              {% assign offset = i | minus: 1 | times: display_limit %}
+              <li class="page-item"><span class="page-link" onclick="displayValue({{i}})">{{i}}</span></li>
+              {% endfor %}
+              {% endif %}
+
+    </ul>
+  </nav>
+
+
+
+{% comment %}
+=====JAVASCRIPT CONTENT========
+{% endcomment %}
+
+<script>
+
+function searchValue() {
+
+  //Declaring variables needed to create a search through the metadat
+  let input, filter, cardContainer,cardInfo,data,searchQuery;
+  
+  //Gets the search bar by its id: mySearch
+  input = document.getElementById("mySearch");
+
+  //Gets the value that is typed into search bar
+  filter = input.value.trim().toUpperCase();
+
+  //Gets all of cards that is loaded based on the dataset and other criteria
+ cardContainer = document.querySelectorAll(".browseMenuCard");
+
+ cardContainer.forEach(card => {
+
+     data = card.querySelector("h5");
+
+    let searchQuery = (data?.textContent || "").toUpperCase();
+
+
+    if(filter == "" || searchQuery.indexOf(filter) > -1) {
+
+        card.style.display = "";
+
+    } else {
+
+      card.style.display = "none";
+
+    }
+
+
+ })
+
+
+}
+
+
+
+
+
+//Function used to display the metadata in bit size pieces.
+//So instead of displaying everything at once we split it up
+//into pages depending on the display_limit Jekyll variable we declared 
+//in the the HTML CONTENT
+
+function displayValue(currentpage){
+
+
+let data = {{bio | jsonify }};
+let startIndex = (currentpage - 1)*{{ display_limit }};
+let endIndex = startIndex + {{ display_limit }};
+let paginatedData = data.slice(startIndex,endIndex);
+
+console.log(startIndex+"-"+currentpage);
+console.log(paginatedData);
+
+let pagination = document.querySelectorAll(".page-item");
+
+pagination.forEach(function(link,i) {
+
+    link.classList.remove("active");
+
+    if ( i + 1 === currentpage ) {
+
+        link.classList.add("active");
+    }
+
+
+});
+
+
+let cardContent = '';
+
+cardContainer = document.querySelectorAll(".browseMenuCard");
+
+paginatedData.forEach(function(details,i) {
+
+    let index = i + 1;
+
+    cardContent += `
+
+    <div class="card col-4 browseMenuCard">
+      <div class="card-body">  
+        <h6 class="card-title text-center">${details.Author}</h6>
+        <img id="authorImgCard"  src="{{site.baseurl}}/authorphotos/${details.authorid}.jpg" />
+        <a id="publicationLink" href="{{site.baseurl}}/authors/${details.authorid}" class="card-link">Read More</a>
+    </div> 
+    </div>
+`;
+   
+});
+
+
+$('.content').html(cardContent);
+
+
+
+}
+
+displayValue(1);
+
+</script>

@@ -1,6 +1,5 @@
 ---
-layout: pagedefault
+layout: authors
 title: "Author | Claribel Terré Morell"
 authorid: ctmorell
 ---
-{% include loadAuthor.html %}

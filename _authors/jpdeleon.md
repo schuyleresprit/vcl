@@ -1,6 +1,5 @@
 ---
-layout: pagedefault
+layout: authors
 title: "Author | Juana Ponce de León"
 authorid: jpdeleon
 ---
-{% include loadAuthor.html %}
