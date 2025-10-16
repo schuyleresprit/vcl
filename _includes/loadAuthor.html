@@ -41,7 +41,7 @@
     
   
     <div class="authordetails">
-    <h6> <b>Country of Birth: </b><a href="{{ site.baseurl }}/{{author.mapId}}/">{{author.Country}}</a> <br>
+    <h6> <b>Country of Birth: </b><a href="{{ site.baseurl }}/countries/{{author.mapId}}/">{{author.Country}}</a> <br>
         <b>Lifespan:</b> {{author.Lifespan}} <br>
         {% if {{author.Wikimedia}} %}
         <p>Read furthur details on the author's biography<a class="bioResourceLinks" href="{{author.Wikimedia}}" target="_blank" > -sourced from Wikipedia</a></p>
@@ -49,9 +49,6 @@
         <p>This author does not have a Wikipedia page. But we are currently working on it!</p>
         {% endif %}
         </h6>
-        <div class="additional-resources">
-       {% include additional-resources.html %}
-        </div>
     </div>
        
         </div>
@@ -65,40 +62,57 @@
 
     {% assign sortedPubDate = site.data.publocation | sort:"Pubdate" %}
 
-
-    {% for author-publication in sortedPubDate %}
-    {% if page.authorid == author-publication.authorid %}
+<div class="accordion" id="authorPublication">
+<div class="accordion-item">
+<h2 class="accordion-header">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#authorPublicationCollapse"  aria-controls="authorPublicationCollapse">
+Publication
+</button>
+</h2>
+<div id="authorPublicationCollapse" class="accordion-collapse collapse" data-bs-parent="authorPublication">
+<div class="accordion-body">
+    {% for author_publication in sortedPubDate %}
+    {% if page.authorid == author_publication.authorid %}
 <div class="books">
    
-    <h3 class="publication_date"><b>Published in {{author-publication.Pubdate}}</b></h3>
+    <h3 class="publication_date"><b>Published in {{author_publication.Pubdate}}</b></h3>
 
             <div id="publicationImageContainer">
-            <img class="bookphoto" src="{{site.baseurl}}/bookphotos/{{author.authorid}}/{{author-publication.bookImgId}}.jpg" />
+            <img class="bookphoto" src="{{site.baseurl}}/bookphotos/{{author.authorid}}/{{author_publication.bookImgId}}.jpg" />
             </div>
 
             <div class="book_details">
-            <h4 class="publication_title"><b><i>{{author-publication.Title}}</i></b></h4>
+            <h4 class="publication_title"><b><i>{{author_publication.Title}}</i></b></h4>
            
             <div class="publication_summary">
-                <p>{{author-publication.Summary}}</p>
+                <p>{{author_publication.Summary}}</p>
               </div>
               <hr />
             <div class="publication_details">
               <p class="publication_genre">
-            <b><a href="{{site.baseurl}}/{{author-publication.Genre}}/">{{author-publication.Genre}}</a></b>,<b><span>{{author-publication.Sub_Genre}}</span></b>
+                {% for genre in site.genres %}
+                {%if author_publication.Genre == genre.genre %}
+                <span>{{genre_url}}</span>
+            <b><a href="{{site.baseurl}}{{genre.url}}">{{author_publication.Genre}}</a></b>,<b><span>{{author_publication.Sub_Genre}}</span></b>
+            {%endif%}
+            {%endfor%}
                 </p>
-                <p class="publication_language"><b><a href="{{site.baseurl}}/{{author-publication.Language}}/">{{author-publication.Language}}</a></b></p>
-                 <p class="publication_publisher"><b>{{author-publication.Publisher}}</b></p>
-                 <p class="publication_translation"><b>Translation: {{author-publication.Translation}}</b></p>
+                {% for language in site.languages %}
+                {%if author_publication.Language == language.language %}
+                <p class="publication_language"><b><a href="{{site.baseurl}}{{language.url}}/">{{author_publication.Language}}</a></b></p>
+                {%endif%}
+            {%endfor%}
+                 <p class="publication_publisher"><b>{{author_publication.Publisher}}</b></p>
+                 <p class="publication_translation"><b>{{author_publication.Translation}}</b></p>
              </div>
         </div>
 
         <p class="publicationResourceLinks">
-                <span><a id="Buy" href="{{auhtor-publication.Buy_Link}}" target="_blank">Buy</a></span>
+                <span><a id="Buy" href="{{auhtor_publication.Buy_Link}}" target="_blank">Buy</a></span>
                 <span>|</span>
-                <span><a id="Read" href="{{author-publication.Read_Link}}" target="_blank">Read</a></span>
+                <span><a id="Read" href="{{author_publication.Read_Link}}" target="_blank">Read</a></span>
                 <span>|</span>
-                <span><a id="Listen" href="{{author-publication.Listen_Link}}" target="_blank">Listen</a></span>
+                <span><a id="Listen" href="{{author_publication.Listen_Link}}" target="_blank">Listen</a></span>
               </p>
 <hr />
 </div>
@@ -110,6 +124,29 @@
             {% endfor %}
  {% endif %}
 {% endfor %}
+</div>
+</div>
+</div>
+</div>
+
+<div class="accordion" id="authorDLOC">
+    <div class="accordion-item">
+    <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#authorDLOCCollapse"  aria-controls="authorDLOCCollapse">
+    Digital Library of The Caribbean
+    </button>
+    </h2>
+    <div id="authorDLOCCollapse" class="accordion-collapse collapse" data-bs-parent="authorResource">
+    <div class="accordion-body">
+        {% for details in site.data.additional-resources %}
+        {% if page.authorid == details.authorid %}
+        <iframe width="100%" height="50%" src="{{details.resource_url}}"></iframe>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
+</div>
+</div>
 <!-- end tag for div that makes this two column-->
 </div>
 

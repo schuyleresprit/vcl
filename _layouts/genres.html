@@ -172,8 +172,8 @@ paginatedData.forEach(function(details,i) {
         <img class="img-fluid"  src="{{site.baseurl}}/bookphotos/${details.authorid}/${details.bookImgId}.jpg" />
         <div class="card-body">
             <h5 class="text-center">${details.Title}</h5>
-            <span class="translation">${details.Translation}</span><br/>
-            <span class="genre">${details.Language}</span><br />
+            <span class="translation">${details.Translation}</span>
+            <span class="genre">${details.Language}</span>
             <h6 class="card-subtitle text-center"><a href="{{ site.baseurl}}/authors/${ details.authorid }">${details.Author}</a></h4>
         </div>
     </div>
