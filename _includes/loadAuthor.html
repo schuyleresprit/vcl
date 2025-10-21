@@ -44,6 +44,7 @@
     <h6> <b>Country of Birth: </b><a href="{{ site.baseurl }}/countries/{{author.mapId}}/">{{author.Country}}</a> <br>
         <b>Lifespan:</b> {{author.Lifespan}} <br>
         {% if {{author.Wikimedia}} %}
+        <p>{{author.author_bio}}</p>
         <p>Read furthur details on the author's biography<a class="bioResourceLinks" href="{{author.Wikimedia}}" target="_blank" > -sourced from Wikipedia</a></p>
         {% else %}
         <p>This author does not have a Wikipedia page. But we are currently working on it!</p>
@@ -140,9 +141,49 @@ Publication
     <div class="accordion-body">
         {% for details in site.data.additional-resources %}
         {% if page.authorid == details.authorid %}
+        {% case details.resource_type %}
+        {% when 'video'%}
+        <h1>{{details.resource_title}}</h1>
+        <video controls >
+            <source src="{{details.resource_url}}">
+        </video>
+        <a href="{{details.resource_source_url}}"><p>View Resource Courtsey of dLOC</p></a>
+        <hr/>
+        {% when 'audio'%}
+        <h1>{{details.resource_title}}</h1>
+        <audio controls>
+            <source src="{{details.resource_url}}">
+        </audio>
+        <a href="{{details.resource_source_url}}"><p>Listen to Resource Courtsey of dLOC</p></a>
+        <hr />
+        {% when 'image'%}
+        {% assign img_url = details.resource_url| split:";" %}
+        <h1>{{details.resource_title}}</h1>
+        {% for url in img_url%}
+        <div class="d-flex">
+        <img class="img-fluid" src="{{url}}" >
+    </div>
+    <a href="{{details.resource_source_url}}"><p>View Resource Courtsey of dLOC</p></a>
+        {% endfor %}
+    <hr />
+        {% when 'pdf'%}
+        <a href="{{details.resource_source_url}}"><p>View PDF Resource Courtsey of dLOC</p></a>
+        <hr />
+        {% when 'website'%}
+        <h1>{{details.resource_title}}</h1>
         <iframe width="100%" height="50%" src="{{details.resource_url}}"></iframe>
+        <hr />
+        {% when 'embed'%}
+        {{details.resource_url}}
+        <hr/>
+        {% else %}
+        <p>Resources Not Located</p>
+        {%endcase%}
+        {%else%}
+        <p>No Resource Located.</p>
         {% endif %}
         {% endfor %}
+        
     </div>
 </div>
 </div>

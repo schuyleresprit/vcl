@@ -1,6 +1,6 @@
 ---
 layout: authors
-title: "Author | Adisa Andwele"
+title: "Author | Alexia Arthurs"
 authorid: aarthurs
 ---
 
