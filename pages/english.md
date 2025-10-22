@@ -4,6 +4,15 @@ title: English
 permalink: /English/
 ---
 
+<style>
+.img-fluid {
+    max-width: 100%;
+    min-height: 500px;
+    max-height: 500px;
+}
+</style>
+
+
 <div class="individual_language">
 <div class="background">
 <div class="overlay">
