@@ -214,3 +214,12 @@ display: none;
     max-height: 450px;
     min-height: 450px;
 }
+
+.card.col-4.browseMenuCard {
+    text-align: center;
+}
+
+h5.text-center {
+    font-weight: 400;
+    font-size: 20px;
+}
