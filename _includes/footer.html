@@ -6,13 +6,28 @@
 
 <style>
 
- .create_logo, .mona_logo, .wikimedia_logo {
-    width: 15% !important;
+ .create_logo {
+    width: 19% !important;
     display: inline-block;
 }
 
-.mellon_logo, .cdsc_logo {
+.mona_logo {
+  width: 15% !important;
+  display: inline-block;
+}
+
+.wikimedia_logo {
+  width: 15% !important;
+  display: inline-block;
+}
+
+.mellon_logo {
     width: 17% !important;
+    display: inline-block;
+}
+
+.cdsc_logo {
+   width: 15% !important;
     display: inline-block;
 }
 
@@ -38,7 +53,20 @@ p.copyright {
 .col-sm-6 img {
     width: 85%;
 }
-     </style>
+
+.licensed {
+  display: flex;
+  align-items: center;      /* Vertically center */
+  justify-content: center;  /* Optional: horizontally center */
+  height: 100%;             /* Ensures it fills its parent height */
+}
+
+.licensed p {
+  margin: 0; /* Remove default spacing */
+  text-align: center; /* Optional: center text alignment */
+}
+</style>
+
 </head>
 <body>
 <footer class="footer">
@@ -91,9 +119,11 @@ p.copyright {
   </div>
 
         <div class="col-sm-3">
+          <div class="licensed">
             <p>
                 This project is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode"> Creative Commons Attribution 4.0 International (CC by 4.0)</a> license.
             </p>
+          </div>  
         </div> 
 
       </div>  
@@ -103,36 +133,3 @@ p.copyright {
   </footer> 
 </body> 
   </html> 
-
-
-<!----
-<footer class="mt-5">
-  <div class="footer">
-    <div class="row">
-
-      <div class="col-sm-4">
-        <p>Area</p>
-      </div>
-
-        <div class="col-sm-4">
-          <div class="logos">
-          <div class="create_logo">
-            <img src="{{ site.baseurl }}/assets/img/CreateLogoNEW.png" width="300px"/>
-            </div>
-
-            <div class="mellon_logo">
-              <img src="{{ site.baseurl }}/assets/img/logo-mellon.png"/>
-              </div>
-
-              <div class="cdsc_logo">
-                <img src="{{ site.baseurl }}/assets/img/CDSC-logo-color-s.png" padding-top="10px"/>
-                </div>
-          </div>
-          </div>
-
-    <div class="col-sm-4">
-      <p> Visualizing Caribbean Literature is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode"> Creative Commons Attribution 4.0 International (CC by 4.0)</a> license.</p>
-    </div>
-    </div>
-</footer>
--->
