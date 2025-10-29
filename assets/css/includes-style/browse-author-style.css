@@ -1,3 +1,24 @@
+#authorImgCard {
+  width: 120px !important;
+  height: 120px !important;
+  border-radius: 10%;
+  object-fit: cover;
+}
+
+.card-title {
+  color: #216B4D;
+  font-size: 110%;
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.card-link {
+  font-size: medium;
+  text-align: center;
+}
+
+
 .authorbiodata {
     text-align: center;
     background: #f0eeeb;
