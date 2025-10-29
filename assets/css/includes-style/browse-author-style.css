@@ -1,225 +1,115 @@
-/*
-
-Stylesheet for browse-authors
-
-*/
-
-
-
-
-
-.row.justify-content-center.content{
-
-    margin: 15px 30px;
-}
-
-
-.card.col-4 {
-  background-color: #fff !important;
-  border: none;
-}
-
-
-#authorImgCard {
-  width: 120px !important;
-  height: 120px !important;
-  border-radius: 10%;
-  object-fit: cover;
-}
-
-.card-title {
-  color: #216B4D;
-  font-size: 110%;
-  font-weight: 700;
-  text-align: center;
-  white-space: nowrap;
-}
-
-.card-link {
-  font-size: medium;
-  text-align: center;
+.authorbiodata {
+    text-align: center;
+    background: #f0eeeb;
+    padding: 19px 20px;
 }
 
 .authorimg img {
-  border-radius: 50%;
-  width: 300px;
+    border-radius: 50%;
+    width: 300px;
     height: 300px;
-
 }
 
-.authorbiodata {
-  text-align: center;
-  background: #f0eeeb;
-  padding: 19px 0;
+/* --- BOOKS LAYOUT FIX --- */
+
+.books {
+  width: 100%;
+  margin-bottom: 35px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #ccc;
 }
 
-.authorbiodata h3 {
-  font-weight: 600;
+.book_details h4 {
+    font-size: large;
 }
 
-.authordetails h6 {
-  line-height: 33px;
-}
-
-  .button-container{
-      text-align: center;
-  }
-
-  #pagination{
-      padding-top: 3px;
-      text-align: center;
-  }
-
-  [data-letter]{
-      background-color: transparent;
-      text-align: center;
-      color: #000;
-      text-decoration: none;
-      border: 1px solid;
-      display: inline-flex;
-      padding: 10px;
-      /*margin: 0px 3px;*/
-      font-size: 14px;
-      }
-      [data-letter] a {
-        color: #000;
-        text-decoration: none;
-      }
-
-     [data-letter]:hover {
-      background-color: #216B4D;
-      color: #fff;
-     } 
-
-     #pagination button:hover {
-      background-color: #216B4D;
-      color: #fff;
-     } 
-
-     [data-letter]:focus{
-      background-color: #216B4D;
-     }
-
-     #pagination .active:focus{
-      background-color: #216B4D;
-      border-radius: 100%;
-     }
-
-     #pagination button {
-      background-color: transparent;
-      text-align: center;
-      color: #000;
-      text-decoration: none;
-      border: none;
-      display: inline-flex;
-      padding: 10px;
-      margin: 0px 3px;
-      font-size: 14px;
-     }
-
-
-
-
-
-
-.books{
-  margin-bottom: 0;
-}
-
-.bookphoto {
-  height: 100%;
-  width: 150px;
-  float: left;  
-  } 
-  
-  .book_details{
-   height: 100%;
-   width: 150px;
-  }
-
-.book_details, .bookphoto {
-  display: inline;
-}
-
-.publication_summary{
-  font-size: 1em;
-    font-weight: 400;
-    text-align: right;
-    height: 100px;
-    overflow-x: hidden;
-    overflow-y: auto;
-    margin-top: 5px;
-    padding-left: 10px;
-}
-
-.publication_summary p:focus{
-
-  border-left: 2px solid #216B4D;
-  border-right: 2px solid #216B4D;
-}
-
+/* "Published in" centered above the book details */
 .publication_date {
-  font-size: 26px;
   text-align: center;
- 
+  margin-bottom: 15px;
 }
 
 .publication_date h3 {
-  font-size: 26px;
-  padding-bottom: 23px;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+  color: #000;
 }
 
-.publication_title {
-  font-size: 22px;
-  text-align: center;
+/* Keep image fixed on the left */
+.bookphoto {
+  float: left;
+  width: 200px;     /* fixed width for image box */
+  height: 260px;    /* fixed height for image box */
+  margin-right: 20px;
+  background-color: #f3f3f3;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* Make all book images fit neatly */
+.bookphoto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Text content always stays to the right of image */
+.book_details {
+  overflow: hidden; /* clears float without extra markup */
+}
+
+/* Title and details formatting */
+.publication_title h5 {
+  font-size: 20px;
   color: #216B4D;
+  font-weight: 600;
+  text-align: left;
+  margin-bottom: 8px;
 }
 
-
-.publication_genre , .publicatiion_language, .publication_publisher , .publisher_translation {
-  font-weight: 300;
-  font-size: 14px;
-  text-align: right;
-  margin-top: 5px;
+.publication_genre p,
+.publication_publisher p {
+  font-size: 15px;
+  color: #333;
+  line-height: 1.5;
+  margin-bottom: 8px;
 }
 
-.publicationResourceLinks{
-  font-weight: bold;
-  text-align: right;
-  font-size: 16px;
- margin-top: 15px;
- margin-bottom: 15px;
+.publication_genre a,
+.publication_publisher a {
+  color: #216B4D;
+  text-decoration: none;
 }
 
-.yearFilterSlider{
-
-  float: right;
+.publication_genre a:hover,
+.publication_publisher a:hover {
+  text-decoration: underline;
 }
 
-.publicationResourceLinks a[href="#"] {
-
-  color: gray;
-    text-decoration: none;
-    pointer-events: none;
-    cursor: not-allowed;
+/* Horizontal line should always show fully */
+.books hr {
+  display: none;
 }
 
-.bioResourceLinks  a[href=""] {
+/* Optional: make it look cleaner on smaller screens */
+@media (max-width: 768px) {
+  .bookphoto {
+    float: none;
+    margin: 0 auto 15px auto;
+    display: block;
+  }
 
-display: none;
-}
-
-  .img-fluid {
-    max-width: 100%;
-    max-height: 450px;
-    min-height: 450px;
-}
-
-.card.col-4.browseMenuCard {
+  .book_details {
     text-align: center;
-}
+  }
 
-h5.text-center {
-    font-weight: 400;
-    font-size: 20px;
+  .publication_title h5 {
+    text-align: center;
+  }
 }
