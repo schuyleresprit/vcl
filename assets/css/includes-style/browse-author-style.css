@@ -1,3 +1,12 @@
+ .button-container{
+      text-align: center;
+  }
+
+  #pagination{
+      padding-top: 3px;
+      text-align: center;
+  }
+
 #authorImgCard {
   width: 120px !important;
   height: 120px !important;
@@ -114,6 +123,27 @@
 .publication_publisher a:hover {
   text-decoration: underline;
 }
+
+[data-letter]{
+      background-color: transparent;
+      text-align: center;
+      color: #000;
+      text-decoration: none;
+      border: 1px solid;
+      display: inline-flex;
+      padding: 10px;
+      /*margin: 0px 3px;*/
+      font-size: 14px;
+    }
+      [data-letter] a {
+        color: #000;
+        text-decoration: none;
+      }
+
+     [data-letter]:hover {
+      background-color: #216B4D;
+      color: #fff;
+     } 
 
 /* Horizontal line should always show fully */
 .books hr {
