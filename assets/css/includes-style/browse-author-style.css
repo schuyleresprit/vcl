@@ -27,6 +27,8 @@
 .publication_date {
   text-align: center;
   margin-bottom: 15px;
+  padding-bottom: 30px;
+  text-shadow: 2px 2px #d5d5d5;
 }
 
 .publication_date h3 {
@@ -39,8 +41,8 @@
 /* Keep image fixed on the left */
 .bookphoto {
   float: left;
-  width: 200px;     /* fixed width for image box */
-  height: 260px;    /* fixed height for image box */
+  width: 140px;
+  height: 200px;
   margin-right: 20px;
   background-color: #f3f3f3;
   border: 1px solid #ddd;
