@@ -37,7 +37,7 @@ layout: pagedefault
 
 {% if total_entries <= display_limit %}
 <div class="browse-metadata">
-<span>Displaying {{ total_entries }} title(s)</span>
+<span>Displaying {{ total_entries }} book(s)</span>
 </div>
 {% elsif total_entries > display_limit %}
     <div class="browse-metadata">
@@ -170,7 +170,7 @@ paginatedData.forEach(function(details,i) {
         <div class="card-body">
             <h5 class="text-center">${details.Title}</h5>
             <span class="translation">${details.Translation}</span>
-            <a href="{{genre.url}}"><span class="genre">${details.Genre}</span></a>
+            <span class="genre">${details.Genre}</span>
             <h6 class="card-subtitle text-center"><a href="{{ site.baseurl}}/authors/${ details.authorid }">${details.Author}</a></h4>
         </div>
     </div>
