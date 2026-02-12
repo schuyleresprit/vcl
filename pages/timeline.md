@@ -7,7 +7,7 @@ permalink: /timeline/
 <hr />
 
 
-The Timeline visualizations showcases the span of time for caribbean literature
+The Timeline visualizations showcases the span of time for Caribbean Literature
 
 
 ##### Directions
