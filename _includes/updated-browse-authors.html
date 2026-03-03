@@ -350,7 +350,7 @@
     const frag = document.createDocumentFragment();
     list.forEach(row => {
       const name = row.name || row.title || "(No Name)";
-      const img  = row.image_url || row.image || "{{site.baseurl}}/authorphotos/" + row.authorid + ".jpg" ||"{{site.baseurl}}/assets/img/wikimedia_logo.png";
+      const img  = row.image_url || row.image || "{{site.baseurl}}/authorphotos/" + row.authorid + ".jpg" ||"{{site.baseurl}}/assets/img/unknown_person.jpg";
       const href = `{{site.baseurl}}/profile/?id=${encodeURIComponent(row.authorid)}`;
     
       console.log(row.slug);

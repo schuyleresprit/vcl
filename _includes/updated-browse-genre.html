@@ -356,7 +356,7 @@ function render(list) {
   const frag = document.createDocumentFragment();
   list.forEach(row => {
     const name = row.name || row.title || "(No Name)";
-    const img  = row.image_url || row.image || "{{site.baseurl}}/authorphotos/" + row.authorid + ".jpg" ||"";
+    const img  = row.image_url || row.image || "{{site.baseurl}}/bookphotos/" + row.authorid + "/" + row.bookimgid + ".jpg" ||"{{site.baseurl}}/assets/img/unknown_book.jpg";
     const idSlug = slugify(row.author);
     const href = `{{site.baseurl}}/profile/?id=${encodeURIComponent(row.authorid)}`;
   
@@ -367,13 +367,13 @@ function render(list) {
     li.innerHTML = `
       <div class="card">
       <div class="card-body">
-        <img class="img-fluid" src="{{site.baseurl}}/bookphotos/${row.authorid}/${row.bookimgid}.jpg" />
-          <h6 class="card-title text-truncate" title="${name}">${name}</h6>
+        <img class="img-fluid" src="${img}" />
+          <h6 class="card-title text-truncate" title="${row.title}">${row.title}</h6>
           <div>
             <a href="{{site.baseurl}}/${encodeURIComponent(row.language)}" class="card-link">${row.language}</a>
             <span class="card-subtitle">${row.translation}</span>
             </div>
-           <a href="${href}" class="card-link" aria-label="Author ${row.author}">${row.author}</a>
+           <a href="${href}" class="card-link" aria-label="Author ${name}"><p class="card-subtitle">${name}</p>
           
       </div>
   </div>
