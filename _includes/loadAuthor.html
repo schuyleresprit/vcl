@@ -108,7 +108,7 @@ Publication
         </div>
 
         <p class="publicationResourceLinks">
-                <span><a id="Buy" href="{{auhtor_publication.Buy_Link}}" target="_blank">Buy</a></span>
+                <span><a id="Buy" href="{{author_publication.Buy_Link}}" target="_blank">Buy</a></span>
                 <span>|</span>
                 <span><a id="Read" href="{{author_publication.Read_Link}}" target="_blank">Read</a></span>
                 <span>|</span>
@@ -138,42 +138,42 @@ Publication
     </h2>
     <div id="authorDLOCCollapse" class="accordion-collapse collapse" data-bs-parent="authorResource">
     <div class="accordion-body">
-        {% for details in site.data.additional-resources %}
+        {% for details in site.data.additional_resources %}
         {% if page.authorid == details.authorid %}
         {% case details.resource_type %}
         {% when 'video'%}
         <h1>{{details.resource_title}}</h1>
         <video controls >
-            <source src="{{details.resource_url}}">
+            <source src="{{details.resource_sample_url}}">
         </video>
-        <a href="{{details.resource_source_url}}"><p>View Resource Courtsey of dLOC</p></a>
+        <a href="{{details.resource_full_url}}"><p>View Resource Courtsey of dLOC</p></a>
         <hr/>
         {% when 'audio'%}
         <h1>{{details.resource_title}}</h1>
         <audio controls>
-            <source src="{{details.resource_url}}">
+            <source src="{{details.resource_sample_url}}">
         </audio>
-        <a href="{{details.resource_source_url}}"><p>Listen to Resource Courtsey of dLOC</p></a>
+        <a href="{{details.resource_full_url}}"><p>Listen to Resource Courtsey of dLOC</p></a>
         <hr />
         {% when 'image'%}
-        {% assign img_url = details.resource_url| split:";" %}
+        {% assign img_url = details.resource_sample_url| split:";" %}
         <h1>{{details.resource_title}}</h1>
         {% for url in img_url%}
         <div class="d-flex">
         <img class="img-fluid" src="{{url}}" >
     </div>
-    <a href="{{details.resource_source_url}}"><p>View Resource Courtsey of dLOC</p></a>
+    <a href="{{details.resource_full_url}}"><p>View Resource Courtsey of dLOC</p></a>
         {% endfor %}
     <hr />
         {% when 'pdf'%}
-        <a href="{{details.resource_source_url}}"><p>View PDF Resource Courtsey of dLOC</p></a>
+        <a href="{{details.resource_full_url}}"><p>View PDF Resource Courtsey of dLOC</p></a>
         <hr />
         {% when 'website'%}
         <h1>{{details.resource_title}}</h1>
-        <iframe width="100%" height="50%" src="{{details.resource_url}}"></iframe>
+        <iframe width="100%" height="50%" src="{{details.resource_sample_url}}"></iframe>
         <hr />
         {% when 'embed'%}
-        {{details.resource_url}}
+        {{details.resource_full_url}}
         <hr/>
         {% else %}
         <p>Resources Not Located</p>
