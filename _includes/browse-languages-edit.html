@@ -1,25 +1,12 @@
 
 <div class="container">
-    <div class="input-group mb-3">
-        <input id="search-box" type="text" class="form-control" placeholder="Search For a Language of Caribbean Literature">
-    </div>
+ 
 
     <div id="data-container" class="row">
     </div>
 </div>
 
-<div class="row justify-content-center content">
-    {% for details in site.data.language %}
-    {% assign language-url = details.language | slugify %}
-          <div class="card col-4">
-        <div class="card-body">
-            <h5 class="card-title">{{details.language}}</h5>
-            <a href="{{site.baseurl}}/languages/{{language-url}}" class="card-link">More</a>
-        </div>
-    </div>
-    
-    {% endfor %}
-</div>
+<div id="display" class="row justify-content-center content">
 
 <div id="data-container" class="row justify-content-center">
     
@@ -29,3 +16,32 @@
 
 <!--Pagination bar for Author's Cards -->
 <div id="pagination"></div>
+<script>
+  
+    
+//Dynmically loading language from data sheet.
+
+const publications = {{site.data.publocation | group_by: "Language" | jsonify }}
+
+const display = document.getElementById("display");
+
+publications.forEach( 
+    
+details => {
+display.innerHTML += `
+
+          <div class="card col-4">
+        <div class="card-body">
+        <h5 class="card-title">${details.name} <span>(${details.size})</span></h5>
+        <a href="{{site.baseurl}}/${encodeURIComponent(details.name)}" class="card-link">View More</a>
+        </div>
+    </div>
+    
+</div>
+
+
+`;
+});
+
+
+</script>

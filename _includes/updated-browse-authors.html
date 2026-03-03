@@ -1,0 +1,1085 @@
+
+<!--
+<div class="search-bar" style="display:flex; gap:0.75rem; align-items:center; margin:1rem 0;">
+  <label for="searchField">Search:</label>
+  <input id="searchField" type="search" placeholder="Type to filter…" style="flex:1; padding:0.5rem;">
+-->
+<div class="mb-3 search-bar">
+    <label for="searchField" class="form-label w-50">Search</label>
+    <input type="search" class="form-control" id="searchField" placeholder="Search database ...">
+  </div>
+  
+  <label for="categorySelect">in</label>
+  <select id="categorySelect" class="form-select w-25" style="padding:0.5rem;"></select>
+  
+  
+  
+  
+  
+  <!-- Primary facet row: chips left, clear button right -->
+  <div class="facet-primary-row">
+  <div id="facetPrimary" class="facet-primary"></div>
+  <button id="clearAllBtn" type="button" class="btn-clear-all">Clear all filters</button>
+  </div>
+  
+  <!-- Secondary facet chips -->
+  <div id="facetSecondary" class="facet-secondary"></div>
+  
+  <p id="count"></p>
+  
+  <ul id="results" style="list-style:none; padding:0; margin:0;">
+  <!-- results go here -->
+  </ul>
+  
+  <!-- Pagination bar -->
+  <div id="pagination" class="pagination"></div>
+  
+  <!-- Keep ONE JSON block -->
+  <script id="DATA" type="application/json">
+    {{ site.data["biography"] | jsonify }}
+  </script>
+  
+  <script>
+  (function () {
+  const $ = (id) => document.getElementById(id);
+  const safe = (x) => (x == null ? "" : String(x));
+  const normalizeHeader = (h) => String(h||"").trim().toLowerCase()
+    .replace(/&/g,"and").replace(/[@]/g,"at")
+    .replace(/\s+/g,"_").replace(/[^\w]+/g,"_")
+    .replace(/_+/g,"_").replace(/^_|_$/g,"");
+  const slugify = (s) => String(s||"").trim().toLowerCase()
+    .normalize("NFKD").replace(/[\u0300-\u036f]/g,"")
+    .replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"");
+  
+  // --- URL params helpers (NEW) ---
+  function getQueryParam(name) {
+    try {
+      const params = new URLSearchParams(window.location.search);
+      return params.get(name);
+    } catch (e) {
+      return null;
+    }
+  }
+  function coerceAllField(value) {
+    if (!value) return "__ALL__";
+    return value === "__ALL__" ? "__ALL__" : value;
+  }
+  
+  const PAGE_SIZE = 50;          // how many per page
+  let currentPage = 1;           // 1-based
+  let filteredList = [];         // current filtered & sorted list
+  
+  // Parse JSON
+  const RAW = (() => {
+    try { return JSON.parse(document.getElementById("DATA").textContent) || []; }
+    catch(e){ console.error(e); return []; }
+  })();
+  if (!RAW.length) { $("results").innerHTML = "<li>No data</li>"; return; }
+  
+  // Headers
+  const HEADERS = Object.keys(RAW[0]).map(orig => {
+    const label = String(orig||"").trim() || "(Unnamed column)";
+    return { original: orig, key: normalizeHeader(label), label };
+  });
+  const LABEL_BY_KEY = Object.fromEntries(HEADERS.map(h => [h.key, h.label]));
+  const KEYS_SET = new Set(HEADERS.map(h => h.key));
+  const KEY_BY_LABEL_NORM = Object.fromEntries(HEADERS.map(h => [normalizeHeader(h.label), h.key]));
+  
+  // Normalize rows + slug
+  const DATA = RAW.map(row => {
+    const out = {};
+    for (const h of HEADERS) out[h.key] = safe(row[h.original]);
+    out.slug = slugify(out.name || out.title || out.name_ || out["name_"]);
+    return out;
+  });
+  
+  // Resolve likely column keys by a set of candidates (key names and labels)
+  function resolveKey(candidates) {
+    for (const c of candidates) {
+      const norm = normalizeHeader(c);
+      if (KEYS_SET.has(norm)) return norm;
+      if (KEY_BY_LABEL_NORM[norm]) return KEY_BY_LABEL_NORM[norm];
+    }
+    return null;
+  }
+  
+  const KEY = {
+    name   : resolveKey(["name","title","full name","person","display name","name_"]),
+    country: resolveKey(["country","nation","country/region","location country"]),
+    type   : resolveKey(["type","role","kind"]),
+    genre  : resolveKey(["genre/type","genre_type","genre","category"])
+  };
+  
+  // DOM
+  const searchEl     = $("searchField");
+  const selectEl     = $("categorySelect");
+  const resultsEl    = $("results");
+  const countEl      = $("count");
+  const primaryEl    = $("facetPrimary");
+  const secondaryEl  = $("facetSecondary");
+  const paginationEl = $("pagination");
+  
+  // Build dropdown
+  function buildSelect() {
+    selectEl.innerHTML = "";
+    const optAll = document.createElement("option");
+    optAll.value = "__ALL__";
+    optAll.textContent = "All fields";
+    selectEl.appendChild(optAll);
+    HEADERS.slice().sort((a,b)=>a.label.localeCompare(b.label)).forEach(h=>{
+      const o = document.createElement("option");
+      o.value = h.key; o.textContent = h.label; selectEl.appendChild(o);
+    });
+  }
+  
+  // Active filters (single-select per facet as requested)
+  const filters = {
+    nameLetter: null,     // 'A'...'Z'
+    country   : null,
+    type      : null,
+    genre     : null
+  };
+  
+  // Which primary facet is currently expanded in the secondary bar
+  let activePrimary = null; // one of 'name','country','type','genre' or null
+  
+  // Helpers
+  function getDisplayName(r) { return safe(r[KEY.name] || r.name || r.title); }
+  
+  function firstAlphaLetter(s) {
+    const m = String(s||"").toUpperCase().match(/[A-Z]/);
+    return m ? m[0] : null;
+  }
+  
+  function uniqueValues(key, splitBy=null) {
+    if (!key) return [];
+    const set = new Set();
+    for (const it of DATA) {
+      let raw = it[key];
+      if (!raw) continue;
+      if (splitBy) {
+        String(raw).split(splitBy).map(v=>v.trim()).filter(Boolean).forEach(v=>set.add(v));
+      } else {
+        const v = String(raw).trim();
+        if (v) set.add(v);
+      }
+    }
+    return Array.from(set).sort((a,b)=>a.localeCompare(b, undefined, {numeric:true, sensitivity:"base"}));
+  }
+  
+  // Precompute secondary options
+  const options = {
+    nameLetters: (() => {
+      if (!KEY.name) return [];
+      const set = new Set();
+      for (const it of DATA) {
+        const letter = firstAlphaLetter(getDisplayName(it));
+        if (letter) set.add(letter);
+      }
+      return Array.from(set).sort();
+    })(),
+    countries: uniqueValues(KEY.country),
+    types    : uniqueValues(KEY.type),
+    genres   : uniqueValues(KEY.genre, /[,;|]/)
+  };
+  
+  // Render primary bar (only show chips for facets that exist)
+  function renderPrimary() {
+    primaryEl.innerHTML = "";
+    const prims = [];
+  
+    if (KEY.name)    prims.push({key:'name',    label:'Name'});
+    if (KEY.country) prims.push({key:'country', label:'Country'});
+    if (KEY.type)    prims.push({key:'type',    label:'Type'});
+    if (KEY.genre)   prims.push({key:'genre',   label: LABEL_BY_KEY[KEY.genre] || 'Genre'});
+  
+    prims.forEach(p => {
+      const chip = document.createElement('button');
+      chip.type = 'button';
+      chip.className = 'chip chip-primary' + (activePrimary === p.key ? ' active' : '');
+      const hasActive = (p.key === 'name'    && !!filters.nameLetter)
+                     || (p.key === 'country' && !!filters.country)
+                     || (p.key === 'type'    && !!filters.type)
+                     || (p.key === 'genre'   && !!filters.genre);
+      chip.innerHTML = hasActive ? `${p.label}<span class="chip-dot" aria-hidden="true"></span>` : p.label;
+      chip.addEventListener('click', () => {
+        activePrimary = activePrimary === p.key ? null : p.key;
+        renderPrimary();
+        renderSecondary();
+      });
+      primaryEl.appendChild(chip);
+    });
+  }
+  
+  // Render secondary bar based on activePrimary
+  function renderSecondary() {
+    secondaryEl.innerHTML = "";
+    if (!activePrimary) return;
+  
+    const wrap = document.createElement('div');
+    wrap.className = 'facet-secondary-section';
+  
+    const title = document.createElement('div');
+    title.className = 'facet-title';
+    title.textContent = (
+      activePrimary === 'name'    ? 'Pick a letter'
+    : activePrimary === 'country' ? (LABEL_BY_KEY[KEY.country] || 'Country')
+    : activePrimary === 'type'    ? (LABEL_BY_KEY[KEY.type] || 'Type')
+    :                               (LABEL_BY_KEY[KEY.genre] || 'Genre')
+    );
+  
+    const row = document.createElement('div');
+    row.className = 'facet-row';
+  
+    let vals = [];
+    let selected = null;
+  
+    if (activePrimary === 'name') {
+      vals = options.nameLetters;
+      selected = filters.nameLetter;
+    } else if (activePrimary === 'country') {
+      vals = options.countries;
+      selected = filters.country;
+    } else if (activePrimary === 'type') {
+      vals = options.types;
+      selected = filters.type;
+    } else {
+      vals = options.genres;
+      selected = filters.genre;
+    }
+  
+    vals.forEach(v => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'btn btn-info ';
+      btn.textContent = v;
+      if (selected === v) btn.classList.add('active');
+      btn.addEventListener('click', () => {
+        if (activePrimary === 'name') {
+          filters.nameLetter = (filters.nameLetter === v ? null : v);
+        } else if (activePrimary === 'country') {
+          filters.country = (filters.country === v ? null : v);
+        } else if (activePrimary === 'type') {
+          filters.type = (filters.type === v ? null : v);
+        } else {
+          filters.genre = (filters.genre === v ? null : v);
+        }
+  
+        row.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+        if (
+          (activePrimary === 'name'    && filters.nameLetter === v) ||
+          (activePrimary === 'country' && filters.country    === v) ||
+          (activePrimary === 'type'    && filters.type       === v) ||
+          (activePrimary === 'genre'   && filters.genre      === v)
+        ) btn.classList.add('active');
+  
+        renderPrimary();
+        applyFiltersAndRender(true);  // reset to page 1 when filters change
+      });
+      row.appendChild(btn);
+    });
+  
+    const ctrls = document.createElement('div');
+    ctrls.className = 'facet-controls';
+    const clearBtn = document.createElement('button');
+    clearBtn.className = 'facet-clear';
+    clearBtn.type = 'button';
+    clearBtn.textContent = 'Clear';
+    clearBtn.addEventListener('click', () => {
+      if (activePrimary === 'name')         filters.nameLetter = null;
+      else if (activePrimary === 'country') filters.country    = null;
+      else if (activePrimary === 'type')    filters.type       = null;
+      else                                  filters.genre      = null;
+      renderPrimary();
+      renderSecondary();
+      applyFiltersAndRender(true);
+    });
+    ctrls.appendChild(clearBtn);
+  
+    wrap.appendChild(title);
+    wrap.appendChild(row);
+    wrap.appendChild(ctrls);
+    secondaryEl.appendChild(wrap);
+  }
+  
+  // Text search helpers
+  function includesCI(h, n) { return safe(h).toLowerCase().includes(safe(n).toLowerCase()); }
+  
+  function recordMatchesText(record, q, key) {
+    if (!q) return true;
+    if (key === "__ALL__") {
+      return HEADERS.some(h => includesCI(record[h.key], q));
+    }
+    return includesCI(record[key], q);
+  }
+  
+  // Facet checks
+  function recordMatchesFacets(record) {
+    if (filters.nameLetter && KEY.name) {
+      const letter = firstAlphaLetter(getDisplayName(record));
+      if (letter !== filters.nameLetter) return false;
+    }
+    if (filters.country && KEY.country) {
+      const v = String(record[KEY.country] || "").trim();
+      if (v !== filters.country) return false;
+    }
+    if (filters.type && KEY.type) {
+      const v = String(record[KEY.type] || "").trim();
+      if (v !== filters.type) return false;
+    }
+    if (filters.genre && KEY.genre) {
+      const raw = String(record[KEY.genre] || "");
+      const list = raw.split(/[,;|]/).map(s=>s.trim()).filter(Boolean);
+      if (!list.includes(filters.genre)) return false;
+    }
+    return true;
+  }
+  
+  function filterData(q, key) {
+    return DATA.filter(r => recordMatchesText(r, q, key) && recordMatchesFacets(r));
+  }
+  
+  // Render: grid (one page slice)
+  function render(list) {
+    resultsEl.innerHTML = "";
+    if (!list.length) {
+      resultsEl.innerHTML = `<li class="stakeholder-card">No results.</li>`;
+      return;
+    }
+  
+    const frag = document.createDocumentFragment();
+    list.forEach(row => {
+      const name = row.name || row.title || "(No Name)";
+      const img  = row.image_url || row.image || "{{site.baseurl}}/authorphotos/" + row.authorid + ".jpg" ||"{{site.baseurl}}/assets/img/wikimedia_logo.png";
+      const href = `{{site.baseurl}}/profile/?id=${encodeURIComponent(row.authorid)}`;
+    
+      console.log(row.slug);
+  
+    
+      const li = document.createElement("li");
+      li.className = "stakeholder-tile";
+      li.innerHTML = `
+     <a class="tile-link" href="${href}" aria-label="View ${name}">
+          <div class="tile-image">
+            
+            ${img ? `<img class="img-fluid" src="${img}" alt="${name}">`
+                  : `<div class="tile-placeholder" aria-hidden="true"></div>`}
+          
+  
+          </div>
+          <div class="tile-name">${name}</div>
+        </a>
+
+      `;
+      frag.appendChild(li);
+    });
+    resultsEl.appendChild(frag);
+  }
+  
+  // Pagination rendering
+  function renderPagination(totalPages) {
+    paginationEl.innerHTML = "";
+    if (totalPages <= 1) return;
+  
+    const makeButton = (label, page, opts={}) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.textContent = label;
+      btn.className = "btn btn-link";
+      if (opts.disabled) btn.disabled = true;
+      if (opts.active) btn.classList.add("active");
+      if (!opts.disabled && page != null) {
+        btn.addEventListener("click", () => {
+          currentPage = page;
+          renderCurrentPage();
+        });
+      }
+      return btn;
+    };
+  
+    const total = totalPages;
+  
+    // Prev
+    paginationEl.appendChild(
+      makeButton("«", currentPage - 1, { disabled: currentPage <= 1 })
+    );
+  
+    // Page numbers (compact)
+    const pages = [];
+    if (total <= 7) {
+      for (let i = 1; i <= total; i++) pages.push(i);
+    } else {
+      pages.push(1);
+      const left = Math.max(2, currentPage - 1);
+      const right = Math.min(total - 1, currentPage + 1);
+  
+      if (left > 2) pages.push("…");
+      for (let i = left; i <= right; i++) pages.push(i);
+      if (right < total - 1) pages.push("…");
+      pages.push(total);
+    }
+  
+    pages.forEach(p => {
+      if (p === "…") {
+        const span = document.createElement("span");
+        span.className = "page-ellipsis";
+        span.textContent = "…";
+        paginationEl.appendChild(span);
+      } else {
+        paginationEl.appendChild(
+          makeButton(String(p), p, { active: p === currentPage })
+        );
+      }
+    });
+  
+    // Next
+    paginationEl.appendChild(
+      makeButton("»", currentPage + 1, { disabled: currentPage >= total })
+    );
+  }
+  
+  // Render current page from filteredList
+  function renderCurrentPage() {
+    const total = filteredList.length;
+    const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+    if (currentPage > totalPages) currentPage = totalPages;
+  
+    const startIdx = (currentPage - 1) * PAGE_SIZE;
+    const pageSlice = filteredList.slice(startIdx, startIdx + PAGE_SIZE);
+  
+    // Update count text
+    if (!total) {
+      countEl.textContent = "0 results";
+    } else {
+      const from = startIdx + 1;
+      const to = startIdx + pageSlice.length;
+      countEl.textContent = `${total} result${total === 1 ? "" : "s"} (showing ${from}–${to})`;
+    }
+  
+    render(pageSlice);
+    renderPagination(totalPages);
+  }
+  
+  // Filter + sort + reset page if needed
+  function applyFiltersAndRender(resetPage = false) {
+    const q   = searchEl ? searchEl.value.trim() : "";
+    const key = selectEl ? selectEl.value : "__ALL__";
+    let list = filterData(q, key);
+  
+    // Sort alphabetically by display name by default
+    list.sort((a, b) =>
+      getDisplayName(a).localeCompare(getDisplayName(b), undefined, { sensitivity: "base" })
+    );
+  
+    filteredList = list;
+    if (resetPage) currentPage = 1;
+    renderCurrentPage();
+  }
+  
+  // Init
+  buildSelect();
+  
+  // --- Apply URL parameters on load (NEW) ---
+  // Supported:
+  //   /browse/?country=Jamaica
+  //   /browse/?q=some+text
+  //   /browse/?field=__ALL__  (or a specific normalized header key)
+  //   /browse/?country=Jamaica&q=music&field=__ALL__
+  const urlCountry = getQueryParam("country");
+  const urlQ = getQueryParam("q");
+  const urlField = getQueryParam("field");
+  
+  if (urlQ && searchEl) searchEl.value = urlQ;
+  if (urlField && selectEl) selectEl.value = coerceAllField(urlField);
+  
+  if (urlCountry && KEY.country) {
+    // Only set if it exists as an option (avoids dead filters due to typos)
+    if (options.countries.includes(urlCountry)) {
+      filters.country = urlCountry;
+    } else {
+      // fallback: try a trimmed match
+      const trimmed = String(urlCountry).trim();
+      if (options.countries.includes(trimmed)) filters.country = trimmed;
+    }
+  }
+  
+  // If we came in via URL with a country, optionally open the Country facet UI
+  if (filters.country) activePrimary = "country";
+  
+  renderPrimary();
+  renderSecondary();
+  
+  // Initial render: respects URL params
+  applyFiltersAndRender(true);
+  
+  if (searchEl) {
+    searchEl.addEventListener("input", () => applyFiltersAndRender(true));
+  }
+  if (selectEl) {
+    selectEl.addEventListener("change", () => applyFiltersAndRender(true));
+  }
+  
+  const clearAllBtn = document.getElementById('clearAllBtn');
+  
+  function clearAllFilters() {
+    filters.nameLetter = null;
+    filters.country    = null;
+    filters.type       = null;
+    filters.genre      = null;
+  
+    activePrimary = null;
+  
+    // Optional: also clear the text search and dropdown.
+    // if (searchEl) searchEl.value = "";
+    // if (selectEl) selectEl.value = "__ALL__";
+  
+    renderPrimary();
+    renderSecondary();
+    applyFiltersAndRender(true);
+  }
+  
+  if (clearAllBtn) {
+    clearAllBtn.addEventListener('click', clearAllFilters);
+  }
+  
+  })();
+  </script>
+  
+  <style>
+  /* grid tiles */
+  #results { 
+  display:grid; 
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); 
+  gap: 1rem; 
+  padding:0; margin:0; 
+  }
+  .stakeholder-tile { list-style:none; }
+  .tile-link { 
+  display:flex; flex-direction:column; gap:.5rem; 
+  text-decoration:none; border:1px solid #ddd; border-radius:10px; 
+  padding:.75rem; background:#fff; 
+  transition:transform .08s ease, box-shadow .08s ease, border-color .08s ease;
+  }
+  .tile-link:hover { 
+  transform: translateY(-1px); 
+  box-shadow:0 4px 12px rgba(0,0,0,0.08); 
+  border-color:#c5c5c5;
+  }
+  .tile-image { width:100%; aspect-ratio: 4 / 3; overflow:hidden; border-radius:8px; background:#f2f2f2; display:flex; align-items:center; justify-content:center; }
+  .tile-image img { width:100%; height:100%; object-fit:cover; display:block; }
+  .tile-placeholder { width:40%; height:40%; border-radius:6px; background:#e2e2e2; }
+  .tile-name { font-weight:700; color:#111; line-height:1.2; }
+  
+  /* facet bars */
+  .facet-primary, .facet-secondary { margin: 0.35rem 0 0.5rem; }
+  .facet-title { font-size: 0.9rem; opacity: 0.8; margin: 0 0 0.25rem; }
+  .facet-row {
+  display: flex; gap: 0.5rem; overflow-x: auto; padding: 0.25rem 0.25rem 0.25rem 0;
+  scrollbar-width: thin;
+  }
+  .chip {
+  display: inline-flex; align-items: center; gap: 0.25rem;
+  border: 1px solid #ccc; border-radius: 999px; padding: 0.35rem 0.7rem;
+  font-size: 0.9rem; cursor: pointer; white-space: nowrap; user-select: none;
+  background: #fff;
+  }
+  .chip.active { border-color: #111; background: #111; color: #fff; }
+  .chip[disabled] { opacity: 0.5; cursor: not-allowed; }
+  
+  /* primary chips */
+  .chip-primary { font-weight: 600; }
+  .chip-dot {
+  display:inline-block; width:6px; height:6px; border-radius:999px; background:#111; margin-left:6px;
+  }
+  
+  /* secondary wrapper */
+  .facet-secondary-section { }
+  .facet-controls { display:flex; gap:0.5rem; margin-top:0.25rem; }
+  .facet-clear {
+  font-size: 0.8rem; border: none; background: transparent; text-decoration: underline; cursor: pointer;
+  }
+  
+  .facet-primary-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.35rem 0 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  }
+  
+  .facet-primary {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  }
+  
+  .btn-clear-all {
+  border: 1px solid #b91c1c;
+  background: #dc2626;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 0.45rem 0.9rem;
+  cursor: pointer;
+  white-space: nowrap;
+  }
+  .btn-clear-all:hover { background: #b91c1c; }
+  .btn-clear-all:active { transform: translateY(1px); }
+  
+  /* pagination */
+  .pagination {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  justify-content: center;
+  align-items: center;
+  margin: 1.25rem 0 0;
+  }
+  
+  .page-btn {
+  border: 1px solid #d4d4d4;
+  background: #fff;
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  min-width: 2rem;
+  }
+  .page-btn.active {
+  background: #111;
+  border-color: #111;
+  color: #fff;
+  font-weight: 600;
+  }
+  .page-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+  }
+  
+  .page-ellipsis {
+  font-size: 0.9rem;
+  padding: 0 0.25rem;
+  }
+  
+  
+  /******Slide In******/
+  .hide {
+      opacity: 0;
+    }
+    body {
+      font-family: "Proxima Nova", "Montserrat", "Arial", sans-serif;
+    }
+    .slideIn_Mobile {
+      opacity: 1;
+      -webkit-animation: slideIn_Mobile 0.5s;
+              animation: slideIn_Mobile 0.5s;
+    }
+    @-webkit-keyframes slideIn_Mobile {
+      0% {
+        opacity: 0.5;
+        transform: scale(0.6);
+      }
+      55% {
+        transform: scale(1.03);
+      }
+      75% {
+        transform: scale(0.98);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+    @keyframes slideIn_Mobile {
+      0% {
+        opacity: 0.5;
+        transform: scale(0.6);
+      }
+      55% {
+        transform: scale(1.03);
+      }
+      75% {
+        transform: scale(0.98);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+    /****************/
+    body {
+      overflow-x: hidden;
+      margin: 0;
+      padding: 0;
+      -webkit-backface-visibility: hidden;
+              backface-visibility: hidden;
+      perspective: 1000;
+    }
+    .page_title {
+        text-align: center;
+    }
+    
+    .content {
+      position: relative;
+      ont-family: "Roboto", "Montserrat", "Arial", sans-serif;
+      width: 100%;
+      height: auto;
+      text-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
+      z-index: 99;
+      -webkit-backface-visibility: hidden;
+      background: linear-gradient(90deg, #f3f3f3 0%, #dae5df 100%);
+      padding-bottom: 20px;
+    }
+    .content h1 {
+      font-size: 58px;
+      text-align: center;
+      color: #fff;
+      text-shadow: 0 3px 0 #bbb, 0 1px 0 #bbb, 0 2px 0 #bbb, 0 3px 5px rgba(0, 0, 0, 0.5);
+    }
+    .content .logo {
+      display: block;
+      position: relative;
+      max-width: 265px;
+      max-height: 265px;
+      border-radius: 300px;
+      border: solid 8px #fff;
+      margin: 20px auto 0 auto;
+      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.08), inset 0 4px 12px rgba(0, 0, 0, 0.05);
+      z-index: 0;
+      background-size: 112%;
+    }
+    .content .quote {
+      opacity: 1;
+    }
+    .content .quote p {
+      position: relative;
+      width: 70%;
+      height: auto;
+      margin: 0 auto;
+      top: -10px;
+      color: #fff;
+      font-size: 38px;
+      text-align: center;
+      text-shadow: 0 3px 0 #dadada, 0 1px 0 #dadada, 0 2px 0 #dadada, 0 3px 5px rgba(0, 0, 0, 0.5);
+    }
+    .content .timeline:before {
+      content: '';
+      position: absolute;
+      height: 100%;
+      width: 6px;
+      margin-left: auto;
+      margin-right: auto;
+      left: 0;
+      right: 0;
+      background: #fff;
+      z-index: -100;
+    }
+    .content .timeline {
+      position: relative;
+      width: 98%;
+      height: auto;
+      margin: 0 auto auto auto;
+    }
+    .content .block {
+      display: inline-block;
+      position: relative;
+      width: 100%;
+      height: auto;
+      margin: 25px auto 25px auto;
+      padding: 0;
+      -webkit-backface-visibility: hidden;
+              backface-visibility: hidden;
+      perspective: 1000;
+      text-align: center;
+    }
+    .content .block hr {
+      width: 90%;
+      height: 1px;
+      margin: -10px auto 20px auto;
+      border: 0;
+    }
+    .content .block h1,
+    .content .block h4 {
+      width: 90%;
+      margin: 22px auto;
+      color: #10316b;
+      font-size: 28px;
+      text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    }
+    .content .block h4 {
+      font-size: 17px;
+    }
+    .content .block p {
+      width: 85%;
+      height: auto;
+      margin: 0 auto;
+      color: #030303;
+      font-size: 14px;
+    }
+    
+    /**** AUTHOR PAGE****/
+    .acreadmore a{
+      display: block;
+      width: 120px;
+      height: 36px;
+      margin: 5px auto 20px auto;
+      padding: 0 10px 0 10px;
+      text-align: center;
+      text-decoration: none;
+      text-shadow: 0 0 2px rgba(0, 0, 0, 0.25);
+      color: #fff;
+      font-size: 18px;
+      line-height: 36px;
+      border-radius: 6px;
+      background: #10316b;
+    }
+    
+    .aclocation a {
+        background: #fff !important;
+        font-weight: 600 !important;
+    }
+    
+      .dlocresources a {
+        background: #10316b;
+        text-decoration: none;
+        color: #fff;
+        padding: 10px;
+        border-radius: 6px;
+    }
+    
+    .dlocresources {
+      margin: 10px auto 20px auto;
+    }
+    
+    /************/
+    
+    .content .block a:hover {
+      background: #216b4d;
+    }
+    .content .block a:active {
+      background: #216b4d;
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.15);
+    }
+    .content .block .dot {
+      display: block;
+      width: 16px;
+      height: 16px;
+      position: absolute;
+      margin-left: auto;
+      margin-right: auto;
+      left: 0;
+      right: 0;
+      margin-top: 25px;
+      background-color: #216b4d;
+      border: solid 5px #fff;
+      border-radius: 100px;
+      z-index: 300;
+    }
+    .content .block .left,
+    .content .block .right {
+      display: block;
+      position: relative;
+      width: 45%;
+      height: auto;
+      -webkit-backface-visibility: hidden;
+              backface-visibility: hidden;
+      perspective: 1000;
+      background: #fff;
+      border-radius: 7px;
+      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.08);
+      z-index: 2;
+    }
+    .content .block .left.first {
+      margin-left: 0;
+    }
+    .content .block .left::before {
+      content: "";
+      position: absolute;
+      width: 0;
+      height: 0;
+      top: 23px;
+      left: 100%;
+      border-width: 15px;
+      border-style: solid;
+      border-color: transparent transparent transparent #ffffff;
+    }
+    .content .block .right::before {
+      content: "";
+      position: absolute;
+      width: 0;
+      height: 0;
+      top: 23px;
+      right: 100%;
+      border-width: 15px;
+      border-style: solid;
+      border-color: transparent #ffffff transparent transparent;
+    }
+    .content .block .left {
+      float: left;
+    }
+    .content .block .right {
+      float: right;
+    }
+    .content .block .date {
+      display: block;
+      position: relative;
+      width: 45%;
+      height: 78px;
+      z-index: 1;
+    }
+    .content .block .date p {
+      margin: 0;
+      width: 150px;
+      height: 58px;
+      padding: 10px 25px 10px 25px;
+      line-height: 58px;
+      color: #030303;
+      text-align: center;
+      font-weight: bold;
+      border-radius: 7px;
+      background-color: #fff;
+      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.08);
+    }
+    .content .block .date p.right {
+      float: left;
+      margin-left: 0;
+      width: auto;
+    }
+    .content .block .date p.left {
+      float: right;
+      margin-left: 0;
+      width: auto;
+    }
+    .content .block .date.right,
+    .content .block .date.left {
+      background: none;
+      box-shadow: none;
+    }
+    .content #footer {
+      position: relative;
+      width: 180px;
+      min-height: 25px;
+      margin: 0 auto;
+      border-radius: 17px;
+      box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+      background-color: #fff;
+      z-index: 1000;
+    }
+    ::-moz-selection {
+      background: #216b4d;
+      color: #fff;
+    }
+    ::selection {
+      background: #216b4d;
+      color: #fff;
+    }
+    @media only screen and (max-width: 1136px) {
+      .content .timeline .block {
+        margin: 50px auto 50px auto;
+      }
+      .content .timeline .block h1 {
+        margin: 35px auto 15px auto;
+      }
+      .content .timeline .block .dot {
+        margin-top: -14px;
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+      }
+      .content .timeline .block .right,
+      .content .timeline .block .left {
+        width: 100%;
+        margin-top: 18px;
+      }
+      .content .timeline .block .right:before,
+      .content .timeline .block .left:before {
+        content: none;
+      }
+      .content .timeline .block .date {
+        height: 50px;
+        margin: 0 auto;
+      }
+      .content .timeline .block .date p {
+        float: none;
+        width: 250px;
+        margin: 0 auto;
+        border-radius: 10px;
+      }
+    }
+    #copyright {
+      font-size: 16px;
+      color: #10316b;
+      margin: 1px;
+      line-height: 40px;
+      text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+      width: 180px;
+      text-align: center;
+    }
+    #copyright a {
+      text-decoration: none;
+      color: #10316b;
+      transition: all ease-in-out 0.35s;
+    }
+    #copyright a:hover {
+      color: #6e89a5;
+    }
+    
+    /* Custom */
+    
+    div.right p img, div.left p img {
+        width: inherit;
+        max-width: 250px;
+        max-height: 400px;
+    }
+    
+    
+    /****MEDIA****/
+    
+    @media screen and (min-width: 300px) {
+      .content h1 {
+          margin-top: 60px;
+      }
+    }
+    
+    @media screen and (min-width: 600px) {
+      .content h1 {
+          margin-top: 56px;
+      }
+    }
+    
+    @media screen and (min-width: 767px) {
+      .content h1 {
+          margin-top: 42px;
+      }
+    }
+    
+    @media screen and (min-width: 850px) {
+      .content h1 {
+          margin-top: 45px;
+      }
+    }
+    
+    @media screen and (min-width: 1000px) {
+      .content h1 {
+          margin-top: 44px;
+      }
+    }
+    
+    @media screen and (min-width: 1600px) {
+    
+      .content h1 {
+          margin-top: 44px;
+      }
+      
+    
+    }
+    
+    /*********/
+    
+  
+  
+  </style>
+  

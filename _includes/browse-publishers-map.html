@@ -105,6 +105,7 @@ function mapIcon(url){
       // Build a combined popup for matching books
       let popupContent = `<h5 id="${publisher}" class="publisherTitle">${publisher}</h5>`;
       popupContent += `
+      <span>Scroll To The Left To View More &raquo;&raquo;&raquo;&raquo;</span>
       <div class="d-flex">`;
 
       matchingBooks.forEach(function (book) {
@@ -115,7 +116,7 @@ function mapIcon(url){
             </div>
             <div class="publicationData">
               <p>${book.properties.Title}</p>
-              <a href="{{site.baseurl}}/authors/${book.properties.authorid}/"><p>${book.properties.Author}</p></a>
+              <a href="{{site.baseurl}}/profile/?id=${encodeURIComponent(book.properties.authorid)}"><p>${book.properties.Author}</p></a>
               <a href="{{site.baseurl}}/${book.properties.Genre}/"><p>${book.properties.Genre}</p></a>
               <p>${book.properties.Pubdate}</p>
               <a href="{{site.baseurl}}/${book.properties.Language}/"><p>${book.properties.Language}</p></a>

@@ -33,7 +33,6 @@
 
 {% for country in site.data.country %}
 {% if page.title == country["Country"] %}
-
     <div class="worldAtlasMap" style="position: sticky; top: 70px;">
     <span class="country"><h2>{{country["Country"]}}</h2></span>
   <div class="photo-co">
@@ -62,7 +61,7 @@
     
     <div class="col-sm-9">
       <div class="country_authorinfo">
-     <a href="{{site.baseurl}}/authors/{{authorData[0]}}"><h4>{{authorData[1]['Author']}}</h4></a>
+     <a href="{{site.baseurl}}/profile/?id={{authorData[0]}}"><h4>{{authorData[1]['Author']}}</h4></a>
      <h5>Lifespan: {{authorData[1]['Lifespan']}}</h5>
      </div>
     </div> 
