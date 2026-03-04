@@ -1,6 +1,6 @@
 ---
 layout: pagedefault
-title: "Language"
+title: "Languages"
 permalink: /languages/
 ---
 
