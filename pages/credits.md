@@ -12,7 +12,7 @@ This project has truly been the embodiment of collaboration, Digital Humanities(
 
 <div class="credits_esprits">
 <h5>Project Lead </h5>
-<img src='{{ site.baseurl }}/assets/img/skesprit.jpg' width="40%"/><br>
+<img  class="rounded-circle"  src='{{ site.baseurl }}/assets/img/skesprit.jpg' width="40%"/><br>
 <a href="https://schuyleresprit.com/esprit/" target="_blank">Dr. Schuyler Esprit </a> <br>
 Director, <a href="https://en.wikipedia.org/wiki/Pedagogy" target="_blank">Create Caribbean Research Institute</a>
 </div>
@@ -24,14 +24,14 @@ Director, <a href="https://en.wikipedia.org/wiki/Pedagogy" target="_blank">Creat
 <h5>Research</h5>
 <div class="row">
 <div class="col-sm-4">
-<img src='{{ site.baseurl }}/assets/img/JaelleEdmund.jpg' width="100%"/><br>
+<img class="rounded-circle"  src='{{ site.baseurl }}/assets/img/JaelleEdmund.jpg' width="100%"/><br>
 Jaelle Edmund 
 <br>
 Research Assistant, Create Caribbean Research Institute <br> <br>
 </div>
 
 <div class="col-sm-4">
-<img src='{{ site.baseurl }}/assets/img/ElleenCommadore.png' width="100%"/><br>
+<img class="rounded-circle"  src='{{ site.baseurl }}/assets/img/ElleenCommadore.png' width="100%"/><br>
 <a href="https://createcaribbean.org/create/elleen-commodore/" target="_blank">Elleen Commodore </a>
 <br>
 Research Assistant, Create Caribbean Research Institute <br> <br>
@@ -39,6 +39,7 @@ Research Assistant, Create Caribbean Research Institute <br> <br>
 
 <div class="col-sm-4">
 Dylan Gilbert
+<img class="rounded-circle"  src='{{ site.baseurl }}/assets/img/unknown_person.jpg' width="100%"/>
 <br>
 Graduate Fellow, Create Caribbean Research Institute
 <br>
@@ -53,7 +54,7 @@ MFA student, Creative Writing, Columbia University <br> <br>
 
 <div class="row">
 <div class="col-sm-4">
-<img src='{{ site.baseurl }}/assets/img/ZamarThomas.png' width="100%"/><br>
+<img class="rounded-circle"  src='{{ site.baseurl }}/assets/img/unknown_person.jpg' width="100%"/><br>
 <a href="https://createcaribbean.org/create/zamar-thomas/" target="_blank">Zamar Thomas </a>
 <br>
 Programmer and Technology Specialist, Create Caribbean Research Institute
@@ -62,14 +63,14 @@ Programmer and Technology Specialist, Create Caribbean Research Institute
 </div>
 
 <div class="col-sm-4">
-<img src='{{ site.baseurl }}/assets/img/JoshBazil.jpg' width="100%"/><br>
+<img  class="rounded-circle" src='{{ site.baseurl }}/assets/img/JoshBazil.jpg' width="100%"/><br>
 Josh Bazil
 <br>
 2017-2019 alum, Create Caribbean Research Institute <br> <br>
 </div>
 
 <div class="col-sm-4">
-<img src='{{ site.baseurl }}/assets/img/AlexGil.jpg' width="100%"/><br>
+<img class="rounded-circle"  src='{{ site.baseurl }}/assets/img/AlexGil.jpg' width="100%"/><br>
 Alex Gil
 <br>
 CDSC Co-PI <br> <br>
@@ -83,7 +84,7 @@ CDSC Co-PI <br> <br>
 <div class="row">
 <div class="col-sm-3">
 
-<img src='{{ site.baseurl }}/assets/img/KailaGuiste.png' width="100%"/><br>
+<img class="rounded-circle"  src='{{ site.baseurl }}/assets/img/KailaGuiste.png' width="100%"/><br>
 <a href="https://createcaribbean.org/create/kaila-ann-guiste/" target="_blank">Kaila-Ann Guiste </a>
 <br>
 Communications Assistant, Create Caribbean Research Institute
@@ -92,21 +93,21 @@ Communications Assistant, Create Caribbean Research Institute
 </div>
 
 <div class="col-sm-3">
-<img src='{{ site.baseurl }}/assets/img/HermanciaZamore.png' width="100%"/><br>
+<img class="rounded-circle"  src='{{ site.baseurl }}/assets/img/unknown_person.jpg' width="100%"/><br>
 <a href="https://createcaribbean.org/create/hermancia-eugene-phd/" target="_blank">Dr. Hermancia Eugene-Zamore</a>
 <br>
 Intern Coordinator, Create Caribbean Research Institute<br> <br>
 </div>
 
 <div class="col-sm-3">
-<img src='{{ site.baseurl }}/assets/img/DavitiaJames.png' width="100%"/><br>
+<img class="rounded-circle"  src='{{ site.baseurl }}/assets/img/unknown_person.jpg' width="100%"/><br>
 <a href="https://createcaribbean.org/create/davitia-james/" target="_blank">Davitia James</a>
 <br>
 Programs Officer, Create Caribbean Research Institute<br> <br>
 </div>
 
 <div class="col-sm-3">
-<img src='{{ site.baseurl }}/assets/img/YuanneStowe.png' width="100%"/><br>
+<img class="rounded-circle" src='{{ site.baseurl }}/assets/img/unknown_person.jpg' width="100%"/><br>
 <a href="https://createcaribbean.org/create/yuanne-stowe/" target="_blank">Yuanne Stowe </a>
 <br>
 Project Manager, CDSC, Create Caribbean Research Institute <br> <br>

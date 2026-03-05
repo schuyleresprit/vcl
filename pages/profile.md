@@ -254,9 +254,9 @@ case "video" :
 dlocCollapse.innerHTML += `
 <h1>${details.resource_title}</h1>
  <video class="w-75 h-75" controls >
-            <source src="${details.resource_url}">
+            <source src="${details.resource_sample_url}">
         </video>
- <a href="${details.resource_source_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
+ <a href="${details.resource_full_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
 <hr />
 `;
 break;
@@ -264,42 +264,42 @@ case "audio" :
   dlocCollapse.innerHTML += `
 <h1>${details.resource_title}</h1>
   <audio controls>
-            <source src="${details.resource_url}">
+            <source src="${details.resource_sample_url}">
         </audio>
- <a href="${details.resource_source_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
+ <a href="${details.resource_full_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
 <hr />
 `;
 break;
 case "image":
    dlocCollapse.innerHTML += `
   <h1>${details.resource_title}</h1>
-  <div id="publicationImageContainer">
-  <img class="bookphoto" src="${details.resource_url}" />
+  <div>
+  <img src="${details.resource_sample_url}" />
 </div>
- <a href="${details.resource_source_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
+ <a href="${details.resource_full_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
 <hr />
 `;
 break;
 case "pdf":
      dlocCollapse.innerHTML += `
   <h1>${details.resource_title}</h1>
-<a href="${details.resource_source_url}" target="_blank"><p>View PDF Resource Courtsey of dLOC</p></a>
+<a href="${details.resource_full_url}" target="_blank"><p>View PDF Resource Courtsey of dLOC</p></a>
 <hr />
 `;
 break;
 case "website":
        dlocCollapse.innerHTML += `
   <h1>${details.resource_title}</h1>
-  <iframe width="100%" height="50%" src="${details.resource_url}"></iframe>
-<a href="${details.resource_source_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
+  <iframe width="100%" height="50%" src="${details.resource_sample_url}"></iframe>
+<a href="${details.resource_full_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
 <hr />
 `;
 break;
 case "embed":
          dlocCollapse.innerHTML += `
   <h1>${details.resource_title}</h1>
-  ${details.resource_url}
-<a href="${details.resource_source_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
+  ${details.resource_sample_url}
+<a href="${details.resource_full_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
 <hr />
 `;
 break;
