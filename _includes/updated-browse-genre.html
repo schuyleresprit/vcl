@@ -366,7 +366,22 @@ function render(list) {
   const frag = document.createDocumentFragment();
   list.forEach(row => {
     const name = row.name || row.title || "(No Name)";
-    const img  = row.image_url || row.image || "{{site.baseurl}}/bookphotos/" + row.authorid + "/" + row.bookimgid + ".jpg" || "/assets/img/unknown_person.jpg";
+
+    let img = "";
+
+    if(row.image_url) {
+
+     img = row.image_url;
+    }
+    else if(row.image) {
+      img = row.image;
+    }
+    else if (row.authorid) {
+      img= "{{site.baseurl}}/bookphotos/" + row.authorid + "/" + row.bookimgid + ".jpg" ;
+
+    }
+    else { img = "{{site.baseurl}}/assets/img/unknown_person.jpg";}
+
     const href = `{{site.baseurl}}/profile/?id=${encodeURIComponent(row.authorid)}`;
   
     console.log(row.slug);

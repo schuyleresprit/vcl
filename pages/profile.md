@@ -271,18 +271,59 @@ case "audio" :
 `;
 break;
 case "image":
+
+  const image_urls = (details.resource_sample_url || "")
+              .split(";")
+              .map(u => u.trim())
+              .filter(u => u.length > 0);
+
+  let resourceImages = "";
+
+    image_urls.forEach(image_url => {
+
+      resourceImages += 
+      `
+      <img class="rounded-25" src="${image_url}" width="75%" height="75%"  />
+      <br>
+      `
+
+    });
+
    dlocCollapse.innerHTML += `
   <h1>${details.resource_title}</h1>
-  <div>
-  <img src="${details.resource_sample_url}" />
+  <div class="d-flex" style="overflow-y: scroll;">
+    ${resourceImages}
 </div>
  <a href="${details.resource_full_url}" target="_blank"><p>View Resource Courtsey of dLOC</p></a>
 <hr />
 `;
 break;
 case "pdf":
-     dlocCollapse.innerHTML += `
+
+const pdf_urls = (details.resource_sample_url || "")
+              .split(";")
+              .map(u => u.trim())
+              .filter(u => u.length > 0);
+
+  let resourcePdf = "";
+
+    pdf_urls.forEach(pdf_url => {
+
+      const pdfPath = `{{site.baseurl}}/dloc/${details.authorid}/${details.resource_id}/${pdf_url}`;
+
+      resourcePdf += 
+      `
+      <img class="rounded-25" src="${pdfPath}" width="75%" height="75%" />
+      <br>
+      `
+
+    });
+
+    dlocCollapse.innerHTML += `
   <h1>${details.resource_title}</h1>
+  <div class="d-flex" style="overflow-y: scroll;">
+  ${resourcePdf}
+  </div>
 <a href="${details.resource_full_url}" target="_blank"><p>View PDF Resource Courtsey of dLOC</p></a>
 <hr />
 `;
