@@ -17,7 +17,15 @@ Author profiles generally include new editions, translations and significant rep
 
 ###### Directions
 
-Clicking on Read More would lead you to the author's profile.Clicking below.
+Clicking on author's image will take you to their profiles.
+
+You can search and filter our growing authors dataset. By typing into the search bar below. Or by creating a filter by first letter of their first name by clicking on the "name"  button and then selecting the search letter. You can also filter by country and then selecting your desired country.
+
+The name and country sorting buttons can have one selected value at a time. But you can combine these filters to sort by country then by first name or vice versa.Selecting either button will turn it black to indicate that is active.
+
+You can clear your filter by pressing the red "clear all filters" button below. Or by repressing your selection once again.
+
+
 
 <div class="authors">
 {% include updated-browse-authors.html %}

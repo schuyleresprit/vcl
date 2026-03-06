@@ -4,6 +4,16 @@
   <label for="searchField">Search:</label>
   <input id="searchField" type="search" placeholder="Type to filter…" style="flex:1; padding:0.5rem;">
 -->
+<div>
+  <h6>Directions:</h6>
+  <p>Clicking on author's name will take you to their profiles.
+
+    You can search and filter our growing authors dataset. By typing into the search bar below. Or by creating a filter by first letter of their first name by clicking on the "name"  button and then selecting the search letter. You can also filter by country and then selecting your desired country.
+    
+    The name and country sorting buttons can have one selected value at a time. But you can combine these filters to sort by country then by first name or vice versa.Selecting either button will turn it black to indicate that is active.
+    
+    You can clear your filter by pressing the red "clear all filters" button below. Or by repressing your selection once again.</p>
+</div>
 <div class="mb-3 search-bar">
     <label for="searchField" class="form-label w-50">Search</label>
     <input type="search" class="form-control" id="searchField" placeholder="Search database ...">
@@ -29,9 +39,9 @@
 
 
 
-  <ul id="results" style="list-style:none; padding:0; margin:0;">
-   <!-- results go here -->
-  </ul>
+  <div id="results" class="row g-4">
+    <!-- results go here -->
+    </div>
 
   <!-- Pagination bar -->
   <div id="pagination" class="pagination"></div>
@@ -347,41 +357,46 @@
 
   // Render: grid (one page slice)
   function render(list) {
-    resultsEl.innerHTML = "";
-    if (!list.length) {
-      resultsEl.innerHTML = `<li class="stakeholder-card">No results.</li>`;
-      return;
-    }
-  
-    const frag = document.createDocumentFragment();
-    list.forEach(row => {
-      const name = row.name || row.title || "(No Name)";
-      const img  = row.image_url || row.image || "{{site.baseurl}}/bookphotos/" + row.authorid + "/" + row.bookimgid + ".jpg" ||"{{site.baseurl}}/assets/img/unknown_book.jpg";
-      const idSlug = slugify(row.author);
-      const href = `{{site.baseurl}}/profile/?id=${encodeURIComponent(row.authorid)}`;
-    
-      
-    
-      const li = document.createElement("li");
-      li.className = "stakeholder-tile";
-      li.innerHTML = ` 
-        <div class="card">
-        <div class="card-body">
-          <img class="img-fluid" src="${img}" />
-            <h6 class="card-title text-truncate" title="${row.title}">${row.title}</h6>
-            <div>
-              <a href="{{site.baseurl}}/${encodeURIComponent(row.genre)}" class="card-link">${row.genre}</a>
-               <span class="card-subtitle">${row.translation}</span>
-              </div>
-             <a href="${href}" class="card-link" aria-label="Author ${name}"><p class="card-subtitle">${name}</p>
-            
-        </div>
-    </div>
-      `;
-      frag.appendChild(li);
-    });
-    resultsEl.appendChild(frag);
+  resultsEl.innerHTML = "";
+  if (!list.length) {
+    resultsEl.innerHTML = `<div><p>No results.</p></div>`;
+    return;
   }
+
+  const frag = document.createDocumentFragment();
+  list.forEach(row => {
+    const name = row.name || row.title || "(No Name)";
+    const img  = row.image_url || row.image || "{{site.baseurl}}/bookphotos/" + row.authorid + "/" + row.bookimgid + ".jpg" || "/assets/img/unknown_person.jpg";
+    const href = `{{site.baseurl}}/profile/?id=${encodeURIComponent(row.authorid)}`;
+  
+    console.log(row.slug);
+
+  
+    const col = document.createElement("div");
+    col.className = "col-12 col-sm-6 col-md-4 col-lg-3";
+    col.innerHTML = `
+    
+
+   
+    <div class="card h-100 shadow-sm browseMenuCard">
+      
+       <h6 class="card-title text-truncate" title="${row.title}">${row.title}</h6>
+       <img src="${img}" class="rounded-75" />
+          <div class="container">
+            <a href="{{site.baseurl}}/${encodeURIComponent(row.genre)}" class="card-link">${row.genre}</a>
+            <span class="card-subtitle">${row.translation}</span>
+            </div>
+             </br>
+           <a href="${href}" class="card-subtitle" aria-label="Author ${row.authorid}" title="Author ${row.authorid}">${row.author}</a>
+          
+    </div> 
+    </div>
+
+    `;
+    frag.appendChild(col);
+  });
+  resultsEl.appendChild(frag);
+}
 
 
 
@@ -557,12 +572,6 @@
   
   <style>
   /* grid tiles */
-  #results { 
-  display:grid; 
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); 
-  gap: 1rem; 
-  padding:0; margin:0; 
-  }
   .stakeholder-tile { list-style:none; }
   .tile-link { 
   display:flex; flex-direction:column; gap:.5rem; 
