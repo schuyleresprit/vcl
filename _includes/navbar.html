@@ -9,6 +9,13 @@
 <body>
     
 <div class="mainmenu">
+    <button
+    class="mobile-menu-button"
+    type="button"
+    onclick="openNav()"
+    aria-label="Open navigation menu">
+    &#9776;
+    </button>
 <div class="topnavbar">
     <nav class="navbar-0  navbar-expand-lg navbar-dark bg-dark">
             <ul class="topbar navbar-nav me-auto mb-2 mb-lg-0">
@@ -37,6 +44,7 @@
     </nav>        
 </div>
 
+
 <div class="bottomnavbar"></div>
 <!--<div class="mainlogo">
     <a href="https://createcaribbean.org/create/" target="_blank">
@@ -54,7 +62,41 @@
             </ul>  
         </nav>              
 </div>  
-</div>        
+
+</div>   
+
+
+<div id="mySidenav" class="sidenav">
+
+    <button class="closebtn" type="button" onclick="closeNav()" aria-label="Close menu">
+        &times;
+    </button>
+
+    <a href="{% link pages/studentprojects.md %}">Student Projects</a>
+
+    <div class="mobile-dropdown">
+        <button type="button" onclick="toggleMobileDropdown()">
+            Putting it Together &#9662;
+        </button>
+
+        <div id="mobileDropdownLinks">
+            <a href="{% link pages/process.md %}">Process</a>
+            <a href="{% link pages/assessment.md %}">Assessment</a>
+            <a href="{% link pages/reflections.md %}">Reflections</a>
+        </div>
+    </div>
+
+    <a href="{% link pages/credits.md %}">Credits</a>
+    <a href="{% link pages/contact.md %}">Contact Us</a>
+
+    <a href="{% link pages/home.md %}">Home</a>
+    <a href="{% link pages/authors.md %}">Authors</a>
+    <a href="{% link pages/countries.md %}">Countries</a>
+    <a href="{% link pages/languages.md %}">Languages</a>
+    <a href="{% link pages/genres.md %}">Genres</a>
+    <a href="{{ site.baseurl }}/publishers/">Publishers</a>
+
+</div>
 
      <!--  </div>
 
@@ -132,15 +174,24 @@
         }
     }
     
-    function openNav() {
-      document.getElementById("mySidenav").style.width = "250px";
-      document.getElementById("main").style.marginLeft = "250px";
-    }
-    
-    function closeNav() {
-      document.getElementById("mySidenav").style.width = "0";
-      document.getElementById("main").style.marginLeft= "0";
-    }
+  
+function openNav() {
+    document.getElementById("mySidenav").style.width = "280px";
+}
+
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
+
+function toggleMobileDropdown() {
+    const links = document.getElementById("mobileDropdownLinks");
+
+    links.style.display =
+        links.style.display === "block" ? "none" : "block";
+}
+
+
+
     </script>
         </div>
         </div>
